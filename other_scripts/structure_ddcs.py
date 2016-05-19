@@ -40,6 +40,28 @@ for dirpath, dirs, files in os.walk('../TUB'):
     for filename in fnmatch.filter(files, '*.xml'):
         with open('../TUB/'+filename, 'r') as openfile:
             content = openfile.read()
+            lang_r = re.search('<dc:language>(.*)</dc:language>', content)
+            if lang_r:
+                lang = lang_r.group(1)
+
+            foldername = '../DDCs/' + lang + '_temp/'
+
+            if not os.path.exists(os.path.dirname(foldername)):
+                try:
+                    os.makedirs(os.path.dirname(foldername))
+                except OSError as exc:  # Guard against race condition
+                    if exc.errno != errno.EEXIST:
+                        raise
+
+            newfilename = lang + '_' + filename
+            with open(foldername + newfilename, 'w') as newfile:
+                newfile.write(content)
+
+
+for dirpath, dirs, files in os.walk('../DDCs/'):
+    for filename in fnmatch.filter(files, '*.xml'):
+        with open(dirpath + '/' + filename, 'r') as openfile:
+            content = openfile.read()
             ddc_r = re.search('<dc:subject>ddc:(.*)</dc:subject>', content)
             if ddc_r:
                 ddc = ddc_r.group(1)
@@ -50,7 +72,7 @@ for dirpath, dirs, files in os.walk('../TUB'):
                 else:
                     pass
 
-                foldername = '../DDCs/' + ddc + '/'
+                foldername = dirpath[:-5] + '/' + ddc + '/'
 
                 if not os.path.exists(os.path.dirname(foldername)):
                     try:
@@ -59,18 +81,13 @@ for dirpath, dirs, files in os.walk('../TUB'):
                         if exc.errno != errno.EEXIST:
                             raise
 
-            lang_r = re.search('<dc:language>(.*)</dc:language>', content)
-            if lang_r:
-                lang = lang_r.group(1)
-                if lang == 'deutsch':
-                    lang = 'deu'
-                elif lang == 'english' or 'englisch':
-                    lang = 'eng'
-                else:
-                    pass
+            with open(foldername + filename, 'w') as newfile:
+                newfile.write(content)
 
-                newfilename = lang + '_' + filename
-                with open(foldername + newfilename, 'w') as newfile:
-                    newfile.write(content)
 
 shutil.rmtree('../TUB')
+shutil.rmtree('../DDCs/deu_temp')
+shutil.rmtree('../DDCs/eng_temp')
+shutil.rmtree('../DDCs/fra_temp')
+shutil.rmtree('../DDCs/mul_temp')
+shutil.rmtree('../DDCs/spa_temp')
