@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1314">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1314</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Public Key Infrastrukturen in Agentenarchitekturen zur Realisierung dienstbasierter Anwendungen</dc:title>
+          <dc:title xml:lang="eng">Public key infrastructures in agent architectures for realizing service-based applications</dc:title>
+          <dc:creator>Bsufka, Karsten</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Agentenorientierte Technologien versprechen, dass sie sehr gut zur Realisierung verteilter und dienstbasierter Anwendungen geeignet seien. Dieses Versprechen kann aber nur eingelöst werden, wenn Vorteile gegenüber anderen Technologien existieren und es ermöglicht wird, Anwendungen zu realisieren, die angemessen auf Sicherheitsrisiken reagieren können. Dies bedeutet, dass ein Framework zur Realisierung agentenbasierter Anwendungen (Agentenarchitekturen) Sicherheitsmechanismen bieten muss, mit denen auf Sicherheitsrisiken in agentenbasierten Anwendungen reagiert werden kann. Einerseits müssen diese Sicherheitsmechanismen direkt verwendet werden können um ein Schutzziel zu erreichen. Andererseits müssen sie aber auch als Grundlage für eigene Schutzmaßnahmen genutzt werden können, wenn sie allein nicht passend für anwendungsspezifische Sicherheitsrisiken und Schutzziele sind. Dies genügt jedoch noch nicht, damit sich Agentenarchitekturen vorteilhaft von existierenden Programmiersprachen und Bibliotheken unterscheiden. Die Möglichkeiten und Eigenschaften eines Agentensystems müssen auch von den Sicherheitsmechanismen verwendet werden und durch diese Nutzung muss ein Mehrwert entstehen. Am Beispiel der Integration von Public Key Infrastruktur (PKI) Mechanismen in eine konkrete Agentenarchitektur wird im Detail aufgezeigt, wie Sicherheitsmechanismen für Agentenarchitekturen umgesetzt werden können. Bei der vorgestellten Integration wurde gezielt darauf geachtet, die Eigenschaften von Agentensystemen zu verwenden. Weiterhin lag beim Design ein Schwerpunkt darauf, dass die PKI Mechanismen erweiterbar sind und an die konkreten Anforderungen einer Anwendung angepasst werden können. Außerdem wird durch die vorgestellten PKI Mechanismen aufgezeigt, wie die Komplexität der Entwicklung verteilter Anwendungen durch den Einsatz agentenorientierter Technologien beherrschbarer wird.</dc:description>
+          <dc:description xml:lang="eng">Agent –oriented technologies promise, that they are suitable for implementing distributed and service-oriented applications. This promise can only be fulfilled, when agent-oriented technologies offer advantages compared to other technologies and when it is possible to develop applications, that can react adequately to security risks. This means, a framework for developing agent-based application must offer security mechanisms. These security mechanisms must be capable to handle the security risks an agent-based application faces. On the one hand the security mechanisms must be capable of fulfilling a security goal. On the other hand they must also be extendable, so developers can implement mechanisms for reaching application specific security goals. This only describes, what APIs for programming languages are already offering. Security mechanisms in agent architectures should also use the attributes of an agent-bases system and offer an added value when compared to traditional APIs. By using the integration of public key infrastructure (PKI) mechanisms into an agent architecture as an example, it will be shown how security mechanisms for agent architecture can be implemented. The focus of this integration was to use the properties of agent-based system. Also it was important to have extendible design, which should allow application specific extensions. Finally, it will be shown that the development of distributed applications is less complex when agent-based technologies are used.</dc:description>
+          <dc:date>2006-08-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1314</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13536</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13536</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1314/bsufka_karsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

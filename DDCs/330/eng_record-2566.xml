@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2566">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2566</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Economic losses from tropical cyclones in the USA – An assessment of the impact of climate change and socio-economic effects</dc:title>
+          <dc:title xml:lang="deu">Schäden durch tropische Wirbelstürme in den USA - Eine Bewertung des Einflusses von Klimawandel und sozioökonomischen Effekten</dc:title>
+          <dc:creator>Schmidt, Silvio</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">Losses from weather-related natural catastrophes are increasing. The underlying causes of this trend are socio-economic and climate related factors. These are in particular the increase in population and wealth, and also increased settlement in the regions exposed to natural catastrophes and changes in the frequency and intensity of the weather extremes themselves, whether as part of natural climate variability, or as the result of anthropogenic climate change. This thesis provides additional components to reduce the uncertainties surrounding the role of socio-economic and climate-related factors in loss trends. In particular, it focuses on two questions: Is it possible to quantify more precisely the influence that climate change (both anthropogenic and natural) has on the increase in losses already? What losses may be expected in the medium and long term, if we make allowance for both climate-related and socio-economic trends in the future? This thesis confirmed that, the relationship between the trends for losses and anthropogenic greenhouse gas emissions can not yet be clarified in a satisfactory way. But it shows that, more likely than not, anthropogenic climate change is already influencing and will continue to influence losses.</dc:description>
+          <dc:description xml:lang="deu">Die Schäden durch wetterbedingte Naturkatastrophen nehmen zu. Die dieser Entwicklung zugrundeliegenden Ursachen sind soziökonomische und klimabedingte Faktoren. Es sind vor allem die Zunahme der Bevölkerung und des Wohlstandes, die verstärkte Besiedlung der durch Naturgefahren bedrohten Gebiete sowie Veränderungen in der Häufigkeit und der Intensität der Wetterextreme selbst, sei es aufgrund natürlicher Klimavariabilität oder infolge des anthropogenen Klimawandels. Die Dissertation liefert weitere Bausteine, um die Unsicherheiten zu reduzieren, die hinsichtlich der Rolle der sozioökonomischen und klimabedingten Faktoren an der Schadenentwicklung bestehen. Sie orientiert sich dabei an zwei Fragen: Lässt sich der bisherige Einfluss des (anthropogenen wie natürlichen) Klimawandels auf die Zunahme der Schäden quantitativ näher bestimmen? Mit welchen Schäden muss mittel- bis langfristig gerechnet werden, wenn sowohl zukünftige klimabedingte wie sozioökonomische Entwicklungen berücksichtigt werden? Die Arbeit bestätigt, dass es derzeit noch nicht möglich ist, den Zusammenhang zwischen Schäden und anthropogen verursachten Treibhausgasemissionen befriedigend zu klären. Aber sie zeigt auch, dass der anthropogene Klimawandel, eher wahrscheinlich als nicht, bereits einen Einfluss auf die Schäden ausübt und zukünftig ausüben wird.</dc:description>
+          <dc:date>2010-07-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2566</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26812</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26812</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2566/schmidt_silvio.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

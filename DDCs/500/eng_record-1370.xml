@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1370">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1370</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Identification of fungal constituents that determine the sensitivity of fungi towards the antifungal protein (AFP) of Aspergillus giganteus</dc:title>
+          <dc:title xml:lang="deu">Identifizierung von pilzlichen Bestandteilen die über eine Sensitivität von Pilzen gegenüber dem Antifungalprotein (AFP) aus Aspergillus giganteus entscheiden</dc:title>
+          <dc:creator>Hagen, Silke</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">The antifungal protein (AFP) of Aspergillus giganteus is a small, amphipathic and basic polypeptide with antifungal activity against many important plant- and human pathogenic fungi. Interestingly, it exerts no effects on yeast, bacteria or mammalian cell types, making it an attractive agent to combat fungal infection. In the course of this work, it was shown that AFP binds readily to chitin in vitro. The identification of a putative chitin binding domain supports the finding that AFP is a chitin-binding protein. Significantly reduced susceptibilities of class III and class V chitin synthase mutants of AFP-sensitive fungi suggest that these may represent putative AFP targets. In in situ chitin synthase assays it was demonstrated that AFP-sensitive strains respond to AFP with a reduced chitin synthase activity, while chitin synthesis in AFP-resistant strains is increased. From these results is concluded that AFP targets chitin biosynthesis and may trigger the fungal cell wall integrity pathway. A further putative AFP target may be represented by glucosylceramides, as the depletion of these in plasma membranes rendered AFP-sensitive strains significantly less susceptible towards AFP. A model is proposed in which present knowledge about the mode of action of AFP is summarised.</dc:description>
+          <dc:description xml:lang="deu">Das Antifungalprotein (AFP) aus Aspergillus giganteus ist ein kleines, amphipathisches und basische Polypeptid, das antifungale Wirkung gegen eine Vielzahl an pflanzen- und human-pathogenen Pilzen aufweist. Interessanterweise übt es keine Effekte auf Hefen, Bakterien oder Säugetierzellen aus, was es zu einem attraktiven Wirkstoff zur Bekämpfung von Pilzinfektionen macht. In in vitro Experimenten wurde gezeigt, dass das AFP an Chitin bindet. Die Identifizierung einer mutmaßlichen Chitinbindedomäne unterstützt die Vermutung, dass das AFP ein Chitinbindeprotein ist. Deutlich reduzierte Suszeptibilitäten von Klasse III und Klasse V Chitinsynthase-Mutanten von AFP-sensitiven Pilzen deuten darauf hin, dass diese ein putatives AFP Target darstellen. Die Durchführung von in situ Chitinsynthase-Assays hat gezeigt, dass AFP-sensitive Stämme mit einer reduzierten Chitinsynthaseaktivität auf AFP reagieren, während die Chitinsynthese in AFP-resistenten Stämmen erhöht vorliegt. Daraus kann geschlossen werden, dass das AFP die Chitinbiosynthese beeinflusst und möglicherweise den pilzlichen Zellwandintegritäts-Signalweg auslöst. Ein weiteres putatives AFP Target stellen die Glucosylceramide dar, da bei einer verminderten Glucosylceramid-Konzentration in der Plasmamembran eine deutlich reduzierte AFP Sensitivität vorliegt. Ein Modell wird postuliert, in dem das gegenwärtige Wissen bezüglich der AFP Wirkweise zusammengefasst ist.</dc:description>
+          <dc:date>2006-11-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1370</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14214</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14214</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1370/hagen_silke.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

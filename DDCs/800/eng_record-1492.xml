@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1492">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1492</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:800</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Das deutschsprachige Oratorienlibretto 1945-2000</dc:title>
+          <dc:title xml:lang="eng">The German oratorio libretto 1945-2000</dc:title>
+          <dc:creator>Kowald, Cäcilie</dc:creator>
+          <dc:subject>ddc:800</dc:subject>
+          <dc:description xml:lang="deu">Anders als das Opernlibretto hat das Oratorienlibretto bisher in der literaturwissenschaftlichen Forschung keine Beachtung gefunden. Dabei spielt der Text im Oratorium oft eine wichtigere Rolle als in der Oper. Die vorliegende Arbeit unternimmt deshalb den Versuch, das Oratorium als (auch) literarische Gattung anhand des Textes genauer zu beschreiben. Da das Oratorium insgesamt eine recht offene Gattung ist, die zudem im Laufe der Zeit und regional sehr unterschiedliche Ausprägungen erfahren hat, wurde die Untersuchung auf zwischen 1945 und 2000 entstandene überwiegend deutschsprachige Libretti beschränkt. Zunächst werden die kulturgeschichtlichen Voraussetzungen der zeitgenössischen Oratorienproduktion und die derzeitige Forschungslage beleuchtet. Im zweiten Teil folgt die Untersuchung inhaltlicher Aspekte, wie die Wahl von Titeln und Sujets, sowie darauf aufbauend der Bedeutung der Bibel bei der Texterstellung und -gestaltung. Im dritten Teil wird schließlich die spezifische mehrlagige Erzählstruktur des Oratoriums herausgearbeitet, die sich aus verschiedenen, in Zeit und Perspektive voneinander unabhängigen Ebenen konstituiert.</dc:description>
+          <dc:description xml:lang="eng">In contrast to the opera libretto, which is an established topic of research on literature, until now the oratorio has not yet been taken even into consideration. But in an oratorio, the text often plays an even more vital role than in an opera. Therefore, this study aims to describe oratorio as a literary genre by examining its text. As oratorio in general is a rather indefinite genre that contains many different historical and regional occurrences, the analysis has been restricted to librettos written between 1945 and 2000 in the German language. The study begins by investigating the cultural conditions of contemporary oratorio production and the current state of research. The second part deals with the content of the oratorio and its presentation, considering titles, subjects and the treatment of the bible. Finally, the third part works out the specific multi-layered structure of the oratorio libretto. This structure is constituted by several independent narrative levels differing in time and perspective.</dc:description>
+          <dc:date>2007-10-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1492</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16041</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16041</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1492/original_Dissertation2007.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1492/kowald_caecilie.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

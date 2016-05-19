@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4590">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4590</identifier>
+        <datestamp>2014-01-23</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Shape and topology from noisy triangulated surfaces in a multiple view reconstruction toolchain</dc:title>
+          <dc:title xml:lang="deu">Extraktion von Geometrie und Topologie aus fehlerbehafteten, triangulierten Oberflächen im Kontext kamerabasierter 3D Rekonstruktion</dc:title>
+          <dc:creator>Wekel, Tilman</dc:creator>
+          <dc:subject>ddc:0</dc:subject>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">Recent advances in the field of vision-based 3D reconstruction allow to quickly acquire highly detailed models based on a set of images. The outcome of such systems is usually unstructured, noisy and redundant. However, for many applications such as physical measurement, rendering,  computer aided design (CAD) or object recognition there is the need for compact and semantically driven representations. Moving from low- towards high-level representations, the complexity in terms of storage size is reduced by incorporating knowledge about the data. Triangulated surfaces are replaced by geometric primitives such as planes, cylinders or parametric surfaces. A set of geometric primitives can again be replaced by meaningful objects such as cars, chairs or tables. The required knowledge is either given a priori or inferred from the data. In this thesis, a novel approach to the extraction of shape and topology from noisy triangulated surface for digital shape reconstruction is presented. It is assumed that the object is  a composition of smooth surface patches which meet at blending regions characterized by a high curvature. Although valid for various domains, this assumption is particularly suited for man-made geometry. A novel classification and segmentation framework is used to robustly recover segments which can be described by smooth parametric surface patches. Secondly, a Voronoi-based approach is introduced which allows to further decompose the topologically complex blending regions into meaningful  parts. Finally, the derived concepts are utilized to extract a geometric representation which is inspired by CAD applications. The individual processing steps as well as the overall toolchain have been successfully implemented and a detailed demonstration and evaluation is given at the end of each chapter.</dc:description>
+          <dc:description xml:lang="deu">Jüngste Fortschritte im Bereich der bildbasierten 3D-Rekonstruktion ermöglichen die Aqkuisition hochdetaillierter Modelle mithilfe von gewöhnlichen Digitalbildern. Die Ergebnisse solcher Systeme sind in der Regel unstrukturierte und redundante Daten wie Punktwolken oder triangulierte Oberflächen. Viele Anwendungen wie physikalische Messung, Rendering, rechnergestütztes Konstruieren (CAD) oder Objekterkennung erfordern jedoch eine kompaktere und semantisch getriebene Repräsentation. Zusätzliches Wissen über die Daten erlaubt gleichzeitig die Darstellung auf einem höheren semantischen Niveau und die Reduktion der Komplexität. Auf dem Weg dorthin werden Punkte durch geometrische Primitive wie Ebenen, Zylinder oder parametrische Flächen ersetzt und Konsortien solcher Primitive wiederum durch tatsächliche Objekte, wie zum Beispiel Tische, Stühle oder Autos. Je mehr Wissen über die Daten vorliegt desto intelligenter und kompakter ist die resultierende Repräsentation. Das benötigte Wissen ist entweder a priori bekannt oder muss aus den Daten abgeleitet werden. Im Rahmen dieser Dissertation wird ein neuartiger Ansatz zur Extraktion von Geometrie und Topologie aus verrauschten, triangulierten Oberflächen vorgestellt. Insbesondere mechanische Objekte können als eine Komposition von glatten Flächenelementen beschrieben werden, die an stark gekrümmten Bereichen zusammenlaufen. Ein hybrider Ansatz zur kombinierten Klassifikation und Dekomposition wird benutzt, um die Segmente auf der triangulierten Oberfläche zu identifizieren, die hinreichend gut mit glatten Oberflächenmodellen, wie zum Beispiel parametrischen Flächen, beschrieben und später ersetzt werden können. Die verbleibenden Übergangsregionen zeichnen sich durch eine starke Krümmung und eine komplexe Topologie aus. In einem zweiten Schritt wird ein ebenso neues Voronoi-basiertes Verfahren hergeleitet, um diese Bereiche in atomare Einzelkomponenten zu zerlegen. Abschliessend wird gezeigt, inwiefern die resultierende semantische Dekomposition genutzt werden kann, um aus den akquirierten Daten eine höherwertigere Repräsentation abzuleiten, deren Struktur durch die Weiterverarbeitung in modernen CAD-Systemen motiviert ist. Alle einzelnen Prozessschritte sowie die ganzheitliche Verarbeitungskette wurden erfolgreich implementiert. Eine detaillierte Demonstration bzw. Evaluierung findet sich am Ende eines jeden Kapitels.&#13;
+</dc:description>
+          <dc:date>2014-07-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4590</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-45901</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-45901</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4590/wekel_tilman.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2488">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2488</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Emissionsmodell für Schienenverkehrslärm - Ein Beitrag zur Lärmprognose auf der Basis messtechnisch erfasster Modellparameter</dc:title>
+          <dc:title xml:lang="eng">Development of an emission model for railway noise based on measured values</dc:title>
+          <dc:creator>Thron, Thomas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird ein akustisches Emissionsmodell für Schienenverkehrslärm vorgestellt. Das Modell ermöglicht die präzise Berechnung von Emissionspegeln unter Berücksichtigung aller relevanten Einflussgrößen. Die Emissionspegel werden als Schallleistungsspektren für fünf Quellenhöhen bestimmt. Das Rollgeräusch wird unter Verwendung von Rauheitsspektren für Rad und Schiene berechnet. Es erfolgt eine Unterteilung des Gesamtrollgeräusches in Oberbau- und Fahrzeuganteile. Der Einfluss verschiedener Oberbautypen wird durch Transferfunktionen berücksichtigt. Für elf Fahrzeugkategorien werden Standardwerte der sekundären Geräuschquellen angegeben. Alle Modellparameter können durch nutzerspezifische Daten beliebig erweitert werden. Die Modellerstellung basiert auf normgerechten, akustischen Messungen der wesentlichen Einflussgrößen: Vorbeifahrtpegel, Rad-/Schienenrauheiten und Gleisabklingraten. Durchführung, Auswertung und Analyse der Messungen werden in dieser Arbeit dokumentiert. Der Einfluss von Rauheiten und Gleisabklingrate auf das Rollgeräusch wird vertieft dargestellt. Weiterführend werden Methoden zur indirekten Messung von Rad- und Schienenrauheiten an vorbeifahrenden Zügen entwickelt. Anhand von Beispielen wird deren Beitrag zur Lärmprognose innerhalb des erstellten Emissionsmodells gezeigt.</dc:description>
+          <dc:description xml:lang="eng">Within the framework of the present work, an emissions model for railway noise was developed. It was possible to produce an acoustic emissions model which allows the calculation of sound power levels in 5 source levels. The model calculation takes into account the essential factors influencing noise generation. These primarily include the type of vehicle and type of track, the roughness of wheels and rails, routing parameters and speed of travel. The calculations in the emissions model can be made using standard values or user-specific data. This means that it is possible to extend the emissions model as required with regard to roughness data, vehicle types and track types. On the basis of extensive acoustic measurements, an emissions model has been generated to map the acoustic characteristics of vehicles, route sections and routing parameters. The present work documents the planning and assessment of the measurement campaigns undertaken, defines the algorithms and validates the emissions model established, using the results of the measurements. The variables for emissions calculations are analysed using numerous examples. The focus of the analysis is the effect of wheel and rail roughness on the acoustic emission properties of rail vehicles. Two methodes for the indirect wheel and rail roughness measurement are presented. Specific examples of applications are used to show how assessment of noise abatement measures can be carried out using forecasting tools.</dc:description>
+          <dc:date>2010-04-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2488</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25941</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25941</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2488/thron_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

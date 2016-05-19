@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3374">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3374</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwurf und flugdynamische Bewertung von hybriden Luftfahrzeugen</dc:title>
+          <dc:title xml:lang="eng">Design and flight dynamic assessment of hybrid air vehicles</dc:title>
+          <dc:creator>Becker, Andreas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit thematisiert den numerischen Entwurf und die dynamische Simulation von Luftfahrzeugen, die den Auftrieb sowohl aerostatisch als auch aerodynamisch erzeugen. Solche Konfigurationen gehören zur Kategorie der sogenannten hybriden Luftfahrzeuge und werden oft als „Hybride“ bezeichnet. Ihren größten Vorteil sieht man in der besonders wirtschaftlichen Transportfähigkeit von schweren Lasten und geringer Abhängigkeit von der Bodeninfrastruktur. Die Arbeit stellt ein Methodenwerkzeug für die parametrische Entwurfssynthese und dynamische Simulation von hybriden Luftfahrzeugen vor. Sie untersucht anhand numerischer Werkzeuge zum einen den Einfluss relevanter missions und entwurfsspezifischer Parameter auf die Ergebnisse der Entwurfssynthese und zum anderen grundlegende Flugeigenschaften solcher Luftfahrzeuge. Bei der Gesamtbetrachtung wird vor allem dem Hybridisierungsgrad als zentralem entwurfstreibenden Parameter besondere Aufmerksamkeit gewidmet. Neben Parameterstudien und Flugeigenschaften werden die Fragen der Stabilität bei der parametri-schen Auslegung eines hybriden Luftfahrzeugs behandelt und zwei Methoden für die Dimensionierung des Seitenleitwerks und die Positionierung der Flügel zum Erreichen gewünschter Stabilität in der Seiten und Längsebene herausgearbeitet.</dc:description>
+          <dc:description xml:lang="eng">The present work focuses on the numerical design and dynamic simulation of aircraft vehicles, which generates lift both aerostatically and aerodynamically. Such configurations belong to the category of so-called hybrid aircrafts and are often referred to as "hybrids". Their greatest advantage is seen in the most economical transport ability of heavy loads and low dependency of the ground infrastructure. This work presents a methodological tool for parametric design synthesis and dynamic simulation of hybrid aircraft vehicles. By means of a set of numerical tools it investigates on one hand the influence of the relevant mission and design specific parameters on the results of design synthesis and on the other hand basic flight qualities of such aircraft vehicles. In the overall consideration special attention will be paid before all to the degree of hybridization as a main design parameter. In addition to parametric studies and flight qualities, this works deals with the aspects of flight stability in the parametric driven design of a hybrid aircraft. Furthermore, two methods were developed for dimensioning the vertical tail and positioning the wings in order to achieve the desired stability in the lateral and longitudinal plane.</dc:description>
+          <dc:date>2012-06-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3374</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35606</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35606</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3374/becker_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

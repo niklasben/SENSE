@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1128">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1128</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Immissions-, Depositions-, und Dieselmotoremissionsmessung von PAK, Nitro-PAK und 3-Nitrobenzanthron</dc:title>
+          <dc:title xml:lang="eng">Atmospheric Concentration, Deposition and Diesel exhaust of PAHs, Nitro-PAHs and 3-Nitrobenzanthrone</dc:title>
+          <dc:creator>Kim, Sanghun</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Anthropogene Tätigkeiten haben seit Beginn der Industrialisierung die Menge der PAK (polyzyklische aromatische Kohlenwasserstoffe) und NPAK (Nitro-PAK) in der Umwelt dramatisch erhöht. PAK und NPAK besitzen ein hohes toxisches Potential mit mutagenen und karzinogenen Eigenschaften. Insbesondere hat 3-Nitrobenzanthron in Extrakten von Dieselabgas eine hohe Mutagenität. Ziel dieser Arbeit war daher, die PAK, NPAK und 3-Nitrobenzanthron Gehalte für verschiedene PartikelKorngrößenverteilungen von Dieselmotoremissionen und Immissionen zu bestimmen. Mit Hilfe dieser Ergebnisse sollte der Einfluss von Dieselmotoremissionen auf die Immission von PAK, NPAK und insbesondere 3Nitrobenzanthron geklärt werden. Darüber hinaus sollten die Depositions- flussdichten bzw. die Depositionsgeschwindigkeiten von PAK, NPAK und 3-Nitrobenzanthron mit einem modifizierten Depositionsmodell abgeschätzt werden. Die Depositionsgeschwindigkeiten für PAK und NPAK konnten für die drei getesteten Depositionsmessgeräte mittels linearer Regression aus den Depositionsflussdichten und den Luftkonzentrationen der PAK und NPAK erfolgreich berechnet werden. In modernen Dieselmotoren werden grundsätzlich Abgasrückführsysteme (AGR) zur Senkung der Schadstoffemissionen eingesetzt. Ausser 3NBA sind die Konzentrationen von PAK und NPAK mit AGR deutlich höher als ohne AGR. Bei Dieselmotoremissionen sind die Partikelanteile an den Korngrößenspektren deutlich unterscheidbar von der Immission. Für Dieselmotoremissionen konnten in dieser Arbeit für den Dieselmotor charakteristische Massenverhältnisse erstmals ermittelt werden. Charakteristische quellentypische Massenverhältnisse können generell nur mit Vorsicht zur Quellenermittlung herangezogen werden, da die Literatur</dc:description>
+          <dc:description xml:lang="eng">Since begin of the industrial era Anthropogenic activities have dramatically increased the emission of PAHs (polycyclic aromatic hydrocarbons) and NPAH (Nitro-PAHs). PAH and NPAH have a high toxic potential with mutagenic and carcinogenic qualities. Especially in diesel exhaust extracts 3-Nitrobenzanthrone has a high mutagenicity. The objectives of this study are to determine concentrations, size distributions and deposition fluxes of PAHs, NPAHs and 3-nitrobenzanthrone in ambient air samples and to determine concentration and size distributions of these compounds in diesel exhausts. Furthermore, the deposition flux and the velocity of deposition for PAHs, NPAHs and 3-Nitrobenzanthron are calculated and evaluated with the modified deposition model. The deposition velocities of PAHs and NPAHs were calculated for the three used deposition sampler using a liner regression with deposition fluxes and atmospheric particle concentrations of PAHs and NPAHs. For the diesel engine an exhaust gas recirculation (EGR) technology is basically used to reduce diesel exhausts, especially NOx. Except 3NBA the concentrations for PAHs and NPAHs with EGR technology are distinctly higher than without EGR. For the diesel emissions the particle size distribution is conspicuously different from that of the ambient air samples. For diesel exhausts the characteristic mass ratios of diesel emissions were determined for the first time. In general, the characteristic mass ratios of the emission sources has to be discreetly used to source apportionment, because the reference values of the literature were imperfectly considered and in particular this reference values were mostly not measured from emission sources. The results of the source apportionment by factor analysis showed that the transport sector, especially diesel exhausts, revealed to be the most important emission source of PAHs and NPAHs measured with low volume sampler and deposition sampler.</dc:description>
+          <dc:date>2005-10-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1128</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11212</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11212</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1128/kim_sanghun.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

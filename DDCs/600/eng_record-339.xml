@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:339">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:339</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dynamische Analyse getauchter Schleppsysteme</dc:title>
+          <dc:title xml:lang="eng">Dynamic Analysis of Towed Bodies</dc:title>
+          <dc:creator>Vannahme, Martin</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Das dynamische Verhalten einer Vielzahl maritimer Systeme wird entscheidend durch Kopplungseffekte zwischen Schiff und hängender Last sowie durch die dabei auftretende Seil- und Kabeldynamik, d.h. durch hydroelastische Phänomene geprägt. Solche maritimen Systeme bestehen grundsätzlich aus den Komponenten Versorgungsschiff oder Schwimmkran an der Wasseroberfläche, dem hängenden oder geschleppten Tiefseegeräteträger und der Verbindung durch eine Trosse oder ein Multifunktionskabel (Umbilical). Die Dissertation präsentiert ein numerisches Modell, zur Berechnung der auftretenden Schleppkörperbewegungen und Seilkräfte infolge seegangsinduzierter Schwingungen des Mutter- bzw. Versorgungsschiffs und zur Bestimmung kritischer Einsatzbedingungen, wie z.B. das Auftreten der Slack-Bewegung. Das numerische Modell berücksichtigt die am Schleppseil wirkenden hydrodynamischen Widerstands- und Trägheitskräfte sowie erstmalig nichtlineare Seilkraftanteile infolge der Seilkrümmung. Das System von finiten Seilgleichungen wird mit den Bewegungsgleichungen des getauchten Starrkörpers gekoppelt, wodurch nichtlineare Effekte aufgrund der komplexen Schleppkörperhydrodynamik ebenfalls in die Berechnung mit einbezogen werden. Das Programmsystem wurde durch umfangreiche Modellversuche im Großen Umlauftank der ZE VWS der Technischen Universität Berlin validiert. Numerische sowie experimentelle Ergebnisse verdeutlichen die starke Übertragung der seegangsinduzierten Schiffsbewegung auf die getauchte Struktur. Parameterstudien zeigen, dass das Programmsystem zur Optimierung von Schleppsystemen hinsichtlich Widerstands- als auch Schwingungsreduzierung während der Entwurfsphase eingesetzt werden kann. Darüber hinaus bietet es die Möglichkeit zukünftige Schleppeinsätze bzw. Bergungs- und Absetzprozesse in einem vorgegebenen Seegebiet im Zeitbereich zu simulieren. Einsatzgefährdende Seegangsbedingungen die eine Slack-Bewegung hervorrufen und damit Einsatzgrenzen für das System darstellen, können in Form von Einsatzdiagrammen bestimmt werden.</dc:description>
+          <dc:description xml:lang="eng">Vertically tethered systems or towed bodies - applied in a wide spectrum of offshore operations - are characterised by hydroelastic effects. In general, such systems consist of the components research or support vessel, tether, umbilical or towing cable, and a suspended load or a towed sensor carrier. The tether or umbilical couples the motion of the floating structure with the oscillations of the underwater system. This thesis presents a comprehensive numerical and experimental analysis of the dynamic behaviour of towed systems, considering the non-linear characteristics of drag and lift coefficients of the sensor carrier as well as non-linear components of dynamic forces due to cable curvature. The dynamic analysis of deep dived towed bodies comprises the determination of the dynamic behaviour of vertically suspended loads. In addition, it considers the hydrodynamic forces and moments due to stationary towing speed as well as hydroelastic effects. The analysis proves that ship motions are substantially transmitted along the submerged cable, and excite oscillations of the towed body. A numerical model is developed to determine both, the cable curvature for stationary conditions as well as the dynamic response of the towed body due to ship oscillations. The numerical model is validated by towing tests, performed at the TU Berlin in one of the world largest cavitation and circulation tunnel with free surface. The motions of the towed model are recorded by video cameras and evaluated by digital video post-processing. Cable forces are measured at the upper suspension point (winch) and at the lower end (body attachment). Hydrodynamic pa-rameters of the towed model like drag and lift coefficients are determined by using CFD Methods, and the results are validated by appropriate model tests. The resulting computer program can be applied during the design stage, optimising the towing system in view of reduction of drag and oscillation amplitude. Furthermore, it is suitable to simulate future towing-, deployment and recovery operations in time domain, defining critical conditions and operational limitations due to weather conditions, giving rise to snap loads.</dc:description>
+          <dc:date>2001-09-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/339</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3340</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3340</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/339/vannahme_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

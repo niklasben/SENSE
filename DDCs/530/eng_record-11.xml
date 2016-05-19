@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:11">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:11</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dichtefunktionaltheoretische Untersuchung zur Wechselwirkung von H, He und Ne mit Metalloberflächen</dc:title>
+          <dc:title xml:lang="eng">Density-functional theory study of the interaction of H, He, and Ne with metal surfaces</dc:title>
+          <dc:creator>Petersen, Max Peter</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit wendet die full-potential linear augmented-plane-wave (FP-LAPW) Methode auf zwei physikalische Themenkomplexe an: Berechnung und Interpretation von Streupotentialen von He und Ne mit den (110)-Oberflächen von Rh, Ni, Cu und Ag sowie Untersuchung der Adsorption von atomarem Wasserstoff auf der Pt(111)-Oberfläche. Zunächst wird das FP-LAPW Computerprogramms WIEN hinsichtlich Ausführungszeit optimiert. Aufwendigste Abschnitte waren in diesem Zusammenhang die Berechnung der Valenzladungsdichte sowie die Diagonalisierung der Hamiltonmatrix. Das Verfahren zur Berechnung der Valenzladungsdichte wurde analysiert, neu formuliert und programmiert. Die Berechnung im Bereich der um die Atome positionierten Kugeln konnte um einen Faktor 12 beschleunigt werden, die im verbleibenden Zwischenbereichanteil sogar um einen Faktor 34. Um die Kosten zur Diagonalisierung der Hamiltonmatrix zu reduzieren, wurden zwei Verfahren zur iterativen Matrixdiagonalisierung implementiert: das Lanczos- sowie das Block-Davidson-Verfahren. Letzteres erwies sich als das effizientere; die Diagonalisierung konnte um einen Faktor von 3.12 beschleunigt werden. Für das Lanczos-Verfahren betrug der Faktor nur 1.45. Alle Optimierungen zusammengenommen konnten die Laufzeiten für das gewählte Testsystem um einen Faktor 4.8 verkürzen. Eine theoretische Analyse der Streupotentiale von He ist für die Analyse von helium atom scattering Experimenten von zentraler Bedeutung. Die vorliegenden Ergebnisse zeigen, da die Dichtefunktionaltheorie (DFT) die Streupotentiale in quantitativ guter Übereinstimmung zum Experiment berechnen kann. Entscheidend ist, da die Streueigenschaften allein durch die Situation im Umkehrpunkt bestimmt werden; die in der DFT nicht korrekt beschriebene van-der-Waals-Wechselwirkung liefert dort keinen wesentlichen Beitrag zum Streupotential. Hinsichtlich Interpretation wurde insbesondere das in der Literatur bis dato nicht zufriedenstellend erklärte Phänomen untersucht, warum He- und Ne-Atome qualitativ verschiedene Streupotentiale an Ni(110)- und Rh(110)-Oberflächen verspüren. Es konnte nachgewiesen werden, da der wesentliche Mechanismus im Streuproze die Pauli-Abstoung zwischen $d$-Zuständen des Substrats und Wellenfunktionen der Edelgasatome ist. Die Unterschiede von He und Ne ergeben sich aus den unterschiedlichen Symmetrien des He 1s- und des Ne 2px-Zustandes, deren Pauliabstoßung mit den beinahe vollständig antibindenden dxz-Substratzuständen nahe der Fermienergie an on-top- und short-bridge-Position jeweils entgegengesetzt wirkt. Für die Edelmetalloberflächen stellte sich ein ähnlicher Mechanismus heraus: Die Zustände nahe der Fermienergie mit deutlicher Lokalisierung an der Oberfläche haben im wesentlichen antisymmetrischen Charakter bezüglich Spiegelung an der short-bridge-Position. Bei der Adsorption von atomarem Wasserstoff auf der Pt(111)-Oberfläche wurde die fcc- und hcp-Adsorption für 1-ML-, 0.667-ML- und 0.333-ML-Bedeckungen untersucht. Das Augenmerk lag nicht nur auf Unterschieden in strukturellen Parametern, sondern auch auf dem für beide Adsorptionsplätze unterschiedlichem Abbau der Oberflächenspannung. Die Oberflächenspannung ist als Änderung der Oberflächenenergie mit der Verspannung, $frac{partialgamma}{partialepsilon}|_{epsilon=0}$, definiert, sie kann sowohl positive als auch negative Vorzeichen haben. Es ergab sich, daß die H-Adsorption die Bindungen innerhalb der Oberfläche schwächt und daß sich dieser Effekt bei hcp-Adsorption stärker ausgeprägt: Für die jeweilige Bedeckung führte diese zu einer stärkeren Auswärtsrelaxation der ersten Oberflächenlage. Für die untersuchten Bedeckungen wurde ein linearer Zusammenhang zwischen H-Bedeckung und Abfall der Oberflächenspannung gefunden. Die fcc- relativ zur hcp-Adsorption führt jeweils zur stärkeren Erniedrigung der Oberflächenspannung. Für die 1-ML-Bedeckung wurde ein qualitativer Unterschied zwischen fcc- und hcp-Adsorption festgestellt: Bei fcc-Adsorption ist die Oberflächenspannung expansiv ($frac{partialgamma}{partialepsilon}|_{epsilon=0}&lt;0$) und bei der hcp-Adsorption geringfügig kontrahierend ($frac{partialgamma}{partialepsilon}|_{epsilon=0}&gt;0$).</dc:description>
+          <dc:date>2000-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/11</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-58</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-58</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/11/petersen_max.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

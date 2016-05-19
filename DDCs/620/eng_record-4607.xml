@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4607">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4607</identifier>
+        <datestamp>2014-01-14</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Development of wide band gap materials for thin film silicon solar cells</dc:title>
+          <dc:title xml:lang="deu">Entwicklung von Kontakmaterialien mit hohem Bandabstand für Silizium Dünnschichtsolarzellen</dc:title>
+          <dc:creator>Kirner, Simon</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen der vorliegenden Arbeit wurden Kontaktmaterialien mit hohem Bandabstand für den Einsatz in Silizium basierten Dünnschichtsolarzellen entwickelt. Genauer wurden Siliziumoxid- (SiO) und -karbid (SiC) -Schichten mit variabler Stöchiometrie mittels PECVD bei einer Anregungsfrequenz von 13.56 MHz hergestellt. Es wurde der Einfluss der Depositionsparameter auf das Schichtwachstum mittels Plasmadiagnostik, sowie auf die optoelektronischen und strukturellen Eigenschaften der resultierenden Schichten untersucht. Die Erhöhung derDepositionsleistung bewirkt bei mikro- kristallinen Siliziumoxidschichten (mc-SiOx:H) nicht die in einem mikrokristallinen Silizium (mc-Si:H) Regime sonst übliche Erhöhung der Kristallinität aufgrund des höheren Dissoziationsgrades, sondern im Gegenteil eine Verringerung. Dies konnte mit einem verstärkten Sauerstoffeinbau bei erhöhter Leistung erklärt werden. Die Kristallinität kann jedoch durch eine Erhöhung des Drucks im untersuchten Bereich wieder stark erhöht werden, was mit einer Verringerung des Ionenbombardements und/oder einer erhöhten Silanausnutzung erklärt werden konnte. Die Schichten wurden erfolgreich in a-Si:H/mc-Si:H Tandemsolarzellen als Zwischenreflektorschicht eingesetzt. Die Deposition einer dünnen mc-Si:H n-Schicht hinter der Reflektorschicht half dabei den Tunnel- rekombinationskontakt wesentlich zu verbessern, welches sich in einem verringerten Serienwiderstand äußerte. Dieser Effekt konnte erfolgreich mittels Halbleitertheorie erklärt werden. Es wurde ein signifikanter Einfluss der Topographie des Substrats auf die Effektivität sowie auf die ideale Dicke des Zwischenreflektors beobachtet. Rigorose optische 2D Simulationen bestätigten dies und zeigten, dass insbesondere eine geringe Autokorrelationslänge der Oberflächenstruktur im Bereich von 100-300 nm dessen Effektivität begünstigt. SiC Schichten wurden in einem ähnlichen Regime abgeschieden wie die mc- SiOx:H Schichten. Obwohl eine Kristallinität nicht erreicht wurde, können die präsentierten Ergebnisse eine Grundlage für die weitere Entwicklung bilden. Der Versuch der Kristallisierung von amorphen SiC Schichten mittels eines Elektronenstrahls zeigte erste vielversprechende Ergebnisse. Abhängig von der Stöchiometrie konnten Anzeichen der Bildung einer kristallinen SiC Phase beobachtet werden.</dc:description>
+          <dc:description xml:lang="eng">In the frame of this work, wide band gap materials, in particular amorphous andmicrocrystalline silicon-oxide (SiO) and -carbide (SiC) layers, prepared by 13.56MHz PECVD, were developed for application in thin film silicon solar cells. By means of optical, electrical and structural material characterizations combined with plasma diagnostics, the influence of the deposition parameters on the film growth were investigated. For microcrystalline silicon oxide (mc-SiOx:H), it was found that with increasing deposition power, the crystallinity does not correlate with enhanced precursor dissociation as typical for pure microcrytalline silicon (mc-Si:H). Contrarily, it decreases significantly due to the higher observed oxygen incorporation. The crystallinity can be recovered by increas ing the deposition pressure in the studied regime. This can be explained by reduced ion bombardment and/or increased silan depletion. The films were successfully applied as intermediate reflectors layer (IRL) in a-Si:H/mc-Si:H tandem solar cells. The deposition of a thin mc-Si:H n-layer behind the IRL was found to significantly improved the tunnel recombination junction resulting in a lower series resistance. The effect could be simulated using semi conductor theory. The effectiveness of the IRL in regard of the TCO substrate was investigated. Large differences regarding the effectiveness and the ideal thickness of the IRL were observed. Rigorous optical 2D simulations indicate that a low autocorrelation length of the TCO topography in the range of 100-300 nm increases the effectiveness significantly. SiC layers were deposited in a similar regime to the mc-SiOx:H layers. Although no crystallinity was achieved, the presented approach can be a basis for further experiments. The electron beam crystallization of near stoichiometric layers showed first indications of a crystalline SiC phase.</dc:description>
+          <dc:date>2014-01-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4607</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46070</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46070</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4607/kirner_simon.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4908">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4908</identifier>
+        <datestamp>2014-03-31</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Generation of a multi-organ-chip-based liver equivalent for toxicity testing</dc:title>
+          <dc:title xml:lang="deu">Generierung von Multi-Organ-Chip basierenden Leberäquivalenten für die Toxizitätstestung</dc:title>
+          <dc:creator>Materne, Eva-Maria</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="eng">The unique importance of the liver for organismal homeostasis and blood detoxification has led to an evolutionary optimisation of the human liver architecture at the scale of its smallest functional unit – the liver lobule. Unsurprisingly, such a super-optimised tissue is especially vulnerable to inconsistencies, such as toxic effects. The ever-growing amount of new substances released to the market and the limited predictability of current in vitro test systems for drug-induced liver injury (DILI) has led to an ample need for new substance testing solutions. Especially, the application of miniaturised, dynamically perfused chip-based systems is gaining much attention recently due to their ability of imitating in vivo-like nutrient supply and defined microenvironments of the cells.&#13;
+In this thesis, a novel 3D co-culture system comprising the hepatic HepaRG cell line and non-parenchymal hepatic stellate cells (hSteC) is presented and its suitability as in vitro liver test system is evaluated. These 3D tissue equivalents were, furthermore, cultivated inside a multi-organ-chip (MOC) to assess the effects of fluid flow on the cells. Single tissue cultures, as well as two to three organ co-cultures including skin biopsies, endothelial cells and neurospheres were performed, observing organ-organ crosstalk.&#13;
+It could be shown, that liver aggregates produced liver-typical extracellular matrix components, indicating the formation of an in vivo-like environment. Cells polarised de-novo, forming bile-canalicular like structures as shown by ZO-1 and MRP-2 expression. Prolonged culture in the MOC led to a more pronounced expression of these markers, as well as of functional markers like cytochrome P450 enzymes indicating the generation of a functional and metabolically competent organ equivalent. Furthermore, first indicators for functional liver zonation were obtained in Transwell® assisted cultures. Analysing the release of albumin to the culture medium over a culture period of up to 14 days revealed a significantly increased production rate in liver equivalents cultured under dynamic conditions in the MOC compared to standard static controls. &#13;
+Co-cultivating liver aggregates with skin biopsies revealed that a metabolic steady state in terms of glucose consumption and lactate production could be achieved after 5 to 8 days of co-culture in a combined medium circuit. The long-term stability of these cultures was proven by 28-day cultivation. These co-cultures were shown to be glucose limited, which led to a reduction in albumin production by the liver equivalents. Still, viability of the cells was maintained and strongly increased compared to static cultures. The stable consumption of glucose and production of lactate indicated the establishment of an artificial but balanced co-existence between the tissues, proving the feasibility of two (or even more) tissue co-cultures in a combined medium over prolonged periods of time. Similarly, the co-cultivation with endothelial cells and neurospheres led to a glucose-limited, but still viable and metabolically competent system.&#13;
+Exposing MOC co-cultures to pharmaceutical substances at regimens relevant to respective guidelines successfully revealed a dose-dependent response of cultures. The chronic application of troglitazone to the co-cultures over 7 to 14 days proved a sensitivity of liver equivalents to this hepatotoxic anti-diabeticum. Dose dependent in vivo-like up-regulation of metabolic enzyme cytochrome P450 3A4 and induction of toxicity could be shown. Furthermore, the in vivo elimination half-life of troglitazone could successfully be reproduced in a liver-skin-endothelial cell co-culture MOC system. &#13;
+Taken together, this MOC co-culture system not only presents a useful mean for maintaining hepatocyte viability and metabolic activity over prolonged periods of time, but also a tool to study organ-organ interactions under control and toxic environments useful for drug testing.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Die Leber hat als zentrales Organ des gesamten Stoffwechsels eine einzigartige Bedeutung in der Aufrechterhaltung der metabolischen Homöostase, der Gallenproduktion und damit einhergehend dem Abbau und der Ausscheidung von Medikamenten und Giftstoffen. Diese Fülle an Stoffwechselfunktionen und die daraus resultierende, evolutionär hoch spezialisierte strukturelle Segregation der metabolischen Aktivitäten der Leber stellt eine große Herausforderung bei der frühzeitigen Erkennung von medikamenteninduzierten Leberschädigungen dar. Die Generierung miniaturisierter Leberäquivalente zur Substanztestung bedarf daher besonderer Aufmerksamkeit in Hinblick auf die Komplexität des Organs.&#13;
+Im Verlauf dieser Arbeit wurden Leber-Aggregate aus Hepatozyten und nicht-parenchymalen Ito-Zellen generiert und charakterisiert. Diese Leber-Äquivalente wurden in dem von uns entwickelten Multi-Organ-Chip (MOC) sowohl als Einzelorgankultur als auch als Co-Kulturen mit Hautbiopsien, Endothelzellen und Neurosphären kultiviert.&#13;
+Es konnte gezeigt werden, dass die Zellen der Aggregate lebertypische extrazelluläre Matrixbestandteile wie Fibronektin und Kollagen Typ I produzieren. Zudem polarisierten Hepatozyten de-novo und bildeten Gallenkapillaren. Die Verlängerung der Kulturzeit in MOCs über 14 Tage führte zu einer weiteren Verbesserung der Polarisation sowie der Expression funktioneller Marker wie der Cytochrom-P450-Enzyme. Die Analyse der Albuminkonzentration im Medium ergab eine deutlich erhöhte Produktionsrate in Leber-Äquivalenten die unter dynamischen Bedingungen im MOC kultiviert wurden im Vergleich zu Kontrollen unter statischen Bedingungen.&#13;
+Co-Kulturen von Leber Aggregaten mit Hautbiopsien erreichten ein metabolisch stabiles Niveau nach 5 bis 8 Tagen ein. Es konnte gezeigt werden, dass diese Co-Kulturen glukoselimitiert waren, was zu einer Verringerung der Albuminproduktionsrate führte. Ebenso führte die Co-Kultivierung mit Endothelzellen und Neurosphären zu einer Glukoselimitierung. Dennoch konnten die Zellen in einem vitalen, metabolisch kompetenten Zustand über eine Kulturzeit von 28 Tagen erhalten werden.&#13;
+Die Applikation von hepatotoxischen Substanzen wie Troglitazon zu Leber-Haut-Kulturen führte zu einer in vivo-ähnlichen, dosisabhängigen Hochregulation des metabolischen Enzyms Cytochrom-P450 3A4 und zur Induktion von Toxizität. Ebenso konnte die in vivo Halbwertszeit von Troglitazon erfolgreich in Leber-Haut-Endtohelzell MOC Co-Kulturen reproduziert werden.&#13;
+Auch die Toxizität von 2,5-Hexandion in Leber-Neurospären Co-Kultur war dosisabhängig und darüber hinaus wurde eine etwas höhere Sensitivität in Co-Kulturen im Vergleich zu Einzelorgan-kulturen im MOC beobachtet. Erste Hinweise auf eine Toxizität von n-Hexan in diesen Co-Kultursystemen wurden deutlich. &#13;
+Zusammengenommen stellt das präsentierte MOC Co-Kultursystem nicht nur ein geeignetes Mittel für die Aufrechterhaltung der Vitalität und metabolischen Aktivität von Hepatozyten über längere Zeiträume dar, sondern auch ein Model um Kommunikationen zwischen Organen zu untersuchen. Es konnten sowohl homöostatische als auch toxische Umgebungen für die Zellen in den MOC simuliert und analysiert werden, was für die Nutzung des Systems für Wirkstofftests von besonderer Bedeutung ist.&#13;
+</dc:description>
+          <dc:date>2014-03-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4908</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49088</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49088</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4908/materne_eva_maria.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

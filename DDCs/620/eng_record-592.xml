@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:592">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:592</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Finite Schalenelemente mit einer Einsdirektorkinematik</dc:title>
+          <dc:title xml:lang="eng">Finite shell elements with a unit-director kinematics</dc:title>
+          <dc:creator>Wenzel, Thomas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Methode der Finiten Elemente (FE) stellt ein weitverbreitetes und universell einsetzbares Werkzeug zur Lösung von Systemen partieller Differentialgleichungen dar. Beim Einsatz der FE-Methode in der Strukturmechanik liegt das Hauptaugenmerk des Elementdesigns auf der kinematischen Modellbildung. In dieser Arbeit wird im Sinne eines robusten Elementes angestrebt, mit möglichst wenigen Knotenfreiwerten ein möglichst leistungsfähiges, d.h. genaues Schalenelement zu entwickeln. Aufbauend auf den Arbeiten von Schoop (1989) und Verhoeven (1992) wird vor dem Hintergrund des in Kapitel 2 erörterten Stabilitätsfalls im kontinuumsmechanischen Direktormodell eine geometrisch nichtlineare Einsdirektorformulierung in Lagrangescher Darstellung gewählt. In Kapitel 4 werden ein Vierecks- und ein Dreiecksschalenelement vorgestellt, die beide für räumliche Referenzkonfigurationen eingesetzt werden können. Sämtliche Verzerrungen werden über Skalarprodukte der Knotenfreiwerte definiert, so daß eine globalkartesische Beschreibung möglich wird. Insbesondere müssen weder Shiftertensor noch ko-/kontravariant notierte Stoffgesetze bemüht werden. Die Membraneigenschaften des Viereckselements werden zusätzlich mit Hilfe der enhanced assumed strain-Methode (EAS) nach Simo und Armero (1992) verbessert. Alternativ zur klassischen EAS-Formulierung wird eine eigene Umsetzung des EAS-Gedankens entwickelt, die sich bei linear elastischem Materialverhalten als effizienter in der Programmtechnik erweist. Da die Anwendung der Elemente primär auf die Statik dünner Flächentragwerke abzielt, wird ein ebener Spannungszustand angenommen (ESZ). Auf die Einbeziehung von Querschubverzerrungen in die Kinematik wird daher verzichtet. Die vorgestellten Elemente werden anhand der in Kapitel 3 diskutierten Stoffgesetze ausführlich getestet. Insbesondere können im Hinblick auf inelastisches Materialverhalten durch Verwendung eines Iterations- und Kondensationsalgorithmus auch dreidimensionale Materialgesetze implementiert werden, die dann numerisch der Bedingung des ebenen Spannungszustandes angepaßt werden. Eine Auswahl von Beispielen in Kapitel 5 validiert schließlich die vorgestellte FE-Methode.</dc:description>
+          <dc:date>2003-12-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/592</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5869</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5869</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/592/wenzel_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

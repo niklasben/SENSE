@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:135">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:135</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung anisotroper Wirbelzähigkeitsbeziehungen mit Hilfe von Projektionstechniken</dc:title>
+          <dc:title xml:lang="eng">Development of anisotropic eddy-viscosity formulations using projection methods</dc:title>
+          <dc:creator>Rung, Thomas</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Mit Hilfe von darstellungstheoretischen Überlegungen werden Prinzipien zur Konstruktion anisotroper Wirbelzähigkeits-Turbulenzmodelle zur Simulation von technischen Strömungen erörtert. Ziel der Dissertation ist die Entwicklung und Analyse expliziter algebraischer Spannungsmodelle auf der Basis von Projektionstechniken. Ausgangspunkt der Arbeit ist eine kritische Bewertung des linearen Wirbelzähigkeitskonzepts aus dem Blickwinkel der Darstellungstheorie. Aufbauend auf den impliziten algebraischen Reynolds-Spannungsmodellen wird ein Projektionsverfahren zur Formulierung beliebig aufwendiger nichtlinearer Wirbelzähigkeitsmodelle skizziert. Ein wichtiges Merkmal dieser Technik ist ihre hohe Flexibilität in Hinblick auf die gezielte Modellierung einzelner physikalischer Mechanismen, bzw. die Erweiterung klassischer algebraischer Spannungsmodelle. Ein umfangreicher Analyseabschnitt befaßt sich systematisch mit der Vorhersage fundamentaler Strömungszustände durch explizite algebraische Spannungsmodelle. Dabei wird der strenge mathematische Formalismus zur Analyse und Modifikation der Modellbildung in vielerlei Hinsicht intensiv benutzt. Im Vordergrund stehen die Darstellbarkeit verschiedenartiger homogener Turbulenzfelder, die physikalische Realisierbarkeit der modellierten Reynolds-Spannungen, sowie die Konsistenz zur Rapid-Distortion-Theorie. Ferner findet die Vorhersage sekundärer und tertiärer Effekte besondere Beachtung. Die Betrachtungen ermöglichen eine Validierung des linearen Druck-Scher-Korrelationsmodells und eignen sich zur Formulierung von Restriktionen für die dazugehörigen Koeffizienten. Der Modellierungsteil erörtert Optimierungsstrategien und befaßt sich mit der Erweiterung expliziter algebraischer Spannungsmodelle für Wandturbulenz, kompressible Medien, Mehrskalentheorien und einfache zweiachsige Scherströmungen. Daneben werden die traditionellen Schwierigkeiten von Wirbelzähigkeitsmodellen in Bezug auf die Vorhersage krümmungsbehafteter Strömungen analysiert. Die Güte der vorgeschlagenen Modellbildung wird anhand mehrerer praxisrelevanter Anwendungen validiert.</dc:description>
+          <dc:date>2000-09-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/135</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1302</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1302</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/135/rung_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

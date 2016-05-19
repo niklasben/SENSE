@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1221">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1221</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Characterisation and Optimisation of Blowing Agent for Making Improved Metal Foams</dc:title>
+          <dc:title xml:lang="deu">Charakterisierung und Optimierung von Treibmitteln zur Herstellung verbesserter Metallschäume</dc:title>
+          <dc:creator>Matijasevic-Lux, Biljana</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Aluminium foams produced by melting powder compacts containing a blowing agent are usually non-uniform which might lead to inferior mechanical properties. The reasons for this can be thermal gradients during foaming and a blowing agent which is not adapted to the melting range of the alloy to be foamed. Use of the hydrides of the titanium group (Ti, Zr, Hf) for making aluminium alloy foams was evaluated. Various strategies to improve aluminium foams were discussed and it was shown that titanium hydride (TiH2) gives an on-set temperature in the range which is necessary for the production of metal foams. In order to improve foaming characteristics the TiH2 powder was subjected to various heat treatments prior to processing to shift hydrogen release up into the melting range of the alloy. Untreated and pre-treated TiH2 powders were characterised by oxygen analysis, thermal analysis in conjunction with mass spectrometry applying various temperature profiles, ex-situ and in-situ X-ray diffraction and transmission electron microscopy. In addition, foaming trials were carried out based on various TiH2 powders. It was found that oxidation of TiH2 particles is responsible for the observed shift in decomposition temperature since heating under argon did not produce this effect. The shift can be tailored by choosing suitable pre-treatment parameters. With an appropriate choice a beneficial effect on foam morphology was found. Foams made using untreated powders have sharp edges and irregular pores. It was shown that foams made using pre-treated powders have more spherical and smoother pores.</dc:description>
+          <dc:description xml:lang="deu">Aluminiumschaum, hergestellt durch Schäumen von kompaktierten Mischungen aus Metall- und Treibmittelpulvern, ist im Endergebnis oft nicht gleichförmig, was zu unzureichenden mechanischen Eigenschaften führen kann. Die Gründe dafür könnten in der thermischen Zersetzungscharakteristik des Treibmittels während des Schäumens liegen, welche nicht an die Schmelzkurve der zu schäumenden Legierung angepasst ist. Für das Schäumen von Aluminiumlegierungen wurden die Hydride des Titans, Zirkoniums und Hafniums herangezogen. Verschiedene Strategien zur Verbesserung des Schäumens wurden diskutiert. Es wurde aufgezeigt, dass Titanhydrid (TiH2) den passenden Temperaturverlauf hat, welcher für die Produktion von Aluminiumschaum notwendig ist. Um den Schäumprozeß zu verbessern wurde das TiH2 Pulver verschiedenen Wärmebehandlungen unterzogen bevor es verarbeitet wurde, um somit das Freisetzen des Wasserstoffs in den Schmelzbereich der verwendeten Aluminiumlegierung zu verschieben. Unbehandelte und vorbehandelte TiH2 Pulver wurden mit folgenden Methoden untersucht: Sauerstoffanalyse, thermische Analyse in Verbindung mit Massenspektrometrie und verschiedenen Temperaturprofilen, ex-situ und in-situ Röntgenstrahlbeugung und TEM. Zusätzlich wurden Schäumversuche mit verschiedenen TiH2 Pulvern durchgeführt. Es ergab sich, dass die Oxidation der TiH2 Pulverpartikel für die beobachtete Verschiebung verantwortlich ist, weil die Wärmevorbehandlungen unter Argon nicht diesen Effekt produzierte. Die Verschiebung kann spezifiziert werden, indem man entsprechende Vorbehandlungsparameter wählt. Mit einer entsprechenden Wahl wurde ein vorteilhafter Einfluss auf die Schaummorphologie gefunden. Schäume mit unbehandeltem Pulver haben scharfe Ränder und unregelmäßige Poren. Schäume mit vorbehandeltem Pulver führen zu annähernd sphärischen Poren mit glatteren Wänden.</dc:description>
+          <dc:date>2006-03-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1221</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12415</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12415</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1221/lux_biljana.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

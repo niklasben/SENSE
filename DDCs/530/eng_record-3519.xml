@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3519">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3519</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Coherent transport through nanoelectromechanical systems</dc:title>
+          <dc:title xml:lang="deu">Kohärenter Transport durch nanoelektromechanische Systeme</dc:title>
+          <dc:creator>Metelmann, Anja</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">In this thesis we compare the semiclassical description of nanoelectromechanical systems (NEMS) within and beyond the Born-Oppenheimer approximation. NEMS enable the detailed study of the interaction between electrons, tunneling through a nano-scale device, and the degrees of freedom of a mechanical system. We work in the semiclassical regime where an expansion around the classical path is performed. The advantage of this method is, that it is nonperturbative in the system-leads coupling, because the exact electronic solutions are included. We develop a nonadiabatic approach, where we can treat the oscillator and the electrons on the same time-scale without further constrains. The considered NEMS models contain a single phonon (oscillator) mode linearly coupled to an electronic few-level system in contact with external particle reservoirs (leads). Using Feynman-Vernon influence functional theory, we derive a Langevin equation for the oscillator's trajectories. A stationary electronic current through the system generates nontrivial dynamical behaviour of the oscillator, even in the adiabatic regime. We present a detailed prescription of the oscillator's phase space and investigate the observed dynamical features with methods for nonlinear dynamical systems. The backaction of the oscillator onto the electronic properties is studied as well. For the cases of one and two coupled electronic levels, we discuss the differences between the adiabatic and the nonadiabatic regime of the oscillator dynamics. Furthermore, we apply the developed methods to a single-level system which is anisotropically coupled to a large spin under the influence of an external magnetic field. Here, the semiclassical treatment of the large spin's dynamics is included within a mean-field approach for the spin-spin interaction. This system possess rich dynamical properties, like self-sustained and chaotic oscillations. We investigate the system in the nonequilibrium regime for high external bias, where we can compare our nonadiabatic method to a rate equation approach, which is perturbative in coupling to the leads. Additionally, we study the system in the low bias case, where the dynamics are even richer as in the infinite bias case.</dc:description>
+          <dc:description xml:lang="deu">Die Untersuchung von kohärentem Transport durch nanoelektromechanische Systeme (NEMS) steht im Fokus dieser Arbeit. NEMS stellen Bauteile dar, bei denen ein quantenmechanisches Transportsystem an die Freiheitsgrade eines mechanischen Systems koppelt. Damit ist eine Untersuchung der Elektron-Phonon Wechselwirkung in einer Nicht-Gleichgewichtsumgebung möglich. Im Allgemeinen wird bei der semi-klassischen Betrachtung dieser mechanisch-elektrischen Systeme eine adiabatische Näherung durchgeführt. In dieser Näherung geht man davon aus, dass sich die Elektronen die durch das System tunneln deutlich schneller bewegen als der Oszillator, d.h. der Oszillator spürt nur ein effektives von den Elektronen verursachtes Potential, während er seine Position im Gegensatz zu den Elektronen nur langsam verändert. Die interessantesten Phänomene zeigen sich jedoch, wenn sich die Elektronen und der Oszillator sich auf einer ähnlichen Zeitskala bewegen. Im Rahmen dieser Arbeit wird die Dynamik des Oszillators in adiabatischer und in nicht-adiabatischer Näherung untersucht. Um Zugang zu den mechanischen Eigenschaften zu erlangen kann die Methodik der Feynman-Vernon Influenz Funktionale genutzt werden. Wir konzentrieren uns auf zwei elektronische Modellsysteme -- das Ein- und Zwei-Level System -- die linear an eine einzige bosonische Mode koppeln. Wir nutzen den Greenschen Formalismus zur Berechnung der elektronischen Eigenschaften, dieser bietet, in seiner Erweiterung durch Keldysh, Möglichkeiten Nichtgleichgewichts - Prozesse zu beschreiben. Die Dynamik für einen Oszillator im elektronischen Zwei-Level System zeigt ein nicht-triviales Verhalten, es treten beispielsweise Grenzzyklen und Bistabilitäten auf. Wir untersuchen ausführlich die auftretenden Effekte mit Methoden für nichtlineare dynamische Syteme. Zudem erfolgt die Berechnung von Strom und Rauschen, beides Eigenschaften die experimentell zugänglich sind. Eine weitere Besonderheit der verwendeten Methode ist, dass keine störungstheoretische Behandlung der Kopplung zwischen dem Quantensystem und den elektronischen Anschlüssen erfolgt. Zudem zeigen wir, dass sich unsere nicht-adiabatische Methodik ohne weiteres auf bestimmte Systeme übertragen lässt. Dazu nutzen wir das Modell eines elektronischen Transportsystems mit einem elektronischen Level, dass an einen großes Ensemble von Spins koppelt, und dem Einfluss eines externen Magnetfeldes unterliegt. Das Spin Ensemble kann durch einen großen effektiven Spin beschrieben werden, für den eine semi-klassische Beschreibung möglich ist. Dabei werden die Quantenfluktuationen des Systems als klein angesehen und die Wechselwirkung zwischen den Spin- Systemen im Rahmen einer Meanfield-Näherung beschrieben.</dc:description>
+          <dc:date>2012-11-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3519</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37464</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37464</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3519/metelmann_anja.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

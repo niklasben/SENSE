@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4095">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4095</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR IV: FIMCAR Models</dc:title>
+          <dc:creator>Stein, Mathias</dc:creator>
+          <dc:creator>Johannsen, Heiko</dc:creator>
+          <dc:creator>Puppini, Roberto</dc:creator>
+          <dc:creator>Friedemann , Darius</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The  aim  of  the  FIMCAR  project  is  to  develop  and  validate  a  frontal  impact  assessment approach  that  considers  self  and  partner  protection.  In  order  to  assess  the  influence  of different  test  procedures  and  metrics  on  car-to-car  compatibility  a  huge  simulation programme  was  executed.  However,  car-to-car  simulations  with  models  of  different  car manufacturers are almost impossible to obtain because of confidentiality.  &#13;
+In order to overcome these problems, parametric car models (PCM) were built, allowing fast modifications  and  more  detailed  generic  car  models  (GCM)  were  developed  for  structural interaction analysis.  &#13;
+Three different PCM representing a super mini, a large family car and an executive car were developed.  By  simplifying  the  models,  computational  efforts  are  reduced.  Due  to  the parametric  design  it  is  possible  to  modify  the  models  in  an  easy  and  fast  way.  The  models are delivered in three crash codes (LS-DYNA, PAM-CRASH and RADIOSS) in order to be usable at all FIMCAR OEMs. &#13;
+The Generic Car Models (GCM) model virtual cars which represent an average real car of the respective category (super mini, small family car, executive car) in a comparable way to the OEM  models.  All  together  five  different  models  were  generated  (2  super  minis,  2  small family  cars  and  one  executive),  again  delivered  in  three  different  FE  codes  (LS-DYNA,  PAM- CRASH  and  RADIOSS).  The  models  can  be  used  to  evaluate  the  behaviour  of  the  crash structure  (e.g.,  crash  pulse,  deformation  characteristics  and  intrusions).  For  supermini  and small  family  categories,  two  models  were  generated  in  each  class  in  order  to  describe  the two main architectural/structural car variants that can usually be found on the road, i.e. with and  without  a  lower  load  path  in  the  frontal  frame  (structural  elements  below  the  main rails);  the  availability  of  both  structural  solutions  in  the  GCMs  is  in  fact  important  for  the study of compatibility issues.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4095</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40952</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40952</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4095/FIMCAR_IV_fimcar_models.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

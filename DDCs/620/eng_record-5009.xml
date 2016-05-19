@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:5009">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:5009</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Analyse der Implementierungs- und Umsetzungsempfehlungen des ICAO Advanced Surface Movement Guidance and Control System (A-SMGCS) Handbuchs</dc:title>
+          <dc:creator>Castell, Martin von</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die seit Jahren stetig um ca. 5 % wachsende Zahl der Flugbewegungen wirkt sich zunehmend in Form von Kapazitätsengpässen auf das Gesamtverkehrssystem ‚Luftverkehr’ aus. Einem gesteigerten Bedarf an Transportdienstleistung stehen somit zukünftig ohne Ergreifen geeigneter Maßnahmen nicht ausreichend Transportwege zur Verfügung, um bei Beibehaltung der geltenden Sicherheitsstandards ein der Nachfrage entsprechendes Angebot generieren zu können. Hiervon betroffen ist neben dem Streckenflug insbesondere der Rollverkehr an hochfrequentierten Verkehrsflughäfen, welche als zentrale Knotenpunkte eine Hubfunktion für international operierende Netzwerkfluggesellschaften bilden und zumeist strategisch günstig in der Nähe von dichtbesiedelten Finanz-, Technologie- und Handelszentren liegen. Eine Kapazitätserweiterung lässt sich demnach aufgrund von vielfältigen gesetzlichen Bestimmungen, mangelndem Flächenangebot und langwierigen Planfeststellungsverfahren oftmals nicht oder nur unzureichend realisieren und ist zudem in der Regel mit hohen Investitionen verbunden. Gerade bei schlechten Sichtbedingungen und in Anbetracht des zukünftig vorhandenen Wachstums muss jedoch im Sinne aller Akteure des Verkehrssystems ‚Luftverkehr’ sichergestellt sein, dass der Verkehr auf den Rollwegen von Verkehrsflughäfen in den gegebenen Grenzen sicher, verlässlich, effizient sowie ökonomisch rentabel stattfinden kann, um den vielfältigen Anforderungen an ein globales, wachstumsorientiertes Transportsystem des 21. Jahrhunderts gerecht werden zu können. Abhilfe schaffen soll u.a. das modular aufgebaute Rollführungs- und Rollverkehrssteuerungssystem Advanced Surface Movement Guidance and Control System (A-SMGCS). Dieses stellt eine Weiterentwicklung des bereits vorhandenen Surface Movement Guidance and Control System (SMGCS) dar, welches jedoch gerade bei schlechten Sichtbedingungen keine optimale Kapazitätsausnutzung bei gleichbleibendem Sicherheitsniveau erlaubt. Die International Civil Aviation Organization (ICAO) hat mit dem A-SMGCS Manual, welches als ICAO Doc 9830 im Jahr 2004 veröffentlicht wurde, ein Handbuch herausgegeben, in welchem technische Erfordernisse des neuen Systems festgelegt sind und Implementierungsempfehlungen für bestehende oder künftige Rollverkehrsinfrastruktureinrichtungen auf Basis von A-SMGCS gegeben werden. Eine entscheidende Rolle hierbei spielen die operationellen Gegebenheiten an einem Verkehrsflughafen, aus welchen die Erfordernisse an das jeweils dort zu integrierende A-SMGCS resultieren. Aus diesem Grund hat die ICAO in dem oben genannten Handbuch in Appendix A 36 Standardtypen von Verkehrsflughäfen anhand verschiedener Charakteristika definiert und den jeweiligen Typen in einer Typen-Level-Matrix Implementierungslevel zugeordnet. Somit können reale Verkehrsflughäfen anhand dieser Vorgaben typisiert und anhand der Appendizes B und C dementsprechende Implementierungsempfehlungen abgeleitet werden. Jedoch wird im Dokument selbst darauf verwiesen, dass es sich bei der Zuordnung lediglich um „an example of one means of grouping“, also um ein Beispiel für eine Art der Zuordnung, handelt. Ziel der vorliegenden Arbeit ist es zu analysieren, inwiefern diese Typisierung und die mit der Zuordnung korrelierenden Empfehlungen sinnvoll sind. Hierzu wird eine Auswahl geeigneter mitteleuropäischer Verkehrsflughäfen typisiert und gruppiert, um diese nachfolgend der Typen-Level-Matrix zuzuordnen. Anschließend erfolgt die Evaluation der in den Appendizes B und C des ICAO Doc 9830 dargestellten Zuordnungen dahingehend, ob die für die jeweiligen Typen vorgesehenen Implementierungslevel sinnvoll erscheinen. Weiterhin soll eine Empfehlung abgeleitet werden, ob und – falls erforderlich – in welchen Fällen andere Zuordnungen bzw. Gruppierungen zweckmäßig sind. Als Ergebnis dieser Evaluation kann festgehalten werden, dass das von der ICAO vertretene allgemeine Konzept zur Abgabe einer A-SMGCS-Implementierungsempfehlung als nicht zweckdienlich befunden wird. So hat die Analyse der Appendizes A bis C des ICAO Doc 9830 gezeigt, dass insbesondere Appendix A zum einen eklatante Mängel aufweist und zum anderen die entwickelten Kriterien für eine Anwendung bei ausstehenden Implementierungsentscheidungen nicht differenziert genug sind. Dieser Umstand wirkt sich aufgrund des konsekutiven Charakters des in den Appendizes A bis C vertretenen Gesamtkonzepts direkt und verfälschend auf die in den Appendizes B und C getätigten Implementierungsempfehlungen aus. Dies hat zur Folge, dass die Appendizes B und C in ihrer Einbettung ins Gesamtkonzept ebenfalls als nicht zweckdienlich erachtet werden müssen.&#13;
+</dc:description>
+          <dc:date>2014-04-08</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/5009</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-50097</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-50097</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/5009/von_castell_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

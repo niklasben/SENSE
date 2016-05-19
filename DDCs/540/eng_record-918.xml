@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:918">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:918</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Oberflächencharakterisierung von aliphatischen Polyamiden zur Bewertung adhäsiver Wechselwirkungen in carbonfaserverstärkten Verbunden</dc:title>
+          <dc:title xml:lang="eng">Surface characterization of aliphatic polyamides for evaluation of adhesive interaction in carbonfiber reinforced plastics</dc:title>
+          <dc:creator>Richter, David Immanuel</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird das Konzept verfolgt, die Qualität und die Quantität adhäsiver Wechselwirkungen in carbonfaserverstärkten aliphatischen Polyamiden (CFRPAs) auf der Grundlage einfacher Modelle und mit minimalem experimentellem Aufwand vorherzusagen. In ihrem Gesamtanliegen bleiben die Betrachtungen jedoch nicht auf CFRPAs beschränkt, denn die Aussagen und Befunde hinsichtlich des komparativen Einsatzes verschiedener Modelle und experimenteller Methoden aus Thermodynamik, Elektrokinetik und Mikromechanik lassen sich auch auf andere (ähnliche) Faserverbunde übertragen. Ausgangspunkt der Untersuchungen ist die Entwicklung eines chemometrischen Modells für aliphatische Polyamide. Das daraus hervorgehende Strukturmerkmal gerichtete Bindungsstellenkonzentration dient als numerische Basis für den quantitativen Vergleich von Oberflächeneigenschaften (u.a. Festkörper-Oberflächenspannung und Konzentration von Oberflächenfunktionalitäten) der aliphatischen Polyamide PA 6.9, PA 6.10, PA 10.10, PA 12.9 und PA 12.10. Anhand von einfachen Strukturbetrachtungen kann das Strukturmerkmal auf die Grenzstrukturen Polyethylen (PE) und PA 1 extrapoliert werden. Die experimentellen Messdaten für PE stehen mit dem chemometrischen Modell im Einklang. Aus diesen Befunden kann ein Verbundmodell für CFRPAs entwickelt werden, dessen Vorhersagen mit den Ergebnissen des mikromechanischen Einzelfaserfragmentierungstests (Grenzflächenscherfestigkeit) und mit der unter Verwendung von fünf verschiedenen thermodynamischen Adhäsionsmodellen berechneten thermodynamischen Adhäsionsarbeit verglichen werden. Darüber hinaus wird der Einsatz von Zetapotentialmessungen nach der Strömungspotential/-strom-Methode (ZpSM) für die Charakterisierung adhäsionsrelevanter Eigenschaften der Verbund-Einzelkomponenten diskutiert. Die theoretischen Arbeiten gehen mit dem Versuch einher, die in Relation zum Adhäsionsbegriff stehenden Konzepte aus Naturwissenschaft und Technik zusammenzutragen, aufgrund einer semantischen Analyse zu ordnen und untereinander in Beziehung zu setzen.</dc:description>
+          <dc:date>2004-11-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/918</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9110</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9110</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/918/richter_david.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

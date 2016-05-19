@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:674">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:674</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Variational principles for circle patterns</dc:title>
+          <dc:title xml:lang="deu">Variationsprinzipien für Kreismuster</dc:title>
+          <dc:creator>Springborn, Boris Andre Michael</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Eine Delaunay-Zellzerlegung einer Fläche konstanter Krümmung liefert ein Kreismuster, welches aus den Kreisen besteht, die den Facetten umschrieben sind. Wir betrachten das Problem, ob es für eine vorgegebene (topologische) Zellzerlegung und vorgegebene Schnittwinkel zwischen den Kreisen eine entsprechende Delaunay-Zellzerlegung gibt, ob sie eindeutig ist, und wie sie zu konstruieren ist. Etwas allgemeiner lassen wir auch kegelartige Singularitäten in den Mittel- und Schnittpunkten der Kreise zu. Wir beweisen Existenz- und Eindeutigkeitssätze für die Lösung des Kreismusterproblems mit Hilfe von Variationsprinzipien. Die Funktionale (eins für den euklidischen, eins für den hyperbolischen Fall) sind konvexe Funktionen der Radien der Kreise. Kritische Punkte entsprechen Lösungen des Kreismusterproblems. Das analoge Funktional für den sphärischen Fall ist nicht konvex, deshalb wird dieser Fall durch stereographische Projektion in die Ebene erledigt. Aus der Existenz und Eindeutigkeit von Kreismustern in der Sphäre folgern wir eine verschärfte Version des Satzes von Steinitz über die geometrische Realisierbarkeit von abstrakten Polyedern. Wir leiten die Variationsprinzipien von Colin de Verdiere, Brägger und Rivin für Kreispackungen bzw. Kreismuster aus unseren Variationsprinzipien ab. Im Fall der Funktionale von Brägger und Rivin erfordert dies eine Legendretransformation unseres euklidischen Funktionals. Entsprechende Legendretransformationen des hyperbolischen und des sphärischen Funktionals liefern neue Variationsprinzipien. Die Variablen der transformierten Funktionale sind nicht Radien, sondern bestimmte Winkel. Die transformierten Funktionale besitzen eine geometrische Interpretation als Volumen von bestimmten dreidimensionalen Polyedern im hyperbolischen Raum. Leibons Funktional für hyperbolische Kreismuster lässt sich nicht aus unseren Funktionalen herleiten. Wir konstruieren jedoch ein weiteres Funktional, aus dem sowohl Leibon's als auch unser Funktional hergeleitet werden kann. Durch die umgekehrte Legendretransformation von Leibons Funktional erhalten wir ein neues Variationsprinzip für hyperbolische Kreismuster. Wir präsentieren Java Software zur Berechnung und Visualisierung von Kreismustern.</dc:description>
+          <dc:description xml:lang="eng">A Delaunay cell decomposition of a surface with constant curvature gives rise to a circle pattern, consisting of the circles which are circumscribed to the facets. We treat the problem whether there exists a Delaunay cell decomposition for a given (topological) cell decomposition and given intersection angles of the circles, whether it is unique and how it may be constructed. Somewhat more generally, we allow cone-like singularities in the centers and intersection points of the circles. We prove existence and uniqueness theorems for the solution of the circle pattern problem using a variational principle. The functionals (one for the euclidean, one for the hyperbolic case) are convex functions of the radii of the circles. The critical points correspond to solutions of the circle pattern problem. The analogous functional for the spherical case is not convex, hence this case is treated by stereographic projection to the plane. From the existence and uniqueness of circle patterns in the sphere, we derive a strengthened version of Steinitz' theorem on the geometric realizability of abstract polyhedra. We derive the variational principles of Colin de Verdiere, Brägger, and Rivin for circle packings and circle patterns from our variational principles. In the case of Brägger's and Rivin's functionals, this requires a Legendre transformation of our euclidean functional. The respective Legendre transformations of the hyperbolic and spherical functionals lead to new variational principles. The variables of the transformed functionals are certain angles instead of radii. The transformed functionals may be interpreted geometrically as volumes of certain three-dimensional polyhedra in hyperbolic space. Leibon's functional for hyperbolic circle patterns cannot be derived from our functionals. But we construct yet another functional from which both Leibon's and our functionals can be derived. By applying the inverse Legendre transformation to Leibon's functional, we obtain a new variational principle for hyperbolic circle patterns. We present Java software to compute and visualize circle patterns.</dc:description>
+          <dc:date>2003-12-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/674</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6683</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6683</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/674/springborn_boris.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

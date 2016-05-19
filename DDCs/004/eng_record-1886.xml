@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1886">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1886</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Foundations of Modelling and Simulation of Complex Systems</dc:title>
+          <dc:creator>Vangheluwe, Hans</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Modelling and simulation are becoming increasingly important enablers for the analysis and design of complex systems. In application domains such as automotive design, the notion of a virtual experiment'' is taken to the limit and complex designs are model-checked, simulated, and optimized extensively before a single realization is ever made. This doing it right the first time'' leads to tremendous cost savings and improved quality. Furthermore, with appropriate models, it is often possible to automatically synthesize (parts of) the system-to-be-built. In this paper, the basic concepts of modelling and simulation are introduced. These concepts are based on general systems theory and start from the idea of a model as an abstract representation of knowledge about structure and behaviour of some system. The purpose is either analysis or design in a particular experimental context. Typically, different formalisms are used such as Ordinary Differential Equations, Queueing Networks, and State Automata. It will be shown how these different formalisms all share a common structure and differ in the choice of time base, state space, and description of temporal evolution. This allows one to classify formalisms on the one hand and to find a common ground for implementing simulators on the other hand.</dc:description>
+          <dc:date>2008-08-28</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1886</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19930</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19930</dc:identifier>
+          <dc:identifier>1863-2122</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1886/ECEASST_Vol_10_2008_13.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

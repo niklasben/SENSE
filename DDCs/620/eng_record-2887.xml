@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2887">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2887</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analyzing Runoff Dynamics of Paved Soil Surface Using Weighable Lysimeters</dc:title>
+          <dc:title xml:lang="deu">Analyse der Abflussdynamik teilversiegelter Flächen mittels wägbarer Lysimeter</dc:title>
+          <dc:creator>Rim, Yong-Nam</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">In consideration of urban adaption strategies to climate change and water shortages, it becomes clear that process-based models are necessary in order to predict the availability of water resources with high temporal and spatial resolution. The aim of the study is to develop a process-based model for runoff dynamics. For the representative elementary area of paved soil surfaces, the water balance processes were measured under varying natural hydrologic conditions, using the weighable paved lysimeter system. In order to observe the runoff dynamics even from small events, a new runoff setup, called the weighable tipping bucket (WTB), was developed. The process-based model of runoff dynamics describes the runoff coefficient in relation to the rainfall event intensity, the surface storage, the runoff-producing intensity, the final infiltration rate, and the infiltration exponent. The surface storage determines the total potential of pavement for the infiltration capacity through the rainfall event. The smaller the rainfall event intensity, the more effective the buffer function of the surface storage becomes. The surface hydrologic parameters for two typical pavement types, Bernburg mosaic cobblestone and Concrete paving slab, were determined. The urban water budget processes were continuously observed for the climate and hydrologic conditions of Berlin, Germany for the period between May 2009 and April 2010. The annual runoff coefficients were ca. 16 % and 27 %, respectively, for Bernburg mosaic cobblestone and Concrete paving slab. These results were considerably smaller than the results predicted from the standard regulations (e.g. DWA-Regeln). The improvement of the lysimeter technique by using a weighable tipping bucket enabled the high-resolution measurement of runoff processes. A technical and analytical method was established to derive the surface hydrologic parameters for further paving materials. The model clarified that the surface storage has to be adjusted to the characteristics of regional precipitation frequency in order to minimize the runoff water. The process-based model allows assessing the uncertainty of the prediction from the simplified empiric models. It can be applied to the various climate conditions.</dc:description>
+          <dc:description xml:lang="deu">Die urbane Anpassungsstrategie an den Klimawandel benötigt prozessbasierte Simulationsmodelle, damit die Verfügbarkeit von Niederschlagsabflusswasser auch unter sich ändernden klimatischen Bedingungen räumlich und zeitlich hochaufgelöst berechnet werden kann. Das Ziel der Arbeit ist daher, ein prozessbasiertes Modell für dynamisches Abflussverhalten zu entwickeln. Die Arbeit untersucht dafür den Wasserhaushalt teilversiegelter Flächen unter natürlichen Niederschlagsbedingungen mittels wägbarer Lysimeter. Um die Dynamik der Abflussprozesse auch für kleine Niederschlagsereignisse beobachten zu können, wurde ein neues Messinstrument, die wägbare Kippwaage, entwickelt. Das Modell beschreibt den intensitätsabhängigen Abflussbeiwert. Die Pufferfunktion des Oberflächenspeichers ist umso effektiver, je kleiner die Niederschlagsintensität. Durch die Anpassung des Modells an die beobachteten Ereignisse konnten invers die mittleren wirksamen oberflächenhydrologischen Parameter bestimmt. Unter der realitätsnaher Verwirklichung der oberen Randbedingung der Lysimeter wurden die Wasserhaushaltskomponenten in Berlin zwischen Mai 2009 und April 2010 durchgehend gemessen. Dabei betrug der Oberflächenabfluss ca. 16 % des Jahresniederschlags für Bernburg Mosaik und ca. 27 % für Großbetonsteinplatte. Diese Werte sind deutlich geringer als die Werte, die mittels Abflussbeiwerten aus Regelwerken prognostiziert wurden (z.B. DWA-Regeln). In dieser Arbeit wurde erstmals ein prozessbasiertes Modell für die Beschreibung des Oberflächenabflussverhaltens teilversiegelter Flächen entwickelt. Die wägbare Kippwaage ermöglicht eine technische und analytische Methodik für die Ableitung der Flächenparameter auch anderer Versiegelungsmaterialien. Damit können die Retentionskapazitäten neuer Materialien im Sinne der Weiterentwicklung von Straßenbelägen gemessen und verbessert werden. Das prozessbasierte Modell ermöglicht die Abschätzung der Unsicherheiten der Prognosen vereinfachter empirischer Modelle. Das Modell kann weiterhin auf unterschiedliche Klimabedingungen angewendet werden.</dc:description>
+          <dc:date>2011-05-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2887</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30471</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30471</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2887/rim_yongnam.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

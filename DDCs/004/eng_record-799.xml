@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:799">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:799</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Implementierung von Supply Chain Management Systemen in der Stahlindustrie : Konzept zur Generierung von Schnittstellen zwischen den einzelnen Ebenen</dc:title>
+          <dc:title xml:lang="eng">Implementation of Supply Chain Management Systems in the steel industry</dc:title>
+          <dc:creator>Heidrich, Joachim</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Supply Chain Management ist die unternehmensübergreifende Koordination von Information, Waren und Kapital entlang der gesamten Wertschöpfungskette ausgehend vom Rohstofflieferanten bis hin zum Endverbraucher. Ausgehend von der Grundstruktur von SCM - Systemen wird die Funktionsweise der Einzelmodule analysiert und für den Einsatz in der Stahlindustrie bewertet. Durch Überprüfung der stahlspezifischen Prozesse werden die konkreten Anforderungen an SCM Systeme ermittelt und daraus das Referenzmodell für die Stahlindustrie abgeleitet. Auf Basis einer Schnittstellenanalyse zwischen den einzelnen Modulen und dem Legacy-System werden Methoden zur Integration der Systemkomponenten aufgezeigt und ein Aggregationskonzept erstellt, dabei werden entgegen bisherigen Ansätzen für die Aggregation aktuelle Plandaten verwendet. Durch die Analyse des Informationsflusses wird die Synchronisation der einzelnen hierarchischen Planungsebenen gewährleistet und die Schnittstellenkonfiguration definiert. Entgegen dem Ansatz führender SCM - Anbieter den Kapazitätsabgleich durch Einplanung aggregierter Fertigungswege zu erreichen, wird eine Methode zur Berechnung der verfügbaren Kapazität auf Basis der Belegung aus der Fertigungs-planung entwickelt, und die daraus resultierenden Vorteile in Bezug auf Konsistenz und Stabilität der Planung dargestellt. Methoden zur Merkmalsbasierten Bestandberücksichtigung werden für die Grob- und Feinplanung aufgezeigt. Bezogen auf aktuelle Planungsmethoden, sowie den bisherigen Einsatz von SCM-Systemen, werden wesentliche Neuerungen in den Konzepten zur Kampagnenplanung und zur merkmalsbasierten Materialauswahl innerhalb der Online-Terminierung aufgezeigt. Durch die Einbindung der attributbezogenen Materialauswahl kann entgegen bisherigen Annahmen auch in der Stahlindustrie der Bestand bei der Online-Terminierung berücksichtigt werden</dc:description>
+          <dc:date>2004-08-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/799</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7936</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7936</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/799/heidrich_joachim.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

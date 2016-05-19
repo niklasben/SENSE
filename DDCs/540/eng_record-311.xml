@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:311">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:311</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Quantenchemische Studien zu ausgewählten Themen der Biochemie</dc:title>
+          <dc:title xml:lang="eng">Quantumchemical investigations of several biochemical topics</dc:title>
+          <dc:creator>Sinnecker, Sebastian</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurden Fragestellungen aus drei Gebieten der Biochemie unter Anwendung quantenchemischer Methoden untersucht. Kapitel 3 beschäftigt sich mit den Modellsystemen der Carboanhydrase (CA). Es wurden die wichtigsten stationären Punkte der Potentialhyperfläche für die Hydratisierung von Kohlenstoffdisulfid unter Verwendung der gängigsten CA  Modellsysteme ermittelt und mit dem natürlichen Prozeß, der Umsetzung von Kohlendioxid, verglichen. Die Reaktion mit CS2 verläuft nach einem analogen Mechanismus, zeichnet sich jedoch durch eine höhere Barriere aus und ist stärker exotherm. Letzteres gefährdet die katalytische Umsetzung, da die Abtrennung des Reaktionsprodukts vom Katalysator erschwert ist. Die Untersuchungen wurden unter Anwendung des Hartree  Fock Modells und der Dichtefunktionaltheorie durchgeführt. In Kapitel 4 wird die Berechnung isotroper Hyperfeinkopplungskonstanten unter Verwendung von Dichtefunktionalmethoden an verschiedenen Bakteriochlorophyll- und Chlorophyllradikalen vorgestellt. Die Strukturen wurden vollständig geometrieoptimiert. Für einen Teil der untersuchten Systeme liegen experimentelle Daten vor, der Vergleich mit den berechneten Kopplungskonstanten zeigt eine gute Übereinstimmung. Für den anderen Teil können die theoretisch ermittelten Kopplungskonstanten zur Interpretation neu gewonnener EPR  Daten herangezogen werden. Kapitel 5 beschäftigt sich mit dem Selensulfidmolekül und seinem Anion. Es wurden die Potentialkurven für verschiedenste elektronische Zustände des neutralen Moleküls und des Anions berechnet und spektroskopische Konstanten bestimmt. Zum Einsatz kamen die multi reference CI und die coupled cluster Methoden. Wenn möglich, wurde ein Vergleich zu experimentellen Daten gezogen. Während die berechneten Größen für das neutrale Selensulfid eine gute Übereinstimmung mit den experimentellen Daten zeigten, besteht für das Anion Bedarf an weiteren theoretischen Untersuchungen.</dc:description>
+          <dc:date>2001-04-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/311</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3060</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3060</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/311/sinnecker_sebastian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

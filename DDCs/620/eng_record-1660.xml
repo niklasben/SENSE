@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1660">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1660</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:habilitation</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Material Modeling of Microstructured Solids — Theory, Numeric and Applications —</dc:title>
+          <dc:title xml:lang="deu">Modellierung für mikrostrukturierte Materialien - Theorie, Numerik und Anwendungen -</dc:title>
+          <dc:creator>Weinberg, Kerstin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This work presents a systematic approach to incorporate microstructural changes in the constitutive modeling of the macroscopic material behavior. In particular we consider materials that are in its virgin state isotropic and develop a microstructure as a consequence of mechanical or thermal loading. To provide purely heuristic theories with a more refined background a mesoscopic theory will be introduced. Mesoscopic theories fall somewhere in between microscopic and macroscopic theories in the sense that no microscopic interactions between atoms and molecules are considered. Rather mesoscopic field equations contain additional variables which have to do with microstructural changes of the material. The focus of this work is on modeling the material in a way that enables a numerical computation of engineering or biological structures. Special emphasis is put on dynamically loaded structures undergoing large deformations. The theoretical framework is based on (local and instantaneous) energy-minimizing principles. In consequence, the presented algorithms for numerical simulations are strictly variational. Exemplarily the fragmentation of ductile metal structures, the assessment of damage in microelectronic components and the shock wave induced damage in a human kidney are analyzed.</dc:description>
+          <dc:description xml:lang="deu">Die Arbeit präsentiert einen systematischen Ansatz um mikromechanische Änderungen in der makroskopischen Modellierung des Materialverhaltens zu berücksichtigen. Dazu betrachten wir Materialien die zunächst isotrop sind, im Verlaufe der Belastung aber eine gewisse Mikrostruktur entwickeln. Wesentliche Effekte dieser mikrostrukturellen Entwicklung werden mit Hilfe einer mesoskopischen Theorie im makroskopischen Materialgesetz berücksichtigt. Insbesondere geht es bei dieser Modellierung darum die Materialgesetze so zu formulieren, dass sie eine numerische Berechnung komplexer Strukturen ermöglichen. Solche Strukturen erfahren dabei große Verformungen und schnelle Belastungen. Sämtliche Formulierungen basieren daher auf (lokaler und zeitinkrementeller) Energieminimierung und die vorgestellten Algorithmen sind folglich variationell. Beispielhaft werden die Zersprengung eines duktilen Metallrings, die Schädigung eines mikroelektronischen Verbindungsbauteils und die Schockwellenbehandlung einer menschlichen Niere simuliert und analysiert.</dc:description>
+          <dc:date>2008-01-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-dvi</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1660</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16965</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16965</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1660/original_weinberg_kerstin.dvi</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1660/weinberg_kerstin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

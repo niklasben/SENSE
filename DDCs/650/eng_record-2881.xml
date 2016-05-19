@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2881">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2881</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Vendor-Managed Inventory for High Value PartsResults from a survey among leading international manufacturing firms </dc:title>
+          <dc:creator>Franke, Peter D.</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="eng">Vendor-managed inventory (VMI) is common practice in mass-market environments and for high-volume, low-value items. But increasingly, also firms that produce low volumes of high value products are looking into VMI to reduce supply chain inventory and to be able to concentrate on their customer-side processes. This study shows how some leading international manufacturing firms have implemented vendor-managed inventory with their suppliers. Some of these firms have been practicing VMI for high value parts for more than ten years and continue to extend their schemes to include more items and suppliers. The study proposes a new structural framework specifying alternative solutions with respect to information, commercial and physical processes. Based on the survey findings, the author gives recommendations to firms looking at implementing VMI. Printed version available by Universitätsverlag der TU Berlin, ISBN 978-3-7983-2211-0</dc:description>
+          <dc:date>2011-05-06</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2881</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29410</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29410</dc:identifier>
+          <dc:identifier>978-3-7983-2210-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2881/Spec_Ed_Scien_Ser_Log_3_VMI_STUDY.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2881/Spec_Ed_Scien_Ser_Log_3_VMI_STUDY_Cover.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

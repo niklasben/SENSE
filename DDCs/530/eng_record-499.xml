@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:499">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:499</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Optimierung und Erweiterung eines flugzeuggetragenen FIR Heterodyn-Spektrometers im Hinblick auf Emissions- und Absorptionsmessung</dc:title>
+          <dc:title xml:lang="eng">Optimization and Extension of Airborne FIR Heterodyne-Spectrometer for Emission and Absorption</dc:title>
+          <dc:creator>Krocka, Michael</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Ende des 19. Jahrhunderts wurde Ozon als natürlicher Bestandteil der Atmosphäre identifiziert. Die sogenannte Ozonschicht befindet sich in der Stratosphäre in einer Höhe zwischen 15 km und 30 km. Sie absorbiert beinahe die gesamte ultraviolette Strahlung der Sonne. Die Abnahme des Ozongehalts in der Stratosphäre wird durch den katalytischen Ozonabbau verursacht. Bei diesem Prozess spielen OH-Radikale als Katalysator eine wichtige Rolle. Diese können durch Fernerkundung im fernen Infrarot (Terahertz - Bereich) nachgewiesen werden. Zu diesem Zweck wurde beim Deutschen Zentrum für Luft- und Raumfahrt das Heterodynspektrometer (THOMAS) entwickelt, mit dem bisher die Emissionsstrahlung des Rotationstriplets von OH bei 2513,2 GHz gemessen werden konnte. Aufgrund der starken Absorption von troposphärischem Wasserdampf in diesem Spektralbereich wird das Instrument mit einem Flugzeug auf eine Messhöhe oberhalb der Tropopause gebracht, von wo aus in Vertikalsondierung gemessen wird. Dabei wird aus der Linienform der gemessenen spektralen Strahldichten durch ein Inversionsverfahren die räumliche Konzentrationsverteilung der OH-Radikale gewonnen. Das ungünstige Signal-zu-Rausch-Verhältnis der Emissionsmessungen erfordert jedoch eine lange Messzeit (über 20 min), so dass aufgrund der damit verbundenen großen Flugstrecke keine räumlich aufgelösten Aussagen über die Konzentrationsverteilung der OH-Radikale getroffen werden können. Im Rahmen dieser Arbeit wurden zwei neue Verfahren entwickelt: Es wurden bei Emissionsmessungen innerhalb eines Messzyklus mehrere Spektren unter verschiedenen Beobachtungswinkeln aufgenommen. Die dabei zusätzlich gewonnene Information kann bei der Inversion genutzt werden. Die wesentliche Innovation liegt jedoch in der Entwicklung einer gänzlich neuen Anwendung des Instruments. Dabei wird die Absorption von Sonnenstrahlung durch OH gemessen. Zu diesem Zweck wurde die Optik des Spektrometer erweitert und eine Nachführeinheit entwickelt, die die Bewegung des Flugzeugs nahezu in Echtzeit ausgleicht. Die hohe Temperatur der Sonne von ca. 6000 K macht außerdem den Einsatz einer heißen Kalibrierquelle erforderlich. Die ersten Absorptionsmessungen führten gegenüber den bisherigen Emissionsmessungen bereits zu einer deutliche Verbesserung des Signal-zu-Rausch-Verhältnisses. Das neue Verfahren bewirkt sowohl eine höhere Genauigkeit der resultierenden OH-Verteilung als auch eine bessere räumliche Auflösung durch die kürzere Messzeit.</dc:description>
+          <dc:date>2002-09-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/499</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4940</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4940</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/499/krocka_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

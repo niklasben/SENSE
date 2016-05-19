@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:349">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:349</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">PAC-Bayesian Pattern Classification with kernels  </dc:title>
+          <dc:title xml:lang="deu">PAC-Bayesianische Musterklassifikation mit Kernen : Theorie, Algorithmen und eine Anwendung auf das Go-Spiel</dc:title>
+          <dc:creator>Graepel, Thore</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit beschäftigt sich mit der Kern-basierten überwachten Klassifikation von Mustern im Rahmen des maschinellen Lernens. Sie gibt eine detaillierte Einführung in die Themen Lerntheorie und Kern-basierte Algorithmen. Neue Beiträge bestehen in lerntheoretische Ergebnisse im Rahmen der PAC-Bayesianischen Theorie, neuen sampling Algorithmen für bayesianische Klassifikation in Kernräumen, und in der Anwendung von Kernmethoden auf Mustererkennung im japanische Brettspiel Go. Lerntheorie: Im Rahmen der PAC-Bayesianischen Theorie werden neue Schranken an den Vorhersagefehler linearer Klassifikatoren (in Kernräumen) hergeleitet, in die nicht nur der normierte margin, sondern auch die Konzentration der Trainingsdaten und die Verteilung der reellwertigen Ausgaben eingehen. Unter der Annahme dünnbesetzter dualer Variablen, wird die PAC-Bayesianische Theorie auf datenabhängige Hypothesenräume erweitert. Es werden "egalitäre" Schranken an die Wahrscheinlichkeit bewiesen, daß ein Klassifikator einen hohen Vorhersagefehler hat, obwohl er sich in einer Untermenge befindet, die im Mittel einen niedrigen Trainingsfehler aufweist. Diese Ergebnisse unterstreichen die Wichtigkeit von Modellselektion. Lernalgorithmen: Bayesian transduction und die Bayes point machine werden als optimale Klassifikationsverfahren im bayesianischen Sinne identifiziert. Es werden sampling Algorithmen für den resultierenden stückweise konstanten Posterior entwickelt: der kernel Gibbs sampler, ein MCMC Verfahren geeignet für den Fall verrauschter Klasseninformation und der permutational perceptron sampler für Probleme mit vielen Trainingsdaten. Beide Verfahren werden auf Klassifikationsproblemen zur Erkennung handgeschriebener Ziffern getestet und erweisen sich der support vector machine besonders bei der Angabe von Konfidenzwerten als überlegen. Anwendung: Als Anwendungsbeispiel für Kernklassifikatoren wird das Problem der Mustererkennung im japanischen Brettspiel Go betrachtet, das hier als Prototyp eines Klassifikationsproblems auf symbolischen bzw. strukturierten Objekten dient. Als kompakte Repräsentation von Go-Stellungen wird der common fate graph entwickelt, auf dessen Grundlage sogenannte relative subgraph features einen geeigneten Merkmalsraum aufspannen. Davon ausgehend wird eine support vector machine trainiert, um die Qualität von Zügen aus einer Sammlung von Go-Problemen und 9x9 Spielprotokollen zu lernen. Die resultierenden Klassifikatoren lösen bestimmte Problemstellungen und spielen 9x9 Go mit einer beachtlichen Spielstärke.</dc:description>
+          <dc:description xml:lang="eng">The thesis deals with problems of pattern classification in the framework of machine learning. The focus of the work is on kernel methods for the supervised classification of objects. The thesis gives a detailed introduction into the field of kernel algorithms and learning theory. New contributions include learning theoretical results in the PAC-Bayesian framework, efficient sampling algorithms for Bayesian classification in kernel space, and an application of kernel methods to pattern analysis in the game of Go. Learning Theory: In the PAC-Bayesian framework we derive new bounds on the prediction error of linear classifiers (in kernel space) in terms of the normalised margin achieved on the training sample, taking into account both the concentration of the training data and the margin distribution. Assuming sparseness of the dual variables we extend the PAC-Bayesian framework to data-dependent hypotheses. Finally, we prove "egalitarian" bounds on the probability of finding classifiers with high prediction error in subsets of hypothesis space with low empirical risk - results that emphasise the importance of model selection. Learning Algorithms: We discuss Bayesian classification in kernel space and identify Bayesian transduction and the Bayes point machine as optimal procedures for classification in a Bayesian sense. Assuming a uniform prior over normalised weights for a given kernel we devise sampling schemes for the resulting piecewise constant posterior: The kernel Gibbs sampler, a Markov chain Monte Carlo method able to deal with label noise, and the permutational perceptron sampler for large scale sampling. The classification techniques are tested on handwritten-digit recognition tasks and compare favourably to support vector machines when rejecting test data based on confidence measures. Application: We apply kernel classifiers to the domain of pattern classification in the Japanese game of Go, which serves as a test domain for classification problems involving symbolic or structured objects. In order to learn mappings from points on the board to numbers that indicate territorial status or move quality we define the common fate graph as a compact representation for Go positions and show how a feature space based on relative subgraph features can be constructed. Building on the this representation we train a support vector machine to learn the quality of moves from a collection of Go problems and from actual 9x9 game records. As a result, we obtain classifiers that solve certain Go problems and play 9x9 Go at a non-trivial level of playing strength.</dc:description>
+          <dc:date>2002-11-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/349</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3440</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3440</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/349/graepel_thore.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

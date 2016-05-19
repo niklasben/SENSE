@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2064">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2064</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Characterization of co-axial mixing systems to blend highly viscous and non-Newtonian fluids</dc:title>
+          <dc:title xml:lang="deu">Charakterisierung von koaxialen Rührersystemen zur Homogenisierung hochviskoser und nicht-Newtonischer Flüssigkeiten</dc:title>
+          <dc:creator>Rudolph, Luciana</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This doctoral thesis addresses the blending of highly viscous and non-Newtonian fluids in co-axial agitation systems, in particular in the laminar regime. An experimental and numerical study using a pilot-scale co-axial agitation system was carried out to explore and characterize the mixing performance. The characterization was based on blend time and power consumption measurements at different operating conditions. Two co-axial mixer configurations were employed in this investigation: a dual set of pitched-blade turbine (PBT) combined with a proximity impeller: the anchor or the Paravisc® (EKATO Rühr- und Mischtechnik GmbH). The effects of the mutual interactions between the open and proximity impellers in the laminar regime for Newtonian and non-Newtonian fluids on the power consumption of each impeller were analyzed and described. It was shown that the power consumption of the proximity impeller is affected by the tip speed ratio and rotating mode, but no influence of the proximity impeller speed and rotational direction on the power drawn by the pitched blade turbines was observed. The results obtained in the numerical simulations (Computational Fluid Dynamics) demonstrated the ability to calculate the flow field with reasonable accuracy to describe these interactive effects on the power consumption of the impellers. The power curves were processed into single power master curves by introducing a parameter to account for the effect of the tip speed ratio. Mixing time characteristic curves were developed to describe the efficiency of different mixer configurations in the laminar regime. Within the range of investigated operation, the results indicated that the co-axial mixer composed of Paravisc® and pitched blade turbines was found to be the most efficient configuration among the investigated co-axial mixer designs. The performance of all investigated co-axial mixer configurations was in general higher than the single impeller systems in the laminar regime. The data in the transitional regime suggested that the performance of the open impellers as single system becomes equivalent to the performance of the co-axial mixer configuration with the anchor and pitched-blade turbines. It was also shown that the anchor combined with PBT in co-rotating mode was more efficient than in counter-rotating mode in the laminar regime, but the performance of the both configurations apparently became similar as the transitional regime begins.</dc:description>
+          <dc:description xml:lang="deu">Im Rahmen der vorliegenden Dissertation wurde die Homogenisierung hochviskoser und nicht-Newtonischer Flüssigkeiten in koaxialen Rührsystemen, insbesondere im laminaren Bereich, untersucht. Experimente und numerische Simulationen wurden mit dem Ziel durchgeführt, die Durchmischungsleistung von koaxialen Rührsystemen zu charakterisieren. Experimentelle Daten der Mischzeit und Rührerleistung, die als Basis zur Charakterisierung von Rührsystemen dienen, wurden in einem Behälter mit einem Koaxialrührwerk im Pilotmaßstab für verschiedene Betriebsbedingungen gewonnen. Zwei verschiedene Konfigurationen koaxialer Rührsysteme wurden untersucht. Ein zweistufiger Schrägblattrührer (SBR) wurde mit einem wandnahen Ankerrührer bzw. einem PARAVISC® (EKATO Rühr- und Mischtechnik GmbH) kombiniert. Die Wechselwirkungseffekte der Rührer in den koaxialen Rührsystemen auf die Leistungsaufnahme für newtonsche und nicht-Newtonsche Flüssigkeiten im laminaren Bereich wurden beschrieben. Es wurde gezeigt, dass der Leistungsbedarf der wandnahen Rührer vom Drehfrequenzverhältnis und der Rührerdrehrichtung beeinflusst wurde, aber keinerlei Einfluss von der durch den wandnahen Rührer hervorgerufenen Strömung auf den Leistungsverbrauch der inneren Rührer beobachtet werden konnte. Die Ergebnisse der numerischen Simulationen zeigten, dass mit Hilfe der numerischen Strömungssimulation (Computational Fluid Dynamics) die komplexe Strömung mit hinreichender Genauigkeit beschrieben werden konnte, um die interaktiven Auswirkungen auf den Stromverbrauch der Rührer zu kennzeichnen. Die Leistungskurven wurden hierbei in Form von Einzelmasterkurven durch Einführung eines Parameters zur Berücksichtigung von Effekten des Drehfrequenzverhältnisses verarbeitet. Es wurden Mischzeitcharakteristika zur Unterstützung der Effizienzbeschreibung im laminaren Bereich bei verschiedenen Rühreranordnungen entwickelt. Im untersuchten Bereich zeichnete sich das koaxiale Rührsystem aus Paravisc® und Schrägblattrührer als das effizienteste Design unter den untersuchten Rührsystemen aus. Insgesamt war die Effizienz aller untersuchten Koaxialrührer höher als diejenige der Einzelrührsysteme. Im Übergangsbereich gaben die Daten zu erkennen, dass sich die Performance der Innenrührer als Einzelsystem der Performance der koaxialen Rührerkonfiguration Anker mit SBR nahezu ebenbürtig zeigten. Es wurde gezeigt, dass der Ankerrührer in Kombination mit dem zweistufigen Schrägblattrührer in gleichsinniger Drehrichtung höhere Effizienz als in gegensinniger Drehrichtung aufweist. Die Durchmischungsleistung beider Konfigurationen gleicht sich hingegen im Übergangsbereich an.</dc:description>
+          <dc:date>2009-02-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2064</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21529</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21529</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2064/original_rudolph_luciana_orig.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2064/rudolph_luciana.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

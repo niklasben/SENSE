@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:506">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:506</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Stochastische Modellierung der Nanopartikelbildung in Mikroemulsionen</dc:title>
+          <dc:title xml:lang="eng">Stochastic model of particle formation in microemulsions</dc:title>
+          <dc:creator>Rodriguez Hernandez, Lourdes</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Für die Beschreibung der Nanopartikelbildung in Mikroemulsionen wurde ein stochastisches Modell entwickelt. Das Modell basiert auf der Methode nach Gillespie. Der Vorteil dieser Methode besteht darin, dass die Mastergleichung nicht direkt gelöst werden muss. Die einzelnen Prozesse im Reaktionsnetzwerk bestehend aus chemischer Reaktion, Keimbildung, Wachstum und Coagulation wurden als Markov-Prozesse behandelt. Vorteil dieser stochastischen Beschreibung ist, dass Partikelgrössenverteilungen zu jedem beliebigen Zeitpunkt des Prozesses simuliert werden können. Dies ist mit der herkömmlichen deterministischen Methode nicht möglich. Als Modellsystem für die Untersuchungen wurde die Fällung von Palladiumteilchen durch chemische Reduktion in nichtionischen w/o-Mikroemulsionen als Reaktionsmedium gewählt. Dieses Modellsystem ist von J. Schmidt ausführlich untersucht worden, sodass ein Vergleich zwischen Experiment und Simulation gewährleistet war. Die Reaktionswahrscheinlichkeiten der einzelnen Prozesse mussten beschrieben werden. Auf experimentellem Wege wurde die Kinetik der chemischen Reaktion ermittelt werden. Die Keimbildungskonstante wurde angepasst, da sie experimentell nur schwer zugänglich ist. Die Prozesse Wachstum und Coagulation wurden mit einem perikinetischen Ansatz modelliert, der auf die Theorien von Einstein und Smoluchowski basieren. Die simulierten wurden mit experimentellen Ergebnissen in Form von TEM-Bildern verglichen. Diese ergaben eine gute Übereinstimmung bezüglich Grösse und Grössenverteilung der Partikel. Ebenso konnten reaktionstechnische Aspekte wie Fällungsrichtung, Volumenstrom der Dosierung oder der Einsatz von Semibatch und Batch-Fahrweise mit dem stochastischen Modell beschrieben werden. Des weiteren wurde überprüft, ob die im Modell angenommenen Werte für die Wachstumskonstante in der richtigen Grössenordnung liegen. Hierzu wurden Kontrollexperimente mit dem Ziel durchgeführt, die Wachstumskonstante in einer Untersuchungsreihe mit UV/VIS-Spektroskopie und in einer zweiten mit Hilfe dynamischer Lichtstreuung abzuschätzen. Die Kontrollexperimente führten jedoch zu einem Wert der Wachstumskonstanten, der über dem des theoretischen Wertes nach Einstein und Smoluchowski bzw. über dem der Austauschrate der Tröpfchen in der Mikroemulsion liegt.</dc:description>
+          <dc:date>2002-09-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/506</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5017</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5017</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/506/rodriguez_lourdes.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

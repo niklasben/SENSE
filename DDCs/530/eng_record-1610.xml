@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1610">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1610</identifier>
+        <datestamp>2014-04-30</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Quantenstatistische Entropie in thermodynamischen Verbundsystemen</dc:title>
+          <dc:title xml:lang="eng">Quantum Statistical Entropy in Thermodynamic Compound Systems</dc:title>
+          <dc:creator>Dedié, Philipp</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Ein Überblick über in der quantenstatistischen und informationstheoretischen Literatur zu findende Entropiedefinitionen wird gegeben. Die Frage, ob Kriterien für die Vergabe der Bezeichnung "Entropie" aufstellbar seien, wird diskutiert. Am Beispiel eines zweiteiligen Verbundsystems wird die Subadditivitätsproblematik der quantenstatistischen Entropie erörtert, die aus dem Widerspruch zwischen der aus der quanteninformationstheoretischen Literatur bekannten Subadditivität der quantenstatistischen von-Neumann-Entropie und der Additivität der phänomenologisch-thermodynamischen Zustandsgröße Entropie entsteht. Eine genauere Betrachtung des die Subadditivitätsrelation zu einer Additivitätsgleichung machenden Rest-Summanden, des Exzess-Terms, stellt das Subadditivitätsproblem als ein rein definitorisch zu erklärendes Scheinproblem dar, das von der Vernachlässigung der Information über die Teilsystemaufteilung herrührt. Eine den Exzess-Term enthaltende Entropiedefinition für Verbundsysteme wird angeboten, die der von der Phänomenologie geforderten Zweier-Additivität genügt. Darüber hinaus wird untersucht, ob die neu definierte "Verbundsentropie" geeignet sei, den Widerspruch aufzulösen zwischen der Tatsache, dass für die von-Neumann-Entropie d/dt S_N = 0 ist für jedes abgeschlossene System, und dem phänomenologisch-thermodynamischen Axiom, dass ein reversibles Gesamtsystem nur aus reversiblen Teilsystemen bestehen könne. Die thermodynamische Interpretation der Ergebnisse zeigt, dass die Verwendung der Verbundsentropie eine der phänomenologischen endoreversiblen Thermodynamik gleichartige Systembeschreibung bewirkt. Abschließend wird der eingeschlagene Argumentationsweg erkenntnistheoretisch reflektiert.</dc:description>
+          <dc:description xml:lang="eng">The contradiction between the quantum statistical subadditivity and the phenomenological additivity of the entropy of a two-part composed system is discussed. An accurate assessment of the excess term, which is the clearing term making the subadditivity inequality an additivity equation, reveals the subadditivity contradiction as a pseudo one caused by definition only, by neglection of information on system subdivision. An entropy definition for a composed system is offered, containing the excess term and providing the additivity required by phenomenological thermodynamics. This entropy definition turns out to dissolve another contradiction, namely the one between VON NEUMANN entropy d/dt S_N = 0 for any isolated system and the thermodynamic axiom testifying that any reversible composed system can only consist of reversible subsystems. Moreover, the proposed entropy definition yields an endoreversible perception of the composed system in consideration.</dc:description>
+          <dc:date>2007-11-12</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1610</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16691</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16691</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1610/dedie_philipp.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

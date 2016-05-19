@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:163">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:163</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Quadratic growth rates of geodesics on F-structures with a link to polygonal billiards</dc:title>
+          <dc:title xml:lang="deu">Quadratische Wachstumsraten von Geodäten auf F-Strukturen mit einer Anwendung auf polygonale Billiards</dc:title>
+          <dc:creator>Schmoll, Martin Johannes</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Die Absicht der vorliegenden Arbeit ist es darzustellen, wie quadratische Wachstumskonstanten für (gewisse Arten von) Geodäten auf F-Strukturen berechnet werden können. F-Strukturen sind grob gesprochen Flächen zusammen mit einem quadratischen Differential. Sie stellen einen allgemeinen formalen Rahmen zum Studium der polygonalen Billiards dar, der genaue Zusammenhang wird in der Arbeit beschrieben. Die Eigenschaften von F-Strukturen im Hinblick auf das Studium ihrer Geodäten, ebenso wie die Mannigfaltigkeiten Struktur ihrer Modulräume werden besprochen.Der SL(2,R)-Orbit jeder F-Struktur besitzt eine Symmetriegruppe, die sogenannte affine Gruppe. Aus der affinen Gruppe lässt sich eine weitere Gruppe, die Veech-Gruppe, ableiten. Die Eigenschaften dieser Gruppen werden behandelt. W. Veech konnte für F-Strukturen, deren Veech-Gruppe ein Gitter ist, die quadratischen, asymptotischen Konstanten für Wachstumsraten von Geodäten berechnen. Diese Theorie wird näher beleuchtet, einige der bekannten Resultate werden bewiesen und für Anwendungen auf F-Strukturen verfeinert. Es folgt eine Darstellung der von Eskin, Masur und Veech entwickelten Idee, die fast sichere Existenz von quadratischen Wachstumskonstanten in Modulräumen von F-Strukturen unter Benutzung von Siegel-Veech Maßen zu zeigen. Sind die Parameterräume der F-Strukturen SL(2,R)-invariante homogene Räume, dann liefert Ratners Klassifikation von ergodischen Maßen sogar punktweise Resultate. Diese Ergebnisse können auf gewisse polygonale Billiards angewendet werden. Der Hauptteil der Arbeit besteht darin, die quadratischen Wachstumskonstanten für markierte Tori zu berechnen, beziehungsweise deren Existenz und Verhalten in Abhängigkeit von der Markierung zu verstehen. Enthalten sind auch Beschreibungen der affinen- und der Veech-Gruppe von zweifach rational markierten Tori. Der Index dieser Veech-Gruppen in SL(2,Z) wird auf zwei verschiedene Weisen berechnet. Außerdem werden die Wachstumskonstanten von Sattel-Verbindungen und periodischen Bahnen als Funktionen der relativen Markierung auf dem Parameterraum zweifach markierter Tori angegeben.</dc:description>
+          <dc:description xml:lang="eng">This work is centered around the problem to find growth constants for the growth rates of certain kinds of geodesics, on translation surfaces or more generally F structures. This kind of problem is motivated by the study of polygonal billiards. We develop the necessary formal language by using quadratic differentials and explain in which way a polygonal billiard gives rise to an F structure. Since in all known attempts to attack the counting problems Teichmüller- and Modulispaces of F structures will occur we explain their natural manifold structure. Every F structure has a symmetry group, called the affine group and associated to it the Veech group. The properties of the affine and the Veech group are collected. The importance of the affine group is seen in the fact that one is able to parameterize all geodesics on an F structure and finally compute their quadratic asymptotic if the affine group of an F structure is a lattice. Eskin and Masur, inspired by an idea of W. Veech, recently found a way to prove for a bigger class of F structures the existence of asymptotic growth constants. We present an outline of this theory together with a description how to use Ratners theorem if one has a homogeneous space parameterizing F structures. Finally we compute quadratic growth constants of saddle connections and closed geodesics on two marked tori as functions of the relative marking. Some properties of these functions are shown in the more general context of spaces of n-marked tori.</dc:description>
+          <dc:date>2000-08-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/163</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1582</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1582</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/163/schmoll_martin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

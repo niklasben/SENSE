@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4442">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4442</identifier>
+        <datestamp>2014-05-16</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+        <setSpec>ddc:620</setSpec>
+        <setSpec>ddc:690</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Innovationen im Spezialtiefbau</dc:title>
+          <dc:creator>Al-Arja, Naji</dc:creator>
+          <dc:creator>Friedhoff, Norbert</dc:creator>
+          <dc:creator>Kirsch, Fabian</dc:creator>
+          <dc:creator>Kleibl, Albrecht</dc:creator>
+          <dc:creator>Rautenberg, Guido</dc:creator>
+          <dc:creator>Schafhauser, Manfred</dc:creator>
+          <dc:creator>Stüber, Gerd</dc:creator>
+          <dc:creator>Wehrmeyer, Gerhard</dc:creator>
+          <dc:contributor>Thieme, Carsten</dc:contributor>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:subject>ddc:690</dc:subject>
+          <dc:description xml:lang="deu">Ganz in der Tradition gemeinsamer Fachseminare von Wissenschaft und Bauwirtschaft sollen mit dem Thema „Innovationen im Spezialtiefbau“ Erkenntnisse über neue Bauverfahren, technische Herausforderungen und Lösungen vermittelt werden. Am 05.12.2013 wurden auf dem Fachseminar am Institut für Bauingenieurwesen der TU Berlin in Expertenvorträgen mit engem Praxisbezug die neuesten Entwicklungen im Spezialtiefbau, bemerkenswert innovative sowie internationale Projektbeispiele vorgestellt und diskutiert. Die Veranstaltung setzt dabei neue Akzente in der branchenweit wie auch öffentlich diskutierten Nachhaltigkeitsbetrachtung und gibt den Anstoß für weitere jährlich stattfindende Fachseminare an der TU Berlin zusammen mit dem InnovationsZentrum Bau Berlin Brandenburg und ihren Partnern aus Forschung und Praxis.</dc:description>
+          <dc:date>2013-11-28</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4442</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44427</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44427</dc:identifier>
+          <dc:identifier>978-7983-2664-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4442/Innovationen_im_Spezialtiefbau_online_pdfa.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2781">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2781</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:610</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aktuelle internationale Initiativen der evidenzbasierten Bewertung von Arzneimitteln - Implikationen für Zulassung und Health Technology Assessment in Deutschland und Europa</dc:title>
+          <dc:title xml:lang="eng">Current international initiatives in the evidence-based assessment of pharmaceuticals: Implications for licensing and health technology assessment in Germany and Europe</dc:title>
+          <dc:creator>Zentner, Annette</dc:creator>
+          <dc:creator>Velasco Garrido, Marcial</dc:creator>
+          <dc:creator>Busse, Reinhard</dc:creator>
+          <dc:subject>ddc:610</dc:subject>
+          <dc:description xml:lang="deu">International sind in den letzten Jahren mehrere Initiativen entstanden, die sich mit der Weiterentwicklung der evidenzbasierten Bewertung von Arzneimitteln nach der Marktzulassung befassen, um Entscheidungssituationen in der gesundheitspolitischen oder klinischen Praxis zu unterstützen. Der Bericht analysiert Ziele, Arbeitsweise und Ergebnisse des von der Europäischen Kommission initiierten Arzneimittelforums mit seiner Arbeitsgruppe zu Relative Effectiveness, des europäischen Netzwerks für Health Technology Assessment EUnetHTA und des nationalen Programms für Comparative Effectiveness Research in den USA. Gemeinsamkeiten und Unterschiede der drei Initiativen und mögliche Implikationen für die Zulassung und HTA von Arzneimitteln in Deutschland und Europa werden abgeleitet. Abschließend werden Themen und Fragestellungen für weitere vertiefende Forschung identifiziert. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen, ISBN 3-978-7983-2298-1</dc:description>
+          <dc:description xml:lang="eng">Over the past years several initiatives have developed internationally that address the further development of evidence-based assessments of pharmaceuticals after licensing in order to support decision making in policy and clinical practice. The report analyzes objectives, procedures, and results of the Pharmaceutical Forum initiated by the European Commission and its Working Group on Relative Effectiveness, of the European network for Health Technology Assessment EUnetHTA, and of the national US�?program for Comparative Effectiveness Research. Similarities and differences of the three initiatives are highlighted. Finally, issues and questions for further research areas are identified. Printed version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de), ISBN 3-978-7983-2298-1</dc:description>
+          <dc:date>2011-02-08</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2781</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29577</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29577</dc:identifier>
+          <dc:identifier>9-783-7983-2297-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2781/2011_01_27_zentner_et_al_HTA_Initiativen_FGReihe_vol6_FINAL.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

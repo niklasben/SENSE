@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:742">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:742</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modelle mit generalisierter bedingter autoregressiver Heteroskedastie und Anwendungen in der Kapitalmarkttheorie</dc:title>
+          <dc:title xml:lang="eng">Models with generalized conditional heteroscedasticity and applications in finance</dc:title>
+          <dc:creator>Oelker, Jens-Christian</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Die Analyse ökonomischer Zeitreihen mit Hilfe autoregressiver Verfahren stellt mittlerweile eine bedeutende Ergänzung zu strukturellen ökonometrischen Verfahren dar. Während bei der Modellierung ökonomischer Variablen zumeist die Prognose des bedingten Erwartungswertes dieser Variablen im Mittelpunkt des Interesses steht, wird bei GARCH-Modellen die bedingte Varianz einer oder mehrerer Variablen analysiert. Diese Modellklasse mit generalisierter autoregressiver bedingter Heteroskedastie wird vor allem zur Analyse, Modellierung und Prognose der Varianz von Kapitalmarktzeitreihen eingesetzt. In der vorliegenden Dissertation werden zuerst theoretische Grundlagen des GARCH-Modelltyps vorgestellt. Weiterhin wird ein Überblick über wesentliche spezielle Typen dieser Modelle diskutiert. Schwerpunktmäßig werden dabei multivariate Modelle dargestellt und verglichen. Einige der vorgestellten Modelltypen werden für mehrere empirische Wechselkurs- Aktienindex- und Aktienkurszeitreihen geschätzt und in ihrer Anpassungsqualität verglichen. Die Qualität des eingesetzten Schätzverfahrens und verschiedener Teststatistiken wird mit Hilfe von Monte-Carlo-Simulationsstudien untersucht. Da ökonomische Zeitreihen teilweise durch Strukturbrüche gekennzeichnet sind, wird die Möglichkeit der Modellierung der bedingten Varianzen durch Markov-Switching-GARCH-Modelle diskutiert. Dabei wird ein multivariates GARCH-Modell mit einer in Abhängigkeit von einem latenten Markov-Prozess wechselnden bedingten Korrelationsmatrix vorgeschlagen und für mehrere Zeitreihen geschätzt. Dieser Modelltyp vermeidet die für Markov-Switching-GARCH-Modelle typische Pfadabhängigkeit und ermöglicht dennoch die Berücksichtigung von Strukturbrüchen. Abschließend wird untersucht, welche Auswirkungen die Modellierung der bedingten Varianzen von Kapitalmarktzeitreihen auf Modelle der Kapitalmarkttheorie hat. Exemplarisch werden hier die Zusammenhänge zwischen Capital-Asset-Pricing-Model, Optionsbewertung und Value-at-Risk auf der einen Seite und GARCH-Modellen auf der anderen Seite analysiert.</dc:description>
+          <dc:description xml:lang="eng">The analysis of economic time series by autoregressive methods constitutes an important extension of structural econometric modelling. Mostly, econometric models are used to forecast the conditional mean of a series. On the other hand, GARCH models deal with the conditional variance of one or several variables. Those models with generalized autoregressive conditional heteroscedasticity (GARCH) have mainly been used for analyzing, modelling, and forecasting the variance of financial and macroeconomic time series. Firstly, this dissertation presents theoretical foundations of GARCH models. In the following, special types of GARCH models are discussed with a focus on multivariate models. Some of the models discussed are estimated for empirical exchange rates, stock indices and stock price time series. The quality of the estimation methods used and that of several test statistics is compared by means of Monte-Carlo simulation studies. As some economic time series are characterized by structural breaks, the possibility to model the time varying conditional variances with Markov-Switching-GARCH models is discussed. A multivariate GARCH model with a conditional correlation matrix that switches dependent on a latent Markov-process is proposed and estimated for some empirical time series. This new type of model both avoids the path-dependence that makes Markov-Switching GARCH models intractable for longer time series and allows for structural breaks. Finally, the relationship between capital market theory and GARCH models is explored. As examples, the Capital Asset Pricing Model, option pricing and value at risk are discussed.</dc:description>
+          <dc:date>2004-05-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/742</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7368</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7368</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/742/oelker_jens.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

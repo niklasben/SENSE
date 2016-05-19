@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:731">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:731</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">New Motifs in DNA Nanotechnology and their Applications</dc:title>
+          <dc:title xml:lang="deu">Neue Motive in DNS Nanotechnologie und ihre Anwendungen</dc:title>
+          <dc:creator>Kopatsch, Jens</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">Experiments with the well characterized DX motif were undertaken to see which number of nucleotides is necessary for sticky ended assembly. A sticky ended crystallization attempt was made with the TX motif. In addition a crystallization attempt with a blunt ended TX motif was made to disclose a possible torsion stress within the motif. Nondenaturating gel mobility studies of a triangle motif (Chengde Mao triangle) were performed and showed torsion stress in some versions of these molecules. Three molecules that contained 14nt per inner triangle edge, yet have a structure designed to assemble with a different overall helical repeat in the crystal were constructed and crystallization was attempted. Reproducible crystals were obtained from two helicity variations and showed diffraction down to ten Angstrom. Another triangle motif, named TXDX triangle, consisting of a triangle based on three TX motifs, connected with a skew, was developed. TXDX triangles were connected with each other using a variation of the DX motif. One and two-dimensional arrays were created after the motif was modified to limit self-assembly to one and two dimensions. Due to the design there are three possible versions of the one and two dimensional arrays. All possible array variations were observed with an atomic force microscope. A tube like motif was designed, consisting of six 30 nm long DNA helices, connected by cross-overs. This motif was supposed to incorporate itself into an artificial membrane and function as an ion channel. Typical ion channel behavior was observed with this motif.</dc:description>
+          <dc:description xml:lang="deu">Es wurden Versuche mit dem DX-Motiv durchgeführt, um die Mindestlange von Sticky Ends fur das Self-Assembly zu ermitteln. Weiterhin wurden Kristallisationsversuche mit dem TX-Motiv, ausgestattet mit Sticky-Ends, unternommen. Kristallisationsversuche einer TX-Version mit glatten Enden wurden unternommen, um Aussagen über einen eventuell vorhandenen Torsionsstress zu treffen. Von einem Dreiecksmotiv (Chengde-Mao-Dreieck) wurden Gelmobilitätsuntersuchungen von verschiedenen Versionen vorgenommen. Diese Untersuchungen offenbarten möglichen Torsionsstress in einigen der Versionen. Mit drei Helizität-Variationen (Version mit 14nt per innerer Dreiecks-Seitenkante) des Dreiecks wurden Kristallisationsversuche unternommen. Zwei Variationen des Motivs bildeten reproduzierbare Kristalle, die unter Röntgenstrahlen Diffraktion bis zu zehn Angström zeigten. Ein weiteres Dreiecksmotiv, genannt TXDX, bestehend aus einem Dreieck, aufgebaut aus drei versatzverschränkten TX-Motiven, wurde als vielversprechendes Motiv entwickelt. Die Verbindungen zu anderen TXDX-Dreiecken ist über das DX-Motiv realisiert. Ein- und zweidimensionale Felder konnten nach einer Modifikation, die das Self-Assembly auf ein bzw. zwei Dimensionen beschrankt, erzeugt werden. Es sind jeweils drei Variationen für die ein- und zweidimensionalen Felder möglich. Alle wurden erfolgreich erzeugt und mit dem Rasterkraftmikroskop nachgewiesen. Ein rohrartiges Motiv, bestehend aus sechs ca. 30 nm langen DNS-Helices, verbunden durch Überkreuzungen, wurde entwickelt. Dieses Motiv sollte in eine künstliche Membran inkorporieren und als Ionenkanal fungieren. Typisches Ionenkanalverhalten konnte beobachtet werden.</dc:description>
+          <dc:date>2004-10-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/731</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7256</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7256</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/731/kopatsch_jens.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

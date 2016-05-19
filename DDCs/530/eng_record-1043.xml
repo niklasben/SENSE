@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1043">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1043</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Electronic Structure of Vanadium Phosphorus Oxides</dc:title>
+          <dc:title xml:lang="deu">Elektronische Struktur von Vanadium Phosphor Oxiden</dc:title>
+          <dc:creator>Willinger, Marc-Georg</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Vanadium Phosphor Oxide (VPO) zeichnen sich durch ihre strukturelle Komplexität und die Existenz einer Vielzahl von unterschiedlichen Polymorphen aus, welche leicht ineinander überführt werden können. Mit dieser Eigenschaft verbunden ist ihre Anwendung in der Katalyse, wo sie als Katalysatoren in der Synthese von Maleinsäure Anhydrid aus n-Butan Verwendung finden. Aufgrund der Komplexität der Reaktion werden dem aktiven Katalysator im Wechselspiel mit den aus der Gasphase adsorbierten Molekülen Eigenschaften abverlangt, welche sich nicht durch die alleinige Existenz einer kristallinen Phase erklären lassen. Obwohl der industriell eingesetzte Katalysator zum überwiegenden Teil aus Vanadium Pyrophosphat (VO)2P2O7 besteht, steht sowohl der Umsatz als auch die Selektivität des Katalysators mit der Präsenz verschiedener fünfwertiger VPO Phasen in Beziehung. Die Zusammensetzung der Oberfläche des aktiven Katalysators und das Zusammenspiel der verschiedenen auftretenden Phasen definieren die Zentrale Frage zur Aufklärung der katalytischen Aktivität. Eine Möglichkeit, die dem System innewohnende Komplexität zu verringern, besteht darin, einzelne katalytisch relevante Phasen für sich isoliert zu untersuchen. Die vorliegende Arbeit fasst eine kombinierte experimentelle und theoretische Untersuchung von Vanadium Phosphor Oxid Phasen zusammen. Bandstruktur Rechnungen basierend auf der Dichtefunktional Theorie (DFT) liefern einen detaillierten Einblick in die elektronische Struktur und erlauben es, anhand der untersuchten Phasen die Beziehung zwischen der geometrischen und der elektronischen Struktur zu untersuchen. Elektronen Energieverlust Spektren (EELS) liefern Information über die lokale elektronische Struktur. In Kombination mit den Simulationen lassen sich Peaks in den Spektren auf die zugrunde liegenden Anregungsprozesse zurückverfolgen. Die untersuchten Systeme stellen dabei Referenzsysteme dar, anhand deren Spektren von Proben unbekannter Phasenzusammensetzung interpretiert werden können. Dies ist eine wesentliche Voraussetzung für die Interpretation von zukünftigen in-situ Röntgen Absorptionsspektren.</dc:description>
+          <dc:description xml:lang="eng">Vanadium phosphorus oxides (VPO) are a very complex and fascinating system characterized by an easy formation and inter conversion of several crystalline phases. VPO´s are commercially used as catalysts for the synthesis of maleic anhydride (MA) in the partial oxidation of n-butane. This complex reaction involves several steps which acquire a concerted mechanism coupling acid and oxidizing properties. VPO catalysts consist of the main V(4+) phase (VO)2P2O7 and a mixture of pentavalent VOPO4 phases. These phases are crucial for the conversion and selectivity rate of the final catalyst. It is believed that only a specific combination of V(4+) and V(5+) phases leads to the high catalytic performance. One way to get a more profound understanding of the real catalyst and the role of the different phases is to reduce the complexity of the system by investigating the specific occurring phases in depth on their own. This thesis reports the investigation of the electronic structure of VPO phases by means of a combined theoretical and experimental approach. The investigated phases represent reference systems that contain electronic and structural features that are characteristic for the phases that are involved in catalysis. Ab-initio band structure calculations based on density functional theory (DFT) were performed in order to evaluate the bulk electronic structure. Core level spectroscopic methods were applied to experimentally probe the electronic structure at the ionized species. The band structure calculations provide a detailed insight into bonding properties such as hybridization and covalent versus ionic bonding and the localization of the electrons. Characteristic features of differently coordinated oxygens in the recorded electron energy loss (EELS) spectra can be identified by comparing them to the simulated spectra and to the underlying site and angular momentum projected density of states. Spectral features are hence well understood and can be used for the interpretation of spectra recorded from samples of unknown phase composition.</dc:description>
+          <dc:date>2005-07-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1043</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10325</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10325</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1043/willinger_marcgeorg.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

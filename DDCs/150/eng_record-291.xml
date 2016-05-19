@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:291">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:291</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Computerunterstütztes Sicherheitsmanagement : Gestaltung von Auswertungssystemen für sicherheitskritische Ereignisse in Industrieanlagen mit hohem Gefährdungspotential</dc:title>
+          <dc:title xml:lang="eng">Computer-supported Safety Management</dc:title>
+          <dc:creator>Szameitat, Steffen</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="eng">Informationstechnologien (IT) werden im Sicherheitsmanagement als Möglichkeit gesehen, Risiken zu kontrollieren und nachhaltig zu reduzieren. Durch den Computereinsatz können sicherheitsrelevante Ereignisse effektiver verarbeitet werden. Da die Organisationsstrukturen sehr unterschiedlich, Prozesse des Erfahrungstransfers komplex und Möglichkeiten von IT breitgefächert sind, stellt sich bei der Implementierung im Einzelfall die Frage nach der angemessenen Gestaltung der Computerunterstützung für ein ereignisbasiertes Sicherheitsmanagementsystem (eSMS). Zum gegenwärtigen praktischen Einsatz von eSMS wurden zwei Feldstudien durchgeführt. In Studie I wurden organisatorische, technische und legislative Rahmenbedingungen des Sicherheitsmanagements in der deutschen Kerntechnik und in der norwegischen Offshore-Industrie verglichen. Dabei konnten Designkriterien identifiziert werden, welche extern auf ein eSMS wirken. In Studie II wurden die eSMS verschiedener Anlagen gegenübergestellt, indem die Organisationsstrukturen und Prozesse analysiert wurden. Hierbei konnten anlageninterne Designkriterien identifiziert werden. Diese externen bzw. internen Faktoren haben maßgeblichen Einfluss auf ein effizientes Design einer Systemunterstützung für ein eSMS. In einer Laborstudie wurden Auswirkungen computervermittelten Kommunikation auf Erfahrungstransfer untersucht. Dazu wurde eine Simulationsumgebung aufgebaut, in welcher Gruppen typische Ereignisszenarien aus Kernkraftwerken hinsichtlich verursachender Bedingungen untersuchten. Dabei wurde das Kommunikationsmedium (direkt mündlich bzw. computervermittelt) variiert. Die Ergebnisse von 15 Versuchsgruppen zeigen, dass bei computervermittelten Ereignisanalysen die Menge der gesammelten Ereignisinformationen größer ist. Diese ist die Basis für die Analyse beitragender Bedingungen. Die Analysetiefe wird nicht vermindert, jedoch das Lernen in den Gruppen einschränkt. Somit wird geschlossen, dass IT Sicherheitsmanagement effektiv unterstützen kann. Information technologies (IT) in safety management are seen as opportunity to control and reduce risks. The processing of safety-critical event information, a central function of safety management, could be more efficient using computers. But organization structures are different, the processes of experience transfer are complex and the opportunities of IT are broad. To implement a support system is to question about design criteria of computer support for an event-based Safety Management System (eSMS). Three studies have been conducted. Study 1 compares the organizational, technical and legal conditions for Safety Management in the German Nuclear Industry and the Norwegian Offshore Industry. It could identify design criteria, which independent from the operator influence the eSMS. Study 2 compares the eSMS of different nuclear power plants anlyzing the organization structures and processes. Those internal and external criteria have a significant influence on a efficient design of a system support for eSMS. The third study makes the options and impact of computer support on experience transfer in eSMS as subject of discussion. For this purpose a simulation environment has been created. Groups investigated typical event scenarios from a nuclear power plant for contributing factors. The communication medium has been manipulated (face-to-face versus computer-mediated). Results of 15 groups indicate, that the collection of event information was promoted by computer-mediated communication. This is the foundation of the identification of contributing factors. The depth of analysis has not been influenced. Computer mediation hampers the learning of facts. IT can support safety management effectively.</dc:description>
+          <dc:date>2003-05-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/291</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2869</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2869</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/291/szameitat_steffen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

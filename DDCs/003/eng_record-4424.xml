@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4424">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4424</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Teaching qualitative research methods with ATLAS.ti: Beyond data analysis</dc:title>
+          <dc:creator>Paulus, Trena </dc:creator>
+          <dc:creator>Bennett, Ann</dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">This presentation will share best practices for integrating ATLAS.ti into advanced qualitative research methods courses. During the spring, summer and the current fall 2013 semesters, students were required to use ATLAS.ti as a project management tool for their semester’s work in order to develop the skills they would need to continue its use during the thesis phase of their programs. In these courses students are typically engaged in independent field work projects, in which they are reviewing the literature, collecting data, transcribing, and/or engaging in data analysis. Each of these phases were conducted within ATLAS.ti and shared with the instructor at regular intervals throughout the semester for feedback. By introducing ATLAS.ti during coursework, positioning it as a project management tool in addition to a data analysis tool, and supporting students’ early experiences with its use, we anticipate that these novice researchers will be more likely to continue using the tool to support their work. Suggestions for best practice for this instructional approach will include a focus on how to:  provide adequate access and technical support, balance methodological and technical instruction, create meaningful student assignments, and provide effective feedback.</dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4424</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44240</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44240</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4424/19_paulus_bennett_4424.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

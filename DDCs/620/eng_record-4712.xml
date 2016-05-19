@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4712">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4712</identifier>
+        <datestamp>2014-02-07</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Thermo-hydraulic model of the two-phase flow in the brine circuit of a geothermal power plant</dc:title>
+          <dc:title xml:lang="deu">Thermo-hydraulisches Modell der Zwei-Phasen-Strömung im Thermalwasserkreislauf eines Geothermiekraftwerks</dc:title>
+          <dc:creator>Francke, Henning</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Production rate, wellhead temperature and pressure are critical parameters of a geothermal well, which determine the technical and economic viability. Their prediction requires knowledge of brine properties and reservoir characteristics as well as a detailed thermal model of the well and surrounding formation. High salinity and gas content complicate the task.&#13;
+This work presents a comprehensive numerical thermo-hydraulic model of the brine circuit of a geothermal plant. Implemented in DYMOLA/MODELICA, it has been parameterized and validated with data from the research site in Gross Schoenebeck, Germany. The properties of the complex brine are calculated with a compositional two-phase brine model that considers the specific gas and salt contents and determines the gas fraction with a flash calculation based on the individual gas solubilities. Different applications are demonstrated.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Förderrate, Kopftemperatur und Druck einer Geothermiebohrung sind die entscheidenden Größen für die technische Machbarkeit und die Wirtschaftlichkeit eines Geothermieprojektes. Ihre Vorhersage erfordert die Kenntnis der Eigenschaften von Thermalwasser und Reservoir sowie ein detailliertes Modell des Bohrlochs und des umgebenden Gesteins.&#13;
+In dieser Arbeit wird ein umfassendes thermo-hydraulisches Computermodell des Thermalwasserkreislaufs einer Geothermie-Anlage vorgestellt. Es wurde parametrisiert und validiert anhand von Werten des Forschungsstandorts Groß Schönebeck. Die Berechnung der Fluideigenschaften erfolgt unter Berücksichtigung der Zusammensetzung und des ermittelten Flüssig-Dampf-Gleichgewichts. Verschiedene Anwendungen des in DYMOLA / MODELICA umgesetzten Modells werden vorgestellt.&#13;
+</dc:description>
+          <dc:date>2014-02-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4712</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47126</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47126</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4712/francke_henning.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

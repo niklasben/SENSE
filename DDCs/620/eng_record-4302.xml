@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4302">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4302</identifier>
+        <datestamp>2013-11-04</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Multi-Modelle und Domänensprache zur effizienten Spezifikation von Prozessmodellen</dc:title>
+          <dc:title xml:lang="eng">Multi-models and a domain-specific language for efficient specification of process-models</dc:title>
+          <dc:creator>Krämer, Torsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die im Bauwesen Einzug gehaltene, modellbasierte Arbeitsweise in der Planung baulicher Anlagen ermöglicht den Zugriff auf immer mehr Daten in digitaler Form. Diese Daten liegen dabei nicht nur in einem einzigen Modell vor, sondern sind, je nach Fachsparte und Entstehungsgeschichte, in unterschiedlichen Modellen hinterlegt. Durch Anwendung hoch spezialisierter  Softwarewerkzeuge können jeweils die Daten innerhalb einer Fachdomäne effizient erzeugt und manipuliert werden. Die Bearbeitung von Aufgaben, die Informationen aus unterschiedlichen Fachdomänen nutzen, steht vor der Herausforderung, die vorhandenen Informationen aus den unterschiedlichen Modellen zu integrieren und zu nutzbaren Einheiten zusammenzufassen. Diese Einheiten werden dann durch den Bearbeiter mittels Informationsanreicherung, zielgerichteter Kombination und Anwendung von Algorithmen zu einem neuen Modell verknüpft. Der iterative Charakter der Planung im Bauwesen führt zu häufigen Änderungen in den Ausgangsmodellen solch nachgelagerter Bearbeitungsschritte. Für eine konsistente Planung ist daher die Wiederholbarkeit der Ableitung von Informationen aus den Ausgangsmodellen in jedem Iterationsschritt vorteilhaft. Damit die Informationsanreicherung, Kombination und Anwendung von Algorithmen nicht in jedem Iterationsschritt vollständig neu durchgeführt werden müssen, ist ein Verfahren notwendig, das mit wenigen gezielten Änderungen an die neue Datenlage angepasst werden kann. &#13;
+Die vorliegende Arbeit schlägt die Verarbeitung der für eine Aufgabe relevanten Daten auf Basis einer einheitlichen Meta-Modellsprache vor. Durch Anwendung einer standardisierten Transformationssprache können die Beziehungen der Elemente aus unterschiedlichen Fachmodellen nachvollziehbar und wiederholbar ausgedrückt werden. Es wird gezeigt, wie die Elemente aus unabhängigen Datenmodellen in ein Netzwerk sich gegenseitig referenzierender Modelle überführt werden können. Die Bearbeitung durch den Fachplaner geschieht anschließend auf der Grundlage dieses Modell-Netzwerkes. Durch die Einführung einer textuellen domänenspezifischen Sprache (Domain-Specific Language DSL) mit zugeordneten Algorithmen kann die Funktionalität, die ein Fachplaner benötigt, um seine Aufgabe zu erfüllen, bereitgestellt werden. Eine nach solch einem Verfahren durchgeführte Bearbeitung ist wiederholt ausführbar. Auf Änderungen in den Ausgangsmodellen kann durch gezielte Manipulation der niedergeschriebenen Arbeitsschritte in der DSL eingegangen werden. In der vorliegenden Arbeit wird dieses Vorgehen am Beispiel der Prozessspezifikation für die Ausführungsplanung im Bauwesen aufgezeigt. Zur Metamodellierung wird die von der Object Management Group (OMG) standardisierte Essential Meta Object Facility (EMOF) Sprache mit der zugehörigen Query/View/Transform (QVT) Transformationssprache eingesetzt. Die eigens entwickelte domänenspezifische Sprache zur Bauprozessspezifikation wird mittels des Xtext-Frameworks in einer Pilotimplementierung auf Basis der Eclipse-Plattform realisiert. An einem Planungsbeispiel wird die Anwendung, der so geschaffenen Softwarelösung, demonstriert. &#13;
+&#13;
+</dc:description>
+          <dc:description xml:lang="eng">The adoption of a model-based approach in the design of buildings provides access to digital data to a greater extent. These data are not only stored in a single model, but are, according to their domain and origination, persisted in different models. For each domain specialized software tools exist, whose applications efficiently generate and manipulate such data respectively. The processing of tasks depending on information from different technical domains faces the challenge to integrate the available information from the different models into usable units. These units are then linked by the planning personal along with information enrichment and application of algorithms to a new model. The iterative nature of the design of buildings leads to frequent changes in the input models of such downstream processing steps. To achieve a consistent design therefore the repeatability of the derivation of information from the input models in each iteration step is advantageous. In order that information enrichment and specification of how algorithms need to be applied do not have to be completely re- done with each iteration, a procedure is required, which can be easily adjusted with a few purposeful changes.&#13;
+The presented work proposes the processing of relevant data for a specific task based on a common meta-model language. By applying a standardized transformation language, relationships between the elements of models from different disciplines can be established in a traceable and repeatable way. It will be shown how the elements of independent data models can be transformed into elements of a network of models, where elements are mutually referencing each other. Subsequent specification by the planners is then carried out on the basis of this model network. The functionality required by professional planners is provided by introducing a textual domain-specific language (DSL) with associated algorithms. Hence, the planners are enabled to express their intentions in this language. A specification conducted in such a way can be repeatedly executed. Changes in the input models can be addressed through well-directed manipulation of specific written steps in the DSL. As an example this approach is demonstrated for the process specification of the execution of structural work. The Essential Meta Object Facility (EMOF) as a meta-modeling language as well as its associated transformation language, the Query/View/Transform (QVT), both standardized by the Object Management Group (OMG),are used. The domain-specific language, developed especially for the specification of construction-processes, is realized by means of the Xtext framework in a pilot implementation based on the Eclipse platform. The application of the resulting software solution is then demonstrated by creating the construction process model of a designed building.&#13;
+&#13;
+</dc:description>
+          <dc:date>2013-10-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4302</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43024</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43024</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4302/kraemer_torsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

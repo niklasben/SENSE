@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:99">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:99</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Fundamental Growth Processes on Different Gallium Arsenide Surfaces in Metal-Organic Vapor Phase Epitaxy</dc:title>
+          <dc:title xml:lang="deu">Grundlegende Untersuchung des Wachstumsprozesses auf unterschiedlichen Galliumarsenidoberflächen in der Metallorganischen Gasphasenepitaxie</dc:title>
+          <dc:creator>Pristovsek, Markus</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">In this work the homo-epitaxial growth on different (hkl) surfaces of gallium arsenide in Metal-Organic Vapor Phase Epitaxy (MOVPE) was investigated in-situ by Reflectance Anisotropy Spectroscopy (RAS). The RAS measurements were correlated to other electron based surface science measurements on samples transferred from a special MOVPE system without contamination into in an Ultra-High Vacuum (UHV) system in order to interpret the in-situ RAS spectra. First, the well-ordered reconstructions on each of the surfaces were measured, and many new reconstructions were discovered. Then arsenic desorption experiments were performed, and reaction rates and activation energies were determined. The high-index surfaces with the largest tilt to the (001) surface had the lowest activation energies and the highest reaction rates for arsenic desorption. Probably the bonds are more strained on the high-index surfaces, and thus the arsenic comes off more easily. On the (113), (-1-1-3) and (001) surfaces RAS spectra were taken also during growth at different temperatures and with different tri-methyl gallium (TMGa) and AsH3 partial pressures. The RAS spectra were compared to each other. For usual growth parameters three different types of RAS spectra, called phases, were found. On the (001) surface, at very low V/III ratios and lower temperatures using TMGa - conditions important for intrinsic high carbon doping - a fourth phase was observed. The phase boundaries mainly depended on temperatures and partial pressures, but not on surface orientation. Only the use of tri-ethyl gallium (TEGa) instead of TMGa shifted the phase boundaries on the (001) surface about 120-200K to lower temperatures. Thus the surface during growth depends mainly on the precursor chemistry. Therefore, the adsorption of TEGa was compared to the one of TMGa. Exposing the (001) surface to TMGa at low temperatures causes the same RAS spectra as during growth at very low V/III ratios. This reconstruction is methylene terminated and very inert to further TMGa adsorption. However, with TEGa no such adsorbate terminated surface was found. During growth at low V/III ratios with TMGa, three different regimes of carbon incorporation were observed. At very low V/III ratios below one the carbon incorporation is always around 3*1019cm-3. At high V/III ratios the carbon doping level is constant too, but it depends on growth temperature. However, in between a power law dependence of the carbon incorporation on the V/III ratio was measured, and the surfaces were relatively rough. This behaviour was successfully explained by a change of the reconstruction of the growing surface between a methylene terminated surface at very low V/III ratios and a methyl terminated surface at higher V/III ratios.</dc:description>
+          <dc:date>2001-04-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/99</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-941</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-941</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/99/pristovsek_markus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

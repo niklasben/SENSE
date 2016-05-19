@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4719">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4719</identifier>
+        <datestamp>2014-02-12</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung ultrasensitiver Multiplex-Diagnostik pathogener Erreger</dc:title>
+          <dc:title xml:lang="eng">Development of ultra-sensitive diagnosis for emerging pathogens</dc:title>
+          <dc:creator>Kaiser, Marco</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Eines der Hauptprobleme beim Nachweis von Pathogenen, nicht nur aus klinischen Proben, sind falsch negative Ergebnisse. Diese werden hauptsächlich verursacht durch: 1) Inhibitoren, 2) das Fehlen geeigneter Detektionsmethoden und 3) das Fehlen von schnellen und sicheren Anreicherungsmethoden. Eine mögliche Lösung stellt die Apolipoprotein H (ApoH) vermittelte Aufreinigung und Anreicherung von Pathogenen dar. &#13;
+Im Rahmen des USDEP-Projektes konnte mit dieser Arbeit gezeigt werden, dass über ApoH gekoppelte paramagnetische Partikel (ApoH-Beads) sowohl veterinär- als auch human-diagnostisch relevante Viren angereichert werden können und darüber ein sensitiverer PCR basierter Nachweis möglich ist. &#13;
+Anhand klinischer Proben von bestätigten oder vermuteten Infektionen mit DENV, HIV und HCV konnte gezeigt werden, dass für die Mehrzahl der getesteten Proben über eine ApoH-Beads vermittelte Aufreinigung und Anreicherung im Vergleich zu einer Probenaufbereitung ohne ApoH ein sensitiverer Nachweis möglich ist. Insbesondere für DENV führte dies in Kombination mit der in dieser Arbeit entwickelten Detektionsmethode (RT-Real-Time PCR) zu einer deutlichen Verringerung falsch negativer Ergebnisse. &#13;
+Dass die Möglichkeit des verbesserten Nachweises nicht auf Viren beschränkt ist, konnte in dieser Arbeit durch die Anreicherung von Parasiten (Plasmodium falciparum) mit ApoH-Beads gezeigt werden. &#13;
+Für den Einsatz von ApoH-Beads in der Routinediagnostik bedarf es weiterer Studien, welche das genaue Potential der in dieser Arbeit entwickelten Protokolle evaluieren müssen. Darüber hinaus sollten weitere Anwendungsfelder wie die Anreicherung von Bakterien oder der Nachweis von Pathogenen aus Umweltproben untersucht werden.</dc:description>
+          <dc:description xml:lang="eng">One of the main problems for pathogen detection not only in clinical samples is, that they generate false negative results that are mainly due to: 1) presence of inhibitors, 2) absence of suitable molecular process of detection methods and 3) lack of a rapid and reliable pathogen concentration methodology. Using the apolipoprotein H (ApoH)-pathogen capture and concentration step could be a solution. With this study, as part of the USDEP-project, an enrichment of animal and human viruses could be demonstrated, based on ApoH linked paramagnetic beads (ApoH-beads). This results in increased sensitivity in PCR-diagnostics. With clinical samples from patients harboring confirmed or suspected infections with DENV, HIV and HCV it could be demonstrated, that inhibitors contained in different pathogen sources can be reduced, allowing an improved detection or allowing a detection of previous false negative diagnostics. In particular this could be demonstrated for DENV in combination with the new developed detection method (RT-real-time PCR). In addition to viruses, the enrichment of parasites (Plasmodium falciparum) with ApoH-beads could be shown, highlighting the broad spectrum of ApoH as generic pathogen capture. Additional studies to validate ApoH-beads as pathogen capture before introduction into routine diagnostic will demonstrate the potential of the developed protocols. Furthermore additional applications such as for bacteria or environmental samples should be investigated.</dc:description>
+          <dc:date>2014-02-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4719</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47192</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47192</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4719/Kaiser_Marco.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

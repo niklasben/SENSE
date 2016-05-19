@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2922">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2922</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Spektraltheorie singulärer indefiniter Sturm-Liouville-Operatoren</dc:title>
+          <dc:title xml:lang="eng">Spectral theory of singular indefinite Sturm-Liouville operators</dc:title>
+          <dc:creator>Philipp, Friedrich</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In dieser Dissertation betrachten wir Differentialausdr"ucke der Form %\begin{equation}\label{ell} $$ \ell = \frac 1 w\left(-\frac d {dx}p\frac d{dx} + q\right), $$ %\end{equation} wobei die auf einem Intervall $(a,b)$ erkl"arten Funktionen $w$, $p^{-1}$ und $q$ reellwertig und lokal integrierbar sind mit $w(x)\neq 0$ und $p(x) &gt; 0$ fast "uberall. Wir nehmen an, dass die Gewichtsfunktion $w$ ihr Vorzeichen wechselt und dass $\ell$ im Grenzpunktfall bei $a$ und $b$ ist. Der mit $\ell$ assoziierte und im gewichteten $L^2$-Raum $L^2_{|w|}(a,b)$ agierende maximale Operator $A$ ist dann selbstadjungiert bez"uglich des {\it indefiniten} inneren Produkts $$ [f,g] := \int_a^b\,f(x)\ol{g(x)}w(x)\,dx,\quad f,g\in L^2_{|w|}(a,b). $$ Mit dem Multiplikationsoperator $J = \operatorname{sgn}(w(x))$ ist zudem der Operator $JA$ selbstadjungiert im Hilbertraum $L^2_{|w|}(a,b)$. Wir nehmen an, der Operator $JA$ sei nach unten beschr"ankt. In den F"allen $\min\sigma(JA) &gt; 0$ oder $\min\sigma_{\rm ess}(JA) &gt; 0$ kann dann mit S"atzen aus der Operatortheorie in R"aumen mit indefiniter Metrik gezeigt werden, dass das Spektrum von $A$ -- mit eventueller Ausnahme einer endlichen Menge -- reell ist und dass der Operator $A$ eine Spektralfunktion auf $\R$ mit Singularit"aten besitzt. Wir lassen hier auch $\min\sigma_{\rm ess}(JA)\le 0$ zu und betrachten im Speziellen die F"alle \begin{itemize} \item[(i)] Es gibt $a',b'\in (a,b)$, so dass die Gewichtsfunktion $w$ auf jeweils $(a,a')$ und $(b',b)$ ihr Vorzeichen nicht wechselt; \item[(ii)] $(a,b) = \R$, und $w$, $p$ und $q$ sind periodisch mit derselben Periode. \end{itemize} In beiden F"allen zeigen wir die a priori nicht selbstverst"andliche Tatsache, dass die Resolventenmenge des Operators $A$ nichtleer ist. Es zeigt sich zudem, dass das nichtreelle Spektrum des Operators $A$ in beiden F"allen (im Fall (ii) mit gewissen Voraussetzungen an die Funktionen $w$ und $p$) beschr"ankt ist. Desweiteren k"onnen wir zeigen, dass es ein $\eta &gt; 0$ gibt, so dass der Operator $A$ auf $(-\infty,-\eta]\cup [\eta,+\infty)$ -- "ahnlich wie ein selbstadjungierter Operator im Hilbertraum -- eine Spektralfunktion $E$ besitzt. Die Innenproduktr"aume $(\ran E([\eta,c)),\product)$ und $(\ran E((-c,-\eta]),-\product)$ sind dann f"ur jedes $c &gt; \eta$ Hilbertr"aume.</dc:description>
+          <dc:description xml:lang="eng">In this thesis we consider differential expressions of the form %\begin{equation}\label{ell} $$ \ell = \frac 1 w\left(-\frac d {dx}p\frac d{dx} + q\right), $$ %\end{equation} where $w$, $p^{-1}$ and $q$ are real-valued, locally integrable functions on a (bounded or unbounded) interval $(a,b)$ with $w(x)\neq 0$ and $p(x) &gt; 0$ (a.e.). It is assumed that the weight function $w$ does not change its sign and that $\ell$ is limit point at both endpoints $a$ and $b$. The maximal operator $A$ corresponding to $\ell$ acts in the weighted $L^2$-space $L^2_{|w|}(a,b)$ and is selfadjoint with respect to the {\it indefinite} inner product $$ [f,g] := \int_a^b\,f(x)\ol{g(x)}w(x)\,dx,\quad f,g\in L^2_{|w|}(a,b). $$ Equivalently, with $J = \operatorname{sgn}(w(x))$ the operator $JA$ is selfadjoint in the Hilbert space $L^2_{|w|}(a,b)$. In the cases $\min\sigma(JA) &gt; 0$ and $\min\sigma_{\rm ess}(JA) &gt; 0$ it is well-known that the spectrum of the operator $A$ is real (with the possible exception of a finite number of non-real eigenvalues with finite multiplicities) and that $A$ has a spectral function on $\R$ with singularities. Here, we assume that $JA$ is bounded from below but allow $\min\sigma_{\rm ess}(JA)$ to be non-positive. We focus on the following two cases: \begin{itemize} \item[(i)] There exist $a',b'\in (a,b)$ such that the weight function $w$ does not change its sign on $(a,a')$ and $(b',b)$, respectively. \item[(ii)] $(a,b) = \R$, and $w$, $p$, $q$ are periodic with the same period. \end{itemize} In both cases we show the a priori not self-evident fact that the resolvent set of the operator $A$ is non-empty. It turns out that (under certain conditions on the functions $w$ and $p$ in the case (ii)) the non-real spectrum of $A$ is bounded. Moreover, it is shown that there exists some $\eta &gt; 0$ such that -- similarly as a selfadjoint operator in a Hilbert space -- the operator $A$ has a spectral function $E$ on $(-\infty,-\eta]\cup [\eta,+\infty)$. The inner product spaces $(\ran E([\eta,\infty)),\product)$ and $(\ran E((-\infty,-\eta]),-\product)$ are Hilbert spaces. As a consequence, the operator $A$ decomposes into a direct $\product$-orthogonal sum of a bounded operator and a selfadjoint operator in a Hilbert space.</dc:description>
+          <dc:date>2011-06-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2922</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30985</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30985</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2922/philipp_friedrich.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

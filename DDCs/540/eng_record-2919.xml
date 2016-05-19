@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2919">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2919</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aggregations- und Adsorptionsverhalten von Polymer-Tensidmischungen</dc:title>
+          <dc:title xml:lang="eng">Aggregation and Adsorption Behavior of Polymer-Surfactant Mixtures</dc:title>
+          <dc:creator>Hoffmann, Ingo</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurde das Aggregations- und Adsorptionsverhalten verschiedener Polymere und Polymer-Tensid Mischungen untersucht. ITC zeig im verdünnten Bereich in der Nähe der cmc des jeweiligen Tensids Wechselwirkungen zwischen dem anionischen LAS und den Polymeren, sowie zwischen einer Mischung aus LAS und Nio, während kaum eine Wechselwirkung zwischen Nio und den Polymeren beobachtet werden kann. FLCS zeigt, dass die beobachteten Wechselwirkungen auf die Bildung von Polymer-Tensid Aggregaten zurückzuführen ist. Es wurde ein Verfahren zur Messung der Polymeradsorption an Baumwolle entwickelt, das prinzipiell für beliebige Materialien eingesetzt werden kann. Dabei werden die Polymere fluoreszenzmarkiert. Es wurden das Adsorptionsverhalten der Polymere an Baumwolle und der Einfluss von Tensiden, dem pH-Wert und der Wasserhärte auf das Adsorptionsverhalten der Polymere gemessen. Insbesondere das kationische JR 400 adsorbiert stark an Baumwolle, während die anionische CMC. Der Einfluss der Tenside auf die Polymeradsorption kann mit dem Aggregationsverhalten in Lösung korreliert werden. Außerdem wurden Mischungen von JR 400 und entgegengesetzt geladenen Tensiden im halbverdünnten Bereich untersucht. Diese zeigen eine starke Erhöhung der Viskosität des Systems, sowie langsame Relaxationszeiten, gleichzeitig bilden sie eine mesoskopische Netzwerkstruktur, die mit SANS untersucht wurde.</dc:description>
+          <dc:description xml:lang="eng">In the present thesis the aggregation and adsorption behavior of different polymers and polymer-surfactant mixtures has been examined. ITC shows interactions between polymers and the surfactant LAS near the cmc of the surfactant as well as between polymers and a mixture of LAS and nonionic surfactant while nonionic surfactant shows hardly any interactions with the polymers. FLCS shows that the observed interactions are due to the formation of polymer-surfactant aggregates . A process for the measurement of polymer adsorption on cotton, that can generally be used for arbitrary materials has been developed. The process involves fluorescence labeling of the polymers. The adsorption behaviour of polymers on cotton and the influence of surfactants, pH and salt content on it have been studied. Especially cationic JR 400 shows strong adsorption on cotton, while anionic CMC shows hardly any adsorption. The influence of the surfactants on polymer adsorption can be correlated with the aggregation behavior in solution. Furthermore, mixtures of JR 400 and oppositely charged surfactant in the semi-dilute regime have been examined. These mixtures show a strong increase in viscosity as much as long relaxation times. At the same time, mesoscopic networks are formed, which can be observed by means of SANS.</dc:description>
+          <dc:date>2011-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2919</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30972</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30972</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2919/hoffmann_ingo.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

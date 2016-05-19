@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1862">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1862</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Theoretische und experimentelle Untersuchungen zu einem permanentmagneterregten Transversalfluss-Synchronlinearmotor in Sonderbauform</dc:title>
+          <dc:title xml:lang="eng">Theoretical und experimental investigation of a permanent magnet excited transverse flux synchronous linear motor by special construction</dc:title>
+          <dc:creator>Tseng, Wan-Tsun</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wurde ein permanentmagneterregter, synchroner Linearantrieb mit Transversalflusskonzept in Sonderbauform behandelt. Dieser synchrone TFM-Linearmotor weist eine hohe Vorschubkraft und sehr spezielle Bauweise auf. Zur Überprüfung der theoretischen Berechnungen wurde ein Prototyp mit Transversalflusskonzept ausgelegt und aufgebaut. Gemäß theoretischen Berechnungen und nach experimentellen Untersuchungen konnte nachgewiesen werden, dass der entwickelte synchrone TFM-Linearmotor gemäß vorgestellter Funktions- und Bauweise für Handhabungsaufgaben in industrieller Anwendung eingesetzt werden kann. Die Minimierung der Rastkraft ist eine wichtige Aufgabe bei der Entwicklung dieses PM-Linearantriebs. Die Techniken zur Reduzierung der Rastkraft wurden vorgestellt. Eine Methode zur Reduzierung der Rastkraft wurde in dieser Arbeit zur Anwendung gebracht, wobei die geometrische Zuordung zwischen Permanentmagneten und Translator betrachtet wurde, um eine einfache Fertigung der Maschine zu gewährleisten. Deshalb spielt die Bestimmung der Translatorpolteilung τR eine zentrale Rolle. Eine ungünstige Wahl der Translatorpolteilung kann eine große Rastkraft verursachen. Die Translatorpolteilung wurde zunächst für experimentelle Untersuchungen jeweils zu 17,5 mm (= 5τM /6) und 28,0 mm (= 4τM /3) bestimmt, wobei τR = 17,5 mm die bessere Wahl darstellt. Wegen des Abbruchs von Material von einigen Zahnköpfen bei der erstmaligen Montage des Translators (τR=17,5mm) ist die Translatorpolteilung nachträglich auf 28,0 mm festgesetzt worden. Diese ungeeignete Translatorpolteilung führt zu einer höheren Rastkraft. Um die Rastkraft auf weniger als 5 N zu reduzieren, wird vorgeschlagen, für die Translatorpolteilung 5τM /6 zu wählen. Das Ergebnis bestätigt sich, dass ein direkter Linearantrieb nach dem vorgestellten Transversalflusskonzept eine hohe Vorschubkraft von ca. 290 N erzielen kann. Die Antriebskraft des synchronen TFM-Linearmotors könnte nach Erhöhung der Remanenz des Permanentmagnetmaterials (bisher Br=1,05 T), bei vollständiger Kraftwirkfläche des Zahnkopfs (Verbesserung des Fertigungsprozesses) sowie ohne Feldabfall zwischen den Einzelmagneten (Blockpolmagnet statt Einzelpolmagnete) weiter erhöht werden. Durch die experimentellen Untersuchungen sind die Betriebsdaten und Kennlinien des synchronen TFM-Linearmotors bestätigt worden. Aufgrund der begrenzten Hublänge von nur 188,0 mm konnten die Daten und Kennlinien nur mit einer Betriebsgeschwindigkeit bis 0,63 m/s aufgenommen werden. Gemäß den Messergebnissen weist der synchrone TFM-Linearmotor einen guten Wirkungsgrad und einen guten Leistungsfaktor auf.</dc:description>
+          <dc:description xml:lang="eng">A permanent magnet(PM) excited synchronous linear device with transverse flux concept(TFM linear motor) in a special form was studied in this dissertation. This synchronous TFM linear motor shows a high thrust and very special construction. In order to check the theoretical calculation, a prototype was designed and built. According to theoretical calculation and experimental investigation, it could be proved that the developed TFM linear motor can be used in industrial operation. The minimization of the cogging force is an important task in the development of this PM TFM linear motor. Techniques to minimize the cogging force were introduced. One of the techniques was applied in this dissertation. In order to guarantee the simple manufacturing of the machine, the arrangement between the permanent magnet pole pitch τM and the translator pole pitch τR was considered. Therefore, the determination of τR plays a central role. An unsuitable selection of τR can create a large cogging force. For experimental investigation the translator pole pitch was set at 17.5 mm (= 5τM /6) and 28.0 mm (= 4M /3) respectively, of which τR = 17.5 mm is the better choice. Because of damage of the tooth head at the translator during the first mounting (τR = 17.5 mm) of the motor, the translator pole pitch was fixed at 28.0 mm. But, this unsuitable selection created a higher cogging force. The test result has confirmed that a directly operated linear motor according to introduced transverse flux concept can achieve a high thrust of about 290 N. This thrust of the synchronous TFM linear motor can be further increased by higher remanence of permanent magnet (till now Br=1.05 T), a fully effective area of tooth head to create thrust (i.e. improving the manufacturing process) and without field reduction between the single permanent magnets (using block pole magnets instead of single pole magnets). The operation data and characteristic curve of the synchronous TFM linear motor were confirmed by experimental investigation. Due to the limited drive length only for 188.0 mm, this data and characteristic curve could only be obtained up to a drive speed of 0.63 m/s. Results show that the synchronous TFM linear motor features a good efficiency and power factor.</dc:description>
+          <dc:date>2008-08-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1862</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19428</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19428</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1862/original_tseng_wantsun.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1862/tseng_wantsun.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

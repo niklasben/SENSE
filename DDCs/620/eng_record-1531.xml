@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1531">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1531</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Erzeugung kurzer Pulse in Neodym-dotierten Mikrostrukturfasern</dc:title>
+          <dc:title xml:lang="eng">Generation of short pulses in neodymium-doped microstructure fibers</dc:title>
+          <dc:creator>Mönster, Mathias</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Thema dieser Arbeit ist die Realisierung eines kompakten, modengekoppelten Faserlasers zur Erzeugung kurzer optischer Pulse bei einer Wellenlänge von 1.06 µm. Hierzu wird eine neuartige Neodym-dotierte Mikrostrukturfaser aus Phosphatglas verwendet, welche der Länge nach von einem hexagonalen Gitter aus Luftlöchern durchzogen ist. Der Abstand der Luftlöcher liegt im Bereich der optischen Wellenlänge. Durch ein fehlendes Luftloch in diesem Gitter wird der Faserkern definiert. Bei einer geeigneten Luftloch-Geometrie wird die Wellenleiterdispersion der Mikrostrukturfaser so stark anomal, dass die normale Materialdispersion des verwendeten Glases bei der Neodym-Wellenlänge 1.06 µm kompensiert wird. Dies ist mit konventionellen Fasern nicht möglich. Somit erlaubt die Neodym-dotierte Mikrostrukturfaser die Verbindung von optischer Verstärkung und anomaler Dispersion bei der Betriebswellenlänge 1.06 µm. Die Wechselwirkung zwischen der anomalen Dispersion und der Kerr-Nichtlinearität in der Neodym-dotierten Mikrostrukturfaser ermöglicht die Ausbildung von optischen Solitonen. In einem modengekoppelten Laser kann diese sogenannte Solitonen-Pulsformung für die Erzeugung kurzer, Fourier-limitierter Pulse genutzt werden. Zur Optimierung der Solitonen-Pulsformung, insbesondere zur Maximierung der Pulsenergie, wurden in dieser Arbeit Entwurfskriterien für die Luftloch-Geometrie der Mikrostrukturfaser entwickelt. Weiterhin wurde eine einfache analytische Relation zur Abschätzung der Wellenleiterdispersion in Abhängigkeit der effektiven Modenfläche der Faser hergeleitet. Die Erzeugung von Solitonen konnte experimentell in einer Laser-Kavität beobachtet werden, in der eine 0.5 m lange, anormal dispersive Mikrostrukturfaser sowie ein Halbleiter-basierter, sättigbarer Absorberspiegel mit einer großen Modulationstiefe eingesetzt wurden. Während der sättigbare Absorberspiegel zum Selbststarten und zur Stabilisierung des passiv modengekoppelten Betriebs diente, führte die Solitonen-Pulsformung innerhalb der Mikrostrukturfaser zur Ausbildung von stabilen Fourier-limitierten Pulsen mit einer minimalen Halbwertsbreite von 180 fs. Dies sind die kürzesten Pulse, die bisher in einem Neodym-dotierten Faserlaser mit einem sättigbaren Absorberspiegel erzeugt wurden. Die vorstehenden Ergebnisse zeigen, dass ein Femtosekunden-Laser grundsätzlich aus nur zwei resonatorinternen Elementen aufgebaut werden kann: einer aktiven anomal dispersiven Mikrostrukturfaser und einem sättigbaren Absorberspiegel. Dies ermöglicht die Konstruktion von kompakten und einfachen Femtosekunden-Lasern im Wellenlängenbereich um 1 µm.</dc:description>
+          <dc:description xml:lang="eng">The subject of this thesis is the realization of a compact passively mode-locked femtosecond laser for the generation of short optical pulses at a wavelength of 1.06 µm. Therefore, a novel neodymium-doped microstructure fiber is employed, which consists of a phosphate-glass-matrix with an hexagonal, wavelength-scale lattice of air-holes running along the length of the fiber. A missing air-hole in the lattice defines the fiber core. For an appropriate air-hole geometry the waveguide dispersion of the microstructure fiber can be driven into a strongly anomalous regime in which the normal material dispersion of the glass-material is compensated at the neodymium wavelength of 1.06 µm. This is not possible with conventional fibers. Thus, the neodymium-doped microstructure fiber allows for the combination of optical gain and anomalous dispersion at the lasing wavelength of 1.06 µm. The interaction between the anomalous dispersion and the Kerr-nonlinearity in the neodymium-doped microstructure fiber enables the formation of optical solitons. In a mode-locked laser this so-called soliton pulse shaping mechanism can be employed to generate short transform-limited pulses. In order to optimize the soliton pulse shaping, in particular to maximize the pulse energy, design rules for the air-hole geometry of the microstructure fiber were developed in this thesis. Furthermore, a simple analytical relation for estimating the waveguide dispersion as a function of the effective mode field area of the fiber was derived. The generation of solitons could be experimentally observed in a laser cavity that comprised a 0.5 m long anomalously dispersive neodymium-doped microstructure fiber and a semiconductor-based saturable absorber mirror with a large modulation depth. While the saturable absorber mirror effected self-starting and stabilizing the passively mode-locked lasing operation, soliton pulse shaping in the microstructure fiber led to the formation of stable transform-limited pulses with pulse durations down to 180 fs. These are the shortest pulses that have been achieved to date in a neodymium-doped fiber laser mode-locked by a saturable absorber mirror. The preceding results demonstrate that a femtosecond laser oscillator can be constructed basically from only two intracavity elements: an active anomalously dispersive microstructure fiber and a saturable absorber mirror. This enables the construction of compact and simple femtosecond lasers within the wavelength range around 1 µm.</dc:description>
+          <dc:date>2007-06-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1531</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15865</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15865</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1531/moenster_mathias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

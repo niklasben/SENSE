@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:157">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:157</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Theoretical investigations into adsorption and Co-adsorption on transition-metal surfaces as models to heterogeneous catalysis</dc:title>
+          <dc:title xml:lang="deu">Theoretische Untersuchungen zur Adsorption und Ko-Adsorption auf Übergangsmetalloberflächen als Modellsystem zur Heterogenen Katalyse</dc:title>
+          <dc:creator>Seitsonen, Ari Paavo</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Eines der Standbeine der Oberflächenforschung in der physikalischen Chemie ist die Untersuchung von heterogen-katalysierten Reaktionen. Dabei müssen zuerst beide Reaktanden auf der katalytisch aktiven Oberfläche adsorbieren, bevor sie miteinder zum Produkt reagieren. Eine Schlüsselrolle für ein tieferes Verständnis auf mikroskopischer Ebene spielen daher Untersuchungen von Adsorbat- und Koadsorbatsystemen auf Metalloberflächen. Die Komplexität realer Katalysatoren erfordert die Einschränkung auf Modellsysteme und Modellreaktionen, wie sie etwa durch Metalleinkristalloberflächen und der CO Oxidationsreaktion realisiert sind. In der vorliegenden Arbeit wurde die Dichtefunktionaltheorie zur Berechnung der elektronischen und atomaren Struktur von O, CO, Cs und deren Koadsorbatsysteme auf Ru(0001) benutzt. Technische Einzelheiten der Weiterentwicklung des verwendeten Programmes sind in einem Anhang beschrieben. Die Untersuchung von Cs und dessen Wechselwirkung mit CO und Sauerstoff ergeben detaillierte Informationen zur Alkalimetall-promotierten CO Oxidation. Das Cäsium wird durch die Adsorption auf Ru(0001) deutlich polarisiert, was mit einem starken lokalen elektrischen Feld (senkrecht zur Oberfläche) von etwa 1 V/Å einhergeht. Diese hohe Feldstärke verändert maßgeblich die Elektronendichteverteilung in Koadsorbaten (Promotorwirkung) und im Substrat. Die elektronische Antwort des Substrates auf die Adsorption von Cs konnte sehr gut mit einem äusseren elektrischen Feld modelliert werden. Die Adsorption von CO (Kohlenmonoxid) auf Metalloberflächen wird traditionell im Rahmen des Blyholdermodells, einem Donator-Akzeptormodell, beschrieben: Das CO 5Sigma Orbital (HOMO) gibt Ladung an das unterliegende Substrat ab und erhält im Gegenzug Ladung von der Metallunterlage in das 2Pi* CO Orbital (LUMO). Andere Molekülorbitale von CO sind nach diesem Modell an der Bindung nicht beteiligt. Die hier vorgestellten DFT Rechungen zeigen deutlich, daßdieses Modell zu einfach ist und daß neben dem CO 5Sigma und 2Pi* Orbitalen eine starke und für die Bindung entscheidende Mischung mit dem CO-4Sigma Orbital auftritt. Das isoelektronische Molekül N2 verhält sich hinsichtlich seiner Bindung zu Ru(0001) ähnlich wie CO. DFT Rechungen der CO Chemisorption auf anderen Übergangsmetalloberflächen, wie Cu(111) und Pt(111), ergaben von Experimenten abweichende Adsorptionsplätze. Dies mag auf zu grobe Näherungen in der GGA (engl. Generalized Gradient Approximation) hinweisen. Die Wechselwirkung zwischen Cs und Sauerstoff oder CO ist attraktiv, wie es auch experimentell gefunden worden ist und wie man es aufgrund der unterschiedlichen Elektronegativitäten erwarten sollte. Die atomaren Geometrien der Koadsorbatstrukturen, wie sie mit DFT gefunden wurden, stimmen ausgezeichnet mit experimentellen Werten überein. Das CO Molekül polarisiert in Gegenwart des koadsorbierten Cs Atoms aufgrund des hohen Cs-induzierten elektrischen Feldes. Die gefundene Verlängerung des CO Bindungsabstandes wird durch Adsorption, Platzwechsel von on-top auf einen dreifachkoordinierten Platz und der Antwort von CO auf das hohe Cs-induzierte elektrische Feld erklärt.</dc:description>
+          <dc:date>2002-02-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/157</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1528</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1528</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/157/seitsonen_ari.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

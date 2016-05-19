@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:784">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:784</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Notification agents for mobile route guidance</dc:title>
+          <dc:title xml:lang="deu">Benachrichtigungsagenten für die mobile Reiseunterstützung</dc:title>
+          <dc:creator>Schaal, Markus</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Ubiquitous and mobile computing has become an important field in computer science. The provision, management and transmission of information within computer systems and for human-computer interaction is required for many applications and the individual needs of the mobile user are manifold. Due to information overflow it is difficult for the user to access specific pieces of information while key information for decision makers is often missing. Technologies for the emerging field of information logistics are studied in order to enable an optimal information supply with respect to the individual users needs. A dominant application area for this is mobile route guidance, especially when it comes to messaging about alternative routes. Such alternative routes might be advantageous in case of unexpected incidents such as the emergence of an additional train (or cancellation) so that the traveller may reach his/her destination earlier. The main contribution of this thesis is the conceptualization of a method for the selection of individual notifications for mobile route guidance which considers future notification options and the information quality gain to be achieved. Two scenarios are used for the demonstration of continuous individual messages for the traveller notifying him about the best route to follow. Explicit models for the uncertainty about future situations are introduced and the uncertainty reduction by waiting for more information is quantified. The topology of the transportation network is considered and used as a structural model for the construction of influence diagrams as decision models. These influence diagrams answer the questions about the best notifications to be sent both with respect to time and content. Our approach goes beyond probabilistic route planning, which selects a route with maximum expected utility. Other than that, future notification options are considered and the best notification policy is selected rather than the best route. By this, the expected utility can be improved with respect to the standard approach.</dc:description>
+          <dc:description xml:lang="deu">Mobile Kommunikation stellt neuartige Herausforderungen an die Bereitstellung, Verwaltung, und Übermittlung von Informationen. Während einerseits ein gewaltiges Überangebot an Informationsbruchstücken existiert, das auch mit fortschrittlichen Technologien für die Suche und Indizierung von Wissen kaum überschaubar gehalten werden kann, fehlen dem Menschen andererseits oft genau die wesentlichen Kerninformationen, um eine bestimmte Aufgabe besser oder gar überhaupt zu bewältigen. Auf dem entstehenden Gebiet der Informationslogistik werden daher Technologien erforscht und entwickelt, die eine optimale und an individuellen Bedürfnissen orientierte Informationsversorgung ermöglichen. Ein allgegenwärtiges Anwendungsfeld ist hierbei die mobile Reiseunterstützung, insbesondere die Benachrichtigung des Reisenden über alternative und bessere Reisewege, die sich aus unvorhersehbaren Veränderungen der Reisemöglichkeiten ergeben können, beispielsweise durch das Ausfallen bzw. Einsetzen von Zügen. Der Hauptbeitrag dieser Arbeit besteht in der Konzeption eines Verfahrens für die Auswahl von individuellen Benachrichtigungen, das auch zukünftige Benachrichtigungsmöglichkeiten unter einer dann verbesserten Informationslage berücksichtigt. Zwei konkrete Szenarien demonstrieren die individualisierte und fortlaufende Benachrichtigung des Reisenden über den besten Reiseweg. Die Unsicherheit über zukünftige Situationen und die Informationsverbesserung durch Abwarten wird quantifiziert und durch probabilistische Modelle dargestellt. Die Topologie des Verkehrsnetzes wird berücksichtigt und dient als strukturelle Vorlage für die Erstellung von Influenzdiagrammen zur Lösung von Benachrichtigungsentscheidungen. Bei der probabilistischen Routenplanung wird üblicherweise die Route mit dem besten Erwartungswert einer Zielfunktion ausgewählt. Im Gegensatz dazu werden in dieser Arbeit auch zukünftige Benachrichtigungsmöglichkeiten eingeplant und die beste Benachrichtigungstrategie wird gewählt anstatt der besten Route. Dadurch lässt sich ein besserer Erwartungswert der Zielfunktion erreichen als bei den herkömmlichen Verfahren.</dc:description>
+          <dc:date>2004-06-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/784</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7784</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7784</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/784/schaal_markus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3152">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3152</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A Generic Framework for Heterogeneous Resource Federation</dc:title>
+          <dc:title xml:lang="deu">Ein generisches Framework zur Föderation heterogener Ressourcen</dc:title>
+          <dc:creator>Wahle, Sebastian</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">This doctorate thesis introduces a framework for information and communication technology resource federation. Resource federation in the context of this work is a concept for sharing and allowing access to heterogeneous resources across multiple administrative domains. Three design artifacts are delivered as the main research result: a federation model, a federation methodology, and a system instantiation. The artifacts abstract from the types of resources to be federated. Examples of resources include general-purpose physical and virtual machines, software packages and systems, as well as specialized proprietary devices. Resource capabilities are exposed in a service oriented manner and can be assembled in meaningful combinations and configurations to satisfy the service consumer’s requirements. One of the potential user segments is the scientific community where resources are requested for running large scale research experiments that require a certain setup of heterogeneous resources. The benefit provided to users of the federation is the seamless access to a large collection of resources via unified interfaces. Resource providers benefit from an additional sales channel, increasing their average resource utilization, some sort of compensation for the provided services, and the access to additional user groups. A federation organization maintains relationships with all stakeholders and offers central services to ensure the overall operation.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit betrachtet ein generisches Framework zur Föderation von Ressourcen der Informations- und Kommunikationstechnologie. “Generic resource federation�? ist, im Kontext dieser Arbeit, ein Konzept zur Bereitstellung und Freigabe heterogener Ressourcen über die Grenzen administrativer Domänen hinweg. Die hier präsentierte Forschungsleistung setzt sich aus der Entwicklung und Bereitstellung—dem Design—eines generischen Föderationsmodells, eines Satzes von Methoden zur flexiblen Föderation von Ressourcen, sowie einer Systeminstanziierung zusammen. Hierbei abstrahieren die drei oben genannten “design artifacts�? vom Typus föderierter Ressourcen. Beispiele verschiedener Ressourcentypen, die mit dem System föderiert werden können, sind physikalische und virtuelle Rechner, Softwarepakete und -systeme, sowie Spezialgeräte. Die Eigenschaften und Einsatzmöglichkeiten einzelner Ressourcen werden dienstorientiert zur Verfügung gestellt und können flexibel kombiniert werden, um den Anforderungen des Nutzers gerecht zu werden. Eines der potentiellen Anwendungsgebiete der Ergebnisse ist die wissenschaftliche Forschungsgemeinschaft, die verschiedenste Ressourcen für die Durchführung umfangreicher Experimente benötigt. Der Mehrwert für die Nutzer des beschriebenen Systems ist der einfache Zugang zu einer Vielzahl unterschiedlicher Ressourcen mittels einheitlicher Schnittstellen. Die Anbieter von Ressourcen profitieren durch einen weiteren Vertriebskanal, eine erhöhte durchschnittliche Ressourcenauslastung, die Kompensierung ihrer angebotenen Dienste, sowie die Erschließung zusätzlicher Nutzergruppen. Eine Föderationsorganisation vertritt die unterschiedlichen Interessensgruppen nach außen und bietet zentrale Dienstleistungen, um einen fortlaufenden Betrieb zu gewährleisten.</dc:description>
+          <dc:date>2011-11-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3152</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33335</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33335</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3152/wahle_sebastian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

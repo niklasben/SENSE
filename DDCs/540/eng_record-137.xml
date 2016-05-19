@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:137">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:137</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Fluoreszenzfähige, supramolekulare Systeme mit Redox-Schaltern</dc:title>
+          <dc:creator>Gunther, Hennrich</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschreibt die Synthese und Charakterisierung neuartiger, redox-schaltbarer Fluoreszenzmarker-Systeme. Mittels fluoreszenzspektroskopischer Untersuchungen wurden diese Systeme hinsichtlich ihrer Komplexierungseigenschaften gegenüber biologisch und ökologisch relevanten Übergangs- und Schwermetallkationen, Anionen sowie Carbonsäuren untersucht. Als redox-schaltbare Einheit dient das 1,2,4-Thiadiazol / Iminoylthioharnstoff-System, das integraler Baustein der verschiedenen, modularen Marker-Systeme ist. Diese Schaltereinheit besitzt je nach Oxidationszustand deutlich unterschiedliche Koordinationsstellen hinsichtlich der sterischen Verhältnisse sowie der Donorkapazität der S- und N-Heteroatome. Bereits bei nicht fluoreszenzfähigen, modularen Ionophor-Systemen, die zum Teil zusätzliche, komplexierungsfähige Kronenether- und Polyethylenglycol-Einheiten enthielten, zeigte sich eine deutliche Abhängigkeit der Komplexierungseigenschaften dieser Systeme vom Redoxzustand der schaltbaren Einheit und eine hohe Affinität gegenüber Übergangs- und Schwermetallkationen. In fluoreszierenden Redoxsystemen erwies sich die redox-schaltbare Einheit selbst als effiziente Komplexierungseinheit, so dass Systeme erhalten werden konnten, die selektiv, in Abhängigkeit vom Redoxzustand die Gegenwart verschiedener Übergangs- und Schwermetallkationen durch deutliche Fluoreszenzerhöhungen anzeigten. Dabei sind vor allem die deutlichen Fluoreszenzverstärkungs-Faktoren (46- bzw. 44-fach) in Gegenwart der als Fluoreszenzlöscher bekannten Kationen Cu(II) und Hg(II) hervorzuheben. Zur selektiven Erkennung von anionischen und ungeladenen Gastmolekülen wurden Systeme eingesetzt, die zur Ausbildung von Wasserstoffbrücken-Bindungen befähigt sind. Hierzu eigneten sich insbesondere die ringoffenen Iminoylthioharnstoff-Formen der fluoreszenzfähigen Redoxsysteme. So wurden Systeme synthetisiert, die in ihrer reduzierten Form selektiv eine starke (bis zu 53-fache) Fluoreszenzerhöhung bei Zugabe von CO32--Anionen zeigen.</dc:description>
+          <dc:date>2000-10-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/137</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1326</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1326</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/137/hennrich_gunther.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4935">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4935</identifier>
+        <datestamp>2014-04-11</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Robuste optimale Prozessplanung und -führung nichtlinearer Systeme unter Verwendung der Unscented-Transformation</dc:title>
+          <dc:title xml:lang="eng">Robust optimal planning and robust model predictive control of nonlinear systems based on the unscented-transformation</dc:title>
+          <dc:creator>Kawohl, Michael</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Optimierung verfahrenstechnischer Prozesse erfolgt in vielen Fällen klassisch durch reaktionstechnische, fluiddynamische oder andere verfahrenstechnische Eingriffe. In den letzten Jahren wird jedoch auch immer mehr versucht, bestehende Anlagen mit modernen modellbasierten Automatisierungskonzepten optimaler zu betreiben. Insbesondere chemische und biologische Batch und Semi-/Fedbatch Prozesse zeichnen sich jedoch meist durch eine ausgeprägt nichtlineare, zu stark unterschiedlichem Verhalten führende Eigendynamik aus. &#13;
+Während sich die Strukturen der zu Grunde gelegten Modelle des Prozessverhaltens auf Basis chemisch-physikalischer Zusammenhänge herleiten lassen, sind diverse Modellparameter a priori unbekannt. Diese Parameter müssen aus experimentellen Daten identifiziert werden. Um auch mit wenigen Versuchen gute Identifizierbarkeit zu erreichen, werden Verfahren wie die Optimale-Versuchsplanung angewendet. Die hierbei verwendeten Ansätze fußen auf einer Analyse des verbleibenden Parameterfehlers mit Hilfe der Fisher'schen-Informationsmatrix. In dieser Arbeit wird gezeigt, dass die Berechnung der Fisher'schen-Informationsmatrix intern einer Approximation der Parametervarianz mit einem Approximationsansatz erster Ordnung entspricht. Davon ausgehend wird ein neues Verfahren zur Optimalen-Versuchsplanung vorgestellt, welches die Möglichkeit bietet, Approximationen beliebiger Ordnung zur Berechnung der verbleibenden Parameterfehler zu verwenden und im Falle der Nutzung einer Approximation 1. Ordnung äquivalent zur Fisher'schen-Informationsmatrix ist. &#13;
+Ausgehend von einem mathematischen Prozessmodell können Trajektorien geplant werden, die maximale Produktivität versprechen. Im Rahmen der klassischen Prozessplanung und -führung werden die genauen Auswirkungen von Modellfehlern auf die geplante Trajektorie nicht beachtet. Robuste Ansätze zur modellbasierten Planung und Regelung von Prozessen, die explizit die Unsicherheiten beim Prozessstart und in den Modellparametern berücksichtigen, können Schwankungen der Produktivität stark reduzieren. Während bisher die Auswirkungen von unsicheren Größen auf den Prozessverlauf meist nur durch eine Approximation erster Ordnung prädiziert werden, stellt die vorliegende Arbeit einen neuen robusten Ansatz zur Prozessplanung und -führung vor, der auf der Unscented Transformation basiert. Die Unscented Transformation erlaubt die näherungsweise Berechnung der Verteilungsfunktion des Prozessausgangs basierend auf einer Approximation zweiter oder höherer Ordnung. Die Ergebnisse dieser Prädiktion werden unter Verwendung einer "`Value@Risk"'-Formulierung zur robusten Prozessoptimierung verwendet. Umfangreiche Simulationsstudien untermauern die Effizienz dieses robusten Ansatzes.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">Typically, optimization of chemical and biochemical processes is performed by classic process engineering, e.g. reaction engineering or fluid dynamics. In recent years, however, more and more modern model-based automation concepts have been used to optimize the operation of existing facilities. On the downside, chemical and biological batch and semi-/fedbatch processes are usually characterized by strong non-linear behavior. &#13;
+While the structures of the underlying process models can be derived from physical and chemical relationships, various model parameters are unknown, a priori. These parameters have to be identified from experimental data. In order to achieve good identifiability even after few experiments, methods for Optimal-Experimental-Design are applied. These methods are based on an analysis of the remaining parameter error evaluated by the Fisher-Information-Matrix. In this work, it is shown that the calculation of the Fisher-Information-Matrix corresponds to a first order approximation of the remaining parameter variance. From this conclusion, a new method for Optimal –Experimental-Design is derived, which offers the possibility to use approximations of arbitrary order to calculate the remaining parameter error. When using a first order approximation, it is equivalent to Fisher-Information-Matrix. &#13;
+Based on a mathematical process model, trajectories promising maximum productivity can be planned. In traditional process planning and execution, the exact impact of model errors on the planned trajectory is ignored. Robust approaches to model-based planning and control of processes explicitly take into account uncertainties of the initial process state and the model parameters. These approaches can greatly reduce fluctuations of productivity. So far, the effects of uncertain quantities are usually predicted by a first order approximation. This work presents a new robust approach to process planning and control based on the Unscented-Transformation. The Unscented-Transformation approximates the distribution function of the process output utilizing an approximation of second or higher order. The results of the prediction can be integrated in a "Value@ Risk�? approach for robust process optimization and control. Extensive simulation studies substantiate the efficiency of this robust approach.&#13;
+</dc:description>
+          <dc:date>2014-03-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4935</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49357</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49357</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4935/kawohl_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1691">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1691</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Anwendung hoch- und höchstfester Stähle für walzprofilierte Fahrzeugstrukturkomponenten</dc:title>
+          <dc:title xml:lang="eng">studies on the application of high and advanced high strength steels in rollformed body-in-white parts</dc:title>
+          <dc:creator>Röcker, Oliver</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ausgelöst durch gestiegene Leichtbauanforderungen im Automobilbau kommen in modernen Fahrzeugkarosserien vermehrt hoch- und höchstfeste Stähle zum Einsatz. Mit der Anwendung von hochfesten Stahlwerkstoffen im Karosseriebau treten jedoch zunehmend Probleme bei der Bauteilherstellung mittels Tiefziehen durch vermindertes Formänderungsvermögen und Rückfederungseffekte auf. Ein Lösungsansatz stellt die Biegeumformung durch Walzprofilieren dar, da hierbei geringere Formänderungen auftreten. Die Entwicklung hochfester Stahlwerkstoffe für den Karosseriebau hatte in der Vergangenheit hingegen meist die Zielsetzung höchste Festigkeit und hohe Duktilität zu kombinieren. Mikrolegierte Stähle, Dualphasenstähle und TRIP-Stähle sind in modernen Rohkarossen deshalb häufig anzutreffen. Partiell-Martensitische Stähle (PM-Stähle/Complexphasenstähle) sind wegen geringer Bruchdehnungskennwerte meist nicht in Betracht gezogen worden. In der vorliegenden Arbeit konnte gezeigt werden, dass die alleinige Duktilitätsbeurteilung eines Werkstoffs über die Bruchdehnung nicht vollständig ausreicht. Trotz geringster Bruchdehnung zeigten die PM-Stähle im Kerbzugversuch und Lochaufweitungsversuch duktiles Verhalten. Auch im dynamischen Biegeversuch (Crash-Test) konnte das erhebliche Leichtbaupotential für Walzprofile in PM-Stählen bestätigt werden. Da hohe Umformgrade nur in den Radien von Walzprofilen auftreten, nützen TRIP- und DP-Stähle ihr Verfestigungspotential nicht aus. Weiterhin konnte in simulativen Untersuchungen nachgewiesen werden, dass eine sichere Vorhersage der vorliegenden Eigenspannungszustände mit nur einem Volumenelement (MARC) in Blechdickenrichtung nicht möglich ist. Als Alternative zur Erhöhung der Anzahl von Solid-Elementen bieten die Simulation in LS-DYNA, sowie die Simulation mit Solidshell-Elementen in MARC die Möglichkeit genauere Berechnungsergebnisse bei geringen Rechenzeiten zu erreichen. Während die Simulation mit Solidshell-Elementen in MARC Vorteile bei der reinen Prozesssimulation bietet, kann bei Einsatz von LS-DYNA zusätzlich zur Walzprofiliersimulation ein direktes Ergebnismapping für nachfolgende Crash-Simulationen erfolgen. Die vergleichenden Simulationen mit gemappten und ungemappten Bauteilen zeigen jedoch nur geringe Verbesserungen der Intrusionsvorhersage bei der Crash-Simulation von Walzprofilen.</dc:description>
+          <dc:description xml:lang="eng">The ongoing CO2-discussion forces the car manufacturers to intensify research activities on new lightweight body designs. New material-concepts and manufacturing technologies can lead into fuel-efficient lightweight car bodies. By the application of new high strength steels with common forming technologies springback problems and forming limits occur. Rollforming as a technology of continous incremental forming by a defined number of bending steps leads into new possibilities of springback compensation. Due to this fact rollforming can be regarded as an enabling technology for the application of advanced high strength steels. The development of new high strength steels in the past focussed on good formability combined with high tensile strength. Low-alloy-, Dual-Phase- and TRIP-steels can therefore be found in a lot of actual car bodies. Complex-Phase-steels (partial-martensitic steels) show higher yield-strength values compared to TRIP- and DP-steels, but PM-steels also achieve lower elongation values in the tensile test. For crash-relevant structures car designers fear low elongation values to avoid cracking tendencies at high deformations. In this work it turns out that the singular assessment of a materials ductility by the tensile-test elongation is not a sufficient way. The hole-expansion-test and notched tensile test points out that the PM-steels can sustain higher local deformations, although they have the lowest tensile-test elongation. In the dynamic component testing the high lightweight-application potentials of the PM-steels can be confirmed for the bending-technology rollforming. Aiming for the prediction of the part properties depending on the used material the actual simulation methods for rollforming processes were assessed. The simulation of rollforming processes in MARC with a single linear Solid-Element in thickness direction is not able to predict residual stresses and springback tendencies correctly, in turn by increasing the number of elements the computational costs will increase. Hence alternative methods with Solidshellelements in MARC and a simulation-method in LS-DYNA were developed. Both show advantages for different applications. Whereas the Solidshellelement simulation represents the process in an acceptable way, the LS-DYNA-method offers a virtual process chain for crash-mapping. In the conducted crash simulations and component testings can be seen that the anticipation of the maximum deformation cant be improved by using mapped parts.</dc:description>
+          <dc:date>2008-02-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1691</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17626</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17626</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1691/roecker_oliver.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

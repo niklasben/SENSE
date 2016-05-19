@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:787">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:787</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Linear Differential-Algebraic Equations of Higher-Order and the Regularity or Singularity of Matrix Polynomials</dc:title>
+          <dc:title xml:lang="deu">Lineare differential-algebraische Gleichungen höherer Ordnung und die Singularität oder Regularität von Matrixpolynomen</dc:title>
+          <dc:creator>Shi, Chunchao</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit liefert einen Beitrag zur theoretischen Analyse linearer differentiell-algebraischer Gleichungen (DAEs) höherer Ordnung sowie der Regularität und Singularität von Matrixpolynomen. Für Systeme von linearen DAEs höherer Ordnung mit variablen und konstanten Koeffizienten werden Invarianten und kondensierte Formen unter angemessenen äquivalenztransformationen angegeben. Ausgehend von den kondensierten Formen kann das ursprüngliche DAE-System durch Differentiations- und Eliminationsschritte in ein strangeness-freies System transformiert werden, aus dem das Lösungsverhalten (u.a die Konsistenz der Anfangsbedingungen und die Eindeutigkeit der Lösung) direkt ablesbar ist. Für quadratische DAE-Systeme mit konstanten Koeffizienten wird gezeigt, dass genau dann zu jeder konsistenten Anfangsbedingung und jeder mu-mal stetig differenzierbaren rechten Seite eine eindeutige Lösung existiert, wenn das zugehörige Matrixpolynom regulär ist. Dabei ist mu der Strangeness-Index des Systems. Es werden einige notwendige und hinreichende Bedingungen für die Zeilen-und Spaltenregularität allgemeiner rechteckiger Matrixpolynome angegeben. Eine geometrische Charakterisierung singulärer Matrixbüschel wird ebenfalls hergeleitet. Darüber hinaus wird ein Algorithmus vorgestellt, durch den man mittels Rang-Informationen über die Koeffizientenmatrizen und Determinantenberechnungen bestimmen kann, ob ein gegebenes quadratisches Matrixpolynom regulär ist. Ein weiteres Thema der Arbeit ist die Bestimmung des Abstands eines regulären Matrixpolynoms von der Menge der singulären Matrixpolynome. Es wird gezeigt, dass dieses Problem äquivalent zu der Aufgabe ist, in einer gewissen strukturierten Menge von Matrizen die nächstgelegene Matrix mit niedrigerem Rang zu finden. Dies führt auf eine Charakterisierung des Abstands mit Hilfe von Matrixsingulärwerten. Schliesslich werden einige untere Schranken für den Abstand zur Singularität hergeleitet.</dc:description>
+          <dc:description xml:lang="eng">This thesis contributes to the theoretical analysis of linear differential-algebraic equations (DAEs) of higher order as well as to the regularity and singularity of matrix polynomials. Some invariants and condensed forms under appropriate equivalent transformations are given for systems of linear higher-order DAEs with constant and variable coefficients. Based on condensed forms the original DAE-system can be transformed by differentiation-and-elimination steps into an equivalent strangeness-free system, from which the solution behaviour (including consistency of initial conditions and unique solvability) can be directly read off. It is shown that the following equivalence holds for a DAE-system with strangeness index mu and square and constant coefficients. For any consistent initial condition and any mu-times continously differentiable right-hand side, the associated initial value problem has a unique solution if and only if the matrix polynomial associated with the system is regular. Some necessary and sufficient conditions for column- and row-regularity of rectangular matrix polynomials are derived. A geometrical characterization of singular matrix pencils is also given. Furthermore, an algorithm is presented which - using rank information about the coefficients matrices and via computing determinants - decides whether a given matrix polynomial is regular. Another subject of the thesis is the determination of the distance of a regular matrix polynomial to the set of singular matrix polynomials. It is shown that this nearness problem is equivalent to a rank-deficiency problem for a certain class of structured perturbations. This leads to a characterization of the distance to singularity by singular values of matrices. Finally some lower bounds for the distance of a matrix polynomial to singularity are established.</dc:description>
+          <dc:date>2004-07-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/787</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7816</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7816</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/787/shi_chunchao.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

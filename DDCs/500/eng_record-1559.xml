@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1559">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1559</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Biosynthese und zum Wirkmechanismus der Abyssomicine</dc:title>
+          <dc:title xml:lang="eng">Investigations on Abyssomicin Biosynhtesis and Mode of Action</dc:title>
+          <dc:creator>Keller, Simone</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Die Abyssomicine sind eine Familie neuartiger Polyketid-Antibiotika, die 2004 von den Gruppen Süssmuth und Fiedler erstmalig beschrieben wurden. Die Abyssomicine werden von dem marinen Actinomyceten Verrucosispora AB-18-032 produziert und Abyssomicin C ist unseres Wissens der erste beschriebene natürliche Inhibitor der para-Aminobenzoesäure. Ziel der vorliegenden Arbeit war es, neue Erkenntnisse zum Wirkmechanismus und zur Biosynthese der Abyssomicine zu gewinnen. Ein wichtiger Meilenstein hierbei war die Entdeckung neuer Abyssomicine, insbesondere des atrop-Abyssomicin C, welches ein wirksameres Antibiotikum als Abyssomicin C und zudem leichter aufzureinigen ist. Besonders die Untersuchungen zur Abyssomicinbiosynthese wurden von dieser Entdeckung entscheidend erleichtert. In die Abyssomicinbiosynthese, die im Rahmen dieser Arbeit mittels Fütterungsexperimenten von 13C-markierten Vorläufern untersucht wurde, konnten entscheidende Einblicke gewonnen werden. Es gelang die Zuordnung der Herkunft aller Kohlenstoffatome des atrop-Abyssomicin C. Durch Fütterung von markiertem Acetat, Propionat und Glucose konnte geklärt werden, dass C-1, C-2, C-7 bis C-13 sowie C-17 aus Acetat stammen, C-3 bis C-6 sowie C-18 und C-19 stammen aus Propionat und C-14 bis C-16 werden vermutlich über Enoylpyruvat-S-ACP in atrop-Abyssomicin C eingebaut Die Untersuchung des Wirkmechanismus wurde auf drei Säulen basiert: Zunächst wurde ein einfaches Modellsystem (Mercaptoethanol, N-Acetyl-Cystein) gewählt, das mit atrop-Abyssomicin C umgesetzt wurde. So konnte gezeigt werden, dass atrop-Abyssomicin nucleophil durch Schwefel angegriffen werden kann, und zudem eine Umlagerung zu einer Abyssomicin D-artigen Struktur erfolgt. Die zweite Säule zur Untersuchung des Wirkmechanismus war eine hemmkinetikische Untersuchung. Hierfür mussten zunächst die an der Aminodesoxychorismatsynthese beteiligten Enzyme PabA (Klonierung und Überexpression erfolgte bereits im Rahmen der Diplomarbeit) und Pab B aus aus dem Gesamtgenom von B. subtilis in E. coli kloniert, überexprimiert und eine Reinigungsstrategie etabliert werden. Zur Verfolgung der Enzymreaktion musste zunächst ein geeignetes Assay-System entwickelt werden, das eine direkte Beobachtung der ADC-Synthase Reaktion ermöglichte. Es wurde eine LC-MS basierte MRM-Methode etabliert, mit der die Bildung von ADC durch den MRM-Übergang von m/z = 226 zu m/z = 191 aufgezeichnet wird. Zur Hemmkinetik wurden verschiedene atrop-Abyssomicinkonzentrationen unterschiedlich lange mit ADC-Synthase inkubiert, die Enzymreaktion gestartet und mittels MRM quantifiziert. Dabei ergab sich ein Hemmmuster, das der irreversiblen Inhibition entspricht. Die dritte Säule schließlich war die Untersuchung der Bindung von atrop-Abyssomicin C an pabB. Diese erfolgte durch Verdau des mit Inhibitor inkubierten Enzyms sowie des unbehandelten Enzyms durch Endoproteinase GluC, anschließender LC-MS und LC-MS/MS-Analytik und Vergleich. Hierbei wurde herausgefunden, dass atrop-Abyssomicin C kovalent an die Seitengruppe 263Cys des Peptids TPDFFQIICGSPE bindet.</dc:description>
+          <dc:description xml:lang="eng">Abyssomicins are a family of polyketide antibiotics described in 2004 by the groups of Suessmuth and Fiedler. Abyssomicins are biosynthesized by the marine actinomycete Verrucosispora AB-18-032 and, to our knowledge, are the first inhibitors of para-aminobenzoic acid biosynthesis derived from a natural source. The present contribution provides novel insights into biosynthesis and mode of action of abyssomicins and introduces new members of the abyssomicin family.</dc:description>
+          <dc:date>2007-07-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1559</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15480</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15480</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1559/keller_simone.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

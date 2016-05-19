@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1156">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1156</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Konzeptionelle Entwicklung eines gleichungs- und tableaubasierten Modells zur parallelen Bilanzierung nach HGB und IAS</dc:title>
+          <dc:title xml:lang="eng">Conceptional Design of an Equation an Tableau Based Model for a Parallel Balancing of Accounts according to HGB and IAS</dc:title>
+          <dc:creator>Kalz, Alexander</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Die seit 19. Juli 2002 in Kraft getretene EU-Verordnung 1606/2002 verpflichtet alle börsennotierten, konsolidierenden Unternehmen, ab 2005 einen Jahresabschluß nach den Vorschriften der IFRS aufzustellen. Eine Studie der PwC Deutsche Revision aus dem Jahr 2000 zeigte, daß rund 46% der befragten Chief Financial Officers die ausschließliche Anwendung der IFRS bevorzugen und 79% die verbindliche Einführung befürworten würden. Als Grund gaben über 48 % der befragten Unternehmen an, daß sie aus finanziellen und strategischen Gesichtspunkten auf IFRS umstellen wollen. Die in der Studie der PwC Deutsche Revision zum Ausdruck kommende Tendenz zugunsten der IFRS zeigt, daß eine Fokussierung der Arbeit auf diese Norm das Interesse vieler börsennotierter Unternehmen widerspiegelt. In Deutschland werden allerdings über einen längeren Zeitraum mehrere Rechnungslegungsnormen parallel anzuwenden sein. Es sind dies neben dem HGB eigenständige steuerrechtliche Normen, die IFRS und auch die US-GAAP. Die Maßgeblichkeit der Handelsbilanz für die Steuerbilanz wird auch in Zukunft eine parallele Bilanzierung nach HGB und IFRS notwendig machen. Bei der Bedeutung der IFRS liegt es nahe, Modelltableausysteme zu entwickeln, mit denen IFRS-Abschlüsse auf computergestützter Basis geplant werden können. Es wurde im Rahmen dieser Arbeit ein gleichungs- und tableaubasiertes Modell entwickelt, welches die Aufstellung eines parallelen Plan-Jahresabschlusses nach HGB und IFRS ermöglicht. Grundlagen für die konzeptionelle Entwicklung dieses "IFRS-Modells" sind das am Lehrstuhl für Unternehmensrechnung und Controlling der Technischen Universität Berlin von Professor Eckart Zwicker entwickelte System der Integrierten Zielverpflichtungsplanung (INZPLA) und das von Dr. Jan-Philipp Hummen entwickelte Unternehmensergebnis- und Finanzmodell (UEFI-Modell).</dc:description>
+          <dc:description xml:lang="eng">Since 2005 all consolidated corporations listed on the stock exchange are obligated to set up an annual financial statement based on the regulations of the IFRS. This became effective when the IAS Regulation 1606/2002 was introduced on 19 July 2002 by the European Parliament. A study made by the PwC German Revision in 2000 indicated that about 46% of the questioned Chief Financial Officers preferred the exclusive application of the regulations and 79% recommended the mandatory introduction of the IFRS. More than 48% of the corporations questioned said that the switch to IFRS was due to financial and strategic reasons. The favorable trends towards the IFRS that resulted from the study done by the PwC German Revision, reflected the interests of many listed corporations to focus standards on the IFRS. In Germany, however, several accounting standards will have to be used simultaneously over a longer period of time. In addition to the HGB there are independent standards relating to taxation, the IFRS and also the US-GAAP. In future the commercial financial statement will be the authoritative principle for taxable results and will also require the parallel balancing of accounts according to HGB and IFRS. Due to the importance of the IFRS it stands to reason that it was necessary to develop a "model tableau system" to enable the computer assisted based planning of IFRS accounts. In the context of this thesis, an equation and tableau based model which facilitates the preparation of parallel planning of annual accounts according to HGB and IFRS was developed. The conceptional design of the "IFRS model" is based on the Integrated Goal Obligation Planning System (INZPLA) developed by Professor Eckart Zwicker of the Technical University in Berlin chair of Management Accounting and Controlling and the Corporation Net Result and Finance Model (UEFI) developed by Dr. Jan Philipp Hummen.</dc:description>
+          <dc:date>2005-12-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1156</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11664</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11664</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1156/kalz_alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2362">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2362</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A comprehensive study of detached-eddy simulation</dc:title>
+          <dc:title xml:lang="deu">Untersuchungen zur Detached-Eddy-Simulation</dc:title>
+          <dc:creator>Mockett, Charles</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Detached-eddy simulation (DES) is a prominent example of a new family of methods that seek to bridge the gap existing in terms of computational cost and predictive accuracy between Reynolds-averaged Navier–Stokes (RANS) and large-eddy simulation (LES) approaches for turbulent flows. As such, DES targets computational resources expected to become widespread in the near future, and is expected to be particularly valuable for scenarios in which RANS is known to be unreliable (e.g. strongly-separated flow) or in which resolution of unsteady turbulent motion is required (e.g. computational aeroacoustics). In this work a comprehensive study of DES has been carried out. In the literature review, a detailed introduction of the method and its various derivative versions is offered together with a summary of the relevant turbulent flow physics. The presentation and discussion of results draws upon a wide selection of test cases, ranging between canonical and complex configurations and with a comprehensive variety of turbulent flow phenomena. The topics covered include elementary implementation issues and the verification and calibration of model features, the fundamental interaction of the model with the numerical scheme, the detailed comparison of DES results with wind tunnel experiments, the dependency of DES on the underlying RANS model in different scenarios, the sensitivity of DES to the choice of numerical time step, the importance of long simulation times for reliable statistics, the perspectives for a dynamic determination of the model parameter, the performance of a recent extension of the DES formulation when applied as a wall-modelled LES and a proposed extension to this that relaxes the stringent requirements on thewall-normal grid spacing. A concise summary of the principle findings is provided in the conclusion, which includes links to the relevant sub-sections for easy reference. Printed version available: Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de)</dc:description>
+          <dc:description xml:lang="deu">Die Detached-Eddy-Simulation (DES) ist ein typischer Vertreter einer neuen Familie von Methoden, welche in Hinblick auf die Vorhersagegenauigkeit und den numerischen Aufwand eine Brücke zwischen Lösungsverfahren auf Basis Reynolds-gemittelter Navier–Stokes-Gleichungen (RANS) und Grobstruktursimulationen (LES) für die Berechung turbulenter Strömungen bilden. Die DES ist daher so ausgelegt, dass sich ihr Ressourcenbedarf durch die typischerweise in naher Zukunft weitverbreitet zur Verfügung stehenen Rechenkapazitäten decken lässt. Besonders geeignet ist ihre Anwendung dabei in Szenarien, in denen RANS-Modelle bekannterweise unzuverlässig sind, wie z.B. stark abgelösten Strömungen, oder wo die Auflösung instationärer turbulenter Strukturen erforderlich ist, etwa bei aeroakustischen Anwendungen. Im Rahmen dieser Arbeit wurden umfassende Studien zur DES durchgeführt. So wird im Überblick zum aktuellen Stand der Forschung zunächst die Methode in ihren verschiedenen Versionen detailliert vorgestellt und eine Zusammenfassung der relevanten strömungsphysikalischen Phänomenen gegeben. Die anschließende Diskussion der Ergebnisse erstreckt sich über eine breite Auswahl von Testfällen, von vereinfachten bis hin zu komplexen Konfigurationen, umso unsterschiedlichste Turbulenzphänomenen zu erfassen. Dabei umfassen die Untersuchungen verschiedene Themenbereiche, wie elementare implementierungstechnische Fragen, die Verifikation und Kalibrierung von Modellkomponenten, die grundlegendeWechselwirkung zwischen Modell und numerischem Schema, detaillierte Vergleiche von DES Ergebnissen mit Windkanaldaten, die Modellabhängigkeit der DES in verschiedenen Situationen, der Einfluss des Zeitschrittes auf die DES, dieWichtigkeit von langen Simulationszeiten, um verläßliche statistische Größen zu gewinnen, die Perspektiven einer dynamische Bestimmung des Modellparameters, die Bewertung einer kürzlich entwickelten Erweiterung der DES–Formulierung als Wandmodellierung für eine LES, und eine vorgeschlagene Erweiterung, um die strikten Anforderungen an die wandnormale Gitterauflösung zu lockern. Am Abschluss wird eine kompakte Zusammenfassung der prinzipiellen Erkentnisse gegeben, wobei Verweise auf die relevanten Abschnitte ein Nachschlagen erleichtern sollen. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2009-11-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2362</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23266</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23266</dc:identifier>
+          <dc:identifier>978-3-7983-2160-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2362/2160_mockett_charles.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2362/mockett_charles_umschlag.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

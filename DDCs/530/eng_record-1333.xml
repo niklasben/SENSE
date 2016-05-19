@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1333">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1333</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung komplexer Materialsysteme mittels Synchrotron-Tomographie und 3D-Bildanalyse</dc:title>
+          <dc:title xml:lang="eng">Investigations on complex material systems by synchrotron tomography and 3D image analysis</dc:title>
+          <dc:creator>Rack, Alexander</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die hier vorgelegte Arbeit gliedert sich in drei Hauptteile – den Grundlagen, der Erweiterung der Methoden der 3D-Bildanalyse und Synchrotron-Tomographie und der Anwendung beider Methoden auf verschiedene Materialsysteme, wie zum Beispiel den metallischen Schäumen oder biokompatiblen Keramiken. Im ersten Teil werden die theoretischen Hintergründe der Rekonstruktion von Volumenbildern aus den Röntgenbildern verschiedener Blickwinkel eines Objektes beleuchtet, mit Verweisen auf die Artefakt-Kompensation. Es folgen die experimentellen Rahmenbedingungen für die hochaufgelöste Tomographie (Mikrotomographie) am Synchrotron anhand des Beispiels BAMline des Berliner Elektronenspeicherrings BESSY, spezieller Schwerpunkt hier sind die Konverter von Röntgenlicht zu sichtbarem Licht, in diesem Fall Szintillatoren. Abschließend werden die Grundlagen der 3D-Bildanalyse vorgestellt, speziell die sogenannten Boole’schen Bilder und Transformationen aus der stochastischen Geometrie. Der zweite Teil stellt die Eigenleistung des Autors bezüglich der Methodenweiter-entwicklung vor. Im experimentellen Bereich wird aufgezeigt, wie ein vor-handener Aufbau an der BAMline durch Beseitigung technischer Unzuläng-lichkeiten und Verwendung von einkristallinen Szintillatoren so optimiert wurde, daß man bis zu einer Größenordnung höher bei der Bildgebung mittels Synchrotron-Tomographie räumlich auflösen kann. Der theoretische Abschnitt zur Bildanalyse stellt verschiedene Algorithmen vor, mittels derer Kenngrößen und Zusammenhänge in mehrphasigen Volumenbildern untersucht werden können. Der dritte und letzte Teil der Arbeit widmet sich der Anwendung der Synchrotron-Tomographie und 3D-Bildanalyse zur Untersuchung verschiedener, komplexer Materialsysteme. Allen voran wurden metallische Schäume, in diesem Fall bestehend aus Aluminium-Legierungen, untersucht. Dabei konnte eine räumliche Entkopplung von Treibmittelposition und dem Ort der ersten Porenbildung nachgewiesen werden. Dies ergibt einen Ansatz, um die Porenstruktur über die Verwendung von heterogenen Halbzeug-Zusammensetzungen zu steuern und so möglicherweise den Produktionsprozeß der metallischen Schäume zu opti-mieren.</dc:description>
+          <dc:description xml:lang="eng">This Phd thesis contains three main sections – the first one dedicated to the fundamentals, then the extension of the established methods 3D image analysis as well as synchrotron tomography and finally the application of both methodes on complex material systems like metallic foams or biocompatible ceramics. In the first section the theoretical background about how to reconstruct a volume image out of X-ray radiographic images taken from different perspectives is introduced, including some remarks on artefact compensation. Next topic are the experimental border conditions for high resolution tomography (microtomography) at a synchrotron explained exemplarily via the BAMline of the Berlin electron storage ring BESSY. A special focus is set on the converters from X-rays to visible light, in this case scintillators. Finally the fundamentals of 3D image analysis are introduced, highlighting the so-called Boolean images and transformations derived from stochastic geometry. The second chapter describes the authors personal contribution concerning the extension of methods. For the experimental part it is explained how to optimize an existing tomography set-up at the BAMline by removing mechanical inadequatness and the use of single-crystal scintillators. This lead to an increase of the spatial resolution for the image acquisition of about one order of magnitude. The theoretical part concerning image analysis introduces different algorithms which are used in order to determine characteristics and correlations in multi-constituent volume images. The third and last chapter of this thesis is dedicated to the application of synchrotron tomography and 3D image analysis for investigations on complex material systems. Very heavily different metallic foams (based on different aluminium alloys) were analyzed. Here a spatial non-correlation between blowing agents’ positions and the positions of the first pore creation has been proven. This delivers a new approach for controling the pore structure via the use of heterogeneous pre-cursor materials. By doing so the production process of metallic foams could be optimized.</dc:description>
+          <dc:date>2006-09-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1333</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13705</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13705</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1333/rack_alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

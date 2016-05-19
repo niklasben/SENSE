@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3949">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3949</identifier>
+        <datestamp>2013-07-18</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Four Essays on Causal Inference in Health Economics</dc:title>
+          <dc:title xml:lang="deu">Vier Abhandlungen über kausale Inferenz im Bereich der Gesundheitsökonomik</dc:title>
+          <dc:creator>Marcus, Jan</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">This cumulative dissertation consists of four papers. Each paper makes an independent contribution to the literature by investigating the impact of one particular factor on health. &#13;
+The first paper shows that job loss increases body weight (slightly) and the risk of starting smoking (considerably).  The related second paper reveals that unemployment decreases the mental health of spouses almost as much as for the directly affected individuals, and that, in general, the decreases in mental health are larger when the husband enters unemployment. The third paper finds that adolescents tend to smoke more often, do less sport, and are more frequently overweight, the lower their mother's education. The paper provides evidence that at least some of these health-related differences can be causally attributed to the mother's education. Furthermore, the paper demonstrates that social differences are already reflected in the health of newborn babies. The fourth paper shows that a ban on late-night off-premise alcohol sales in the German federal state of Baden-Württemberg decreased alcohol-related hospitalizations among adolescents and young adults by about 9 %. &#13;
+In order to establish causal relationships between the various factors and the health outcomes, this dissertation applies a wide range of different microeconometric evaluation tools (e.g., propensity score matching, difference-in-difference, instrumental variables estimation, entropy balancing, fixed effect panel estimation) and employs different data sets (e.g., survey data from the German Socio-Economic Panel (SOEP) and administrative data from hospital diagnosis statistics). Taken together, the findings of this dissertation help to understand which non-genetic factors actually have an impact on individuals' health and why some people are healthier than others.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende kumulative Dissertation besteht aus vier Aufsätzen. Jeder Aufsatz untersucht den Einfluss eines bestimmten Faktors auf die Gesundheit und leistet damit einen eigenständigen Beitrag zur Literatur.&#13;
+Der erste Aufsatz zeigt, dass der Verlust des Arbeitsplatzes das Körpergewicht (leicht) ansteigen lässt und das Risiko mit dem Rauchen anzufangen (erheblich) steigert. Der zweite Aufsatz legt dar, dass Arbeitslosigkeit die mentale Gesundheit des Partners fast genauso beeinträchtigt wie die eigene, und dass diese Beeinträchtigungen im Allgemeinen bei Paaren größer sind, in denen der Mann arbeitslos wird. Im dritten Aufsatz wird ersichtlich, dass Jugendliche häufiger rauchen, seltener Sport treiben und häufiger übergewichtig sind, je niedriger die formale Bildung der Mutter ist. Dieser Aufsatz belegt, dass zumindest ein Teil dieser gesundheitsbezogenen Unterschiede ursächlich auf die Bildung der Mutter zurückzuführen ist.  Darüber hinaus legt der Aufsatz dar, dass sich soziale Unterschiede bereits in der Gesundheit von Neugeborenen zeigen. Der vierte Aufsatz demonstriert, dass das nächtliche Alkoholverkaufsverbot in Ladengeschäften aller Art in Baden-Württemberg alkoholbedingte Krankenhauseinlieferungen von Jugendlichen und jungen Erwachsenen um neun Prozent reduziert hat. &#13;
+Um die kausalen Beziehungen zwischen den verschiedenen Faktoren und der Gesundheit zu untersuchen, verwendet diese Dissertation eine breite Palette unterschiedlicher mikroökonometrischer Evaluierungsinstrumente (z.B. Propensity Score Matching, Differenz-von-Differenzen-Schätzer, Instrumentvariablen-Regressionen, Entropy Balancing, Fixed Effect Panel-Regressionen) und setzt verschiedene Datensätze ein (z.B. das Sozio-oekonomische Panel (SOEP) und Krankenhausdiagnosestatistiken). Zusammengenommen helfen die Ergebnisse dieser Dissertation zu verstehen, welche nicht-genetischen Faktoren einen Einfluss auf die Gesundheit haben und warum manche Leute eine bessere Gesundheit aufweisen als andere.&#13;
+</dc:description>
+          <dc:date>2013-07-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3949</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-39498</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-39498</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3949/marcus_jan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

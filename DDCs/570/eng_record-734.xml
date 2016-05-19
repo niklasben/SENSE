@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:734">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:734</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Comparison of DNA delivery systems for vaccination against intracellular bacteria</dc:title>
+          <dc:title xml:lang="deu">Vergleich von DNS-Transport Systemen fuer die Impfung gegen intracellulaere Bacterien</dc:title>
+          <dc:creator>Kim, Nayoung</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Die Listeriose ist eine akute Infektion, und die Immunantwort wird durch CD4+ Th1 Zellen und CD8+ zytotoxische T Zellen vermittelt. Der Infektionsschutz wird überwiegend durch CD8+ getragen, die mit zwei immundominanten Antigenen, LLO und p60, reagieren. Verschiedene Studien haben gezeigt, dass DNA Impfungen sowohl CD8+ T Zell- als auch CD4+ T-Zell-Antworten erzeugen, aber die geringe Effizienz der DNA aufnahme ist einer der Nachteile von DNA-Impfungen. Ziel dieser Arbeit ist es, durch den Vergleich verschiedener DNA Trägersysteme das effektivste System zu identifizieren, und die erhobenen Resultate auf die Tuberkulose-Impfung zu übertragen. Ich habe BALB/c Mäuse mit 100 µg reiner DNA, die p60, Wildtyp LLO oder mutiertes, nicht hämolytisches LLO unter der Kontrolle eines CMV Promotors kodiert, geimpft, oder mit 10 µg DNA zusammen mit 10 µg VLP, 12 µg TmHU, oder 1 mg PLG. Die Impfung mit reiner, für mutiertes LLO kodierender DNA schützte die Mäuse effizient gegen L. monocytogenes, aber keines der untersuchten Transportsysteme verbesserte die Effizienz der DNA Impfung (10 mg) verglichen mit der Gabe von 100 µg reiner DNA. IFN-g sezernierende CD8+ Milzzellen, die auf das LLO91-99 Peptid reagierten, wurden durch ELISpot Tests bestimmt, und MHC Klasse I-restringierte, LLO91-99 Peptid-spezifische CD8+ Milzzellen mittels Tetramer Färbung untersucht. Die Ergebnisse legen nahe, dass modifiziertes LLO ein wirkungsvoller Impfstoff-Kandidat gegen L. monocytogenes ist, und dass dieser DNA-Impfstoff antigen-spezifische Immunantworten induziert. Weitere Optimierung ist jedoch notwendig, bevor DNA-Impfstoff-Träger-Systeme eingesetzt werden können. DNA-Impfung mit dem Antigen Rv3407 erzeugte Schutz gegen Aerosol-Infektion mit M. tuberculosis H37Rv. Die Mäuse wurden mit 100 µg DNA durch drei i. m. Injektionen in dreiwöchigen Intervallen geimpft. DNA Impfung mit den Antigenen Rv1511 oder Rv3407 induzierte IFN-g sekretierende CD8+ Milzzellen, die auf die Peptide der putativen dominanten Epitope von Rv1511 und Rv3407 reagierten, wie durch ELISpot Test nachgewiesen. Die DNA Impfung induzierte auch MHC Klasse I-restringierte, epitopspezifische CD8+ Milzzellen, die mittels FACS Analyse mit Rv1511 Peptid/H-2Kd Tetrameren bestimmt wurden. Eine Impfung mit 10 µg Rv3407 DNA, die auf PLG aufgebracht war, induzierte Protektion. Diese Ergebnisse lassen darauf schließen, dass ein DNA-Impfstoff, welcher ein M. tuberculosis-spezifisches Gen kodiert, antigen-spezifischen Schutz gegenüber M. tuberculosis vermitteln kann, jedoch einer weiteren Optimierung bedarf.</dc:description>
+          <dc:description xml:lang="eng">L. monocytogenes induces an acute course of infection in mice and the immune response is mediated by CD4+ Th1 cells and CD8+ cytotoxic T cells. Protection is mostly mediated by CD8+ T cells, which are directed against two immunodominant antigens, LLO and p60. Several studies have demonstrated that DNA vaccines elicit CD8+ as well as CD4+ T-cell responses, but low efficiency of DNA delivery is one of the disadvantages of DNA vaccines. The purpose of this thesis was to compare different DNA vaccine carrier systems, to identify the most effective one(s), and to apply the results to TB vaccination. I vaccinated BALB/c mice with 100 mg of naked DNA encoding p60, wild-type LLO, or non-hemolytic mutant LLO under the control of a CMV promoter or 10 mg of DNA with 10 mg of VLP, 12 mg of TmHU, or 1 mg of PLG i. m. 3 times at 3 weeks intervals. Vaccination with naked DNA encoding mutant LLO protected mice efficiently against L. monocytogenes but none of the delivery systems tested significantly improved the efficacy of 10 mg of DNA vaccine compared with vaccination with 100 mg of naked DNA. IFN-g secreting CD8+ splenocytes responding to LLO91-99 peptide were determined by ELISpot assay and MHC class I-restricted, LLO91-99 peptide specific CD8+ splenocytes were assessed by the tetramer technique. These results suggest that DNA encoding mutant LLO is a promising vaccine candidate against L. monocytogenes and that DNA vaccination can induce antigen-specific immune responses. However, further optimization of these carrier systems is required before application to DNA vaccination. DNA vaccination with Rv3407 DNA provided protection against M. tuberculosis H37Rv aerosol infection. DNA vaccination with antigen Rv1511 or Rv3407 induced IFN-g secreting CD8+ splenocytes responding to peptides of putative epitopes derived from Rv1511 or Rv3407, respectively, as determined by ELISpot. The DNA vaccination also induced MHC class I-restricted, putative epitope-specific CD8+ splenocytes as determined by FACS analysis with Rv1511 peptide/H-2Kd tetramers. Vaccination with 10 mg of Rv3407 DNA loaded onto PLG also showed partial protection. These results suggest that DNA vaccines encoding M. tuberculosis-specific genes can induce pathogen-specific protection against M. tuberculosis, but await further improvement.</dc:description>
+          <dc:date>2004-09-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/734</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7287</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7287</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/734/kim_nayoung.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

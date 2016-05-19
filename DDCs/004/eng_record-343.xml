@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:343">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:343</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Agent-based interperability in telecommunications applications</dc:title>
+          <dc:title xml:lang="deu">Agenten-basierte Interoperabilität bei Telekommunikationsanwendungen</dc:title>
+          <dc:creator>Zhang, Tianning</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die Evolution der Telekommunikationstechnologie und des Telekommunikationsmarkts stellt neue Anforderungen an die Paradigmen für Softwareentwicklung von offenen und verteilten Systemen, insbesondere an neue Technologien zur Interoperabilität und Kooperation zwischen Telekommunikationsressourcen. Solche Technologien müssen ein höheres Niveau der Verständigung zwischen verteilten Systemen unterstützen. Herkömmliche Ansätze für die Interoperabilität zwischen verteilten Systemen, sowie die RPC- oder DOT-Technologien stützen sich auf syntax-orientiertes Verstehen auf Basis von vor-definierten bzw. vor-vereinbarten oder dynamisch ausgetauschter Syntax der Kooperationsschnittstelle, und daher auf relativ statische Kooperationsfunktionalitäten. Dieses Merkmal der statischen Kooperation von herkömmlichen verteilten Systemen kann den Anforderungen nicht entgegenkommen, die von der dynamischen, heterogenen, weltweit verteilten und mobilen Telekommunikationsumgebung gestellt werden. Zu einem unterstützen solche herkömmlichen Technologien nicht die dynamische und reibungslose Adaptierung der Kooperationsfunktionalität, welche wegen der sich verändernden geschäftlichen oder technologischen Bedingungen benötigt wird. Zu anderem haben solche Technologien nur die eingeschränkte Möglichkeit, den Kunden individuell angepasste Dienste anzubieten. Darüber hinaus haben die statischen und unflexiblen Kooperationsbeziehungen innerhalb einer weitverteilten und nomadischen Anwendungsumgebung einige Nachteile in Bezug auf Zuverlässigkeit und Robustheit der Kooperation von verteilten und mobilen Ressourcen. Um solche Mängel der herkömmlichen Softwareparadigmen für verteilte Systeme zu überwinden, benötigt man Interoperabilität zwischen verteilten Ressourcen auf einer höheren Ebene. Diese Ebene stützt sich auf das wissensbasierte Verstehen unter kooperierenden Systemen. Unter wissensbasiertem Verstehen versteht man in diesem Zusammenhang die Fähigkeit das Wissen über das erwartete und assoziierte Verhalten der Daten bzw. Datenschemata, die durch Interaktionsnachrichten übermittelt werden, auszutauschen und zu interpretieren. Agententechnologie wird in dieser Arbeit als ein neues Paradigma für Softwareentwicklung betrachtet, das wissensbasierte Interoperabilität unter autonomen verteilten Anwendungen bzw. Anwendungsumgebungen unterstützt. Das Hauptziel dieser Arbeit ist die Entwicklung einer agenten-basierten Lösung zur Unterstützung und Nutzung wissensbasierter Interoperabilität zwischen Anwendungen und zur Bereitstellung und Management von Telekommunikationsdiensten. Diese Lösung basiert auf einen Agentenparadigma und einer Agentenarchitektur mit den folgenden Merkmalen: Integration der sprechakt-basierten Agentenintelligenz und Agentenmobilität auf Basis der FIPA und OMG MASIF Standardisierungen. Anwendung eines Objekt-, Regel- und Web-orientierten Paradigmas zur Wissensrepräsentation und -management, das die erhöhte Wiederverwendbarkeit, den schrittweisen Aufbau und die dynamische Adaptierung der Kooperationsintelligenz der Agenten unterstützt. Definition einer Agentenschablone, die elementares, rationales und soziales Verhalten zur Bereitstellung und Management von Telekommunikationsdiensten implementiert. Diese Agentenschablone wird eingesetzt, um die flexible und adaptive Kooperation zwischen autonomen und heterogenen Anwendungen zu unterstützen. Um die vorgeschlagene Lösung zu validieren, betrachten wir als Szenario das Management eines dynamischen VPN Dienstes, wobei die agentenbasierte Interoperabilität die dynamischen Anpassungs- und Adaptierungsfähigkeiten von Dienstressourcen ermöglicht, und gleichzeitig die Zuverlässigkeit und Robustheit der Kooperation zwischen den beteiligten, autonomen Akteuren erhöht.</dc:description>
+          <dc:date>2001-04-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/343</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3382</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3382</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/343/zhang_tianning.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

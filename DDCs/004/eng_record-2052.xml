@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2052">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2052</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Layout Specification on the Concrete and Abstract Syntax Level of a Diagram Language</dc:title>
+          <dc:creator>Maier, Sonja</dc:creator>
+          <dc:creator>Mazanek, Steffen</dc:creator>
+          <dc:creator>Minas, Mark</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">A visual language consists of several visual component types, e.g. states or transitions in DFAs. Nowadays, the language itself is usually specified via a meta model. To make a diagram look nice, a layouter is required. This layouter may either operate on the concrete syntax level, i.e., on the visual components, or on the abstract syntax level, i.e., on the model instance. In this paper we present an approach that is capable of specifying a flexible layout on both, the concrete as well as the abstract syntax level of a diagram. The approach uses pattern-based transformations. Besides structured editing, it also supports free-hand editing, a challenging task for the layouter. We introduce how such a specification can be created and examine the advantages and shortcomings of each of either operating on the concrete syntax level or on the abstract syntax level.</dc:description>
+          <dc:date>2009-02-19</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2052</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21625</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21625</dc:identifier>
+          <dc:identifier>1863-2122</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2052/ECEASST_Vol_13_2008_05.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

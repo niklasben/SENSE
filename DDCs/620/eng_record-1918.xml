@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1918">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1918</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Luftgekoppeltes Ultraschallecho-Verfahren für Betonbauteile</dc:title>
+          <dc:title xml:lang="eng">Air-coupled ultrasonic echo method for concrete elements</dc:title>
+          <dc:creator>Gräfe, Boris</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Notwendigkeit und Nachfrage von zerstörungsfreien Prüfverfahren für Beton, die schnell scannend automatisiert große Messflächen abtasten können, wird zunehmend größer. Ein großes Potential bietet das Ultraschallecho-Verfahren, mit dem sich eine Vielzahl von baupraktischen Fragestellungen bei der Überprüfung des Bauwerks-zustandes beantworten lassen. Durch Verwendung luftgekoppelter Ultraschallprüf-köpfe (ACU-Prüfköpfen), die berührungslos über das zu untersuchende Betonbauteil geführt werden, könnte dieses Ziel erreicht werden. In der vorliegenden Arbeit wird die Machbarkeit von luftgekoppeltem Ultraschallecho (ACU-Echo) an Betonbauteilen von 20 cm Dicke gezeigt. Um den Einfluss der Parameter auf die Wellenausbreitung zu studieren, werden experimen-telle Untersuchungen von ACU-Echo an speziellen Plexiglas- und Betonprobekörpern durchgeführt. Dabei kommt auf der Empfangsseite auch ein Laservibrometer zum Einsatz. Mit dessen Hilfe wird die Wellenausbreitung des eingetragenen Luftultraschalls im Beton visualisiert. Durch eine besondere digitale Signalbearbei-tung können verschiedene Wellenarten voneinander getrennt und interpretiert werden. Mit den gewonnenen Ergebnissen wird ein Scanner für ACU-Echo-Messungen aufgebaut, mit dem weitere wesentliche Erkenntnisse gewonnen werden und ein erstes praxisorientiertes Anwendungsbeispiel demonstriert wird.</dc:description>
+          <dc:description xml:lang="eng">The necessity and demand for non-destructive testing of concrete which is able to automatically scan huge pieces of concrete is increasing. Ultrasonic echo offers excellent potential for answering a huge number of questions concerning the practical field of construction at testing the condition of the work. This could be achieved in using air-coupled ultrasonic (ACU) transducers which are led above the tested pieces of concrete without touching them. The following work shows the feasibility of ACU echo on pieces of concrete of 20 cm thickness. In order to learn more about the influence of the parameters on the wave propagation, experimental research of ACU echo on special specimens of Plexiglas and concrete are carried out. A laser vibrometer on the receiving side is also being used. With its help, one can see the propagation of the waves of the induced ACU in concrete. In using a special digital signal processing, you can separate different kinds of waves and interpret them. These results can help in having a scanner for measurements of ACU echo. You get more important information with this scanner. It is the first example to use in practice.</dc:description>
+          <dc:date>2008-09-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1918</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19736</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19736</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1918/graefe_boris.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:932">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:932</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die Entwicklung von Verfahrenskriterien für Präzisionsanflüge der Betriebsstufe I unter Verwendung bodengestützt augmentierter Satellitensysteme</dc:title>
+          <dc:title xml:lang="eng">Development of procedure design criteria for category I precision approaches using ground based augmented satellite systems</dc:title>
+          <dc:creator>Dörries, René</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit ist eingebettet in die Aktivitäten der Internationalen Zivilluftfahrtorganisation (ICAO), deren Ziel es ist, bis spätestens 2005 bodengestützt augmentierte Satellitensysteme (GBAS) für Präzisionsanflüge nutzbar zu machen. Hieraus resultiert für das Obstacle Clearance Panel (OCP) als Gremium dieser Organisation die Aufgabe, auch entsprechende Verfahrenskriterien bis zu diesem Zeitpunkt zur Verfügung zu stellen. In diesem Kontext wurde 2000 durch die DFS Deutsche Flugsicherung GmbH und das Fachgebiet Flugführung und Luftverkehr am Institut für Luft- und Raumfahrt der Technischen Universität Berlin ein Forschungsprojekt mit dem Ziel initiiert, das OCP bei der Erfüllung dieser Aufgabe wissenschaftlich zu unterstützen. Die vorliegende Arbeit leistet einen Beitrag zu den Zielen des Projektes, indem sie verschiedene Möglichkeiten für die Entwicklung der oben genannten Verfahrenskriterien aufzeigt und systemtechnische Werkzeuge zur Verfügung stellt, mit denen eine optimale Auswahl bezüglich der Ziele des OCP getroffen werden kann. Für das Instrumentenlandesystem (ILS), das derzeit weltweit für Präzisionsanflüge eingesetzt wird, existiert ein bewährtes System aus Verfahrenskriterien, das aus Obstacle Limitation Surfaces (OLS), Obstacle Assessment Surfaces (OAS) und Collision Risk Model (CRM) besteht. Um aufzuzeigen, inwieweit diese für GBAS-Präzisionsanflüge übernommen werden können, werden die technologischen Unterschiede zwischen ILS und GBAS erläutert. GBAS kann entweder uneingeschränkt oder ILS look-alike zum Einsatz kommen. Bei der letztgenannten Variante liefert der GBAS-Bordempfänger Ausgangssignale, als ob ILS zum Einsatz käme. Ausgehend von diesen Informationen werden Methoden für die Ermittlung von Verfahrenskriterien für GBAS-Präzisionsanflüge vorgeschlagen. Es sind dies: 1) ILS-Äquivalenzmethode: Diese sieht die Übernahme der ILS-Verfahrenskriterien für GBAS vor. Dies wird möglich, wenn der Nachweis erbracht wurde, dass die GBAS-Fehlercharakteristika nicht ungünstiger sind, als die des ILS. 2) RNP-Ansatz (RNP  Required Navigation Performance): Dieser sieht vor, bestimmte Forderungen an die Fehlercharakteristika der anfliegenden Luftfahrzeuge zu stellen und die Verfahrenskriterien auf Basis dieser Forderungen zu formulieren. 3) Weiterentwicklung des ILS-CRMs: Bei dieser Methode wird das bestehende CRM des ILS so modifiziert, dass es auch für GBAS-Präzisionsanflüge genutzt werden kann. 4) Entwicklung eines neuen GBAS-CRMs: Bei dieser Methode wird ein völlig neues CRM für GBAS basierend auf Monte-Carlo-Simulationen aufgebaut. Mit Hilfe einer speziell für die Auswahlsituation des OCP entwickelten systemtechnischen Bewertungsmethode wird sichergestellt, dass diejenige Alternative ausgewählt wird, die dem Präferenzsystem des OCP am besten entspricht.</dc:description>
+          <dc:date>2004-08-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/932</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9255</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9255</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/932/doerries_rene.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

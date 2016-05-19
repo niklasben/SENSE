@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:95">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:95</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Lattice Polytopes and Triangulations</dc:title>
+          <dc:creator>Haase, Christian Alexander</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Das Existenzproblem unimodularer Triangulierungen von Gitterpolytopen wird untersucht. Diese Triangulierungen entsprechen nicht-diskrepanten Auflösungen torischer Singularitäten - Auflösungen, die den kanonischen Divisor erhalten. Nach der Einführung der grundlegenden Konzepte und Methoden gliedert sich die Arbeit in drei Kapitel. Kapitel 2: Die sogenannten leeren Gittersimplizes sind die Hindernisse für unimodulare Triangulierungen. Es ist bekannt, daß ihre Gitterweite durch eine Konstante w(d) beschränkt ist, die nur von der Dimension abhängt. Eine andere Konstante, W(d) - die maximale Weite fast leerer Simplizes, wird eingeführt. Die Konstruktion einer unendlichen Familie d-dimensionaler leerer Simplizes aus einem fast leeren (d-1)-dimensionalen Simplex zeigt die Monotonie beider Konstanten und widerlegt eine Vermutung von Bárány. Eine Computersuche in Dimension 4 liefert genau ein leeres Simplex der Weite 4 und suggeriert, daß die Determinante leerer Weite-3-Simplizes nie größer als 179 ist. Zusammen mit dem Beweis von W(3)=2 ist dies ein Indiz für eine modifizierte Vermutung. Kapitel 3: Die Polytope zu torischen lokal vollständigen Durchschnitten werden unimodular trianguliert. Dies verallgemeinert ein Resultat von Dais, Henk und Ziegler. Darüberhinaus sind diese Polytope Koszulsch. Kapitel 4: Die stringtheoretischen Hodge Zahlen von Batyrev und Dais werden für zwei Serien von (Hyperflächen in den projektiven torischen Varietäten zu) reflexiven Polytopen berechnet. Die erste Serie bilden die pseudosymmetrischen Fano Polytope. Ihre polar-dualen erzeugen glatte Hyperflächen, so daß nach Spiegelsymmetrie Formeln von Danilov und Khovanskii benutzt werden können. Diese dualen Polytope erlauben unimodulare Triangulierungen und sind Koszulsch. Die zweite Serie besteht aus Pyramiden über reflexiven Polytopen.</dc:description>
+          <dc:description xml:lang="eng">The existence problem for unimodular triangulations of lattice polytopes is investigated. These triangulations correspond to the crepant resolutions of toric singularities - resolutions that preserve the canonical divisor. After the introduction of the basic concepts and tools, the thesis is divided into three chapters. Chapter 2. The so called empty lattice simplices are the obstacles to a unimodular triangulation. It is known that their lattice width is bounded by a constant w(d) that only depends on the dimension. Another constant, W(d) - the maximal width of almost empty simplices, is introduced. The construction of an infinite family of d-dimensional empty simplices out of an almost empty (d-1)-dimensional simplex shows the monotonicity of both constants and disproves a conjecture of Bárány. A computer search in dimension 4 yields exactly one empty simplex of width 4 and suggests that the determinant of empty width 3 simplices does not exceed 179. Together with a proof of W(3)=2 this supports a modified conjecture. Chapter 3. A unimodular triangulation is constructed for the polytopes that are associated with toric local complete intersections, thus generalizing a result of Dais, Henk and Ziegler. Furthermore, these polytopes are shown to have the Koszul property. Chapter 4. The string theoretic Hodge numbers of Batyrev and Dais are computed for two series of (hypersurfaces in the projective toric varieties corresponding to) reflexive polytopes. The first series is given by the pseudo symmetric Fano polytopes. Their polar duals give rise to smooth hypersurfaces, so by mirror-symmetry, formulae of Danilov and Khovanskii can be used. These dual polytopes admit unimodular triangulations and they have the Koszul property. The second series consists of pyramids over reflexive polytopes. In</dc:description>
+          <dc:date>2000-02-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/95</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-902</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-902</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/95/haase_christian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

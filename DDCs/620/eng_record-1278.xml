@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1278">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1278</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ermüdungsprobleme dünnwandiger kaltgeformter Bauteile</dc:title>
+          <dc:title xml:lang="eng">Fatigue Behaviour of Thin-Walled Coldformed Steel Profiles</dc:title>
+          <dc:creator>Gläßer, Katrin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Neue Bemessungskonzepte dünnwandiger Bauteile berücksichtigen bei der Ermittlung der Traglast das örtliche Beulen von Querschnittsteilen. Es wird das Ermüdungsverhalten kaltgeformter Profile infolge wiederholtem elastischen Ausbeulen untersucht. Dazu wurden Versuche an dünnwandigen kaltgeformten U-Profilen mit reiner Biegebeanspruchung untersucht. Schwingbelastungen wurden aufgebracht, die den Einfluß des örtlichen Beulens hinsichtlich entstehender Sekundärspannungen und damit verbundener Rißbildung klären sollten. Sowohl in den kaltgeformten Bereichen der U-Profile als auch an den schergeschnittenen freien Rändern wurde keine Beeinträchtigung durch Zusatzbeanspruchung infolge wiederholten Ausbeulens festgestellt. Risse entstanden im Laufe der Dauerschwingbelastung erst auf einem hohen Belastungsniveau vorwiegend an den Fließlinien von Faltwerken, die sich beim Erreichen der Traglast ausbilden. Auf Grundlage der Versuche wurden numerische Parameteruntersuchungen durchgeführt. Als Ergebnis wird zur Verhinderung von Ermüdungserscheinungen von dünnwandigen kaltgeformten Profilen ein Begrenzung der Belastung auf 60 % der Traglast vorgeschlagen.</dc:description>
+          <dc:description xml:lang="eng">New design concepts for thin-walled structural members take local buckling into account in determining the ultimate load. Local buckling may be accompanied by large deformations, which entail secondary bending stresses. Such secondary stresses can be neglected in usual analyses, but there are no informations availeble regarding their influence on fatigue design. For this invastigations fatigue tests were carried out with thin-walled coldformed U-channels exposed to pure bending. But neither the shear-cut edges nor the coldformed areas of the U-channels were damaged due to repeated buckling. Cracks developed during cyclic loading at a high load level mainly along the hinges of plastic mechanism, which occur if the ultimate load is reached. Based on the tests numerical invastigations were done. Following the numerical calculations it will be proposed to limit the cyclic load by 60 % of the ultimate load in order to avoid fatigue damage of thin-walled coldformed profiles.</dc:description>
+          <dc:date>2006-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1278</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13024</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13024</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1278/glaesser_katrin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

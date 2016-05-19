@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:576">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:576</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Nonlinear and Chaotic Spatio-temporal Dynamics in Semiconductor Superlattices</dc:title>
+          <dc:title xml:lang="deu">Nichtlineare und chaotische raum-zeitliche Dynamik in Halbleiterübergittern</dc:title>
+          <dc:creator>Amann, Andreas</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die Ladungsträgerdynamik in Halbleiterübergittern wird theoretisch auf der Grundlage eines semiklassischen sequentiellen Tunnelmodells untersucht. Abhängig von den Modellparametern ergeben sich dabei laufende oder stationäre Anreicherungs- und Verarmungsfronten der Elektronen. Besonders interessante Szenarien entstehen dadurch, dass verschiedenartige Fronten miteinander in Wechselwirkung treten und sich gegenseitig annihilieren können. Durch diesen Mechanismus wird es möglich, ein chaotisches raum-zeitliches Verhalten bei konstanter äußerer Spannung herbeizuführen. Das dabei auftretetende Bifurkationsverhalten wird analysiert. Es stellt sich heraus, dass ein äquivalentes Szenario auch in einem System aus Tankbehältern auftritt, welche nach bestimmten Regeln befüllt und entleert werden. Solche hybriden Tanksysteme werden üblicherweise bei der Beschreibung von Lagerhaltungsproblemen in Fabriken eingesetzt. Ein Hauptschwerpunkt dieser Arbeit ist es, diese überraschende Verbindung zweier vollständig unterschiedlicher dynamischer Systeme zu begründen. Dazu wird zunächst das Verhalten einzelner Fronten studiert, insbesondere deren Erzeugung am Emitterkontakt, sowie die Frontgeschwindigkeiten in Abhängigkeit des durch das Bauteil fließenden Stromes. Anschließend wird das Zusammenspiel der Fronterzeugungs- und Vernichtungsprozesse anhand einfacher Regeln erklärt, welche durch weitere Spezialisierung auf das erwähnte Tankmodell führen. Im einfachsten Fall lässt sich das Tankmodell mittels einer eindimensionalen iterierten Abbildung analysieren, und es werden die sich daraus ergebenden analytischen Ergebnisse mit den Resultaten aus der numerischen Behandlung der vollen mikroskopischen Modellgleichungen verglichen. Weiterhin wird das dynamische Verhalten des Übergitters bei nichtkonstanter äußerer Spannung, wie zum Beispiel während Schaltvorgängen, betrachtet. Hierbei ergibt sich, dass das Schaltverhalten in nichttrivialer Weise von der Größe der Schaltspannung abhängt. In diesem Zusammenhang wird auch das Verhalten unter einer kombinierten Gleich- und Wechselspannung untersucht. Durch eine Erweiterung der ursprünglichen Modellgleichungen um eine zusätzliche Dimension senkrecht zur Haupttransportrichtung des Stroms wird es ferner möglich, die Wechselwirkung lateraler und vertikaler Strukturen näher zu beleuchten.</dc:description>
+          <dc:description xml:lang="eng">The charge dynamics in semiconductor superlattices is studied theoretically on the basis of a semiclassical sequential tunneling model. Depending on the model parameters, moving or stationary electron accumulation and depletion fronts are obtained. Particularly interesting scenarios arise from the interaction between the fronts and from the possibility of mutual front annihilation. With this mechanism it is possible to induce chaotic spatio-temporal behavior at a fixed external voltage. By analyzing the relevant bifurcations it turns out that an equivalent scenario also occurs in a system of water tanks, which are filled and emptied following a given set of rules. This type of hybrid tank system is known to be useful for the description of stock-keeping problems in production systems. One main focus of this work is to substantiate this surprising connection between two completely different dynamical systems. For this purpose, we first study the dynamical behavior of single fronts, in particular their generation at the emitter contact, as well as the front velocities as a function of the overall current through the device. We then explain the interplay of front generation and annihilation processes on the basis of simple rules, which eventually lead to the tank model with further specialization. In the most simple case, the tank model may be analyzed by means of a one-dimensional iterated map, and we compare the analytical results with the numerical results from the full microscopic model equations. Also the dynamical behavior of the superlattice under nonstationary external voltage conditions, such as during switching processes, is considered. It turns out that the switching scenarios depend in a nontrivial way on the switching voltage. In this context we also investigate the behavior at a combined ac and dc voltage. By extending the original model equations with an additional dimension perpendicular to the main current, we explore the interaction between lateral and vertical structures.</dc:description>
+          <dc:date>2004-02-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/576</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5702</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5702</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/576/amann_andreas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

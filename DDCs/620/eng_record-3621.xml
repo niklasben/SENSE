@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3621">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3621</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Characterization of Perovskite-like High k Dielectric Materials for Metal-Insulator-Metal Capacitors</dc:title>
+          <dc:title xml:lang="deu">Charakterisierung von Perowskit-ähnlichen, high-k dielektrischen Materialien für Metall-Isolator-Metall Kondensatoren</dc:title>
+          <dc:creator>Baristiran Kaynak, Canan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">MIM-Kondensatoren sind eine wichtige Schlüsselkomponente in integrierten Analog/ Mixed-Signal Hochfrequenz-Schaltkreisen. Entsprechend der International Technology Roadmap for Semiconductors sollen MIM-Kondensatoren für zukünftige Hochfrequenzanwendungen hohe Kapazitätsdichten bei geringen Leckstromdichten, geringe Spannungsabhängigkeiten sowie hohe Gütefaktoren aufweisen. Aufgrund der begrenzten Kapazitätsdichte und Zuverlässigkeit von SiO2 and Si3N4 erscheint es nicht möglich diesen Anforderungen mit konventionellen Dielektrika gerecht zu werden. Deshalb besteht die zwingende Notwendigkeit konventionelle Dielektrika durch high k Dielektrika zu ersetzen. In dieser Dissertation liegt der Fokus auf der Untersuchung von verschiedenen alternativen Dielektrika unter Verwendung ein- und mehrlagiger Dielektrikumsstrukturen für zukünftige MIM-Kondensator Applikationen. Es werden Einflüsse von nachfolgenden Ausheilungsprozessen und verschiedenen Elektrodenmaterialien auf die Eigenschaften der MIM- Kondensatoren untersucht. Dabei soll speziell die Charakterisierung von MIM-Kondensatoren in Bezug auf physikalischen und elektrischen Eigenschaften Beachtung geschenkt werden.</dc:description>
+          <dc:description xml:lang="eng">Metal-Insulator-Metal (MIM) capacitors are one of the key building blocks in radio frequency analog/mixed signal integrated circuits. According to International Technology Roadmap for Semiconductors requirements, MIM capacitors should exhibit high capacitance densities accompanied with low leakage current density, small voltage dependency and high quality factor for future applications. However, based on conventional dielectric materials, like SiO2 and Si3N4, it is not possible to meet these requirements mainly due to limited capacitance density values and reliability issues. Therefore, there is urgent need to replace the conventional dielectric material with high dielectric constant materials as this is the most promising solution. In this thesis, the focus is on screening of different alternative dielectric materials using single or multilayer dielectric structures for future MIM capacitor applications. Moreover, influences of post-deposition annealing and electrode materials on MIM capacitor properties are investigated. Special attention is given on the characterization of MIM capacitors in terms of physical and main electrical properties.</dc:description>
+          <dc:date>2013-02-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3621</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38615</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38615</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3621/baristirankaynak_canan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

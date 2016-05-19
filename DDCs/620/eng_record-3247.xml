@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3247">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3247</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Shear Load Transfer and Relaxation in Bolted Joints with Fractured Surfaces</dc:title>
+          <dc:title xml:lang="deu">Querkraftübertragung und Relaxation in Schraubenverbindungen mit gecrackten Trennfugen</dc:title>
+          <dc:creator>Lyszczan, Peter</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Shortly after the introduction of the fracture splitting as a standard process of con-rod production a number of engine failures occurred due to the self loosening of con-rod bolts. While the fracture splitting process was aim of intensive research and optimization, the mechanical behavior of a joint with fractured surfaces was not. The research described in this document focuses on the determination of two mechanical properties that are crucial for the design of a bolted joint with fractured surfaces: shear load transfer and relaxation. This was accomplished by experimental investigations using a special kind of specimen that was created based on fracture splitted con-rods. The most important parameters for the tests were surface topology, temperature as well as embedded particles (for relaxation) and preload (for shear load transfer). It turned out that relaxation in bolted joints with fractured surfaces is not significantly different from relaxation in bolted joints with plain surfaces. The amount of transferrable shear load is between 0.8 and 1.9 times the amount of installed preload and is showing a non-linear behavior. A mechanical model was successfully set up to describe all distinctive features of a joint with fractured surfaces. With these results bolted joints with fractured surfaces can be designed easier and much more safely</dc:description>
+          <dc:description xml:lang="deu">Kurz nach der Einführung des Bruchtrennens als Standardprozess in der Pleuelherstellung trat eine Reihe von Motorschäden auf, die auf das selbsttätige Losdrehen von Pleuelschrauben zurückgeführt werden konnten. Während der Bruchtrennprozess im Zentrum intensiver Forschung und Optimierung stand, wurde dem mechanischen Verhalten einer Verbindung mit gecrackter Trennfuge keinerlei Aufmerksamkeit gewidmet. Die in diesem Dokument beschriebene Forschungsarbeit behandelt zwei für die Funktion einer Schraubenverbindung unerlässliche Eigenschaften: die Querkraftübertragung und die Relaxation. Hierfür wurden experimentelle Untersuchungen mit besonderen, aus gecrackten Pleueln gewonnenen Probekörpern durchgeführt. Die wichtigsten Untersuchungsparameter waren die Oberflächentopologie, die Temperatur sowie eingebettete Partikel (bei der Relaxation) und die Schraubenvorspannung (bei der Querkraftübertragung). Es stelle sich heraus, dass die Relaxationsverluste einer Schraubenverbindung mit gecrackter Trennfuge mit denen einer Schraubenverbindung mit glatter Trennfuge gleicht. Die Höhe der übertragbaren Querkraft beträgt liegt zwischen 0,8 bis 1,9 mal der vorhandenen Vorspannkraft und hat ein nicht lineares Verhalten. Es wurde ein mechanisches Ersatzmodell generiert, mit welchem die besonderen Eigenheiten einer Verbindung mit gecrackter Trennfuge beschrieben werden können. Mit Hilfe dieser Ergebnisse können Schraubenverbindungen mit gecrackter Trennfuge einfacher und deutlich sicherer konstruiert werden.</dc:description>
+          <dc:date>2012-02-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3247</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34004</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34004</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3247/lyszczan_peter.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

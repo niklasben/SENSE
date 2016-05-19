@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2505">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2505</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die Innere-Punkte-Methode zur Lösung von Optimalsteuerproblemen mit partiellen Differentialgleichungen und punktweisen Zustandsbeschränkungen als Nebenbedingungen</dc:title>
+          <dc:title xml:lang="eng">The Interior Point Method for the solution of optimal control problems subject to PDE and point-wise state constraints</dc:title>
+          <dc:creator>Prüfert, Uwe</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird die Innere-Punkte-Methode für die optimale Steuerung partieller Differentialgleichung mit gegebenen Beschränkungen an den Zustand untersucht. Als zu minimierendes Funktional betrachten wir ein “tracking-type�? Funktional, die Gleichungsnebenbedingung ist eine instationäre lineare partielle Differentialgleichung und die Beschränkungen an den Zustand sind einfache Box-Beschränkungen. Die Zustandsbeschränkungen werden eliminiert, indem sie zuerst mit der Lavrentiev-Technik regularisiert und dann mittels parametrisierter logarithmischer Strafterme in das Funktional integriert werden. In der vorliegenden Arbeit wird gezeigt, dass für jeden festen Parameterwert das Innere-Punkte-Problem eine eindeutige Lösung besitzt. Diese ist strikt zulässig. Es wird die Konvergenz der Lösungen gegen die Lösungen der regualrisierten Aufgabe bewiesen. Ausgehend davon wird ein Algorithmus im Funktionenraum konstruiert, der ein Newton-Verfahren mit gleichzeitiger Verringerung des Pfadparameters kombiniert. Die Konvergenz dieses Algorithmus wird bewiesen. Ausgehend von dem im Funktionenraum konstruierten Algorithmus wird eine Implementierung der Innere-Punkte-Methode vorgenommen. Dabei wird besonderer Wert auf die Integration schon vorhandener Software zur Lösung partieller Differentialgleichungen gelegt. Daraus resultiert die Implementierung einer Matlab-Klasse, die wesentliche Teile der PDE-Toolbox benutzt. Ein weiterer Aspekt bei der Implementierung der Innere-Punkte-Methode ist, inwieweit sich die Methode in bestehende Software integrieren lässt. Dabei zeigt sich, dass sich mittels der Innere-Punkte-Methode eine sehr leicht zu implementierende Optimalsteuersoftware auf Basis des Programmpakets COMSOL Multiphysics realisieren lässt. Dabei muss lediglich die Verringerung des Pfadparameters implementiert werden, den Newtonschritt mitsamt adaptiver Gitterverfeinerung übernimmt der COMSOL-Löser. Eine Reihe numerischer Beispiele bestätigt die theoretischen Konvergenzaussagen.</dc:description>
+          <dc:description xml:lang="eng">In this work we investigate the interior-point method for the optimal control subject to partial differential equations and point-wise state constraints. The objective functional is of “tracking-type�?, the PDE is linear parabolic and the state constraints are from the box-type. We regularize the state constraints by Lavrentiev-regularized and eliminate them by a parametrized logarithmic barrier terms. We show that for every fixed parameter the interior point problem has a unique solution. It is strictly feasible. We show the convergence of the solutions of the parametrized problem towards the solutions of the regularized problem. Based on this we develop an algorithm in function spaces that combines Newton's method with the reduction of the path parameter. We prove the convergence of this algorithm. The next step is the implementation of the IP-method by using standard tool which leads to a OO code that uses some of Matlab's PDE toolbox functionality. Further, we integrate the IP-method in existing PDE software like COMSOL Multiphysics. Some numerical examples confirm the (theoretical proved) rate of convergence.</dc:description>
+          <dc:date>2010-04-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2505</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26300</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26300</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2505/pruefert_uwe.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

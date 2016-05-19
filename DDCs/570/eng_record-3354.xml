@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3354">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3354</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mikrobielle Lebensgemeinschaften und Pathogene in der Gemüseverarbeitung</dc:title>
+          <dc:title xml:lang="eng">Microbial communities and pathogens in association with vegetable-processing</dc:title>
+          <dc:creator>Hausdorf, Lena</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="eng">Contamination of produce by human- and phytopathogenic microorganisms may result in high losses during storage and poses a threat for the human health. Microbiological examination of the extent of contamination is time-consuming and therefore cannot be applied routinely during processing of fresh vegetables. In this study, the microbial diversity of a carrot-processing plant was evaluated by construction of a 16S rRNA gene clone library. Several species of pathogenic or opportunistic genera were detected. The fourth most common species belonged to Arcobacter. Arcobacter is known for causing enteritis in humans, but has not, until recently, been associated with the production of vegetables. Two genus-specific PCR-Assays were developed: One specific for Arcobacter and one for Pectobacterium. The aim was to ascertain the occurrence of Arcobacter and Pectobacterium in a spinach-processing plant. Results indicated a repeated occurrence of both pathogens in the spinach-processing line, which raised the question whether pathogenic and non-pathogenic Arcobacter spp. are a common occurrence in vegetable-processing plants. To get further information about the dispersion of the bacteria, the genetic diversity of Arcobacter in the entire process line was established by 16S rRNA gene clone libraries. The same Arcobacter species as in the carrot-processing plant were detected, as well as other unknown Arcobacter species. Additionally, several pathogenic species were identified, including A. butzleri and A. cryaerophilus. Three different methods for detection of pathogens were developed and evaluated: 1. A multiplex-PCR was designed making it possible to detect nine Arcobacter species simultaneously. 2. Two qPCR-Assay specific for Arcobacter and Pectobacterium were developed and tested to enable enumeration of the bacteria. 3. MALDI-TOF MS is a culture-dependent method to identify and enumerate species fast and accurate. The potential of this method was evaluated by establishing the microbial diversity of the spinach-processing line and by specific detection of Arcobacter.</dc:description>
+          <dc:description xml:lang="deu">Kontamination von Frischeprodukten durch human- und phytopathogene Bakterien stellt eine Gefahr für die menschliche Gesundheit dar und kann zu Verlusten während der Lagerung führen. Mikrobiologische Untersuchungen von frischem Gemüse sind zu zeitintensiv, um fortlaufend während der Produktion angewendet zu werden. In dieser Studie wurde mittels einer 16S rRNA-Gen Klonbibliothek die mikrobiologische Diversität einer karottenverarbeitenden Anlage untersucht, sowohl pathogene als auch opportunistische Gattungen wurden entdeckt. Die vierthäufigste Art gehörte zur Gattung Arcobacter. Arcobacter ist bekannt dafür Enteritis in Menschen zu verursachen, konnte aber bisher in Verbindung zu Frischeprodukten nicht isoliert werden. Zwei gattungsspezifische PCR-Assays wurde entwickelt: Eines spezifisch für Arcobacter und eines für Pectobacterium. Ziel war das Auftreten dieser beiden Gattungen in einer spinatverarbeitenden Anlage zu untersuchen. Die Ergebnisse deuteten daraufhin, dass beide Pathogene wiederholt auftreten. Dies wirft die Frage auf, ob pathogene und nicht-pathogene Arcobacter-Arten regelmäßig in der Anlage vorkommen, deshalb und um die weitere Verbreitung zu untersuchen wurde die genetische Diversität von Arcobacter in der gesamten Prozesslinie mittels 16S rRNA-Gen Klonbibliotheken untersucht. Die gleiche Arcobacter-Art wie in der karottenverarbeitenden Anlage wurde identifiziert, sowie einige unbekannte Arcobacter-Arten. Zusätzlich wurden auch pathogene Arten detektiert, darunter A. butzleri und A. cryaerophilus. Drei Methoden zur Detektion von Pathogenen wurden entwickelt und bewertet: 1. Eine Multiplex-PCR wurde konstruiert, die es ermöglicht neun Arcobacter-Arten simultan zu unterscheiden. 2. Zwei qPCR-Assays wurden entwickelt und getestet, die eine Quantifizierung der Bakterien ermöglichen. 3. MALDI-TOF MS ermöglicht eine schnelle und präzise Identifizierung von Bakterien. Das Potential dieser Methode wurde getestet durch die Bestimmung der mikrobiellen Diversität der spinatverarbeitenden Anlage und durch die spezifische Detektion von Arcobacter.</dc:description>
+          <dc:date>2012-06-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3354</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34736</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34736</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3354/hausdorf_lena.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

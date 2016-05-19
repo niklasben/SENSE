@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1583">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1583</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Contributions to a Microkinetic Understanding of the Steam Reforming of Methanol (SRM) and the Oxidative Dehydrogenation of Propane (ODP)</dc:title>
+          <dc:title xml:lang="deu">Beiträge zum mikrokinetischen Verständnis der Dampfreformierung von Methanol und der Oxidativen Dehydrierung von Propan</dc:title>
+          <dc:creator>Frank, Benjamin</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">By means of steam reforming of methanol (SRM) and oxidative dehydrogenation of propane (ODP) various macro- and microkinetic aspects of heterogeneously catalyzed reactions, whose industrial application fails due to insufficient selectivity, were investigated. For SRM it was shown by kinetic modeling and a DRIFTS study at 493 K that the reaction pathway over selected, differently supported copper-catalysts is independent of the support material and obeys the mechanism on Cu/ZnO/Al2O3 catalysts proposed in literature. The dehydrogenation of adsorbed methoxy groups is rate-determining, consequently the reaction rate is dominated by the partial pressure of methanol. The impact of the water concentration on the reaction rate is rather low, hydrogen and carbon dioxide both act as inhibiting agents. Differences were observed in activity (TOF) and relative rates of elementary reaction steps. Using a Cr2O3/ Fe2O3 support the stability of formate groups is noticeably enhanced, which affects reaction orders of the reactants, activation energy, and selectivity of the reaction towards CO. For the investigation of the ODP, a low loaded VOx/γ-Al2O3 model catalyst was prepared and comprehensively characterized with regard to nature, distribution, and red-ox properties of VOx surface species. By means of an intrinsic formal kinetic model the impact of mass and heat transport inside the catalyst particle as well as in the catalytic fixed bed was modeled. The reaction network can be reduced to main and consecutive reaction, formation and deep oxidation of propene. This simplification was confirmed by transient experiments in vacuum (TAP), where further on CO and CO2 sorption behaviour as well as CO oxidation were investigated in detail. Whereas temperature gradients are irrelevant, concentration gradients in large particles lead to a decrease in propene selectivity due to its accumulation and enhanced deep oxidation rate in the particle center. Hence, a tool for design and quantitative evaluation of microkinetic measurements is available. For the reoxidation of reduced VOx species a microkinetic model, which predicts a substantial impact of water, was derived. From transient experiments in a gradient-free Berty-type reactor it was concluded that the reoxidation of hydrated and hydroxylated VOx species occurs remarkably faster than the reaction of "naked" V+III centers with oxygen. The proposed reaction pathways are in agreement with theoretical calculations. For, so far, unknown reason the reoxidation of V+III to V+V remains incomplete below 673 K although the activation energy of this reaction is low. With regard to the reaction pathway of ODP, an investigation of the dehydration of 2-propanol over the VOx/γ-Al2O3 model catalyst indicated that a vanadium-bonded propoxy group is a possible intermediate. However, its decomposition yielding propene is not rate-determining, which was proven by estimation of TOF values and activation energy of this ODP-related reaction.</dc:description>
+          <dc:description xml:lang="deu">Anhand der Dampfreformierung von Methanol (SRM) und der oxidativen Dehydrierung von Propan (ODP) wurden makro- und mikrokinetische Aspekte heterogen katalysierter Reaktionen, deren industrielle Anwendung bislang an einer unzureichenden Selektivität scheitert, untersucht. Bei der SRM wurde über kinetische Modellierung und DRIFTS-Messungen gezeigt, dass der Reaktionspfad auf ausgewählten, verschieden geträgerten Kupferkatalysatoren unabhängig vom Trägermaterial ist und mit dem in der Literatur gängigen Mechanismus für Cu/ZnO/Al2O3-Katalysatoren übereinstimmt. Die Dehydrierung von Methoxygruppen ist geschwindigkeitsbestimmend, demnach wird die Reaktionsgeschwindigkeit maßgeblich vom Partialdruck von Methanol bestimmt. Unterschiede zeigen sich lediglich in Aktivität (TOF) und Kinetik der Einzelschritte. Auffällig ist bei Verwendung eines Cr2O3/Fe2O3-Trägers die erhöhte Stabilität von Formiat auf dem Katalysator, was sich sowohl auf Reaktionsordnungen der Reaktanden, Aktivierungsenergie und Selektivität der Reaktion gegenüber CO auswirkt. Für die Untersuchungen zur ODP wurde ein gering beladener VOx/γ-Al2O3-Modellkatalysator präpariert und umfassend in Bezug auf Beschaffenheit, Verteilung und Redox-Eigenschaften der VOx-Oberflächenspecies charakterisiert. Mithilfe einer intrinsischen Formalkinetik wurde der Einfluss von Stoff- und Wärmetransport sowohl im Katalysatorpartikel als auch im katalytischen Festbett modelliert. Das Reaktionsnetzwerk lässt sich mit guter Genauigkeit auf Haupt- und Folgereaktion, die Bildung und Verbrennung von Propen, reduzieren. Diese Erkenntnis wurde durch Transientenexperimente im Vakuum (TAP) bestätigt. Während Temperaturgradienten nur eine untergeordnete Rolle spielen, wirken sich Konzentrationsgradienten in großen Partikeln vor allem auf eine verminderte Selektivität zu Propen aus, was aus dessen Akkumulation im Partikelinnern und der dadurch begünstigten Folgeoxidation resultiert. Es steht somit ein Werkzeug zur Verfügung, mit dem mikrokinetische Messungen an der ODP frei von Transportlimitierungen ausgelegt und quantitativ bewertet werden können. Für die Reoxidation reduzierter VOx-Species wurde ein mikrokinetisches Modell abgeleitet, was einen substantiellen Einfluss von adsorbiertem Wasser aufzeigt. Aus Transientenexperimenten im gradientenfreien Berty-Reaktor wurde geschlossen, dass die Reoxidation hydratisierter und hydroxylierter VOx-Species deutlich schneller abläuft, als die Reaktion "nackter" V+III Zentren mit Sauerstoff. Die vorgeschlagenen Reaktionspfade wurden durch theoretische Berechnungen bestätigt. Aus bislang noch ungeklärter Ursache verläuft die Oxidation von V+III zu V+V unterhalb von 673 K nur unvollständig, obwohl die Aktivierungsenergie der Reaktion klein ist.</dc:description>
+          <dc:date>2007-09-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1583</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16411</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16411</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1583/original_kap1_Abstract.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1583/original_kap2_Intro.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1583/original_kap3_Methods.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1583/original_kap4_SRM.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1583/original_kap5_ODP.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1583/original_kap6_Appendix.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1583/frank_benjamin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

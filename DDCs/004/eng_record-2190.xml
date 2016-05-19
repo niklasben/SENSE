@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2190">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2190</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Fairness in Überlastsituationen mittels Proof-Of-Work Funktionen</dc:title>
+          <dc:title xml:lang="eng">Fairness in Overload Situations using Proof-Of-Work Functions</dc:title>
+          <dc:creator>Golze, Sebastian</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird gezeigt, dass die Aufgabe der Überlastvermeidung auch trotz zukünftiger Hardwareentwicklungen fortbestehen wird. Die besondere Schwierigkeit, eine faire Überlastvermeidung umzusetzen, besteht darin, dass in der heutigen Internetstruktur Klienten nicht mehr über ihre IP Adresse zuverlässig identifiziert werden können. Als Lösung werden Proof-Of-Work (POW) Funktionen vorgeschlagen. Dabei wird dem Klienten eine Rechenaufgabe pro gewünschten Zugriff auf den Server auferlegt. Die Anforderungen an POW Funktionen werden im Detail beleuchtet sowie die in der Literatur bekannten Verfahren erläutert. Mittels der im Rahmen dieser Arbeit entwickelten HashCashLin Funktion wird die Parametrisierbarkeit der POW Funktionen entscheidend verbessert. Es wird ein dreischichtiger Regler entwickelt, der es erlaubt, das POW dynamisch zu parametrisieren und so die Überlast zu kontrollieren. Anhand einer Simulation wird die Funktion des Verfahrens untersucht und gezeigt, dass es deutlich fairer arbeitet als herkömmliche Ansätze. Daraufhin wird ein Prototyp erstellt, der demonstriert, wie der Ansatz ganz praktisch umgesetzt werden kann. Dieser Prototyp wird in Anlehnung an die Simulation ebenfalls erprobt und auch hier zeigt sich eine deutlich verbesserte Fairness. Somit wurde das Ziel der Arbeit, ein besonders faires Verfahren zur Überlastvermeidung zu entwickeln, erreicht.</dc:description>
+          <dc:description xml:lang="eng">This work shows that overload handling will always be necessary regardless of future improvements in hardware performance. The most difficult part when constructing a fair overload handling system is that in today’s internet infrastructure one can no more identify a single client by its IP address. The proposed solution is based on so called Proof-Of-Work functions. Thus, a client willing to send a request to the server in overload has to provide the solution to a computational puzzle which brakes down malicious clients and guarantees a fairer distribution of resources. The related work concerning Proof-Of-Work functions is discussed and the HashCashLin function is developed as an answer to weaknesses concerning parameterization among existing POW functions. A three layer controller is designed which allows to adapt the hardness of the POW in order to precisely control the overload of a server. Using a simulation approach the functionality of the approach is studied. The results show that the POW system works much fairer than traditional approaches. Finally, a prototype is implemented to show how the POW system can be integrated in real live web applications. This prototype is also tested and the obtained results back up the simulation data. Thus, the defined goal of this work to guarantee more fairness in overload situations has been attained.</dc:description>
+          <dc:date>2009-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/vnd.ms-excel</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2190</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22833</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22833</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2190/original_golze_sebastian.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2190/golze_sebastian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

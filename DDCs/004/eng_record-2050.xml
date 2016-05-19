@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2050">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2050</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Generating Euler Diagrams from Existing Layouts</dc:title>
+          <dc:creator>Stapleton, Gem</dc:creator>
+          <dc:creator>Howse, John</dc:creator>
+          <dc:creator>Rodgers, Peter</dc:creator>
+          <dc:creator>Zhang, Leishi</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Euler diagrams have a wide variety of uses, from information visualization to logical reasoning. In the case of software engineering, they form the basis of a number of notations, such as state charts and constraint diagrams. In all of their application areas, the ability to automatically layout Euler diagrams brings considerable benefits. There have been several recent contributions towards the automatic generation and layout of Euler diagrams, all of which start from an abstract description of the diagram and produce a collection of closed curves embedded in the plane. In this paper, we are concerned with producing layouts by modifying existing ones. This type of layout approach is particularly useful in domains where we require an updated, or modified, diagram such as in a logical reasoning context. We provide two methods to add a curve to an Euler diagram in order to create a new diagram. The first method is guaranteed to produce layouts that meet specified wellformedness conditions that are typically chosen by others who produced generation algorithms; these conditions are thought to correlate well accurate user interpretation. We also overview a second method that can be used to produce a layout of any abstract description.</dc:description>
+          <dc:date>2009-02-19</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2050</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21599</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21599</dc:identifier>
+          <dc:identifier>1863-2122</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2050/ECEASST_Vol_13_2008_03.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

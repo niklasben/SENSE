@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2496">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2496</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Topics in Random Media</dc:title>
+          <dc:title xml:lang="deu">Themen aus dem Gebiet der zufälligen Medien</dc:title>
+          <dc:creator>Drewitz, Alexander</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">We are considering two models in the area of random media: (a) the parabolic Anderson model with arbitrary drift, time independent potential and homogeneous initial condition; (b) random walk in random environment. The model in (a) describes the behaviour of a random walk with drift in a random potential landscape. At the same time, it serves as a simple spatial population model with random offspring distribution. While on the one hand, the random walk has a smoothing effect on the spatial structure of the solution to the model, on the other hand, the random potential favours spatially inhomogeneous solutions. One possibility of showing that the influence of the random potential ultimately dominates, is given by the concept of 'intermittency'. For this purpose, we start with computing the $p$-th annealed Lyapunov exponent for all $p \in (0,\infty).$ The corresponding results enable us to establish the presumed intermittency. Furthermore, from these computations we may deduce that the $p$-th annealed Lyapunov exponent converges to the quenched Lyapunov exponent as $p$ tends to zero. In addition, we describe the quenched limiting velocity of the random walk that appears in the Feynman-Kac representation of the solution under the corresponding Gibbs measure. In this context, we show that a phase transition from vanishing to positive velocity occurs in dependence on the drift and the diffusion parameter, respectively. The second topic of this thesis is the model of (b). To start with, we study the existence of asymptotic directions for such random walks. Subsequently, we turn to another focus that has attracted considerable interest, namely the investigation of conditions that imply non-vanishing limiting velocities. In this context, the conditions $(T)_\gamma,$ $\gamma \in (0,1),$ and $(T')$ introduced by Sznitman in 2002 have proved to be essential. In dimensions $d$ larger than one it is known that $(T')$ and $(T)_\gamma$ are equivalent for $\gamma \in (1/2,1)$ and Sznitman conjectured the validity of this equivalence for all $\gamma \in (0,1).$ We first extend the interval of equivalence to $(\gamma_d,1),$ where $\gamma_d \in (0.366,0.388).$ Then, using a different approach, we finally prove Sznitman's conjecture in dimensions larger than three. As a tool we employ estimates for quenched exit probabilities; in this context we go on to prove another conjecture of Sznitman.</dc:description>
+          <dc:description xml:lang="deu">Wir betrachten zwei Modelle aus dem Gebiet der zufälligen Medien: (a) das parabolische Anderson Modell mit Drift, zeitunabhängigem Potential und homogener Anfangsbedingung; (b) Irrfahrten in zufälliger Umgebung. Das Modell in (a) beschreibt das Verhalten einer Irrfahrt mit Drift in einer zufälligen Potentiallandschaft. Gleichzeitig dient es als einfaches räumliches Populationsmodell mit zufälliger Nachkommensverteilung. Während auf der einen Seite die Irrfahrt einen glättenden Effekt auf die räumliche Gestalt der Lösung des Modells hat, begünstigt auf der anderen Seite das zufällige Potential räumlich inhomogene Lösungen. Eine Möglichkeit nachzuweisen, dass der Einfluss des zufälligen Potentials schließlich dominiert, ist durch das Konzept der "Intermittenz" gegeben. Hierfür berechnen wir zunächst den $p$-ten annealed Lyapunov-Exponenten für alle $p \in (0,\infty).$ Dies ermöglicht uns, die gemutmaßte Intermittenz nachzuweisen und zu zeigen, dass der $p$-te annealed Lyapunov-Exponent, wenn $p$ gegen Null strebt, gegen den quenched Lyapunov-Exponenten konvergiert. Weiterhin beschreiben wir die quenched Geschwindigkeit der Irrfahrt, welche in der Feynman-Kac Darstellung der Lösung auftaucht, unter dem entsprechenden Gibbs-Maß. In diesem Zusammenhang zeigen wir, dass ein Phasenübergang von verschwindender zu positiver Grenzgeschwindigkeit in Abhängigkeit vom Diffusionsparameter beziehungsweise der Drift auftritt. Im zweiten Teil der vorliegenden Arbeit untersuchen wir das Modell aus (b). Zum einen behandeln wir die Frage, was sich über die Existenz asymptotischer Richtungen solcher Irrfahrten aussagen lässt. Zum anderen ist es von großem Interesse, Bedingungen zu untersuchen, welche eine nicht-verschwindende Grenzgeschwindigkeit der Irrfahrt implizieren. In diesem Zusammenhang haben sich insbesondere die 2002 von Sznitman eingeführten Bedingungen $(T)_\gamma,$ $\gamma \in (0,1),$ und $(T')$ als wichtig erwiesen. In Dimensionen größer als eins ist bekannt, dass $(T')$ zu $(T)_\gamma$ für $\gamma \in (1/2,1)$ äquivalent ist und es war eine Vermutung Sznitmans, dass diese Äquivalenz für alle $\gamma \in (0,1)$ gilt. Wir erweitern zunächst den bisherigen Äquivalenzbereich auf $(\gamma_d,1),$ wobei $\gamma_d \in (0.366, 0.388).$ Mittels eines anderen Zugangs beweisen wir schließlich die Vermutung Sznitmans in Dimensionen großer als drei. Als Hilfsmittel dienen Abschätzungen für quenched Austrittswahrscheinlichkeiten; in diesem Kontext beweisen wir eine weitere von Sznitman geäußerte Vermutung.</dc:description>
+          <dc:date>2010-04-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2496</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26278</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26278</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2496/drewitz_alexander.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

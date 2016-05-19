@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2741">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2741</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Faktoren der Entstehung und des Verlaufs von Alkoholabhängigkeit : biographisch-vergleichende Analysen</dc:title>
+          <dc:creator>Jüttemann-Lembke, Amelie</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="deu">Entwicklungstypische ätiologische Aspekte zur Alkoholabhängigkeit von jungen Erwachsenen sind erstens eine vorwiegend gefühlsarme Situation in der Kindheit mit wenig Zuwendung, zweitens die Identifikation mit trinkenden Vorbildern in der Familie verbunden mit dysfunktionalen Handlungsstrategien und Aufbau einer prinzipiellen Suchtstruktur sowie drittens die Orientierung an Peers mit ebenfalls kontaktmanifestierendem Suchtverhalten. Der Alkoholabusus sichert die Herstellung und Aufrechterhaltung von Bindungen. Fehlende Orientierung an Bezugpersonen in Schule oder Beruf tragen zur weiteren Manifestation des Trinkverhaltens bei. Emotionale Konflikte können besser abgewehrt werden, der Alkoholkonsum dient so auch als Fluchtverhalten und Rückzugsmöglichkeit. Die Abhängigkeitsstruktur begünstigt asymmetrische Beziehungen, Betroffene bleiben in einer kindlichen Rolle, erleben auch wiederholt Trennungen. Es entsteht ein Circulus vitiosus. Erst mit der Durchbrechung dieser dysfunktionalen Muster besteht die Chance zur Veränderung. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2011-01-07</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2741</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29124</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29124</dc:identifier>
+          <dc:identifier>978-3-7983-2244-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2741/2244_Juettemann_Lembke_Gesamt.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

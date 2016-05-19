@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3522">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3522</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Multi-scale approach to describe fixed-bed thermo-chemical processes of biomass</dc:title>
+          <dc:title xml:lang="deu">Ein Mehrskalenmodell zur Beschreibung thermochemischer Wandlungsprozesse von Biomasse in Festbetten</dc:title>
+          <dc:creator>Anca Couce, Andrés</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The goal of this thesis is to converge the models of different time and length scales that are present in thermo-chemical processes of biomass in order to describe them from first principles in a multi-scale approach. The focus will be on fixed-bed pyrolysis and the molecular, particle and reactor level will be described. At the molecular level the reaction schemes that should be applied to describe the processes are discussed and the kinetics of these reactions are calculated. Kinetics of biomass smouldering, including biomass pyrolysis and char oxidation, were calculated by thermo-gravimetric analysis. At the particle level transport phenomena should be taken into account in combination with kinetics derived from the molecular level. A particle model describing pyrolysis of a single biomass particle was developed together with an experimental set-up. The main disadvantage of incorporating a particle model in a reactor model is the high computational time needed for the numerical solution of such a multi-scale model. To decrease this computational time a novel iterative solution method for solving a particle model based on the analysis of characteristic times was developed. Also, the presence of secondary heterogeneous tar cracking reactions in single particle slow pyrolysis was shown by laser induced fluorescence. At the reactor level the single biomass particles should be considered together with the interstitial gas phase. The introduction of a particle model in a reactor model was done with the representative particle model (RPM) approach, which numerically solves the problem in a feasible computational time for a technical scale reactor. In the RPM approach an intra-particle model is solved for each finite volume element of the reactor. The RPM framework was applied to fixed-bed heating up and pyrolysis and compared to experimental results available in the literature. It was able to predict the experimental results, describing intra-particle gradients in a much more feasible computational time than the discrete particle model (DPM).</dc:description>
+          <dc:description xml:lang="deu">Das Ziel dieser Arbeit ist die Zusammenführung von Modellen für Prozesse, die auf unterschiedlichen Zeit- und Längenskalen im Zuge der thermochemischen Wandlung von Biomasse stattfinden. Es soll also eine Beschreibung dieser Prozesse im Rahmen einer Mehrskalenmodellierung erfolgen. Der Fokus liegt dabei auf der Festbettpyrolyse. Die damit verbundenen Prozesse werden auf Molekular-, Einzelpartikel- und Reaktorebene beschrieben. Auf der molekularen Ebene werden verschiedene Netzwerke chemischer Reaktionen diskutiert sowie deren Kinetik bestimmt. Mit Hilfe einer Thermowaage werden die Kinetiken des Schwelbrands - inklusive Pyrolyse von Holz und Oxidation der entstehenden Holzkohle - ermittelt. Auf der Einzelpartikelebene müssen neben den Kinetiken auch die Transportprozesse berücksichtigt werden. Ein Einzelpartikelmodell zur Beschreibung der Pyrolyse eines Holzpartikels sowie eine experimentelle Anordnung für dessen Validierung werden vorgestellt. Der wesentliche Nachteil der Integration eines Partikelmodells in ein Reaktormodell ist der enorme rechentechnische Aufwand zur numerischen Lösung eines solchen Mehrskalenmodells. Um diesen Rechenaufwand zu reduzieren wird ein neuer iterativer numerischer Algorithmus zur Lösung des Einzelpartikelmodells vorgestellt, welcher nach Analyse der charakteristischen Zeitskalen der beteiligten Prozesse entwickelt wurde. Außerdem wird anhand von Laser-Induzierter Fluoreszenz gezeigt, dass heterogenes sekundäres Teercracking bereits innerhalb eines pyrolysierenden Einzelpartikels geschehen kann. Auf der Reaktorebene muss neben den Partikeln auch die Gasphase zwischen den Partikeln berücksichtigt werden. Die Integration des Einzelpartikelmodells in das Reaktormodell geschieht auf Basis des Repräsentativen Partikelmodells (RPM). Dieser Ansatz ermöglicht eine vertretbare Rechenzeit für die Lösung des Mehrskalenmodells auch für einen Reaktor in technischer Größenordnung. Dabei wird lediglich ein Partikelmodell für jedes finite Volumenelement des Reaktors gelöst. Die RPM-Methode wird angewendet auf die Erwärmung sowie die Pyrolyse einer Holzpartikelschüttung. Die Simulationsergebnisse werden mit verfügbaren Daten aus der Literatur verglichen. Letztere werden vom Modell gut wieder gegeben, wobei die Gradienten innerhalb der Partikel in wesentlich kürzerer Rechenzeit beschrieben werden können als in einem Diskreten Partikelmodell (DPM).</dc:description>
+          <dc:date>2012-11-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3522</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37412</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37412</dc:identifier>
+          <dc:identifier>978-3-943685-28-2</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3522/ancacouce_andres_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3522/ancacouce_andres_cover.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:529">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:529</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Quantenchemische Berechnung von Übergangsmetallkomplexen in der Gasphase</dc:title>
+          <dc:title xml:lang="eng">Quantum chemical calculations of transition-metal complexes in the gas phase</dc:title>
+          <dc:creator>Diefenbach, Martin Ansgar</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Anhand von drei verschiedenen Themenkomplexen wird der breite Nutzen von quantenchemischen Methoden für das Verständnis und die Interpretation chemischer Prozesse demonstriert. Beginnend bei grundlegenden, physikalisch-chemischen Fragestellungen zur elektronischen Struktur und Thermochemie kleiner hochgeladener Moleküle über die Charakterisierung und Interpretation von Eisen-Aren-Wechselwirkungen bis hin zur Modellierung industriell relevanter Verfahren tragen quantenchemische Rechnungen entscheidend zu einem schlüssigen chemischen Bild bei: 1. Zweiatomige, hochgeladene Teilchen sind nur dann thermochemisch stabil, wenn sie in einem Zustand vorliegen, der energetisch tiefer liegt als der auf Grund von Coulomb-Explosion dissoziierenden Fragmente. Solche hochgeladenen Teilchen können zwar experimentell in der Gasphase erzeugt werden, die Frage nach ihrer Stabilität und nach der Art ihrer Bindung kann auf diese Weise jedoch nicht quantitativ geklärt werden. Hier wird anhand von ab initio-Rechnungen gezeigt, dass zum Einen protonierte Metallkationen metastabil vorliegen können. Zum Andern konnte mit dem dreifach positiv geladenen Uranfluoridkation das erste thermochemisch stabile Trikation mit kovalenter Bindung nachgewiesen werden. Die experimentell ermittelten vertikalen Ionisierungsenergien in die entsprechenden Ladungszustände konnten quantenchemisch gut reproduziert werden. Im Gegensatz hierzu deuten die Rechnungen für die Ionisierungsenergien von Samariumhalogenidkationen an, dass im Experiment angeregte Zustände von Dikationen populiert werden. 2. Durch die Kombination verschiedener quantenchemischer Verfahren konnten experimentelle Unstimmigkeiten bei der Bestimmung von Eisen-Benzol- und Eisen-Pyridin-Bindungsenergien geklärt werden. Dichtefunktionalmethoden sind zur energetischen Beschreibung derartiger Komplexe nicht geeignet. Ab initio Methoden konnten jedoch zeigen, dass der Eisen-Pyridin-Komplex im Gegensatz zu Eisen-Benzol nicht π-gebunden vorliegt, sondern das Eisen am freien Elektronenpaar des Stickstoffs koordiniert, und dass der Eisen-Pyridin-Komplex je nach experimenteller Durchführung im Sextett-Grundzustand oder im angeregten Quartettzustand erzeugt wird. 3. Das industriell wichtige BMA-Verfahren zur Gewinnung von Blausäure aus Methan und Ammoniak wurde mit einem drastisch reduzierten Reaktionsmodell untersucht. Basierend auf massenspektrometrischen Experimenten konnten Dichtefunktionalrechnungen ein stimmiges Modell für den BMA-Prozess hervorbringen. Neben der strukturellen und energetischen Beschreibung der Zwischenstufen und Übergangsstukturen in den jeweils relevanten Potentialenergieflächen konnte gezeigt werden, dass die Erzeugung von Blausäure auf zwei voneinander unabhängigen Reaktionspfaden vonstatten geht.</dc:description>
+          <dc:date>2003-08-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/529</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5249</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5249</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/529/diefenbach_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

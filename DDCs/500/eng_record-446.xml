@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:446">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:446</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Functional and structural characterization of a yeast membrane protein involved in the secretory pathway</dc:title>
+          <dc:title xml:lang="deu">Funktionelle und strukturelle Charakterisierung eines Membranproteins der Hefe Saccharomyces cerevisiae</dc:title>
+          <dc:creator>Votsmeier, Christian</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Das Membranprotein Sys1p der Hefe Saccharomyces cerevisiae wurde zuvor als Suppressor des Deletionsphänotyps von Ypt6p identifiziert. Ypt6p ist eine GTPase, die den retrograden Transport von den Endosomen zum Golgi-Apparat reguliert. In dieser Arbeit wurden Hinweise gesammelt, die darauf hindeuten, daß Sys1p in demselben Transportweg wie Ypt6p eine Funktion erfüllt. Zudem konnte gezeigt werden, daß Sys1p auf post-ER Organellen (Golgi und/oder Endosomen) lokalisiert ist, die Membran viermal durchspannt und mit seinen hydrophilen Termini ins Cytoplasma gerichtet ist. Affinitätschromato-graphische Studien ergaben, daß der hydrophile C-Terminus von Sys1p eine effiziente und direkte Interaktion mit dem Heterodimer Sec23p/Sec24p zeigt. Sec23p/Sec24p ist ein Unterkomplex des COPII-Hüllproteinkomplexes von Transportvesikeln, die am ER gebildet werden. Aminosäuresubstitutionen im C-Terminus von Sys1p führten zur Identifizierung eines sauren Motivs, das aus Aspartat und Glutamat, getrennt durch einen beliebigen Aminosäurerest, besteht (DXE). Die Substitution dieser Aminosäuren resultierte in einem Verlust der Bindungsaffinität des C-Terminus von Sys1p an den Sec23p/Sec24p-Komplex in vitro. Wie Sys1p, enthalten die C-Termini der Membranproteine Bap2p und Ptr2p aus Saccharomyces cerevisiae ein (DXE)-Motiv. Diese hydrophilen C-Termini zeigten in Bindungsexperimenten ebenfalls eine Interaktion mit Sec23p/Sec24p. In vivo resultierte die Substitution der beiden sauren Aminosäurereste von Sys1p in einer 30%igen Akkumulation des Proteins im ER. Die Fusion des hydrophilen C-Terminus an ein ER-residentes Membranprotein führte in Abhängigkeit vom (DXE)-Motiv zum Export des chimären Proteins aus dem ER. In dieser Arbeit wird gezeigt, daß das (DXE)-Motiv von der Hefe Saccharomyces cerevisiae als ein ER-Exportsignal verwendet wird. Zudem erfolgt der erste Beweis für eine direkte Interaktion einer (DXE)-Signalsequenz mit dem COPII-Hüllproteinkomplex.</dc:description>
+          <dc:description xml:lang="eng">This Ph.D. project involved examining the yeast membrane protein Sys1p that was initially identified as a multicopy suppressor of the loss of Ypt6p, a GTPase regulating retrograde transport from endosomes back to the Golgi. Here, it was demonstrated that the loss of Sys1p causes accumulation in endosomes of Snc1p, a plasma membrane v-SNARE known to recycle through the Golgi via endosomes. This suggests that Sys1p may participate directly in the same process as Ypt6p. Sys1p was found to reside on post-ER organelles (Golgi and /or endosomes) and to span the membrane four times with its termini oriented to the cytoplasm. Successive deletion of the cytoplasmic termini revealed that the removal of only 20 amino acids adjacent to the last transmembrane region rendered the protein unable to act as suppressor of ypt6 mutants and hence to fulfill its biological function. By affinity chromatography, Sec23p/Sec24p, a heterodimeric subcomplex of the COPII coat of ER-derived transport vesicles, was found to efficiently bind to the 53 amino acid-long, hydrophilic tail of Sys1p. The sequence binding to Sec23p/Sec24p was not required for the biological function of Sys1p. Several amino acid substitutions led to the identification of a di-acidic motif (Asp-X-Glu, DXE) within the Sys1p tail as being absolutely necessary for Sec23p/Sec24p binding in vitro. Binding of the COPII subcomplex to the Sys1p tail was apparently independent of the Sar1 GTPase. The C-terminal tails of the amino acid permease Bap2p and the peptide transporter Ptr2p, both containing a (DXE)-sequence, also interacted with Sec23p/Sec24p, but less efficiently than Sys1p. Similar to the situation with some membrane proteins traversing the secretory pathway in mammalian cells, the (DXE)-motif of the Sys1p tail could be shown to facilitate ER export of Sys1p in yeast cells. Fusing the Sys1p hydrophilic tail to the C-terminus of the ER membrane protein Wbp1p caused export of the fusion protein out of the ER as long as the (DXE)-sequence was left intact. This is the first demonstration that an (DXE)-motif can serve as an ER exit signal in the well studied yeast system. In addition, it provides the first evidence in any system for a direct interaction between a (DXE)-signal sequence and the COPII coat.</dc:description>
+          <dc:date>2002-03-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/446</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4410</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4410</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/446/votsmeier_christian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

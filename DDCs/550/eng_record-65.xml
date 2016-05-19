@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:65">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:65</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einsatz geostatistischer Verfahren zur Charakterisierung der Grundwasserbeschaffenheit im Bereich der Rieselfelder südlich Berlins</dc:title>
+          <dc:title xml:lang="eng">Use of geostatistics in groundwater chemistry, a case study from the sewage farms south of Berlin, Germany</dc:title>
+          <dc:creator>Grams, Susanne</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Am Beispiel eines durch Rieselfeld- und Landwirtschaft stark anthropogen beeinflußten Grundwassers wird der Einsatz geostatistischer Verfahren in der Hydrochemie demonstriert. Bedingt durch die anthropogene Überprägung ist die Grundwasserbeschaffenheit durch häufige Extremwerte, sehr große Spannweiten und eine insgesamt hohe Variabilität gekennzeichnet. Rieselfeld- und Landwirtschaft führen zu einer deutlichen Erhöhung der Konzentrationen von Kalium, Calcium, Magnesium, Chlorid, Hydrogenkarbonat und Sulfat sowie der Nährstoffe Nitrat und Phosphat. Calcium und Sulfat werden allerdings, im Gegensatz zu den anderen Wasserinhaltsstoffen, durch die Landwirtschaft merklich stärker als durch die Rieselfeldwirtschaft erhöht. Natrium hingegen wird nur durch die Rieselfeldwirtschaft beeinflußt und eignet sich dadurch, im Zusammenhang mit seinem relativ konservativen Verhalten, gut als Leitparameter für eine Abwasserbeeinflussung. Obwohl die Grundwasserbeschaffenheit im 1. und 2. Grundwasserleiter sich im Mittel kaum unterscheidet, ist die räumliche Kontinuität im 2. Grundwasserleiter wesentlich höher. Dies wird darauf zurückgeführt, daß sich Diffusion und Dispersion im 2. Grundwasserleiter stärker auswirken. Ursachen für die geringe räumliche Kontinuität im 1. Grundwasserleiter sind: Der starke anthropogene Einfluß durch die Rieselfeld- und die Landwirtschaft. Die große Variabilität des Bodens, die eine hohe Variabilität der Beschaffenheit des Sickerwassers verursacht und die dominante vertikale Strömung im 1. Grundwasserleiter, durch die die hydrodynamische Dispersion in horizontaler Richtung relativ gering ist. Um die Eignung eines Datensatzes zur mathematisch korrekten Regionalisierung zu überprüfen, wurde das Konzept des K-Wertes entwickelt. Das Konzept des K-Wertes baut auf den Ergebnissen der explorativen Statistik und der Variographie auf. Der K-Wert kombiniert die für eine sinnvolle Regionalisierung notwendigen Faktoren "Anzahl der Stützstellen", "räumliche Verteilung der Stützstellen" und "räumliche Kontinuität der betrachteten Variable" zu einer Maßzahl. Diese Maßzahl ermöglicht eine schnelle, schematisierte und objektive Beurteilung einer großen Anzahl an Variablen. Standardisierte Variogramme, die die Varianz der einzelnen Abstandsklassen berücksichtigen, haben sich als gutes Werkzeug zur Beschreibung der räumlichen Kontinuität von durch Extremwerte verzerrte Datensätze erwiesen. Als für hydrochemische Fragestellungen insgesamt sehr geeignet zeigte sich der Indikator-Ansatz. Durch seine Unabhängigkeit von der Verteilungsform kann er zur Analyse aller Parameter der Grundwasserbeschaffenheit eingesetzt werden. Besonders interessant ist das auf dem Indikator-Variogramm aufbauende Indikator-Kriging, mit dessen Hilfe Wahrscheinlichkeitskarten zur Prognose der Grundwasserbeschaffenheit erstellt werden können.</dc:description>
+          <dc:description xml:lang="eng">The aim of this thesis is to demonstrate the sensible use of geostatistical methods on groundwater chemistry data. All methods are shown on an extensive data set gathered from two quaternary aquifers beneath a sewage irrigation farm south of Berlin (Germany). The aquifers are made up from sand and are divided by glacial till. Groundwater chemistry in this area is highly influenced by sewage irrigation and agriculture. Both lead to high potassium, calcium, magnesium, chloride, hydrogencarbonate and sulfate concentrations as well as a remarkable increase in nitrate and phosphate. Calcium and sulfate concentrations are more influenced by agriculture then by sewage irrigation. On the other hand sodium has been proven as a good indicator for sewage influence. For biased distributions due to extreme values standardized variograms are useful, as the variogram is rescaled by the lag variance. For data sets with lognormal or multi-modal distribution, indicator variograms are even more reliable. For the indicator approach the data are classified in reference to one or more chosen thresholds. With an indicator variogram the spatial continuity related to the chosen threshold is studied. Especially usefule for hydrochemical data is indicator kriging, which produces maps of the probability that groundwater constituents exceed defined thresholds. Indicator kriging is independent of the distribution of the data set hence it can be used for highly skewed data as is common in pollution cases. To prove the suitability of kriging for individual data sets the concept of the k-value was developed. The k-value combines the necessary factors for a reasonable regionalisation to one number hence the k-value opens a fast, systematic and objective way to judge the possibility to use kriging for regionalisation. The necessary factors are the ratio between the density of the measurement points and the range of the variogram, and the size of the nugget compared to the sill of the variogram. A reasonable regionalisation is only possible if the range of the variogram compared to the measurement point density is large, and the nugget effect compared to the sill of the variogram is small.</dc:description>
+          <dc:date>2000-12-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/65</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-604</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-604</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/65/grams_susanne.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

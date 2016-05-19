@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2960">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2960</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Design und Optimaler Betrieb alternativer Prozessvarianten der reaktiven Batch-Rektifikation</dc:title>
+          <dc:title xml:lang="eng">Design and optimal operation of unconventional process variants of the batch reactive rectification</dc:title>
+          <dc:creator>Carmona, Irisay</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit einer neuen Betriebsvariante der reaktiven Batch-Rektifikation mit Mittelbehälter. Diese neue Betriebsweise und deren Varianten werden mittels rigoroser Modellierung und dynamischer Simulation sowie mit Hilfe von exemplarisch ausgewählten industriellen Reaktionsprozessen analysiert bzw. verifiziert. Die Reaktionssysteme betreffen die Dehydrierung des Alkohols und eine leicht endotherme Umesterung. Anhand des ersten Reaktionsprozesses wird insbesondere die Analyse und Herleitung von verschiedenen Anfahrstrategien sowie ein Vergleich der drei reaktiven Betriebskonfigurationen (konventionelle und inverse Batch-Rektifikation sowie Batch-Rektifikation mit Mittelbehälter) durchgeführt. Mit Hilfe des zweiten Reaktionssystems werden insbesondere Design und Betrieb der neuen Betriebsvariante ausgehend von der Anfahrphase bis hin zum optimalen Betrieb analysiert. Die Untersuchungen werden vom Anfangszustand bis hin zur optimalen Produktion modelliert bzw. simuliert. Zum Auffinden eines konsistenten Anfangszustands sowie zur Beschreibung des Anfahrverhaltens jeder einzelnen Betriebsvariante der reaktiven Batch-Rektifikation (RBR) ausgehend vom kalten und leeren Zustand einer Kolonne wurde ein Ansatz zur hybriden Modellierung verwendet. Als Simulationstool wurde gPROMS zur Lösung der Modellgleichungen genutzt. Es wurde gezeigt, dass die gewählte (physikalische) Initialisierung der unterschiedlichen DAE-Systeme schnell und robust konvergiert. Aufgrund der Ergebnisse der eingehenden Untersuchungen aller Konfigurationen sowie durch Vergleich des erkennbar gewinnbringenden Nutzens wurde festgestellt, dass die neue Alternative für die RBR mit Mittelbehälter insbesondere für Umesterungsprozesse deutliche Vorteile hinsichtlich Prozessdauer, Energie-Verbrauch, Produktreinheit sowie der Vermeidung von Off-spec-Produkten aufweist.</dc:description>
+          <dc:description xml:lang="eng">The present work introduces a new operation mode for reactive batch distillation in middle vessel columns. The proposed operation mode and its alternatives are analyzed by using rigorous models and dynamic simulation. Moreover, experimental data of selected industrial reaction processes are used in order to validate those results. The considered reaction systems include the dehydratation of methanol and a slightly endothermic transesterification. On the basis of the first reaction process, the analysis and derivation of different start-up strategies will be performed. Furthermore, a comparison of the three reactive operational configurations (conventional, inverse batch rectification, and middle vessel batch rectification) will be carried out. Based on the second reaction system, the conceptual design and the optimal operation of the new operating mode will be discussed in detail starting from the start-up until the end of the batch. The corresponding case studies will be modeled and simulated from the cold and empty initial state until production’s start. In order to determine both a consistent initial state and the description of the start-up behavior of each considered operation mode of the reactive batch rectification (RBR) by starting from the cold and empty state of a batch column, a hybrid approach to rigorous modeling was used. In this work, gPROMS was used as simulation environment so as to solve the resulting model equations. It could be shown that the chosen (physical) initialization of the different DAE-systems converges fast and robust. Based on the results of the detailed analysis of all configurations and by comparing the evident profitable benefit, which results from the proposed operation mode, can be stated that the new RBR operating mode with middle vessel offers in particular for transesterification processes, significant advantages in terms of total batch time, energy consumption, product purity and avoiding of off-spec products.</dc:description>
+          <dc:date>2011-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2960</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31418</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31418</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2960/carmona_irisay.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

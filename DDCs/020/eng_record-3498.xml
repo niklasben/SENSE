@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3498">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3498</identifier>
+        <datestamp>2014-04-30</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:020</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Erarbeitung von Grundsätzen für eine Konzeption zur Einführung eines elektronischen Semesterapparats am Beispiel der Technischen Universität Berlin</dc:title>
+          <dc:creator>von der Ropp, Stephan</dc:creator>
+          <dc:subject>ddc:020</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit zeigt, dass die Verknüpfung der technologischen Entwicklung der Digitalisierung mit der etablierten Dienstleistung Semesterapparat unter Beachtung des Urheberrechts in Deutschland möglich ist und zu einem Mehrwert für alle am Prozess Beteiligten führt. Dazu werden auf Basis einer vergleichenden Literaturanalyse unter Einsatz der Business Process Modeling Notation (BPMN) Grundsätze für eine Konzeption in Form eines Referenzprozes-ses, der die strategische und die operative Ebene umfasst, für den elektronischen Semesterapparat entwickelt und der daraus resultierende Mehrwert für alle Beteiligten aufgezeigt. Die Realisierungsoptionen für die dabei anfallenden Aufgaben werden unabhängig von auf dem Markt befindlichen Softwarelösungen allgemein gültig beschrieben und Ansatzpunkte für eine verstärkte Vernetzung innerhalb der Hochschule benannt. Darüber hinaus werden Potenziale für hochschulübergreifende Kooperationen identifiziert. Die Arbeit wird durch die Ausarbeitung einer organisatorischen und inhaltlichen Vorgehensweise zur Umsetzung des Konzepts unter den konkreten Rahmenbedingung der TU Berlin vervollständigt. Der Referenzprozess kann für die Implementierung eines elektronischen Semesterapparats in jeder anderen Hochschule herangezogen werden. Für die konkrete Umsetzung sind zusätzlich die individuellen Rahmenbedingungen zu analysieren, das technische Prozessmo-dell zu ergänzen und die Vorgehensweise anzupassen.</dc:description>
+          <dc:description xml:lang="eng">This paper confirms that the combination of the technological development of digitalization with the established course reserve service is possible in compliance with copyright law in Germany and leads to added value for all stakeholders in the process. This research is based on a comparative analysis of literature. A reference process containing the strategic and the operational level of the electronic reserve service is developed using the Business Process Modeling Notation (BPMN), thereby illustrating the additional benefit of the new pro-cess for all participants. Different implementation options for the associated tasks are de-scribed independent of software solutions available on the market. In addition, the study identifies universal approaches to closer integration within the university. Another aspect out-lined is the identification of potential for cross-university cooperation. The study is completed by developing a procedure to implement the new process in the specific context of conditions at the TU Berlin. The reference process can be used for the implementation of course reserve services at any other university. For its implementation individual parameters have to be analyzed additional-ly, the technical level of the process model has to be supplemented and its procedure adapted.</dc:description>
+          <dc:date>2012-10-25</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3498</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37163</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37163</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3498/ropp_stephan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

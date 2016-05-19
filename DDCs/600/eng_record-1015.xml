@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1015">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1015</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">CMOS Low-Noise Amplifier Design for Reconfigurable Mobile Terminals</dc:title>
+          <dc:creator>Pienkowski, Dariusz Zbigniew</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Kommunikationsstandards aus Europa, Japan und den USA sind mit einander nicht kompatibel. Das ist einen Nachteil besonders in der Mobiltelefonie, wo es bisher keinen allgemeinen Standard gibt. Die Vielzahl an Funkstandards führt zu einigen Nachteilen, deshalb scheint das Bedürfnis für Rekonfigurierbarkeit offensichtlich zu sein. Ein rekonfigurierbares Terminal sollte im Stande sein, verschiedene Standards zu unterstützen. Die vernünftige Integration von verschiedenen Standards kann Standards einschließen, die derselben Familie (z.B. GSM) gehören, aber in verschiedenen Kontinenten entwickelt werden. Solche Terminals existieren bereits und ein breites Angebot besteht auf dem Markt. Ein ziemlich neuer Ansatz der Standardintegration ist die Kombination von verschiedenen Familien von Standards, zum Beispiel zwischen drahtloser Datenübertragung wie UMTS mit WLAN oder HIPERLAN. In diesem Fall sind fast alle Parameter, die einen Standard definieren, verschieden. In dieser Arbeit wird ein rekonfigurierbares Multistandard Terminal betrachtet, das sowohl OFDM basierte WLAN Standards (IEEE802.11 und Hiperlan/2) als auch den CDMA basierten UMTS FDD unterstützt. Besondere Aufmerksamkeit galt dem Empfänger dieses Terminals. Eine rekonfigurierbare hybride Architektur ist ausstelle einer Architektur entwickelt worden, die mehrere Parallele umschaltbare Sender-Empfänger verwendet. Zusätzlich zur hybriden Architektur werden die negativen Einflüsse des HF-Teils auf die Empfänger-Performance untersucht. Der zweite Teil dieser Arbeit behandelt Transistor-Physik und den Entwurf eines rauscharmen Verstärkers für einen rekonfigurierbaren Empfänger, wie oben beschrieben. Da die kleinen FET-Größen aktuellen submikrometer RF-MOS-Technologien niedrige Kapazitätswerte haben, sind große Induktivitäten für die Anpassung erforderlich. Wegen ihre großen Abmessungen werden sie außerhalb des ICs realisiert. Deshalb kann die Pad-Kapazität im Designprozess nicht länger vernachlässigt werden. Es wird gezeigt, dass die Rauschzahl von rauscharmen Verstärkern wesentlich durch die richtige Wahl von passiven Systemkomponenten verbessert werden kann. Eine Designmethodik wird eingeführt, die den equivalenten Rauschwiderstand reduziert, und dadurch sehr gutes Rauschverhalten trotz relativ schlechte Rauschanpassung erreichen kann. Die Messungen des Verstärkers hinsichtlich Rauschverhalten und Stromverbrauch, zeigen sehr gute Ergebnisse. Sie gehören zu den besten überhaupt bekannten. 0.76 dB-Rauschzahl und 12 dB Gewinn wurden bei 2.14 GHz erreicht, bei 3.5 mA Stromverbrauch und 1.2V Betriebsspannung.</dc:description>
+          <dc:description xml:lang="eng">Communication standards developed in Europe, Japan and USA are not compatible with each other. This is a profound drawback particularly in the digital cellular telephony, where there is no common standard up to now. The variety of wireless standards leads to some disadvantages, therefore the need for reconfigurability seems to be evident. A reconfigurable terminal should be able to support different standards. Reasonable integration of different standards may include standards, which belong to the same family (e.g., GSM), but are developed in different continents. Such terminals have been already produced and a broad offer exists on the market. A rather new approach of the standard integration is the combination of different families of standards, for example between wireless data and digital cellular telephony like UMTS with WLAN or HIPERLAN. In this case, nearly all parameters defining a standard are different. In the scope of this work the multistandard, reconfigurable terminal is considered that supports the OFDM based WLAN standards (IEEE802.11 and Hiperlan/2) and the CDMA based UMTS FDD standard. Special consideration has been made for the receiver of this terminal. A reconfigurable hybrid architecture has been developed, rather than an architecture using many parallel switchable transceivers. Additionally to the hybrid architecture, a study on RF impairments is given. The second part of this work handles with transistor physics and low noise amplifier design for a reconfigurable receiver, defined earlier. Since the small FET sizes of state of the art sub-micron RF-MOS-technologies have low capacitance values, thus large inductors are needed for matching. Because of theirs large dimensions they are placed off-chip. For this reason, the pad capacitance can not be longer neglected in the design process. % It is shown that the noise figure of low-noise amplifiers can be improved considerably by a proper choice of passive components. A design methodology is introduced, which reduces the equivalent noise resistance, and thus very good noise performance can be achieved in spite of rather poor noise matching. The measurements of the amplifier, in respect to the noise performance and power consumption, show very good results, one of the best ever reported. 0.76 dB noise figure and 12 dB gain were achieved at 2.14~GHz, 3.5 mA supply current and 1.2 V supply voltage.</dc:description>
+          <dc:date>2005-06-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1015</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10053</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10053</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1015/pienkowski_dariusz.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

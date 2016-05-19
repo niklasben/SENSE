@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:244">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:244</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Geregelte Dämpfung für Traktor-Fahrersitze</dc:title>
+          <dc:title xml:lang="eng">Controlled damping for driver's seats of agricultural tractors</dc:title>
+          <dc:creator>Hauck, Matthias</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der gefederte Sitz ist ein wirkungsvolles Mittel, die Schwingungsbelastung der Fahrer von Traktoren zu reduzieren. Der dabei zum Abbau von Eigenschwingungen notwendige passive Stossdämpfer vermindert jedoch die Isolierwirkung. Mit Hilfe geregelter Dämpfer lassen sich Verbesserungen in der Schwingungsisolation erzielen. In der vorliegenden Arbeit wird die Eignung verschiedener semi-aktiver und adaptiver Regelungsalgorithmen zur Ansteuerung regelbarer Dämpfer untersucht. Dies geschieht mit Hilfe numerischer Simulationen eines Einmassenschwingers unter Verwendung von Anregungsspektren aus der Praxis. Zur Bestimmung der jeweiligen Regelverstärkung, für die sich die beste Schwingungsisolation einstellt, werden Optimierungsrechnungen durchgeführt. Als günstigster Regelungsalgorithmus hat sich Skyhook-Control erwiesen, da dieser die größte Schwingungsisolation bei vertretbaren Relativwegen gewährleistet. Neben dem Regelungsalgorithmus ist der regelbare Dämpfer für die Isolationswirkung des Systems wichtig. Es wird hier ein regelbarer Fahrersitzdämpfer auf Basis eines magnetorheologischen Fluids verwendet, der sich einfach gegen den serienmäßigen, passiven Stossdämpfer austauschen läßt. Zur Optimierung des Gesamtsystems wurde ein detailliertes Simulationsmodell des geregelten Fahrersitzes erstellt. Dieses bildet neben dem magnetorheologischen Dämpfer die Luftfeder des Sitzes, das Sitzpolster und einen Schwingungsdummy ab. Mit diesem Modell kann diejenige Rückführungsverstärkung bestimmt werden, die die beste Schwingungsisolation durch den Einsatz von Skyhook-Control ermöglicht. In den nachfolgenden Prüfstandsuntersuchungen konnten die Vorteile der geregelten Dämpfung nachgewiesen werden. Gegenüber den Schwingungswerten, die mit einem passiven Stossdämpfer erzielt werden, kann mit der Regelung eine Verbesserung der Schwingungsisolation im Mittel bis zu 20%, im Einzelfall bis zu 50% erreicht werden. Dabei werden vor allem die gesundheitsgefährdenden Spitzenwerte im Beschleunigungsverlauf herabgesetzt. Weiterhin läßt sich durch die Einführung eines Schlagloch-Algorithmus die Gefahr vermindern, dass der Sitz gegen die Endanschläge fährt. Der magnetorheologische Dämpfer ist aufgrund seiner Dynamik und seiner einfachen Handhabbarkeit gut für die Regelung von Fahrersitzen geeignet. Weitere Verbesserungen in der Schwingungsisolation ließen sich erzielen, wenn seine Grunddämpfung vermindert werden könnte, um bei hochfrequenten Anregungen die dabei störenden Dämpferkräfte klein zu halten.</dc:description>
+          <dc:description xml:lang="eng">The sprung seat is a powerfull means to reduce the vibration of drivers of agricultural tractors. But the passive damper, which is necessary to reduce the vibrations at natural frequency, limits the vibration isolation. One can achieve improvements in vibration isolation by using controllable dampers. The suitability of various semi-active and adaptive control-algorithms for driving controlled dampers are investigated in the present thesis. This is done by numerical simulations of a sdof-system, using excitation profiles gained by driving real tractors. Optimization calculations are executed to specify the controller gains where the vibration isolation is at maximum. The best performing control algorithm is skyhook-control, since this ensures the best vibration isolation at maintainable relative travel of the seat. Apart from the control-algorithm, the controllable damper is important for the performance of the system. A controllable damper based on a magnetorheological fluid is used here, which can be easily exchanged for the standard passive damper. A detailed simulation model of the controlled drivers seat was built to optimize the whole system. It consists of the magnetorheological damper, the air spring, the seat cushion and a vibration dummy. With this model, the optimal feedback gains can be determined where the vibration isolation using skyhook-control is best,. The advantages of the controlled damping could be prooved by testing the seat on a hydraulic shaker. One can achieve an average improvement of 20 % of the vibration values compared to the passive system, in single cases up to 50 %. Thereby mainly the peak values of acceleration, which imply a high hazard of health, are reduced. By introducing a control algorithm which is active when driving through a pothole, the risk of hitting the endstops of the seat is also reduced. The magnetorheological damper is particularly suitable for controlling the drivers seat due to its dynamic properties and easy handling. Further improvements could be achieved by reducing its off-state damping. Then, the disturbing damping forces at high-frequency excitations could be minimized.</dc:description>
+          <dc:date>2001-06-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/244</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2396</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2396</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/244/hauck_matthias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

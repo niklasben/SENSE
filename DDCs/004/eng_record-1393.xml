@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1393">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1393</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Self-Organizing Infrastructures for Ambient Services</dc:title>
+          <dc:title xml:lang="deu">Selbstorganisierende Infrastrukturen für Ambient Services</dc:title>
+          <dc:creator>Herrmann, Klaus</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">In the last two decades, the advent of wireless networking technology and the achievements in the miniaturization of electronic devices have set new trends in distributed computing. This ultimately enables a new paradigm for embedding mobile users in intelligent environments that support them in their interactions with their local physical surrounding. This vision is called Ambient Intelligence (AmI). There are still many challenges ahead on the way towards the realization of AmI. One question that is central to the entire concept is: How can we render AmI systems self-organizing such that they can indeed disappear in our environment without creating a massive administrative problem? In this thesis, we propose a model for a dedicated AmI infrastructure that supports the user in his interaction with his physical environment and with external entities. This infrastructure is called Ad hoc Service Grid (ASG) and provides wireless services in a decentralized and self-organizing fashion. We identify three distinct problems associated with self-organized service provisioning in the ASG model and propose algorithms and protocols that solve them. The problem that is at the center of our work is the self-organized replication and distribution of arbitrary services in an ASG. A set of algorithms is presented that solves this problem in a completely distributed way. The two other problems we tackle are the discovery and lookup of dynamically distributed service replicas and the reconciliation among a dynamic group of replicas. Together, the mechanisms we propose lay the foundation for a general AmI software platform. We will derive the architecture of such a Serviceware from these mechanisms. Detailed experimental results are presented that show the validity of our concepts and identify ways for tailoring our algorithms and protocols to the requirements of specific applications. Furthermore, we propose a new general model and a classification methodology for self-organizing software systems. We employ this model to evaluate our own solutions. The focus of the research work presented in this thesis is on the global-scale interactions in an AmI system. We call this the macro-level of interactions to separate it from the focus of most current research projects. These projects concentrate more on adaptations at the micro-level, pertaining to the internal structures of specific applications and services. Our work complements these efforts by providing solutions for structuring AmI systems externally, for example by distributing a group of service replicas within an ASG network.</dc:description>
+          <dc:description xml:lang="deu">In den letzten beiden Jahrzehnten haben die Einführung von drahtlosen Netzwerktechnologien und die Fortschritte in der Miniaturisierung elektronischer Geräte neue Trends im Bereich der verteilten Systeme ausgelöst. Dies ermöglicht es schlussendlich, Benutzern intelligente Umgebungen anzubieten, welche sie in ihren Interaktionen mit ihrer direkten physikalischen Umwelt unterstützen. Dies wird als Ambient Intelligence (AmI) bezeichnet. Auf dem Weg bis zur Realisierung dieser Vision liegen immer noch zahlreiche Herausforderungen unterschiedlichster Ausprägung. Eine Frage, die von zentraler Bedeutung für AmI ist, ist folgende: Wie können AmI-System selbstorganisierend gestaltet werden, so dass sie sich in unserer Umgebung verbergen können, ohne einen massiven administrativen Aufwand zu erzeugen? In dieser Arbeit schlagen wir ein Model einer AmI-Infrastruktur vor, welche den Benutzer in der Interaktion mit seiner physikalischen Umgebung unterstützt. Dieses Ad hoc Service Grid-Model (ASG) bietet einen dezentralen und selbstorganisierten Zugang zu drahtlosen Diensten. Wir identifizieren drei Kernprobleme, welche bei der Umsetzung dieser Infrastruktur auftreten. Im Zentrum unserer Arbeit steht die selbstorganisierte Replikation und Verteilung beliebiger Dienste in einem ASG. Wir präsentieren Algorithmen, welche dieses Problem ohne zentrale Steuerung lösen. Zwei weitere Probleme, welche hiermit eng verbunden sind, sind das Auffinden solcher Dienst-Replikate und die Daten-Konsistenz innerhalb einer Gruppe von Replikaten. Zusammengenommen stellen diese Mechanismen die Basis einer allgemeinen AmI-Plattform dar. Wir werden die Architektur einer solchen AmI-Serviceware aus den vorgestellten Mechanismen ableiten. Detaillierte experimentelle Ergebnisse zeigen, dass unsere Lösungen anwendbar sind und wie sie an die Anforderungen spezifischer Dienste angepasst werden können. Des Weiteren schlagen wir ein neues allgemeingültiges Modell für selbstorganisierende Softwaresysteme vor, welches wir zur Evaluierung der hier vorgestellten Systeme einsetzen. Der Schwerpunkt unserer Arbeiten liegt auf den globalen Interaktionen innerhalb eines AmI-Systems. Wir nennen dies die Makroebene und grenzen uns so von den existierenden Arbeiten im Bereich der AmI ab. Diese Arbeiten behandeln meist Adaptions-Methodiken auf der Mikroebene, innerhalb von Anwendungen und Diensten. Unsere Arbeit ergänzt diese Forschung durch Ansätze für die externe Strukturierung von AmI-Systemen, zum Beispiel durch das Verteilen einer Gruppe von Dienst-Replikaten innerhalb eines ASG-Netzwerkes.</dc:description>
+          <dc:date>2006-12-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1393</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14579</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14579</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1393/original_herrmann_klaus_quellen.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1393/herrmann_klaus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

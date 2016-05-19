@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:556">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:556</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung operationell einsatzfähiger Methoden zur Biotoptypen-Kartierung anhand hochauflösender HRSC-Daten</dc:title>
+          <dc:title xml:lang="eng">Development of operational methods for the observation and monitoring of biotope types by means of high resolution HRSC scanner data</dc:title>
+          <dc:creator>Leser, Cornelia</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Nationale Naturschutzziele und internationale Vereinbarungen zwingen zur Entwicklung effektiver, operationell einsatzfähiger Methoden zur Erfassung und Beobachtung der Landnutzung und Biotoptypen. Wie zur Beantwortung der meisten naturschutzfachlichen Fragestellungen, sind auch für die Kartierung von Biotop- und Nutzungstypen räumlich und thematisch sehr hochauflösende Auswertungen erforderlich. Die bislang angewandten fernerkundlichen Kartierverfahren können aufgrund nur bedingt geeigneter Datengrundlagen und Auswertungsmethoden derartige Aufgaben jedoch nicht hinreichend operationell, das heißt effizient und mit hoher Auswertungssicherheit, bewältigen. Demgegenüber sind die Voraussetzungen von HRSC-Flugzeugscannerdaten als Datengrundlagen zur fernerkundlichen Biotop- und Nutzungstypenkartierung vielversprechend: Die in unterschiedlichen Spektralbereichen aufgenommenen, digitalen Daten weisen eine sehr hohe geometrische Auflösung und eine hervorragende Lagegenauigkeit auf. Die vorliegende Arbeit untersucht daher den möglichen Beitrag von HRSC-Daten zur Beantwortung naturschutzfachlicher Fragestellungen, insbesondere der Biotop- und Nutzungstypenkartierung. Unter Beachtung der eine operationelle Auswertung derzeit erschwerenden Rahmenbedingungen werden Methoden entwickelt, mit denen die Daten operationell ausgewertet werden können. Die besondere Schwierigkeit der Aufgabenstellung ergibt sich einerseits aus den für die Entwicklung operationeller Methoden zur Biotop- und Nutzungstypenkartierung noch ungünstigen Rahmenbedingungen, welche durch mannigfaltige Unsicherheiten hinsichtlich der zugrunde zu legenden thematischen Systematik, hinsichtlich einiger Eigenschaften der Ausgangsdaten sowie hinsichtlich der Eignung der zur Verfügung stehenden Auswertungsinstrumente zu beschreiben sind. Zum anderen ist die Ausgangsfragestellung hochkomplex, da bei der Kartierung von Biotop- und Nutzungstypen neben fernerkundlich direkt ablesbaren Objektmerkmalen auch mannigfaltige, über Sichtbares hinausgehende Zusammenhänge erfasst und berücksichtigt werden müssen. Gerade automatisierte Methoden sind daher, insbesondere auf naturnahen, heterogen zusammengesetzten Untersuchungsgebieten, nicht übertragbar und führen nicht selten zu unbefriedigenden Ergebnissen. Angesichts der problematischen Rahmenbedingungen und der komplexen Ausgangsfragestellung sind operationelle Kartiermethoden nur durch Kompromisslösungen zu erzielen: Großräumige fernerkundliche Auswertungen sind derzeit nur durch visuelle Interpretationen hinreichend effizient und sicher durchführbar. Die zu diesem Zweck entwickelte Methode zur visuellen Auswertung beruht auf einer On-Screen-Auswertung, die einerseits zu einer enormen Zeitersparnis gegenüber der bislang praktizierten, in mehreren Auswertungsschritten ablaufenden CIR-Luftbildkartierung führt. Darüber hinaus weisen die Geometrien der Auswertungsergebnisse deutlich höhere Lagegenauigkeiten auf, als mit herkömmlichen Methoden zu erreichen sind, was auch spätere automatisierte Aktualisierungen erleichtert. Falls die im HRSC-Bild erzielte Kantenschärfe eine sichere Ansprache von Baumarten verhindert, muss dabei jedoch auch auf die in einigen Bundesländern bereits vorliegenden CIR-Luftbild-Kartierungsergebnisse vergangener Jahre oder auf Geländekartierungen zurückgegriffen werden. Demgegenüber können kleinräumige Kartierungen, insbesondere Monitoringaufgaben in Schutzgebieten, auch automatisiert über untersuchungsgebietsspezifische Klassifikationsabläufe durchgeführt werden. Zur Steigerung der Übertragbarkeit und Transparenz der Abläufe bezieht sich die thematische Auflösung dabei auf die Beantwortung der im jeweiligen Untersuchungsgebiet relevanten Einzelfragestellungen, orientiert sich also nicht vordergründig an der Systematik bestehender Biotop- und Nutzungstypenkataloge. Um die Geometriebildung der Auswertungsergebnisse zu verbessern und auf multitemporale Auswertungen verzichten zu können, wird der thematischen Auswertung zusätzlich eine wissensbasierte Grobsegmentierung vorangestellt.</dc:description>
+          <dc:date>2003-05-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/556</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5517</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5517</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/556/leser_cornelia.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

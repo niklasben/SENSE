@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3557">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3557</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Wandnahe Particle Image Velocimetry: Weiterentwicklung und Anwendung in der Biofluidmechanik</dc:title>
+          <dc:title xml:lang="eng">Near Wall Particle Image Velocimetry: Further Development and Application in Biofluid Mechanics</dc:title>
+          <dc:creator>Berthe, André</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die wandnahe Strömung ist in vielen Bereichen der Biofluidmechanik von großem Interesse. Eine quantitative Vermessung der flächigen, zeitaufgelösten Wandschubsspannungsfelder von Gefäßen oder künstlichen Organen mit gewölbten Oberflächengeometrien war bislang nicht möglich. Die in dieser Arbeit weiterentwickelte Wand-PIV Technik ermöglicht solche Messungen. Die Leistungsfähigkeit der Messtechnik wurde in Abhängigkeit ihrer Parameter analysiert. Darauf aufbauend konnte der optische Aufbau der Messtechnik für den Einsatz in Schleichströmungen bis hin zu Geschwindigkeiten von etwa 2 m/s optimiert werden. Die Weiterentwicklung der Leuchtquellen und ein neuartiges Kalibrationskonzept zur Erfassung räumlich variierender Helligkeiten ermöglichte die Vermessung von Objekten mit stark gekrümmten Wänden wie Aneurysmen oder Blutpumpen. Die Auswertetechnik wurde auf die zeitliche Erfassung aller drei Dimensionen in Wandnähe erweitert. Eine in der Arbeit eingeführte Evaluationstechnik basiert auf der Messung einer sehr genauen Verschiebung von Einzelpartikeln. Mit ihr kann die Genauigkeit des Messverfahrens inklusive der Algorithmen des Auswerteverfahrens analysiert werden. Weiterhin wurden Messungen mit den etablierten Messtechniken Particle Image Velocimetry und Laser Doppler Velocimetry validiert, sowie Vergleiche zu numerischen Berechnungen durchgeführt. Zum Nachweis der medizinischen Anwendbarkeit wurden Messungen an Strömungsmodellen von Aneurysmen und an Blutpumpen durchgeführt. Dies erlaubte erstmals experimentelle Einblicke in die wandnahe Strömung von gecoilten und geclippten Aneurysmen sowie in den Strömungseinfluss von Flow Divertern. Die zeitlich aufgelöste, flächige Erfassung von Wandscherraten in einer Blutpumpe stellt ebenfalls ein Novum dar. Für eine medizinische Auswertung der Messdaten wurde auf das Konzept der Kostenfunktionen in Verbindung mit Monte-Carlo Simulationen zurückgegriffen. Am Beispiel der Blutschädigung konnte aufgezeigt werden, wie vermessene Wandscherraten für die Bestimmung von Risiken quantitativ auswertbar sind. Wand-PIV erlaubt somit erstmals die quantitative, zeitaufgelöste Erfassung von wandnahen Scherfeldern und die Anwendung in der Medizintechnik.</dc:description>
+          <dc:description xml:lang="eng">In biofluid mechanics knowledge of near wall flow is of great importance, particularly in the complex geometries that dominate the field of medical technology. Methods such as Laser Doppler Velocimetry (LDV), Particle Image Velocimetry (PIV) and Computational Fluid Dynamics (CFD) provide some understanding but to date a quantitative measurement of two-dimensional, time-resolved wall-shear stress fields of vessels and artificial organs with vaulted surface geometries has not been possible. By improving the recently developed wall-Particle Image Velocimetry technique (wall-PIV) the presented work helps to overcome this limitation. In this work the performance of wall-PIV is analyzed in dependence of its parameters. The results of this analysis feed into an optimization of the optical setup is for measurements from a creeping flow up to flow velocities of about two meters per second. An improvement of the light sources used and a new concept for calibrating spatial variations in light intensities facilitates the analysis of objects with strongly curved surfaces, such as aneurysms or blood pumps. The enhanced technique allows time-resolved measurements of all three dimensions near walls. An evaluation technique which has been developed as part of this work is based on the exact traversal of single particles. It allows to determine the accuracy of the measurement including the precision of the used image analysis algorithms. Experimental results of the wall-PIV have been validated against datasets of PIV, LDV as well as CFD. An analysis on flow models of aneurysms and blood pumps confirms the medical applicability of the improved wall-PIV. It gives a first experimental insight into the near-wall flow of coiled and clipped aneurysms and into the flow modification caused by flow diverters. The time-resolved surface measurement of wall-shear rates in a blood pump also presents a novelty. For a concise medical evaluation of the measured datasets, cost functions have been combined with Monte Carlo simulations. Based on the example of blood damage, the possibility of quantitative risk assessment with the help of wall-PIV data has been shown. The wall-PIV technique thereby allows, for the first time, a quantitative, time-resolved measurement of near-wall flow fields and its use in medical technology applications.</dc:description>
+          <dc:date>2012-12-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3557</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37521</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37521</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3557/berthe_andre.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

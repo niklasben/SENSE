@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2991">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2991</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Optimal Dirichlet boundary control problems of high-lift configurations with control and integral state constraints</dc:title>
+          <dc:title xml:lang="deu">Optimale Dirichlet-Randsteuerung von Hochauftriebskonfigurationen mit Kontroll- und integralen Zustandsbeschränkungen</dc:title>
+          <dc:creator>John, Christian</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This thesis investigates optimal control problems related to Navier-Stokes equations. We investigate two control problems related to the aerodynamic optimization of flows around airfoils in high-lift configurations. The first issue is the steady state maximization of lift subject to restrictions on the drag. This leads to a Dirichlet boundary control problem for the stationary Navier-Stokes equations with constrained control functions belonging to L^2 under an integral state constraint. The control space L^2 makes it necessary to deal with very weak solutions of the Navier-Stokes equations and because of the low regularity of control and state, we reformulate the cost functional and the integral state constraint. We derive first-order necessary and second-order sufficient optimality conditions and treat the problem numerically by direct solution of the associated nonsmooth optimality system and additionally by an SQP-method, which convergence we proved. The second part is based on a k-omega-Wilcox98 turbulence model, describing the nonstationary behavior of the fluid closer to the reality. To deal with the curse of dimension, we discuss a reduced-order model (ROM) by adapting a small system of ODEs to solutions computed with the full model. Based on this ROM, we investigate an optimal control problem theoretically and numerically.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit behandelt Optimalsteuerungsprobleme mit Navier-Stokes Gleichungen. In dieser Arbeit haben wir zwei Optimalsteuerungsprobleme untersucht, die die Umströmung von Tragflügeln in Hochauftriebskonfigurationen betrachten. Im stationären Fall, möchten wir den Auftrieb maximieren während der Widerstand unterhalb einer bestimmten Grenze bleiben soll. Dies führt zu Dirichlet-Randsteuerungsproblemen mit stationären Navier-Stokes Gleichungen und Beschränkungen für die Steuerungen aus dem L^2 unter Betrachtung einer zusätzlichen integralen Zustandsbeschränkung. Der Kontrollraum L^2 führt zur Verwendung von sehr schwachen Lösungen der Navier-Stokes Gleichungen. Des Weiteren führt die daraus resultierende niedrige Regularität der Steuerung und des Zustandes dazu, dass wir sowohl das Zielfunktional als auch die integrale Zustandsbeschränkung umformulieren müssen. Wir stellen sowohl die notwendigen Optimalitätsbedingungen erster Ordnung als auch die hinreichenden Optimalitätsbedingungen zweiter Ordnung auf und lösen das Problem numerisch einerseits als direkte Lösung des Optimalitätssystems und andererseits mit Hilfe der SQP-Methode, dessen Konvergenz wir noch analytisch beweisen. Der instationäre Fall basiert zusätzlich zu den Navier-Stokes Gleichungen noch auf einem k-omega-Wilcox98 Turbulenzmodell, welches zu einem riesigen Rechenaufwand führt. Zur Lösung dieses Problems diskutieren wir eine Modellreduktion und ein reduced-order model (ROM), indem wir ein kleines System von gewöhnlichen Differentialgleichungen mit Hilfe von vorher berechnete Snapshots kalibrieren. Zum Abschluss dieser Arbeit untersuchen wir theoretisch und numerisch ein Optimalsteuerungsproblem, welches auf diesem ROM basiert.</dc:description>
+          <dc:date>2011-08-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2991</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31840</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31840</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2991/john_christian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

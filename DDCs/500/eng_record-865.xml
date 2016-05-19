@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:865">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:865</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen von Nanostrukturen magnetischer Kolloide mit Kleinwinkelstreuung</dc:title>
+          <dc:creator>Kammel, Martin</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Mit Hilfe der Neutronenkleinwinkelstreuung mit polarisieren Neutronen wird eine Analyse so genannter Ferrofluide durchgeführt. Ferrofluide sind Dispersionen magnetisierbarer Teilchen, welche durch in den meisten Fällen organische Hüllen gegen irreversibler Aggregation geschützt sind. Anhand von verdünnten Magnetit-Kolloidlösungen wurden als Stabilisierung Dextran, Tenside (Laurinsäure/Marlipal) und elektrostatisch stabilisierte Magnetitteilchen untersucht. Dabei fanden sich in jedem dieser Fluide zwei Sorten von Teilchen: Aggregate und Kern-Hülle-Teilchen. Im Falle der elektrostatisch stabilisierten Probe bestanden die Aggregate nur aus Magnetit. In den beiden anderen Fällen enthalten die Aggregate noch Hüllenmaterial. Das mit Tensiden stabilisierte Ferrofluid enthielten noch eine dritte Fraktion von Teilchen unmagnetischer Tensidstrukturen. Der Einfluss des Lösungsmittels wird besonders bei mit Tensiden stabilisierten Proben deutlich. So wird gezeigt, dass sich im Falle von Toluol als Lösungsmittel eine einfache Tensidschicht bildete. Im Wasser war eine Doppelschicht zur Stabilisierung vorhanden. Zusätzlich erwies sich der Radius der Aggregate unabhängig vom Lösungsmittel als größer im höher deuterierten Lösungsmittel und bei größerer Verdünnung. Der Vergleich der verschiedenen Kernmaterialien wurde anhand einer Magnetitprobe und einer Kobaltprobe durchgeführt. Abgesehen von präparationsbedingten Größenunterschieden zum Magnetit konnten in dem Kobaltfluid keine Aggregate gefunden werden. Hier traten freie Tensidstrukturen auf, wie es auch in Magnetitfluiden der Fall ist. Konzentrierte Kobaltferrofluide zeigten in externen magnetischen Feldern Strukturbildungsphänomene. Dabei konnten zwei konkurrierende Strukturen nachgewiesen werden. Zum einen traten Anordnungen in Ketten entlang des magnetischen Feldes auf. Zum anderen bildeten sich Ebenen hexagonaler Ordnung mit der [110]-Richtung in Richtung des externen magnetischen Feldes. Die Ursache der hexagonalen Ordnung konnte nicht völlig geklärt werden und bedarf weiterer experimenteller und theoretischer Untersuchungen.</dc:description>
+          <dc:date>2005-01-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/865</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8588</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8588</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/865/kammel_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

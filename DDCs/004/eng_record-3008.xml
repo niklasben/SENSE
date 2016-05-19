@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3008">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3008</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">eSOA - SOA für eingebettete Netze</dc:title>
+          <dc:title xml:lang="eng">eSOA - SOA for embedded networks</dc:title>
+          <dc:creator>Scholz, Andreas</dc:creator>
+          <dc:creator>Buckl, Christian</dc:creator>
+          <dc:creator>Sommer, Stephan</dc:creator>
+          <dc:creator>Kemper, Alfons</dc:creator>
+          <dc:creator>Knoll, Alois</dc:creator>
+          <dc:creator>Heuer, Jörg</dc:creator>
+          <dc:creator>Schmitt, Anton</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Eingebettete Netze, bestehend aus einer Vielzahl von vernetzten Knoten mit unterschiedlichen Mess-, Steuer- und RechenfÃ¤higkeiten, werden zunehmend in Bereichen wie der Heim- und Industrieautomatisierung, modernen Kraftfahrzeugen oder großflächigen Infrastrukturen z.B. in Energienetzen oder Verkehrsleitsystemen eingesetzt. Die Komplexität der Netze, die Heterogenität der enthaltenen Knoten und Infrastrukturänderungen durch mobile Knoten oder Knotenausfälle stellen besondere Herausforderungen während der Anwendungsentwicklung dar. Viele dieser Anforderungen können durch die aus dem Software-Bereich wohlbekannten Service orientierten Architekturen (SOAs) erfüllt werden. Um die besonderen Rahmenbedingungen von eingebetteten Netzen (Ressourcenbeschränkungen, Echtzeitanforderungen, etc) berücksichtigen zu können, sind einige Anpassungen des traditionellen SOA Paradigmas aus dem Web Service Kontext nötig. Ziel des eSOA-Projekts ist die Definition eines embedded-SOA-(eSOA)-Konzepts, das diesen Anforderungen genügt, und die Entwicklung einer Middleware für eingebettete Netze und den dazugehörigen Entwicklungswerkzeugen, welche eine effiziente Anwendungsentwicklung ermöglichen.</dc:description>
+          <dc:date>2011-08-10</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3008</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31463</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31463</dc:identifier>
+          <dc:identifier>1863-2122</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3008/ECEASST_Vol_17_2009_SOC_02.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

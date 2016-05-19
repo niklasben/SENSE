@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1820">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1820</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Imaging and Control of Surface Reactions</dc:title>
+          <dc:title xml:lang="deu">Darstellung und Kontroll der Oberflächenreaktionen</dc:title>
+          <dc:creator>Sanchez Bodega, Pablo</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Spontaneous pattern formation is a fascinating phenomenon in spatially extended systems far from thermal equilibrium. Among extended systems, reaction-diffusion systems stand out for the wealth spatiotemporal behavior that they display. Technological advances in imaging during the last few decades have allowed an ever improving characterization of the space-time dynamics of surface reactions. In addition, a wide range of approaches have been pursued to design and control spatiotemporal dynamics. The spontaneous activity of a system can be steered in a desired direction by applying weak control impulses; this implies the combination of theoretical understanding of physical phenomenon with experimental verification. In this thesis, a number of surface imaging techniques are used in experiments where surface reactions are externally controlled; in particular, two catalytic reaction-diffusion systems and their corresponding pattern formation are studied: CO oxidation of platinum (110), and pitting corrosion on stainless steel. CO oxidation on Pt(110) single crystal surfaces is a well known 2D system with a great number of possible concentration patterns; PEEM (photoemission electron microscope) was used for the study of such spatiotemporal structures. Periodic global forcing techniques were applied within different resonant regimes to control spatiotemporal chaos and to induce never before seen patterns. Purposeful introduction of noise into the system, and the corresponding emerging structures are also presented. Moreover, interferometry was used to map the topography of an ultra-thin platinum foil. The catalytic dynamics and thermal effects involved in the reaction resulted in the deformation of the foil and the emergence of spatiotemporal patterns. For general safety and in industry, the problem of pitting corrosion on metals is crucial. A morphological approach has been done to understand this process and to pave the way for new testing and prevention techniques. The combination of two surface techniques, atomic force and scanning electron microscopy, was used to visualize the pits growth on stainless steel under controlled parameters. Different sample preparation methods are also compared. The study of the generated holes and their profiles in time can help develop new methods to test the alloys corrosion resistance.</dc:description>
+          <dc:description xml:lang="deu">Ein faszinierendes Phänomen in räumlich gedehnten Systemen, die sich weit vom thermischen Gleichgewicht befinden, ist die spontane Strukturbildung. Unter den ausgedehnten Systemen heben sich durch ihr vielfältiges raumzeitliches Verhalten insbesondere die Reaktions-Diffusions-Systeme hervor. Technologische Fortschritte der letzten Jahrzehnten auf dem Gebiet der Abbildungsverfahren erlauben eine immer vollkommenere Charakterisierung der Raum-Zeit-Dynamik von Oberflächenreaktionen. Außerdem wurde einer Reihe von Ansätze nachgegangen um die raumzeitliche Dynamik zu gestalten und zu kontrollieren. Das spontane Verhalten eines Systems kann durch Verwendung schwacher Steuerimpulsen in eine bestimmte Richtung gelenkt werden, was eine Kombination vom theoretischen Verständnis des physikalischen Phänomens und dessen experimentellen Nachweises voraussetzt. In der vorliegenden Dissertation werden einige Verfahren zur visuellen Oberflächendarstellung in Experimenten mit externkontrollierten Oberflächen-reaktionen verwendet, wobei zwei katalytische Reaktions-Diffusions-Systeme und deren entsprechende Strukturbildung erforscht werden: Die CO-Oxidation auf Platin (110) und der Lochfraß von Edelstahl. CO-Oxidation auf Pt(110)-Einkristall-Oberflächen stellt ein bekanntes 2D-System mit einer Vielzahl möglicher Konzentrationsstrukturen dar. PEEM (Photoemissions-elektronen-Mikroskopie) wurde zur Erforschung dieser raumzeitlichen Strukturen verwendet. Verfahren für periodisches globales Forcieren wurden bei verschiedenen Resonanz-Zuständen eingesetzt um raumzeitliches Chaos zu steuern und vorher nie gesehene Strukturen zu induzieren. Es wird auch die gezielte Einführung von Rauschen, sowie die dabei auftretenden Strukturen vorgestellt. Des weiteren wurde Interferometrie verwendet um die Topografie einer ultra-dünnen Platinfolie zu vermessen. Die katalytische Dynamik der Reaktion und die damit verbundenen thermischen Effekte führen zu einer Deformierung der Folie und zur Entstehung von raumzeitlichen Strukturen. Von erheblicher Bedeutung für die Sicherheit von Gebäuden und von Bauteilen in der Industrie ist das Problem des Lochfraßes von Metallen. Es wurde ein morphologischer Ansatz zum Verständnis des Prozesses und um den Weg zu neuen Test- und Verhütungsverfahren zu ebnen unternommen. Eine Kombination zweier Methoden der Oberflächenforschung, Atomarekräfterastermikrospie und Rasterelektronenmikroskopie, wurde verwendet um die verschiedenen Stufen der Löcher in Edelstahl unter kontrollierten Bedingungen bildlich darzustellen. Verschiedene präparative Verfahren wurden ebenfalls miteinander verglichen. Eine nähere Untersuchung der zeitlichen Entwicklung der generierten Löcher und deren Profile könnte dazu beitragen, neue Methoden zur Prüfung der Korrosionsfestigkeit von Legierungen zu erarbeiten.</dc:description>
+          <dc:date>2008-07-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1820</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19070</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19070</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1820/original_sanchezbodega_pablo_Original_Daten_Latex.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1820/sanchezbodega_pablo.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3770">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3770</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:other</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Wissen und andere Commons : Was ist das nachhaltige Investitionsportfolio?</dc:title>
+          <dc:title xml:lang="eng">Knowledge and Other Commons : What is the Sustainable Investment Portfolio?</dc:title>
+          <dc:creator>Edenhofer, Ottmar</dc:creator>
+          <dc:creator>Flachsland, Christian</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Der "Wealth of Nations" hängt heute in hohem Maße mit dem "Wealth of the Commons" zusammen, weil die sozialen und privaten Erträge nicht mehr übereinstimmen. Das gilt vor allem für Investitionen in Human�? und Naturkapital, aber auch für Infrastrukturinvestitionen. Daher ist eine gesellschaftliche Diskussion über Staatsaufgaben und Investitionsprioritäten erforderlich. Diese sollte informiert (nicht gelöst!) werden durch die Wissenschaft.</dc:description>
+          <dc:date>2013-06-26</dc:date>
+          <dc:type>other</dc:type>
+          <dc:type>doc-type:other</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3770</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40603</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40603</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3770/Wissen_und_andere_Commons_Was_ist_das_nachhaltige_Investitionsportfolio.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

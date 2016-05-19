@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3338">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3338</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Prospektive Gestaltung von Schlüsselindikatoren in der Prozessführung</dc:title>
+          <dc:title xml:lang="eng">Prospektive Design of Key Performance Indicators in Process Control</dc:title>
+          <dc:creator>Schubert, Udo</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit behandelt die computergestützte Überwachung chemischer und verfahrenstechnischer Prozesse zur Erkennung feherhafter Betriebszustände, sowie der Diagnose potentieller Ursachen. Für das Auftreten von Fehlern in chemischen Anlagen sind, neben falscher Auslegung, Montage und Fehlbedienung, in erster Linie ausbleibende (bzw. verspätete) Wartung, betriebsbedingte Alterung und Abnutzung, sowie eine schwankende Qualität der Betriebs- und Hilfsstoffe verantwortlich. Diese Faktoren lassen sich prinzipiell nicht vermeiden, weshalb Anlagen in der Industrie auch in der Zukunft trotz großer Anstrengungen immer anfällig für das Eintreten fehlerhafter Zustände sein werden. Die zunehmende Ausbreitung leistungsfähiger Informationstechnologie in der Prozessindustrie forciert die technische Evolution insbesondere auf dem Gebiet der Automatisierungstechnik. Jedoch nimmt mit der Einführung immer ausgefeilterer Methoden bei der computergestützten Prozessführung die Komplexität des Gesamtsystems, bestehend aus den technischen Apparaturen und den Elementen der Automation weiter zu. Aufgrund dieser Entwicklung, in Verbindung mit der daraus hervorgehenden, passiven Rolle von Operateuren, tritt in diesem Mensch-Maschine-System das Out-of-the-loop-Phänomen auf. Darin manifestieren sich entstehenden Probleme bei der Nachvollziehbarkeit des Betriebsverhaltens der überwachten Anlagen. Dieses Phänomen äußert sich insbesondere in einer beeinträchtigten Leistung von Operateuren bei der Erkennung anormaler Betriebszustände. Um dieser Entwicklung entgegenzuwirken, wird in der vorliegenden Arbeit durch die Verwendung einer bedienerorientierten Perspektive ein prospektiver Ansatz für die Gestaltung von Mensch-Maschine-Schnittstellen gewählt. Aus einer umfangreichen Analyse der Arbeitssituation von Operateuren bei der Überwachung automatisierter chemisch- und verfahrenstechnischer Prozesse werden zwei Lösungsansätze für die Unterstützung bei der Fehlererkennung und Fehlerdiagnose entwickelt. Die Funktionsweise der entwickelten Prototypen wird in eine Automation zur Überwachung großtechnischer Prozesse integriert und anhand eines theoretischen Beispiels, sowie der Auswertung von Prozessdaten zweier realer Anlagen demonstriert. Es zeigt sich, dass eine Alarmierung auf Grundlage von Schlüsselindikatoren eine frühzeitige Erkennung komplexer Zusammenhänge ermöglicht, die zu unerwünschten Betriebszuständen führen könnten. Darüber hinaus erleichtert die entwickelte Polytop-Darstellung der generierten Kenngrößen einen Rückschluss auf potentielle Fehlerursachen und liefert somit einen Beitrag zum Wissenserhalt bei den bedienenden Operateuren.</dc:description>
+          <dc:description xml:lang="eng">This thesis deals with the supervision of chemical processes and aims at the detection of faulty states as well as the diagnosis of potential root cause. Besides bad design, manufacturing and wrong usage, the occurrence of faults is primarily related to missing or delayed maintenance, aging, wear and changing raw material and utilities. Those factors cannot be avoided, which is a reason for the proneness to such sources of failure also in the future, despite all counteracting efforts. The widespread use of powerful information technology in the process industry forces a technical evolution, especially in the field of process automation. But with the introduction of sophisticated methods of computer aided process control, the overall complexity of a plant increases dramatically. In combination with the passive role of operators, this evolution leads to the well known out-of-the-loop-syndrom. This emerges directly from the decreasing performance of operators during fault detection and fault diagnosis. In an effort to compensate this trend, a user-centered perspective has been chosen in this thesis to create a prospective design of a human-machine-interface. From a comprehensive study of the working environment of operators that monitore automated chemical processes, two approaches have been developed to support the tasks of fault detection and fault diagnosis. The utility of the created prototypes is shown through the application to a theoretical example, as well as two case studies covering real industrial plants. It could be shown that an early alarm of potential hazardous states can be issued using key performance indicators. Furthermore, the developed polytope-display allows a diagnosis of the root cause, while at the same time supporting knowledge conservation of the operating staff.</dc:description>
+          <dc:date>2012-06-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3338</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35291</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35291</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3338/schubert_udo.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

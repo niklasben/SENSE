@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3205">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3205</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Papnet: An order-preserving and latency-aware P2P Overlay and its Applications</dc:title>
+          <dc:title xml:lang="deu">Papnet: Ein Ordnungserhaltendes und Latenzberücksichtigendes P2P Netz und seine Anwendungen</dc:title>
+          <dc:creator>Raack, Martin</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Diese Dissertation entwickelt ein neues P2P Overlay Netzwerk namens Papnet, welches die einzelnen Vorzüge bestehender Typen von P2P Overlays vereint und erweitert. Im Unterschied zu den meisten der existierenden P2P Overlays erfordert Papnet kein Hashing und kann somit einzelne Datenelemente sortiert nach einem Primärschlüssel speichern. Dies ermoglicht sowohl effiziente Bereichsanfragen als auch die Implementierung einer Lastbalancierungs-Technik welche ein konstantes Lastungleichgewicht garantiert. Papnet berücksichtigt Nachrichtenlaufzeiten und ist bei globaler Gleichverteilung der Latenzen in der Lage die zuständigen Knoten zu beliebigen Objektschlüsseln unabhängig von der Größe des Netzwerks in circa zweifacher direkter Laufzeit zu erreichen. Wir zeigen, dass Papnet im Unterschied zu bestehenden P2P Lösungen hierbei eine schnelle Konvergenz zu einem Laufzeit-Optimum garantiert. Als direkte Anwendung von Papnet stellen wir einen neuen Algorithmus zur verteilten Bearbeitung von geospatialen Daten vor. Dieser ermöglicht eine praktisch lineare Skalierung mit zunehmender Anfragelast und erfordert im Gegensatz zu existierenden Lösungen nicht den Aufbau und die Pflege einer speziellen verteilten räumlichen Datenstruktur.</dc:description>
+          <dc:description xml:lang="eng">This thesis describes the development of a new P2P Overlay called Papnet, which combines the advantages of Distributed Hash Tables with those of Order-Preserving P2P Overlays. Papnet does not require any hashing and is thus able to store object keys in a sorted manner. This enables the efficient processing of range queries as well as the implementation of a load balancing technique that guarantees a constant global load imbalance ratio. Papnet is latency-aware. Given a uniform distribution of latencies it is able to route between arbitrary nodes within only twice their direct latency, independent of the actual network size. We show, that in contrast to other Overlays Papnet is able to guarantee a fast convergence towards latency-optimal routing links. As a direct application of Papnet we present a new algorithm to process window- and k-nearest-neighbor queries on spatial point data, which is able to scale asymptotically linear with the total query load. In contrast to existing solutions, the construction and maintenance of an explicit distributed spatial structure is not required.</dc:description>
+          <dc:date>2012-01-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3205</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33970</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33970</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3205/raack_martin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

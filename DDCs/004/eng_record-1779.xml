@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1779">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1779</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A Partitioning-Centric Approach for the Modeling and the Methodical Design of Automotive Embedded Systems Architectures </dc:title>
+          <dc:title xml:lang="deu">Partitionierungsorientierte Modellierung und Architekturdesign von automobilen E/E-Systemen</dc:title>
+          <dc:creator>Kebemou, Augustin</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Because of the increasing demand for more comfort, security and environmental compatibility, the development of E/E-systems (Electric/Electronic) has become a central task for automobile manufacturers. In the actual context that is characterized by the rapid increase of software- and electronic-based components in modern vehicles and the related hard competition in the automobile market, it is necessary to design optimal architectures for automobiles' E/E-systems in a relatively short time. An optimal architecture of an E/E-system must minimize the usage of the hardware (i.e. processing units, memory elements, communication cables, etc.) as well as the operating costs (energy and fuel consumption, maintenance, waste disposal, etc.) and concurrently optimize the functioning and the quality (i.e. performance, reliability, safety, security, etc.) of the system. In this thesis we suggest to solve this problem by means of CAD-supported tools. This requires drastic changes within both the established development methods and the design processes. We propose a system-oriented design process and an automatic partitioning method with appropriate modeling techniques to support the model-based definition of the architectures of automobiles' E/E-systems.</dc:description>
+          <dc:description xml:lang="deu">Vor dem Hintergrund der steigenden Nachfrage nach mehr Komfort, Sicherheit und Umweltfreundlichkeit ist die Entwicklung von E/E-Systemen (elektrik/elektronik) zu einer zentralen Aufgabe für die Automobilhersteller geworden. In der gegenwärtigen Situation, die durch die rapide Zunahme von software- und elektronikbasierten Bestandteilen in modernen Fahrzeugen und den damit verbundenen harten Konkurrenzkampf auf dem Automobilmarkt gekennzeichnet ist, ist es notwendig, optimale Architekturen für automobile E/E-Systeme in relativ kurzer Zeit zu entwickeln. Die optimale Architektur eines E/E-Systems muss die Hardwarenutzung (d. h. Prozessoren, Datenspeicher, Kommunikationskabel, I/O Module, etc.) und die Betriebskosten (Energie- und Treibstoffverbrauch, Wartung, Verschrottung, etc.) verringern und gleichzeitig die Funktionstüchtigkeit und die Qualität (Leistung, Zuverlässigkeit, Sicherheit, etc.) des Systems verbessern. In dieser Arbeit schlagen wir vor, dieses Problem durch computergestützte Werkzeuge zu lösen. Dies macht einschneidende Veränderungen sowohl in den Entwicklungsmethoden als auch in den Designprozessen erforderlich. Wir schlagen einen systemorientierten Entwicklungsprozess vor, der die modellbasierte Definition der Architekturen von automobilen E/E-Systemen unterstützen kann. Diese Arbeit definiert die passenden Modellierungstechniken und die Algorithmen, die eine automatische Partitionierung von System-level-E/E-Modellen ermöglichen.</dc:description>
+          <dc:date>2008-05-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1779</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18581</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18581</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1779/original_kebemou_augustin_source_LateX.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1779/kebemou_augustin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

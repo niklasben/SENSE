@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:553">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:553</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einführung der Polythermen Temperatur Rampen Methode für die Ermittlung kinetischer Daten</dc:title>
+          <dc:creator>Liebner, Christian</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand der Reaktionstechnik ist die Optimierung der Reaktionsführung auf der Basis kinetischer Informationen. Kinetische Untersuchung chemischer Prozesse sind stets mit einem erheblichen Zeit- und Materialaufwand verbunden. Eine von Wojciechowski in 1995 vorgeschlagene Methode zur Aufzeichung kinetischer Daten (Polythermer Temperatur-Rampen Reaktor, PTR bzw. TSR) [1] zielt darauf ab, die erforderliche Untersuchungszeit deutlich zu verkürzen. Diese neue Methode setzt die Einhaltung wohldefinierter Randbedingungen voraus. Die wichtigsten Randbedingungen fordern eine schnelle Einstellung des stationären Zustandes des Katalysators, um eine kontinuierliche Datenaufzeichung über einem Temperaturprogramm zu realisieren, sowie die Abwesenheit radialer Gradienten. Die PTR-Methode erlaubt axiale Gradienten in Temperatur und Konzentration. In der vorliegenden Arbeit wurde eine Analyse der Anwendbarkeit, der Vorteile, Nachteile und Randbedingungen der PTR-Methode am Beispiel der Ammoniaksynthese mit einem kommerziellen Katalysator der BASF und einem mikrokinetischen Modell aus der Literatur [2] durchgeführt. Die experimentellen Daten werden in einem weiten Bereich von Stickstoff- und Wasserstoffpartialdrücken und großen Temperaturintervall zufriedenstellend beschrieben. Es konnte durch Vergleich mit einer konventionellen kinetischen Auswertung bestätigt werden, daß die PTR-Methode mit einem geringeren Zeitaufwand vertrauenswürdige kinetische Analysen liefert. Für die Ammoniaksynthese ergibt sich im Vergleich mit der konventionellen stationären Vorgehensweise insgesamt ein Zeitvorteil für die kinetische Untersuchung von etwa 50 %. Im Anschluß an die erfolgreiche Validierung wurde die PTR-Methode erstmals auf eine stark exotherme Reaktion, der oxidativen Dehydrierung von Propan, angewandt. Dabei zeigte sich, daß ie PTR-Methode auch auf komplexe Reaktionen mit starker Wärmetönung anwendbar ist. Unter Einhaltung der Randbedingungen konnten selbst bei axialen Temperaturdifferenzen von bis zu 30 K brauchbare Daten erhalten werden. Datenumfang und Informationstiefe, insbesondere die visualisierten Abhängigkeiten der Stoffmengenänderungsgeschwindigkeiten von Temperatur und Verweilzeit, erleichtern die Ableitung bzw. Verfeinerung kinetischer Modelle. Die PTR-Methode steht nunmehr als effiziente Methode der kinetischen Analyse einer breiten Anwendung zur Verfügung. [1] Rice, N. M., Wojciechowski, B. W., Catal. Today, 36, 191, 1997 [2] Sehested, J., Jacobson, C. J. H., Törnquist, E., Rokni, S., Stoltze, P., J. Catal., 188, 83, 1999</dc:description>
+          <dc:date>2003-07-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/553</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5487</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5487</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/553/liebner_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:320">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:320</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Interaktive Lageregelung zur Erdbeobachtung mit Mikrosatelliten am Beispiel von DLR-TUBSAT</dc:title>
+          <dc:title xml:lang="eng">Interactive attitude control for earth observation with microsatellites by the example DLR-TUBSAT</dc:title>
+          <dc:creator>Schulz, Stefan</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">Die Konzeption eines Mikrosatellitensystems mit interaktiver Lageregelung zur Erdbeobachtung, bestehend aus Raum- und Bodensegment, die Entwicklung des dreiachsigen Lageregelungssystems, der Aufbau des Bodensegments und die Demonstration nach dem Start des Mikrosatelliten ist Aufgabenstellung dieser Forschungsarbeit. Der Mikrosatellit DLR-TUBSAT mit den Abmessungen 32 x 32 x 32 cm³ der Masse 45 kg fungiert als freifliegende Kamera, deren Videobilder zur Bodenstation übertragen und auf einem Bildschirm dargestellt werden. Das Kamerasystem ist mit mehreren Brennweiten (16, 50 und 1000 mm) ausgerüstet, zwischen denen wahlweise umgeschaltet werden kann. Die Ausrichtung des Kamerasystems erfolgt mit Hilfe der empfangenen Videobilder und einer Maussteuerung von der Bodenstation aus, d.h. der Nutzer interpretiert die Videobilder und richtet den Satelliten interaktiv auf das Zielgebiet aus. Die Steuerung der Rotationsbewegungen mit der Maus ist sehr einfach zu handhaben und ermöglicht, in Verbindung mit der Interaktivität, die Aufnahme von Zielgebieten mit unbekannten geografischen Koordinaten (z.B. Schiffsunglücke) oder unbekannter Größe (z.B. Feuer, Ölteppiche). Durch die Agilität des Mikrosatelliten ist die Beobachtung eines Zielgebiets während des gesamten Überflugs durch Nachführung des Kamerasystems möglich, wodurch ein dreidimensionales Bild erhalten wird. Die maximale geometrische Auflösung beträgt 6 m und die temporale Auflösung mindestens zwei Tage, was vor allem im Bereich von Naturkatastrophen attraktiv ist, um z.B. in möglichst kurzer Zeit die Größe und Lage der betroffenen Gebiete für die Einleitung von Hilfsmaßnahmen nach einem Hurrikan zu bestimmen. Im Rahmen dieser Forschungsarbeit war die Entwicklung eines hochintegrierten Lageregelungssystems für diese Mission erforderlich, das aus drei faseroptischen Kreiseln und drei Reaktionsrädern mit integrierter Wheel Drive Electronic besteht, die jeweils paarweise in den körperfesten Achsen des Satelliten angeordnet sind. Die Hauptfunktionen liegen in der dreiachsigen Regelung der Winkelgeschwindigkeit und des Winkels. Das Lageregelungssystem zeichnet sich durch eine geringe Masse, kleine Abmessungen, niedrigen Energieverbrauch und eine hohe Agilität aus. DLR-TUBSAT wurde am 26. Mai 1999 mit der indischen Trägerrakete PSLV in eine sonnensynchrone Umlaufbahn gestartet. Die Funktion des Lageregelungssystems nach dem Start wurde durch die Aufnahme geeigneter Messdaten bewiesen, die in dieser Forschungsarbeit diskutiert werden. Im Rahmen der interaktiven Lageregelung wurde eine Reihe von Versuchen durchgeführt. Einer der Interessantesten besteht in der Verfolgung der Adria- und Mittelmeerküste mit der 50 mm-Kamera, einem Schwenk zur Insel Korsika und anschließender Observierung der Insel mit der 1000 mm-Kamera. Der Versuch demonstriert die Interaktivität des Systems und die Agilität des Satelliten mit dem entwickelten Lageregelungssystem. Das Lageregelungssystem war zum Zeitpunkt der Abgabe dieser Forschungsarbeit voll funktionsfähig.</dc:description>
+          <dc:date>2001-03-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/320</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3157</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3157</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/320/schulz_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

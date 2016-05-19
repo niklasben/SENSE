@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2665">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2665</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Improved forward and inverse modelling of Surface NMR relaxation signals using multi-exponential decomposition</dc:title>
+          <dc:title xml:lang="deu">Verbesserte Vorwärts- und inverse Modellierung von Oberflächen NMRRelaxationssignalen unter Verwendung multi-exponentieller Zerlegung</dc:title>
+          <dc:creator>Mohnke, Oliver</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="eng">The geophysical field method of Surface Nuclear Magnetic Resonance (SNMR) or Magnetic Resonance Sounding (MRS) allows to non-invasively determine the mobile water content (amplitudes) in the subsurface. Analogous to well-logging and laboratory applications the SNMR signal also contains information linked to pore sizes (decay times) and electrical conductivity (phases) in the ground. Therefore, SNMR can basically also provide estimates of storage and transport properties, i.e. the pore size distribution or the hydraulic conductivity. Aiming at an improved aquifer characterization and estimation of hydraulic conductivity -- in analogy to applications commonly used in NMR well-logging and laboratory NMR -- a new strategy for a comprehensive inversion (COIN) of SNMR data is developed. This concept takes into account a multi-exponential behaviour of SNMR relaxation data due to both, layering and non-uniformly distribution of pores in the subsurface. In this respect commonly used smooth inversion concepts as well as a free boundary block inversion approach developed in the course of this thesis are employed. The developed new inverse modelling strategies are tested and assessed with respect to stability and parameter resolution using simulated and field data. Frequently used relations to estimate hydraulic conductivity in hydrology and NMR relaxometry are compared and discussed with respect to their applicability to SNMR. Taking into account results from a variety of laboratory and SNMR experiments mean rock-specific calibration factors are utilized for a data-base-calibrated estimation of hydraulic conductivity, e.g. usable as first-order approximation when no on-site calibration is available. SNMR field data from two sites in Germany and the Netherlands are analyzed using conventional and multi-exponential inverse modelling concepts. Here, the multi-exponential approach allows to better capture the multi-exponential relaxation data, and thus can significantly reduce the data misfit between inverse models and field data. Hydraulic conductivities derived by utilizing mean calibration values agree well with estimates obtained from well core analysis.</dc:description>
+          <dc:description xml:lang="deu">Das geophysikalische Feldverfahren der Oberflächen NMR (Surface NMR, SNMR oder Magnetic Resonance Sounding, MRS) ermöglicht eine nicht invasive Erkundung des mobilen Wassergehaltes im Untergrund. Analog zu Bohrloch und Labor NMR Anwendungen enthält das Relaxationsverhalten von SNMR Signalen zusätzliche Informationen über den Porenraum, aus denen Speicher- und Transporteigenschaften wie Porengrößenverteilungen und hydraulische Leitfähigkeiten von Aquiferen abgeleitet werden können. Darüber hinaus kann aus den Signalphasen auch auf elektrische Eigenschaften des Untergrundes geschlossen werden. Mit dem Ziel einer verbesserten quantitativen hydrogeophysikalischen Charakterisierung von Aquiferen werden bekannte Model Konzepte aus Bohrloch und Labor NMR in einem neuen globalen Inversionsansatz (COIN) implementiert und angewendet. Dabei wird der multi-exponentielle Charakter der SNMR Transienten berücksichtig, welcher sich einerseits aus einer vertikaler Schichtung und andererseits aus einer nicht uniformen Porenradienverteilung innerhalb einer lithologischen Einheit ergeben kann. In diesem Zusammenhang kommt neben einem standard "smooth" Inversionskonzept mit festen Schichtgrenzen auch eine im Verlauf dieser Arbeit entwickelte Block-Inversion mit flexiblen Schichtgrenzen zur Anwendung. Die neu entwickelten Inversionskonzepte werden an synthetischen und Felddaten auf ihre Leistung und Stabilität getestet und bewertet. Gängige hydrogeologische und Labor NMR basierte Modelle werden verglichen und zur Bestimmung hydraulischer Leitfähigkeiten aus SNMR Daten eingesetzt. Auf Grundlage einer Datenbasis von vorhandenen Ergebnissen aus Labor und SNMR Untersuchungen werden gesteinsspezifische mittlere Kalibrationsfaktoren zur Bestimmung hydraulischer Leitfähigkeiten aus SNMR Daten abgeleitet, welche als erste Näherung für nicht kalibrierte Felddaten verwendet werden können. SNMR Felddaten von zwei Standorten aus Deutschland und den Niederlanden werden mit konventionellen mono- und neu entwickelten multi-exponentiellen Ansätzen invertiert. Hierbei wird die Datenanpassung und Parameterabschätzung durch Verwendung der multi-exponentieller Inversion deutlich verbessert. Die dabei über gemittelte SNMR Kalibrationsfaktoren abgeleiteten hydraulischen Leitfähigkeiten korrelieren im Rahmen der Messgenauigkeiten gut mit Ergebnissen aus Bohrkernanalysen.</dc:description>
+          <dc:date>2010-10-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2665</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28149</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28149</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2665/mohnke_oliver.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

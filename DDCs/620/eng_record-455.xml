@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:455">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:455</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung eines Länderbewertungsmodells für Anbieter thermischer Abfallbehandlungsanlagen </dc:title>
+          <dc:title xml:lang="eng">Development of a country evaluation model for suppliers of waste incineration plants</dc:title>
+          <dc:creator>Sim, Mu-Jeong</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit war die Entwicklung und Anwendung eines Länderbewertungsmodells für die Analyse, Bewertung und Auswahl von Ländermärkten durch die Anbieter thermischer Abfallbehandlungsanlagen. Unsystematische und stark subjektive Vorgehensweisen bei der Auswahl von Zielmärkten in der unternehmerischen Praxis gaben Anlass für die Entwicklung eines praktischen und handhabbaren Instrumentes. Eine Analyse der in der Literatur diskutierten Länderbewertungs- oder Länderauswahlmodelle ergab, dass mit diesen nicht detailliert genug auf die Ziel- und Problemstellung der Anbieter thermischer Abfallbehandlungsanlagen eingegangen wird. Diese Modelle sind daher als Instrument zur Entscheidungsvorbereitung für diese spezifische Anwendergruppe nicht geeignet. Die bereits in der Praxis verfügbaren kommerziellen Länderbewertungen können zwar einen ersten Überblick über die allgemeinen Rahmenbedingungen eines Landes geben  jedoch kaum spezielle Marktdaten liefern. Für die Entwicklung eines auf die Bedürfnisse der Anbieter thermischer Anlagen zugeschnittenen Bewertungs- und Entscheidungsmodells wurden methodische Ansätze analysiert und das Scoring-Verfahren als geeignete methodische Grundlage ausgewählt. Für das Länderbewertungsmodell wurden mehrere Phasen und innerhalb der Phasen einzelne Arbeitsschritte definiert und erläutert. Die Bewertungskriterien wurden mit einer Expertenbefragung ermittelt, um entsprechende Erfahrungen der Anbieter mit einfließen zu lassen. Damit konnten Wert- und Prioritätsvorstellungen hinsichtlich der Auswahl und Gewichtung der Bewertungskriterien in das Modell integriert werden. Für das praktische Beispiel wurden umfangreiche Recherchen zur Abbildung der Ist-Situation durchgeführt. Die quantitativen und qualitativen Informationen wurden anhand einer vorab definierten Skalierung in Einzel-Punkte transformiert. Aus der Aggregation der Einzel-Punkte zu einem Gesamt-Punktwert kann für die betrachteten Länder eine Rangfolge aufgestellt werden, die dem Anwender eine Auswahlentscheidung ermöglicht. Insgesamt bietet das Länderauswahlmodell eine solide Grundlage für die Bewertung und Auswahl von Zielmärkten. Es ist für alle an der Entscheidung beteiligten Personen nachvollziehbar und bietet objektive Anhaltspunkte, ohne die subjektive Bewertung des erfahrenen Länderexperten auszuschließen. Darüber hinaus ist das Instrument in einem angemessenen Zeitraum handhabbar, lässt sich flexibel einsetzen und je nach Präferenzen des Anwenders modellieren, was gegenüber externen Länderbewertungen von Vorteil ist.</dc:description>
+          <dc:date>2002-08-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/455</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4509</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4509</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/455/sim_mu.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

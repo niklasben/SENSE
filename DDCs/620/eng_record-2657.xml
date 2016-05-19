@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2657">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2657</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Greywater Treatment with a Submerged Membrane Sequencing Batch Reactor</dc:title>
+          <dc:title xml:lang="deu">Grauwasserbehandlung mit einem getauchten Membranbioreaktor (SBR)</dc:title>
+          <dc:creator>Scheumann, René</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Synthetic greywater was treated in an SM-SBR with anoxic and aerobic phases for denitrification and nitrification. Its composition is comparable to real greywater, but several authors stated that greywater showed strong variations – depending mainly on the user behaviour. The COD fractioning revealed that 25% belonged to the rbCOD, 42% to the sbCOD and the remaining 33% to the inert fraction of the COD. The share of soluble COD was low compared to the particulate one. The reuse of the treated greywater was possible since the permeate quality was within the guidelines applicable for different reuse options (e.g. as irrigation water for green areas, or as a substitute for drinking water when flushing the toilet). Low loading rates resulted in low oTS concentration at the beginning. Due to the reduction of HRT, the loading rates increased and yielded higher oTS concentrations where a membrane coupled process, like the SM-SBR, was applicable. Nevertheless, the low growth rate must be taken into consideration when designing a technical application for greywater treatment. OUR measurements were undertaken to determine the growth and decay rate of XBH, as well as the hydrolysis rate. It could be shown that the evaluation of kinetic data for GW showed significant differences to municipal wastewater. GW treatment with membrane coupled processes is therefore viable for the future with further optimisation potential of the membrane performance. MBR technology is preferable where little space is available, i.e. for example inside buildings or on ships to overcome the inconvenience of high investment cost.</dc:description>
+          <dc:description xml:lang="deu">Synthetisches Grauwasser wurde in einem SM-SBR mit einer anoxischen und einer aeroben Phase zur Denitrifikation und Nitrifikation behandelt. Die Grauwasserzusammensetzung ist vergleichbar mit realem Grauwasser, obwohl verschiedene Autoren festgestellt haben, dass die Zusammensetzung starken Schwankungen unterliegt - je nach Nutzerverhalten und Kulturkreis. Die Zyklusanalysen haben gezeigt, dass eine gute Reinigungsleistung erzielt werden konnte. Das gereinigte Grauwasser kann für verschiedene Zwecke wiederverwendet werden, z.B.: Grünflächenbewässerung oder für die Toilettenspülung. Eine geringe Raumbelastung resultierte in einem geringen Biomassezuwachs, obwohl die hydraulische Verweilzeit stetig reduziert wurde, von anfangs 100 h auf 8 h am Ende der Versuchszeit. Die Funktionalität der Membranmodule ist ausschlaggebend für die Funktion des Reaktors, so dass eine Senkung der Permeabilität eine Verlängerung der hydraulischen Verweilzeit, bzw. der Zykluszeit zur Folge haben kann. Die Betriebserfahrungen haben gezeigt, dass der SM-SBR eine attraktive Technologie für abgelegene Gegenden sein kann, besonders vor dem Hintergrund, dass der Reaktor wenig Stellfläche braucht. Die durchgeführten Batchversuche waren schwierig durchzuführen, da es vermehrt zu Schaumproblemen gekommen ist. Trotzdem erhält man mit diesen Zusatzuntersuchungen wertvolle Informationen über das biologische Verhalten des Schlamms. Eine Fraktionierung des Grauwassers in seine verschiedenen CSB-Fraktionen brachte folgendes Ergebnis: Der Anteil des biologisch leicht abbaubaren CSB lag bei 25%, der schwer abbaubare Anteil bei 42% und der nicht abbaubare Anteil immerhin noch bei 33%. Grauwasserbehandlung mit einem Membranbioreaktor ist eine mögliche technische Alternative für die Zukunft mit stetiger Verbesserung und Optimierung der Membran Performance. Neben Hotelanlagen bieten sich Kreuzfahrtschiffe an, um diese Technik verstärkt zu implementieren.</dc:description>
+          <dc:date>2010-10-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2657</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27969</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27969</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2657/scheumann_rene.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

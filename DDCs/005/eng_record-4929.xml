@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4929">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4929</identifier>
+        <datestamp>2014-04-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Polarized Raman spectroscopy of selected meat species using a 671 nm microsystem diode laser</dc:title>
+          <dc:title xml:lang="deu">Polarisierte Ramanspektroskopie von ausgewählten Fleischarten mit einem 671 nm Mikrosystem-Diodenlaser</dc:title>
+          <dc:creator>Al Ebrahim, Halah</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">In this thesis, the potential of polarized Raman spectroscopy to obtain more detailed information about meat spoilage mechanism was demonstrated. To achieve this goal, a microsystem diode laser with an emission wavelength of 671 nm was utilized as excitation light source. The laser power at the sample was set to 50 mW enabling measurement times of 1 to 5 s for one Raman spectrum. As examples of red and white meat, fresh muscles of pork and turkey were chosen. Using principal components analysis (PCA), a detection of the microbial spoilage on the meat surface in relation to the relevant limit of 106 cfu/cm2 was realized. Furthermore, a decrease of the anisotropy in the Raman spectra was found during storage. The strong fluorescence interference recognizable after about 10 days of storage obscured the polarization information detected from the meat surface and thus can be considered as a new indicator for meat spoilage. &#13;
+The investigations were extended to probe the spoilage status and the optical anisotropy of the exotic meat species crocodile, camel, python, and zebra. A small difference between the anisotropic properties of the muscle fibers of crocodile, python, and zebra was found, while the anisotropic features of camel muscle fibers were completely obscured by a pronounced fluorescence background resulting from the high myoglobin content in camel meat. &#13;
+Applying a microsystem diode laser with two emission lines at 670.8 nm and at 671.3 nm, shifted excitation Raman difference spectroscopy (SERDS) was implemented for polarization investigation of pork meat. Using this technique, the measurement of two orientations of muscle fibers (parallel and perpendicular to the polarization direction of the laser beam) enabled a clear identification of orientation-sensitive Raman bands. Here, the amide I band at 1650 cm-1, the amide III band at 1312 cm-1, and C-C stretching vibrations at 943 cm-1 and 909 cm-1 attributed to α-helical proteins, as well as the CH2 bending vibration at 1450 cm-1 were determined. Additionally, the PCA of the SERDS spectra revealed a distinction of edible meat from spoiled samples resulting from a decrease of the signal-to-background-ratio of the spectra during storage. &#13;
+For the first time, a non-invasive approach for simultaneous meat species identification and spoilage detection was successfully demonstrated for the closely related species beef and horse. The species distinction was based on differences in the myoglobin content which could be confirmed by characteristic myoglobin signals in the Raman spectra while the signal-to-background-ratio of the meat Raman spectra affected by storage time was determined as indicator for spoilage. Additionally, the effect of frozen storage on fresh turkey and pork meat was investigated using Raman spectroscopy. In contrast to the fresh meat, the frozen-thawed specimens exhibited a clear decrease of the net intensity of the characteristic protein bands during storage time. Moreover, using PCA a clear discrimination between the fresh and the frozen-thawed meat was found for all days of storage.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit konnte das Potential der polarisationsabhängigen Ramanspektroskopie zum Erhalt detaillierterer Informationen über den Verderbnisprozess von Fleisch demonstriert werden. Um dieses Ziel zu erreichen, wurde ein Mikrosystem-Diodenlaser mit einer Emissionswellenlänge von 671 nm als Anregungslichtquelle eingesetzt. Die optische Leistung am Ort der Probe wurde auf 50 mW eingestellt, um Messzeiten von 1-5 s für ein Ramanspektrum zu ermöglichen. Als Beispiele für rotes und weißes Fleisch erfolgte die Auswahl frischer Muskel vom Schwein sowie von der Pute. Unter Verwendung der Hauptkomponentenanalyse (PCA) konnte ein Nachweis des mikrobiellen Verderbs auf der Fleischoberfläche bezüglich des relevanten Grenzwertes von 106 KbE/cm2 realisiert werden. Weiterhin zeigte sich im Verlauf der Lagerung eine Abnahme der Anisotropie in den Ramanspektren. Der nach einer Lagerdauer von rund 10 Tagen auftretende, starke Fluoreszenzeinfluss überdeckte die von der Fleischoberfläche erfassten Polarisationsinformationen und kann daher als neuartiger Indikator für den Fleischverderb angesehen werden.&#13;
+Die Untersuchungen wurden auf die exotischen Tierarten Krokodil, Kamel, Python sowie Zebra ausgedehnt, um auch hier Verderbnisstatus und optische Anisotropie zu überprüfen. Für das Fleisch von Krokodil, Python und Zebra zeigten sich dabei geringe Unterschiede hinsichtlich der anisotropen Eigenschaften. Im Gegensatz dazu wurden die anisotropen Merkmale der Muskelfasern beim Kamelfleisch durch einen ausgeprägten Fluoreszenzuntergrund, bedingt durch den hohen Myoglobingehalt, vollständig überdeckt.&#13;
+Mit Hilfe eines Mikrosystem-Diodenlasers mit zwei Emissionswellenlängen bei 670,8 nm und 671,3 nm konnte die Shifted Excitation Raman Difference Spectroscopy (SERDS) für polarisationsabhängige Untersuchungen an Schweinefleisch implementiert werden. Durch Anwendung diese Technik ermöglichte die Messung zweier Ausrichtungen der Muskelfasern (parallel sowie senkrecht zur Polarisationsrichtung der Laserstrahlung) eine eindeutige Identifikation orientierungsabhängiger Ramanbanden. Hierbei konnten die α-helikalen Proteinen zugeordneten Amid I- und Amid III-Banden bei 1650 cm-1 und 1312 cm-1 sowie C-C-Streckschwingungen bei 943 cm-1 und 909 cm-1, als auch eine CH2-Biegeschwingung bei 1450 cm-1 ermittelt werden. Die PCA-Auswertung der SERDS-Spektren zeigte zudem anhand eines im Verlauf der Lagerung abnehmenden Signal-zu-Untergrund-Verhältnisses der Spektren eine Unterscheidung von verzehrsfähigem Fleisch und bereits verdorbenen Proben.   &#13;
+Erstmalig konnte für die ähnlichen Tierarten Rind und Pferd ein zerstörungsfreier Ansatz zur simultanen Tierart-Identifikation und Verderbnisdetektion erfolgreich demonstriert werden. Die Unterscheidung der Tierarten basierte dabei auf Unterschieden im Myoglobingehalt, was anhand charakteristischer Myoglobinsignale in den Ramanspektren bestätigt werden konnte. Als Indikator für den Verderb konnte hingegen das durch die Lagerdauer beeinflusste Signal-zu-Untergrund-Verhältnis der Fleischspektren ermittelt werden. Weiterhin wurden Ramanspektroskopische Untersuchungen zum Einfluss des Einfrierens während der Lagerung von frischem Schweine- und Putenfleisch durchgeführt. Im Gegensatz zum frischen Fleisch zeigten die eingefrorenen und wieder aufgetauten Proben mit zunehmender Lagerdauer eine deutliche Abnahme der Nettointensität der charakteristischen Proteinsignale. Zusätzlich ergab die PCA-Auswertung unabhängig vom Probenalter eine klare Unterscheidung zwischen frischem und gefroren-aufgetautem Fleisch.&#13;
+</dc:description>
+          <dc:date>2014-03-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4929</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49294</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49294</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4929/al_ebrahim_halah.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

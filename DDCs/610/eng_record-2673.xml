@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2673">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2673</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:610</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The Role of the immunoproteasome in Inflammatory Bowel Disease</dc:title>
+          <dc:title xml:lang="deu">Die Rolle des Immunoproteasomes bei chronisch entzündlicher Darmerkrankung</dc:title>
+          <dc:creator>Schmidt, Nicole</dc:creator>
+          <dc:subject>ddc:610</dc:subject>
+          <dc:description xml:lang="eng">Inflammatory bowel disease (IBD), which encompasses Crohn's disease and ulcerative colitis, is characterized by a chronic relapsing inflammation of the gut. It has been shown that increased proteasomal activity driven by the expression of immunoproteasomes, enhances proinflammatory signaling and thereby promotes inflammation in IBD patients. Here, we investigated whether modulation of the proteasomal activity is a suitable therapeutic approach to limit intestinal inflammation. The concept was tested by two different experimental setups. First, development of dextran sulfate sodium (DSS)-induced colitis was assessed in lmp7−/− mice, which lack the immunoproteasome-subunit LMP7, and second in wild type (WT) mice treated with the proteasome inhibitors MG132 or Bortezomib. Compared to WT mice, lmp7−/− mice developed significantly attenuated colitis due to reduced NF-κB activation in the absence of LMP7. The treatment with MG132 or Bortezomib revealed a dose-dependent amelioration of DSS-induced colitis. Both approaches limited the production of proinflammatory cytokines and chemokines. Consequently, the infiltration of the colon by neutrophils and the expansion of Th1 and Th17 cells, which usually cause severe tissue damage, were drastically diminished. In conclusion, we can show that modulation of the proteasomal activity is effective in attenuating experimental colitis. Thus, we propose partial inhibition by proteasome inhibitors, like Bortezomib, or specific targeting of the immunoproteasome-subunit LMP7 as new therapy approaches for the treatment of IBD.</dc:description>
+          <dc:description xml:lang="deu">Chronisch entzündliche Darmerkrankungen (CED) sind durch chronisch wiederkehrende Schübe von starken Entzündungen des Darmes gekennzeichnet. Die beiden Hauptformen der CED sind Morbus Crohn und Colitis ulcerosa. Es wurde bereits gezeigt, dass erhöhte Proteasomaktivität infolge starker Expression von Immunoproteasomen zu einer Verstärkung proinflammatorischer Signale führt, die eine zentrale Rolle bei der Genese der CED spielen. Daher wurde in dieser Arbeit untersucht, ob die Modulation der Proteasomaktivität ein möglicher innovativer Therapieansatz zur Verringerung der intestinalen Entzündung darstellt. Hierbei wurden zwei experimentelle Ansätze verfolgt: (i) Die Entwicklung von dextran sulfate sodium (DSS)-induzierter Kolitis wurde in lmp7−/− Mäusen untersucht, die eine Defizienz in der Immunoproteasom Untereinheit LMP7 aufweisen. (ii) Der Einsatz der Proteasominhibitoren MG132 oder Bortezomib wurde an DSS-behandelten Wildtyp-Mäusen getestet. In lmp7−/− Mäusen war die Kolitis im Vergleich zu Wildtyp-Mäusen, infolge verringerter NF-κB Aktivität, signifikant schwächer. Ebenso führte die Behandlung von DSS-induzierter Kolitis mit MG132 oder Bortezomib zu einer Verbesserung der Entzündung. Bei beiden Ansätzen konnte eine verringerte Produktion proinflammatorischer Zytokine und Chemokine festgestellt werden. Infolge dessen war die Infiltration des Kolons durch Neutrophile sowie die Expansion von Th1 und Th17 Zellen vermindert, wodurch die bei DSS-induzierter Kolitis auftretende Gewebeschädigung deutlich reduziert wurde. Zusammenfassend zeigt dies, dass eine Modulation der proteasomalen Aktivität im Rahmen der experimentellen Kolitis entzündungshemmend wirken kann. Hierbei erwiesen sich sowohl die partielle Inhibition durch Proteasominhibitoren, wie Bortezomib, als auch die zielgerichete Inaktivierung der Immunoproteasom-Untereinheit LMP7 als potentielle neue Therapieansätze für die Behandlung der CED.</dc:description>
+          <dc:date>2010-10-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2673</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28078</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28078</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2673/schmidt_nicole.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

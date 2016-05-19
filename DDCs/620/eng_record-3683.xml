@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3683">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3683</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modulare Kostenschätzung als Unterstützung der Anlagenplanung für die Angebots- und frühe Basic Engineering Phase</dc:title>
+          <dc:title xml:lang="eng">Modular cost estimation in support of system planning for bidding and early basic engineering phase</dc:title>
+          <dc:creator>Lühe, Christian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Durch steigende Komplexität von Projekten in der chemischen Industrie, wachsende Kosten und erhöhten Wettbewerbsdruck hat die Qualität der oft unter großem Zeitdruck erstellten Angebote einen wesentlichen Einfluss auf den wirtschaftlichen Erfolg der anbietenden und ausschreibenden Unternehmen. Aufgrund des starken Wettbewerbs können die Risiken bei Projektierung und Planung nicht mehr in großem Umfang im Angebotspreis in Form von Sicherheitszuschlägen berücksichtigt werden. Fehlkalkulationen können zu einem operativen Verlust führen, der schließlich das gesamte Unternehmen gefährden kann. Eine Verbesserung bei der Genauigkeit der Ergebnisse und eine Effizienzsteigerung der Arbeitsprozesse sind notwendig. Zielsetzung der Arbeit ist die Entwicklung eines Rahmenwerks, das speziell zur möglichst genauen Abschätzung des Kapitalbedarfes in frühen Projektphasen ausgelegt ist. Die geforderte Verbesserung des Planungsprozesses soll durch Reduzierung der notwendigen Bearbeitungszeit einerseits sowie durch eine deutliche Steigerung der Genauigkeit der erzeugten Kostenschätzung andererseits erreicht werden. Wesentliche Punkte der Arbeit sind: - Modularisierung, um die Projektlaufzeit zu reduzieren und die Genauigkeit der Kostenschätzung zu erhöhen, - Verwendung von Altdaten im Kontext des Anwenders zur Erhöhung der Schätzgenauigkeit gegenüber konventionellen Verfahren, sowie - Stochastische Betrachtung der Ergebnisse, um Chancen und Risiken eines Projektes besser abwägen zu können. Der Ansatz wird mit Hilfe einer an der TU Berlin gebauten Mini-Plant validiert und diskutiert. Durch die exemplarisch realisierte Integration der Kostenschätzung im Planungswerkzeug Comos® ist es nun möglich, ausgehend von der Simulation über das Basic- und Detail-Engineering bis hin zur Kostenschätzung alle nötigen Planungsschritte innerhalb eines Werkzeugs durchzuführen.</dc:description>
+          <dc:description xml:lang="eng">With increasing complexity of projects in the chemical industry, rising costs and increased competition, quality of offers have significant influence on the economic success of the offering and contracting companies. Due to strong competition, the risks associated with project development and planning can no longer considered to be hidden in the quoted price in the form of safety margins. Miscalculations can lead to a financial loss that can eventually threaten the entire enterprise. Improvements in accuracy of results and efficiency of work processes are necessary. The objective of this work is to develop a framework that is specifically designed for giving an accurate estimate of the capital requirements in early project phases. The required improvement of the planning process will be achieved by reducing the number of processing time on the one hand and by a significant increase in the accuracy of the generated cost estimates on the other. Key points of this work are: - Modularization to reduce the duration of the project and to increase the accuracy of cost estimates, - Use of old data in the user’s context to increase the estimation accuracy compared with conventional methods, and - Stochastic analysis of the results in order to evaluate opportunities and risks of a project. The approach is validated and discussed by means of a Mini Plant built at the Technical University of Berlin (TU Berlin). By exemplarily realized integration of cost estimation in the planning tool Comos® it is now possible to perform all the necessary steps in a single planning tool, starting from the simulation, performing the basic and detail engineering and including cost estimates.</dc:description>
+          <dc:date>2013-04-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3683</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39237</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39237</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3683/luehe_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

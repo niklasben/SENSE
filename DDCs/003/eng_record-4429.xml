@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4429">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4429</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Current Reporting Practices of ATLAS.ti User in Published Research Studies</dc:title>
+          <dc:creator>Paulus, Trena</dc:creator>
+          <dc:creator>Woods, Megan</dc:creator>
+          <dc:creator>Atkins, David</dc:creator>
+          <dc:creator>Macklin, Rob</dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">Scholars investigating Computer-Assisted Qualitative Data Analysis Software (CAQDAS) have noted that we know relatively little about how researchers use packages such as ATLAS.ti in their practice. We report findings of a content analysis of 321 empirical articles, published between 1994 and 2013, on the use of data analysis software. The purpose of this analysis was to characterize both who is reporting the use of CAQDAS tools, and how they are reporting that use in their publications. Studies were analysed for subject discipline and researcher country of origin, overall methodological approach, and use of the software in different phases of the research process. We found that researchers were predominantly from the health sciences (69%) and published in health sciences journals (66%). Forty-eight percent of corresponding authors were from the United States, with 43 countries represented. Interview and focus groups were the most common data sources used; most studies did not identify a particular methodology beyond â€œqualitativeâ€?. Few studies (13%) provided any details on their use of ATLAS.ti beyond mentioning that it was used, and 97.5% of the articles used it only for data analysis. We encourage researchers to provide more detail as to their use of ATLAS.ti and explore the potential for ATLAS.ti to support aspects of their study beyond data analysis. </dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4429</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44295</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44295</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4429/21_paulus_woods_atkins_macklin_4429.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

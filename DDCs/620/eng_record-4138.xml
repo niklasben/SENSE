@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4138">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4138</identifier>
+        <datestamp>2014-01-17</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hybride Verfahren zur Berechnung der tonalen Schallerzeugung von Turbomaschinen</dc:title>
+          <dc:title xml:lang="eng">Hybrid methods for the prediction of the tonal noise emission of turbo engines</dc:title>
+          <dc:creator>Weckmüller, Christian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die effiziente Berechnung der Schallemission moderner Flugzeugtriebwerke unter realistischen Betriebsbedingungen ist erst durch die Kopplung verschiedener numerischer Verfahren möglich. Die physikalisch/mathematisch korrekte, algorithmisch effiziente und für den Anwender bequeme Umsetzung der Kopplung der verschiedenen Berechnungsmethoden ist letztendlich maßgebend für deren Einsatz im industriellen Auslegungsprozess eines Flugtriebwerks.  In dieser Arbeit werden unterschiedliche Ansätze zur Kopplung der verschiedenen Berechnungsverfahren dargestellt, gegen experimentelle Ergebnisse validiert und es werden Empfehlungen zu deren Anwendung gegeben. Gegenstand des anwendungsorientierten Teils der Untersuchung sind zwei skalierte Turbofantestaufbauten und ein generischer offener gegenläufiger Rotor. Die konkrete Kopplungsstrategie orientiert sich an den strömungsmechanischen Eigenheiten der verschiedenen Anwendungsfälle. In dieser Arbeit werden drei Ansätze zur Kopplung untersucht: Die direkte Interpolation der Schwankungsgrößen aus dem CFD- in das CAA-Gebiet für die zuströmseitige Schallausbreitung beim Turbofan. Die Rekonstruktion der akustischen Schwankungen im CAA-Gebiet anhand der Ergebnisse der CFD-Simulation unter Verwendung eines analytischen Modells für die abströmseitige Schallausbreitung beim Turbofan.  Die Projektion der Schwankungsgrößen aus dem CFD-Gebiet zu beliebigen Beobachterpositionen durch Anwendung eines FW-H-Ansatzes für den Fall eines offenen gegenläufigen Rotors.  Es wird gezeigt, dass bei Berücksichtigung der Eigenheiten der verschiedenen Verfahren und dementsprechend sorgfältiger Auslegung der Rechengitter die absoluten Schallpegel mit einer Genauigkeit von 1 - 2~dB wiedergegeben werden können. Die benötigten Ressourcen, in erster Linie Bearbeitungszeit und Rechenzeit auf einem Computercluster, sind gegenüber dem Ressourcenverbrauch eines experimentellen Vorgehens erheblich reduziert.  Die vorgestellten Ansätze zur Kopplung der verschiedenen numerischen Verfahren  wurden in dem Programmpaket Connect3D umgesetzt. Dieses ist in der Programmiersprache C++ implementiert, wobei ein stark modularer Ansatz verfolgt wird. Auf diese Weise ist es möglich die Ansprüche an Robustheit, Wartbarkeit und Erweiterbarkeit, welche eine praxisnahe Anwendung mit sich bringt, langfristig zu erfüllen.&#13;
+&#13;
+&#13;
+</dc:description>
+          <dc:description xml:lang="eng">The efficient prediction of the noise emission of modern aircraft engines is enabled only by the coupling of different numerical approaches. For a hybrid method to be useful in the industrial design process it is important, that first the implementation is valid from a physical and mathematical point of view, second it is efficient from a algorithmic point of view and last but not least it's application should be comfortable for the user.  &#13;
+The scope of this thesis is to describe approaches to couple the different numerical tools. The final hybrid process chain is validated against experimental data and some advise will be given for the correct application of the hybrid method. The focus of the application oriented part of the thesis are two scaled turbo fan test rigs and one generic contra rotating open rotor. The particular approach to couple the different numerical tools is oriented at the flow features of the specific application. Three different coupling approaches are given in further detail: First, to compute the sound field upstream of a ducted turbo fan the perturbation variables are interpolated from the CFD-domain to the CAA-domain. Second, to compute the sound field downstream of a ducted turbo fan the acoustic perturbation variables will be reconstructed in the CAA-domain based on an analytical model which is calibrated with the source information from the CFD-domain. Third, to compute the far field pressure of a contra rotating open rotor a dedicated FW-H approach is used.  It benefits from the tonal and axisymmetric nature of the problem. It is shown that the measured sound pressure levels can be reproduced with an accuracy of 1 - 2 dB if the characteristic features of each method are considered  and a careful design of each computational mesh is done. &#13;
+The different coupling approaches are implemented in the program package Connect3D, which is implemented in C++ with extensive use of methods from the field of modern software engineering. Thus it is possible to cope with the different demands that come along with an application oriented software development on a long term perspective. These are robustness, maintainability and extensibility of the different applications.&#13;
+&#13;
+&#13;
+&#13;
+</dc:description>
+          <dc:date>2013-09-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4138</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41387</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41387</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4138/weckmueller_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

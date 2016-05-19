@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:540">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:540</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Natur- und Wirkstoffsynthese : (+)-Astrophylline durch Ringumlagerungsmetathese. Potentielle makrocyclische Metalloproteaseinhibitoren durch RCM</dc:title>
+          <dc:creator>Schaudt, Marco</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Im ersten Teil der vorliegenden Arbeit wird die Synthese einer Reihe von makrocyclischen Dicarbonsäuren beschrieben, die eine Bernsteinsäureeinheit und einen derivatisierten Aminosäurebaustein enthalten. Als Schlüsselschritt zum Aufbau der 11- bis 15-gliedrigen Struktureinheiten wurde die Ringschlussmetathese eingesetzt. Die cyclischen Dicarbonsäuren repräsentieren eine Familie von neuen, potentiellen Zink-Metalloproteaseinhibitoren mit einer konformativ eingeschränkten Leitstruktur. Die Metathesevorläufer konnten durch Amidkupplung von 2-Allylbernsteinsäure-4-tert-butylester mit in der Seitenkette alkenylierten Aminosäureestern dargestellt werden. Die entsprechenden Aminosäurederivate wurden ausgehend von teilweise geschützten Derivaten von L-Tyrosin, L-Cystin, L-Lysin und L-Ornitin als Beispiele unterschiedlicher Polaritäten durch konventionelle Transformationen synthetisiert. Im zweiten Teil wird die erste Totalsynthese des Bipiperidin-Alkaloids (+)-Astrophylline präsentiert, welches aufgrund seiner ungewöhnlichen, nicht-C2-symmetrischen Molekülarchitektur von Interesse ist. Als Schlüsselreaktion zum stereoselektiven Aufbau des Bipiperidin-Skeletts wurde eine rutheniumkatalysierte Tandem-Ringumlagerungsmetathese verwendet. Der Metathesevorläufer, ein 1,2-trans disubstituiertes Cyclopentenderivat, konnte stereokontrolliert durch eine sigmatrope [2,3]-Wittig-Still Umlagerung dargestellt werden. Einen weiteren Zugang zu derartigen Cyclopentenderivaten konnte mittels einer zinkvermittelten SN2´-Reaktion von Cyanocupraten eröffnet werden. Die Anwendung von Allylpalladium-Substitutionen lieferte die frühen Intermediate der Totalsynthese. Aufgezeigt werden die Studien zum Aufbau des Metathesevorläufers, der Einsatz einer erfolgreichen, orthogonalen Schutzgruppenstrategie, eine Totalsynthese von 16 Stufen, sowie deren Optimierung auf 13 Stufen mit einer Gesamtausbeute von 12 %. Die biologischen Eigenschaften von Astrophylline gilt es abzuwarten.</dc:description>
+          <dc:date>2003-05-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/540</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5359</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5359</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/540/schaudt_marco.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

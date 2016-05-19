@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4423">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4423</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Learning through teaching: ATLAS.ti and Social Media</dc:title>
+          <dc:creator>Potgieter, Andrea </dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">Social Media is no longer a foreign concept in the current business environment. Companies, for the most part, understand the value that an effective Social Media strategy can add. Firstly, this paper reports on the possible use of ATLAS.ti in analysing user interaction on Social Media platforms, in order to generate feedback that may assist companies in developing and maintaining a customer-focused Social Media strategy. Furthermore, this paper will discuss the researcher's decision to apply ATLAS.ti for this specific purpose, as well as the challenges and victories that were faced in introducing a post-graduate student to this tool.</dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4423</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44230</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44230</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4423/18_potgieter_4423.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

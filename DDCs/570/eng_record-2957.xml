@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2957">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2957</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Human IgG+ Plasma Cells in Patients with Systemic Lupus Erythematosus</dc:title>
+          <dc:title xml:lang="deu">Humane IgG+ Plasmazellen in Patienten mit Systemischem Lupus Erythematodes</dc:title>
+          <dc:creator>Kofer, Juliane</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="eng">Systemic Lupus Erythematosus (SLE) is a chronic inflammatory autoimmune disease that is associated with a major breakdown in B cell self-tolerance as reflected by elevated serum immunoglobulin G (IgG) levels of predominantly anti-nuclear antibodies (ANAs). Serum antibody titers are maintained by short-lived antibody-secreting plasmablasts and long-lived plasma cells, the latter residing in survival niches of the bone marrow. Experimental evidence from mouse models suggests that treatment-resistant bone marrow plasma cells are the major contributor to serum IgG autoantibodies in SLE. However, the frequency of self-reactive and potentially pathogenic antibodies in the bone marrow plasma cell compartment of SLE patients has not been determined. The aim of this study was to characterize the human bone marrow IgG+ plasma cell compartment in SLE patients. The Ig genes of 196 bone marrow plasma cells from five SLE patients were cloned and expressed in vitro by using a single cell approach that facilitates the unbiased analysis of human plasma cells both on the Ig molecular level and antibody reactivity level. Antibody reactivity testing demonstrated significantly increased frequencies of poly- and self-reactive bone marrow plasma cells in SLE patients with an active disease. In summary, the data provide direct evidence that the bone marrow harbors high frequencies of self-reactive IgG+ plasma cells that may directly contribute to disease pathogenesis in SLE. Thus, self-reactive IgG+ bone marrow plasma cells in SLE patients may represent an important therapeutic target in SLE.</dc:description>
+          <dc:description xml:lang="deu">Der systemische Lupus erythematodes (SLE) ist eine chronisch entzündliche Autoimmunerkrankung, die durch eine Fehlfunktion der körpereigenen Abwehr verursacht wird. Plasmazellen und Plasmablasten produzieren unter normalen Bedingungen protektive Antikörper, welche einen wesentlichen Bestandteil der Immunantwort auf fremde Erreger darstellen. Charakteristisch für SLE ist die Bildung hochaffiner IgG Antikörper, welche gegen DNA und weitere Bestandteile des Zellkerns im eigenen Organismus gerichtet sind. Diese Autoantikörper werden von kurzlebigen Plasmablasten und langlebigen Plasmazellen sezerniert und führen in Körperorganen wie der Niere zu chronischen Entzündungen. Langlebige Plasmazellen leisten den größten Anteil an IgG Antikörpern im Serum, überleben in Nischen des Knochenmarks für Jahre und sind im Gegensatz zu kurzlebigen Plasmablasten weitgehend therapieresistent. Die Häufigkeit von autoreaktiven und damit möglicherweise pathogenen Antikörpern in der langlebigen Plasmazellpopulation des Knochenmarks wurde in SLE Patienten jedoch bisher nicht analysiert. Das Ziel dieser Arbeit war daher die Charakterisierung der IgG+ Plasmazellpopulation des Knochenmarks in SLE Patienten. Um die Häufigkeit autoreaktiver Plasmazellen im Knochenmark von SLE Patienten bestimmen zu können, wurde eine Methode verwendet, die es erlaubt einzelne Zellen zu isolieren und ihre jeweiligen IgH und IgL Gene zu klonieren. Mit dieser Information konnten dann Antikörper rekombinant in vitro hergestellt werden, welche die gleiche Antigenspezifität aufweisen, wie sie in der ursprünglichen Plasmazelle produziert wurde. Auf diese Weise wurden die Immunglobulingene von 196 Plasmazellen aus Knochenmarkproben von fünf verschiedenen SLE Patienten kloniert und in vitro exprimiert. Die Untersuchung der monoklonalen Antikörper zeigte, dass die Anzahl an autoreaktiven Plasmazellen in SLE Patienten mit aktiver Krankheit signifikant erhöht ist und krankheitsassoziierte antinukleäre Antikörper (ANAs) durch somatische Mutation entstanden sind. Zusammenfassend kann die vorliegende Arbeit zeigen, dass Plasmazellen aus dem Knochenmark von SLE Patienten antinukleäre Antikörper sezernieren und damit direkt zum Krankheitsverlauf beitragen können. Die erhöhte Frequenz von autoreaktiven Plasmazellen im Knochenmark von SLE Patienten unterstreicht zudem die Rolle von langlebigen Plasmazellen als therapeutisches Ziel.</dc:description>
+          <dc:date>2011-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2957</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31655</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31655</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2957/kofer_juliane.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

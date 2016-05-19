@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4430">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4430</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Learning from the Learners: the role of technology acceptance and adoption theories in understanding researchers’ early experiences with CAQDAS packages</dc:title>
+          <dc:creator>Silver, Christina </dc:creator>
+          <dc:creator>Rivers, Christine </dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">This paper presents findings of a qualitative longitudinal study tracking the use of different CAQDAS tools over the period of 12 months. This is the first project of its kind that follows researchers from learning a CAQDAS software to applying skills and using it in a research project. Findings illustrate that initial enthusiasm with the potential of software is often tempered by frustrations with its actual use. Users frequently attribute frustrations and cessation of use to lack of software functionality. However, successful adoption of CAQDAS technology is related to methodological awareness, adeptness in the techniques of analysis and technological understanding. Theories of technology acceptance and adoption have been used to contextualise findings and to develop a CAQDAS-specific model that helps teaching CAQDAS software. </dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4430</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44300</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44300</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4430/17_silver_rivers_4430.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

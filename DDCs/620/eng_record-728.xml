@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:728">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:728</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zum Downsizing von Fahrzeug-Ottomotoren</dc:title>
+          <dc:title xml:lang="eng">Contribution to Downsizing of SI engines</dc:title>
+          <dc:creator>Rüden, Klaus von</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Trend zu immer leistungsstärkeren Motoren verlangt nach Motorkonzepten mit deutlichem Kraftstoffeinsparpotential zur Schonung der Ressourcen und zur Reduzierung der Schadstoffemissionen. In dieser Arbeit wird gezeigt, welches diesbezügliche Potential das Downsizing von Ottomotoren birgt. Für ein Gesamtsystem eines mit einem neuentwickelten Hybrid-Schraubenlader (SCREW-Lader) mechanisch aufgeladenen Motors (SCREW-Motor) wird unter Verwendung der Motorprozesssimulation gezeigt, welches Verfahren zur Motorlaststeuerung am besten geeignet ist, betriebspunktabhängig den höchstmöglichen Wirkungsgrad zu erzielen. Zu diesem Zweck wurde ein an der Forschungsstelle entwickeltes Rechenprogramm zur Motorprozesssimulation an die speziellen Belange der untersuchten Aufladeverfahren und der ottomotorischen Besonderheiten angepasst. Die Verifikation des Rechenprogramms wurde durch Rechnungs-Messungs-Vergleiche zu einem aufgeladenen 1,8 l Vierzylinder-Ottomotor durchgeführt. Der Vergleich zeigt eine gute Übereinstimmung. Die Simulation des so genannten SCREW-Motors hat gezeigt, dass das Laststeuerverfahren mit ladereinlassseitigem Steuerschieber das Potential besitzt, im Teillastbereich ähnlich günstige Kraftstoffverbrauchswerte wie der ATL-Motor zu erzielen, bei besserem Beschleunigungsverhalten, als es der ATL-Motor aufweist. Das dargestellte Laststeuerkonzept für mechanisch aufgeladene Ottomotoren, auf der Basis einer einlassschiebergesteuerten Schraubenmaschine, die nach dem SCREW-Prinzip arbeitet, konnte hinsichtlich seiner grundsätzlichen Sinnhaftigkeit und Machbarkeit auch am dynamischen Motorprüfstand verifiziert werden. Weiterführende Parameterstudien zum Downsizing haben gezeigt, dass die extreme Hubraumverkleinerung bei gleichzeitiger Aufladung, sowohl durch Abgasturboaufladung als auch durch Mechanische Aufladung, ein richtungsweisendes Motorkonzept darstellt, den Wirkungsgrad bei gleicher Motornennleistung deutlich zu steigern. Der abgasturboaufgeladene Downsizing-Motor konnte gegenüber dem Referenzmotor (leistungsgleicher Saugmotor) im stationärem Betrieb bis zu 31 % Kraftstoff einsparen, im dynamischem Betrieb wurde ein Verbrauchsvorteil von 15,5 % erzielt. Der mechanisch aufgeladene Motor zeigte gegenüber dem leistungsgleichen Saugmotor im dynamischen Betrieb einen Kraftstoffverbrauchsvorteil von 11,8%. Weiterhin wird gezeigt, dass mit einem im Betrieb verstellbaren Verdichtungsverhältnis die ohnehin schon günstigen Kraftstoffverbrauchswerte des aufgeladenen Motors im Teillastbereich noch weiter verbessert werden können. Dabei kann im unteren und untersten Teillastbereich höchstmögliche Verdichtung gefahren werden, ohne dass klopfende Verbrennung auftritt. Insgesamt konnte durch das Downsizing und die variable Verdichtung für den betrachteten Modellmotor der Kraftstoffverbrauch gegenüber dem Referenzmotor im dynamischen Betrieb um bis zu 26.5% reduziert werden.</dc:description>
+          <dc:date>2005-01-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/728</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7224</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7224</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/728/rueden_klaus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

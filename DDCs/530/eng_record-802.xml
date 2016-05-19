@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:802">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:802</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hochgeschwindigkeits-Transmissionselektronenmikroskopie zur zeitaufgelösten Untersuchung der Laserablation dünner Metallfolien : extreme Spannungen, hydrodynamische Instabilitäten, Phasenexplosion und hochionisierte, transiente Plasmen nach Einwirkung eines kurzen bzw. ultrlurzen Laserpulses</dc:title>
+          <dc:title xml:lang="eng">High-speed transmission electron microscopy for time-resolved investigations of the laser ablation of thin metal films</dc:title>
+          <dc:creator>Dömer, Holger</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die Pulslaserablation von 20-60nm dünnen, freitragenden Metallfolien wird mit einem verbesserten Hochgeschwindigkeits-Transmissionselektronenmikroskop unter Verwendung der Bildserienabbildung und Einzelschuß-Feinbereichsbeugung untersucht. Die experimentell ermittelte, voneinander nicht-unabhängige Orts-/Zeitauflösung beträgt ungefähr 200nm/10ns. Der ingenieurwissenschaftliche Teil dieser Arbeit beinhaltet (a) Entwicklung und Herstellung einer optimierten, robusten Fotoemissionskathode, die sowohl im laserpulsgetriebenen Fotoemissionsmodus hinreichend intensiv emittiert, als auch im konventionellen, thermionischen Betrieb verwendet werden kann, (b) Erweiterung der Bildserienbelichtung und -abbildung auf drei Teilbilder mit einem minimalen Belichtungsabstand von 20ns bei etwa 10ns Belichtungsdauer, zuzüglich je einer Aufnahme der Start- und Endstruktur, (c) Entwicklung und Konstruktion eines Bauteils zur In-situ-Ausmessung des probenbearbeitenden Laserfleckdurchmessers, (d) Konstruktion einer speziellen Kontrastblende zur Implementierung des elektronenoptischen Dunkelfeldkontrasts und (e) Entwicklung und Aufbau eines lichtoptischen Strahlengangs und einer elektronischen Versuchssteuerung zur Probenbearbeitung mit einem Femtosekundenlaserpuls und Echtzeit-Untersuchung im Hochgeschwindigkeitselektronenmikroskop. Im physikalischen Teil werden mit dem so modifizierten Hochgeschwindigkeits-Transmissionselektronenmikroskop extrem schnelle Prozesse untersucht, die entweder mit einem einzelnen Nanosekunden- oder einem Femtosekundenlaserpuls in den Probenfolien angeregt werden. Die folgenden Effekte wurden gefunden. Sie gliedern sich in die Bereiche: (a) Extreme Belastungen aufgrund hoher, kurzlebiger Spitzendrücke und Beschleunigungen, die durch eine Festphasenumwandlung beispielsweise in Chromfolien erzeugt werden, (b) erleichterte Verdampfung an der Phasengrenze zwischen Schmelze und Kristall, sowie nicht-radiales Abgleiten der Kristalldomänen durch den extremen Radialdruck nach der Femtosekundenlaserpulseinwirkung, (c) verzögertes Erscheinen bzw. Ausbilden einer Nahordnung nach dem Schmelzen, (d) außergewöhnliche, durch Instabilitäten bedingte hydrodynamische Effekte in der Schmelze und (e) kurzzeitig erhöhte Kleinwinkelelektronenstreuung aufgrund eines hochionisierten, transienten, laserinduzierten Plasmas während der Phasenexplosion.</dc:description>
+          <dc:description xml:lang="eng">The laser pulse-induced ablation of 20-60nm thin, free-standing metal films is investigated with an improved high-speed transmission electron microscope using the multi-frame imaging and the pulse-probe microdiffraction modes. The experimentally determined joint space/time resolution is approximately 200nm/10ns. The technical/scientific part of this work comprises (a) development and production of an optimized, rugged photoelectron emission cathode, which emits a sufficiently high electron current both in the laser pulse-driven photoemission mode and by the conventional, thermionic operation, (b) extension of the pulse-train illumination and imaging to three frames with a minimum time delay of 20ns between frames at short-exposure times of about 10ns, plus one image each of the native and the final structure as well, (c) development and construction of a diagnostic probe for in-situ measurements of the specimen-treating laser spot diameter, (d) introduction of a special objective lens aperture for the electron-optical dark-field contrast mode, and (e) development and construction both of a light-optical beam guiding and an electronic trigger control for treating the specimen by a single femtosecond laser pulse and investigation with the high-speed electron microscope in real time. In the physical-scientific part extremely fast processes, induced either by a single nanosecond or a femtosecond laser pulse in the specimen films, are investigated by the modified high-speed transmission electron microscope. The succeeding effects were discovered. They are classified as follows: (a) Extreme strains and stresses due to high, transient pressure peaks and accelerations, which are produced by a solid-solid phase transition (occuring for example in chromium), (b) facilitated evaporation at the phase boundary between melt and crystal, as well as non-radial gliding of the crystal domains by the extreme radial pressure after the influence of the femtosecond laser pulse, (c) retarded short-range ordering after melting, (d) unusual, hydrodynamic effects driven by instabilities in the melt, and (e) transiently increased small-angle electron scattering due to a highly ionized, short-lived, laser-induced plasma during the phase explosion.</dc:description>
+          <dc:date>2004-07-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/802</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7966</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7966</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/802/doemer_holger.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3748">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3748</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">AC-Driven Quantum Phase Transitions : Nonequilibrium aspects of criticality</dc:title>
+          <dc:title xml:lang="deu">AC-getriebene Quantenphasenübergänge: Nichtgleichgewichtsaspekte des kritischen Verhaltens</dc:title>
+          <dc:creator>Bastidas Valencia, Victor Manuel</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The development of novel experimental techniques to externally control manybody systems has been extensively increased in the last years. A manybody phenomenon of fundamental interest is a quantum phase transition (QPT). The typical description of nonequilibrium QPTs is based on the fact, that the external control renormalizes the parameters of the system, in such a way the critical points are shifted from the equilibrium values. From this point of view, the non-stationary dynamics of the system still resembles the equilibrium behavior. This thesis focuses on the theoretical description of quantum criticality under the effect of monochromatic driving. Our approach reveals an allowance of a unique possibility to explore novel states of matter and effective interactions which are absent in equilibrium systems by means of driving. We explore aspects of nonequilibrium criticality in models in (d+1)-dimensions, which exhibit second-order QPTs in the absence of driving. In this work d stands for the spatial dimension and 1 corresponds to the temporal dimension. First, we investigate two models in spatial dimension d=0: the Dicke model and the Lipkin-Meshkov-Glick model. In equilibrium, a mean-field description of the energy landscape of these models shows a transition from a monostable to a bistable configuration at the critical point. Intriguingly, our analysis reveals the existence of a complex multistable structure of the quasienergy landscape for the driven models. For example, while the undriven Dicke model only undergoes a second-order QPT, the driven model exhibits a new non-equilibrium first-order QPT. In d=1, we investigate the quantum Ising model in a transverse field. In addition to the appearance of a Ising-like transition occurring at a shifted critical point, the external field induces infinite anisotropic transitions between two different ferromagnetically ordered phases. Finally, in d=2, we investigate the Wen-plaquette model. In the driven case besides the spin polarized trivial phase and the conventional topologically ordered phase, the system reveals the existence of a new topological phase. To describe the topological quantum phase transition (TQPT), we introduce generalized "string-like" cycle-averaged order parameters.</dc:description>
+          <dc:description xml:lang="deu">In den letzten Jahren zeigte die Entwicklung von experimentellen Methoden, um Vielteilchenquantensysteme zu kontrollieren, beträchtliche Fortschritte. Eines der interessantesten Vielteilchenquantenphänomene sind Quantenphasenübergänge. Die typische Beschreibung von Nichtgleichgewichtsquantenphasenübergängen basiert auf der Tatsache, dass die Parameter des Systems durch die externe Kontrolle renormalisiert werden, sodass sich die kritischen Punkte vom Gleichgewichtspunkt verschieben. Aus dieser Sicht ähnelt die nicht-stationäre Dynamik des Systems dem Verhalten im Gleichgewicht. Die theoretische Betrachtung des kritischen Verhaltens unter Nichtgleichgewichtsbedingungen steht im Fokus dieser Arbeit. Überraschenderweise werden in einem monochromatisch getriebenen System neue Zustände der Materie und effektive Wechselwirkungen erzeugt, die im Gleichtgewicht abwesend sind. Im Allgemeinen wird das kritische Verhalten von (d+1)-dimensionalen Quantensystemen untersucht, die im Gleichtgewicht einen Quantenphasenübergang zweiter Ordnung zeigen. In Rahmen dieser Arbeit wird d für die räumliche Dimension und 1 für die zeitliche Dimension stehen. Als erstes beschäftigen wir uns mit zwei nulldimensionalen Modellen: dem Dicke-Modell und dem Lipkin-Meshkov-Glick-Modell. Im Gleichgewicht zeigt eine Mean-Field-Betrachtung der Energielandschaften, dass die Systeme am kritischen Punkt einen Übergang vom "mono-stabilen" zum bistabilen Bereich aufweisen. Interessanterweise zeigt unsere Untersuchung eine komplexe, multi-stabile Struktur von Quasienergielandschaften für den getriebenen Fall. Zum Beispiel während das Dicke-Modell im ungetriebenen Fall nur einen Phasenübergang zweiter Ordnung zeigt, zeigt das getriebene Modell zusätzlich einen neuen Nichtgleichgewichtsquantenphasenübergang erster Ordnung. Für den Fall d=1 untersuchen wir das Quanten-Ising-Modell in einem zeitperiodischen, transversalen Feld. Neben dem Ising-typischen Phasenübergang an einem verschobenen kritischen Punkt, induziert das äußere Feld unendlich viele anisotropische Übergänge zwischen unterschiedlichen ferromagnetisch geordneten Phasen. Schlussendlich, für d=2, betrachten wir das Wen-Plaquetten-Model. Wir werden sehen, dass im getriebenen Fall - neben der trivialen Spin-polarisierten Phase und der gewöhnlichen topologisch geordneten Phase - das System neuartige topologische Phasen zeigt. Um diese topologischen Quantenphasenübergänge zu beschreiben, führen wir verallgemeinerte "String-ähnliche", über eine Periode gemittelte Ordnungsparameter ein.</dc:description>
+          <dc:date>2013-06-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3748</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40322</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40322</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3748/bastidas_victor.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

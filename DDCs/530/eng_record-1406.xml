@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1406">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1406</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Confocal Microscopy and Quantitative Single Molecule Techniques for Metrology in Molecular Medicine</dc:title>
+          <dc:title xml:lang="deu">Konfokale Mikroskopie und quantitative Einzelmolekülverfahren für die Metrologie in der molekularen Medizin</dc:title>
+          <dc:creator>Rüttinger, Steffen</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">In the last decade, scientists from medicine, biology, chemistry, and physics have achieved great progress in exploring the structure of complex molecules, in particular of biomolecules. Beside structure, however, it is more and more evident that understanding of the dynamics of biomolecules is important to comprehend their function. Without analysis of the physical mechanisms of biomolecular dynamics it seems to be impossible to achieve progress in the understanding of the functioning of biological macromolecules. Within the frame of this work two experimental techniques have been investigated for their purposes to study biomolecular dynamics quantitatively on the level of single molecules: Fluorescence Correlation Spectroscopy (FCS) was investigated as a tool to study fluctuations in the local concentration of molecules and their dynamic properties like diffusion. Förster Resonance Energy Transfer (FRET) was investigated as a technique to determine distances between two molecules in close proximity (1 nm to 10 nm) under native conditions as well as dynamic changes in the conformation of biomolecules. It is worth to note that the application of both methods on single molecules is important since ensemble measurements would barely help to gain the desired insight in the molecular dynamics and function due to the huge heterogeneity inherent to biological systems. The scope of this work was to evaluate the accuracy and the limits of quantitative FCS and FRET on the single molecule level. The experimental requirements will be given and hidden pitfalls are discussed. The needs for careful calibration and its realisation are shown. In particular, methods to obtain the detection volume of a confocal microscope and the experimental conditions influencing its shape are discussed, as knowledge of the so-called confocal volume is a prerequisite for quantitative FCS analysis. Secondly, a novel approach for FRET distance measurements is presented which accounts for incomplete labeled samples and experimental conditions, thereby increasing the accuracy of FRET distance measurements.</dc:description>
+          <dc:description xml:lang="deu">Mediziner, Biologen, Chemiker und Physiker haben in den vergangen 10 Jahren große Fortschritte bei der Erforschung der Struktur komplexer Biomoleküle vollbracht. Zum Verständnis der Funktion biologischer Makromoleküle, erweisen sich neben der Struktur die dynamischen Eigenschaften als immer wichtiger. Es erscheint unmöglich, hierbei Fortschritte im Verständnis zu erlangen, ohne die Physik biomolekularer dynamischer Prozesse zu analysieren. Im Rahmen dieser Arbeit wurden zwei experimentelle Techniken, hinsichtlich Ihrer Eignung biomolekulare Dynamiken auf Einzelmolekülniveau zu erforschen, untersucht: Fluoreszenz Korrelations Spektroskopie (FCS), eine Methode zur Untersuchung lokaler Fluktuationen von Molekülen und Ihrer dynamischen Eigenschaften wie z.B. Diffusion. Förster Resonanz Energie Transfer (FRET), eine Technik zur Bestimmung intra- oder intermolekularer Abstände im Bereich von 1 nm bis 10 nm unter nativen Bedingungen. Weiterhin ist es mit FRET möglich, Konformationsänderungen von Biomolekülen zu verfolgen. Es ist wichtig, beide genannten Methoden auf einzelne Moleküle anzuwenden, da Ensemblemessungen kaum dazu beitragen können, den gewünschten Einblick in die molekularen Dynamiken und Funktionen stark heterogener, biologischer Systeme zu erlangen. Ziel der vorliegenden Arbeit ist die Evaluierung der Genauigkeit und der Grenzen quantitativer FCS und FRET Messungen auf Einzelmolekülniveau. Die experimentellen Vorraussetzungen und Notwendigkeiten hierfür werden beschrieben und dabei auftretende Schwierigkeiten aufgezeigt. Die Notwendigkeit und Umsetzung genauer Kalibrationsmessungen wird verdeutlicht, im Besonderen werden Methoden, zur Bestimmung des konfokalen Volumens eines konfokalen Mikroskops sowie die experimentellen Bedingungen, die dessen Form beeinflussen, diskutiert. Weiterhin wird ein neuer Ansatz für FRET Abstandsmessungen vorgestellt, welcher erlaubt, unvollständig markierte Proben zu erkennen und bei der Auswertung entsprechend zu berücksichtigen. Weiterhin ist mit dem neuen Ansatz eine genauere Berücksichtigung experimenteller Bedingungen möglich. Beides verbessert die Genauigkeit von FRET Abstandsmessungen deutlich.</dc:description>
+          <dc:date>2007-01-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1406</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14341</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14341</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1406/ruettinger_steffen.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

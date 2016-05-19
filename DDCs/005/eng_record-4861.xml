@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4861">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4861</identifier>
+        <datestamp>2014-04-09</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A case-study approach to quantifying indirect land-use change due to expanding biofuels feedstock cultivation</dc:title>
+          <dc:title xml:lang="deu">Ein fallstudienbasierter Ansatz zur Quantifizierung von indirekten Landnutzungsänderungen als Folge der Ausweitung des Biokraftstoffanbaus</dc:title>
+          <dc:creator>Dunkelberg, Elisa</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">Quantification of indirect land-use change (ILUC) remains a controversial process, and our understanding of it is not yet complete. This dissertation contributes to ILUC quantification and mitigation efforts by presenting a new deterministic case-study approach and applying it to ethanol production in specific regions of Malawi, Brazil and Germany. In contrast to existing models the new approach starts with biofuel feedstock expansion. It furthermore allows for consideration of regionally specific conditions and the implementation of compensation measures. &#13;
+The best estimates for ILUCGHG_net, the net ILUC factor that considers both greenhouse gas (GHG) emissions from the final LUC and from the implementation of compensation measures, are –11 g CO2eq MJ-1 of additional sugarcane ethanol produced in Malawi, 24 g CO2eq MJ-1 of additional sugarcane ethanol produced in Brazil and 50 g CO2eq MJ-1 of additional wheat ethanol produced in Germany. Several regional factors, e.g. the LUC CO2 emission factor, as well as methodological decisions, e.g. the allocation approach, were found to have a significant impact on ILUCGHG_net. However, the ranges for ILUCGHG_net are broad and strongly overlap when considering input parameter uncertainty (–200 to 74 g CO2eq MJ-1 of sugarcane ethanol produced in Malawi, 1 to 144 g CO2eq MJ 1 of sugarcane ethanol produced in Brazil, and 1 to 200 g CO2eq MJ-1 of wheat ethanol produced in Germany). Thus, although the case studies do show that regional conditions influence ILUCGHG_net, this does not necessarily mean that a significant variation between the regional ILUC factors can be found when uncertainty is considered. In cases where compensation measures are being implemented, however, the ILUC case-study approach may detect significant differences between regionally specific values for ILUCGHG_net.&#13;
+Compensation measures such as the implementation of irrigation systems, increased cattle stocking rates or reduced meat consumption were shown to be regionally specific and to lead to net GHG emissions savings (although some are accompanied by additional fertilizer applications); in fact, a negative value for ILUCGHG_net is even possible, indicating the occurrence of overcompensation. The ILUC of one agricultural activity is always direct land use change (DLUC) of another. Therefore, LUC CO2 emissions were allocated to the expanding biofuel feedstock and to the agricultural activity directly leading to the LUC; this appears to be an appropriate way of avoiding double counting and at the same time setting incentives to avoid DLUC. Allocation reduces the ILUC factor of additional sugarcane ethanol produced in Brazil by up to 10% as compared to debiting all emissions on the expanding sugarcane. &#13;
+More research is particularly required on further compensation measures and on the allocation of LUC-induced CO2 emissions between direct and indirect drivers. </dc:description>
+          <dc:description xml:lang="deu">Die Quantifizierung indirekter Landnutzungsänderungen (ILUC) wirft methodische Fragen auf, die trotz intensiver Forschungstätigkeiten nicht abschließend beantwortet sind. Die Dissertation trägt zur Weiterentwicklung der ILUC-Quantifizierung und -Vermeidung bei, indem sie einen neuen deterministischen Fallstudienansatz vorstellt und diesen auf drei Fallstudien zur Ethanolproduktion in Regionen in Malawi, Brasilien und Deutschland anwendet. Im Gegensatz zu bestehenden Methoden handelt es sich um einen Ansatz, der mit der Flächenexpansion von Rohstoffen für die Biokraftstoffproduktion beginnt. Er erlaubt es außerdem, die Implementierung von Kompensationsmaßnahmen zu berücksichtigen. &#13;
+Der netto ILUC-Faktor (ILUCGHG_net) beinhaltet Treibhausgas-(THG)-Emissionen aus der finalen Landnutzungsänderung (LUC) und aus der Implementierung von Kompensationsmaßnahmen. Die besten Schätzwerte betragen –11 g CO2eq MJ-1 zusätzliches Zuckerrohrethanol aus Malawi, 24 g CO2eq MJ-1 zus. Zuckerrohrethanol aus Brasilien und 50 g CO2eq MJ-1 zus. Getreideethanol aus Deutschland. Regionale Faktoren und methodische Entscheidungen beeinflussen ILUCGHG_net signifikant. Allerdings überlappen die Spannweiten der Ergebnisse deutlich, wenn die Unsicherheit bezüglich der Inputparameter berücksichtigt wird (–200 bis 74 g CO2eq MJ-1 Zuckerrohrethanol aus Malawi, 1 bis 144 g CO2eq MJ 1 Zuckerrohrethanol aus Brasilien, 1 bis 200 g CO2eq MJ-1 Getreideethanol aus Deutschland). Obwohl die Fallstudien also zeigen, dass regionale Faktoren ILUCGHG_net beeinflussen, können signifikante Unterschiede zwischen regionalen ILUC-Faktoren bei Berücksichtigung der Unsicherheit nicht unbedingt festgestellt werden. Nur in Fällen, in denen Kompensationsmaßnahmen umgesetzt werden, kann der neue Ansatz signifikante Unterschiede aufdecken. &#13;
+Konkrete Maßnahmen wie die Implementierung von Bewässerungssystemen, die Steigerung der Rinderbestandsdichte und eine Reduktion des Fleischkonsums sind abhängig von den regionalen Bedingungen als Kompensationsmaßnahmen geeignet oder nicht. Diese Maßnahmen führen in den Fallstudien zu einer Nettoreduktion der THG-Emissionen, obwohl teilweise ein zusätzlicher Düngemitteleinsatz erforderlich ist. ILUCGHG_net kann auch negative Werte annehmen, wenn eine Überkompensation stattfindet. Außerdem wurde ein Allokationsansatz angewandt, der die Emissionen aus den finalen LUC auf den expandieren Biokraftstoffrohstoff und auf die agrarwirtschaftliche Aktivität verteilt, die der LUC direkt folgt. Dies ermöglicht es, eine Doppelzählung der THG-Emissionen zu vermeiden und gleichzeitig einen Anreiz zu setzen, direkte LUC zu unterlassen. Die Allokation verringert den ILUC-Faktor der zus. Zuckerrohrethanolproduktion in Brasilien um bis zu 10%.&#13;
+Weiterer Forschungsbedarf besteht vor allem bezüglich der Untersuchung weiterer Kompensationsmaßnahmen sowie bezüglich der Allokation der LUC induzierten CO2-Emissionen zwischen direkten und indirekten Treibern.</dc:description>
+          <dc:date>2014-03-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4861</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-48618</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-48618</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4861/Dunkelberg_Elisa.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

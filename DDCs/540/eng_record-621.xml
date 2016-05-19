@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:621">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:621</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Bestimmung des geografischen Ursprungs von Weinen mittels Multikomponentenanalyse und multivariater Statistik</dc:title>
+          <dc:creator>Klimmek, Antje</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Das Ziel der vorliegenden Arbeit ist die Zuordnung von Weinproben in ihre Herkunftsländer. Die Konzentrationen der einzelnen Inhaltsstoffe im Wein variieren in Abhängigkeit von der geografischen Lage der Weinanbaugebiete. Deshalb werden eine Vielzahl von chemischen Komponenten analysiert, deren Beitrag zur Fragestellung der geografischen Herkunft untersucht wird. Die komplexen Muster der chemischen Parameter werden zur Klassifikation der Weine nach ihren Ländern mit den Verfahren der multivariaten Datenanalyse, speziell der Diskriminanzanalyse, interpretiert. Für die Studien werden Handelsproben aus Osteuropa und Übersee eingesetzt, so dass insgesamt zwei Datensätze bestehend aus ca. 135 Weinen und 63 bzw. 66 Analysenparametern zur Verfügung stehen. Aus dem Bereich der Stabilisotopenanalytik werden Methoden zur 18O  und 13C  Bestimmung im Weinwasser bzw. im Ethanol entwickelt. Die Seltenen Erdmetalle werden als Vertreter der Spurenelemente im Wein analysiert. Bei den Überseeweinen können anhand verschiedener Trennmodelle 97  99 % aller Proben ihren jeweiligen Herkunftsländer Argentinien, Australien, Chile, Kalifornien und Südafrika korrekt zugeordnet werden. Dabei wird der Ausgangsdatensatz zuerst auf 36 und in der zweiten Stufe auf 13 Parameter reduziert, die signifikant zur Trennung der Weine beitragen. Die Klassifikationsmodelle können mit unabhängigen Testweinen, deren Parameter nicht in die Aufstellung der Diskriminanzmodelle einfließen, mit Ergebnissen von 93  98 % bestätigt werden. Die Klassifikationsresultate der Osteuropaweine sind mit Raten von 89  96 % in die Herkunftsländer Bulgarien, Rumänien, Ungarn, Moldawien und Mazedonien leicht vermindert gegenüber den Überseeweinen. Die erfolgreichsten Trennmodelle basieren auf 12 bzw. 15 Variablen. Im Unterschied zu dem vollständig analysierten Datensatz der Überseeweine, enthält der osteuropäische Datensatz einige Leerstellen, so dass die Eingangsinformation zur Berechnung der Trennmodelle niedriger ist. Dennoch ist eine Tendenz zur Klassifikation der Osteuropaweine klar zu erkennen. Sowohl bei dem Datensatz der Überseeweine als auch bei dem der Osteuropaweine erweisen sich die Stabilisotopenverhältnisse des Deuteriums aus dem Ethanol bzw. des Sauerstoffs aus dem Weinwasser als die wichtigsten Trennfaktoren. Zusammen mit den Mineralstoffen und einigen Variablen, die in der Überwachung routinemäßig analysiert werden, bilden sie die erfolgreichsten Klassifikationsmodelle. Am Beispiel der Überseeweine zeigt sich die Variabilität der aufgestellten Trennmodelle, da die Isotopenverhältnisse des Deuteriums durch das des Sauerstoffs ersetzt werden können.</dc:description>
+          <dc:date>2003-07-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/621</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6151</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6151</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/621/klimmek_antje.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:866">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:866</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Visualisation of Two-Dimensional Volumes</dc:title>
+          <dc:title xml:lang="deu">Visualisierung zweidimensionaler Volumen</dc:title>
+          <dc:creator>Löbbert, Sebastian</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein neues Verfahren zur Visualisierung zweidimensionaler Volumen vorgestellt. Der Begriff multidimensionales Volumen wird dabei definiert als eine Menge von räumlich dreidimensionalen Datensätzen, die jeder eine andere Eigenschaft (eine physikalische Qualität, z.B. Dichte oder Temperatur) desselben Objekts beschreiben. Zweidimensionale Volumen beschreiben also zwei verschiedene Eigenschaften eines Objekts. Sie entstehen z.B. in biomedizinischen Anwendungen, wenn gleichzeitig funktionale und anatomische Datensätze untersucht werden. Zunächst wird der Stand der Technik in der Visualisierung zweidimensionaler Volumen dargelegt. Dabei sind besonders die folgenden Schwächen bestehender Verfahren erkennbar: - Schlechte räumliche Darstellung und schlechte Lokalisierbarkeit von Ausprägungen (bemerkenswerte Quantitäten einer Eigenschaft an einer Stelle). Beschränkung auf Datensätze aus speziellen Quellen oder spezielle Kombinationen von Datensätzen. - Prinzipbedingte Beschränkung einer Eigenschaft auf wenige kleine Regionen innerhalb der anderen Eigenschaft. Basierend auf diesen Defiziten werden die Anforderungen für ein besseres Visualisierungsverfahren herausgearbeitet, anhand derer ein neues Verfahren, dependent rendering genannt, entwickelt wird. Das Verfahren basiert auf der Annahme, dass bei der Visualisierung mehrerer Eigenschaften immer eine Eigenschaft als Referenz zur Lokalisierung dienen kann. Abhängig von der ersten kann eine weitere Eigenschaft visualisiert werden. Es werden drei Implementierungen des Verfahrens vorgestellt, die ersten beiden sind Prototypen, die dritte eine spezialisierte Anwendung für eine biomedizinische Visualisierungsplattform. Die Implementierungen veranschaulichen, dass sich das vorgestellte Verfahren gegenüber bestehenden Ansätzen besonders durch folgende Punkte auszeichnet: - Gute Lokalisierbarkeit von Ausprägungen bei gleichzeitiger guter räumlicher Darstellung des Objekts (z.B.: "Ist es auf der Oberfläche heiss oder innerhalb des Objekts?"). - Gleiche räumliche Ausdehnung beider Datensätze möglich. - Genereller Ansatz: Keine Beschränkung auf Datensätze aus speziellen Quellen oder auf spezielle Kombinationen von Datensätzen. Das vorgestellte Verfahren stellt daher einen bedeutenden Fortschritt in der Technik der Visualisierung zweier Eigenschaften eines Objekts dar.</dc:description>
+          <dc:description xml:lang="eng">In this thesis, a new technique for the visualisation of two-dimensional volumes is presented. The term multi-dimensional volume is defined as a set of spatially three-dimensional data sets, each of them describing another property (a physical quality, e.g. density or temperature) of the same object. Thus, two-dimensional volumes describe two different properties of an object. They are used e.g. in biomedical imaging, where anatomical and functional data are examined jointly. First, the state of the art in the visualisation of two-dimensional volumes is presented. In the course of this, the following deficiencies of existing approaches become apparent: - Unsatisfactory 3D impression (it is difficult to mentally reconstruct the spatially three-dimensional object from the rendering) and difficult localisation of features (i.e. remarkable characteristics in the quantity of a property at a given location). - Restriction to data sets from particular origins or particular combinations of data sets. - By design, one property is restricted to only a few small regions inside the other property. Starting from these deficiencies, the requirements for a visualisation technique that overcomes these limitations are elaborated. These are then used to develop a new technique, called dependent rendering, which is based on the assumption that, when visualising two properties of an object, there is alway one property that can serve as a spatial reference for the other. The other property is then visualised in dependency on this reference. Three implementations of the technique are presented, the first two are prototypes, the third one is a specialised application for a biomedical visualisation platform. The implementations show that, compared to existing approaches, the presented technique especially stands out because of the following features: - Precise localisation of features combined with good 3D impression of the object (e.g. "Is it hot on the surface or only inside the object?"). - Both data sets can be extended over the same region. - General approach: No restriction to data sets from particular origins or particular combinations of data sets. The presented technique therefore represents an important advancement in the joint visualisation of two properties of an object.</dc:description>
+          <dc:date>2004-11-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/866</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8594</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8594</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/866/loebbert_sebastian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2282">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2282</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:520</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">On the modeling of brown dwarf atmospheres</dc:title>
+          <dc:title xml:lang="deu">Über das Modellieren von Braunen Zwergatmosphären</dc:title>
+          <dc:creator>Pervan, Sime</dc:creator>
+          <dc:subject>ddc:520</dc:subject>
+          <dc:description xml:lang="eng">In the work presented different approaches for a theoretical description of the atmosphere of brown dwarfs are investigated. For this purpose the theory of stellar atmospheres is used for these substellar objects. It will be shown that this classical ansatz must be highly modified for the substellar use. In addition, two different approaches for the convective energy transport are incorporated in this study. A comparison is carried out between these two approximations. It will be shown that both approaches are behaving in physically plausible way and that one of this approximations can lay the basis for consistent incorporation of a set of diffusion equations. Furthermore, consistent model calculations were performed within this theoretical framework. These calculations combine monochromatic radiative transfer for newly derived molecule opacity sampling data with hydrostatical and chemical equilibrium. Some aspects of these model approaches are in this field of study the most promising and far-reaching attempts for a consistent description of substellar atmospheres.</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden verschiedene Ansätze für eine theoretische Be- schreibung von Atmosphären Brauner Zwerge untersucht. Für diesen Zweck wurde die Theorie stellarer Atmosphären auf diese substellaren Objekte angewandt. Es wird gezeigt, daß dieser klassische Ansatz für den substellaren Einsatz hochgradig angepaßt werden mußte. Zusätzlich wurden zwei Näherungen für den konvektiven Energietransport in diese Studie eingebaut. Ein Vergleich dieser Näherungen wurde angestrebt. Es wird gezeigt, daß diese Ansätze physikalisch relevant sind und einer dieser Ansätze die Basis für eine konsistente Einbindung von Diffusionsgleichungen bilden kann. Weiterhin wurden innerhalb dieses theoretischen Überbaues konsistente Modell- rechnungen ausgeführt. Diese Berechnungen kombinieren monochromatischen Strahlungstransport, der auf neuen molekularen Opazitätsberechnungen beruht, mit hydrostatischem und chemischem Gleichgewicht. Einige Aspekte dieser Modellansätze sind auf dem Gebiet der Braunen Zwergstu- dien die am meistversprechensten und weitreichensten Versuche einer konsistenten Beschreibung substellarer Atmosphären.</dc:description>
+          <dc:date>2009-10-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2282</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23740</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23740</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2282/original_pervan_sime.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2282/pervan_sime.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:572">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:572</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Spatial Coulomb effects in semiconductor quantum dot devices</dc:title>
+          <dc:title xml:lang="deu">Räumliche Coulomb Effekte in Halbleiter-Quantenpunkt-Bauelementen</dc:title>
+          <dc:creator>Wetzler, Reinhard</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die Kapazität-Spannung (C-V) Spektroskopie bietet eine experimentelle Möglichkeit, Quantenpunkte (QDs) elektrisch zu untersuchen. Ohne detaillierte Simulationen war es bisher jedoch nicht möglich, genauere Interpretationen der experimentellen Daten zuzulassen. Die C-V Charakteristiken stellen eine Abbildung der zum Teil sehr komplizierten räumlichen Ladungsverteilung einer Struktur dar, weshalb in dieser Arbeit mehrere theoretische Modelle ent-wickelt werden, um diese zu berechnen. Es werden numerische Simulationen von Dioden mit QDs durchgeführt, z.B. zur Bestimmung der Energieniveaus in den QDs und deren homogene Verbreiterung durch einen Vergleich mit experimentellen Daten. Die dreidimensionalen Rechnungen zeigen, daß die Coulomb-Wechselwirkung zwischen den QDs eine zentrale Stellung einnimmt. Sie führt zusammen mit der inhomogenen Ladungsverteilung in der Schicht der QDs selbst bei Vernachlässigung aller wachstumsbedingten Fluktuationen zu einem intrinsischen Verbreiterungsmechanismus der diskreten Zustandsdichte einzelner QDs. Diese hängt zudem stark von der elektronischen Umgebung der QDs ab, die sich z.B. durch die angelegte Spannung ändern kann. Es werden QDs ohne strukturelle Fluktuationen aber auch mit zufälligen Fluktuationen sowie Ensembles von QDs, die aus Wachstumssimulationen entnommen werden, simuliert. Generell lassen nur diese sehr detaillierten Rechnungen eine Interpretation von experimentellen Daten bezüglich der Größenverteilung zu. Die räumliche Ladungsverteilung auf immer kleinem Raum wirft natürlich auch die Frage nach der Rolle von Coulomb-Streuung zwischen Elektronen an unterschiedlichen Orten und von unterschiedlicher Dimension auf. Im Speziellem wird hier auf Strukturen im Zusammenhang mit QDs eingegangen, also die Streuung zwischen Elektronen in den QDs und räumlich ausgedehnten, drei- und zweidimensionalen Elektronen. Es zeigt sich dabei, daß eine solche Kinetik stark auf den Ort der QDs begrenzt ist.</dc:description>
+          <dc:description xml:lang="eng">Capacitance-Voltage (C-V) spectroscopy provides an experimental method to investigate the electrical properties of quantum dots (QDs). So far, without detailed simulations it has not been possible to give clear interpretations of the experimental data. C-V characteristics represent a mapping of the very complicated spatial charge distribution of a device which can be calculated by the theoretical models developed in this work. Numerical simulations of diodes are performed, e.g., to obtain values for the QD energy levels and their homogeneous broadenings by a fit to experimental data. The three-dimensional simulations show that the Coulomb interaction between the QDs is of central importance. Together with the inhomogeneous charge distribution in the QD layer it leads to an intrinstic broadening mechanism of the zero-dimensional QD density of states, even if all structural fluctuations are neglected. These interactions between QDs depend strongly on the electronic environment of the QDs which can be changed, e.g., by applying a bias. QDs without structural fluctuations but also QDs with random fluctuations and QDs taken from growth simulations are investigated. Generally, only the detailed calculations performed here make an interpretation of the experimental data regarding the size fluctuations possible. The spatial charge distribution on an increasingly smaller length-scale of course raises the question about the role of Coulomb scattering between electrons of different dimensions and located at different positions. In this work structures with QDs are investigated, i.e., the scattering between electrons in the QDs and spatially extended, two- and three-dimensional electrons. It is shown that such kinetics has a strong local character.</dc:description>
+          <dc:date>2004-05-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/572</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5677</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5677</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/572/wetzler_reinhard.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

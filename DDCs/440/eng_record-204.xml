@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:204">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:204</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:440</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zur Korpusplanung einer romanischen Minderheitensprache : die Wörterbücher des Korsischen und ihre Leistung vor dem Hintergrund von Sprachkontakt und Sprachausbau</dc:title>
+          <dc:title xml:lang="eng">The Corpus Planning of a Minority Language</dc:title>
+          <dc:creator>Jerger, Christian</dc:creator>
+          <dc:subject>ddc:440</dc:subject>
+          <dc:description xml:lang="deu">Auf Korsika liegt eine Sprachkontaktsituation vor, an der (im Gegensatz zu zahlreichen bisher untersuchten Kontaktsituationen) mehr als nur zwei Sprachen beteiligt sind: Das Korsische steht als Ausschnitt aus dem Dialektkontinuum der Italoromania sowohl in traditionellem Kontakt zum Toskanischen bzw. Standarditalienischen als auch in neuerem und zugleich existenzbedrohendem Kontakt zum Französischen. Die Komplexität dieser Situation findet ihren unmittelbaren Niederschlag in der Sprachplanung. Im Bemühen, aus dem Korsischen eine den beiden Kontaktsprachen (und v.a. dem Französischen) ebenbürtige Sprache zu machen, befinden sich die Sprachplaner im Spannungsfeld zwischen Nachahmung modellsprachlicher Ausdrucksmittel einerseits und Distanzierung von solchen Modellen zum Zwecke höherer Eigenständigkeit andererseits. Die Existenz nicht nur einer, sondern zweier Modellsprachen, die beide somit als positives und negatives Modell in Frage kommen, stellt ein zusätzlich erschwerendes Moment dar. Sprachplaner werden im Rahmen ihrer Korpusplanung folglich Mittel wählen, die wenn nicht einen Kontrast zu beiden Sprachen darstellen, so doch zumindest zu einer der beiden Sprachen, indem sie sich am Vorbild der jeweils anderen orientieren. Aufgrund des existenzbedrohenden Potenzials des Französischen darf man den Sprachplanern unterstellen, dass sie in erster Linie einen Kontrast bzw. eine Distanz zu dieser Modellsprache anstreben. Diese komplexe Sprachplanungsproblematik wird von der vorliegenden Arbeit an Wörterbüchern untersucht. Am Beispiel der lexikografischen Korpusplanung zeigt sich, dass den beiden Kontaktsprachen eine qualitativ unterschiedliche Rolle als Kontaktsprache zukommt: Während das Französische aus funktionaler Sicht als positives Modell dient, fungiert es gleichzeitig aus formaler Sicht als negatives Modell mit unterschiedlicher Auswirkung auf die Distanzierungsstrategie: Einerseits kommt es zur Aufwertung korsischer Spezifika, andererseits zu einer Annäherung an das aus formaler Sicht positive Modell des Standarditalienischen.</dc:description>
+          <dc:date>2003-03-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/204</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1993</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1993</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/204/jerger_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

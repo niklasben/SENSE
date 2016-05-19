@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:429">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:429</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Optoelektronisches Sicherheitssystem</dc:title>
+          <dc:creator>Mahlkow, Adrian</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen der Arbeit wurde ein auf Infrarotlicht basierendes Optoelektronisches Sicherheitssystem zur Detektion von Brüchen und Rissen in organischen und anorganischen Gläsern entwickelt. Das System besteht aus einer Sende- und Empfängereinheit, die über die ganze Länge der zu schützenden Scheibe an diese geklebt werden. Die Strahlung der Sendeleiste wird in den Glaskörper eingekoppelt und verbleibt zu über 75 % (ideal) durch Totalreflexion in der Scheibe und kann am gegenüberliegenden Ende detektiert werden. Tritt nun eine Veränderung an der Glasscheibe auf, verläßt ein Teil der Strahlung an der Bruchstelle durch Unterbrechung der Totalreflexion den Glaskörper; dieser Signalabfall wird detektiert und ausgewertet. In einer theoretischen Betrachtung wird anhand der diskutierten Eigenschaften organischer und anorganischer Gläser eine Wellenlänge und geeignete Strahlungsquellen identifiziert: IRED (Infrarot emitiertende Dioden) bei einer Wellenlänge von 850 nm. Der Bruchvorgang an der Scheibe wird in einen Modellbruch abgebildet und die Wirkung auf die die Scheibe durchquerende Strahlung quantitativ bestimmt. Die Strahlungsquelle wird durch eine zeilenförmige Anordnung von IREDs gebildet, analog sind die Empfänger (Photodioden) angeordnet. Zusätzlich liegt eine Referenzleitung in Form einer optischen Kunststofffaser vor. In einer den Empfänger-Photodioden nachgeschalteten Elektronik wird das Differenzsignal zwischen beiden Lichtwegen gebildet und mit einer großen Zeitkonstante niveliert. So können nur Veränderungen in Zeitdomänen ms ein alarmrelevantes Signal liefern, langfristige Veränderungen durch Drift, Witterung sind eliminiert. Das System wurde an verschiedene Scheiben angebracht und in seiner Funktion mit den theoretischen Berechnungen verglichen. Im Rahmen der Arbeit ist ein Produkt entwickelt worden, dass in seiner Struktur und den verwendeten Halbzeugen den Produktionsmöglichkeiten der beteiligten Firma angepaßt ist und nach einer weiteren Projektarbeit in eine halbautomatische Produktion überführt wird. Die Zuverlässigkeit des Systems ist gegeben. Die Forschungsarbeit wurde durch das Programm FUEGO des BMBF finanziell unterstützt. Wesentliche Punkte der Arbeit sind unter DE 196 54 850 offengelegt worden.</dc:description>
+          <dc:date>2003-01-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/429</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4240</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4240</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/429/mahlkow_adrian.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/429/mahlkow_adrian.zip</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

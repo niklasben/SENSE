@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2798">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2798</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Projektionsbildgestützte Navigation und Leistungssteuerung einer chirurgischen Fräse in der Wirbelsäulenchirurgie</dc:title>
+          <dc:title xml:lang="eng">Navigation and power control of a surgical mill in spinal surgery using 2d x-ray images</dc:title>
+          <dc:creator>Jank, Emanuel</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit befasst sich mit der Konzeptionierung und Entwicklung eines Unterstützungssystems für das navigierte Fräsen an der Wirbelsäule mit einer Leistungssteuerung des Instruments. Die Unterstützungsfunktionen des Systems basieren auf den Projektionsbildern eines C-Bogens. In diesen plant der Operateur intraoperativ einen Arbeitsraum, der die zu entfernenden Strukturen beinhaltet. Während des Fräsens wird dann die Leistung des Instruments durch das Navigationssystem derart gesteuert, dass ein Fräsen außerhalb des geplanten Bereichs verhindert wird. Zusätzlich wird die Instrumentenposition kontinuierlich in die Bilddaten eingeblendet, um die Orientierung im Situs zu erleichtern. Durch die Leistungssteuerung des Instruments kann der Operateur die Navigationsinformationen kontinuierlich wahrnehmen, ohne die Visualisierung des Systems betrachten zu müssen. Dadurch integrieren sich die vorgestellten Unterstützungsfunktionen optimal in den chirurgischen Arbeitsablauf.</dc:description>
+          <dc:description xml:lang="eng">This thesis describes the design and development of a system, which assists milling procedures in spinal surgery. The functionalities of the system are based on 2d x-ray images, captured with a conventional c-arm. Within these 2d images the surgeon segments a 3d workspace for the instrument that contains the target structures. While milling, the system controls the instruments power with intent to avoid a milling outside the planned area. To facilitate the orientation, the position of the instrument is continuously visualized within the x-ray image data. Thanks to the power control, the surgeon recognizes the navigation information without watching the visualization of the navigation system. Thus, the presented system integrates well into the surgical workflow.</dc:description>
+          <dc:date>2011-02-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2798</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29533</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29533</dc:identifier>
+          <dc:identifier>978-3-18-328117-6</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2798/jank_emanuel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

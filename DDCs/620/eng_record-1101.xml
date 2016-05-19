@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1101">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1101</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die Methode der effektiven Duktilität beim Lastfall Erdbeben</dc:title>
+          <dc:title xml:lang="eng">The Method of Effective Ductility for Seismic Load Cases</dc:title>
+          <dc:creator>Hylla, Ingo</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Wissensstand zur Konstruktion und Bemessung von Gebäuden unter der Berücksichtigung des Lastfalls Erdbeben unterliegt einer ständigen Entwicklung. Allerdings kommt es immer wieder zu schweren Schäden an Gebäuden und sonstigen Konstruktionen, so dass der erreichte Stand nicht als befriedigend empfunden werden kann. Die Berücksichtigung von inelastischem Materialverhalten hat beim Lastfall Erdbeben einen weit größeren Einfluss auf die Bemessung als bei sonstigen Belastungen. Dieser Sachverhalt spiegelt sich in den neueren Normen zur Auslegung von Gebäuden unter Erdbebenlast wieder. Mit der Entwicklung der Methode der Kapazitätsbemessung wurde ein Werkzeug geschaffen, welches eine sichere und kostengünstige konstruktive Auslegung von Gebäuden ermöglicht. Dabei wird bei der Durchbildung des Tragwerks und der Wahl der verwendeten Materialien sowie der konstruktiven Details darauf geachtet, dass sich das Gebäude unter der Einwirkung eines Erdbebens möglichst duktil (zäh) verhält, ohne dabei instabil zu werden. Durch den geringeren Widerstand, den das Gebäude durch das Zulassen plastischer Verformungen dem Erdbeben bietet, reduzieren sich auch die Beanspruchungen der im elastischen Bereich verbleibenden Tragglieder. Die Reduktion der Beanspruchung wird im Allgemeinen unabhängig von der tatsächlich in Anspruch genommenen Duktilität vorgegeben. Über die Form des Tragwerks und die Eigenschaften der verwendeten Konstruktionsdetails ist lediglich eine Abschätzung der maximal möglichen Grenzduktilität vorgesehen, welche vereinfachend zur Reduktion herangezogen wird. In der vorliegenden Arbeit wird ein Weg aufgezeigt, wie die Beanspruchungsreduktion von der sich effektiv einstellenden Duktilität abhängig gemacht werden kann.</dc:description>
+          <dc:description xml:lang="eng">The state of knowledge of design and detailing of structures for earthquake impact is subject to constant development. Still heavy damage of buildings and other structures do occur, such that the current state of knowledge cannot be considered as satisfactory. In seismic design the consideration of inelastic material behaviour has a significantly greater influence than in other loading situations. This fact is reflected in the more recent standards for the design of structures under seismic impact. With the development of the capacity design method, a tool was created for the safe and economic design of buildings. Within this method, the structure is designed by choice of materials and proper detailing to behave sufficiently ductile without losing its stability. Due to the lesser resistance with which the structure responds to an earthquake if plastic deformation is admitted, the strain of the structural members remaining in the elastic range will also be reduced. The reduction of impact is generally specified independently of the ductility that is actually utilized. Based on the shape of the structure and the properties of design detailings used, merely an estimate of the greatest possible ductility limit is given, which for simplification will be used for the reduction. In this thesis, a method is described that makes it possible to make the reduction in load impact dependent on the actual effective ductility.</dc:description>
+          <dc:date>2005-09-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1101</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10964</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10964</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1101/hylla_ingo.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

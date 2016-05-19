@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2128">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2128</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Faltenbildung bei der Nassetikettierung von Getränkeflaschen aus Glas</dc:title>
+          <dc:title xml:lang="eng">Label wrinkling with cold-glue labelling on glas bottles</dc:title>
+          <dc:creator>Wenk, Georg</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Phänomen der Faltenbildung bei der Nassetikettierung stellt für Abfüllbetriebe ein bekanntes und wiederkehrendes Problem dar. Die in der Literatur verfügbaren Informationen sind reine Beobachtungen, die nicht durch wissenschaftliche Versuche überprüft wurden. Ein detaillierter Mechanismus, wie es bei der Nassetikettierung mit Papieretiketten zur Faltenbildung kommt und welche Einflussgrößen dabei wirken, ist nicht veröffentlicht. In dieser Arbeit wurde ein Modell der Vorgänge im Etikett bei der Nassetikettierung, durch beobachtende Versuche und Versuche im Labor- sowie im industriellen Maßstab, entwickelt und die Einflussgrößen in diesem Modell bestimmt und gewichtet. Auf Grundlage des Modells wurde die Hypothese zur Entstehung der Faltenbildung bei der Nassetikettierung abgeleitet und Empfehlungen für die Praxis entwickelt.</dc:description>
+          <dc:description xml:lang="eng">In this work a model for the behaviour of paper label after cold-glue labelling on glas bottles was developed and the influencing factors were determined and graded. Based on this model a theory on the apperance of label wrinkling was deduced and recommandations for the removal and prevetions of label wrinkling were given.</dc:description>
+          <dc:date>2009-05-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2128</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22288</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22288</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2128/original_wenk_georg.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2128/wenk_georg.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

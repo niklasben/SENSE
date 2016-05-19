@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:258">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:258</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Identifikation von Wärmeaustauschparametern Thermischer Netzwerke durch transient gemessene Knotentemperaturen bei minimierter Meßzeit</dc:title>
+          <dc:title xml:lang="eng">Identification of Heat Exchange Parameters of Thermal Networks by Transient Measured Node Temperatures at Minimized Measurement Time</dc:title>
+          <dc:creator>Biering, Bernd</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Eine übliche Methode zur Formulierung von Thermalmodellen (Thermal Mathematical Models) ist die Methode der konzentrierten Parameter (thermische Netzwerke, thermische Knotenmodelle). Für die genaue Vorhersage des thermischen Verhaltens einer realen Hardware durch ein thermisches Knotenmodell ist es erforderlich, die Wärmeaustauschparameter so gut wie möglich zu kennen. Oft sind transient gemessene Knotentemperaturen eines Thermal Engineering Models oder einer ähnlichen Hardware durch Thermal- Vakuum- Tests verfügbar. In der vorliegenden Arbeit wird die Entwicklung und Anwendung einer numerischen Prozedur zur Identifikation (bzw. Korrektur) der Wechselwirkungsparameter eines thermischen Netzwerkes beschrieben. Der Kern dieser Prozedur ist ein Kalman-Filter Algorithmus, der die gesuchten Parameter aus transient gemessenen Knotentemperaturen errechnet. Dieser Algorithmus wurde so konditioniert, daß er sehr stabil arbeitet. Die notwendigen a priori Werte für das Kalman-Filter werden von einem angepassten Algorithmus der Verallgemeinerten Kleinsten Quadrate bereit gestellt. Dieser Algorithmus verwendet das SVD-Verfahren (Singular Value Decomposition) zur Berechnung der Startparameter und deren Fehlervarianzen und gibt zusätzlich Informationen zu ggf. schlecht gewählten experimentellen Randbedingungen oder zu Modellfehlern. Die gesamte Methode wird auf gemessenen Knotentemperaturen des Thermal Engineering Models des Wide Angle Optical Stereo Scanners der Russischen Mars '96 Mission angewendet. Eine Prozedur zur Einsparung teurer Meßzeit in der Weltraumsimulationsanlage wurde implementiert. Die Resultate werden diskutiert und bewertet. Ein Leitfaden zur Vorgehensweise bei der Validierung des Thermal Mathematical Models mit der vorgestellten Methode wird gegeben.</dc:description>
+          <dc:description xml:lang="eng">A common method to create Thermal Mathematical Models is the lumped parameter method (Thermal Network; Thermal Nodal Model). For a well prediction of the thermal behaviour of a real hardware by a Thermal Nodal Model it is necessary to know the heat exchange parameters as exactly as possible. Transient measured node temperatures are often available e.g. from thermal vacuum tests of a Thermal Engineering Model (TEM) or a similar real hardware. In this doctoral thesis the development and application of a numerical procedure for the identification (or correction) of interaction parameters of a Thermal Network is described. The core of this procedure is a Kalman Filter Algorithm, which calculates the wanted parameters by the transient measured node temperatures. This Algorithm is conditioned to worki very stable. The necessary a priori values for the Kalman Filter are supplied by an adjusted General Least Square Algorithm. This Algorithm uses the Singular Value Decomposition for calculating of the starting parameters and their error variances and additionally it indicates badly chosen experimental conditions or model failures. The whole method is applied on the measured node temperatures of the Thermal Engineering Model of the Wide Angle Optical Stereo Scanner of the Russian Mars '96 mission. A procedure for saving expensive measurement time in the space simulation chamber was implemented. The results are discussed and assessed. A guideline is given for the kind of action along the validation of the Thermal Mathematical Model by the presented method.</dc:description>
+          <dc:date>2001-12-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/258</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2538</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2538</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/258/biering_bernd.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

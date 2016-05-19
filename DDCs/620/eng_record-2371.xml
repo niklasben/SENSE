@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2371">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2371</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">3D-Drucktechnologie – Grundlagen zur Herstellung polymerer Bauteile mit gradierten Werkstoffeigenschaften</dc:title>
+          <dc:title xml:lang="eng">3D printing technology - Basic principles of manufacturing polymeric parts with functionally graded material properties </dc:title>
+          <dc:creator>Elsner, Philip</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die heute kommerziell verfügbaren generativen Fertigungsverfahren und deren Folgeprozesse ermöglichen die Verarbeitung einer Vielzahl unterschiedlicher Werkstoffe. Bei der Herstellung von funktionalen Prototypen werden die Leistungsgrenzen dieser Technologien jedoch schnell erreicht, so dass Kompromisse und Einschränkungen beim Einsatz der Prototypen in Kauf genommen werden müssen. Die Gründe hierfür liegen bei den sehr hohen Anforderungen, die sowohl an das Serienteil als auch an die Prototypen gestellt werden. Alle Forderungen bezüglich der mechanischen, topographischen und physikalischen Eigenschaften zu erfüllen, ist aus technologischer Sicht nicht möglich, da die generativen Verfahren nicht die Fertigungsbedingungen der Serienproduktion abbilden können. Um dennoch der steigenden Nachfrage speziell der kunststoffverarbeitenden Industrie nach serienidentischen Prototypen und funktionalen Kleinserien nach zu kommen, wurde ein neues Werkstoff-, Technologie- und Maschinenkonzept basierend auf der 3D-Drucktechnologie entwickelt. Im Vergleich zu den konventionellen generativen Verfahren, welche innerhalb eines Bauprozesses auf Basis eines Werkstoffes nur eine Werkstoffeigenschaft umsetzen können, ermöglicht diese neue Technologie die Herstellung von Bauteilen mit unterschiedlichen Werkstoffeigenschaften ohne einen Materialwechsel vornehmen zu müssen. Diese Entwicklung bildet die Grundlage für ein neuartiges Verfahren, welches die gezielte Herstellung von gradierten Werkstoffeigenschaften in einem Fertigungsschritt ermöglicht.</dc:description>
+          <dc:description xml:lang="eng">Commercially available generative manufacturing technologies and their subsequent processes permit processing of a wide variety of different materials and material properties. In the manufacture of functional prototypes, the limits of these technologies regarding the mechanical properties are however soon exhausted. Therefore compromises and functional restrictions in prototype applications need to be accepted. This is due to the high technological requirements which are requested on serial parts as well as on prototypes. The generative manufacturing processes are unable to represent the manufacturing conditions of serial production. Therefore it is impossible to fulfil every single requirement regarding mechanical, topographical and physical features. However, in order to meet the increasing demand of the plastic-processing industry in particular for serial identical prototypes, a new material, technology, and machine concept was developed based on 3D printing technology. Compared to standard generative technologies, where only one material is usable in each build process, this new technology allows building up of different material properties inside of one part without the necessity of changing the material. This development represents the base of a new manufacturing technology which allows a controlled manufacturing of parts with functionally graded material properties in one build-up process.</dc:description>
+          <dc:date>2009-12-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2371</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24837</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24837</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2371/elsner_philip.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

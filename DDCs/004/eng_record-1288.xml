@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1288">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1288</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Peer-to-Peer Knowledge Management System basierend auf Topic Maps zur Unterstützung von Wissensflüssen</dc:title>
+          <dc:title xml:lang="eng">A Peer-to-Peer system supporting knowledge flows based on Topic Maps</dc:title>
+          <dc:creator>Schwotzer, Thomas</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit beschäftigt sich mit verteiltem Wissensmangement. Es geht der Frage nach, wie Wissen in Organisationen fließt. Basierend auf einer Analyse wird die These formuliert, dass Wissen im Wesentlichen direkt zwischen Menschen, also Peer-to-Peer übermittelt wird. Zur Unterstützung der These werden verwandte Arbeiten herangezogen. Es werden Forderungen an ein IT system definiert, die erfüllt sein müssen, um diese P2P-Wissensflüsse zu unterstützen. Es wird im folgenden eine Referenzarchiktur names Shark (Shared Knowledge) beschrieben, die diesen Anforderungen genügt. Es wird weiterhin gezeigt, wie Shark implementiert und angewendet werden kann. Wissen wird in Shark mittels Topic Maps gespeichert und weitergegeben. Die mathematischen Grundlagen dieses Austausches werden formal beschrieben.</dc:description>
+          <dc:description xml:lang="eng">This thesis deals with distributed knowledge management. Based on a review on relevant related work it is claimed that knowledge is mainly exchanged directly between human beings in a peer to peer (P2P) manner. A reference architecture of an IT system is described that support P2P knowledge flows in organizations. This architecture is called Shark (acronym of Shared Knowledge). Furthermore it is described how Shark can be implemented, e.g. in Internet but also in mobile spontaneous networks. Knowledge is represented and exchanged by means of Topic Maps in Shark. This thesis gives a formal description on how Topic Map fragments are created and exchanged.</dc:description>
+          <dc:date>2006-06-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1288</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13011</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13011</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1288/schwotzer_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

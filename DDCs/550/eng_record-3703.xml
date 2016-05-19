@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3703">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3703</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Application and Assessment of the Lattice Boltzmann Method for Fluid Flow Modeling in Porous Rocks</dc:title>
+          <dc:title xml:lang="deu">Anwendung und Bewertung der Gitter Boltzmann Methode für die Modellierung des Fluid Transports in porösen Gesteinen</dc:title>
+          <dc:creator>Halisch, Matthias</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="eng">Modeling physical properties and phenomena of natural rocks forms an important field of work for modern petrophysics. In recent years, the fast and non-destructive X-ray computed micro tomography has pushed the knowledge and understanding of fluid dynamics in complex pore systems extensively forward. This PhD thesis is in accordance to this wide and complex field of research and gives a comprehensive overview about state of the art transport modeling in porous media. New approaches for high precisely modeling aspects in real pore geometries are shown. Conducive to this thesis, theoretical background on fluid dynamics, modern CT imaging and modeling techniques is introduced first. Afterwards, a detailed and interdisciplinary rock characterization is performed, before results of transport modeling on a synthetic and on real pore networks are given. Special attention is given onto two main topics. On the one hand, the essential workflow to obtain high resolution 3D data sets for the advanced pore network extraction is introduced in detail. Since modern CT devices are able to scan samples with micron to submicron resolution, even very small pore structures can be taken into account for modeling purposes. For this, a special network extraction algorithm, which is able to preserve these small sample features with high accuracy during grid generation, is tested. On the other hand, an advanced method to evaluate the representiveness of transport modeling phenomena, depending on the voxel size of the scanned data, is introduced. The so derived representative elementary volumes (REV) are then used to apply the Lattice Boltzmann Method (LBM) for the estimation of fluid transport properties of these structures. Due to this numerically easy but elegant approach, even structures of arbitrary complexity (e.g. coarse and fine pore networks, secondary porosities, clay related porosities, etc.) can be investigated and taken into account on different scales as well. Additionally, comparative simulations with a commonly used modeling technique are performed and evaluated in close combination with the results of the Boltzmann transport modeling on different scales. Finally, results of each partition of this thesis are combined, assessed, discussed and summarized.</dc:description>
+          <dc:description xml:lang="deu">Die Modellierung physikalischer Eigenschaften und Phänomene von natürlichen Festgesteinen stellt inzwischen einen wichtigen Arbeitsbereich innerhalb der modernen Gesteinsphysik dar. In den letzten Jahren hat dabei die Röntgen-Computertomografie als schnelles, zerstörungsfreies sowie bildgebendes Verfahren die Grenzen des Verständnisses der Fluid Dynamik in komplexen Systemen signifikant vorangetrieben. Diese Promotionsschrift reiht sich konsequent in die komplexe Thematik mit ein und gibt zunächst einen umfassenden Einblick in den Stand der Technik von Strömungssimulationen in porösen Medien, bevor neue Ansätze für hochgenaue Modellrechnungen in echten Porennetzwerken aufgezeigt werden. Zielführend werden dabei zunächst die theroretischen Grundlagen bezüglich der Fluid Dynamik, dem bildgebenden Verfahren sowie der Modellierungstechnik gegeben. Diesem theoretischen Teil folgt eine ausführliche, interdisziplinäre Gesteinscharakterisierung, bevor die Ergebnisse der Strömungssimulationen an synthetischen und realen Porennetzwerken dargestellt werden. Besonderes Augenmerk dieser Arbeit liegt dabei auf zwei thematischen Bereichen. Zum Einen, wird der essentielle Arbeitsablauf zur Gewinnung hochaufgelöster 3D Datensätze für die Extraktion der in-situ Porennetzwerke analysiert. Aufgrund der hohen erreichbaren Auflösung moderner CT-Systeme (wenige Mikrometer, teils einige hundert Nanometer) können erstmalig auch sehr kleine Porenstrukturen für die Modellierung aufbereitet werden. Dazu wird ein verbesserter Extraktions-Algorithmus getestet, der in der Lage ist, die segmentierten Strukturen mit hoher Genauigkeit und Zuverlässigkeit in numerische Gitter zu transferieren. Zum Anderen wird ein neues Verfahren zur Überprüfung der Repräsentativität von Transportmodellierungen eingeführt. Die so ermittelten repräsentativen Volumina werden im Anschluss daran mittels der Gitter Boltzmann Methode auf ihre Transporteigenschaften hin untersucht. Aufgrund dieser numerisch sehr einfachen, aber dennoch eleganten Methode können beliebige Strukturen (z.B. grobe und feine Porennetzwerke, sekundäre Porositäten, Tonporositäten, etc.) auf beliebigen Skalen mit hoher Auflösung modelliert und gleichfalls charakterisiert werden. Ergänzend dazu werden vergleichende Simulationen mit gebräuchlichen Softwarepaketen evaluiert und mit den Ergebnissen der Boltzmann Modellierung auf verschiedenen (Mikro-) Skalen gegenübergestellt. Abschließend werden die Ergebnisse aller Teilbereiche zusammengefasst, beurteilt und diskutiert.</dc:description>
+          <dc:date>2013-05-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3703</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39381</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39381</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3703/halisch_matthias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

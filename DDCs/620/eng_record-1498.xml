@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1498">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1498</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Faseroptische Datenübertragung mit differentieller Phasenmodulation und optischer Zeitmultiplextechnik bei 160 Gbit/s und darüber</dc:title>
+          <dc:title xml:lang="eng">Fiberoptic Data Transmission of 160 Gbit/s and above utilizing Differential Phase-Shift Keying and Optial Time Division Multiplexing</dc:title>
+          <dc:creator>Ferber, Sebastian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird beschrieben, wie die Phasenmodulationstechniken Differential Phase-Shift Keying (DPSK) und Differential Quadrature Phase-Shift Keying (DQPSK) mit der optischen Zeitmultiplex-Technik (Optical Time Division Multiplexing, OTDM) zusammengeführt werden können. Es wird diskutiert, welche zusätzlichen Anforderungen die Zeitmultiplex-Komponenten erfüllen müssen, und es werden verschiedene Realisierungsmöglichkeiten einzelner Komponenten miteinander verglichen. Der Schwerpunkt der Arbeit liegt auf dem experimentellen Aufbau eines Fernverkehrs-Übertragungssystems (Reichweiten über 100 km) mit Kanaldatenraten von mindestens 160 Gbit/s in einem einzelnen Wellenlängenkanal. Die verwendeten Komponenten werden, ebenso wie das Gesamtsystem, im Detail vorgestellt und charakterisiert. Mit dem entwickelten Übertragungssystem war es möglich, die Stabilität der Übertragung bei 160 Gbit/s durch die Verwendung von DPSK deutlich zu verbessern. Darauf aufbauend konnte ein neuer Rekord in Bezug auf die Übertragungsreichweite (160 Gbit/s Übertragung über mehr als 4000 km Glasfaserstrecke) aufgestellt werden. Mit DQPSK-Modulation konnte eine Kanaldatenrate von 640 Gbit/s über 480km fehlerfrei übertragen werden.</dc:description>
+          <dc:description xml:lang="eng">This thesis reports on the combination of the phase modulation techniques Differential Phase-Shift Keying (DPSK) and Differential Quadrature Phase-Shift Keying (DQPSK) with Optical Time Division Multiplexing (OTDM). Additional requirements for the OTDM components are discussed and different approaches for the implementation of components are compared. The work is mainly focused on the experimental realization of a longhaul transmission system (more than 100 km reach) with bit rates of at least 160 Gbit/s in a single wavelength channel. The utilized components and the complete system are characterized in detail. The stability of the 160 Gbit/s transmission was significantly improved with the developed transmission system based on the DPSK modulation. This enabled a new record with respect to the transmission reach (160 Gbit/s over more than 4000 km). Using DQPSK modulation, a channel rate of 640 Gbit/s could be transmitted error-free over a 480 km fiber link.</dc:description>
+          <dc:date>2007-05-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1498</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15575</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15575</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1498/original_ferber_sebastian_Originalformat_LaTeX.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1498/ferber_sebastian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

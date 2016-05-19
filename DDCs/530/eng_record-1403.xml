@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1403">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1403</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Schwingungsverhalten lokaler Defekte in Breitband-Halbleitern</dc:title>
+          <dc:title xml:lang="eng">Lattice dynamics of local defects in wide-gap semiconductors</dc:title>
+          <dc:creator>Kaczmarczyk, Georg</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die Gruppe-III-Nitride und Zinkoxid stehen wegen ihres hohen Anwendungspotentials im Mittelpunkt des Forschungsinteresses. Ein vorläufiger Höhepunkt war die Vorstellung der ersten UV-Laserdiode und von Leuchtdioden für den blauen Spektralbereich. Trotz aller Fortschritte sind viele physikalische Fragen unbeantwortet geblieben. Einige davon werden in dieser Arbeit mit der experimentellen Methode der Raman-Streuung und Rechnungen mittels eines Valenzkraft-Modells behandelt. Viele der physikalischen Merkmale eines Halbleiter-Systems wie z.B. Verspannung oder Dotierung wirken sich auf die gitterdynamischen Eigenschaften aus. Mit der Raman-Streuung 1. Ordnung wurden zunächst die Phononen im Zentrum der Brillouin-Zone an GaN, AlN, InN und ZnO untersucht. Diese Ergebnisse dienten als Grundlage für die weitergehenden Untersuchungen. Mit der Raman-Streuung 2. Ordnung wurden die akustischen und optischen Phononen am Rand der Brillouin-Zone sowie ihre Kombinationen und Obertöne in den oben beschriebenen Halbleitern ermittelt. Anhand von detaillierten Berechnungen im Rahmen des erwähnten Valenzkraftmodells konnte eine Zuordnung dieser Phononen zu bestimmten Zweigen oder Punkten der Brillouin-Zone vorgenommen werden. Der zweite Teil dieser Arbeit behandelt erstmals in systematischer Weise die Physik lokaler Schwingungsmoden. Diese können durch die Eigendefekte des Halbleiters oder durch die eingebauten Störstellen entstehen. Sie wurden basierend auf den Kenntnissen der Gitterdynamik des ungestörten Kristalls untersucht. Experimentell gefundene neue Strukturen in GaN:Mg, GaN:As und ZnO:N wurden mit umfangreichen Berechnungen verglichen, so dass mögliche Ursachen dieser Linien geklärt werden konnten. Außerdem ließen sich so die Frequenzbereiche eingrenzen, in denen lokale Schwingungsmoden für Si- und C-Störstellen in hexagonalem GaN zu erwarten sind. Im letzten Abschnitt wird der Einfluss der äußeren Parameter wie Temperatur oder Verspannung auf die Phononen-Frequenz untersucht. Es konnte gezeigt werden, dass die Temperaturabhängigkeit von Wirtsphononen und lokalen Moden durch unterschiedliche Effekte dominiert wird. Bei den Wirtsphononen spielt der Volumeneffekt die entscheidende Rolle, bei den lokalen Moden dagegen der anharmonische Zerfall. Des Weiteren belegten die Rechnungen, dass das Ausbleiben einer Frequenz-Verschiebung der zusätzlichen Strukturen in GaN/GaAs bei druckabhängigen Messungen keinen Widerspruch zu ihrer Zuordnung als lokale Schwingungsmoden eindiffundierter Arsen-Atome darstellt.</dc:description>
+          <dc:description xml:lang="eng">The group III-nitrides and zinc oxide are in the focus of material research because of their high application potential. The presentation of the first UV laser diode as well as blue light emitting diodes were the preliminary highlights. Although of all technological progress many physical questions are still open. In this work some of these questions are examined experimentally with Raman-scattering and theoretically with valence-force calculations. Many physical properties such as strain and doping concentration affect the lattice dynamics. As a start the phonons of the center of the Brillouin-zone in GaN, AlN, InN and ZnO are studied with first-order Raman-scattering. These results are the basis for advanced investigations. The acoustical and optical modes at the zone boundary and their combinations and overtones are determinated from the second-order Raman-scattering. Using the valence-force calculations the experimental frequencies are assigned to particular phonon branches or points of the Brillouin zone. The second part of this work treats systematically the physics of local vibrational modes. They occur due to intrinsic defects or impurities in the semiconductors. They are investigated with respect to the vibrational properties of the unperturbed crystals. In order to assign new experimentally found structures, calculations of local vibrational modes in GaN:Mg, GaN:As and ZnO:N systems were carried out. Furthermore, the calculations in Si- and C-doped hexagonal GaN suggest the frequency range for local vibrational modes. In the last section the influence of external parameters such as temperature or strain on the phonon frequency is analyzed. It is shown, that the influence on the temperature dependence of host phonons and local vibrational modes are dominated through different effects. In case of the host phonons it is mainly due to the volume effect whereas the local modes are highly affected by the anharmonic decay. Moreover, the calculations verified that the absence of a frequency shift of the additional lines in GaN/GaAs probed with pressure-dependent measurements are not contradictory to their assignment as local modes of diffused arsenic.</dc:description>
+          <dc:date>2006-12-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1403</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14505</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14505</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1403/kaczmarczyk_georg.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

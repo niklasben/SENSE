@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3675">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3675</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">IKT-Performance Measurement Systeme : State-of-the-Art</dc:title>
+          <dc:title xml:lang="eng">ICT performance measurement systems : state-of-the-art</dc:title>
+          <dc:creator>Erek, Koray</dc:creator>
+          <dc:creator>Löser, Fabian</dc:creator>
+          <dc:creator>Grimm, Daniel</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Performance Measurement Systeme (PMS) zielen darauf ab, den Informationsbedarf des Managements in einer Form zu decken, dass es seiner Steuerungs- und Lenkungsfunktion optimal nachkommen kann. Vereinfacht ausgedrückt komprimieren PMS die wichtigsten Informationen über einen realen Sachverhalt in einer Weise, die es ermöglicht Entscheidungen schnell, effizient und nachvollziehbar zu treffen. Vor allem in der Branche der Informationstechnologie (IT) und den stark mit IT durchdrungenen Organisationen ist das Verlangen nach Transparenz und Leistungsmessung in den letzten Jahren stark gestiegen. Unternehmen versuchen zunehmend den Wert und die Leistung von IT sichtbar und effizient steuerbar zu gestalten. Vor dem Hintergrund dieser Problematik bieten IKT-PMS einen Lösungsansatz indem sie hilfreiche und übersichtliche Informationen bereitstellen und somit zu Effizienz und Effektivität einer Organisation beitragen und zusätzlich die Transparenz und Lenkungsfähigkeit erhöhen. Ein wesentliches Ziel dieses Bandes ist es, die Struktur, den Zweck und den Aufbau verschiedener Performance Measurement- und Kennzahlensysteme im Fokus des Projektes zu analysieren. Hierzu werden bekannte Ansätze beleuchtet und vor allem mit Blick auf die Eignung im Projekt bewertet. Basierend auf einer umfangreichen Literaturrecherche und Marktanalyse werden der State-of-the-Art im Bereich der PMS aufgezeigt, relevante Performancedimensionen definiert und ein projektbezogener IT-BSC Ansatz vorgeschlagen.</dc:description>
+          <dc:date>2013-04-17</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3675</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39274</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39274</dc:identifier>
+          <dc:identifier>978-3-7983-2521-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3675/9783798325210_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3675/9783798325210_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

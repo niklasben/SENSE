@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1067">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1067</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Über die Nullstellen einer Klasse meromorpher Funktionen</dc:title>
+          <dc:title xml:lang="eng">On the zeros of a class of meromorphic functions</dc:title>
+          <dc:creator>Meyer, Janis</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Sei f der konjugiert komplexe Gradient eines diskreten logarithmischen Potenzials. Dies definiert eine meromorphe Funktion in der Ebene, die von endlicher Ordnung sein kann. Wir geben Winkelräume für die Verteilung der Polstellen an, so dass bei beliebiger Wahl der Residuen die Funktion f stets unendlich viele Nullstellen besitzt. Wir diskutieren die Fälle, dass die Ordnung ganzzahlig oder nichtganzzahlig ist getrennt. Für letzteres beweisen wir als Hilfsmittel, mit Ideen von W. Fuchs, G. Brosch und L. Volkmann eine Abschätzung, mit der sich das radiale Verhalten ganzer Funktionen mit vorgegebenen Nullstellen kontrollieren läßt. Anhand einiger Beispiele weisen wir nach, dass die Winkelräume bei gewissen Ordnungen nicht vergrößert werden können. Weiter diskutieren wir die Frage, wann sich reziproke ganze Funktionen der Ordnung kleiner als 1/2 in obiger Form entwickeln lassen. Dies gelingt etwa dann, wenn die Verteilung der Polstellen bestimmten Regularitätsbedingungen genügt. Schließlich zeigen wir, dass zu jeder Ordnung Funktionen f der obigen Form existieren, die keine Nullstellen besitzen.</dc:description>
+          <dc:description xml:lang="eng">Let f be the complex conjugate of the gradient of a discrete logarithmic potential. This may define a function meromorphic in the plane for which we restrict the order to be finite. We give some sufficient conditions concerning the distribution of the sequence of poles such that f has infinitely many zeros. Because of technical problems we have to discuss the cases seperately when f has integer order or not. For the last and more complicated case we derive, following ideas of W. Fuchs, G. Brosch and L. Volkmann an estimate for entire functions with prescribed zeros. We investigate the extent to which 1/g with an entire function g of order less than 1/2 can be developped in the form f. This can be done when the zeros of g are regulary distributed in the sense of A. Pfluger and B. Lewin. Finally we show that for every order lambda there is a f of order lambda which fails to have zeros.</dc:description>
+          <dc:date>2005-07-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1067</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10511</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10511</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1067/meyer_janis.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

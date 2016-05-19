@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1977">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1977</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Überprüfung neuer Therapieansätze für PatchedassoziierteTumoren im Mausmodell</dc:title>
+          <dc:title xml:lang="eng">Evaluation of new targeted therapy approaches against Patched-associated tumors in a mouse model</dc:title>
+          <dc:creator>Ecke, Ines</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Die Hedgehog (Hh)-Signalkaskade ist in vielen Tumoren aufgrund von Mutationen im Tumorsuppressorgen Patched (Ptch) konstitutiv aktiviert. Im Rahmen dieser Arbeit wurden zwei neue Therapieansätze für Ptch-assoziierte Rhabdomyosarkome (RMS) und Medulloblastome (MB) im Ptchneo67/+-Mausmodell untersucht. Zum einen wurde Cyclopamin eingesetzt, bei dem es sich um einen spezifischen Inhibitor des Hh-Signalweges handelt. Für dieses Medikament ist bereits ein chemopräventiver Effekt für die Entstehung Ptch-assoziierter Tumoren gezeigt worden. Da die Tumorigenese im Ptchneo67/+-Mausmodell mit einer Inaktivierung des Wildtyp (wt) Ptch-Allels einher geht, wurden zum anderen die epigenetisch aktiven Substanzen 5-Aza-2-Deoxycytidin (5-Aza) und Valproinsäure (VPA) verwendet. Die Therapie mit den epigenetisch aktiven Substanzen zielte auf eine Reaktivierung der wtPtch-Expression und damit auf eine Attenuierung der Aktivität der Hh-Signalkaskade ab. Obwohl durch eine Behandlung mit Cyclopamin die Hh-Signalkaskade gehemmt werden konnte und durch die Gabe von 5-Aza/VPA die Expression von wtPtch in den Tumoren reaktiviert werden konnte, wurde durch keine der Behandlungen ein Effekt auf das Wachstum von klinisch manifesten RMS hervorgerufen. Dagegen führte eine Behandlung von jungen, tumorfreien Ptchneo67/+-Mäusen mit 5-Aza/VPA tatsächlich zu einer signifikant verlängerten tumorfreien Überlebenszeit der Tiere. Diese Daten lassen somit vermuten, dass zielgerichtete Therapien gegen Ptch-assoziierte Tumoren nur dann wirksam sind, solange sich die Tumoren in einem sehr frühen Stadium befinden. Während ihrer Progression werden die Tumoren zunehmend resistent gegen eine zielgerichtete Therapie. Für diese Hypothese spricht, dass eine ebenfalls durchgeführte konventionelle Chemotherapie mit Doxorubicin die Progression von Ptch-assoziierten Tumoren effizient hemmte. Durch dieses Medikament wird die DNA-Replikation blockiert, nicht aber die Aktivität der Hh-Signalkaskade reguliert. Aufgrund dieser Daten sollte es möglich sein, eine effiziente antitumorale Wirkung gegen Ptch-assoziierte Tumoren durch die Kombination von Doxorubicin mit einer zielgerichteten Therapie hervorzurufen. Hierbei würde man die Tumoren mit einer Induktionstherapie zunächst hochdosiert mit Doxorubicin behandeln, um den Großteil der Tumorzellen zu eliminieren. Im Anschluss würde man versuchen, die verbleibenden Zellen, aus denen sich wieder neue Tumoren entwickeln können, im Rahmen einer Konsolidierungstherapie mit einem der signalwegspezifischen Medikamente zu bekämpfen.</dc:description>
+          <dc:description xml:lang="eng">A broad variety of malignancies is associated with aberrant activation of Hedgehog (Hh) signaling due to mutations in the Hh receptor and tumor suppressor gene Patched (Ptch). We investigated two therapy approaches to restore normal Hh signaling in Ptch-associated rhabdomyosarcoma (RMS) and medulloblastoma (MB) in the Ptchneo67/+ mouse model. At first, the alkaloid cyclopamine was used, which specifically blocks the activation of the Hh signaling pathway. For this drug, a chemopreventive effect on the formation of Ptch-associated tumors has already been demonstrated. The second approach was based on our observation that the intact Ptch allele is epigenetically silenced in Ptch-associated tumors in the mouse. Here, we investigated whether targeting of epigenetic silencing mechanisms with the Dnmt-inhibitor 5-aza-2-deoxycytidine (5-aza) and the histone deacetlyase-inhibitor valproic acid (VPA) could be useful for the reactivation of the intact Ptch allele and therefore for attenuation of the Hh signaling cascade. Although cyclopamine partially suppressed Hh signaling in clinically overt, advanced stages of tumors, the treatment did not result in stable disease or tumor regression. Treatment with 5-aza and VPA efficiently prevented MB and RMS formation. However the treatment was not effective in clinically overt, full-blown tumors, although wildtype Ptch expression was efficiently reactivated by 5-aza/VPA combination therapy. Based on these data we propose that full-blown Ptch-associated tumors that originally depend on Hh signaling during the initiation process are becoming independent of this signaling pathway when tumors progress. This hypothesis is underlined by the efficient growth inhibition of Ptch-associated RMS by doxorubicin. This drug exerts its anti-tumoral potential by inhibition of DNA replication, but has no impact on Hh signaling. Furthermore, we suggest that targeted therapies of Ptch-associated tumors could be effective for controlling minimal residual disease following conventional therapy e. g. with doxorubicin.</dc:description>
+          <dc:date>2008-11-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1977</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20523</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20523</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1977/ecke_ines.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

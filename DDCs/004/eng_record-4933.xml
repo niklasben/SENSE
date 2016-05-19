@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4933">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4933</identifier>
+        <datestamp>2014-04-15</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Generic object categorization in PolSAR images - and beyond</dc:title>
+          <dc:title xml:lang="deu">Generische Objektkategorisierung in PolSAR Bildern - und darüber hinaus</dc:title>
+          <dc:creator>Hänsch, Ronny</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Can a single algorithm successfully solve different classification tasks without changing the algorithm itself? The human visual cortex can - and so can the computer!&#13;
+In the context of this thesis "generic object categorization" refers to the task of detecting instances of object classes within images. The main focus of this work lies on polarimetric synthetic aperture radar (PolSAR) images, but it is by no means limited to it. Unlike other works, this thesis assumes that the final categorization problem (i.e. objects of which specific classes are searched for in the images) is not known during the design of the framework. Consequently, any kind of category-specific optimization such as sophisticated feature design or manual selection, top-down processing, or task-specific choice of the classifier is not possible.&#13;
+Instead, the proposed system is based on a two-stage framework. The first stage uses a large set of general low-level feature operators, that capture mainly radiometric and textural properties, as well as a classifier based on Random Forests, that is able to handle high-dimensional input spaces. The second stage computes high-level features, which are based on the classification results of the first stage. A second Random-Forest-based classifier estimates the final category posterior distribution.&#13;
+The exhaustive experimental study of this thesis not only investigates the basic characteristics of the newly proposed extension of the Random Forest classifier. It also applies the developed framework to a vast amount of image data, including PolSAR data, remotely sensed optical images, and close-range photographs with various categorization tasks ranging from land cover classification, over building detection, to the localization of cars. Not a single system parameter is adapted to the problem at hand. The whole framework is evaluated (i.e. trained and applied) without further optimization. Nevertheless, reasonable classification accuracies are achieved, which partly even compare favourably with state-of-the-art expert systems.</dc:description>
+          <dc:description xml:lang="deu">Kann ein einziges System erfolgreich verschiedene Klassifikationsprobleme lösen, ohne dass das System selbst geändert wird? Der visuelle Kortex des Menschen kann - und so der Computer!&#13;
+Im Kontext dieser Arbeit bezieht sich "generische Objektkategorisierung" auf die Aufgabe, Instanzen verschiedener Objektklassen in Bildern zu detektieren. Das Hauptaugenmerk dieser Arbeit liegt dabei auf Bildern des polarimetrischen Synthetischen Apertur Radar (PolSAR). Aber die Arbeit ist keineswegs nur darauf beschränkt. Im Gegensatz zu anderen Arbeiten nimmt die vorliegende Thesis an, dass das eigentliche Kategorisierungsproblem (insbesondere Objekte welcher Klassen in den Bildern gesucht werden sollen) während des Entwurfs des Systems selbst nicht bekannt ist. Daraus folgt, dass jede Art kategorie-spezifischer Optimierung, wie die Benutzung spezialisierter Merkmale, manuelle Merkmalsauswahl oder die Ausnutzung von Modellwissen, unmöglich ist.&#13;
+Stattdessen basiert das vorgeschlagene System auf einer Zwei-Stufen-Struktur. Die erste Stufe nutzt zum Einen eine umfangreiche Menge an Merkmalsoperatoren, welche hauptsächlich radiometrische und texturelle Eigenschaften beschreiben, und zum Anderen einen Klassifizierer, welcher auf Random Forests basiert und mit hoch-dimensionalen Eingaberäumen umgehen kann. Die zweite Stufe berechnet Merkmale auf einem höheren Level, welche auf dem Klassifikationsergebnis der ersten Stufe beruhen. Ein zweiter Random-Forest basierter Klassifizierer schätzt die endgültige Posteriorverteilung des Klassenlabels.&#13;
+Die umfangreiche experimentelle Studie dieser Arbeit untersucht nicht nur die grundlegenden Charakteristika der neu vorgeschlagenen Erweiterung des Random Forest Klassifizierers. Sie wendet das entwickelte System auch auf eine große Menge von Bilddaten an, welche PolSAR Daten, optische Fernerkundungsbilder und Nahbereichsfotografien beinhalten, inklusive zahlreicher Klassifikationsprobleme, beginnend bei Landnutzungsklassifikation, über Gebäudedetektion, bis hin zur Detektion von Autos. Kein einziger Systemparameter wurde für das jeweilige Klassifikationsproblem angepasst. Das gesamte System wurde ohne weitere Optimierung ausgewertet (dh. trainiert und angewendet). Nichtsdestotrotz werden annehmbare Klassifikationsgenauigekeiten erreicht, welche teilweise sogar mit den Ergebnissen moderner Expertensysteme vergleichbar sind.</dc:description>
+          <dc:date>2014-03-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4933</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49335</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49335</dc:identifier>
+          <dc:identifier>978-3-7696-5138-6</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4933/haensch_ronny.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

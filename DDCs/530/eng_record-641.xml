@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:641">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:641</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">ZETA, A zero field spin echo method for very high resolution study of elementary excitations and first application</dc:title>
+          <dc:title xml:lang="deu">ZETA, ein Null-feld Spin Echo Instrument für hochauflösende Messungen elementarer Anregungen und seine ersten Anwendungen</dc:title>
+          <dc:creator>Klimko, Serguei</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Neutronenspektroskopie ist eine führende Methode zur Untersuchung der Dynamik kondensierter Materie auf atomarer Skala. Die Neutronen Spin Echo (NSE) Technik eröffnet die Möglichkeit, die Energieauflösung dieser Messungen ohne fatale Verluste an Intensität zu erhöhen. Das grosse Interesse an Linienbreiten dispersiver Anregungen, z.B. Phononen in Festkörpern, führte in den letzten fünfzehn Jahren zur Entwicklung einer Methode, die NSE und Dreiachsenspektroskopie (TAS) kombiniert. Diese fokussierende NSE Methode , vorgeschlagen von F. Mezei, erlaubt es, Linienbreiten dispersiver Anregungen in der gesamten Brillouin-Zone mit ?eV Auflösung zu messen, was die typische TAS Auflösung um 2 Grössenordnungen verbessert. Bei dieser Technik werden die Flächen konstanter Spin Echo Phase parallel zur Dispersionsfläche justiert. Typische Kippwinkel für dispersive Anreg-ungen in Kristallen liegen bei bis zu 50º, was mit den Standardspulen des klassischen Spin Echos nicht erreichbar ist. Diese grossen Kippwinkel ermöglichte erst die von R. Golub und R. Gähler eingeführte Neutronen Resonanz Spin Echo (NRSE) Methode. Bei dieser Methode ersetzen 2 kurze Hochfrequenz Flipper  mit Nullfeld im Zwischenraum  eine grosse NSE Spule. Im Rahmen dieser Dissertation wurde am Institut Laue Langevin in Grenoble in den Jahren 2000  2002 ein derartiges Gerät gebaut und erfolgreich am TAS Spektrometer IN3 getestet. Entwicklung, Test und Aufbau dieser NRSE Option ZETA (Zero field spin Echo for Three Axis) am IN3 Spektrometer und die Durchführung erster Messungen waren die wesentlichen Teile dieser Dissertation. Die Energieauflösung des IN3 wurde von 1.1 meV auf 1 ?eV verbessert. Erste Testexperimente wurden durch-geführt an Linienbreiten in Ge und in superfluidem 4He  Linienbreiten am Roton, an Phonenen mit niedrigem q und jenseits des Rotonen-Minimums. Die Messungen am Rotonen-Minimum und bei niedrigem q stimmen gut mit Literaturwerten überein. ZETA hat seine Leistungsfähigkeit demonstriert und der Umzug vom Test-spektrometer IN3 zum Hochfluss-Spektrometer IN20 ist für den 2. Reaktorzyklus 2003 geplant. Die erwartete Flusserhöhung von einer Grössenordnung wird erstmals die Messung von Phononenlebensdauern auf breiter Basis ermöglichen.</dc:description>
+          <dc:description xml:lang="eng">Neutron spectroscopy is a leading method for investigating the dynamics of condensed matter on an atomic scale. The neutron spin echo (NSE) technique gives us a unique opportunity to enhance the energy resolution during these investigations without any fatal loss of neutron intensity. Because of the significant interest in the linewidths of dispersive excitations, such as phonons in solids, a new method, combining NSE and three-axis spectrometry (TAS), has been developed over the last fifteen years. This spin echo focusing method, proposed by F. Mezei, makes it possible to measure the linewidths of dispersive excitations in solids over the entire Brillouin zone with ?eV resolution, thus improving the typical TAS resolution by about 2 orders of magnitude. In this technique, the surfaces of constant spin echo phases are adjusted parallel to the dispersion surface, requiring inclined field boundaries of the spin echo precession fields. Typical inclination angles for dispersive excitations in crystals range up to 50º and are not attainable with standard coils in classical spin echo. These large inclination angles were first possible with the advent of the neutron resonance spin echo (NRSE) technique introduced by R. Golub and R. Gähler. With this technique, two short radio frequency flippers with zero magnetic field between them, replace each big NSE coil. As part of this thesis, an instrument of this kind was built at the Institute Laue-Langevin, Grenoble, during the years 2000-2002 and was successfully tested at the TAS spectrometer IN3. The main parts of this thesis were developing, testing and installing this NRSE option ZETA (Zero field spin Echo for Three Axis) on IN3 and performing the first test measurements. An improvement in the energy resolution of IN3 from 1.1meV to 1 eV was achieved. The first test experiments were done on phonon linewidths in Ge, on linewidths at the roton and at low q phonons in superfluid 4He and on linewidths in 4He beyond the roton minimum. The results at the roton minimum and at low q phonons are consistent with the literature. ZETA has demonstrated its reliable performance, and its move from the test spectrometer IN3 to the high flux TAS-spectrometer IN20 is planned for the second reactor cycle in 2003. With a flux gain of one order of magnitude, a large area of phonon life times will become accessible for the first time.</dc:description>
+          <dc:date>2004-02-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/641</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6357</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6357</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/641/klimko_serguei.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

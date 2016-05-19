@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:585">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:585</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Molekulare Mechanismen der antiinflammatorischen und immunsuppressiven Effekte von Interleukin-10</dc:title>
+          <dc:title xml:lang="eng">Molecular mechanism of the antiinflammatory and immune suppressive effects of Interleukin-10</dc:title>
+          <dc:creator>Schönbein, Christiane</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Interleukin-10 (IL-10) ist ein pleiotrophes Zytokin, das von einer Vielzahl von Immunzellen gebildet wird. Im Rahmen einer Immunantwort verändert IL-10 die Expression von löslichen Mediatoren und von Zelloberflächenmolekülen in einer Weise, die zur Eindämmung einer Entzündung führt, bei gleichzeitiger Beseitigung von Antigen. Die antigenpräsentierenden Zellen (APCs) sind dabei die Hauptzielzellen des Zytokins. Die Auswirkungen einer kurzzeitigen IL-10-Behandlung von APCs sind relativ gut untersucht. Dagegen sind die Auswirkungen einer langen IL-10-Anwesenheit und die Mechanismen der IL-10-Signaltransduktion noch weitgehend ungeklärt. Die Signaltransduktion von IL-10 wird durch die Bindung des Zytokins an seinen spezifischen Rezeptor eingeleitet. Nachfolgend werden die Januskinasen Jak1 und Tyk2 und die Transkriptionsfaktoren Stat3 und Stat1 durch Phosphorylierung aktiviert. Die Folgen dieser Kaskade sind die Transkription verschiedener Gene, deren Endprodukte die Wirkung von IL-10 vermitteln. Da die Transkriptionsfaktoren Stat3 und Stat1 auch in anderen Zytokin-Signaltransduktionswegen eine Rolle spielen, sollten in dieser Arbeit weitere Mediatoren gefunden werden, die zur Spezifität der IL-10-Signaltransduktion beitragen. Wir konnten zeigen, dass die MAP-Kinase JNK, die Methyltransferase MGMT, der Transkriptionsfaktor ICSBP und die Histon-Deacetylase HDAC1 durch IL-10 posttranslational durch Phosphorylierung modifiziert werden. Für HDAC1 konnte eine Rolle bei der Vermittlung des immunsuppressiven Effektes von IL-10 auf das für die Antigenpräsentation essentielle MHCII-Molekül HLA-DR nachgewiesen werden. Auch für die Vermittlung der stimulatorischen Wirkung von IL-10 auf den Fc?-Rezeptor CD64, der eine Rolle bei der Phagozytose spielt, konnte gezeigt werden, dass HDAC1 essentiell ist. Die Ergebnisse tragen zum besseren Verständnis der IL-10-Signaltransduktion bei. Neben der Untersuchung der IL-10-Signaltransduktion wurde den Auswirkungen einer IL-10-Langzeitbehandlung nachgegangen. Eine IL-10-Langzeitpräsens wurde nicht nur bei verschiedenen Erkrankungen, wie Tumor-Leiden und chronischen Virusinfektionen beobachtet, sondern ist auch für eine IL-10-Therapie relevant. In dieser Arbeit wurden die Effekte einer IL-10-Langzeitbehandlung auf immunologische Parameter und deren biologische Folgen untersucht. Wir konnten zeigen, dass eine lange IL-10-Behandlung zur Generierung einer neuen APC-Population führt. Sie ist charakterisiert durch einen Phänotyp mit erhöhter HLA-DR- und geringer CD86-Expression. Die Funktionalität dieser Zellen zeichnet sich durch die effektive Vermittlung der immunsuppressiven Wirkung von IL-10 aus, unter anderem durch Generierung von hyporesponsive T-Zellen. Die Existenz der durch IL-10 generierten APCs ermöglicht ein besseres Verständnis der Mechanismen der Immunregulation.</dc:description>
+          <dc:date>2003-07-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/585</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5799</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5799</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/585/schoenbein_christiane.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

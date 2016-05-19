@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1867">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1867</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:300</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Jugendliche in Nauen. Gruppendiskussionen zur Freizeitsituation, zu Jugendkulturen und dem Verhältnis zu Ausländern. Arbeitspapier 1/2002</dc:title>
+          <dc:creator>Kohlstruck, Michael</dc:creator>
+          <dc:subject>ddc:300</dc:subject>
+          <dc:description xml:lang="deu">Im Mai und Juni 2001 wurden in acht Gruppendiskussionen insgesamt 75 junge Leute befragt, die in Nauen (Land Brandenburg) die Schule besuchten oder sich in einer Berufsausbildung befanden. Die 51 Jungen bzw. jungen Männer und 24 Mädchen bzw. jungen Frauen sind zwischen 1979 und 1987 geboren und waren im Jahr 2001 zwischen 14 und 22 Jahren alt. Die Untersuchung richtete sich zunächst auf zwei Fragenkomplexe: Einmal sollten junge Leute ihre Freizeitsituation in Nauen beschreiben und bewerten. Zum anderen wollten wir etwas über das Verhältnis der jungen Leute zu „Ausländern“ erfahren. Zusätzlich äußerten sich die Jugendlichen auch zum Thema „Jugendkulturen“. Für den Themenkomplex „Freizeitsituation“ wurden die Äußerungen der Jugendlichen nach inhaltlichen Gesichtspunkten systematisiert. Sie werden in der Weise wiedergegeben, wie sie von den Jugendlichen formuliert wurden. Damit bleibt dieser Teil der Auswertung weitgehend auf der Ebene des „immanenten wörtlichen Sinngehalts“. Die Auswertung beschränkt sich auf eine „formulierende Interpretation“. Beim Themenkomplex „Verhältnis zu Ausländern“ wurde weitgehend in der gleichen Weise verfahren: Die Erfahrungen, Bewertungen, Befürchtungen und Hoffnungen der jungen Leute werden in thematisch geordneter Weise wiedergegeben. Darüber hinaus schien es an manchen „Gelenkstellen“ der Argumentation sinnvoll zu sein, neben dem sogenannten „manifesten Sinn“ auch auf die Struktur der Äußerungen einzugehen. Damit wird „unterhalb“ des wörtlich Gesagten nach einem latenten Sinn der Äußerungen gefragt. Diese Teile der Auswertung, den man als „reflektierende Interpretation“ bezeichnen kann, zielt auf die Deutungsmuster, die sich in den einzelnen Äußerungen abzeichnen. Am Ende des ersten Teils und am Schluss des Berichts werden Überlegungen zum strukturellen Rahmen angestellt, innerhalb dessen sich die Einschätzungen der Jugendlichen bewegen.</dc:description>
+          <dc:date>2008-08-27</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1867</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19773</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19773</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1867/kohlstruck_jugendliche_in_nauen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

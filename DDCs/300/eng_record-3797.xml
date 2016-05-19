@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3797">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3797</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:300</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Attitudes on Climate Change and Energy Consumption Behaviour among Iranian and German Youth</dc:title>
+          <dc:creator>Schröder, Sabine</dc:creator>
+          <dc:creator>Schmithals, Jenny</dc:creator>
+          <dc:creator>Ulbrich, Hannah</dc:creator>
+          <dc:subject>ddc:300</dc:subject>
+          <dc:description xml:lang="eng">Attempts to change people’s lifestyles in order to adapt to and mitigate the consequences of climate change are not reasonable without considering the question whether climate change matters to people or not and which aspects of the topic are crucial to them and why. The study is based on two quantitative surveys among 188 Iranian students from three different high schools in Tehran and 188 German students from two educational institutions in Berlin and Bonn conducted in 2009 and 2010. The aim of the surveys was to find out about the attitudes on environmental protection and awareness and knowledge on climate change and its consequences among students and to analyse existing consumption behaviour regarding mobility and energy consumption and energy saving within their families. The study analyses and compares the results from German and Iranian students.</dc:description>
+          <dc:contributor>Sponsored by German Federal Ministry of Education and Research (BMBF)</dc:contributor>
+          <dc:date>2013-06-05</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3797</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40239</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40239</dc:identifier>
+          <dc:identifier>978-3-7983-2568-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3797/No11_Attitudes%20on%20Climate%20Change%20and%20Energy%20Consumption%20Behavior.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3757">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3757</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Sound in space - space in sound : proceedings ; SMC 08, 5thSound and Music Computing Conference, July 31st-August 3rd 2008, Berlin Germany</dc:title>
+          <dc:creator>Supper, Martin (Hrsg.)</dc:creator>
+          <dc:creator>Weinzierl, Stefan (Hrsg.)</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="eng">The SMC Conferences aim at promoting exchanges between European countries around topics related to sound and music computing, and to give them an international dimension.</dc:description>
+          <dc:date>2013-06-07</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3757</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40023</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40023</dc:identifier>
+          <dc:identifier>978-3-7983-2094-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3757/9783798320949_content_u_cover.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

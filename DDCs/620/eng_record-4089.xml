@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4089">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4089</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR X: MDB Test Procedure: Test and Simulation Results</dc:title>
+          <dc:creator>Versmissen, Ton</dc:creator>
+          <dc:creator>Welten, Joke </dc:creator>
+          <dc:creator>Rodarius, Carmen</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">One of the test modes investigated during the FIMCAR project to improve frontal impact and compatibility is a so-called Moving Deformable Barrier test (MDB test). This is a frontal test with a moving test vehicle and moving trolley equipped with a deformable element. In various initiatives in Europe and the US this type of test is seen as a next step in the future evaluation of vehicle safety with a good possibility for harmonisation. Based on the experience of various projects prior to the FIMCAR project, a test protocol has been drafted in the FIMCAR project. Two main parameters: test speed and trolley mass, key factor to define the severity of the MDB tests, were defined during the FIMCAR program. Using the draft protocol a number of MDB tests were carried out, the main objectives of the test were: &#13;
+ • Analysis of the feasibility of the test set up and protocol&#13;
+ • Definition of the test severity; trolley mas and impact speed&#13;
+ • Assessment of repeatability and reproducibility&#13;
+ • Development of compatibility metric / horizontal load spreading &#13;
+The results of 15 MPDB test were used for the FIMCAR investigations. In general terms, the tests according to the draft protocol were feasible in various laboratories using different test trollies. Special attention is needed for the wheel alignment of trolley and test vehicles to avoid incorrect offsets. For the explored vehicle mass range, kerb weight from 1000kg to 2200 kg, a fixed trolley mass of 1500 kg and a test speed of 50 km/h (for vehicle and trolley) results in an acceptable test severity. For vehicles outside this range, for example light electrical vehicles and heavy SUV’s, an update of these specifications must be considered in the future. Only two repeatability and two reproducibility tests were carried out to date. These series of tests both showed good results, giving an indication for good R&amp;R, however, more tests are needed to make this statement statistically relevant.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4089</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40899</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40899</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4089/FIMCAR_X_mdb_results.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

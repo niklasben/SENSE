@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3972">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3972</identifier>
+        <datestamp>2013-07-22</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung eines Vorgehensmodells zur prozessorientierten Planung und Gestaltung komplexer Arbeitssysteme (am Beispiel Krankenhaus)</dc:title>
+          <dc:title xml:lang="eng">Developing a Process Model for workflow-oriented Planning and Designing of Complex Work Systems (using the example of hospitals)</dc:title>
+          <dc:creator>Fuchs, Daniela</dc:creator>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="deu">Ziel der Arbeit ist die Entwicklung eines verbesserten Vorgehens zur Planung und Gestaltung&#13;
+komplexer Arbeitssysteme. Am Beispiel des Arbeitssystems Krankenhaus&#13;
+werden Anforderungen an den Planungs- und Gestaltungsprozess abgeleitet und mittels&#13;
+der Grundsätze ergonomischer Arbeitssystemgestaltung geordnet. Eine systematische&#13;
+Analyse bestehender Planungsansätze verschiedener Disziplinen und die Bewertung&#13;
+übertragbarer Erkenntnisse bilden die Grundlage für die Entwicklung eines ganzheitlichen&#13;
+Vorgehensmodells. Die Entwicklung des Vorgehensmodells erfolgt entlang&#13;
+des Problemlösezyklus des „Systems Engineering“ und einer entwicklungsbegleitenden&#13;
+Evaluation durch ein interdisziplinäres Planungsteam. Erster Teil der Ergebnisse&#13;
+ist ein allgemeines Vorgehensmodell zur Planung und Gestaltung komplexer Systeme&#13;
+bestehend aus zehn Planungsleitsätzen und einem partizipativen Planungsreferenzmodell.&#13;
+Dieses wird in Anwendung auf das klinische Arbeitssystem konkretisiert, daraus&#13;
+entsteht das PECS-Planungskonzept (Participatory Engineering of Clinical Systems).&#13;
+Es gliedert sich in drei Bausteine: ein PECS-Strukturmodell, ein PECSPlanungsprozess&#13;
+und eine PECS-Toolbox. Insgesamt evaluieren 76 interdisziplinäre&#13;
+Planungsexperten mit Hilfe eines validierten Fragebogens die Gebrauchstauglichkeit&#13;
+der drei entwickelten PECS-Bausteine.&#13;
+Ergänzend zu der Anwendung auf klinische Raumstrukturen bieten die Ergebnisse&#13;
+Ansatzpunkte für die Übertragung auf andere Strukturelemente komplexer Systeme&#13;
+sowie weiterführende Forschungsfragestellungen.</dc:description>
+          <dc:description xml:lang="eng">The aim of this thesis is to develop an improved approach for planning and designing&#13;
+complex work systems. Requirements for the planning and the design process are derived&#13;
+from an exemplary analysis of clinical work systems. They are organized according&#13;
+to the principles of ergonomic work system design. The basis for developing a holistic&#13;
+process model is formed by a systematic investigation of existing planning approaches&#13;
+from different disciplines and the assessment of transferrable findings. The&#13;
+development of the new process model is based on the problem solving cycle of the&#13;
+"systems engineering" approach and an on-going evaluation by an interdisciplinary&#13;
+planning team. The first part of the results is a general process model for planning and&#13;
+designing complex work systems. It consists of ten planning principles and a reference&#13;
+model for a planning process. This general process model is applied to the clinical work&#13;
+system and concretized to form the PECS planning approach (Participatory Engineering&#13;
+of Clinical Systems). It is divided into three modules, 1. the PECS structure model,&#13;
+2. the PECS planning process and 3. the PECS toolbox. An interdisciplinary team of 76&#13;
+planning experts evaluated the usability of the three developed PECS modules using a&#13;
+validated questionnaire. The results provide new aspects for transferring the process&#13;
+model to other structural elements of complex systems. Apart from the design of environmental&#13;
+structures advanced fields for research are identified as well.</dc:description>
+          <dc:date>2013-07-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3972</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-39725</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-39725</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3972/fuchs_daniela.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

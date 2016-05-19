@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:741">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:741</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Characterization and Comparison of Formal Refinement and Development Relations for Software Modeling Techniques</dc:title>
+          <dc:title xml:lang="deu">Charakterisierung und Vergleich von formalen Refinement und Development Relationen für Softwaremodellierungstechniken</dc:title>
+          <dc:creator>Schröter, Gunnar</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Refinement ist ein Eckstein der formalen Ansätze der Software Modellierung und Refinement- und formale Development-Relationen wurden für verschiedenste formale und semiformale Spezifikationstechniken, sowie verschiedene Arten von Semantiken entwickelt. Ziel dieser Doktorarbeit ist es eigenschaftsbasierte Refinement- und Development-Relationen aus verschiedenen Bereichen in systematischer und formaler Art und Weise zu klassifizieren, zu charakterisieren und zu vergleichen. Im Rahmen dieser Arbeit werden untersucht Programm-Refinement, Data-Refinement, Forward-Simulation und Backward-Simulation aus dem Bereich der zustandsorientierten Modellierungen, Trace-Refinement, Trace-Äquivalenz, Reduction, Extension, Test-Äquivalenz sowie starke und schwache Bisimulation aus dem Bereich der verhaltensorientierten Modelierungskonzept und Reynolds Methode aus dem Bereich der imperativen Programmierung. Die Klassifikation basiert auf einem vereinheitlichendem abstrakten Framework für Development-Relationen. Hier werden Development-Relationen als Relationen über Modellen definiert, welche eine spezifische Klasse von Modelleigenschaften bewahren. Im Falle von Refinement wird eine spezielle Teilklasse von Eigenschaften als vom Kontext der Modelle beobachtbar interpretiert. Eine Refinement-Relation kann klassifiziert werden, als eine bewahrende Refinement-Relation, falls sie die Klasse der beobachtbaren Eigenschaften bewahrt, eine reflektierende Refinement-Relation, falls sie die Klasse der beobachtbaren Eigenschaften reflektiert, oder als eine Refinement-Äquivalenz, falls sie die Klasse der beobachtbaren Eigenschaften sowohl bewahrt, als auch reflektiert. Neben einer Development-Relation kann ein Development-Konzept auch eine regel-basierte Charakterisierung dieser Relation beinhalten. Eine solche regel-basierte Charakterisierung ist eine Menge von Development-Regeln, welche im Hinblick auf die charakterisierte Development-Relation korrekt und vollständig sein muß. Um die verschiedenen Development-Relationen in einer vollständigen und formalen Art und Weise vergleichen zu können, wird jede Development-Relation im Transformations-System Framework charakterisiert, daß heißt, die Development-Relation wird in die Transformations-Systeme und wird durch die Development-Regeln des Frameworks charakterisiert.</dc:description>
+          <dc:description xml:lang="eng">Refinement is a cornerstones of formal approaches for software modeling. Thus refinement and formal development relations have been developed for several specification techniques and for different kinds of semantics. The aim of this phd-thesis is to classify, characterize and compare property-based refinement and development relations from different backgrounds in a systematical and formal manner. The thesis pays special attention to Program-Refinement, Data-Refinement, Forward-Simulation and Backward-Simulation from the area of state-oriented models, Trace-Refinement, Trace-Equivalence, Reduction, Extension, Test-Equivalence and Strong and Weak Bisimulation from the area of behavior-oriented modeling concepts and Reynold's Method from the area of imperative programming. The classification is based on a unifying abstract framework for development relations. Here a development relation is defined as a relation over a class of models that preserve a specific class of properties. In the case of refinement a special subclass of properties is interpreted as observable from the context of the models. A refinement relation can be classified as a preserving refinement if it preserves the class of observable properties, a reflecting refinement if it reflects the class of observable properties, i.e. if it preserves the class of negations of observable properties, or as refinement equivalence if it preserves and reflects the class of observable properties. Beside a development relation a development concept can provide a rule-based characterization of the development relation. A rule-based characterization is a set of development rules which is sound and complete with respect to the characterized development relation. To be able to compare the different development relations in a complete and formal manner each development relation is characterized in the transformation system framework, i.e. the development relation is embedded into transformation systems and the embedded relation is characterized by development rules for transformation systems.</dc:description>
+          <dc:date>2005-04-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/741</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7354</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7354</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/741/schroeter_gunnar.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

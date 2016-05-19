@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1579">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1579</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Integration of Vehicle and Duty Scheduling in Public Transport</dc:title>
+          <dc:title xml:lang="deu">Integration von Umlauf- und Dienstplanung im öffentlichen Personennahverkehr</dc:title>
+          <dc:creator>Weider, Steffen</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This thesis describes the algorithm IS-OPT that integrates scheduling of vehicles and duties in public bus transit. IS-OPT is the first algorithm which solves integrated vehicle and duty scheduling problems arising in medium sized carriers such that its solutions can be used in daily operations without further adaptions. This thesis is structured as follows: The first chapter highlights mathematical models of the planning process of public transit companies and examines their potential for integrating them with other planning steps. It also introduces descriptions of the vehicle and the duty scheduling problem. Chapter 2 motivates why it can be useful to integrate vehicle and duty scheduling, explains approaches of the literature, and gives an outline of our algorithm IS-OPT. The following chapters go into the details of the most important techniques and methods of IS-OPT: In Chapter 3 we describe how we use Lagrangean relaxation in a column generation framework. Next, in Chapter 4, we describe a variant of the proximal bundle method (PBM) that is used to approximate linear programs occurring in the solution process. We introduce here a new variant of the PBM which is able to utilize inexact function evaluation and the use of epsilon-subgradients. We also show the convergence of this method under certain assumptions. Chapter 5 treats the generation of duties for the duty scheduling problem. This problem is modeled as a resourceconstraint- shortest-path-problem with non-linear side constraints and nearly linear objective function. It is solved in a two-stage approach. At first we calculate lower bounds on the reduced costs of duties using certain nodes by a new inexact label-setting algorithm. Then we use these bounds to speed up a depth-first-search algorithm that finds feasible duties. In Chapter 6 we present the primal heuristic of IS-OPT that solves the integrated problem to integrality. We introduce a new branch-and-bound based heuristic which we call rapid branching. Rapid branching uses the proximal bundle method to compute lower bounds, it introduces a heuristic node selection scheme, and it utilizes a new branching rule that fixes sets of many variables at once. The common approach to solve the problems occurring in IS-OPT is to trade inexactness of the solutions for speed of the algorithms. This enables, as we show in Chapter 7, to solve large real world integrated problems by IS-OPT. The scheduled produced by IS-OPT save up to 5% of the vehicle and duty cost of existing schedules of regional and urban public transport companies.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit beschreibt den Algorithmus IS-OPT, welcher der erste Algorithmus ist, der integrierte Umlauf- und Dienstplanungsprobleme für mittelgroße Verkehrsunternehmen löst und dabei alle betrieblichen Einzelheiten berücksichtigt. Seine Lösungen können daher direkt in den täglichen Betrieb übernommen werden. Im ersten Kapitel werden mathematische Modelle für verschiedenen Probleme aus dem Planungsprozess von Nahverkehrsunternehmen beschrieben. Es werden Ansätze zur Integration der einzelnen Probleme untersucht. In diesem Kapitel werden außerdem das Umlauf- und das Dienstplanungsproblem eingeführt. Kapitel 2 motiviert, warum Integration von Umlauf- und Dienstplanung hilfreich ist oder in welchen Fällen sie sogar unabdingbar ist; es gibt einen Überblick über die vorhanden Literatur zur integrierten Umlauf- und Dienstplanung und umreißt unseren Algorithmus IS-OPT. Die weiteren Kapitel behandeln die in IS-OPT verwendeten Methoden: In Kapitel 3 beschreiben wir, wie Spaltenerzeugung für lineare Programme mit Lagrange-Relaxierung und Subgradienten-Verfahren kombiniert werden kann. In Kapitel 4 wird unsere Variante der proximalen Bündelmethode beschrieben. Diese wird benutzt um näherungsweise primale und duale Lösungen von lineare Programmen zu berechnen. Unsere Variante ist angepasst, um auch mit ungenauer Funktionsauswertung und Epsilon-Subgradienten arbeiten zu können. Wir zeigen die Konvergenz dieser Variante unter bestimmten Annahmen. Kapitel 5 behandelt das Erzeugen von Diensten für das Dienstplanungsproblem. Dieses Problem ist als ein Kürzeste-Wege-Problem mit nichtlinearen Nebenbedingungen und fast linearer Zielfunktion modelliert. Wir lösen es, indem zuerst Schranken für die reduzierten Kosten von Diensten, die bestimmte Knoten benutzen, berechnet werden. Diese Schranken werden benutzt, um in einem Tiefensuchalgorithmus den Suchbaum klein zu halten. Im Kapitel 6 präsentieren wir die neu entwickelte Heuristik "Rapid Branching", die eine ganzzahlige Lösung des integrierten Problems berechnet. Rapid Branching kann als eine spezielle Branch-and-Bound-Heuristik gesehen werden, welche die Bündelmethode benutzt. In den Knoten des Suchbaums können mehrere Variablen auf einmal fixiert werden, die mit Hilfe einer Perturbationsheuristik ausgewählt werden. In Kapitel 7 schließlich zeigen wir, daß wir mit IS-OPT auch große Probleminstanzen aus der Praxis lösen können und dabei bis zu 5% der Fahrzeug- und Dienstkosten sparen können.</dc:description>
+          <dc:date>2007-08-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-gzip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1579</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16240</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16240</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1579/original_DISS_Weider_LaTeX.tgz</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1579/weider_steffen.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

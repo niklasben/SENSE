@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1618">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1618</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Stoffaustausch und Fluiddynamik am bewegten Einzeltropfen unter dem Einfluss von Marangonikonvektion</dc:title>
+          <dc:title xml:lang="eng">Mass Transfer and Fluid Dynamics of Moving Drops under the Influence of Marangoni convection</dc:title>
+          <dc:creator>Schulze, Kai</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Ziel der Arbeit bestand in der experimentellen Untersuchung der für Extraktionsprozesse relevanten Stofftransportmechanismen am Einzeltropfen sowie deren mathematischen Beschreibung mit Hilfe eines geeigneten Modells. Zur Lösung der Modellgleichungen kam das kommerzielle CFD Programm STAR-CD zum Einsatz. Der Schwerpunkt der Arbeit richtete sich dabei auf einen aus der Literatur bekannten Effekt, der Marangonikonvektion, welcher auf Grund von Grenzflächenspannungsänderungen eine überlagerte Konvektion der Phasengrenzfläche zwischen dem Tropfen und seiner Umgebung induziert. Experimentelle Untersuchungen in verschiedenen Stoffsystemen zeigten, dass auf Grund von Marangonikonvektion die Relativgeschwindigkeit des Tropfens zu seiner Umgebung beeinflusst wird, die bei genügend großen übergehenden Massenströmen näherungsweise der Geschwindigkeit einer dichtegleichen Kugel mit starrer Phasengrenze entspricht. Weiterhin wurde ein erhöhter Massenstrom der Übergangskomponente im Vergleich zu CFD Modellen ohne Berücksichtigung von Marangonikonvektion gefunden. Die mathematische Implementierung der Marangonikonvektion in das Stoffaustauschmodell resultiert in einer Kopplung zwischen dem Geschwindigkeits- und dem Konzentrationsfeld im Tropfen und seiner Umgebung. Als Ergebnis der numerischen Simulationen in einem zweidimensionalen Gitter konnte einerseits die experimentell gefundene, reduzierte Relativgeschwindigkeit des Partikels zur umgebenden Phase als auch der durch Marangonikonvektion hervorgerufene erhöhte Massenstrom der Übergangskomponente bestätigt werden. Eine weitere Verbesserung der numerischen Beschreibung des Stofftransports am Einzeltropfen ist durch die Berücksichtigung des dreidimensionalen Charakters der Marangonikonvektion sowie der Modellierung des Einflusses von grenzflächenaktiven Substanzen, die in vielen praktisch eingesetzten Stoffsystemen vorkommen, zu erwarten.</dc:description>
+          <dc:description xml:lang="eng">An experimental and numerical investigation of relevant mass transfer mechanisms on single drops has been carried out in order to describe extraction processes occurring in many industrial applications. The solution of the mathematical model implemented was yielded by using the commercial CFD code STAR-CD. This work focuses on the description of the well-known Marangoni convection effect. A superposed convection at the interface is induced due to changes of the interface tension on the interface between the dispersed and the surrounding bulk phase. Experimental investigations in different systems show the influence of Marangoni convection on the relative velocity between the drop and the surrounding environment. By exceeding a certain mass transfer rate, the drop velocity can be approximated by the movement of a rigid sphere. In addition, an increased mass flux of the transported component can be found in comparison with numerical data obtained by a model not accounting the Marangoni convection. The mathematical implementation of the Marangoni convection in the mass transfer model results in a coupling of the velocity and concentration field. As a result of the numerical simulation using the improved model applied to a two-dimensional grid, the reduction of the drop velocity as well as the increased mass transfer across the interface have been confirmed. However, a further improvement of the model can be achieved by accounting the three–dimensional structure of the Marangoni convection and describing the influence of surface active agents that are present in most industrial processes.</dc:description>
+          <dc:date>2007-11-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1618</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16726</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16726</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1618/original_Diss_Kai_Schulze.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1618/schulze_kai.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

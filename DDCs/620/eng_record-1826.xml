@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1826">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1826</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Parameteridentifikation an metallischen Werkstoffen basierend aufnumerischen Simulationen und instrumentierter Eindringprüfung</dc:title>
+          <dc:title xml:lang="eng">Parameter identification for metallic materials based on numerical simulations and instrumented indentation tests</dc:title>
+          <dc:creator>Sterthaus, Jens</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Es wird gezeigt, wie die instrumentierte Eindringprüfung, auch als „Nanoindentation“ bezeichnet, genutzt werden kann, um Materialeigenschaften zu charakterisieren. Die instrumentierte Eindringprüfung stellt eine Erweiterung der klassischen Härteprüfung dar, da hier Kraft, Zeit und Tiefe kontinuierlich gemessen werden. Es werden die wichtigsten klassischen Konzepte zur Auswertung der gemessenen Daten vorgestellt. Mit diesen können der E-Modul, Härte und in Näherung die Fließgrenze bestimmt werden. Für eine Messung mit einem Indenter muss u.a. die Rahmennachgiebigkeit des Prüfgeräts bestimmt werden. Bei Geräten mit geringer Steifigkeit ergeben sich große absolute Fehler. Deswegen wird für ausgewählte Abweichungen der Rahmennachgiebigkeit mittels der durch die Dimensionsanalyse gefundenen Transformationsbeziehungen und einer aus einer FE-Rechnung gewonnenen, synthetischen Kraft-Eindringtiefe-Kurve die Auswirkung auf die Ermittlung von Härte und E-Modul untersucht. Das am weitesten verbreitete Auswerteverfahren zur Bestimmung von Härte und E-Modul auf Grundlage der von Oliver und Pharr publizierten Methode wird vorgestellt und die Abweichungen gegenüber FE-Simulationen für ein elastisch-ideal plastisches Material, und für ein stark verfestigendes Material untersucht. Um darüber hinaus eine uniaxiale Spannungs-Dehnungs-Kennlinie und auch Parameter der Kriecheigenschaften aus den Daten der Indentation ableiten zu können, wird ein gradientenbasiertes Minimierungsverfahren mit einem kontinuumsmechanischen Modell gekoppelt, dessen Lösung mit dem FEM-Programm ABAQUS erfolgt. Es werden Parameterstudien durchgeführt und theoretische Überlegungen bestätigt, wonach sphärische Prüfkörper für die Lösung dieses inversen Problems besonders geeignet sind. Nähere experimentelle Untersuchungen zeigen, dass die Prüfkörpergeometrie wegen ihrer deutlichen Abweichung von der Sollform individuell in der Simulation nachgebildet werden muss. Dieses Verfahren wird auf Stahl und Aluminiumproben angewandt, an denen zuvor Mikrozugversuche durchgeführt wurden. Die Ergebnisse werden verglichen und mögliche Ursachen (wie Größeneffekte, Bestimmung lokaler anstelle makroskopischer Eigenschaften und vernachlässigte Eigenspannungen) für die signifikanten Unterschiede in den ermittelten Spannungs- Dehnungs-Kurven diskutiert.</dc:description>
+          <dc:description xml:lang="eng">In this work it is shown how instrumented indentation tests (often also referred to as “nanoindentation“) can be used for characterization of material properties. The instrumented indentation test extends the classical hardness test in such a way that depth, force and time are continuously monitored. The classic methods for analysis of the measured data are presented. By means of these one is able to determine the elastic modulus and, in a first approximation, the yield-strength. For an indenter measurement it is necessary to determine the framecompliance of the testing apparatus. In case of a device with a low stiffness large absolute errors arise. For this reason the compliance is selectively varied to show its impact on hardness and elastic modulus by using transformation relations from dimensional analyses in combination with synthetic force-depth-data created by FE simulations. The widely-spread method of Oliver and Pharr used for determination of the hardness and the elastic modulus is discussed and deviations to FE analyses are investigated for an elastic, perfectly-plastic as well as a material capable of hardening. Moreover, in order to determine an uniaxial stress-strain relationship as well as creep properties from the data measured by indentation a gradientbased minimization procedure is coupled with a continuum mechanics model and analyzed numerically using the FE code ABAQUS. Parametric studies are performed and theoretical considerations are verified according to which indenters with a spherical shape are particularly suitable to solve the inverse problem. Experiments show that the actual indenter geometry needs to be modeled due to its considerable deviation from the ideal shape. The method is applied to specimens made of aluminum and steel which were initially examined in micro-uniaxial-tensile tests. The results are compared and possible reasons for significant differences (such as size-effects, determination of local instead of macroscopic properties, as well as neglecting residual stresses) are discussed.</dc:description>
+          <dc:date>2008-07-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/postscript</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1826</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18817</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18817</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1826/original_sterthaus_jens.ps</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1826/sterthaus_jens.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

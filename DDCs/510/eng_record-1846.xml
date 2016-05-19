@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1846">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1846</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Online Disjoint Vehicle Routing with Application to AGV Routing</dc:title>
+          <dc:title xml:lang="deu">Konfliktfreies Routing von Fahrzeugen</dc:title>
+          <dc:creator>Stenzel, Björn</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">There are several Vehicle Routing Problems' that have been intensively studied in the recent years. The common aim of all these problems is the assignment of vehicles to transportation requests (items) and the determination of the order in which these requests should be served. They only vary in the considered objectives and constraints. Since it is assumed that vehicles are small in relation to the given (street) network interdependencies between the vehicles are not taken into account. In contrast, we investigate a microscopic vehicle routing model. Here, 'microscopic' means that the vehicles are rather large-sized in relation to the underlying network. Therefore, we have to take care for conflicts/collisions between the vehicles that serve the transportation requests. In fact, we focus on the determination of paths (routes) such that the vehicles that execute these paths do not conflict with each other. We call such paths disjoint and provide two disjointness models. Since the time-dependent behavior of the vehicles have to be taken into account in this context we consider paths over time, which are also called dynamic paths. Furthermore, we are interested in an online setting within this model, i.e., we assume that requests appear one-by-one and no information about further requests is known, which is often the case in real-world problems. Therefore, we investigate online disjoint dynamic paths in this thesis. More precisely, we introduce two optimization problems: the Online Shortest Dynamic Disjoint Paths Problem (OSDDPP) and the Online Quickest Disjoint Paths Problem (OQDPP). Both problems only differ in their objective. Regarding the OSDDPP we aim at minimizing the sum of durations over all requests, while the objective of the OQDPP is the so-called makespan, which is the time when all requests are served.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit, die in drei Hauptteile gegliedert ist, beschäftigt sich mit der 'konfliktfreien Steuerung von Fahrzeugen'. Hierbei handelt es sich aus mathematischer Sicht um ein zeitabhängiges Disjunkte-Wege-Problem, dessen Betrachtung sowohl aus theoretischer Sicht, als auch auf Basis einer Anwendung, der Steuerung von automatischen Transportfahrzeugen am HHLA Container Terminal Altenwerder, erfolgt. Genauer gesagt betrachten wir die sogenannte 'Online-Variante' des Problems, d.h. wir gehen davon aus, dass Transportanfragen nach und nach eingehen und nach ihrem Eintreffen umgehend beantwortet werden müssen. Im ersten Teil der Arbeit führen wir einen 'dynamischen' Algorithmus ein, der das vorliegende Problem löst, d.h. entsprechende Routen für die eintreffenden Anfragen berechnet. Der gewählte Ansatz beruht dabei auf der iterativen Berechnung zeitlich genauer kürzester Wege, die die bereits getroffenen Routenentscheidungen respektieren. Bei unseren Betrachtungen legen wir insbesondere Wert auf die Einbeziehung praxisbezogener Aspekte in unser Verfahren. Dabei spielen u.a. sogenannte Rerouting-Strategien für den Umgang mit Störfällen eine wichtige Rolle. Die zentrale Aussage dieses Abschnitts, die auf wir auf Grundlage von entsprechender Experimente treffen, besteht in der Feststellung, dass der gewählte Ansatz als praxistauglich angesehen werden kann. Die Bewertung der Güte des eingeführten Routingansatzes steht im Fokus des zweiten Hauptteils der Arbeit. Dabei untersuchen wir diese Fragestellung sowohl theoretisch als auch empirisch bezüglich zweier Zielfunktionen; der Gesamtfahrzeit einerseits und des Makespans andererseits. Im theoretischen Teil zeigen wir mit Hilfe kompetitiver Analyse, dass der Ansatz k-kompetitiv ist. Darüber hinaus geben wir einen weiteren Algorithmus an, der die bisher bekannten Gütegarantien für das vorliegende Problem in Gittergraphen, die für uns aufgrund der oben eingeführten Anwendung von besonderer Bedeutung sind, verbessert. In empirischen Untersuchungen jedoch zeigt sich der ursprünglich eingeführte dynamische Ansatz sowohl diesem, als auch bereits bekannten Algorithmen überlegen. Im letzten Abschnitt der Arbeit betrachten wir einen sogenannten statischen Ansatz. Im Unterschied zum erwähnten dynamischen Ansatz wird hier auf die zeitgenaue Routenberechnung verzichtet. Vielmehr erfolgt die Bewertung der Routen auf Grundlage einer speziellen Strafkostenfunktion, die von der Anzahl der bereits über eine Kante gerouteten Fahrzeuge abhängt. Da bei diesem Ansatz jegliche zeitliche Komponente außen vor gelassen wird, kann es bei der Ausgestaltung der Route zu Deadlock-Situationen kommen. Um dies auszuschließen, erweitern wir das Verfahren um einen Algorithmus, der dies, durch Angabe eines konkreten Reservierungsplans, vermeidet. Der gesamte (zweistufige) Ansatz wurde experimentell dem dynamischen Ansatz gegenüber gestellt. Dabei stellte sich heraus, dass die Frage, welcher Ansatz zu bevorzugen ist, stark von der zu erwartenden Verkehrsdichte abhängt.</dc:description>
+          <dc:date>2008-08-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1846</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19512</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19512</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1846/stenzel_bjoern.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

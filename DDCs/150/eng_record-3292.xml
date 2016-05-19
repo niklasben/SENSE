@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3292">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3292</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Proceedings of the 11th international Conference on Cognitive Modeling</dc:title>
+          <dc:creator>Rußwinkel, Nele</dc:creator>
+          <dc:creator>Drewitz, Uwe</dc:creator>
+          <dc:creator>van Rijn, Hedderik</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="eng">The International Conference on Cognitive Modeling (ICCM) is the premier conference for research on computational models and computation-based theories of human behavior. ICCM is a forum for presenting, discussing, and evaluating the complete spectrum of cognitive modeling approaches, including connectionism, symbolic modeling, dynamical systems, Bayesian modeling, and cognitive architectures. ICCM includes basic and applied research, across a wide variety of domains, ranging from low-level perception and attention to higher-level problem-solving and learning. Online-Version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de)</dc:description>
+          <dc:date>2012-04-13</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3292</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34928</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34928</dc:identifier>
+          <dc:identifier>978-3-7983-2408-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3292/2408_drewitz_konferenz_inhalt.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3292/2408_drewitz_konferenz_umschlag.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

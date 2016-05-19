@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:797">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:797</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zur simulationsgestützten Planung von Demontagefabriken für Elektro- und Elektronikaltgeräte</dc:title>
+          <dc:title xml:lang="eng">Simulation-based Planning of Disassembly Factories for Waste Electrical and Electronic Equipment</dc:title>
+          <dc:creator>Ciupek, Markus</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ein weltweiter Wohlstandszuwachs erfordert bei begrenzten Ressourcen sowie wachsenden Bedürfnissen einer zunehmenden Bevölkerung den Übergang von der Quellen-Senken-Wirtschaft hin zur Kreislaufwirtschaft. Effiziente Kreislaufwirtschaftsysteme gründen sich auf eine enge Kooperation unterschiedlicher Akteure, angefangen bei Zulieferern und Produzenten über den Distributor und Handel bis hin zum Letztnutzer und den Akteuren der Nachnutzungsphase, wie Re-Distributor, Demonteur und Re-Monteur. Die Steigerung der Nutzenproduktivität von Ressourcen wird hierbei als zentrales Ziel angesehen. Für die wirtschaftliche Demontage als wichtigen Bestandteil einer Kreislaufwirtschaft wird ein simulationsgestützter Planungsansatz mit den Phasen der Standort-, Grob- und Feinplanung zur Gestaltung von Demontagefabriken für Elektro- und Elektronikaltgeräte konzipiert. Eine durchgängige Modellierungs- und Simulationsdatenstruktur sowie Algorithmen zur automatisierten Modellgenerierung unterstützen in allen Planungsphasen das Erschließen der Potenziale der mathematischen Modellierung und Ablaufsimulation. Für die Anwendung des entwickelten Planungsansatzes wird das Planungswerkzeug Integrated Simulation-based Disassembly Plant Design (InSane) prototypisch implementiert. Die Validierung erfolgt an einem Anwendungsszenario zur Planung von Demontagefabriken für die Region Berlin-Brandenburg.</dc:description>
+          <dc:date>2004-11-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/797</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7912</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7912</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/797/ciupek_markus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

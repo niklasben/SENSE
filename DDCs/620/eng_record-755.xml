@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:755">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:755</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung der Entölbarkeit von Sojamehl zur Herstellung von Sojaproteinprodukten</dc:title>
+          <dc:creator>Dazert, Daniela</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Ansatzpunkt für die Lösung der Aufgabenstellung der vorliegenden Arbeit beruhte auf der Möglichkeit, bei der Entölung von Sojamehl mit einem polaren Lösungsmittel eine Emulsionsbildung durch Unterdrückung der Emulgierwirkung der grenzflächenaktiven Substanzen zu vermeiden. Bezogen auf die Herstellung von Proteinprodukten ging es dabei darum, den Ölgehalt im Entölungsrückstand so weit herabzusetzen, dass sowohl die funktionellen Eigenschaften als auch die Lagerfähigkeit der daraus hergestellten Proteinprodukte konventionell hergestellten Proteinprodukten entsprechen sollten. Es stellte sich heraus, dass ein wesentlicher Einfluss auf die Entölung vom Feinheitsgrad des Mehles sowie der Alkoholkonzentration des Lösungsmittels ausging. Die Entölung war dabei um so weitreichender je feiner das eingesetzte Sojamehl war. Als optimale Alkoholkonzentration wurde im Falle der Verwendung von Isopropanol eine Konzentration von 33 % ermittelt. Der Einsatz eines Hochdruckhomogenisators zur Erhöhung des Zellaufschlusses erwies sich für die Entölung als sehr vorteilhaft. Es konnte gezeigt werden, dass die Nasszerkleinerung nach der Trockenmahlung der Sojabohnen die Zellstruktur der Kotyledonen wesentlich wirkungsvoller für eine effektive Entölung aufschloss, als das durch Trockenvermahlung möglich war. Die labortechnische Optimierung der Entölung führte schließlich zu einem Restölgehalt von &lt; 2 % im Entölungsrückstand. Dieser wurde erhalten, wenn eine zweistufige Homogenisierung bei ca. 200 bar vorgenommen wurde. Mit dem unter den optimalen Homogenisierparametern erhaltenen niedrigen Restölgehalt war die wesentliche Voraussetzung zur Weiterverarbeitung des Entölungsrückstands zu Proteinprodukten erfüllt. Die Herstellung der Proteinprodukte Sojaproteinkonzentrate (SPC) und -isolate (SPI) erfolgte in Anlehnung an deren konventionelle Herstellungsweise. Es gelang sowohl SPC als auch SPI aus dem Entölungsrückstand herzustellen, die in ihren wesentlichen analytischen Kriterien (Protein-, Ölgehalt (&lt; 1%)) und in ihren funktionellen Eigenschaften konventionellen Proteinprodukten entsprachen. Die Untersuchung der Übertragbarkeit der im Labormaßstab erhaltenen Ergebnisse in den industriellen Maßstab erfolgte über Technikums- und Pilotversuche mit Maschinen industrieller Baugröße. Die Entölung im Pilotmaßstab führte schließlich zu einem Restölgehalt von &lt; 2 % im Entölungsrückstand. Dieser war damit gleich zu dem, der im Labormaßstab erhalten wurde. Aus dem Entölungsrückstand konnten SPC und SPI im Pilotmaßstab hergestellt werden, die in ihrem Protein- und Ölgehalt sowie in ihren funktionellen Eigenschaften weitestgehend konventionellen Proteinprodukten entsprachen.</dc:description>
+          <dc:date>2004-09-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/755</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7499</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7499</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/755/dazert_daniela.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

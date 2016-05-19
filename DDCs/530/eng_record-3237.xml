@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3237">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3237</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Objektorientierte Implementierung eines Randelementverfahrens zur Simulation der akustischen Streuung an Objekten für ungekoppelte und gekoppelte Probleme</dc:title>
+          <dc:title xml:lang="eng">Object-oriented implementation of a boundary element method for the simulation of acoustic scattering from objects for uncoupled and coupled problems</dc:title>
+          <dc:creator>Burgschweiger, Ralf</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Im Bereich der numerischen Akustik stellt das Randelementverfahren (Boundary Element Method, BEM) eines der gängigsten Verfahren zur Berechnung der Schallstreuung an Objek-ten dar, da hier lediglich die Oberfläche der zu betrachtenden Objekte als Grundlage der Berechnung dient und eine vollständige Berücksichtigung des gesamten inneren und äußeren Volumens, wie es die Finite-Element-Methode (FEM) erfordert, nicht notwendig ist. Während die Methode derzeit überwiegend für Probleme des Luftschalls, bei denen die Oberfläche der Objekte aufgrund des Impedanzsprungs im Allgemeinen als schallhart betrachtet wird und daher nur ungekoppelt gerechnet werden muss, eingesetzt wird, ist die Anwendung der BEM auf gekoppelte Probleme in Verbindung mit elastischen Strukturen und hinsichtlich der Verwendung von „schweren“ Fluiden, wie z. B. Wasser, noch nicht hinreichend untersucht worden. Auch die Grenzen des Verfahrens für komplexe Strukturen und höhere Frequenzen, bei denen die zu berücksichtigende Oberfläche in sehr große Anzahlen von kleinen Elementen zerlegt werden muss, sind unter Berücksichtigung der Möglichkeiten aktueller Rechner (Hardware) und parallelisierter Lösungsverfahren nur wenig dokumentiert. In der vorliegenden Arbeit wird die Konzeption und objektorientierte Implementierung eines Anwendungsprogramms behandelt, welches die parallelisierte numerische Berechnung der akustischen Streuung an Objekten im Frequenzbereich unter Verwendung des Randelementverfahrens für den ungekoppelten und gekoppelten Fall ermöglicht. Die implementierten Lösungsverfahren, die zugehörigen Algorithmen und deren Grenzen werden erläutert, die erzielten Resultate anhand von Beispielen unter Berücksichtung von Genauigkeit und Performance dargestellt und mit analytischen Lösungen sowie Ergebnissen anderer Applikationen verglichen.</dc:description>
+          <dc:description xml:lang="eng">The Boundary Element Method (BEM) is an established practice to calculate the sound scattered from objects because only the surfaces of these objects are used for those calculations, it is not necessary to take into account the whole interior and exterior domain as it is required for volume-based methods like the Finite Element Method (FEM). The BEM is commonly used for problems dealing with airborne sound where the surface of the objects can be considered rigid due to the acoustic impedance mismatch and so only un-coupled calculations are needed. Using the BEM for coupled problems dealing with elastic structures and in combination with “heavy�? fluids, e. g. water needs further investigation. The limits of the BEM for complex structures and higher frequencies, where the surface has to be discretized using huge numbers of small elements, are not sufficiently documented in relation to actual computer hardware and parallelized solving methods. This thesis will present the conceptual design and the object oriented implementation of an application that supports the parallelized numerical calculation of the acoustic scattering from objects in the frequency domain, using the BEM for uncoupled and coupled problems. The solving methods implemented, the corresponding algorithms and their limits will be illustrated. The results achieved are discussed regarding quality and performance for different test cases and compared with analytical solutions and results obtained by other applications.</dc:description>
+          <dc:date>2012-02-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3237</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34315</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34315</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3237/burgschweiger_ralf.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

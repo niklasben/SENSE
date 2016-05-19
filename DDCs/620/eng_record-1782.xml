@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1782">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1782</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Konzept zur Unterstützung der Informationssuche im Konstruktionsprozess</dc:title>
+          <dc:title xml:lang="eng">A concept to encourage the search for information in the design process</dc:title>
+          <dc:creator>Düsselmann, Sven</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wird eine Möglichkeit aufgezeigt, die Suche nach Information zu unterstützen. Während der Produktentwicklung ist durch die räumliche Verteilung bzw. die Vielzahl der am Prozess Beteiligten eine Informationsbeschaffung durch Kommunikation oftmals nicht praktikabel anwendbar. Deshalb erfolgt ein Großteil der Informationsbeschaffung auf Basis von Dokumenten, deren Daten aufgrund bekannter Abmachungen Information repräsentieren. Die Kenntnis, dass der Anteil der Arbeitszeit zur Suche nach Information je nach Branche und Konstruktionsprozess zwischen 50% und 70% beträgt, ist Motivation für die Entwicklung des vorliegenden Konzepts. Das Konzept basiert auf der Hypothese, dass das Wissen des Konstrukteurs über die sich aus dem Konstruktionsprozess ergebenden Beziehungen von Informationen zueinander, kombiniert mit der Möglichkeit von deren adäquater Handhabung, eine zielorientierte Suche in den Produktdaten zu ermöglichen. Die erste Beziehung resultiert aus dem während des Konstruktionsprozesses stattfindenden Informationsumsatz, wobei der chronologisch, logische Zusammenhang beim Generieren von neuer Information, in Bezug auf bestehende, genutzt wird. Die zweite Beziehung wird aus der Produktstruktur abgeleitet. Das Konzept beschreibt eine kognitiv-ergonomische Abbildung dieser beiden Beziehungen, unter Berücksichtung des arbeitswissenschaftlichen Ansatzes von Rasmussen. Zur Evaluierung des Konzepts wurde eine prototypische Benutzungsoberfläche entwickelt, mit deren Hilfe Konstrukteure aus der Industrie eine konstruktive Aufgabe lösten. Die Auswertung der Vorgehensweisen sowie die per Frageborgen dokumentierten Meinungen ergaben, dass der Hypothese im Rahmen der Evaluierung zugestimmt wird. Die gewonnenen Erkenntnisse durch die empirische Evaluierung führten zur Erweiterung des Konzepts und Gestaltung einer neuen Benutzungsoberfläche, die im Rahmen eines Demonstrators umgesetzt wurde. Der Funktionsumfang dieses Demonstrators, die Möglichkeit zur Handhabung von Daten und der Unterstützung einer zielorientierten Suche wurden untersucht. Dazu wurden anhand einer industriellen Erhebung zum einen der Entwicklungsprozess einer Einspülschale einer Waschmaschine und zum anderen die dabei genutzten bzw. erzeugten Daten erhoben. Die Evaluation zeigte, dass die industriell ermittelten Daten mit Hilfe des Demonstrators gehandhabt und deren Zusammenhänge abgebildet werden können. Die grundsätzliche Bestätigung der Eignung des erarbeiteten Konzepts zur Unterstützung des Konstrukteurs bei der Suche nach Produktdaten konnte im Rahmen dieser Arbeit in Form der durchgeführten industriellen Evaluierungen erbracht werden.</dc:description>
+          <dc:description xml:lang="eng">A potential to facilitate the search for information is identified within the scope of this work. During product development it is often not practical to obtain information by means of communication, due to the spatial distribution, or rather the multitude of people, who are involved in the process. Therefore the bulk of the information exchange occurs in the form of documents, which contain information based on established arrangements. The proportion of working time spent searching for information, depending on the industry and construction process, amounts to between 50 and 70 per cent. This knowledge provides adequate motivation to develop the existing concept. The concept is based on the hypothesis that it will be possible to search product data efficiently, if the design engineer is aware of the interrelationship between the different information received during the construction process, and if there is the potential to manage this information appropriately. The first interrelationship results from the exchange of information which takes place during the construction process, in which new information is generated and used logically, according to chronology, in relation to the existing information. The second interrelationship is derived from the product structure. The concept details a cognitive-ergonomic picture of both of these interrelationships, taking into consideration the ergonomic approach of Rasmussen. In order to evaluate the concept, a prototype user interface was developed, which aided design engineers from the industry to resolve problems regarding construction. The results which were drawn from both the analysis of the approach and from its questionnaires indicate that the hypothesis is accepted. The knowledge gained from the empirical evaluation lead to the development of the concept and the configuration of a new user interface, which was implemented in the form of a prototype. The features of this prototype, the potential to manage the data, and the facilitation of a targeted search were examined. For this an industrial investigation was carried out into the development process of a washing powder drawer of a washing machine, and the interrelated data, which was used; or rather generated, was collected. The evaluation showed that with the aid of the prototype, the industrially investigated data is able to be managed, and interrelated data can be displayed. It could be adduced from the industrial evaluations that have been carried out for this paper, that the developed concept is suitable for supporting design engineers in their search for product data.</dc:description>
+          <dc:date>2008-05-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1782</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18728</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18728</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1782/original_duesselmann_sven.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1782/duesselmann_sven.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

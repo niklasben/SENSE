@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1947">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1947</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Experimental Modeling of Group 5 Metal Oxide Catalysts</dc:title>
+          <dc:title xml:lang="deu">Experimentelle Untersuchungen an Modellkatalysatoren der Metalloxide der Gruppe 5</dc:title>
+          <dc:creator>Uhl, Alexander Hermann Horst</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">The aim of this work is to study relevant heterogeneous catalysts, namely the oxides of niobium and vanadium. Using the surface science approach, welldefined models can be prepared and investigated at the atomic level. Experimental methods comprise infrared spectroscopy, thermal desorption spectroscopy, scanning tunneling microscopy, photoelectron spectroscopy, and low energy electron diffraction. Niobia model catalysts prepared within this work include niobia films grown on Cu3Au(100), niobia-supported cobalt, and alumina-supported niobia. The niobia monolayer reveals a sandwich structure, where niobium cations are surrounded by a bottom and a top oxygen layer, yielding a stoichiometry of Nb2O5. A bridging oxygen termination was found for the monolayer, while the multilayer films exhibit niobyl groups. Cobalt exhibits a strong interaction with niobia, including eventual migration into the film. This strong metal-support interaction is a typical property of niobia. However, both terminations are found to coexist for alumina-supported niobia particles. In general, the results are very similar to those previously found for alumina-supported vanadia. The second system investigated is ceria-supported vanadia. Structural results comprise a coverage-dependence of the oxidation state of vanadium and of the vanadyl stretching vibration. Due to a strong interaction with ceria, vanadia is fully dispersed as VO4 monomers at low coverage. The results of a subsequent reactivity study with respect to the oxidative dehydrogenation of methanol are discussed on this basis. In particular, the VO4 monomer is identified as the origin of the methanol-to-formaldehyde conversion at a temperature as low as 340 K.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit widmet sich der Untersuchung wichtiger heterogener Katalysatoren, namentlich den Oxiden von Niob und Vanadium. Mittels des sogenannten Surface-Science-Approach können wohldefinierte Modelle präpariert und auf atomarer Ebene untersucht werden. Die experimentellen Methoden umfassen Infrarotspektroskopie, Thermische Desorptionsspektroskopie, Rastertunnelmiktroskopie, Photoelektronenspektroskopie und niederenergetische Elektronenbeugung. Die hier präparierten Nioboxid-Modellkatalysatoren umfassen auf Cu3Au(100) gewachsene Nioboxid-Filme, auf Nioboxid geträgertes Cobalt und auf Aluminiumoxid geträgertes Nioboxid. Die Nioboxid-Monolage weist eine Sandwich-Struktur auf, in der die Niob-Kationen von einer unteren und einer oberen Sauerstoff-Schicht eingerahmt sind, so dass sich die Stöchiometrie zu Nb2O5 ergibt. Die Sauerstoff-Terminierung hat sich als verbrückend gezeigt, während die Multilagen-Filme Niobyl-Gruppen aufweisen. Cobalt zeigt eine starke Wechselwirkung mit Nioboxid, einschließlich einer Migration in den Film. Diese starke Metall-Substrat-Wechselwirkung ist eine typischen Eigenschaft von Nioboxid. Allerdings wurde für auf Aluminiumoxid geträgertes Nioboxid eine Koexistenz beider Terminierungen gefunden. Das zweite untersuchte System ist auf Ceroxid geträgertes Vanadiumoxid. Die Struktur-Ergebnisse schließen eine Bedeckungsabhängigkeit des Oxidationszustands von Vanadium und der Vanadyl-Streckschwingung ein. Aufgrund einer starken Wechselwirkung mit Ceroxid ist Vanadiumoxid bei geringer Bedeckung vollständig dispergiert als VO4-Monomere. Die Ergebnisse der anschließenden Reaktivit¨atsstudie hinsichtlich der oxidativen Dehydrierung werden auf dieser Grundlage diskutiert. Insbesondere wird das VO4-Monomer als die Ursache eines Umsatzes von Methanol zu Formaldehyd bereits bei 340 K identifiziert.</dc:description>
+          <dc:date>2008-10-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1947</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20492</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20492</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1947/uhl_alexander.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

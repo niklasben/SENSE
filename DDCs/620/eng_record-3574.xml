@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3574">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3574</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Simulation der aktiven Strömungsbeeinflussung dreidimensionaler Hochauftriebskonfigurationen</dc:title>
+          <dc:title xml:lang="eng">Numerical Simulation of Active Flow Control on Three-Dimensional High-Lift Configurations</dc:title>
+          <dc:creator>Höll, Tobias</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Während des Starts und der Landung müssen die Fluggeschwindigkeiten von Flugzeugen auf Grund von technischen Limitierungen wie z.B. Bahnlänge, Bremskraft und auftretenden Kräften sehr niedrig sein. Um trotzdem genügend hohe Auftriebskräfte zu erzielen, werden heutzutage technisch komplexe, schwere und teuere Hochauftriebssysteme eingesetzt. Rasant zunehmende Passagierzahlen und Flugbewegungen in der zivilen Luftfahrt bei zugleich immer strengeren gesetzlichen Anforderungen zur Vermeidung von Emissionen erfordern neue technische Entwicklungen zur Leistungssteigerung von Hochauftriebssystemen. Gewöhnliche Maßnahmen der Formoptimierung bieten allerdings nicht die Möglichkeit von revolutionären Leistungssprüngen. Eine Möglichkeit, um die Effektivität von Hochauftriebskonfigurationen zu steigern, bietet die aktive Strömungsbeeinflussung. Unter Einsatz von extern bereitgestellter Energie (z.B. Triebwerkszapfluft) kann das Strömungsverhalten von Flügeln positiv beeinflusst werden. Der Impuls, welcher der wandnahen Strömung zugefügt wird, sorgt für eine Resistenz der Grenzschicht gegenüber Ablösung. Gleichzeitig wird durch verbesserte Durchmischung kinetische Energie aus der Hauptströmung in den energiearmen, wandnahen Bereich geführt. Dieses Prinzip ist bislang an zweidimensionalen, geometrisch simplen Geometrien im Rahmen von Projekten der Grundlagenforschung untersucht worden. Eine Anwendung im Rahmen der Neuentwicklung von Hochauftriebssystemen im industriellen Umfeld ist durch viele ungeklärte Fragestellungen allerdings noch nicht möglich. Ziel dieser Arbeit ist es, die Technologie der aktiven Strömungskontrolle in Form von fluidischer Anregung (gepulstes Ausblasen und harmonische Anregung) im Rahmen von numerischen Simulationen auf industrienahe Hochaufriebskonfigurationen anzuwenden. Dabei sollen die relevanten Parameter, insbesondere auch geometrischer Art, identifiziert und hinsichtlich ihrer Effektivität untersucht werden. Auf Grund der auftretenden Strömungsablösungen und Wirbelstrukturen wird die Detached-Eddy Simulation als numerische Methode eingesetzt, um die relevanten physikalischen Effekte zuverlässig erfassen zu können. Einen möglichen Transfer der aktiven Strömungskontrolle in die industrielle Vorentwicklung zeigt die abschließende Anwendung auf eine vollständig dreidimensionale Hochauftriebskonfiguration auf. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) ISBN 978-3-7983-2473-2</dc:description>
+          <dc:description xml:lang="eng">Due to technical limitations such as runway length, brake force and structural stress the flight speed of an aircraft needs to be as low as possible during take-off and landing. Therefore, a high lift coefficient is needed. Multi-element high-lift devices are used to generate the requested amount of lift. However, these devices are very complex, heavy and costly. Furthermore, the number of passengers and aircraft operations is increasing while at the same time the regulations regarding carbon dioxide emission get stricter. As a result, new technologies are needed in order to increase the performance of high-lift devices. Common conventional techniques such as shape optimization are not capable of fulfilling these challenging demands any more. Active flow control appears as a possible way to achieve these aims. This technology alters the flow near the wall in a positive manner by adding external engergy. The additional momentum helps the bounary layer to withstand the adverse pressure gradient and delays flow separation. At the same time, the improved mixing of the flow provides the near-wall flow with fresh kinetic energy. So far, active flow control has been investigated quite thoroughly on simple 2D-configurations within fundamental research projects. However, an application of this technique in the aircraft industry is not possible yet due to a lot of unanswered questions. The aim of this thesis is to further investigate active flow control techniques on industrially relevant high-lift configurations using pulsed blowing and harmonic suction and blowing. Numerical simulations are employed in order to identify the relevant parameters and investigate their influence on the effectivity. Due to the massive flow separation on the flap of the high-lift devices, detached-eddy simulation is used to reliably capture the physical effects. A potential transfer of the active flow control technology into future aircraft development is demonstrated by the application of pulsed blowing on the flap of a fully three-dimensional aircraft. Printed Version published by Universitätsverlag der TU Berlin www.univerlag.tu-berlin.de) ISBN 978-3-7983-2473-2</dc:description>
+          <dc:date>2012-12-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3574</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37280</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37280</dc:identifier>
+          <dc:identifier>978-3-7983-2474-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3574/9783798324732_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3574/9783798324732_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

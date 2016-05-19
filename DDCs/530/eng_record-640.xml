@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:640">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:640</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Femtosekunden Elektronen- und Spindynamik in dünnen Nickelfilmen</dc:title>
+          <dc:title xml:lang="eng">Femtosecond electron and spin dynamics in thin Nickel films</dc:title>
+          <dc:creator>Rhie, Hyoung-Seub</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Es wurde die Elektronen- und Magnetisierungsdynamik in einem dünnen Ni/W(110)-Film nach einer ultrakurzen optischen Anregung betrachtet. Dabei wurde das Elektronensystem im Metall mit Femtosekunden-Laserpulsen mit 1.5 eV Photonenenergie angeregt und mit 6 eV Photonenenergie energie- und winkelaufgelöst spektroskopiert. In TR2PPE-Messungen war eine direkte Beobachtung von Thermalisierungs- und Elektron-Phonon-Relaxationsprozessen im Photoemissionsspektrum möglich. Es wurde eine Zeitkonstante von 173 ± 20 fs für die Elektronen-Thermalisierung, sowie eine Abkühlungsrate des Elektronensystems von 270 ± 10 fs ermittelt. Nach dieser Abkühlung, die nach einer Zeit von 2 ps nicht mehr nachzuweisen ist, verbleiben von ursprünglich 250 meV/Atom deponierter Energie 40 meV/Atom im kombinierten Elektronen-Gittersystem. Die zeitliche Entwicklung der Magnetisierung der dünnen Ni-Filme wurde über die austauschaufgespaltene Struktur der d-Bänder nach der optischen Anregung in zeitaufgelösten direkten Photoemissionsmessungen betrachtet. Es wurde beobachtet, dass die Austauschaufspaltung mit einer Zeitkonstanten von 270 ± 50 fs kollabiert. Ab einer Zeitverzögerung von 1 ps wird die Austauschaufspaltung mit einer Zeitskala von 3.3 ± 0.2 ps wieder hergestellt. Im Vergleich zur Abnahme der Elektronentemperatur, die im Wesentlichen nach 2 ps abgeschlossen ist, findet die Wiederherstellung der Austauschaufspaltung verzögert statt. Schließlich wurde an einer besetzten d-artigen Oberflächenresonanz gezeigt, dass die starke Umbesetzung von Elektronen, die im Pump-Probe-Experiment stattfindet, die Bindungsenergie und Peakbreite von Zuständen auf einer Femtosekundenzeitskala beeinflussen können. Aus der Zeitcharakteristik dieser Effekte, wurden diese Beobachtungen Korrelationseffekten zwischen dem Elektronensystem und den angeregten Lochzuständen zugeschrieben.</dc:description>
+          <dc:description xml:lang="eng">We investigated the electron and magnetization dynamics in a thin Ni/W(110) film after an ultrashort optical excitation. The electron system of the metal is excited with femtosecond laser pulses of 1.5 eV photon energy. The electronic distribution is measured via energy and angle-resolved photoemission using a time delayed second laser pulse of 6 eV photon energy. A direct observation of the thermalization and of the electron-phonon relaxation processes is achieved by time-resolved two-photon photoemission (TR2PPE) measurements. We measure a time constant of 173 ± 20 fs for the electron thermalization and a cooling rate of 270 ± 10 fs for the electron system. This cooling of the electron system is completed after 2 ps. At this time delay an energy of 40 meV/atom remains within the combined electron-lattice system. Originally 250 meV/atom are deposited by the laser pulse. The sample magnetization after the optical excitation is accessed by monitoring the exchange-split d-band structure via time-resolved direct photoemission. A collapse of the exchange splitting with a time constant of 270 ± 50 fs is observed. After a time delay of 1 ps the exchange splitting reappears with a time constant of 3.3 ± 0.2 ps. The reappearing of the exchange splitting thus lags the cooling of the electron system. The strong repopulation of electrons by the pump pulse also influences the binding energy and peak width of a surface resonance on a fs timescale. These phenomena are assigned to correlation effects between electrons an excited hole states.</dc:description>
+          <dc:date>2003-12-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/640</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6348</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6348</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/640/rhie_hyoungseub.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

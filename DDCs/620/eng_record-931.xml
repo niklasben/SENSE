@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:931">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:931</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung einer Methodik zur Analyse und Bewertung der Gebrauchstauglichkeit von Medizintechnik : PROMEDIKS - Prozessorientierte Medizintechnik in klinischen Systemen</dc:title>
+          <dc:title xml:lang="eng">Development of an ergonomic approach to analyse and evaluate the usefullness of medical devices</dc:title>
+          <dc:creator>Backhaus, Claus</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Einflussfaktoren Bedienbarkeit (Usability) und Funktionalität bestimmen die Gebrauchstauglichkeit von Medizintechnik und müssen in einem hinreichend ausgewogenen Verhältnis zueinander stehen. Defizite der Gebrauchstauglichkeit führen zu einer reduzierten Verlässlichkeit medizinischer Arbeitssysteme, die sich in einer steigenden Zahl von Behandlungsfehlern und in zunehmenden Kosten für den Einsatz und die Aufbereitung von Medizintechnik äußern. In der vorliegenden Arbeit wurde unter Anwendung des Problemlösungsmodells des Systems-Engineerings eine Methodik zur Analyse und Bewertung von Medizintechnik hinsichtlich der Gebrauchstauglichkeit entwickelt. Eine Situationsanalyse ergab die notwendige Ausrichtung der Methodik auf den Behandlungsprozess des Patienten. Das Erstellen eines Anforderungskataloges diente zur Zieldefinition der Methodikentwicklung und unterstützte die Lösungsfindung. In einer Untersuchung bestehender Lösungsansätze wurden Methoden zur Bewertung und Gestaltung medizinischer Arbeitssysteme sowie des Usability-Engineering analysiert. Die Methodikentwicklung erfolgte durch die Kombination der Prozessanalyse-Methodik TOPICS (Together Optimizing Processes in Clinical Systems) und der Usability-Methoden Benutzerbefragung, Expertenbefragung und Benutzertest. Die entwickelte Methodik zum Ermitteln der Gebrauchstauglichkeit von Medizintechnik besteht aus der Analyse und Bewertung der funktionalen Prozessunterstützung, der Usability und der Synthese der Einzelergebnisse. Das eingeführte Akronym PROMEDIKS (PROzessorientierte MEDIzintechnik in Klinischen Systemen) verdeutlicht die Prozessorientierung. Die Validierung erfolgte in drei Studien mit den Schwerpunkten Produktevaluation, Produktauswahl und Produktentwicklung. Die erste Validierungsstudie evaluierte im Rahmen einer bevorstehenden Produktüberarbeitung die Gebrauchstauglichkeit einer Infusionstherapieeinheit zur Totalen Intravenösen Anästhesie. Die Studie zur Produktauswahl unterstützte durch den Einsatz der PROMEDIKS-Methodik die Anästhesieabteilung eines japanischen Universitätsklinikums bei der Beschaffung eines Anästhesiedatenmanagementsystems. Beim Methodikeinsatz in der Produktentwicklung erfolgte iterativ die entwicklungsbegleitende Analyse und Bewertung der Gebrauchstauglichkeit für die Neukonstruktion einer Infusionstherapiebaureihe. Die durchgeführten Validierungsstudien bestätigten die im Anforderungskatalog festgelegte Zielerfüllung der PROMEDIKS-Methodik und belegten deren hohe Verständlichkeit und Utilität. Die Anwenderpartizipation bei der Prozessanalyse und die Kombination unterschiedlicher Usability-Methoden gewährleistet eine hohe Reliabilität und Validität der Ergebnisse. Der Einsatz des Systems-Engineerings unterstützte eine frühe Ausrichtung der PROMEDIKS-Methodik auf den Arbeits- bzw. Behandlungsprozess und ermöglichten eine systematische und theoriegeleitete Vorgehensweise bei der Methodikentwicklung, aus der eine hohe Inhaltsvalidität und Objektivität resultiert.</dc:description>
+          <dc:date>2004-06-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/931</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9242</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9242</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/931/backhaus_claus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

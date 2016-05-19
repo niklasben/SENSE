@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1532">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1532</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:300</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Computersimulationsspiel als Instrument einer partizipativen Evaluationskonstellation. Ein Qualitätsvergleich von zwei Settings zur Bürgerbeteiligung an einer Evaluation: "TELLUS-Spiel" plus Interview versus Lektüre plus Gruppendiskussion.</dc:title>
+          <dc:title xml:lang="eng">A computer simulation game as an instrument for a participatory evaluation. A comparison of two settings for citizen participation an an evaluation: "TELLLUS-game" plus interview versus reading plus group discussion.</dc:title>
+          <dc:creator>Schönberg, Martin</dc:creator>
+          <dc:subject>ddc:300</dc:subject>
+          <dc:description xml:lang="deu">Computerbasierte Bürgerbeteiligung (z.B. online-Diskussionsformen)nimmt gegenwärtig an Bedeutung zu. Entsprechende Vorhaben lassen allerdings bislang eine systematische und kriterienbasierte Prüfung ihrer Wirksamkeit vermissen. - Die Studie schließt diese Lücke, und zwar am Beispiel der Computersimulation "TELLUS-Spiel". In diesem sind sieben Maßnahmen des EU-Verkehrsvorhabens TELLUS so umgesetzt, dass Bürger sie spielerisch kennen lernen und anschließend zur Unterstützung der Programmevaluation bewerten können. Auf der Basis einer Erhebung mit Berliner Verkehrsteilnehmern wird zwischen den Konstellationen "TELLUS-Spiel" plus Leitfadeninterview und Lektüre plus Gruppendiskussion ein Vergleich angestellt. Die Interview- und Diskussionsdaten werden einer Frequenzanalyse unterzogen. So kann detailliert und kriterienbasiert aufgezeigt werden, inwieweit das Spiel in Kombination mit dem Leitfadeninterview als Informationsmedium und Partizipationsinstrument für den beschränkten Rahmen einer Evaluation eingesetzt werden kann: Das Spiel-Interview-Setting ist vor allem geeignet, maßnahmenaffirmative Akzeptanzaussagen sowie Äußerungen zu den Erfolgsbedingungen von Maßnahmen zu generieren. Mit Hilfe des Lektüre-Diskussions-Settings indes können eher Aussagen zu den projektspezifischen Erfolgshemmnissen sowie Ideen und Perspektiven produziert werden. Gestützt auf die Ergebnisse schlägt der Autor vor, die Bestandteile der Settings zu rekombinieren und eine neue Konstellation zu erproben: Spiel plus Gruppendiskussion.</dc:description>
+          <dc:description xml:lang="eng">Computer based citizen participation (for example online-discussions) contemporarily are getting more and more important. Though, until now, such projects lack a systematical and criterion based test of their efficacy. - This study fills this gap, namely by means of the computer simulation "TELLUS-game". In this game seven measures of the EU-traffic-program TELLUS are realized in such a way that citizens would be introduced to them in a playing manner and coud assess them, in order to support the evaluation of the program. Founded on an inquiry with traffic participants in Berlin, the study compares between the constellations "TELLUS-game" plus interview and reading plus group discussion. The data of the interviews and the group discussions are inquired by means of a frequency analysis. In this way it is shown in detail and criterion based, to what extent the game in combination with the interview coud be used within the restricted framework of an evaluation as a medium for information and as an instrument for participation. The game-interview-setting is especially suitable for the provocation of positive expressions of acceptance and statements concerning the success conditions of the measures. However, the reading-dicussion-setting can reveal in particular statements concerning the obstacles of the projects and new ideas and perspectives. Founded on the results, the author suggests to recombine the elements of the constellations, in order to test a new constellation: Game plus group discussion.</dc:description>
+          <dc:date>2007-06-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1532</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15891</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15891</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1532/original_martin_schoenberg.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1532/schoenberg_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

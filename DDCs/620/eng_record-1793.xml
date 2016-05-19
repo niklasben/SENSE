@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1793">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1793</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einflussgrößen für das Schwingungsverhalten von Gebäuden zur Prognose von Erschütterungsimmissionen</dc:title>
+          <dc:title xml:lang="eng">Vibration behaviour of buildings - relevant parameters for the prediction of vibration immissions</dc:title>
+          <dc:creator>Meinhardt, Christian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein praxisnahes Verfahren zur Prognose von Erschütterungsimmissionen entwickelt. Dadurch soll es mit einem einfachen analytischen Rechenverfahren möglich sein, das Schwingungsverhalten von Gebäuden bei Erschütterungsanregung zu beschreiben. Dazu werden zunächst verschiedene Einflüsse auf die Erschütterungseinleitung vom Boden auf das Bauwerk sowie auf die Erschütterungsweiterleitung innerhalb eines Gebäudes anhand von Ergebnissen anderer Autoren näher untersucht und zusammengefasst. Im nächsten Schritt werden besonders relevante Einflussfaktoren mittels numerischer Parameterstudien erfasst und die resultierenden Effekte verallgemeinert. Das gilt auch für die bei zahlreichen experimentellen Untersuchungen gemachten Beobachtungen. Gleichzeitig werden diese zur Bestätigung und Quantifizierung der rechnerisch untersuchten Effekte sowie zur Definition empirischer Vergleichswerte genutzt. Bei diesen Vergleichswerten handelt es sich um Eingangsgrößen, wie etwa der anzusetzenden Strukturdämpfung oder aber den Übertragungsfaktoren der Erschütterungen bei Einleitung in das Gebäude und Weiterleitung innerhalb des Gebäudes. Zusätzlich zeigen die experimentellen und numerischen Untersuchungen, dass die Vereinfachung der Anregungsmechanismen bei Erschütterungen durch Betrachtung einer ausschließlich vertikalen Anregung des Bauwerks gerechtfertigt ist. Mit Hilfe der so gewonnen Erkenntnisse können Korrekturfaktoren für ein einfaches analytisches Modell zur Erfassung des Schwingungsverhaltens von Gebäuden abgeleitet werden. Das Modell sowie die zugehörigen Faktoren werden ebenfalls in dieser Arbeit vorgestellt. Außerdem wird ein Verfahren zur Berücksichtigung von Fehlern bei der Abschätzung ver-schiedener Parameter genannt. Schließlich wird das so entwickelte Prognoseverfahren für Erschütterungsimmissionen anhand verschiedener messtechnischer Untersuchungen von Gebäuden validiert, wobei vor allem die Modellierung des Gebäudes als Starrkörpermodell mit zwei Freiheitsgraden gegenüber den Messergebnissen und Ergebnissen komplexer numerischer Berechnungen abgewogen wird. Die aus dem Vergleich gezogenen Schlussfolgerungen dienen der Zusammenfassung und Bewertung der Arbeit.</dc:description>
+          <dc:description xml:lang="eng">A practical method for predicting vibrational immissions is developed. The goal is the characterization of the vibrational behaviour of buildings that results from ground motion using simple analytical methods. For this purpose, various factors that initiate the transfer of vibration from the ground to the building structure, as well as the transmission of the vibration throughout the structure, are investigated and summarized; results of other authors are also discussed. In the next step, relevant factors that influence vibrational behaviour will be examined in a study of numerical parameters, and the resulting effects will be generalized. The same procedure will be carried out for the results of empirical investigations. These results will simultaneously be used to confirm and quantify the theoretically computed values. Furthermore, these results will be used to define the empirical values for the comparison of input parameters, such as structural damping or transmission factors of the vibration after reaching the building structure and spreading within it. With the help of the thus obtained results, correction factors for a simple analytical model will be derived to describe the vibrational behaviour of buildings. The model as well as the correction factors will be discussed here. Additionally the numerical and experimental results show, that the simplification of the excitation mechanism due to vibrations by regarding only a vertical excitation of the soil elements is justified. Furthermore, a method to account for errors in the approximation of various parameters will be presented. Finally, the prognostic method that is developed here for the prediction of vibrational immissions will be validated using various measurements of building structures. The primary model used, a rigid-body model that includes two degrees of freedom, will be tested using results from measurements and results of complex numerical calculations. The conclusions that can be drawn will serve as both a summary and an evaluation of the work.</dc:description>
+          <dc:date>2008-06-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/vnd.ms-office</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1793</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18796</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18796</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1793/original_meinhardt_christian.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1793/meinhardt_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

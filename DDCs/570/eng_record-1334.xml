@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1334">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1334</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Expressionsprofilierung zur Identifizierung von Markergenen als additive Prognosefaktoren für das kolorektale Karzinom</dc:title>
+          <dc:title xml:lang="eng">Expression profiling to identify marker molecules as additional prognostic factors in colorectal cancer</dc:title>
+          <dc:creator>Astrosini, Christian</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit sollte untersucht werden, ob sich der klinische Verlauf von Dickdarmkrebspatienten anhand der Genexpression genauer prognostizieren lässt, als dies über konventionelle histopathologische Methoden derzeit möglich ist. In Microarray-Experimenten wurden insgesamt 516 prognostisch relevante Transkripte identifiziert. Sie erlaubten in silico die ordnungsgemäße Diskriminierung von histo¬patho¬logisch ähnlichen Kolonkarzinompatienten mit unterschiedlichem klinischen Verlauf. Zehn ausgewählte Transkripte wurden über quantitative Real-Time PCR an bis zu 75 kolo¬rektalen Karzinompatienten validiert. Die beiden Gene Claudin 8 und REG1A wurden eingehender untersucht. Claudin 8, dem eine Rolle bei der Abdichtung des interzellulären Raumes zugeschrieben wird, zeigte eine äußerst prominente Minderexpression in kolorektalen Karzinomen. Selbst im den Tumor umgebenden Normalgewebe lag Claudin 8 im Vergleich zu gesunder Mukosa signifikant erniedrigt vor. Es konnte gezeigt werden, dass Claudin 8 im Tumor nicht durch DNA-Methylierung reprimiert wird und keinen wesentlichen Einfluss auf die Zell-Adhäsion sowie das Migrationsverhalten besitzt. REG1A lag in kolorektalen Karzinomen stark überexprimiert vor, zeigte aber bereits signifikant erhöhte Expressionslevel in Adenomen sowie im peritumoralen Normalgewebe verglichen mit gesundem Darmepithel. Deshalb handelt es sich bei REG1A möglicherweise sogar um einen Marker von prämalignem Risikoepithel. REG1A-mRNA wurde über Tissue Microarray-basierte in situ-Hybridisierung nur in Epithel- bzw. Tumorzellen und nie im Stroma detektiert. REG1A fungierte als signifikanter Prädiktor für das Tumor-abhängige sowie progressionsfreie Patientenüberleben. Überdies zeigte REG1A zusammen mit seinem Rezeptor EXTL3 eine positive Korrelation mit dem Auftreten von Peritonealmetastasen, welche das Überleben in besonderem Maß verkürzen.</dc:description>
+          <dc:description xml:lang="eng">In the present study, it was investigated whether the clinical outcome of patients suffering from colon cancer could be more accurately predicted by gene expression than by conventional histopathological staging methods. By microarray technology, 516 prognostically relevant transcripts were identified. They allowed for a correct in silico discrimination between histopathologically similar patients with different clinical courses. Ten selected transcripts were validated by quantitative real-time PCR using up to 75 colorectal cancer specimens. The two genes Claudin 8 and REG1A were more thoroughly analyzed. Claudin 8, which is ascribed a role in sealing the intercellular space, displayed a very prominent downregulation in colorectal cancer. Claudin 8 levels were even significantly lowered in normal tissue surrounding the tumor as compared to healthy mucosa. It was demonstrated that Claudin 8 is not repressed by DNA methylation in tumor cells and that it hasn’t any major impact on cell adhesion or migration. REG1A was strongly upregulated in colorectal carcinoma. It even displayed significantly elevated expression levels in adenoma as well as in peritumoral tissue as compared to healthy colonic epithelium. Therefore, REG1A might be a marker of premalignant epithelium at cancer risk. By tissue microarray based in situ-hybridization, REG1A-mRNA was solely detected in epithelial and tumor cells and never in the stromal compartment. REG1A proved to be a significant predictor of tumor-related as well as disease-free survival. Furthermore, levels of REG1A and its receptor EXTL3 correlated in a positive manner with peritoneal metastasis, which strongly reduces survival time.</dc:description>
+          <dc:date>2006-09-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1334</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13728</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13728</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1334/astrosini_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

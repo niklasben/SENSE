@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1508">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1508</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Heterologous expression and purification of wheat storage proteins in the yeast Saccharomyces cerevisiae</dc:title>
+          <dc:title xml:lang="deu">Heterologe Expression und Aufreinigung von Weizenspeicherproteinen in der Hefe Saccharomyces cerevisiae</dc:title>
+          <dc:creator>Matthäus, Falk</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="eng">In the context of the subproject “Expression und Produktion von Weizenspeicherproteinen in der Hefe Saccharomyces cerevisiae“ of the BMBF project „Entwicklung von Weizen-, Roggen- und Gerstenproteinen ohne Zöliakietoxizität und deren Verwendung zur Herstellung von Lebensmitteln“ (Förderkennzeichen 0312246C) the yield of heterologous expressed wheat storage proteins in S. cerevisiae should be increased to apply them in coeliac toxicity tests. With the help of optimization strategies it was not only possible to increase the product formation, but also to decrease the intracellular degradation of the product. By high cell density fermentation a dry cell weight of approx. 200 gl-1 and a biomass productivity of approx. 3.8 gDCWl-1h1 were reached. In order to keep the loss of the product as small as possible at the purification of the fermentation solution, an alcoholic extraction was optimized and alternatively an aqueous two-phase extraction (ATPE) was established. As critical parameters of the alcoholic extraction the 2-propanol concentration in the different extraction steps could be identified. Thus a reduction of the concentration in the first precipitation around 75% led to a decrease of the loss of approx. 60% for the low-molecular (LMW) and approx. 90% for the high-molecular (HMW) wheat glutenin subunits. Two system configurations for a ATPE of heterologous expressed wheat storage proteins could be found (18% (w/w) PEG 2000/7% (w/w) K2HPO4 pH9, 50% lysate for LMW and 15% (w/w) PEG 300/15% (w/w) K3PO4 pH13, 50% lysate for HMW), which is suitable for a prepurification.</dc:description>
+          <dc:description xml:lang="deu">Im Rahmen des Teilprojektes “Expression und Produktion von Weizenspeicherproteinen in der Hefe Saccharomyces cerevisiae“ des BMBF-Leitprojektes „Entwicklung von Weizen-, Roggen- und Gerstenproteinen ohne Zöliakietoxizität und deren Verwendung zur Herstellung von Lebensmitteln“ (Förderkennzeichen 0312246C) sollten die Ausbeute der heterolog in S. cerevisiae exprimierten Weizenproteine gesteigert werden, um sie für Zöliakietoxizitätsteste einzusetzen. Durch Optimierungsstrategien des Substrates gelang es nicht nur die Produktbildung zu steigern, sonder auch den intrazellulären Abbau zu vermindern. Durch Hochzelldichte¬fermentationen ließ sich eine Trockenbiomasse von ca. 200 gl-1 und eine Biomasse¬produktivität von ca. 3,8 gDCWl-1h1 erreichen. Um die Verluste bei der Aufreinigung des Produktes aus der Fermentationslösung möglichst gering zu halten, wurde eine alkoholische Extraktion optimiert und alternativ eine wässrige Zweiphasenextraktion (WZPE) etabliert. Als kritische Parameter bei der alkoholischen Extraktion konnten die 2-Propanolkonzentration in den verschiedenen Extraktionsschritten identifiziert werden. So führte eine Reduzierung der Konzentration in der ersten Fällung um 75% zu einer Verringerung des Verlustes um ca. 60% für die niedermolekularen (LMW) und um ca. 90% für die hochmolekularen (HMW) Weizenspeicherprotein-Untereinheiten. Es konnten zwei Systemkonfigurationen für eine WZPE von heterolog exprimierten Weizenspeicher¬proteinen gefunden werden (18% (w/w) PEG 2000 / 7% (w/w) K2HPO4 pH9, 50% Lysat für LMW und 15% (w/w) PEG 300 / 15% (w/w) K3PO4 pH13, 50% Lysat für HMW), die sich für eine Vorreinigung eignen.</dc:description>
+          <dc:date>2007-05-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-empty</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1508</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15640</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15640</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1508/original_default</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1508/matthaeus_falk.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

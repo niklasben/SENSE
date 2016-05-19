@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1604">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1604</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The Economics of Electronics Recycling: New Approaches to Extended Producer Responsibility</dc:title>
+          <dc:title xml:lang="deu">Die Ökonomie des Elektroschrottrecyclings: Neue Ansätze zur erweiterten Herstellerhaftung</dc:title>
+          <dc:creator>Bohr, Philipp</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Extended producer responsibility (EPR) has widely been recognized as a suitable policy means to tackle growing amounts of waste from electrical and electronic equipment. How to most effectively and efficiently build and regulate respective EPR systems is, however, still contentious. The thesis introduces EPR’s conceptual background, demonstrates the challenges in current EPR regulation for electronics, and analyzes current approaches to implementation. Drawbacks and shortcomings of these approaches are explained and embedded in a detailed portrait of the electronics recycling industry which features a comprehensive material flow and economic model. Based on this analysis, the author identifies a strong need for alternative regulation approaches. Certificate-based regulation approaches are introduced and the development process of an approach with material recovery certificates for electronics recycling systems is described. Key characteristics of the scheme are explained and a supporting rationale is given for the choice of design features. Subsequently, the functioning of an MRC market is portrayed in depth in a concrete case study for the recycling of cooling and freezing appliances. The case study demonstrates the regulation instrument’s potential to achieve superior environmental and economic results and quantifies selected economy-wide results under different framework conditions.</dc:description>
+          <dc:description xml:lang="deu">Die Recyclingwirtschaft befindet sich im Segment der Entsorgung elektronischer Geräte inmitten eines technologischen und organisatorischen Wandels, welcher stark durch das Konzept der erweiterten Herstellerhaftung und dadurch bedingte regulatorische Eingriffe geprägt ist. Die vorliegende Arbeit befasst sich mit den Herausforderungen der Kreislaufwirtschaft innerhalb der Elektronikindustrie und vermittelt einen Überblick zu Hintergrund und aktueller Umsetzung des Konzeptes der erweiterten Herstellerhaftung. Dabei werden Schwächen und Fehlanreize aktueller Implementierungsbeispiele mit Hilfe eines umfassenden Materialflussmodells sowie unter Einbezug relevanter Kosten- und Erlösstrukturen detailliert analysiert. In Verbindung dazu werden Grundstrukturen und Wertschöpfungsaktivitäten innerhalb des untersuchten Kreislaufwirtschaftssystems umfassend dargestellt. An die Analyse der Ist-Situation, welche die Notwendigkeit des Einsatzes alternativer Regulierungsansätze zu Tage fördert, schliesst sich eine Einführung in zertifikatebasierte Regulierungsinstrumente an. Darauf aufbauend beschreibt der Autor die Entwicklung eines speziell auf die Elektronikindustrie zugeschnittenen Regulierungsinstruments, welches auf Materialrückgewinnungszertifikaten (material recovery certificates) basiert. Dabei werden wesentliche Charakteristika des Ansatzes erklärt und anschliessend die Umsetzung eines solchen Systems im Rahmen einer Fallstudie zum Recycling von Kühl- und Gefriergeräten in Deutschland erläutert.</dc:description>
+          <dc:date>2007-10-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/vnd.ms-office</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1604</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16610</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16610</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1604/original_Doktorarbeit.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1604/bohr_philipp.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

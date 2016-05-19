@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1605">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1605</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Rechteckimpuls-Thermografie im Frequenzbereich - Adaption der Puls-Phasen-Thermografie für die qualitative und quantitative zerstörungsfreie Prüfung oberflächennaher Strukturen im Bauwesen </dc:title>
+          <dc:title xml:lang="eng">Square pulse thermography in frequency domain  - Adaption of pulsed phase thermographyfor the qualitative und quantitative non-destructive testing of near-surface structures in civil engineering</dc:title>
+          <dc:creator>Arndt, Ralf</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der folgenden als Promotionsschrift verfassten Arbeit wird ein methodischer Ansatz zur qualitativen und quantitativen zerstörungsfreien Prüfung von oberflächennahen Strukturen im Bauwesen mittels aktiver Thermografie entwickelt und erprobt. Er adaptiert das aus der Werkstoffprüfung bekannte Verfahren der Puls-Phasen-Thermografie (PPT) für die besonderen Anforderungen im Bauwesen. Das mit „Rechteckimpuls-Thermografie im Frequenzbereich“ bezeichnete Konzept gründet auf dem vom Fachgebiet „Baustoffe und Baustoffprüfung“ der Technischen Universität Berlin (TUB) und der Fachgruppe VIII.2 „Zerstörungsfreie Schadensdiagnose und Umweltmessverfahren“ der Bundesanstalt für Materialforschung und -prüfung (BAM) durchgeführten Forschungsvorhaben: „Struktur-und Feuchteuntersuchungen von Bauteil-und Bauwerksoberflächen mit der Impuls-Thermografie, Teil 1 und Teil 2“, gefördert durch die Deutsche Forschungsgemeinschaft (DFG). Es werden zunächst die Grundlagen der elektromagnetischen Strahlung, der Wärmeübertragung, der Signalverarbeitung sowie der aktiven Thermografie dargestellt. Es folgt ein Kapitel über das Thermografie-Konzept von TUB und BAM. Nach einer Zusammenfassung von bereits unter Mitwirkung des Verfassers veröffentlichten qualitativen Ergebnissen der Auswertung im Zeit-und Frequenzbereich wird ein neuer Ansatz für die Defekttiefenbestimmung im Frequenzraum mittels der charakteristischen Frequenz des maximalen negativen Phasen-und Amplitudenkontrastes zwischen Fehlstelle und ungestörtem Bereich entwickelt und anhand von systematischen Untersuchungen an Probekörpern der BAM überprüft. Die vom Verfasser in der Arbeit mit Rechteckimpuls-Spektral-Thermografie (RST) bezeichnete Methode, die auch als eine Rechteckimpuls-Thermografie (RIT) im Frequenzbereich oder eine durch Amplitudenauswertung ergänzte PPT für Rechteckimpulse verstanden werden kann, soll die aus der Literatur bekannten Ansätze ergänzen und bietet eine Alternative für die Tiefenbestimmung von Defekten bei Messungen mit langen Erwärmungs-und Beobachtungszeiten, wie sie im Bauwesen häufig vorkommen. Die Arbeit wird vervollständigt durch analytische Untersuchungen über den angeregten Wärmefluss sowie ergänzende Simulationsrechnungen und die Beschreibung werkstoffübergreifender Praxisanwendungen zur Qualitätssicherung und zur Schadensdiagnose sowie zur Strukturuntersuchung von Kulturgütern im Bauwesen. Sie schließt ab mit möglichen Perspektiven der aktiven Thermografie im Bauwesen sowie mit einer Zusammenfassung.</dc:description>
+          <dc:description xml:lang="eng">In the following work, written as doctoral thesis, a new methodical approach for qualitative and quantitative non-destructive testing of near-surface structures in civil engineering (CE) with active thermography is developed and tested. It adopts the non-destructive testing (NDT) method of pulsed phase thermography (PPT) for the special requirements of CE. The concept called „square pulse thermography (SPT) in frequency domain“ by the author, is based on the project “Structural and moisture investigations of surfaces of structural elements and buildings with pulse thermography, part 1 and part 2“ funded by the „Deutsche Forschungsgemeinschaft“ (DFG) and carried out by the „Institute of Building Materials and Building Material Testing“ of the Technical University of Berlin (TUB) and the Division VIII.2 „Non-Destructive Damage Assessment and Environmental Measurement Methods“ of the Federal Institute for Materials Research and Testing (BAM). For this purpose at first the basics of electromagnetic radiation, heat flow, signal processing and active thermography are described. It follows a presentation of the concept of thermography developed at TUB and BAM. After a summary of the already published results of postprocessing in time and frequency domain the new quantitative approach of the characteristic frequency of the negative maximum phase and amplitude contrast (defect-reference) is introduced and tested by means of systematic investigations on specimens of BAM. The method might be understood as a square pulse thermography (SPT) in frequency domain or an amplitude-expanded PPT with square pulse heating. It is aimed to complement the established approaches for the defects depth calculation by using measurements with long heating and observation times, quite usual in NDT-CE. The thesis is completed by an analytical analysis of the activated heat flow as well as numerical simulations and materials spanning applications for the quality control and for the assessment of cultural heritage buildings. The work finishes with possible perspectives of active thermography and a summary.</dc:description>
+          <dc:date>2007-10-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1605</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16709</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16709</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1605/original_disarfinal.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1605/arndt_ralf.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

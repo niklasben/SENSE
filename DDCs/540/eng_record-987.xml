@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:987">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:987</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Structural evolution of Ammonium Paratungstate during thermal decomposition</dc:title>
+          <dc:creator>Kirilenko, Olga</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der Arbeit werden Untersuchungen an Ammoniumparafolframat (APW)vorgestellt. Die Zersetzung von APW wurde mittels in situ XAS, in situ XRD und TG/DSC untersucht. Während der thermischen Zersetzung von APW finden die hauptsächlichen Veränderungen bei ungefähr 500 K statt, verbunden mit kompletter Strukturreorganisation.</dc:description>
+          <dc:description xml:lang="eng">In this work investigations on ammonium paratungstate (APT) are presented. The decomposition of APT was elucidated by the comlementary techniques in situ XAS, in situ XRD, and TG/DSC. During the thermal treatment of APT, major changes occur at 500 K where a complete structural rearrangement takes place.</dc:description>
+          <dc:date>2005-02-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/987</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9804</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9804</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/987/kirilenko_olga.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

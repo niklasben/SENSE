@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3444">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3444</identifier>
+        <datestamp>2014-05-16</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Gestaltung von Logistiknetzwerken für die humanitäre Versorgung in Entwicklungsländern Afrikas</dc:title>
+          <dc:title xml:lang="eng">Logistics network design for humanitarian supplies in African developing countries</dc:title>
+          <dc:creator>Keßler, Martin</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Rund 60 Jahre nach Beginn der Entkolonialisierung stehen die heute unabhängigen Staaten Subsahara-Afrikas vor einer Vielzahl anhaltender und schwerwiegender Herausforderungen. Trotz Fortschritten vieler Länder im Demokratisierungsprozess und partiell guter wirtschaftlicher Wachstumsraten werden sie die zentralen Millenniumsentwicklungsziele (MDG) der Vereinten Nationen – die Halbierung der von Hunger und Armut betroffenen Bevölkerung bis zum Jahr 2015 – weit verfehlen. Etwa die Hälfte der fast eine Milliarde Menschen des Kontinents lebt von weniger als 1,25 US-Dollar am Tag, fast 240 Millionen Menschen sind von chronischem Hunger betroffen. Das sind mehr als je zuvor. Schätzungen zufolge wurden in den vergangenen 50 Jahren eine Billion US-Dollar in den Kampf Afrikas gegen Hunger, Krankheiten, Wasserknappheit und Armut investiert. Der internationalen Staatengemeinschaft ist es dennoch bislang nicht gelungen, den Afrikanern die geeigneten Mittel für einen erfolgreichen Kampf zur Seite zu stellen. Neben einer Reihe von ökonomischen, demografischen, geografischen, ökologischen und soziokulturellen bzw. politischen Entwicklungshemmnissen wird in der vorliegenden Arbeit Logistik als ein zentrales, über viele der vorgenannten Faktoren übergreifendes Problem identifiziert. Die Ursachen hierfür liegen in Defiziten der infrastrukturellen, physischen, informatorischen und organisatorischen Dimensionen der Logistik. Untersucht wird daher die Frage, inwieweit logistische Technologien im weiteren Sinne – also neben den eigentlichen Transport-, Umschlag-, Lager- und Kommissionier- und Informationstechnologien auch Konzepte und Methoden zu deren Einsatz und Verknüpfung innerhalb von logistischen Netzwerken – eingesetzt werden können, um die Versorgung der Bevölkerung mit wichtigen Basisgütern zu verbessern. Hierzu werden die in der kommerziellen Logistik in Industrieländern genutzten Planungstools vorgestellt und auf die für die Logistik relevanten Voraussetzungen in Subsahara-Afrika gespiegelt und angepasst. Dieses Vorgehen wird als adaptiver Technologietransfer bezeichnet. Das Ergebnis ist ein systematisches Vorgehen zur Konfiguration von Logistiknetzwerken für die Versorgung der Bevölkerung in Subsahara-Afrika. Besonderes Augenmerk richtet sich dabei auf die landesspezifischen Bedingungen, die durch sehr unterschiedliche Voraussetzungen und Entwicklungsstände der afrikanischen Staaten geprägt sind. Hierzu wird dem Technologietransferprozess eine Ländersegmentierung vorgeschaltet, durch welche die Staaten in weitgehend homogene Gruppen unterteilt werden. Als Konsequenz ergeben sich spezifische Handlungsempfehlungen für jedes dieser Segmente, die von der strategischen bis zur operativen, aber auch bis hin zur makrologistischen Gestaltungsebene reichen. Um die Möglichkeiten des Technologietransfers weiter zu vertiefen, wird abschliessend anhand der Fallstudie Tansania ein Konzept zur optimierten Nahrungsmittelversorgung in einem grossen afrikanischen Land erarbeitet. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) ISBN 978-3-7983-2426-8 , ISSN 1865-3170</dc:description>
+          <dc:date>2012-09-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3444</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35972</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35972</dc:identifier>
+          <dc:identifier>978-3-7983-2427-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3444/logistik_20_kessler_afrika_inhalt.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3444/logistik_20_kessler_afrika_umschlag.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

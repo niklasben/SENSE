@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:02Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:842">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:842</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Simulation des akustischen Nahfeldes einer Triebwerksgebläsestufe</dc:title>
+          <dc:title xml:lang="eng">Numerical Simulation of the Acoustic Nearfield of an Aeroengine Fanstage</dc:title>
+          <dc:creator>Schnell, Rainer</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand der Arbeit ist der Einsatz eines zeitgenauen Navier-Stokes Verfahrens zur Berechnung des aus der Rotor/Stator Wechselwirkung resultierenden, tonalen akustischen Feldes einer Triebwerksgebläsestufe. Aufgrund der Sensitivität des modalen akustischen Feldes gegenüber den Schaufelzahlen der beteiligten Schaufelreihen wird das numerische Verfahren erweitert, um reale und damit beliebige Schaufelzahlen in der Simulation abzubilden, dabei aber gleichzeitig das Rechengebiet im Interesse der Rechenzeit auf jeweils ein Segment zu begrenzen. Dies erfolgt durch eine erweiterte Formulierung der periodischen Randbedingungen. Die Verfahrenserweiterung wird am Beispiel einer gegenläufigen Gebläsestufe ausführlich überprüft; der Vergleich erfolgt sowohl mit der exakten, einfach periodischen Lösung als auch mit experimentellen Unterlagen. Das Verfahren kommt schließlich bei einer örtlich hoch aufgelösten Simulation einer für moderne Nebenstromtriebwerke typischen Gebläsestufe zum Einsatz. Das tonale akustische Feld wird dabei durch eine Modenanalyse der Strömungsdaten des Nahfeldes gewonnen. Den Abschluss der Arbeit bildet der Vergleich zweier aerodynamisch äquivalenter Leiträder im Hinblick auf die Geräuschemission der Stufe.</dc:description>
+          <dc:description xml:lang="eng">The present work concerns the application of a time-accurate Reynolds-averaged Navier-Stokes solver to compute the tonal acoustic field resulting from rotor/stator interaction in an aeroengine fanstage. To ensure the correct modal structure of the acoustic field it is vital to employ the correct blade count ratio in the simulation. To accomplish this, phase-lagged boundary conditions were employed into the flow solver. Details on the implementation including means for convergence acceleration are presented. The method itself was extensively validated using a counter-rotating propfan configuration, including comparisons with a fully periodic solution as well as with experimental data. The solver was then applied to a modern bypass engine fanstage in a spatially highly resolved simulation. The propagational acoustic field was obtained by a modal decomposition of near field flow data. Finally, two different stator geometries - a radially straight and a swept - were compared to each other with respect to emitted sound power.</dc:description>
+          <dc:date>2004-08-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/842</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8352</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8352</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/842/schnell_rainer.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

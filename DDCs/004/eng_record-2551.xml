@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2551">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2551</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Transformation objektorientierter Systeme basierend auf algebraischen Graph-Transformationen</dc:title>
+          <dc:title xml:lang="eng">Transformation of object-oriented systems based on algebraic graph transformations</dc:title>
+          <dc:creator>Schulz, Christoph</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die Anpassung bestehender Software an neue Anforderungen ist seit dem Beginn der Software-Entwicklung ein wichtiges Thema. Die Erweiterung von Software um neue Funktionalität wird erleichtert oder gar erst ermöglicht durch das Software-Refactoring: die strukturelle Verbesserung von Software unter Beibehaltung des Verhaltens, mit dem Ziel, zusätzliche Funktionalität danach einfacher umsetzen zu können. Leider werden die Transformation objektorientierter Daten und die Transformation objektorientierter Software für gewöhnlich getrennt voneinander betrachtet. In dieser Arbeit wird stattdessen die Transformation ganzer objektorientierter Systeme, also von Programmen, laufenden Programm-Ausprägungen (Prozessen) und zugehörigen Daten, in den Fokus gerückt. Dazu wird im ersten Schritt ein konzeptionelles Modell zur angemessenen Beschreibung objektorientierter Systeme entwickelt. Dieses Modell wird im zweiten Schritt durch eine Spezifikation mit Prädikaten und positiven Horn-Formeln formalisiert. Darauf aufbauend werden Transformationen von Systemen – analog zu Graph-Transformationen – als Spans von Homomorphismen modelliert. Das zentrale Ergebnis der Arbeit ist die kanonische Ableitung der Migration von Daten, Programmen und Prozessen aus der Transformation des zugrunde liegenden Schemas, so dass eine System-Transformation durch die Transformation des Schemas eindeutig festgelegt werden kann. Die Behandlung der Komposition von Transformationen und ein Ausblick auf mögliche Erweiterungen des Modells runden die Arbeit ab.</dc:description>
+          <dc:description xml:lang="eng">Since the beginning of software development, making existing software conformant to new demands has always been an important topic. The extension of software by new functionality is facilitated or even made possible by software refactoring: improving the structure of software without changing its behaviour in order to implement additional functionality more easily. Unfortunately, the transformation of object-oriented data and the transformation of object-oriented software is usually examined separately. This work focuses on the transformation of whole object-oriented systems, i. e. of programs, running program instantiations (processes), and associated data. In order to achieve this goal, first a conceptional model for an appropriate description of object-oriented systems is developed. This model is then formalised by a specification with predicates and positive Horn formulas. Analogously to graph transformations, system transformations are then modelled by spans of homomorphisms. The main result of this work is the canonical deduction of the migration of data, programs, and processes from the transformation of the underlying schema, such that the transformation of a whole system can be uniquely determined by the transformation of the schema only. The work is rounded off by the treatment of the composition of transformations and an outlook of possible model extensions.</dc:description>
+          <dc:date>2010-06-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2551</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26749</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26749</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2551/schulz_christoph.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

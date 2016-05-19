@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:970">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:970</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">EDV-gestützte Konsolidierungssysteme - Analyse der SAP R/3®-Komponente EC-CS und Konzeption einer Konsolidierungsfunktion für das INZPLA-System</dc:title>
+          <dc:creator>Friedrichs, Ulrich</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Ausgehend von der theoretischen Fundierung der Konsolidierungsrechnung und der Formulierung eines allgemeinen Anforderungsprofils für deren EDV-technische Umsetzung erfolgt die Analyse der Konfigurationsmöglichkeiten zur Konsolidierungs(vorbereitungs)rechnung der SAP-Konsolidierungskomponente R/3 EC-CS. Es schließt sich die Konzeption eines Gesamtkonzernmodells der integrierten Zielverpflichtungsplanung an, in dem die Gesamtunternehmensmodelle eines Konsolidierungskreises auf Ebene der Kosten-Leistungsmodelle miteinander verknüpft werden. Auf der integrierten Konzern-Kosten-Leistungsrechnung setzt ein Konsolidierungsmodell auf, das den in Theorie und Praxis geforderten Leistungsumfang, bestehend aus Kapitalkonsolidierung, Zwischenergeb-niseliminierung, Schuldenkonsolidierung sowie Aufwands- und Ertragskonsolidierung, vollständig abdeckt. Die Konsolidierungsrechungen werden in Konsolidierungstableaus nachvoll-ziehbar abgebildet. Die vollständige Integration des Gesamtkonzernmodells erlaubt die Konfiguration eines geschlossenen Gleichungsmodells. Diese Konzeption ermöglicht eine Echt-zeitberücksichtigung von Plandatenänderungen der Eingangsgrößen des Gesamtkonzernmodells in allen Planungsbereichen. Durch die Integration wird eine durchgängige Zielorientierung der Planungsaktivitäten aller Konzernverantwortungsbereiche gewährleistet. Die vorgestellte Konzeption bietet somit im Bereich der Integration und Konsolidierungs-rechnung eine Erweiterung des Funktionsprofils gegenüber marktgängigen Produkten einschließlich SAP R/3 EC-CS, die im Bereich der konzernweiten Planungs- und Kontrollaktivi-täten eine verbesserte Unterstützung der Konzernführung ermöglicht.</dc:description>
+          <dc:date>2005-01-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/970</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9636</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9636</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/970/friedrichs_ulrich.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

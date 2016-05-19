@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:282">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:282</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aktive Kontrolle der Strömungsablösung an einer Hochauftriebskonfiguration</dc:title>
+          <dc:title xml:lang="eng">Active Separation Control on a High-Lift Configuration</dc:title>
+          <dc:creator>Tinapp, Frank</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">Bei der Umströmung von Tragflügelprofilen kommt es bei hohen Anstellwinkeln zur Strömungsablösung. Dieses Verhalten der Strömung bewirkt einen starken Auftriebsverlust, der einhergeht mit dem Anstieg des Widerstandes. Eine zunehmend interessante Möglichkeit zur Kontrolle der Ablösung bieten aktive Beeinflussungsmethoden. Eine dieser aktiven Methoden ist das gezielte periodische Ausblasen und Einsaugen durch einen schmalen Schlitz, der sich in unmittelbarer Nähe der Ablöseposition befindet. Durch Optimierung der Anregeparameter (Frequenz und Intensität) sollte die Strömung dahingehend beeinflußt werden, daß es zum Wiederanlegen der zuvor bereits abgelösten Strömung kommt und dadurch insbesondere der Auftrieb wiederhergestellt wird. Im Falle der optimalen Anregung legt die Strömung im zeitlichen Mittel komplett wieder an. Dies belegten Strömungsfeldmessungen im Bereich über der Hinterkantenklappe. Damit konnte erfolgreich gezeigt werden, daß das entwickelte System in der Lage ist, die Leistungsfähigkeit im Bereich des Hochauftriebes an einer praxisnahen Hochauftriebskonfiguration durch aktive Kontrolle der Strömung deutlich zu steigern. Durch die gezielte Einbringung von periodischen Störungen konnten sowohl der erreichbare Auftrieb als auch der nutzbare Anstellwinkelbereich erheblich erweitert werden.</dc:description>
+          <dc:description xml:lang="eng">The active control of airfoil flows is of outstanding importance in future technological applications. For example, maintaining a boundary layer on a wing as much as possible in the laminar state reduces the skin-friction drag. A turbulent boundary layer however, is more resistant to separation than a laminar one. By shifting the onset of separation towards higher angles of attack by means of active flow control, lift is further enhanced and the drag is reduced. Recent investigations have shown that it is highly effective to excite the flow through a narrow spanwise suction/blowing slot, either to damp the turbulent structures in the boundary layer, or to enhance them. Combining the excitation mechanism with a control device, enables the system to operate automatically and to achieve optimal effects under varying flow conditions. In this work an example of flow control on a simple high-lift airfoil will be presented. Periodic blowing and suction through a narrow slot is applied to the separated flow in order to achieve reattachment and thus to increase lift for high angles of attack. Improvement of the lift behaviour of a simple high-lift configuration can be achieved by periodic blowing and suction through a narrow slot at the flap leading edge. This method works best at post-stall conditions, that means, if the flow over the flap is yet separated. The wind tunnel experiment yields, that by introducing periodic disturbances of a certain frequency and intensity into the separated flow, reattachment of the flow can be achieved, resulting in a enhancement of the lift up to 20%. Low frequencies around are best to achieve reattachment of the separated flow, while higher frequencies work better to remain the flow attached over the flap.</dc:description>
+          <dc:date>2002-01-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/282</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2775</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2775</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/282/tinapp_frank.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

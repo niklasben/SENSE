@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2420">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2420</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Temporäre Raum-Zeit-Zonen : die Berliner Fanmeile 2006 auf der Straße des 17. Juni </dc:title>
+          <dc:creator>Fritz, Hannes</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Raum-Zeit-Zonen sind ein Instrument zur Erfassung sowohl räumlich als auch zeitlich definierter Gebietseinheiten. Vor dem Hintergrund allgemeiner zeitlicher Veränderungen und dem Bedeutungszuwachs großer Events, wird die Berliner Fanmeile 2006 auf der Straße des 17. Juni, als Verbindung von Ereignis und Gebiet, auf ihre räumlichen und zeitlichen Eigenschaften untersucht. Insbesondere ihre Aus- und Wechselwirkungen auf die umliegende Stadt bzw. mit ihrer Umgebung spielen dabei eine Rolle. Sie nimmt als Extrembeispiel eine Sonderstellung ein, aber auch andere temporäre Veranstaltungen zeichnen sich durch die Verbindung befristeter und dauerhafter Elemente aus. Das Ziel der Arbeit ist, einen verallgemeinerbaren Begriff der temporären Raum-Zeit-Zone zu bilden, der sich gleichermaßen durch eine eindeutige Kontur und seine praktische Anwendbarkeit auszeichnet. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:description xml:lang="eng">Space-time-zones are an instrument to capture areas defined spatially as well as temporally. The “Berliner Fanmeile 2006�? on the Straße des 17. Juni is examined as a conjunction of incident and territory against the background of general temporal changes and the growing importance of big events. Particularly the effects of the Fanmeile on the nearby city and its interactions with its surroundings are considered. The Fan Fest is an extreme example and takes, as such, an exceptional position, but other temporal events, too, are characterized by the conjunction of limited and lasting elements. This work aims at developing a general concept of the temporal space-time-zone, characterized as well by a clear outline as by its practicability.</dc:description>
+          <dc:date>2010-02-04</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2420</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25355</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25355</dc:identifier>
+          <dc:identifier>978-3-7983-2128-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2420/Graue_Reihe_Heft_22_TemporAre_Raum_Zeit_Zonen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

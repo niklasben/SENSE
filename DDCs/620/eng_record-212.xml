@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:212">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:212</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">System zur sicherheitsgerechten Konstruktion von Werkzeugmaschinen</dc:title>
+          <dc:title xml:lang="eng">System for the safety-integrated development of machine tools</dc:title>
+          <dc:creator>Ising, Michael</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Obwohl Rechnersysteme bereits seit einiger Zeit in den Konstruktionsabteilungen eingesetzt werden, hat sich allerdings deren Anwendung bei sicherheitstechnischen Fragestellungen bislang nicht durchsetzen können. Bisherige Ansätze beschäftigten sich vordergründig mit der Bereitstellung von Informationen aus Katalogen und Datenbanken, in die Angaben aus Vorschriften, Normen sowie Arbeitsschutzbestimmungen abgebildet wurden. Vor diesem Hintergrund war es Ziel dieser Arbeit, ein neues Rechnerwerkzeug zur sicherheitsintegrierten Gestaltung und Optimierung von Prozessen und Produkten zu konzipieren und dieses prototypisch zu realisieren. Entsprechend der Zielsetzung wurden methodische und informationstechnische Anforderungen an ein integriertes Systemkonzept ermittelt und ein integriertes System entworfen und realisiert. Wesentliche neue informationstechnische Merkmale sind die Wiederverwendung von Vorgehensweisen aus bereits abgeschlossenen, sicherheitstechnisch optimierten Prozessen im Rahmen der Prozeßplanung, die Bewertung der Bauteilsicherheit unmittelbar nach der Gestaltung eines sicherheitsrelevanten Bauteils sowie die Beseitigung von Gestaltungsdefiziten basierend auf einer weitestgehend automatisierten Optimierung des Prozeßablaufplans. Die Funktionalität wurde am Beispiel einer sicherheitsintegrierten Werkzeugmaschinenentwicklung demonstriert. Die Bereitstellung von Informationen zu Gefährdungen an Werkzeugmaschinen sowie von Hinweisen zur sicherheitsgerechten Dimensionierung und Gestaltung von Maschinenbaugruppen erfolgt dabei durch einen Zugriff auf die im Rahmen dieser Arbeit entwickelte Wissensbasis "Maschinensicherheit". Eine besondere sicherheitstechnische Bedeutung an Werkzeugmaschinen besitzt die trennende Schutzeinrichtung. Deren Aufgabe ist es, den Bediener vor freigesetzten Elementen, wie Werkstück-, Spannmittel- oder Werkzeugbruchstücke, zu schützen. Um Schutzeinrichtungsbaugruppen und -materialien bereits im Konstruktionsstadium rückhaltesicher zu dimensionieren, wurde im Rahmen dieser Arbeit ein Modul zur rechnerunterstützten Beurteilung der Aufprallfestigkeit von Baugruppen und Materialien trennender Schutzeinrichtungen mittels der Finite-Elemente-Methode (FEM) angebunden. Durch den Einsatz des integrierten Rechnersystems im Rahmen der Werkzeugmaschinenentwicklung werden damit Voraussetzungen geschaffen, Gefährdungen, die im späteren Betrieb von der Werkzeugmaschine ausgehen können, bereits am virtuellen Prototyp zu erkennen und durch Maßnahmen der unmittelbaren und mittelbaren Sicherheitstechnik frühzeitig zu beseitigen.</dc:description>
+          <dc:description xml:lang="eng">Although computer systems have been used for some time in design departments, their application for safety issues has not become generally established. Approaches so far superficially dealt with the provision of information from catalogs and databases into which data from specifications, standards and industrial safety regulations were mapped. Therefore, the aim of this thesis was to develope a prototype of a computer-aided tool which could be used to integrate safety aspects in the design and optimization of processes and products. In accordance with the objective, methodological and information engineering requirements were determined and an integrated system was outlined and realized. New, fundamental information engineering features are the reuse of methods from already completed, safety-optimized processes in the course of process planning, the assessment of component safety directly after the design of a safety-relevant component and the elimination of design deficiencies based on the almost fully automated optimization of the process flow structure. The functionality was demonstrated with the help of an exemplary safety-integrated machine tool development. Information about the safety hazards of machine tools and notes on how to dimension and design machine tool devices in accordance with safety requirements are given by providing access to the Machine Safety knowledge base developed in the course of this work. The separating safeguard is of particular relevance to the safety of machine tools. Its function is to protect the operator against hurled-off pieces such as fragments of workpieces, clamping means or tools. In order to dimension the safeguard devices and materials for safe retention already at the design stage, a module for computer-aided assessment of the impact strength of safeguard devices and materials was developed in the course of the work. By using the integrated computer system during the development of the machine tool, the prerequisites are created to detect, already at the virtual prototype, dangers that may arise during operation of the machine tool, and to eliminate them in time by installing direct and indirect safety measures.</dc:description>
+          <dc:date>2001-07-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/212</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2073</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2073</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/212/ising_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

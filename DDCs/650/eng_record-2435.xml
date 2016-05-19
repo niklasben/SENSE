@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2435">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2435</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ko-RFID Abschlussbericht</dc:title>
+          <dc:creator>Straube, Frank</dc:creator>
+          <dc:creator>Bensel, Philipp</dc:creator>
+          <dc:creator>Fürstenberg, Frank</dc:creator>
+          <dc:creator>Vogeler, Stefan</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Unter dem Titel „Kollaboration in RFID-gestützten Wertschöpfungsnetzen“ arbeiteten die Projektpartner über den Zeitraum von drei Jahren an den folgenden Fragestellungen:&#13;
+Welche Rolle spielt Vertrauen in unternehmensübergreifende RFID-Anwendungen?&#13;
+Wie kann ein Vertrauensverhältnis erzeugt werden?&#13;
+Wie können ungleichmäßige Kosten/Nutzen-Aufteilungen unternehmensübergreifender RFID-Anwendungen gelöst werden, um zu einer Win-Win-Situation zu gelangen?&#13;
+Welche Potenziale ergeben sich für Logistikdienstleister im RFID-Umfeld z. B. durch das Angebot von Mehrwertleistungen?&#13;
+Wie ist ein unternehmensübergreifendes RFID-basiertes Supply Chain Event Management zu gestalten, um die Potenziale der Technologie voll auszuschöpfen?&#13;
+Wie sind die RFID-Anwendungen und -Systeme bei den Praxispartnern zu gestalten?&#13;
+Was ist bei der Implementierung der RFID-Technologie zu beachten?&#13;
+Welche Standardisierungslücken bestehen? Wie können diese behoben werden?&#13;
+&#13;
+</dc:description>
+          <dc:date>2010-02-15</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2435</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25591</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25591</dc:identifier>
+          <dc:identifier>978-2-7983-2215-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2435/Dig.SchrR.Logistik_7.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

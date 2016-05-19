@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1151">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1151</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Robuste Eingrößenregelung von aktiv beeinflussten, abgelösten Scherströmungen auf der Basis reduzierter, empirischer Modelle</dc:title>
+          <dc:title xml:lang="eng">Robust closed-loop single-input single-output control of separated, wall-bounded shear flows based on reduced, empirical models</dc:title>
+          <dc:creator>Becker, Ralf</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ziel der Arbeit ist die Erweiterung des Konzeptes zur aktiven Beeinflussung abgelöster Strömungen um Regelungskonzepte und deren experimentelle Validierung. Als Benchmark-Konfiguration dient die transitionelle Strömung über eine rückwärts gewandte Stufe. Regelgröße ist die durch die Wiederanlegelänge gegebene Größe des Ablösegebietes. Obwohl die Strecke ein stark nichtlineares Verhalten besitzt und durch verteilte Parameter gekennzeichnet ist, liefern black-box Identifikationen erstaunlich einfache und stabile lineare Modelle für Betriebspunkte. Mit der vorliegenden Arbeit ist es gelungen, Regler zur Berechnung der Stelleingriffe von aktiven Beeinflussungen basierend auf solchen reduzierten, empirischen Modellen zu entwerfen. Das Hauptaugenmerk liegt im Entwurf linearer, robuster Regler mittels H¥-Minimierung. Zudem wird ein flachheitsbasiertes Regelungskonzept vorgestellt. Um zu zeigen, dass sich dieses Konzept auch auf mehr praxisrelevante Probleme anwenden lässt, wird die robuste Regelung auch auf ein Ersatzmodell für die Phänomene bei einer Tragflügel-Hochauftriebskonfiguration übertragen. Zudem leistet die Arbeit einen Beitrag zur Anwendung empirischer Modellansätze zur zeitlich hoch auflösenden Online-Schätzung messtechnisch nicht zugänglicher Größen, um messtechnische Beschränkungen bei der Implementierung von Regelkreisen im Experiment aufzuheben. Für die Stufenströmung werden dabei zwei neue Soft-Sensoren vorgeschlagen. Zum einen wird eine zeitlich hoch auflösende Ersatzregelgröße für die Wiederanlegelänge und zum anderen werden die einzelnen Positionen und Geschwindigkeiten der periodisch entstehenden Scherschichtwirbel in Echtzeit aus Mikrofonmessungen im Nachlauf der Stufe geschätzt. Die Soft-Sensoren bauen auf dem bekannten Kalman-Filter-Algorithmus auf.</dc:description>
+          <dc:description xml:lang="eng">In contrast to open-loop flow control, which can produce useful results, closed-loop flow control concepts can drive the actuation mechanism such that disturbances are compensated, and this feature offers the flexibility and robustness needed in real, disturbed environments. This contribution gives a methodology for the closed-loop control of separated, wall-bounded shear flows by active means. The actuated backward facing step flow is chosen as benchmark configuration for wind tunnel experiments, in which the length of the separated flow region, i.e. the reattachment length, is to be controlled. In spite of the strongly nonlinear and infinite dimensional Navier Stockes equations, it is surprising that the dynamical behaviour of the size of the separation region can be approximated by low-dimensional, linear, stable, black-box models for every operating point. These empirical models can easily be identified from experimental data. A fast and practicable design of real-time capable controllers can be performed employing linear, robust methods. The focus of this contribution is the H¥-design. Additionally, a flatness based control concept is tested. In order to show the representative character of the proposed methodology, the linear, robust control is successfully implemented to a generic high-lift wing configuration with active excitation. In experiments the closed-loop flow controls show their superiority over the open-loop strategies mainly proposed in the flow control literature. Additionally, model based signal processing methods are studied in order to overcome the lack of on-line capable, practical measurement methods for flow variables to be controlled. In detail, two new soft sensors for the on-line estimation of inaccessible variables from microphone measurements in the separation zone based on empirical models are proposed for the benchmark step configuration. The first soft sensor estimates the recirculation length behind the step with high temporal resolution and the second one tracks the periodically appearing, vortical shear layer structures in real time by estimating their positions and convection velocities. These estimation schemes employ the well-known Kalman filter recipe.</dc:description>
+          <dc:date>2005-12-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1151</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11571</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11571</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1151/becker_ralf.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

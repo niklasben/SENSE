@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:521">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:521</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Erprobung und Anwendung von Oberflächensensoren und Sensorarrays zur Erfassung instationaerer Wandschubspannungen an Schaufelprofilen</dc:title>
+          <dc:title xml:lang="eng">Test and Application of Surface Sensors and Sensorarrays for Measurement of transient Wall Shear Stresses on blades</dc:title>
+          <dc:creator>Burkhardt, Oliver</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschreibt die Erprobung und Anwendung von Oberflaechensensoren und Sensorarrays zur Erfassung instationaerer Wandschubspannungen an Schaufelprofilen. Experimentelle Voruntersuchungen von thermoresistiven Sensoren unterschiedlicher Bauweisen dienen dabei der Charakterisierung statischer und dynamischer Eigenschaften. Im Rahmen der Experimente wird neben konventionellen Oberflaechenheissfilmen auch mikrotechnisch gefertigte MEMS-Heissfilme und Oberflaechenhitzdraehte betrachtet. Neben Untersuchungen zur Kalibration, Sensitivitaet und Grenzfrequenz der Sensoren werden auch Versuche zur Erhöhung der mechanischen Robustheit von Oberflaechenheissfilmen und der Erfassung des Thermalhaushaltes von Oberflaechenhitzdraehten durchgefuehrt. Die mechanische Robustheit von Heissfilmen laesst sich beispielsweise durch eine duenne Oberflaechenbeschichtung erhoehen. Dies wirkt sich jedoch daempfend auf die dynamischen Eigenschaften des beschichteten Sensors aus. MEMS-Oberflaechenheissfilme und Senflex-Heissfilme werden daher hinsichtlich des Einflusses solcher Schutzschichten auf das Signal/Rausch-Verhaeltnis und der Grenzfrequenz erprobt. Die Ergebnisse zeigen, dass eine Erhoehung der Materialschutzschichtdicke zu einer Reduktion der Grenzfrequenz und der Sensitivitaet fuehrt. Die Erfassung des Thermalhaushaltes von Oberflaechenhitzdraehten sowie der gegenseitigen thermischen Beeinflussung dieser Sensoren in einem Array waren ebenfalls von Interesse. Es zeigt sich, dass die thermische Entkopplung von Sensor und Struktur bei einem Hitzdraht im Vergleich zur wandbuendigen Sensoranordnung eines Heissfilms zu einer deutlich erhoehten Sensor-Sensitivitaet fuehrt. Einen weiteren zentralen Aspekt dieser Arbeit stellt die Anwendung von Oberflaechensensoren zur Erfassung instationaerer Wandschubspannungsverteilungen dar. Untersuchungen an Turbomaschinenschaufeln in Profilpruefstaenden bilden hierbei ein geeignetes Anwendungsbeispiel, da sie die Beobachtung grundlegender Mechanismen der Grenzschichttransition an Schaufelprofilen unterschiedlicher 2- &amp; 3D-gekruemmter Geometrien ermoeglichen. Bedingt durch sehr duenne Schaufelgrenzschichten ist eine sehr sorgfaeltige Applizierung der Sensoren entscheidend fuer die Qualitaet der Messergebnisse. Neben konventionellen Oberflaechenheissfilmen werden auch Oberflaechenhitzdraehte als Kaptonfolien-Arrays zur Anwendung gebracht. Eine Erweiterung des Anwendungspotentials bilden auch Untersuchungen an einer rotierenden Verdichterschaufel. Die Nutzung eines miniaturisierten Mehrkanal-CT-Anemometers sowie einer Telemetrieeinheit zur verbindungslosen Datenuebertragung ermoeglicht dabei die kontinuierliche simultane Datenerfassung von Stroemungsinformationen an der Schaufel. Die erfassten Informationen zeigen die Auswirkungen einer periodisch-instationaeren Zustroemungen auf die Mechanismen der Grenzschichttransition an Verdichter- und Turbinenschaufeln. Die Ergebnisse der vorliegenden Arbeit zeigen insbesondere auf dem Gebiet der Schaufelaerodynamik neue Einsatzbereiche thermoresistiver Oberflaechensensoren unterschiedlicher Bauweisen auf. Die Nutzung von Sensorarrays an Verdichter- und Turbinenschaufeln erlaubt dabei exemplarisch die instationaere Erfassung von Wandschubspannungen und grundlegender Mechanismen der Grenzschichttransition.</dc:description>
+          <dc:date>2004-03-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/521</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5161</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5161</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/521/burkhardt_oliver.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

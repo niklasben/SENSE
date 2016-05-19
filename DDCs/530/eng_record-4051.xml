@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4051">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4051</identifier>
+        <datestamp>2013-08-30</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Magnetische Momente freier, massenselektierter Eisen-, Cobalt- und Nickelcluster</dc:title>
+          <dc:title xml:lang="eng">Magnetic Moments of Free, Size-Selected Iron, Cobalt, and Nickel Clusters</dc:title>
+          <dc:creator>Langenberg, Andreas</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wurde erfolgreich ein Experiment zur Messung Spin-Bahn aufgelöster magnetischer Momente von freien, massenselektierten Clustern mittels XMCD-Spekroskopie aufgebaut. Erste Messungen an kationischen Eisen-, Cobalt- und Nickelclustern im mittleren Größenbereich (Fe+10−15, Co+10−15, Ni+10−15) zeigen, dass diese Cluster anders als im Festkörper starke Ferromagneten mit vollständig gefülltem Majoritätsband und maximalen Spinmomenten von μs = 1.0 μB pro 3d Loch sind, was durch die geringe Koordination der Atome in Clustern verursacht wird. Als Ausnahme wird bei Fe+13 ein um 1.0 ± 0.4 μB pro Atom reduziertes Spinmoment beobachtet, was im Zusammenhang mit der hohen Symmetrie der Ikosaederstruktur steht.&#13;
+Bei sehr kleinen Clustern (Fe+2−6 und Co+2−6) kommt es vermutlich in Folge reduzierter mittlerer Bindungslängen zu unvollständig gefüllten Majoritätsbändern und verringerten Spinmomenten von μs &lt; 1.0 μB pro 3d Loch. Die magnetischen Bahnmomente von Clustern sind im Vergleich zu Atomen bereits für sehr kleine Eisencluster stark reduziert und erreichen nur 5-25% des atomaren Wertes. Verursacht wird dies durch die Aufhebung der sphärischen Symmetrie im Kristallfeld benachbarter Atome. Bei kleinen Cobaltclustern wie Co+3 entsprechen die Bahnmomente dagegen bis zu 43% des atomaren Wertes und sind bis zur Clustergröße n ≤ 6 im Vergleich zu Eisenclustern systematisch erhöht.&#13;
+Ein Vergleich berechneter Spinmomente zeigt eine gute Übereinstimmung zwischen&#13;
+Theorie und Experiment für Eisencluster, aber eine systematische Diskrepanz für&#13;
+Cobalt- und Nickelcluster, wo Rechnungen die hier gemessenen Spinmomente im&#13;
+Durchschnitt um circa 0.5μB pro Atom unterschätzen.&#13;
+Die Ergebnisse von Stern-Gerlach Experimenten sind im Vergleich zu den hier gemessenen Gesamtmomenten für Eisen-, Cobalt- und Nickelcluster durchschnittlich&#13;
+um 0.5 μB verringert, was vermutlich durch eine unzureichende Thermalisierung der Cluster in den Stern-Gerlach Experimenten verursacht wird.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">In this work, an experiment for measuring spin and orbital resolved magnetic moments of free, mass selected clusters by means of XMCD-spectroscopy has been set up. First results on medium sized, cationic iron-, cobalt-, and nickel clusters (Fe+10−15, Co+10−15, Ni+10−15) show that in contrast to the bulk these clusters are strong ferromagnets with a completely filled majority spin band and a maximum spin moment of μs = 1.0 μB per 3d hole, that is induced by the low coordinated atoms of the clusters. As an exception, Fe+13 has a reduced spin moment of about 1.0 ± 0.4 μB per atom, that is related to the highly symmetric, icosahedral structure of Fe+13.&#13;
+For small clusters, majority spin bands are not saturated leading to reduced spin moments of μs &lt; 1.0μB per 3d hole as a consequence of shrunken average nearest neighbour distances.&#13;
+A comparison of magnetic orbital moments of clusters and atoms reveals that already for small iron clusters, orbital moments are strongly reduced to 5-25% of its atomic value, induced by the breakup of spherical symmetry in the crystal field of nearby atoms. In contrast to iron clusters, orbital moments of small cobalt clusters like Co+3 correspond to up to 43% of the atomic value and a systematic enhancement compared to iron clusters is observed for clustersizes n ≤ 6.&#13;
+Calculations of spin moments of iron clusters achieve a good agreement between&#13;
+theory and experiment. For cobalt and nickel clusters, theory systematically underestimates the measured spin magnetic moments by about 0.5 μB per atom.&#13;
+Results from Stern-Gerlach deflection experiments are compared to our derived total magnetic momentes of iron, cobalt, and nickel clusters reduced by 0.5 μB per atom, that might be caused by an insufficient thermalization of the clusters in Stern-Gerlach experiments.</dc:description>
+          <dc:date>2013-08-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4051</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40517</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40517</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4051/langenberg_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

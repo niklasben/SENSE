@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3815">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3815</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Relationship between U-Values, Energy Demand and Life Cycle Costs in Office Buildings </dc:title>
+          <dc:creator>Nasrollahi, Farshad</dc:creator>
+          <dc:creator>Nooraei, Masoudeh</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">This volume of the Young Cities Research Briefs presents the New Generation Office Building, as one of the pilot projects of the Young Cities Research Project, and describes the energy and cost matters using different thermal resistances of the building envelope. It includes two chapters: the first with an alternative design of the New Generation Office Building as a very low energy office building. The chapter includes the main objectives of the pilot project, some of the concepts applied as well as the architectural plans. The second chapter studies the behavior of the energy demand and the life cycle costs of the office building with different U-values. The aim here was to determine the optimum U-value for the building in the warm and dry climate of Hashtgerd New Town, Iran. Dynamic energy simulation is used to calculate the heating and cooling energy demands of the New Generation Office Building with nine different building envelopes. The results show the positive effects of thermal insulation in winter, but also the negative impacts in summer, which calls for special provisions to the building design for these months. Concerning the cost analysis, the costs associated with the nine case studies – including the initial, maintenance, energy and life cycle costs - are calculated for a 15-year period and compared. The only monetary savings that can be achieved are through a reduction of the energy costs in some of the cases with insulation, whereas all other costs are higher as a result of more insulating material used in the construction. Since the energy costs of the New Generation Office Building are only 5% of the total life cycle cost, the savings do not reduce the life cycle costs significantly.</dc:description>
+          <dc:contributor>Sponsored by German Federal Ministry of Education and Research (BMBF)</dc:contributor>
+          <dc:date>2013-06-25</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3815</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40638</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40638</dc:identifier>
+          <dc:identifier>978-3-7983-2582-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3815/No12_Relationship%20between%20U-Values%20Energy%20Demand%20and%20Life%20Cy.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4770">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4770</identifier>
+        <datestamp>2014-07-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Verbesserung der Haltbarkeit von Dokumenten mit Hilfe polymerer Schichten</dc:title>
+          <dc:title xml:lang="eng">Increasing of shelf-life for documents via polymeric coatings</dc:title>
+          <dc:creator>Scheuerle, Volker</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Dissertation. Diese Arbeit handelt von der Leistungssteigerung von Lackrezepturen durch Serienkomponenten, deren Potenzial der Schutzwirkungserhöhung nicht ausgeschöpft ist. Sie beginnt mit Voruntersuchungen zur Erfassung von Schädigungsmerkmalen. Eine anschließende Kategorisierung dieser Schädigungen nach Art und Veränderungspotenzial des Dokuments bildet die Ausgangsbasis zur Verbesserung des Schutzmechanismus. Aus diesen Voruntersuchungen konnten die schädigenden Einwirkungsmechanismen abgeleitet werden, die die Grundlage zur Erstellung einer Benchmark bilden. Diese Benchmark liefert eine Beurteilung über die Schutzwirkung einer UV-Lackbeschichtung und bildet die abschließende Bewertungsstufe. Zur schnellen und quantitativen Beurteilung von Lackrezepturen wurde ein Schnelltest entwickelt. Das Ergebnis des Schnelltests bietet die Grundlage für die errechnete Schutzwirkung in %. Die Schutzlackentwicklung beginnt mit einer Grundrezepturermittlung, geht über in die Additivzumischung und den Wechselwirkungsabgleich. Im Anschluss an die Rezeptierung durchläuft der eigenentwickelte Schutzlack die Benchmark mit Gegenüberstellung eines Referenzlackes. Abschließend referenziert ein Drucktest die Serienfähigkeit und Verwendbarkeit des Schutzlackes im alltäglichen Produktionsprozess.</dc:description>
+          <dc:description xml:lang="eng">This paper comprehends the performance increase of lacquer receipts comprised by serial components. The potential of increasing the protective effect is not yet exploited. This re-search begins with preliminary studies regarding the detection of damage characteristics. A subsequent categorization of these effects by frequency, type of damage and potential of document changes is the starting point for the improvement of the protection mechanism. Out of these preliminary investigations, the damaging effect respectively damaging mechanisms could be derived and are the basis for creating a benchmark. The benchmark is giving scientific statements about the protective effect of a UV varnish coating and represents at the same time the final rating stage. A rapid test for varnish formulations has been developed to get fast and quantitative evaluations. This test is also capable to handle a huge number of samples in a short time. This test statement is the calculated protection efficiency in [%].The design of experiments consists of a basic formula for starting the investigation, which contin-ues with mixing in an additive and interaction comparison. Finally the proprietary developed protective varnish has to run through the benchmark in comparison to a reference varnish.</dc:description>
+          <dc:date>2014</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4770</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47707</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47707</dc:identifier>
+          <dc:identifier>978-3-7983-2680-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4770/scheuerle_volker.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

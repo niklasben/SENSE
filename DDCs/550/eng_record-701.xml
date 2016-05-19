@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:701">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:701</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Verdunstungswiderstände und Gras-Referenzverdunstung : Lysimeteruntersuchungen zum Penman-Monteith-Ansatz im Berliner Raum</dc:title>
+          <dc:title xml:lang="eng">Bulk stomata resistance and gras reference evapotranspiration</dc:title>
+          <dc:creator>Zenker, Thomas</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wurden Untersuchungen zu den Wasserhaushaltskomponenten Verdunstung, Niederschlag, Grundwasserneubildung/-zehrung, Bodenwassergehaltsänderung und Dynamik des Sickerwasseranfalls durchgeführt. Die Untersuchungen basierten auf den Daten der Lysi-meterstation Berlin-Dahlem. Es wurden Messwerte für drei Bodenvarianten mit zwei ver-schiedenen Grundwasserständen über einen Zeitraum von 6 Jahren mit wechselnden Anbauf-rüchten betrachtet. Pflanzenspezifische Verdunstungswiderstände rc des Verdunstungsansatzes nach Penman-Monteith wurden für verschiedene Pflanzenkulturen bestimmt. Es wurden Basiswerte für gute Wasserversorgung, Schwellenwerte des Bodenwassergehaltes für den Anstieg der Widerstän-de bei Trockenheit und maximale Widerstandswerte ermittelt. Dabei wurden bodenspezifi-sche Unterschiede aufgezeigt. Darüber hinaus wurde eine Methodik zur Ableitung der Wider-standswerte aus pF-Werten entwickelt. Für den Ansatz der Gras-Referenzverdunstung der Food and Agricultural Organization der Vereinten Nation (FAO) wurden die K-Faktoren zur Berechnung der Evapotranspiration be-stimmt. Dabei wurde eine Abweichung zwischen den aus den Messwerten abgeleiteten und denen nach FAO-Methodik ermittelten Faktoren deutlich, so dass eine entsprechende Anpas-sung der Berechnungsgrundlagen für hiesige Klimabedingungen zu diskutieren ist. Für die klimatische Wasserbilanz wurde ein Methodenvergleich mit einer Bewertung der Er-gebnisse auf der Grundlage der Lysimeter- und Klimamessungen durchgeführt. Die Dynamik des Sickerwasseranfalls wurde anhand der Perkolationswerte der Lysimeter analysiert und Abhängigkeiten von Bodeneigenschaften und Vorsättigung des Bodens aufge-zeigt. Abschließend finden sich einige methodische Anmerkungen zur Lysimetertechnologie. Die Lysimeter erwiesen sich insgesamt als ein geeignetes Instrument zur Beantwortung der Frage-stellungen dieser Arbeit, wobei teilweise bauliche Veränderungen im Hinblick auf weiterge-hende Untersuchungen zu empfehlen sind.</dc:description>
+          <dc:description xml:lang="eng">In this thesis, the water components evapotranspiration, precipitation, groundwater recharge and depletion, variation in soil water content, and the dynamics of water seepage through the soil are derived. The evaluations are based on the data gained in the Lysimeter-station in Berlin-Dahlem. Val-ues of three soil types and two heights in groundwater table were measured over a period of six years in which crops grown on the lysimeters varied. Plant specific values of the bulk-stomata-resistance rc in the Penman-Monteith approach were determined for different crops. Base values for good water-supply, soil water content thresh-old values indicating an increase in resistance values by drought, and maximum resistance values are derived for the specific soils assessed. Furthermore a method to deduce resistance values from pF-Values was developed. The k-factors for calculating evapotranspiration are derived for the grass-reference method of the Food and Agricultural Organization of the United Nations (FAO). Here a deviation be-came evident between the measured values and those calculated using the FAO-method val-ues, so that an adaptation for the local climate should be discussed. For the calculation of the climatic water balance a comparison of different methods was real-ised. These were evaluated, based on lysimeter and climate measurements. The water seepage dynamics in the soil were analysed on the bases of the percolation values in the lysimeters. Relations to soil characteristics and water content are pointed out. Finally some methodical comments to the lysimetertechnologie are made. The lysimeters turned out to be a suitable instrument in evaluating the objectives of this thesis. In the case of further investigations some structural changes are recommended.</dc:description>
+          <dc:date>2003-07-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/701</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6956</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6956</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/701/zenker_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

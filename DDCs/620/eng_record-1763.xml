@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1763">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1763</identifier>
+        <datestamp>2014-04-30</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Anwendung der Impedanzspektroskopie für die Untersuchung von Biogasreformat in Brennstoffzellen</dc:title>
+          <dc:title xml:lang="eng">Application of impedance spectroscopy for the analysis of biogas reformate use in fuel cells</dc:title>
+          <dc:creator>Hoffmann-Walbeck, Wendelin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ziel der vorliegenden Arbeit ist die Untersuchung des Einsatzes von Biogasreformat in PEM-Brennstoffzellen mit der Methode der elektrochemischen Impedanzspektroskopie. Die durchgeführten Versuche konzentrieren sich auf die Tatsache, dass Biogasreformat gegenüber Erdgasreformat einen erhöhten Kohlendioxidanteil aufweist. In der Literatur finden sich Berichte, dass Kohlendioxid am Platin/Ruthenium Katalysator adsorbiert und dort entsprechend der Reverse Water-Gas Shift-Reaktion reagiert. Produkt dieser Reaktion ist Kohlenmonoxid, welches den Katalysator vergiftet und für einen Abfall der Zellspannung sorgt. Im Rahmen der durchgeführten Experimente wird die Brennstoffzelle bei 50 °C, 60 °C und 70 °C betrieben. Dabei kommt eine Membran-Elektroden-Einheit mit einem anodenseitigen Pt/Ru-Katalysator (0,3 mg/cm2) zum Einsatz. Die Analyse wird mittels elektrochemischer Impedanzspektroskopie während des achtstündigen Einsatzes von synthetischem Gas durchgeführt, das zu 40 % Kohlendioxid enthält. Die Messergebnisse werden verglichen mit dem Betrieb mit Brenngas, das Stickstoff statt Kohlendioxid enthält. Die Veränderungen im Zellbetrieb werden anhand der charakteristischen Kurven sowie der Verschiebungen im Nyquist-Diagramm analysiert. Um eine detailliertere Analyse der Impedanzmessungen zu ermöglichen, werden darüberhinaus die Parameter eines Brennstoffzellenmodells an die Messdaten für den Betrieb bei einer definierten Vergiftung mit Kohlenmonoxid sowie den Normalbetrieb angepasst. Bei den Versuchen mit 40 % Kohlendioxid im Anodengas kann das Auftreten der Reverse Water-Gas Shift-Reaktion nicht bestätigt werden. Es sind praktisch keine negativen Effekte gegenüber dem Betrieb mit 40 % Stickstoff und 60 % Wasserstoff zu beobachten. Bei Zelltemperaturen von 70 °C und 60 °C sind überhaupt keine Unterschiede zwischen den beiden Anodengaszusammensetzungen festzustellen. Bei 50 °C zeigt eine der drei identischen Membran-Elektroden-Einheiten während des achtstündigen Betriebs mit 40 % Kohlendioxid einen sehr leichten Leistungsverlust, der allerdings in der Größenordnung der auch beim Normalbetrieb zu beobachtenden Schwankungen liegt. Der gemessene Spannungsabfall ist deutlich geringer als der durch eine Vergiftung mit 10 ppm Kohlenmonoxid ausgelöste Abfall. Es kann geschlussfolgert werden, dass ein 40 %-iger Kohlendioxidanteil im Anodengas bei den genutzten Katalysatoren für Temperaturen ab 60 °C zu keinerlei Problemen führt. Bei einer Zelltemperatur von 50 °C kommt es unter Umständen zu einem sehr geringen Spannungsabfall von etwa 5 mV. Da dieser Verlust jedoch nur bei einer von den drei getesteten Membran-Elektroden-Einheiten nachgewiesen werden kann, scheinen weitere Experimente in diesem niedrigen Temperaturbereich notwendig.</dc:description>
+          <dc:description xml:lang="eng">The purpose of the experimental work reported here is to examine the use of biogas reformate in PEM fuel cells using electrochemical impedance spectroscopy. The experiments focus on the fact that biogas reformate may contain a very high fraction of carbon dioxide compared to natural gas reformate. Carbon dioxide is believed to adsorb on the Platinum/Ruthenium catalyst of the cell and to react according to the reverse water-gas shift reaction. This reaction produces carbon monoxide which poisons the catalyst and reduces the cell voltage. The fuel cell is run at 50 °C, 60 °C and 70 °C using a Membrane Electrode Assembly containing a Pt/Ru (0,3 mg/cm2) catalyst on the anode side. The analysis is done by electrochemical impedance spectroscopy during 8 hours of fueling with synthetic gas containing 40 % carbon dioxide. The results are compared to the cell performance while fueled with a gas containing inert nitrogen instead of carbon dioxide. The change in the cell conditions is analyzed by characteristic curves and by the drift in the Nyquist-plot. To allow a more detailed analysis of the impedance data a model for the cell is used and parameter optimizations are carried out both for fault conditions with defined amounts of carbon monoxide in the anode gas and for non-fault conditions. In the tests with 40 % carbon dioxide the occurrence of the reverse water-gas shift reaction can not be confirmed. Nearly no negative effects can be observed compared to anode gas containing 40 % nitrogen and 60 % hydrogen. At cell temperatures of 70 °C and 60 °C no difference can be observed. At 50 °C one of three identical Membrane Electrode Assemblies shows a very small power loss during 8 hours that is within the range of the general cell instabilities. This loss is still far smaller than that caused by 10 ppm carbon monoxide on the same system. It can be concluded that 40 % of CO2 in the anode gas do not cause any problems with the used catalysts for temperatures of 60 °C and above. At 50 °C there may be a very small negative impact leading to a voltage loss of about 5 mV. As this loss is observed in only one of three tested membranes further experiments will have to be done for low cell temperatures.</dc:description>
+          <dc:date>2008-05-14</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1763</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18459</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18459</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1763/hoffmannwalbeck_wendelin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

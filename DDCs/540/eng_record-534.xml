@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:534">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:534</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Bindung des sekundären Akzeptors in Photosystem I mit Methoden der EPR-Spektroskopie</dc:title>
+          <dc:title xml:lang="eng">Investigations of the protein binding of the secondary quinone acceptor in photosystem I using EPR and ENDOR spectroscopy</dc:title>
+          <dc:creator>Teutloff, Christian</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden die besonderen Eigenschaften des sekundären Akzeptors in PS I, einem Phyllochinon, untersucht und in Beziehung zu dessen Proteinumgebung gesetzt. Hierbei kamen Verfahren der EPR- und ENDOR-Spektroskopie zum Einsatz, mit denen selektiv ungepaarte Elektronenspins, wie sie infolge des lichtinduzierten Ladungstransfers in PS I auftreten, beobachtet werden können. Gegenstand der Untersuchungen war das Semichinon-Radikalanion A1.- bzw. das nach Lichtanregung intermediär auftretende sekundäre Radikalpaar P700.+A1.- . Die Interpretation der Ergebnisse für A1.- basierten auf Messungen an Chinonen in vitro und DFT-Rechnungen, die sowohl an Chinonen als auch an einem Teil der Bindungstasche von A1 durchgeführt wurden. Das niedrige Reduktionspotential des im Protein gebundenen Phyllochinons, A1/A1.-, konnte durch cyclovoltammetrische Messungen des Chinons in einer Reihe von Lösemitteln unterschiedlicher Polarität auf eine sehr apolare Bindungstasche zurückgeführt werden. Dabei erwies sich der g-Tensor des Anionradikals als empfindliche Sonde der Polarität der Umgebung. Die spezielle, asymmetrische Spindichteverteilung in A1.- konnte über DFT-Rechnungen an einem Modell der Bindungstasche durch eine einseitige Wasserstoffbrücke erklärt werden. Mittels ENDOR-Messungen an einem in die A1-Bindungstasche inkorporierten, deuterierten Chinon konnte die starke H-Brücke nachgewiesen werden. Die Untersuchungen am Radikalpaar P700.+A1.- mit EPR- und ENDOR-Spektroskopie zeigten, daß ausschließlich die Bindungstasche die für effizienten Vorwärtselektronentransfer notwendigen Redoxeigenschaften des Chinons bestimmt und dadurch sogar ein funktionaler PS I-Komplex mit Plastochinon-9 als sekundärem Akzeptor möglich ist. Mit Messungen an PS I-Punktmutanten der Grünalge Chlamydomonas reinhardtii war es möglich, den bei tiefen Temperaturen am Elektronentransfer beteiligten PsaA-Zweig der C2-symmetrisch aufgebauten Kofaktorenkette über die Wechselwirkung des Trypthophans A 693 zu identifizieren. Erstmals wurden ENDOR-Messungen an P700.+A1.- in PS I-Einkristallen durchgeführt, mit denen die genauen Hyperfeintensorhauptwerte der 2-Methylgruppe des Semichinonanions und die Orientierung zur kristallographischen c-Achse bestimmt wurden.</dc:description>
+          <dc:date>2004-03-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/534</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5299</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5299</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/534/teutloff_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

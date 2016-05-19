@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:207">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:207</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aktive Beeinflussung der Strömung stromab einer rückwärtsgewandten Stufe</dc:title>
+          <dc:title xml:lang="eng">Active control of a flow downstream of a backward-facing step</dc:title>
+          <dc:creator>Huppertz, André</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Diese experimentelle Arbeit beschreibt die dynamischen Phänomene und die aktive Beeinflussung einer transitionellen, abgelösten Scherschicht stromab einer rückwärtsgewandten Stufe in einem Reynolds-Zahlenbereich (1400 &lt; Re = Uo H /nue &lt; 6200). Die Strömung wurde lokal durch zeitperiodische Störungen an der Abströmkante mit einem Schlitz-Schlauch-Lautsprechersystem angeregt. Als globale Kontrollgröße für die Auswirkungen der Anregung wurde die mittlere Länge der Ablöseblase verwendet. Ziel war es, die Länge der Ablöseblase durch Anregung zu verkürzen und die damit verbundenen dynamischen Phänomene modal zu analysieren. Untersucht wurde die mono- und multifrequente Anregung bei kleinen und großen Amplituden (0.1Uo &lt; A &lt; 1.0Uo). Bei allen Anregungen konnte die Blasenlänge nur dann signifikant verkürzt werden, wenn die Anregung energiereiche Wirbelstrukturen in der Nähe der Ablösung erzeugte. Neben der Frequenz hatte die Anregungsamplitude maßgeblichen Einfluß auf die Ausbildung der Wirbelstrukturen und damit auf die Blasenlänge. Während sich bei der Anregung der Kelvin-Helmholtz-Instabilität mit kleinen periodischen Störungen (A=O(0.01Uo)) Querwirbelstrukturen formierten, wie sie auch aus einer freien Scherschicht bekannt sind, erzeugte die Anregung mit großen Amplituden (A=O(0.1Uo)) und kleinen Frequenzen eine periodische Anströmung der Stufenkante, die zu Ausbildung von "Anfahrwirbeln" führte. Die größte Verkürzung der Blasenlänge betrug 65%. Diese Verkürzung der Ablöseblase steigerte die großskalige Durchmischung, gleichzeitig wurde aber auch die Turbulenzproduktion erhöht und damit der Energieverlust für die mittlere Bewegung. Der instationäre Charakter der Strömungsfeldes wurde mit momentanen Wirbelstärkeverteilungen, Leistungsdichtespektren, digitaler Filterung, Doppeldekompositionen (z.B. phasengemittelte Wirbelstärke), Tripeldekompositionen (z.B. kohärente Energie, stochastische und kohärente Turbulenzproduktion) und der Loève-Karhunen-Dekomposition (POD) modal analysiert. Das Geschwindigkeitsfeld wurde mit LDA und PIV vermessen. Die Wandschubspannungen wurden mit Hilfe der Ölfilminterferometrie und der Wanddruck mit einem kapazitiven Druckaufnehmer bestimmt.</dc:description>
+          <dc:description xml:lang="eng">An experimental investigation was performed to study the effects of active control on a transitional separated shear layer downstream of a backward-facing step in a Reynolds number range (1400 &lt; Re = Uo H /nue &lt; 6200). The flow was locally forced by time-periodic disturbances at the edge of the step with a slot-loudspeaker actuator. The length of the separation bubble was taken as an indicator of the global effect of the forcing. The aim of the investigations has been to reduce the length of the separation region and to analyse the corresponding dynamical phenomena. Single and multi-frequency forcing at low and high amplitudes (0.1Uo &lt; A &lt; 1.0Uo) were studied. For all cases a strong reduction of the bubble length could be achieved if energy containing vortices were generated close to the step. The formation of the vortex structures and the reduction of the bubble length depended strongly on the frequency and the amplitude. Forcing with small amplitudes (A=O(0.01Uo)) generated the typical Kelvin Helmholtz rollers as they are known from free shear layers. Forcing with large amplitude (A=O(0.1Uo)) produced a periodical incoming flow which generated vortices similar to those in a starting flow. The length of the separation bubble could be reduced at most by about 65% of the non-manipulated case. This reduction enhanced large-scale mixing but increased the turbulence production and therefore the loss of energy of the mean motion at the same time. The unsteady character of the flow field was investigated by analysing instantaneous vorticity distributions, spectral power densities, digital filtering, double decompositions (i.e. phase averaged vorticity), tripel decompositions (i.e. coherent energy, coherent and stochastic turbulence production) and by using the Loève Karhunen decomposition (POD). The velocity field was measured by LDA and PIV, the mean skin friction by oil-film interferometry and the mean wall pressure by a capacitive transducer.</dc:description>
+          <dc:date>2001-07-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/207</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2024</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2024</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/207/huppertz_andre.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

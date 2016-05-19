@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1726">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1726</identifier>
+        <datestamp>2014-04-30</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Optische Eigenschaften von Exzitonen in InGaN-Quantenstrukturen</dc:title>
+          <dc:title xml:lang="eng">Optical Properties of Excitons in InGaN Quantumstructures</dc:title>
+          <dc:creator>Bartel, Til Pierre</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit ist der Aufbau eines μ-PL Messstandes zur ortsaufgelösten Untersuchung der optischen Eigenschaften von Exzitonen in InGaN-Quantenpunkt-Strukturen. An den InGaN-Proben konnten auflösungsbeschränkte Emissionslinien aus einzelnen Quantenpunkten nachgewiesen und ihr zeitliches Verhalten untersucht werden. Die Quantenpunkt-Linien zeigen ein mono-exponentielles Abklingen. Es wurde, selbst für Quantenpunkte mit ahnlichen Übergangsenergien, eine grosse Streuung der Zeitkonstanten zwischen 0,4 ns und 1,6 ns beobachtet. Dies wird durch die unterschiedliche Größe, Potentialtiefe und Form der Quantenpunkte erklärt, da diese verschiedene Wellenfunktionsüberlapps und Lokalisierungsenergien aufweisen. Das multi-exponentielle Abklingen, das für das QP-Ensemble beobachtet wurde, ergibt sich demnach aus der Überlagerung des mono-exponentiellen Abklingens mit verschiedenen Zeitkonstanten der einzelnen Quantenpunkte. Es uns damit gelungen, das transiente Verhalten des QP-Ensembles direkt mit der Unordnung des InGaN Quantenpunkt-Systems zu erklären. Des Weiteren wurden am Quantenpunkt-Ensemble temperaturabh¨angige und zeitaufgelöste Messungen durchgeführt. Es wurde die Relevanz von Transferprozessen und Umverteilung zwischen Quantenpunkten mit unterschiedlicher Potentialtiefe demonstriert. Bei tiefen Temperaturen geschieht dies durch Tunneln der Ladungsträger von flachen Quantenpunkten in tiefere Lokalisierungszentren, während bei höheren Temperaturen die thermische Aktivierung der dominante Prozess ist. Es wurden Lokalisierungsenergien zwischen 20 meV und 80 meV gemessen.</dc:description>
+          <dc:date>2008-03-17</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1726</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18120</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18120</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1726/bartel_til.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

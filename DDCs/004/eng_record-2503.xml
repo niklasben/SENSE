@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2503">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2503</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Umfassendes Autorisierungsmanagement</dc:title>
+          <dc:title xml:lang="eng">Comprehensive Authorisation Management</dc:title>
+          <dc:creator>Hildmann, Thomas</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Rollenbasierte Zugriffskontrollsysteme (RBAC) sind als Basis fü̈r ein effizientes Autorisierungssystem weit verbreitet. Diese Arbeit beschreibt einen Modellierungsansatz, der eine Identitä̈ts-, eine Struktur-, eine Anwendungs- und eine Organisationssicht voneinander trennt, um so zu einer Verteilung von Verantwortlichkeiten zu kommen. Ferner wird ein Entwurfsverfahren fü̈r die Rollenmodellierung entwickelt, das fü̈r eine verteilte Administration geeignet ist und den Qualifizierungsaufwand sowie die Fehleranfälligkeit bei der Rollenmodellierung minimiert. Der Entwurfsprozess kombiniert Ansätze der agilen Softwareentwicklung mit Role-Engineering-Methoden und kann komplett EDV-gestützt implementiert werden. Ein Rollenmodell dient der Strukturierung von Rollen und kann wie ein Softwaremodell behandelt werden kann. So wird beleuchtet, wie Erkenntnisse aus der Softwareentwicklung auf den Entwurf von Rollenmodellen übertragbar sind. Das vom eXtreme Programming (XP) abgeleitete Rollenentwurfsverfahren eXtreme Role-Engineering (xRE) wird ebenso wie die Anwendung von Mustern und die Modellierung über verschiedene Sichten (Views) in dieser Arbeit erö̈rtert. Das in der Software-Entwicklung weit verbreitete Konzept der Entkopplung wird auf die Organisationsstruktur und auf die Anwendungs- und Geschä̈ftslogik angewandt. Die durch eine Zentralisierung entstehenden Nachteile, wie Verfolgbarkeit aller Benutzeraktionen und zentrale Datensammlungen kö̈nnen durch konsequente Anwendung von Methoden der mehrseitigen Sicherheit reduziert werden. Die Anwendung dieser Methodik wird am Beispiel der Authentisierung mit Smartcards, einem Modell zur nicht verfolgbaren Autorisierung sowie zur Protokollierung für verschiedene Rollen gezeigt. Teile des in der Arbeit entwickelten Systems sind an der Technischen Universität Berlin seit einigen Jahren mit mehreren tausend Benutzern im produktiven Einsatz. Die beim Einsatz des Systems gesammelten Erfahrungen sind in die umfangreiche experimentelle Evaluation eingeflossen. Dieser Anwendungsfall zeigt die Nutzbarkeit der beschriebenen Methoden und Verfahren und bietet ferner eine Plattform für weiterführende Forschung und Entwicklung auf dem Gebiet.</dc:description>
+          <dc:description xml:lang="eng">Role-based access control systems as a base for efficient authorization is widely used. This work describes a model, that divides different views, such as identity, structure, user and organization to lead to a separation of duty. A role-engineering process is also developed. This is suitable for shared administration and minimizes the costs for qualification as well as it reduces error-proneness during role modeling. The engineering process combines agile software development with role-engineering methods and can be implemented completely computer aided. A role model is a model that can be treated like a software model. This work presents ways to transfer knowledge gained from software-engineering onto role-modeling. Derived from eXtreme programming (XP) is the eXtreme role-engineering (xRE) process. xRE as well as the use of patterns and views-orientated modeling are discussed here. Uncoupling is largely used in software development and is herein applied for the organization-, the user- and business-structure. Drawbacks arising from centralization, as traceability of user actions and central data collections, can be avoided by following the methods of multilateral security consequently. Authentication via smart-cards, a model for non-traceable authorization and logging, for different roles show the usage of this methodology exemplary. Major parts of the system developed within this work are used daily at the Technische Universität Berlin by many thousand users since a couple of years. The gain in experience using this system led to an extensive experimental evaluation. This case demonstrates the suitability of the developed methods and processes and offers a stage for continuing research and development in this field.</dc:description>
+          <dc:date>2010-04-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2503</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26353</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26353</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2503/hildmann_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

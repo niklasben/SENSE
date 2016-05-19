@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2819">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2819</identifier>
+        <datestamp>2014-04-29</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:300</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Geschlechtliche Konnotationen in den disziplinären Kulturen der Ingenieurwissenschaften? : Ableitungen aus der Untersuchung zu Studieninteressen und -motivationen von Studentinnen der Technischen Universität Berlin.</dc:title>
+          <dc:title xml:lang="eng">Gendered connotations of disciplinary cultures in engineering fields? : Conclusions of a study on interests and motivations of female engineering students at the Technical University of Berlin.</dc:title>
+          <dc:creator>Bösebeck, Viola</dc:creator>
+          <dc:subject>ddc:300</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Untersuchung widmet sich der Fragestellung nach geschlechtlichen Konnotationen in den disziplinären Kulturen der Ingenieurwissenschaften und beleuchtet dabei mehrere Aspekte im Kontext der Geschlechter- und Hochschulforschung. Motiviert durch die Projektarbeit mit Studentinnen an der TU Berlin war es für die Herausgeberin Svea Esins und die Autorin Viola Bösebeck das Ziel, einen Beitrag zu der Studiensituation in den disziplinären Kulturen der Ingenieurwissenschaften zu leisten. Die Daten wurden in Form von Interviews generiert. Die vorliegende Studie zur Untersuchung der Situation von weiblichen Studierenden wurde im Rahmen des Projekts Zielgerade an der TU Berlin ab Sommer 2007 konzipiert und durchgeführt. Im Wintersemester 2008/09 wurde eine Interviewphase angeschlossen. Die Auswertung der Interviews ist Teil dieser Veröffentlichung. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen, ISBN 978-3-7983-2289-9.</dc:description>
+          <dc:date>2011-03-01</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2819</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29738</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29738</dc:identifier>
+          <dc:identifier>978-3-7983-2290-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2819/9783798322899_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2819/9783798322899_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

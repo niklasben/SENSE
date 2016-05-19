@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:490">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:490</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Photokatalytische Behandlung von biologisch schwer abbaubaren Wasserverunreinigungen mit Titandioxid und simuliertem Sonnenlicht</dc:title>
+          <dc:title xml:lang="eng">Photocatalytic degradation of non biodegradable water pollutants with titanium dioxide and sun light</dc:title>
+          <dc:creator>Peñafiel, Ródny</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">TiO2-Katalysator P-25 der Firma Degussa wurde eingesetzt,um die folgenden Modellsubstanzen abzubauen: 1,5-Naphthalindisulfonsäure (1,5-NDSA), Reaktivfarbstoff Remazol Rot 198 (RR 198) und Farbstoff Neutral Rot 5 (NR5). Diese Verbindungen werden biologisch schlecht abgebaut und konnten bei den konventionellen Aufbereitungsverfahren nur mäßig abgetrennt werden. Lösungen dieser Wasserverunreinigungen wurden einerseits mit TiO2 in Suspension und andererseits mit TiO2 fixiert auf einem Trägermaterial behandelt. Die mit Luft gesättigte Reaktionsmischung wurde von einer Lampe (Xe-450W, Fa. OSRAM) bestrahlt, die das Sonnenlicht simuliert. Dadurch wurde der Katalysator angeregt und konnte die Oxidation der Wasserverunreinigungen bewirken. Die Kinetik des photokatalytischen Verfahrens wurde anhand der experimentellen Daten untersucht. Nur bei der Oxidation von 1,5-NDSA mit suspendiertem TiO2 kann die Abhängigkeit der Geschwindigkeit von der Konzentration an Substrat durch das Langmuir-Hinshelwood-Modell beschrieben werden. Bei allen Modellsubstanzen kann trotzdem ein Zusammenhang zwischen Adsorption und photokatalytischer Reaktion festgestellt werden. Meistens ergeben sich bei höheren Beladungen höhere Abbaugeschwindigkeiten. Dies gilt auch für unterschiedliche pH-Werte, da die Oxidation bei solchen pH-Werten begünstigt wird, bei denen viel Substrat adsorbiert wird. Anhand eines mathematischen Modells konnte der Effekt der verschiedener Einflussgrößen auf die Kinetik der photokatalytischen Reaktionen bei suspendiertem TiO2 beschrieben werden. Dabei wurden die Zusammenhänge zwischen Adsorption und Oxidation deutlicher. Es wurde gezeigt, dass der Filtereffekt nicht der Grund für die Hemmung des Abbaus der Modellsubstanzen bei hohen adsorbierten Konzentrationen ist, wie anfangs vermutet, sondern dass eine zu hohe Beladung die Oxidation beeinträchtigt. Schliesslich wird die Eignung des mathematischen Modells bei der Auslegung von photokatalytischen Reaktoren diskutiert. Die Photokatalyse wurde mit anderen weitergehenden Oxidationsverfahren (AOP) verglichen. Dabei wurde festgestellt, dass die Photokatalyse 20 bis 50 größere Fläche als die anderen Verfahren benötigt, um die gleiche Leistung zu erzielen.</dc:description>
+          <dc:date>2002-09-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/490</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4851</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4851</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/490/penafiel_rodny.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

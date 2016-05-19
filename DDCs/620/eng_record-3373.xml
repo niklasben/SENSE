@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3373">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3373</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung des Reinigungseffektes von Ultraschall auf Oberflächen von Chirurgie-Instrumenten und dessen prototypische Umsetzung in ein Dekontaminationsverfahren</dc:title>
+          <dc:title xml:lang="eng">Examination of cleaning effects of ultrasound on surfaces of surgical instruments and its prototypal transfer into a decontamination procedure</dc:title>
+          <dc:creator>Kahlen, Insa</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Viele Medizinprodukte aus der Chirurgie stellen besonders hohe Anforderungen an ihre Aufbereitung, da sie z.B. wie die so genannten „Langschaftinstrumente“ enge und sehr langgestreckte Lumen aufweisen, die zum Teil nicht einsehbar sind. Laut der Richtlinie „Anforderungen an die Hygiene bei der Aufbereitung von Medizinprodukten“ vom RKI und der BfArM soll die Aufbereitung von solchen Medizinprodukten durch Anwendung validierter Verfahren durchgeführt werden und der Erfolg stets nachvollziehbar und reproduzierbar sein. Es ist bekannt, dass die mechanische Reinigung von Oberflächen durch Ultraschall verbessert werden kann. Durch die Implosion von ultraschallinduzierten Kavitationsblasen werden solch große lokale Druckdifferenzen bewirkt, dass durch ihren Impuls eine Reinigungswirkung auf der Oberfläche nachweisbar ist. Dieser Effekt wird zur Reinigung der meisten Instrumente in Tauchbädern genutzt. Neben dieser bisher üblichen Anwendung wurde innerhalb der Dissertation die Wirkungsweise von ultraschallinduzierter Kavitation nicht nur auf den Flächen der Außenseite von Instrumenten untersucht, sondern auch die innerhalb von Lumen. Dabei wurden sowohl die Erzeugung des Ultraschalls, die Übertragung, die Schallausbreitung und deren Wirkung betrachtet, um Aufschluss darüber geben zu können, ob und wie der gezielte Einsatz von Ultraschall und induzierter Kavitation die Effektivität der herkömmlichen Reinigung steigern kann. Weiterhin diente eine Studie zur Festlegung von Parametern, die für die prototypische Umsetzung in eine Reinigungs- und Desinfektionsanlage für Chirurgie-Instrumente genutzt wurde. Ziel der Dissertation war es, wesentliche Parameter zur Reinigung mit Ultraschall zu erfassen, um diese in einen Prototyp zu überführen und dadurch die Qualität der Reinigung und eine sichere, der RKI-Richtlinie entsprechenden Aufbereitung zu gewährleisten.</dc:description>
+          <dc:description xml:lang="eng">Many medical products used in surgery have high requirements in respect to their refurbishment, because some of them, such as long shafted instruments, have long lumens, which are not easy visible by eye. In accordance with the directive “requirements on the hygiene at the refurbishment of medical products�? of the RKI and the BfArM has the refurbishment of such medical devices to be done by the use of validated processes, which success has to be comprehensible and reproducible. It is known that the mechanical cleaning of surfaces can be improved by ultrasound. By the implosion of ultrasound-induced cavitation bubbles such large local pressure differences are caused that their impulse has a detectable cleaning effect on the surface. This effect is used to clean most of the instruments within an ultrasound-bath. In addition to this conventional application one part of this thesis was to examine the effectiveness of ultrasound induced cavitation not only on the outside areas of the instruments, but also on the inside areas of the lumen. Thereby the generation of ultrasound, the transmission of ultrasound and its effects were considered in order to offer valuable information about how ultrasound and cavitation can be used to improve the effectiveness of conventional cleaning. Furthermore, a study was designed to determine parameters that were used for the prototype implementation in a cleaning- and disinfection-system for surgical instruments. The aim of the thesis was to capture essential parameters for the ultrasonic cleaning in order to convert it into a prototype, and thus to ensure the quality of cleaning and the safe refurbishment appropriate to the RKI.</dc:description>
+          <dc:date>2012-06-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3373</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35681</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35681</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3373/kahlen_insa.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

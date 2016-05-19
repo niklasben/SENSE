@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2940">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2940</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Anpassung und Abgrenzung. Zur Sozialgeschichte der Lehrstuhlinhaber der Technischen Hochschule Berlin-Charlottenburg und ihrer Vorgängerakademien, 1851 bis 1945.</dc:title>
+          <dc:creator>Kändler, Wolfram C.</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="deu">Im ersten Kapitel werden zentrale Aspekte der Entwicklung des höheren technischen Bildungswesens vor 1850 behandelt. Dabei gilt die Aufmerksamkeit gerade der jeweiligen Gründungssituation der drei Vorgängerakademien der Technischen Hochschule – wobei versucht wird, sie eben nicht allein als Vorgängerakademien zu verstehen, sondern in ihren jeweils individuellen Kontext einzuordnen. Das zweite Kapitel thematisiert die Rahmenbedingungen. Neben der quantitativen Entwicklung der Hochschule werden hier zentrale Ereignisse, Voraussetzungen und Tendenzen ihrer Geschichte zwischen 1850 und 1945 erörtert. Die beiden folgenden Kapitel widmen sich sodann jenen knapp 300 Menschen, die als Lehrstuhlinhaber in dem zuvor dargelegten Rahmen die Geschicke der Technischen Hochschule wesentlich bestimmten. In Kapitel drei werden ihre Herkunft, ihr Bildungsweg und ihre Karriere vor der Berufung nach Charlottenburg analysiert. Kapitel vier beschäftigt sich mit ihrer Zeit in der preußischen Hauptstadt: Mechanismen der Berufung, Einkommensverhältnisse und Titelwesen. Darüber hinaus wird versucht, die Professur in den Kontext der jeweiligen Karriere einzuordnen, um so Ort und Stellenwert der Technischen Hochschule zu Berlin in der Hochschullandschaft Preußens und der deutschen Staaten näher bestimmen zu können. Teilw. zugl.: Gießen, Univ., Diss., 2008</dc:description>
+          <dc:date>2011-08-10</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2940</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31920</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31920</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2940/kaendler_anpassung_und_abgrenzung.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:02Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1904">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1904</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Enhancing Planning-Based Adaptation Middleware with Support for Dependability: a Case Study</dc:title>
+          <dc:creator>Rouvoy, Romain</dc:creator>
+          <dc:creator>Vitenberg, Roman</dc:creator>
+          <dc:creator>Eliassen, Frank</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Recent evolutions of mobile devices have opened up for new opportunities for building advanced mobile applications. In particular, these applications are capable of discovering and exploiting software and hardware resources that are made available in their environment. A possible approach for supporting these ubiquitous interactions consists in adapting the mobile application to reflect the functionalities that are provided by the environment. However, these approaches often fail in offering a sufficient degree of resilience to potential device, network, and software failures, which are particularly frequent in ubiquitous environments. Therefore, the contribution of this paper is to integrate the dependability concern in the process of mobile applications adaptation. In particular, we propose to reflect dependability mechanisms as alternative configurations for a given application. This reflection allows the planning-based adaptation middleware to automatically decide, based on contextual information, to enable the support for dependability or not.</dc:description>
+          <dc:date>2008-09-02</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1904</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20104</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20104</dc:identifier>
+          <dc:identifier>1863-2122</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1904/ECEASST_Vol_11_2008_06.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3837">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3837</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Water Demand Management : Water End Use Measurements and Water Consumption Patterns in Tehran Households</dc:title>
+          <dc:creator>Nuñez von Voigt, Tamara</dc:creator>
+          <dc:creator>Mohajeri, Shahrooz</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The project “Young Cities – Developing Energy Efficient Urban Fabric in the Tehran-Karaj region�? under the direction of the TU Berlin is part of the BMBF funded program: “Research for Sustainable Development of the Megacities of Tomorrow�?. In the project exemplary solutions for the growing region Tehran-Karaj in Iran have been developed. The inter 3 - Institute for Resource Management heads the dimension of action: “Water &amp; Wastewater Management�? and was in charge of the development of integrated and sustainable approaches for water supply and sanitation in the region. This document summarizes the results of the work package “Water Demand Management: Consumption Patterns and Efficiency of Water Saving Measures�?. The research was focused on possible ways of reducing domestic water consumption without cutbacks in quality of life. By reducing the amount of consumed drinking water and produced waste water, energy consumption is reduced as well. The challenge was that water consumption behavior in Iranian household was unknown. The project team has therefore decided to carry out water consumption measurements in some test households. This required the development of a non-intrusive measurement method which will meet the strong demand of Iranians to privacy. A measurement concept according the method of Flow Trace Analysis (FTA) was developed. The FTA method consists of a single data logger attached to the residential water meter. The data logger yields continuously the flow trace which could be disaggregated into the distinct end uses based on special characteristics of the flow trace. The concept was implemented and tested in three sample households. The first impressions of consumption patterns in Tehran Households are discussed.</dc:description>
+          <dc:description xml:lang="deu">Das Verbundprojekt „Young Cities – Developing Energy Efficient Urban Fabric in the Tehran-Karaj region�? wurde von der TU Berlin geleitet und war Teil des vom BMBF geförderten Forschungsprogramms “Research for Sustainable Development of the Megacities of Tomorrow�?. In dem Projekt wurden exemplarisch Lösungsansätze für die wachsende Region Tehran-Karaj im Iran entwickelt. inter 3 – Institut für Ressourcenmanagement hat im Rahmen des Verbundprojektes die Handlungsdimension „Wasser- und Abwassermanagement“ geleitet und war verantwortlich für die Entwicklung von nachhaltigen Lösungsansätzen für Wasserver- und Abwasserentsorgung in der Region. Das Dokument fasst die Ergebnisse des Arbeitspaketes „Wasserverbrauchsmanagement: Verbrauchsmuster und Effizienz von Wassersparmaßnahmen zusammen. Das Arbeitspaket zielte auf die Identifikation von Möglichkeiten zur Reduktion des Wasserverbrauchs in Haushalten ohne Verlust an Lebenskomfort. Die Herausforderung war jedoch, dass das Verbrauchsverhalten in iranischen Haushalten so gut wie unbekannt war. Das Projektteam hat sich daher entschlossen, detaillierte Verbrauchsmessungen in Testhaushalten durchzuführen, die es ermöglichen, den Wasserverbrauch eines Haushaltes nach seinem Endgebrauch zu unterteilen. Da im Iran die Privatsphäre zuhause sehr wichtig ist, war es notwendig, dass eine weitgehend nicht-intrusive Methode für derartige Messungen zu entwickeln. Daher wurde eine Messkonzept nach der „Flow Trace Analysis“ (FTA) Methode, auf Deutsch Durchflussprotokollanalyse entwickelt. Die FTA-Methode besteht aus einem einzelnen Datenlogger, der an den Hauptwasserzähler des Haushaltes angeschlossen wird. Der Datenlogger zeichnet kontinuierlich den Durchfluss auf, der im Anschluss aufgrund charakteristischer Merkmale der Durchflusskurve in die einzelnen Endgebrauchsstellen (Dusche, Waschmaschine etc.) aufgeteilt werden kann. Das Konzept wurde in drei Testhaushalten umgesetzt und erprobt. Die ersten Eindrücke von Wasserverbrauchsmustern in Teheraner Haushalten werden diskutiert.</dc:description>
+          <dc:contributor>Sponsored by German Federal Ministry of Education and Research (BMBF)</dc:contributor>
+          <dc:date>2013-06-05</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3837</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40218</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40218</dc:identifier>
+          <dc:identifier>978-3-7983-2564-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3837/No09_Water%20Demand%20Management.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

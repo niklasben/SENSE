@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:459">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:459</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">In-situ Wachstumsuntersuchungen zur selbstorganisierten Ausbildung von InAs-Quantenpunkten auf GaAs(001)-Oberflächen</dc:title>
+          <dc:title xml:lang="eng">In-situ characterization of self organized formation of InAs quantum dots on GaAs(001) surfaces</dc:title>
+          <dc:creator>Steimetz, Elisabeth</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit werden optische Methoden (Reflexions-Anisotropie Spektroskopie (RAS) und Spektroskopische Ellipsometrie (SE)) im Hinblick auf ihre Eignung zur Kontrolle der Formierung von InAs-Quantenpunkten auf GaAs während des MOVPE-Wachstums eingesetzt. Hierbei werden alle Teilphasen der Herstellung von Quantenpunktschichten (Wachstum der 2D-Benetzungsschicht, Relaxation und Übergang zum 3D-Wachstum, Reifungsprozesse der InAs-Nanostrukturen und schließlich Überwachsen der Gesamtstruktur mit der GaAs-Deckschicht) untersucht. Ergebnisse dieser Arbeit sind: auch in der MOVPE steht in Analogie zum RHEED in der MBE, mit RAS eine Methode zur Verfügung, mit welcher der Übergang im Wachstumsmodus direkt beobachtet und exakt bestimmt werden kann. Veränderungen der Oberflächenstöchiometrie sind mittels RAS sowohl während des 2D-Wachstums als auch im 3D-Inselmodus zugänglich (wo RHEED keine Information mehr liefert). Bei einer Photonenenergie von 2.6 eV beobachtet man in den RAS-Spektren InAs-schichtdickenabhängige Rekonstruktionsänderungen, die zu einer in-situ Bestimmung der 2D-Schichtdicke, einer genauen Bestimmung des Zeitpunktes der Inselbildung und der teilweisen Auflösung der Benetzungsschicht zugunsten der Inseln, genutzt werden kann. Gleichzeitige Ellipsometrie-Messungen liefern Informationen über Morphologieänderungen und sind somit vor allem zur Kontrolle des 2D-3D-Überganges und der Replanarisierung beim Überwachsen mit GaAs geeignet. Des Weiteren werden Untersuchungen zur Inselreifung und zum Einfluß der Arsen-Quelle auf die Inselbildung durchgeführt. Auch die Indiumsegregation sowohl während des Überwachsens mit GaAs als auch in Wachstumsunterbrechungen bei nur partiell bedeckten Inseln kann dank der Stöchiometrie-Sensitivität im RAS-Signal beobachtet werden. Die Replanarisierung der Oberfläche beim Überwachsen der Inseln mit einer GaAs-Deckschicht kann anhand optischer in-situ Verfahren optimiert werden. Beim Wachstum von Quantenpunkt-Stapeln werden anhand der in-situ Untersuchungen verbesserte Wachstumsprozeduren entwickelt, die es erlauben, zu große Inseln nachträglich aufzulösen und somit die Inselgröße zu homogenisieren. Die gute optische und strukturelle Qualität der so hergestellten Schichten wird in ex-situ PL- und TEM-Aufnahmen verifiziert.</dc:description>
+          <dc:date>2002-07-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/459</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4549</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4549</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/459/steimetz_elisabeth.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

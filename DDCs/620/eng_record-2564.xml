@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2564">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2564</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Strategy for emissions - and instability prevention in gas turbines</dc:title>
+          <dc:title xml:lang="deu">Strategie zur Vermeidung von Emissionen und Instabilitäten in Gasturbinen</dc:title>
+          <dc:creator>Albrecht, Peter</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Well-distributed premixed flames within the combustion chamber have shown to be less sensitive for thermo-acoustic instabilities. The assumption can be derived from tests done in this study and might be traced back to reduced local heat release rates so that the feeding energy for p0 excitation is not able to overcome the dissipation losses. It is interesting to note that several basic investigations of the swirl-stabilized premix combustion show a spreading of the flame without any pilot injection near the LBO limit. To preserve an efficient combustion process and the spreading of the flame over a wide operating range, a strategy for instability control and NOx emission reduction is proposed. Thereby, the main flame is supported by premix pilot flames that were located at the apex of the burner and/or at the combustor dump. It can be concluded that pilot premix flames at the burner apex represents an adequate tool for local extinction prevention. Note, the conventional spark plug used for pilot mixture ignition in this study erode very fast. To overcome this problem, either spark plugs with higher lifing or a laser-induced ignition system is proposed. The latter could be installed outside of the combustion chamber while the laser beams are directed through one of the cooling boreholes into the recirculation zones. Moreover, tests with the pilot ring located at combustor dump have shown that the initial p0 increase could be delayed to a richer mixture without an increase in NOx emissions. For industrial applications, the pilot ring, in conjunction of a laser-induced ignition system or high-lifing spark plugs, seem to be the best choice to control the p0 level without NOx increase and to prevent local extinction near the lean limit.</dc:description>
+          <dc:description xml:lang="deu">Eine breit „verschmierte“ Flammenfront innerhalb der Brennkammer in axialer Richtung scheint weniger anfällig gegenüber thermo-akustischen Instabilitäten zu sein. Diese Annnahme lässt sich aus Testergebnissen in dieser Studie und auch aus älteren Studien ableiten und dürfte auf ein niedriges lokales Wärmefreisetzungsniveau zurück zuführen sein, was die Druckschwankungen nicht weiter anzufachen vermag. Derartige Verbrennungszustände findet man nahe der Verlöschgrenze vor, wo sich die Flammenfront von vielen Drallbrennern weiter im Brennraum verteilt. Um eine derartige Verteilung der lokalen Wärmefreisetzungsrate auch noch bei mageren oder bei fetteren Betriebspunkten unter Voraussetzung einer effizienten Verbrennnung (niedrige Konzentrationen an Kohlenmonoxid CO und unverbrannten Kohlenwasserstoffen UHC) aufrecht zu erhalten, wird in dieser Studie eine Strategie zur Instabilitätskontrolle und zur Vermeidung von NOx Emissionen vorgeschlagen. Dabei wird die Hauptflamme durch Pilot Vormischflammen stabilisiert, die am Brennerkopf und am Brenneraustritt installiert worden sind. Aus den Ergebnissen der atmospherischen Verbrennungsuntersuchungen lässt sich zusammenfassen, dass eine installierte Pilot-Vormischflamme am Brennerkopf sehr gut zur Vermeidung von lokalen Verlöschen herangezogen werden kann, ohne die NOx Emissionen ansteigen zu lassen. Die dabei verwendete konventionelle Zündkerze verschleißt aber selbst unter atmospherischen Bedingungen viel zu schnell als das es für eine Anwendung in einer Gasturbine in Frage kommen würde. Als Alternative wird ein Laserinduziertes Zündsystem vorgeschlagen, dass ausserhalb der Brennkammer installiert werden könnte und einen Laserstrahl durch eine Bohrung (z.B. Kühlluftbohrung) in den Brennraum leitet. Ausserdem zeigen Tests mit einem Pilotring am Austritt des Drallbrenners, dass der erwartete Anstieg der Druckamplituden zu fetteren Gemischen verzögert werden kann, ebenfalls ohne die NOx Emissionen ansteigen zu lassen. Für industrielle Anwendungen wäre der Pilotring in Zusammenhang mit einem Laser-induzierten Zündsystem oder einer sehr verschleißarmen Zündkerze besonders geeignet, um einerseits die Druckamplituden ohne NOx Anstieg zu kontrollieren und andererseits das lokale Verlöschen nahe der Verlöschgrenze zu verhindern.</dc:description>
+          <dc:date>2010-06-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2564</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27040</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27040</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2564/albrecht_peter.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

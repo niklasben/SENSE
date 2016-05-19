@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3044">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3044</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Massively Parallel Data Processing on Infrastructure as a Service Platforms</dc:title>
+          <dc:title xml:lang="deu">Massiv-parallele Datenverarbeitung auf Infrastructure as a Service Plattformen</dc:title>
+          <dc:creator>Warneke, Daniel</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Infrastructure as a Service (IaaS) Clouds haben sich in den vergangenen Jahren zu einer vielversprechenden neuen Plattform für massiv-parallele Datenverarbeitung entwickelt. Durch den Wegfall der Notwendigkeit hoher Anfangsinvestitionen bieten Betreiber von IaaS Clouds ihren Kunden die nie dagewesene Möglichkeit, kurzzeitigen Zugriff auf einen hoch skalierbaren Pool von Rechenressourcen zu erhalten und darauf Datenanalyseprogramme in einer Größenordnung auszuführen, die bislang nur großen Internetfirmen und Forschungseinrichtungen vorbehalten war. Trotz der steigenden Popularität dieser Form von verteilten Anwendungen, stammen die aktuellen Datenverarbeitungsframeworks, die die Erstellung und Ausführung dieser großangelegten Aufgaben (Jobs) zur Datenanalyse unterstützen, immernoch aus der Ära der dedizierten, statischen Rechencluster und haben die speziellen Eigenschaften der IaaS Plattformen bislang außer Acht gelassen. Diese Doktorarbeit greift den Entwurf eines parallelen Datenverarbeitungsframeworks vor dem Hintergrund der neuen Möglichkeiten und Herausforderungen einer IaaS Cloud neu auf, und zwar mit dem Ziel, die Verarbeitungseffizienz von Jobs auf dieser Plattform sowohl in Hinblick auf die Zeit als auch auf die Kosten zu verbessern. Dabei analysiert die Arbeit, wie ein Framework für parallele Datenverarbeitung die Fähigkeiten einer Cloud zur schnellen Ressourcenbereitstellung nutzen kann und präsentiert daraufhin ein neues Verarbeitungsframework mit dem Namen Nephele, welches diese neuen Möglichkeiten der Cloud explizit ausnutzt. Darüber hinaus werden noch mehrere Ansätze zur Reduzierung des erhöhten Risikos von I/O Flaschenhälsen während der Jobausführung vorgestellt, welches in einer Cloud durch die Verwendung von Hardwarevirtualisierung entsteht. Um ihre Leistungsfähigkeit aufzuzeigen, werden alle Beiträge dieser Doktorarbeit durch zahlreiche praktische Experimente evaluiert und, sofern möglich, mit dem aktuellen Stand der Technik gegenübergestellt.</dc:description>
+          <dc:description xml:lang="eng">In recent years, Infrastructure as a Service (IaaS) clouds have emerged as a promising new platform for massively parallel data processing. By eliminating the need for large upfront capital expenses, operators of IaaS clouds offer their customers the unprecedented possibility to acquire access to a highly scalable pool of computing resources on a short-term basis and enable them to execute data analysis applications at a scale which has been traditionally reserved to large Internet companies and research facilities. However, despite the growing popularity of these kinds of distributed applications, the current parallel data processing frameworks, which support the creation and execution of large-scale data analysis jobs, still stem from the era of dedicated, static compute clusters and have disregarded the particular characteristics of IaaS platforms so far. This thesis revisits the design of a parallel data processing framework against the background of the new possibilities and challenges of IaaS clouds with the objective of improving the processing efficiency on these platforms in terms of both time and cost. In particular, the thesis analyzes how parallel data processing frameworks can take advantage of the cloud's ability for rapid resource provisioning and presents a new parallel data processing framework called Nephele, which explicitly exploits these new cloud features. Moreover, several approaches are presented to reduce the increased risk of I/O bottlenecks during the job execution which results from the cloud's use of hardware virtualization. In order to underline their effectiveness, all contributions of this thesis are evaluated through various practical experiments and, whenever possible, contrasted to the state of the art in the respective field.</dc:description>
+          <dc:date>2011-10-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3044</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32440</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32440</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3044/warneke_daniel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

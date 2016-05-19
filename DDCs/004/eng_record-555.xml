@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:555">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:555</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Erklärungsfähigkeit kooperierender regelbasierter Expertensysteme zum diagnostischen Problemlösen</dc:title>
+          <dc:title xml:lang="eng">Explainability of cooperative rule-based expert systems for diagnostic problem solving</dc:title>
+          <dc:creator>Wollny, Stefan</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird die Frage der Erklärung der Gesamtlösung eines durch Kooperation von Expertensystemen gelösten Problems untersucht. Die Qualität der Erklärung einer maschinell gefundenen Lösung ist für deren Akzeptanz durch einen menschlichen Benutzer von entscheidender Bedeutung. Es wird eine Einführung in Expertensysteme und in die Verteilte Künstliche Intelligenz sowie in die Prädikatenlogik der 1. Stufe gegeben und der Stand der Technik in Bezug auf Erklärungen dargestellt. Anschließend wird der Prozess der Lösungsfindung durch mehrere Agenten und die entsprechende Erklärung mit Hilfe der Prädikatenlogik der 1. Stufe formalisiert. Die existierenden Definitionen von Erklärungen für prädikatenlogische Formeln werden in Hinblick auf kooperatives Problemlösen erweitert. Dabei wird eine klar definierte Struktur, der sog. Erklärungskommentar, angegeben, in dem alle zur Erklärung nötigen Informationen zusammengefasst werden, d.h. insbesondere auch über das zur Herleitung der Lösung durch die Regeln hinausgehendes Hintergrundwissen (sog. "tiefes Wissen"). Wenn das Verteilte Problemlösen dahingehend erweitert wird, dass neben den Teillösungen dazugehörige Erklärungskommentare übergeben werden, wird so das mit dem Benutzer kommunizierende System in die Lage versetzt, die Gesamtlösung erklären zu können. Der vorgestellte Ansatz wird an Hand eines medizinischen Anwendungsszenarios überprüft, in dem die Erklärung einer kooperativ gefundenen Diagnose bei akutem Oberbauchschmerz, die sich auf Ergebnisse der Anamnese, der Sonographie und der Laboruntersuchungen stützt, untersucht wird. Im Anschluss an den theoretischen Aufbau eines entsprechenden verteilten Diagnosesystems aus kooperierenden Expertensystemen, wird eine prototypische Implementierung vorgestellt, in der der potentielle Einsatz zur Entscheidungsunterstützung im Krankenhaus simuliert wird. Dazu wurden drei Systeme prototypisch in Prolog implementiert und anschließend in ein Multiagentensystem integriert. Abschließend werden Grenzen und Erweiterungsmöglichkeiten des vorgestellten Ansatzes diskutiert und es erfolgt eine Bewertung unter Einbeziehung der in der Literatur für Erklärungen erhobenen Forderungen.</dc:description>
+          <dc:description xml:lang="eng">This work examines the problem of explaining the solution found by cooperating expert systems. An introduction to expert systems and distributed problem solving is given. Finding the solution and the explanation is formalized using first order logic, and existing definitions of explanations in the field of logic are extended to meet the requirements of cooperative problem solving. A clearly defined structure called Erklärungskommentar (explanation-comment) is presented that capsulates all the information that is necessary for explanation. If distributed problem solving is enriched by submitting a Erklärungskommentar for each partial solution the system that interacts with the user should be able to give an explanation for the whole solution. Following the theoretical thoughts, a practical realization is presented, that incorporates three systems prototypically implemented in Prolog and integrated in a multiagent-system. The work finishes by discussing the boundaries and potential extensions of the presented ideas and by giving a valuation using known expectations in standard literature.</dc:description>
+          <dc:date>2003-09-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/555</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5506</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5506</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/555/wollny_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

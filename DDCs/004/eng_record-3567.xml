@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3567">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3567</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Human Object Sketches: Datasets, Descriptors, Computational Recognition and 3d Shape Retrieval</dc:title>
+          <dc:title xml:lang="deu">Menschliche Strichzeichnungen: Datensätze, Deskriptoren, Maschinelle Erkennung und 3D Suche</dc:title>
+          <dc:creator>Eitz, Mathias</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Since prehistoric times, humans have used sketching to depict our visual world. Even today, sketching is possibly the only rendering technique readily available to all humans. To understand how humans sketch objects, we perform two experiments. In the first experiment, we analyze the distribution of non-expert sketches of everyday objects such as 'teapot' or 'car'. We ask participants to sketch objects of a given category and gather 20,000 unique sketches evenly distributed over 250 object categories. The second experiment targets 3d shape retrieval, and we gather 1,814 sketches that are related to the categories in an existing dataset of 3d shapes. The sketches in both datasets turn out to be generally quite abstract with large local and global deviations from the original shape. Based on the first sketch dataset, we perform a perceptual study and find that humans can correctly identify the object category of a sketch 73% of the time. We develop a targeted feature transform for sketches that is based on a bag-of-features approach, yields a compact representation and comes with suitable invariance properties. Using this representation, we develop the first computational recognition method for classifying human object sketches. We compare human performance against the computational model for which we use multi-class support vector machines, trained on the sketch dataset, to classify sketches. The resulting recognition method is able to identify unknown sketches with 56% accuracy (chance is 0.4%). Using the computational model, we demonstrate an interactive sketch recognition system. Based on the second dataset, we develop a system for 3d object retrieval using sketched feature lines as input. The system employs a view-based approach, matching the input against computer generated line drawings of the objects, using the bag-of-features representation developed earlier. Moreover, we demonstrate how to optimize the parameters of our, as well as other approaches, based on the gathered sketches. In the resulting comparison, we show objectively that our approach performs significantly better than any other system described so far.</dc:description>
+          <dc:description xml:lang="deu">Seit prähistorischen Zeiten verwenden Menschen Skizzen, um ihre visuelle Welt zeichnerisch abzubilden. Auch heutzutage ist Skizzieren noch immer die einzige Darstellungsmethode, die allen Menschen einfach zugänglich ist. Um herauszufinden, wie Menschen Objekte skizzieren, führen wir zwei Experimente durch. Im ersten Experiment analysieren wir Skizzen alltäglicher Objekte, wie "Teekanne" oder "Auto". Hierzu bitten wir die Teilnehmer einer Studie solche Objekte zu skizzieren. Insgesamt erhalten wir so einen Datensatz von 20.000 Skizzen, gleichmäßig verteilt auf 250 Kategorien. Das zweite Experiment befasst sich mit der skizzenbasierten Suche von dreidimensionalen Modellen. Dazu sammeln wir 1.814 Skizzen von den Teilnehmern einer weiteren Studie. Die Kategorien dieser Skizzen stammen aus einem existierenden Datensatz dreidimensionaler Modelle. Es zeigt sich, dass die Skizzen in beiden Datensätzen relativ abstrakt gezeichnet sind und dabei mehrheitlich stark von der Geometrie des echten Objektes abweichen. Anhand des ersten Datensatzes führen wir eine Wahrnehmungs-Studie durch und stellen fest, dass Menschen die Kategorie einer Skizze in 73% der Fälle korrekt erkennen können. Im Folgenden entwickeln wir spezielle Repräsentationen für Skizzen, die auf dem sogenannten "Bag of Features"-Ansatz aufbauen, wenig Speicherplatz benötigen und mit günstigen Invarianzeigenschaften ausgestattet sind. Aufbauend auf dieser Repräsentation entwickeln wir Algorithmen zur maschinellen Erkennung von Skizzen. Wir verwenden hierzu Multi-Class Support Vector Machines, die mittels des ersten Datensatzes trainiert werden. Die daraus resultierende Erkennungsmethode für Objektskizzen weist eine Genauigkeit von 56% auf (Zufall: 0,4%). Mithilfe dieses maschinellen Modells entwickeln wir ein interaktives System zur Skizzenerkennung. Basierend auf dem zweiten Datensatz entwickeln wir ein System zur skizzenbasierten Suche von dreidimensionalen Modellen. Das System beruht auf einem ansichts-basierten Ansatz, wobei die Skizze des Nutzers mit computergenerierten Zeichnungen der 3D Modelle verglichen wird. Darüber hinaus demonstrieren wir, wie sowohl die Parameter unseres Systems, als auch die von konkurrierenden Ansätzen anhand der Skizzen aus dem zweiten Datensatz optimiert werden können. In einem abschließenden Vergleich zeigen wir objektiv, dass unser Ansatz deutlich bessere Ergebnisse erzielt als andere in der Literatur bisher beschriebene Systeme.</dc:description>
+          <dc:date>2012-12-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3567</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37937</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37937</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3567/eitz_mathias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

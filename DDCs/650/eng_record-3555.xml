@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3555">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3555</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Studie: Handlungsfelder im Cloud Computing - Relevanz und Reifegrade des Cloud Computings in typischen Prozessphasen</dc:title>
+          <dc:title xml:lang="eng">Studie: Fields of action in Cloud Computing - Relevance and Maturity of Cloud Computing in characteristic Process Phases</dc:title>
+          <dc:creator>Repschläger, Jonas</dc:creator>
+          <dc:creator>Hahn, Christopher</dc:creator>
+          <dc:creator>Zarnekow, Rüdiger</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Unter dem Oberbegriff des Cloud Computing entsteht seit einigen Jahren ein neues Paradigma für eine Industrialisierung in der IT. Cloud Computing ermöglicht es Unternehmen, IT-Leistungen auf Applikations- oder Infrastrukturebene zur Unterstützung ihrer Geschäftsprozesse nachfrageorientiert auf Mietbasis zu beziehen. Die Cloud Migration verlangt, ähnlich wie beim IT-Outsourcing, die Auswahl eines adäquaten Outsourcing-Grades („Make or Buy“) und die Auswahl geeigneter Lieferanten. Der Lehrstuhl für Informations- und Kommunikationsmanagement der Technischen Universität Berlin (TUB) hat in diesem Zusammenhang eine Umfrage zu Handlungsfeldern im Cloud Computing durchgeführt. Ziel der Umfrage war es, das aktuelle Interesse für Cloud Computing sowie dessen zukünftige Handlungsfelder aus Sicht von Anwender-Unternehmen zu erheben. Zu diesem Zweck wurden Führungskräfte im Bereich IT-Management auf einer Praktiker-Tagung („IT Operations Day“) zu aktuellem Interesse und Handlungsfeldern befragt. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen</dc:description>
+          <dc:date>2012-12-17</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3555</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37877</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37877</dc:identifier>
+          <dc:identifier>978-3-7983-2491-6</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3555/9783798324916_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3555/9783798324916_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

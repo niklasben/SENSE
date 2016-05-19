@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2857">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2857</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Fly over Bierpinsel : Post-Oil-City-Megastructure-Designing ; Urban Design Workshop 2010 </dc:title>
+          <dc:creator>Roskamm, Nikolai</dc:creator>
+          <dc:creator>Flecken, Ursula</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Die Idee hinter dem Urban Design Workshop von 2010 ist es, am Ort des Berliner Bierpinsel´ zwei unterschiedliche Perspektiven auf die Stadt zusammenzubringen: Zum einen die gebaute Megastruktur Bierpinsel/Flyover aus den frühen 1970er Jahren, die nicht nur ein Symbol einer auf Funktions- und Verkehrstrennung fokussierenden Planung darstellt, sondern auch Ausdruck eines noch ungetrübten Zukunftsoptimismus ist, mit dem sämtliche gesellschaftlichen Probleme als grundsätzlich durch Planung und Technik lösbar betrachtet wurden und Fortschritt und Ressourcen als unbegrenzt verfügbar erschienen. Zum anderen die mit dem Begriff Post-Oil-City´ in den Blick genommene ökologische Debatte über die Zukunft der Stadt, die mit den Diskussionen zur Nachhaltigkeit´ und dem Klimawandel´ auch und vor allem dort dominant geworden ist, wo über Themen wie Stadtentwicklung und Stadtplanung verhandelt wird. In den Ergebnissen des Workshops spiegelt sich eine große Vielfalt an möglichen Zugängen zum gegebenen Thema. Das utopische Element, das sich in allen Arbeiten wieder findet, wird in den Arbeiten teils als Vision für einen partizipatorischen Prozess für eine schrittweise Weiterentwicklung der Stadt, teils als radikale Ablehnung des motorisierten Individualverkehrs und teils als kritische Hinterfragung der Diskurse selbst verwendet. Mit der Präsentation der im Urban Design Workshop erstellten Arbeiten soll nicht zuletzt auch ein Beitrag geleistet werden, die bestehende stadtpolitische Debatte zur Steglitzer Schlossstraße mit Bildern zu befruchten, die eher ungewöhnliche und grundsätzlichere Fragen aufwerfen und den Bierpinsel als lokalen Anfangspunkt einer Diskussion über die Zukunft der Stadt in Szene setzen. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2011-04-14</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2857</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29958</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29958</dc:identifier>
+          <dc:identifier>978-3-7983-2281-3 </dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2857/Graue_Reihe_Heft_29_Warschau_Workshop_2010.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

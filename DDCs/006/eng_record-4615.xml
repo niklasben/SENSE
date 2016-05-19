@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4615">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4615</identifier>
+        <datestamp>2014-01-14</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analysis of resource management in complex work systems using the example of sterile goods management in hospitals : DERESIS - DEcision making model for REsource management of complex work System In Sterile goods management</dc:title>
+          <dc:title xml:lang="deu">Analyse von Ressourcenmanagement in komplexen Arbeitssystemen am Beispiel das Sterilgutmanagement im Krankenhaus : DERESIS – Entscheidungsmodell für Ressourcenmanagement in komplexen Arbeitssysteme</dc:title>
+          <dc:creator>Lin, Qinglian</dc:creator>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="eng">The aim of this thesis is the development and evaluation of a decision making model for resource management in complex work systems, using the example of sterile goods management in hospitals. The basis of the thesis is formed by a summary of the current state of the art of complexity science related to a system oriented analysis of resource management. The DERESIS model (DEcision making model for REsource Management of Complex Work System In Sterile Goods Management) is developed in line with the "Systems Engineering" method. DERESIS describes the decision making process for resource management in complex work systems from three levels, i.e. the general framework for complex work systems, the generic model for complex hospital systems, and the specific model for outsourcing sterile goods decision in hospitals. DERESIS applies the Balanced Scorecard to the development of the criteria system for decision making, and fuzzy linguistics theory for evaluating the alternatives. An evaluation is undertaken for the application of this model in a hospital which wants to make a decision whether or not to outsource the sterile goods. The use of the DERESIS model opens up a diverse range of fields for decision making in the area of complex work systems.</dc:description>
+          <dc:description xml:lang="deu">Ziel der Arbeit ist die Entwicklung und Evaluation eines Entscheidungsmodells zur Unterstützung der Ressourcenmanagement in komplexen Arbeitssysteme am Beispiel das Sterilgutmanagement im Krankenhaus. Stand der Komplexitätsforschung, eine systemorientierte Analyse der Ressourcenmanagement bildt die Grundlage der vorliegenden Arbeit. Mit der Methodik des "Systems Engineering" erfolgt die Entwicklung des DERESIS- Modell (DEcision-making model for REsource Management of Complex Work System In Sterile Goods Management). DERESIS beschreibt den Entscheidungsprozess für das Ressourcenmanagement in komplexen Arbeitssysteme von drei Ebenen, d.h. allgemeinen Rahmen für komplexe Arbeitssysteme, generisches Modell für komplexe Krankenhaussysteme und spezielles Modell für Entscheidung von Sterilgut im Krankenhaus. Mit der Hilfe von Balanced Scorecard und Fuzzy Linguistik Theorie entwickelt DERESIS die Kriterien für die Entscheidung und die Bewertung für die Alternativen. Für die Anwendung dieses Modells erfolgt eine Evaluation: Entscheidung von Outsourcing Sterilgut in einem Krankenhaus. Die Anwendung des DERESIS-Modells eröffnet eine Vielzahl weiterführender Forschungsfragestellungen in dem Feld komplexer Arbetissysteme.</dc:description>
+          <dc:date>2014-01-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4615</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46155</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46155</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4615/lin_qinglian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

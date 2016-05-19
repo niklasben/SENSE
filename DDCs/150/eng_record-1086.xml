@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1086">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1086</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Der Fokuseffekt. Über die Ablenkung der Aufmerksamkeit durch irrelevante Reize</dc:title>
+          <dc:title xml:lang="eng">The focus effect. Distraction of attention by irrelevant stimuli</dc:title>
+          <dc:creator>Lange, Elke Beatriz</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden Experimente beschrieben., in denen eine Reihe von visuell präsentierten Ziffern (verbale Gedächtnisaufgabe) oder Positionen innerhalb eines Quadrates (räumliche Gedächtnisaufgabe) in ihrer Darbietungsreihenfolge wiedergegeben werden sollten. Parallel zu diesen relevanten Reizen wurden irrelevante Reize präsentiert, die von den Versuchspersonen ignoriert werden sollten. Zunächst wurde ein irrelevanter Reiz über mehrere Aufgaben hinweg wiederholt und dann unvorhergesehen durch einen anderen Reiz ausgetauscht. Dieses Auswechseln beeinträchtigte die Gedächtnisleistung. Handelte es sich dabei um einen auditiven irrelevanten Reiz, so wurde jedoch nur die Leistung in der verbalen Gedächtnisaufgabe beeinträchtigt, nicht in der räumlichen (Experiment 1). Dieser domänenspezifische Effekt konnte repliziert werden (Experiment 2). In den beiden ersten Experimenten wurden komplexe Töne als Reize verwendet, die sich hinsichtlich Tonhöhe und Instrumentation unterschieden. In weiteren Experimenten wurde die Übertragung des Effekts auf die visuell-räumliche Domäne untersucht. In einem Experiment konnte kein Effekt mittels irrelevanter visueller Reize gezeigt werden (Experiment 2), in einem weiteren Experiment verschlechterte das Auswechseln des irrelevanten visuellen Reizes selektiv die Gedächtnisleistung der visuellen Aufgabe und nicht der verbalen (Experiment 3). Ein domänenübergreifender Effekt wurde durch das unerwartete Anstellen eines auditiven Reizes hervorgerufen (Experiment 4). Die Befunde werden im Rahmen der Arbeitsgedächtnismodelle von Baddeley (1986) und von Cowan (1995) diskutiert, sowie des objektorientierten Modells von Jones (1993). Um domänenspezifische Aufmerksamkeitseffekte zu erklären, benötigen die Modelle eine Erweiterung, wie sie zum Beispiel im präattentiven Modell von Schöger (1997) vorgeschlagen wird.</dc:description>
+          <dc:description xml:lang="eng">In the present experiments the influence of irrelevant stimuli on serial recall of visual or spatial memory lists were investigated. The irrelevant stimuli were synchronously presented with the relevant items. Over several trials one and the same irrelevant stimulus was repeated, before unforeseeably exchanged by another one. The sudden change resulted in a performance deficit of verbal performance but not of spatial performance by using irrelevant tones (Experiment 1). The domain-specific effect of irrelevant tone change was replicated in Experiment 2. Tones differed in pitch and instrumentation. Further experiments tried to extend the domain-specific effect on the visuo-spatial domain. In one experiment the exchange of an irrelevant visual stimulus did not result in any effect (Experiment 2), but another experiment succeeded in demonstrating a domain-specific effect with irrelevant visual stimuli as well (Experiment 3). A domain-general effect could be shown by sudden tone onsets (Experiment 4). Results are discussed in the context of the working memory models of Baddeley (1986) and Cowan (1995), and of the object-oriented model of Jones (1993). To explain the effects the models need an extension like a threshold mechanism, which can be found in the pre-attentive model of Schröger (1997).</dc:description>
+          <dc:date>2005-08-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1086</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10800</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10800</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1086/lange_elke.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

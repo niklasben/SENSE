@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2575">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2575</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Charakterisierung magnetischer Strukturen durch bildgebende Verfahren mit kalten Neutronen</dc:title>
+          <dc:title xml:lang="eng">Characterization of magnetic structures by imaging methods with cold neutrons</dc:title>
+          <dc:creator>Hilger, André</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Neutronen sind aufgrund ihres magnetischen Momentes sehr sensitiv gegenüber Magnetfeldern, während sie gleichzeitig für viele Materialien hohe Eindringtiefen besitzen. Im Rahmen dieser Arbeit wurde eine neue Methode entwickelt, welche mit Hilfe polarisierter Neutronen eine zwei- und dreidimensionale Abbildung von magnetischen Feldern im Inneren massiver Objekte ermöglicht. Die Drehung der Spinrichtung eines polarisierten Neutronenstrahles wurde hierfür ortsaufgelöst mit einem zweidimensionalen Detektor quantitativ gemessen. Auf diese Weise konnte erstmalig gezeigt werden, dass magnetische Feldverteilungen im Inneren von Supraleitern, sowie in und um Permanentmagneten bzw. elektrischen Spulenkörpern bestimmbar sind. Die Messdaten konnten durch Simulationsrechnungen bestätigt werden. In einfachen Fällen von weitgehend ausgerichteten Magnetfeldern ist es sogar möglich, durch die Drehung der Probe im polarisierten Neutronenstrahl die magnetische Flussdichte dreidimensional (tomographisch) abzubilden. Eine exakte Abbildung beliebiger magnetischer Vektorfelder ist hingegen deutlich aufwändiger. Hierfür wurde ein polarimetrisches Verfahren eingesetzt, bei dem für die drei Polarisationsrichtungen der Neutronen entlang der Raumrichtungen die jeweiligen Endzustände nach Durchstrahlung der Probe gemessen wurden. Klassische tomographische Rekonstruktionsverfahren wurden mit Hilfe der Matrizenmultiplikation modifiziert und für die dreidimensionale Rekonstruktion von magnetischen Vektorfeldern eingesetzt. Verschiedene Ansätze, wie FBP, SIRT und MART, wurden miteinander verglichen und auf ihre Eignung geprüft. Besonders vielversprechend erscheint ein MART basierter Algorithmus, mit dem das magnetische Vektorfeld einer elektrischen Spule mit sehr hoher Genauigkeit dreidimensional rekonstruiert werden konnte.</dc:description>
+          <dc:description xml:lang="eng">Owing to their magnetic moment, neutrons are highly sensitive to magnetic fields, whereas their charge neutrality allows for deep penetration even within massive samples. This thesis presents a novel polarized neutron based method which permits the two- and three-dimensional visualization of magnetic fields inside solid objects. The rotation of the spin direction of a polarized neutron beam was spatially resolved and quantitatively measured with a two dimensional detector. It was shown for the first time that magnetic field distributions in the interior of superconductors, as well as within and around permanent magnets and electric coils are quantifiable. The experimental data could be confirmed by simulations. By rotating the sample in the polarized neutron beam, even a three-dimensional (tomographic) image of the magnetic flux density is possible for the simple cases of widely oriented magnetic fields. An accurate image of any order magnetic vector fields is far more challenging. A polarimetric method was used to measure the final states of the spin direction after irradiation of the sample. Classical tomographic reconstruction methods modified by matrix multiplication were applied for the three-dimensional reconstruction of magnetic vector fields. Several different approaches, such as FBP, SIRT, and MART, were tested and compared, and a MART based algorithm was found to be the most suitable reconstruction method. This process was used to reconstruct the magnetic vector field of an electric coil in three dimensions with very high fidelity.</dc:description>
+          <dc:date>2010-07-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2575</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27137</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27137</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2575/hilger_andre.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

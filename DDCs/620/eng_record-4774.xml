@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4774">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4774</identifier>
+        <datestamp>2014-02-28</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Structure-borne sound propagation in cross-stiffened plates : a two-dimensional analytic method </dc:title>
+          <dc:title xml:lang="deu">Körperschallausbreitung in kreuzversteiften Platten : eine zweidimensionale analytische Methode </dc:title>
+          <dc:creator>Tschakert, Roman</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Transfer functions of periodic systems are generally characterised by stop- and pass bands. The basic question posed in this work is, whether these periodic system effects are equally clearly present in cross-stiffened plates as in parallel stiffened ones. Therefore a two-dimensional, analytic model of substitution forces and moments is elaborated to calculate the structure-borne sound propagation in parallel and cross-stiffened infinite plates. The impact of the crossing beams on the propagation of structure-borne sound is investigated. Although the study focusses on cross-stiffened plates, the model could be extended for other types of attachments or boundaries as well.&#13;
+The principle of the method is to substitute the structural influence of stiffeners on a plate by equivalent forces and moments. This leads to a set of equations which allows for the coupling of the stiffeners and the plate, the different paths of transmission with the excited wave types and the wave conversion at interfaces and the points of intersection. Mobility formulas based on the bending wave theory of Kirchhoff and Euler-Bernoulli are given to include the reactions of the plate and the stiffening beams. A correction factor is elaborated to extend the usable frequency range. A MATLAB©-Script is written for calculating the input and transfer mobility of parallel and cross-wise stiffened plates.&#13;
+The model behaves correctly according to the benchmarks. A good agreement was found between measurements and calculations of parallel and crosswise stiffened plates.&#13;
+Periodic system effects were proven in parallel- and cross-stiffened plates. In parallel-stiffened plates the stop- and pass bands are similar for perpendicular and oblique incidence. In cross-stiffened plates they are not. Two types of stop- and pass bands were found. For perpendicular incidence the stop- and pass bands are similar to those of the parallel stiffened plate. For oblique incidence, if the propagation path crosses a longitudinal stiffener, different stop- and pass bands are found at several positions.&#13;
+The periodically cross stiffened plate can be seen as a combination of two different models: a plate with regularly distributed discontinuities and a regularly designed lattice of the stiffening beams. Superposition of the effects of both systems takes place. Depending on the setup and the propagation path the stop- and pass bands of one of the systems dominate the structural behaviour of the whole system.&#13;
+At various positions no distinct periodic system effects can be found. The interaction of different waveguides and different wave types yields a system response which does not show a pattern, related to periodicity. In contrary to the parallel stiffened plate a linear frequency response can be found or a pattern with non regularly distributed maxima and minima for these propagation paths.</dc:description>
+          <dc:description xml:lang="deu">Das Übertragungsverhalten von periodischen Systemen ist im Allgemeinen durch Sperr- und Durchlassbereiche gekennzeichnet. Die Grundlage dieser Studie ist die Frage, ob die typischen Effekte periodischer Systeme in kreuzversteiften Platten ähnlich ausgeprägt sind wie in parallel versteiften Platten. Hierfür wurde eine zweidimensionale, analytische Methode entwickelt, bei der mit Substitutionskräften und -momenten die Körperschallausbreitung in parallel und kreuzversteiften, unendlichen Platten berechnet werden kann. Es wurde untersucht, wie sich die kreuzenden Balken auf die Schallausbreitung in der Platte auswirken. Obwohl sich die Studie auf die Untersuchung von kreuzversteiften Platten konzentriert, ist das Modell prinzipiell auch auf andere Arten von Diskontinuitäten und Randbedingungen erweiterbar.&#13;
+Das Prinzip der Methode ist, den Einfluss der Versteifungen auf die Körperschallausbreitung in der Platte durch äquivalente Kräfte und Momente zu ersetzen. Daraus entsteht ein Gleichungssystem in dem die Kopplung der Balken mit der Platte, die verschiedenen Ausbreitungswege mit den verschiedenen Wellentypen und die Wellentypumwandlung an den Schnittstellen und Kreuzungspunkten berücksichtigt werden. Das Verhalten der Platte und der versteifenden Balken wird mit Hilfe von Mobilitätsformeln modelliert, die auf der Biegewellentheorie von Kirchhoff und Euler-Bernoulli beruhen. Ein Korrekturfaktor wird eingeführt, mit dem der nutzbare Frequenzbereich nach oben erweitert werden konnte. Die Theorie wurde in eine MATLAB©-Funktion umgesetzt, mit der die Punkt- und Transfermobilitäten von kreuzweise und parallel versteiften Platten berechnet werden können.&#13;
+Das Modell wird durch vergleichende Tests bestätigt. Messungen und Berechnungen von parallel und kreuzversteiften Platten stimmten im Allgemeinen gut überein.&#13;
+Eigenschaften periodischer Systeme wurden in parallel und kreuzversteiften Platten nachgewiesen. In parallel versteiften Platten sind die Stopp- und Durchlassbereiche bei rechtwinkligem und schrägem Schalleinfall gleichartig, in kreuzversteiften Platten nicht. Es treten zwei Arten von Stopp- und Durchlassbereichen auf. Bei senkrechtem Körperschalldurchgang sind die Sperr- und Durchlassbereiche von kreuzweise und parallel versteiften Platten ähnlich. Bei schrägem Schalldurchgang unterscheiden sie sich zwischen einzelnen Positionen, wenn der Ausbreitungsweg Längsbalken schneidet.&#13;
+Die periodisch kreuzweise versteifte Platte kann als Kombination von zwei verschiedenen Modellen betrachtet werden: eine Platte mit regelmäßig verteilten Diskontinuitäten und ein periodisches Gitter aus den versteifenden Balken. Die Eigenschaften beider Modelle überlagern sich. Abhängig vom Aufbau der Platte und dem Schallausbreitungsweg dominieren die Sperr- und Durchlassbereiche des einen oder des anderen Modells die strukturakustischen Eigenschaften des gesamten Systems.&#13;
+An einigen Punkten treten jedoch keine expliziten Sperr- und Durchlassbereiche auf. Die verschiedenen Wellenarten der verschiedenen Wellenleiter addieren sich zu einer Systemantwort, die nicht durch periodische Effekte gekennzeichnet ist. Im Gegensatz zu parallel versteiften Platten ergibt sich an diesen Positionen ein linearer Frequenzverlauf oder ein Verlauf mit unregelmäßig verteilten Maxima und Minima.</dc:description>
+          <dc:date>2014-02-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4774</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47740</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47740</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4774/tschakert_roman.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2035">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2035</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:610</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Quantifizierung des Einflusses intermediärer Variablen auf Risikobeziehungen am Beispiel der Assoziation zweier Adipositasmaße zum Myokardinfarkt-Risiko</dc:title>
+          <dc:title xml:lang="eng">Quantifying the influence of intermediate variables on risk relationships using the example of two obesity measures and their association to the risk of myocardial infarction</dc:title>
+          <dc:creator>Drogan, Dagmar</dc:creator>
+          <dc:subject>ddc:610</dc:subject>
+          <dc:description xml:lang="deu">Die Beziehung zwischen einer Exposition und dem Krankheitsrisiko kann durch Mediationsvariablen erklärbar sein. Um fehlerhafte Modellierungen zu vermeiden, sollte sorgfältig zwischen Expositions- und Mediationsvariablen unterschieden werden. Für epidemiologische Analysen fehlten jedoch statistische Methoden, um Mediationsvariablen zu identifizieren und ihren Informationsgehalt zu bewerten. Daher wurde ein methodisches Konzept erarbeitet, das diesen Herausforderungen gerecht wird. Zur Identifizierung von Mediationsvariablen wurden die vier von Baron &amp; Kenny (1986) definierten Mediationskriterien an ein prospektives Studiendesign mit dichotomem Endpunkt adaptiert. Um den Einfluss von Mediationsvariablen auf Risikobeziehungen zu quantifizieren, wurde die Effektzerlegung nach Chen et al. (2003) vorgeschlagen. Diese Methoden wurden angewandt, um exemplarisch eine Gruppe von Plasmaparametern (gChol, HDL-C, LDL-C, oxi-LDL, TG, Glc, GGT, Harnsäure, Adiponektin, Resistin, IL-6, CRP) zu analysieren, die Mediationsvariablen der Beziehung von allgemeiner Adipositas (BMI ≥ 30 kg/m2) oder androider Adipositas (WHR) ≥ 0,85[w]/1,0[m]) zum MI-Risiko sein könnten. Die Analysen basieren auf einer in die EPIC-Potsdam-Studie eingebetteten prospektiven Fall-Kohorten-Studie mit 125 inzidenten MI-Fällen und 789 nicht erkrankten Teilnehmern. Die Beziehung der Expositionsgrößen zum MI-Risiko wurde mittels Cox-Regression analysiert. Probanden mit allgemeiner oder androider Adipositas hatten gegenüber der jeweiligen nicht adipösen Vergleichsgruppe ein signifikant erhöhtes MI-Risiko. Für WHR ≥ 0,85[w]/1,0[m] erfüllten TG, GGT und Harnsäure die geforderten Mediationskriterien. Diese Parameter erklärten 63% der Assoziation zwischen Exposition und MI-Risiko (TG 25%; GGT 12%; Harnsäure 26%). Im Vergleich dazu wurde die positive Beziehung zwischen BMI ≥ 30 kg/m2 und MI-Risiko zu 81% durch fünf Mediationsvariablen erklärt, wobei 15% auf TG, 19% auf GGT, 20% auf Harnsäure, 16% auf oxi-LDL und weitere 11% auf CRP entfielen. In dieser Arbeit wurden erstmals strukturiert Biomarker als Mediationsvariablen zwischen allgemeiner / androider Adipositas und MI-Risiko untersucht. Die vorgeschlagenen statistischen Methoden ermöglichen es, Mediationsvariablen adäquat zu modellieren und ihre Relevanz zu bewerten. Damit tragen die Methoden zum Verständnis biologischer Pfade bei und könnten hilfreich sein, um Interventionsmaßnahmen zu lenken.</dc:description>
+          <dc:description xml:lang="eng">The relation between an exposure and disease risk may be mediated by intermediate variables. To avoid inadequate modelling, a careful distinction has to be drawn between exposure and mediating variable. However, statistical methods were lacking to identify mediating variables and to assess their information content. Thus, a methodological concept was introduced to address those challenges. The four criteria used to define mediating variables were an adapted version of the Baron &amp; Kenny (1986) approach accounting for a prospective study design with binary outcome. In order to quantify the contribution of mediating variables on the association between exposure and outcome, effect decomposition according to Chen et al. (2003) was proposed. These methods were applied to exemplarily analyze potential mediators in a group of plasma parameters (gChol, HDL-C, LDL-C, oxi-LDL, TG, Glc, GGT, uric acid, adiponectin, resistin, IL-6, CRP) that may explain the relationship between general obesity (BMI ≥ 30 kg/m2) or abdominal obesity (WHR ≥ 0.85[w]/1.0[m]) to risk of myocardial infarction (MI). The current analysis is based on a prospective case-cohort study nested within the EPIC-Potsdam cohort that included 125 cases of incident MI and 789 non-diseased participants. The relation between the exposure variables and MI-risk was assessed by Cox-regression. Participants with general or abdominal obesity had a significantly incseased MI-risk compared to the respective non-obese subjects. For WHR ≥ 0.85[w]/1.0[m] the required mediation criteria were met by TG, GGT and uric acid. These parameters explained 63% of the association between exposure and disease risk (TG 25%; GGT 12%; uric acid 26%). In comparison, 81% of the positive relation between BMI ≥ 30 kg/m2 and MI-risk was explained by five mediating variables with TG contributing for 15%, GGT for 19%, uric acid for 20%, oxi-LDL for 16% and CRP for additional 11% of the indirect exposure effect. For the first time, a structured analysis of biomarkers as mediators of the relation between general / abdominal obesity and MI-risk has been conducted. The proposed statistical methods provide a tool to adequately model mediating variables and to assess their relevance. Thus, the methods contribute to an understanding of biological pathways, which may help to direct intervention activities.</dc:description>
+          <dc:date>2009-01-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/vnd.ms-office</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2035</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21375</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21375</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2035/original_Dissertation_DagmarDrogan_Digital.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2035/drogan_dagmar.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

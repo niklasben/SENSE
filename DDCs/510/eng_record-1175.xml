@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1175">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1175</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Über Torsionspunkte elliptischer und hyperelliptischer Kurven nebst Anwendungen</dc:title>
+          <dc:title xml:lang="eng">On torsion points of elliptic and hyperelliptic curves with applications</dc:title>
+          <dc:creator>Schöpp, Andreas M.</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Sei f(x) aus K[x] ein normiertes Polynom vom Grad 2g+1 oder 2g+2 ohne mehrfache Nullstellen über einem Zahlkörper K. Die Kurve C : y^2 = f(x) ist eine elliptische Kurve für g=1 bzw. eine hyperelliptische Kurve für g &gt; 1. Es werden (für g &gt; 1) parametrisierte Kurvenfamilien berechnet, deren Jacobische Varietäten eine Divisorenklasse der Ordnung l=5,7,10 besitzen. Außerdem werden für 2 &lt; l &lt; 11 und l=12 Familien von Zahlkörpern konstruiert, deren Galoisgruppe die Diedergruppe mit 2l Elementen ist. Für l=4,5 bei Signatur (2,1) bzw. (1,2) werden Fundamentaleinheiten für die parametrisierten Körper bestimmt. Darüber hinaus werden für 2 &lt; l &lt; 7 Unterfamilien der Zahlkörper angegeben, deren Galoisgruppe zyklisch mit Ordnung l ist. Ausgangspunkt der Kurvenberechnung ist die Polynomgleichung P^2 - Q^2 F = constant. Es wird bewiesen, dass die Jacobische Varietät der zur Polynomgleichung gehörenden Kurve y^2 = F(x) eine Divisorenklasse besitzt, deren Ordnung den Grad von P teilt. Familien hyperelliptischer Kurven werden konstruiert, deren Jacobische Varietäten eine Divisorenklasse der Ordnung 5,7 bzw. 10 besitzen. Es wird gezeigt, dass in diesen Familien die Modulkurven X_0(N) mit N=22,29,31,41 liegen. Im Zusammenhang mit der Konstruktion steht für X_0(N) mit Gleichung y^2 = F(x) eine Faktorisierung F(x) = F_1(x) F_2(x), die auch für N=23,47,59,71 angegeben wird. Zur Konstruktion von Zahlkörperfamilien mit Diedergruppe als Galoisgruppe wird ein Torsionspunkt A der Ordnung l einer parametrisierten Familie elliptischer Kurven (Kubert-Kurven) genutzt. Die x-Koordinate der Punkte P + iA für 0&lt;i&lt;l+1 und einen beliebigen, nicht-rationalen Punkt P ergeben das erzeugende Polynom F_l durch das Produkt der Faktoren x-x(P+iA) über alle i. F_l besitzt die Diedergruppe als Galoisgruppe ist. Für l=4 und Signatur (2,1) bzw. für l=5 und Signatur (1,2) werden Systeme von Fundamentaleinheiten in der von F_l erzeugten Gleichungsordnung angegeben. Der Beweis der Fundamentalität für l=5 erfordert dabei Abschätzungen der komplexen Nullstellen von F_5. Die Bestimmung von Zahlkörperfamilien mit zyklischer Galoisgruppe erfolgt über eine Indikatorfunktion, die in engem Zusammenhang zu Quotientenkurven steht. Solche Zahlkörper werden für 2&lt;l&lt;7 angegeben. Abschließend werden ausgehend von den konstruierten hyperelliptischen Kurven 49 imaginärquadratische Zahlkörper mit 5-Rang 3 und 67 Zahlkörper mit 7-Rang 2 berechnet.</dc:description>
+          <dc:description xml:lang="eng">Let f(x) be a monic polynomial of degree 2g+1 or 2g+2 over a number field K. The curve y^2 = f(x) is an elliptic curve for g=1 and a hyperelliptic curve for g&gt;1. We construct (for g&gt;1) parametric families of curves, whose Jacobians have a divisor class of order l=5,7,10. Further for 2&lt;l&lt;11 and l=12 we construct families of number fields with galois group the diedral group with 2l elements. For these fields we compute systems of fundamental units for l=4,5 and signature (2,1) and (1,2). For 2&lt;l&lt;7 we give subfamilies of number fields with cyclic galois group of order l. We start with a polynomial equation P^2 - Q^2 F = constant. We show that the Jacobian of the curve y^2 = F(x) has a divisor class whose order divides the degree of P. Families of hyperelliptic curves are constructed which have divisor classes of order 5, 7 or 10 in their Jacobians. We show that the families contain modular curves X_0(N) for N=22,29,31,41. All hyperelliptic modular curves X_0(N) with N a prime number (not 37) fit into the described strategy. The construction of parametric number fields with diedral galois group uses a torsion point A of order l of parametric families of elliptic curves. The x-coordinates of the points P+iA for a non rational point P give the polynomial F_l as a product of the factors (x-x(P+iA)) for 0&lt;i&lt;l+1. F_l has diedral galois group. For l=4 with signature (2,1) and for l=5 with signature (1,2) we compute systems of fundamental units for the equation orders generated by F_l. The proof of the fundamentality in case l=5 is done by approximations of the complex roots of F_5. The construction of families of number fields with cyclic galois group is based on indicator functions. These are linked to certain quotient curves. We construct such number fields for 2&lt;l&lt;7. Finally we give 49 imaginary quadratic number fields with 5 rank 3 and 67 number fields with 7 rank 2 by using the constructed hyperelliptic curves.</dc:description>
+          <dc:date>2005-12-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1175</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11839</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11839</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1175/schoepp_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

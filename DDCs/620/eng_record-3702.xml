@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3702">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3702</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hydrothermale Carbonisierung: Stoffliche und energetische Kreislaufführung</dc:title>
+          <dc:title xml:lang="eng">Hydrothermal carbonization: Material and energy recirculation</dc:title>
+          <dc:creator>Stemann, Jan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Bei der hydrothermalen Carbonisierung (HTC) wird die Energiebilanz maßgeblich durch die Lösung von organischen Substanzen im Prozesswasser und durch den Wärmebedarf für Aufheizung und Trocknung beeinflusst. In der vorliegenden Arbeit wird die Rückführung von heißem Prozesswasser als Möglichkeit für die Verbesserung der energetischen Effizienz untersucht. Die Kreislaufführung von Prozesswasser wurde im Labormaßstab simuliert, indem Prozesswasser nach einem HTC Versuch abgetrennt wurde und anschließend beim darauffolgenden Versuch wiederverwendet wurde. Die HTC Experimente fanden bei 220 °C statt und die Effekte der Rückführung wurden für vier Biomassen sowie für die Modellsubstanzen Lignin und Cellulose untersucht. Bei Rückführungsversuchen zeigt sich, dass sich gelöste organische Säuren im Prozesswasser aufkonzentrieren. Vermutlich wird dadurch die bei der HTC stattfindende Dehydratisierung katalysiert, sodass es zu einem weiteren Abbau funktioneller Gruppen in der HTC Kohle kommt. Diese weist anschließend einen höheren Brennwert und eine bessere Entwässerbarkeit auf. Desweiteren wurde experimentell eine Erhöhung der Kohlenstoffausbeute beobachtet. Dies kann durch zusätzliche Polymerisation von im Prozesswasser gelösten Substanzen erklärt werden, wodurch die energetische Ausbeute um bis zu 10 % ansteigt. Die mechanische Entwässerung von HTC Kohle wurde bei Temperaturen von 10-170 °C untersucht. Bei erhöhter Temperatur wird ein deutlich niedrigerer Wassergehalt erreicht, der nach dem Pressvorgang durch anschließende Nachverdampfung noch weiter reduziert wird. Dadurch sinkt der Prozesswärmebedarf für die Trocknung der Kohle beträchtlich. Die Wärmerückgewinnung durch Rückführung von heißem Prozesswasser wurde durch Prozessmodellierung untersucht und stellt sich als sehr effizient heraus. Auf Basis des Modells sowie der experimentellen Untersuchungen wird für das HTC Verfahren ein Wirkungsgrad von 80 % errechnet.</dc:description>
+          <dc:description xml:lang="eng">The energy balance of hydrothermal carbonization (HTC) is greatly affected by solvolysis of organic substances and by process heat demand for heating and drying. In this work the recirculation of hot process water is examined as a means for an improved energetic efficiency. Recirculation of process water was examined on a laboratory scale by separation of process water and subsequent re-use in the following experiment. HTC experiments were performed at 220 °C. Effects of recirculation on the model compounds lignin and cellulose and on four types of biomass were investigated. The experiments reveal that organic acids in the liquid are concentrated by recirculation. Thereby dehydration reactions during HTC treatment are presumably catalyzed which causes a decrease of functional groups in HTC coal. Thus dewaterability and calorific value of the coal is increased. Moreover, a rise in carbon yield is observed which is presumably provoked by additional polymerization of dissolved substances. Thereby the energetic yield increases by up to 10 %. Dewatering of coal samples was examined at temperatures of 10-170 °C. A considerably lower water content can be observed at elevated temperature which decreases further by subsequent evaporation. Thereby, process heat demand for drying declines substantially. Heat recovery by recirculation of hot process water was examined by process modeling and proves to be very efficient. Based on the model and the experimental results an overall process efficiency of 80 % is calculated for the HTC process.</dc:description>
+          <dc:date>2013-05-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3702</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39442</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39442</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3702/stemann_jan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

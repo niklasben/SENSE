@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1005">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1005</identifier>
+        <datestamp>2014-04-29</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Expo '92 in Sevilla : Ziele, Maßnahmen und Wirkungen einer Weltausstellung</dc:title>
+          <dc:creator>Heise, Pamela</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Bereits 1 1/2 Jahre nach der offiziellen Schließung der Weltausstellung 1992, der "Expo '92" in Sevilla, zeigte sich auf dem Expo-Gelände ein erstaunliches Szenario: Nur kurze Zeit nach der internationalen Großveranstaltung, die der Stadt enorme städtebauliche und ökonomische Veränderungen beschert und sie an den Rand ihrer Leistungsfähigkeit gebracht hatte, herrschte auf dem zuvor pulsierenden Gelände eine leblose und öde Stimmung. Nichts erinnerte mehr an die lebhafte Mischung aus Gartenschau, Industrieausstellung, Straßentheater, Rummelplatz und Gastronomie. Das Gelände hatte seine architektonischen und mikroklimatischen Reize verloren, und bis auf wenige Ausnahmen wurden die Ausstellungsbauten der teilnehmenden Länder bereits im Herbst 1993 nicht mehr genutzt. Dieses Szenario bietet Anlass, den Aufwand und die Nachhaltigkeit einer solchen Großveranstaltung, verbunden mit der Frage, ob diese Weltausstellung überhaupt positive Auswirkungen sowohl auf die Stadt Sevilla als auch auf die sie umgebende Region hatte, einer kritischen Evaluierung zu unterziehen. Hatten die enormen finanziellen Aufwendungen für die jahrelangen Vorbereitungen und die städtebaulichen sowie infrastrukturellen Veränderungen Auswirkungen auf den Austragungsort und die Region Andalusien? In der Arbeit werden die durchgeführten Maßnahmen aus den Bereichen Bebauung/Städtebau, Tourismus und Infrastruktur dahingehend untersucht. Darüber hinaus wird thematisiert, wie wichtig und unerläßlich es ist, die geplanten Investitionen einer Großveranstaltung vor allem im Hinblick darauf vorzunehmen, dass dem Austragungsort, der angrenzenden Region sowie den dort lebenden Menschen langfristige Standortvorteile entstehen.</dc:description>
+          <dc:date>2005-09-15</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1005</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10944</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10944</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1005/heise_pamela.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

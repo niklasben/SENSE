@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1041">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1041</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hydrodynamisch gekoppelte Mehrkörpersysteme im Seegang - Bewegungssimulationen im Frequenz- und Zeitbereich</dc:title>
+          <dc:creator>Jacobsen, Katja</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Operationen im Offshorebereich wie die Installation oder Demontage von Plattformen erfordern in der Regel die Beteiligung mehrerer Strukturen, die sich in unmittelbarer Nachbarschaft befinden. Die Wechselwirkung zwischen den Strukturen, die hydrodynamische Kopplung, werden durch die Diffraktions- und Radiationswellenfelder verursacht, die sich dem einfallenden Wellenfeld überlagern. Diese Wellenfelder, die zusätzlich auf die benachbarten Strukturen treffen, regen zu einem Bewegungsverhalten an, das sich deutlich von dem der Einzelstrukturen unterscheidet. Bisherige Ansätze zur Berechnung des Bewegungsverhaltens von Mehrkörpersystemen sind auf den Frequenzbereich beschränkt. Die resultierenden Übertragungsfunktionen drücken Betrag und Phase bezüglich der erregenden harmonischen Welle aus. Über eine Spektralanalyse können die Strukturbewegungen im natürlichen Seegang in Form von Antwortspektren ermittelt werden. Die stetig steigenden Anforderungen an die Systeme in Bezug auf Sicherheit und Wirtschaftlichkeit verlangen jedoch nach Methoden, die immer präziser die Einsatzgrenzen bestimmen können, um Sicherheitsmargen zu verkleinern und Ausfallzeiten eines Systems zu verringern. Die vorliegende Arbeit stellt ein Verfahren vor, mit dem Frequenzbereichsergebnisse in den Zeitbereich transformiert werden. Die im Frequenzbereich berechneten Übertragungsfunktionen der Bewegungen werden mittels Fouriertransformation in Impulsantwortfunktionen umgewandelt. Die zeitabhängige Strukturantwort in einem beliebigen Seegang wird mittels Faltung von Impulsantwort und erregendem Wellenzug bestimmt. Das Verfahren ermöglicht somit auf der Grundlage der schnellen und effektiven Frequenzbereichsanalyse die Untersuchung von Mehrkörpersystemen im Zeitbereich. Dabei können hydrodynamische Kopplung der Strukturen sowie die 'memory effects', die den Einfluss der Vergangenheit beschreiben, berücksichtigt werden. Das Verfahren wird am Beispiel eines Schwimmkranes (Halbtaucher) und einer Transportbarge während der Huboperation einer 10000t schweren Last vorgestellt. In einem ersten Schritt werden die Übertragungsfunktionen der Bewegungen als Basis für die anschliessende Transformation in den Zeitbereich ermittelt. Weiterhin werden die signifikanten Übertragungsfunktionen sowie die maximalen Doppelamplituden im Frequenzbereich bestimmt. Diese dienen als wichtige Grössen für Einsatzentscheidungen und werden in dieser Arbeit als Referenz zur Bewertung der Ergebnisse aus dem Zeitbereich verwendet. Durch die anschliessende Anwendung des entwickelten Verfahrens können die Strukturantworten, bzw. die kritischen Relativbewegungen in beliebigen, deterministischen Wellenzügen im Zeitbereich ermittelt werden. Es zeigt sich, dass im Frequenzbereich aufgrund der überbewerteten Filterwirkung der Strukturen die signifikanten als auch maximalen Bewegungsamplituden überschätzt werden. Weiterhin hat sich gezeigt, dass extreme Bewegungen in erster Linie durch den Wellenverlauf verursacht werden. Hierzu sind ausführliche Untersuchungen in Extremwellen mit verschiedenen Wellenhöhen und -perioden durchgeführt worden. Zusammenfassend ergibt sich, dass Frequenzbereichsanalysen nach wie vor Relevanz für die Bestimmung der Einsatzgrenzen von Offshore-Operationen haben. Die steigenden Sicherheitsanforderungen und Wirtschaftlichkeitsüberlegungen machen es aber unabdingbar, das Verhalten von Strukturen im Detail, also im Zeitbereich bei natürlichem Seegang zu kennen. Mit dem entwickelten Ansatz eröffnet sich eine Möglichkeit, die Kette zwischen Ursache (Seegang) und Wirkung (Kräfte) deterministisch zu erfassen. Somit stellt das Verfahren einen Fortschritt für die Planung der Durchführbarkeit dar. Es erlaubt Einblicke in den Ablauf von Operationen und kann für Einsatzentscheidungen vor Ort überaus hilfreich sein. Damit trägt es zur Verbesserung der Sicherheit und Wirtschaftlichkeit von Offshore-Einsätzen bei.</dc:description>
+          <dc:date>2005-07-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1041</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10305</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10305</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1041/jacobsen_katja.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

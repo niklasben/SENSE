@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3212">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3212</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A New Compact Broadband Radial Power Combiner</dc:title>
+          <dc:title xml:lang="deu">Neu Breitband N-Wege Radial-Power-Combiners</dc:title>
+          <dc:creator>Ghanadi, Mehdi</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The N-way radial power combiner sums the power of N devices directly in one step without having to proceed through several combining stages. This results in high combining efficiencies and in a compact mechanical form. This dissertation presents a technique for the design of an N-way wideband microstrip radial power combiner which offers some advantages over axial power combiners. Thin microstrip lines in the combiner structure lead to low manufacturing costs and compact size and weight. A full analytical study is done and results are presented for an 8-way broadband microstrip radial power combiner operating from 2GHz to 17GHz. Also a full wave simulation using HFSS is done and the initial results are optimized for best performance. A couple of radial power combiners were built and measured: The achieved return loss is above 10dB and the insertion loss is below 1.5dB over the full bandwidth. These combiners were used to combine the outputs of 8 broadband amplifiers to produce a total output power of around 0.7W. For both passive and active stages, the obtained measurement results well validate the design and optimization processes. Die vorliegende Doktorarbeit beschreibt das Design und den Aufbau eines neu entwickelten N-Wege Radial-Power-Combiners in Mikrostreifenleitungstechnik. Die Verwendung von Mikrostreifenleitungen auf dünnen Substraten führt zu einem kompakten Aufbau, geringem Gewicht und niedrigen Herstellungskosten und damit zu signifikanten Vorteilen gegenüber axialen Leistungsummierern. Der N-Wege Radial- Power-Combiner summiert die Leistung der N-Eingangsports ohne Zwischenstufen direkt in einem Schritt. Hieraus resultiert ein hoher Wirkungsgrad und eine sehr kompakte Bauweise. Im Rahmen der Arbeit wurde ein vollständiges analytisches Modell für einen 8-Wege- Breitband-Combiner entwickelt und die Ergebnisse für den Frequenzbereich 2-17GHz vorgestellt. Zum Vergleich wurde eine numerische Simulation mit der Software HFSS durchgeführt und die ursprünglichen Ergebnisse für den Frequenzbereich 2-17GHz auf beste Performance optimiert. Zwei 8-Wege Radial-Power-Combiner wurden aufgebaut und vermessen. Über die gesamte Bandbreite war die erzielte Rückflussdämpfung besser als 10dB und die Einfügedämpfung kleiner als 1.5dB. Als Funktionstest wurde mit diesen Combinern die Leistung von 8 Breitbandverstärkern zu je 0.12W zu einer Gesamtausgangsleistung von 0.7W summiert. Die Ergebnisse sind auf Gesamtausgangsleistungen bis 100W übertragbar. Die durchgeführten Messungen stimmten mit den theoretischen Ergebnissen überein und bestätigten somit die Genauigkeit des Design- und Optimierungsprozesses.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Doktorarbeit beschreibt das Design und den Aufbau eines neu entwickelten N-Wege Radial-Power-Combiners in Mikrostreifenleitungstechnik. Die Verwendung von Mikrostreifenleitungen auf dünnen Substraten führt zu einem kompakten Aufbau, geringem Gewicht und niedrigen Herstellungskosten und damit zu signifikanten Vorteilen gegenüber axialen Leistungsummierern. Der N-Wege Radial- Power-Combiner summiert die Leistung der N-Eingangsports ohne Zwischenstufen direkt in einem Schritt. Hieraus resultiert ein hoher Wirkungsgrad und eine sehr kompakte Bauweise. Im Rahmen der Arbeit wurde ein vollständiges analytisches Modell für einen 8-Wege-Breitband-Combiner entwickelt und die Ergebnisse für den Frequenzbereich 2-17GHz vorgestellt. Zum Vergleich wurde eine numerische Simulation mit der Software HFSS durchgeführt und die ursprünglichen Ergebnisse für den Frequenzbereich 2-17GHz auf beste Performance optimiert. Zwei 8-Wege Radial-Power-Combiner wurden aufgebaut und vermessen. Über die gesamte Bandbreite war die erzielte Rückflussdämpfung besser als 10dB und die Einfügedämpfung kleiner als 1.5dB. Als Funktionstest wurde mit diesen Combinern die Leistung von 8 Breitbandverstärkern zu je 0.12W zu einer Gesamtausgangsleistung von 0.7W summiert. Die Ergebnisse sind auf Gesamtausgangsleistungen bis 100W übertragbar. Die durchgeführten Messungen stimmten mit den theoretischen Ergebnissen überein und bestätigten somit die Genauigkeit des Design- und Optimierungsprozesses.</dc:description>
+          <dc:date>2012-01-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3212</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34021</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34021</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3212/ghanadi_mehdi.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

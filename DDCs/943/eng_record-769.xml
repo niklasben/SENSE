@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:769">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:769</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:943</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Opposition und Widerstand : Geschichte der kirchlichen Jugendarbeit</dc:title>
+          <dc:title xml:lang="eng">Opposition and Resistance</dc:title>
+          <dc:creator>Pietzsch, Henning</dc:creator>
+          <dc:subject>ddc:943</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit befaßt sich mit der Geschichte der kirchlichen Jugendarbeit der Offenen Arbeit in Jena zwischen 1970 und 1989. Am Beispiel der Jungen Gemeinde Stadtmitte wird untersucht, welche Voraussetzungen, Formen und Wirkungen des politischen Widerstandes gegen die DDR-Diktatur abzuleiten sind. Besonderes Augenmerk liegt dabei auf der Wechselwirkung zwischen dem Selbstverständnis der Akteure und ihren Aktionen und den repressiven Maßnahmen durch das Ministerium für Staatssicherheit (MfS) und andere staatliche Stellen sowie zwischen Offener Arbeit und Kirche. Die Entstehungs-, Verlaufs- und Wirkungsgeschichte der Jungen Gemeinde Stadtmitte soll herausgearbeitet, die Aktivitäten und Erfahrungen in den verschiedenen generativen Gruppen und ehemaliger Akteure sollen im Vergleich von Selbstzeugnissen, schriftlichen Quellen sowie Akten des ehemaligen Ministeriums für Staatssicherheit gegenübergestellt und bewertet werden. Anliegen ist es dabei auch, die repressiven Maßnahmen des Ministeriums für Staatssicherheit gegen die Akteure in ihrer Dimension darzustellen. Ziel ist es weiterhin, die sozialen und strukturellen Voraussetzungen und Bedingungen sowie Organisationsformen der Gruppen der Offenen Arbeit und den Politisierungsprozeß der Akteure sichtbar zu machen. Insgesamt geht es darum, die Lebenswelten der verschiedenen "Generationen" in ihrer Entwicklung und Veränderung darzustellen. Der zu untersuchende Zeitraum bezieht sich unter Einbeziehung relevanter historischer und politischer Ereignisse auf die siebziger und achtziger Jahre. Die Arbeit ist chronologisch und deskriptiv angelegt. Dadurch soll eine inhaltliche Tiefe über Akteure und Ereignisse erreicht werden.</dc:description>
+          <dc:date>2004-09-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/769</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7638</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7638</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/769/pietzsch_henning.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

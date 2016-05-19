@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:386">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:386</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:370</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Meteorologie für Piloten : wie finde ich die Inhalte eines Fachgebiets, die für eine Anwendung außerhalb des Fachgebiets erforderlich sind?</dc:title>
+          <dc:title xml:lang="eng">Meteorology for Pilots</dc:title>
+          <dc:creator>Fischer, Burkhard</dc:creator>
+          <dc:subject>ddc:370</dc:subject>
+          <dc:description xml:lang="deu">Unfälle der Luftfahrt werden gelegentlich auf den Einfluss des Wetters zurückgeführt. Richtig angewendetes Wissen aus der Meteorologie könnte manchen Unfall verhindern. Als ein Grund für Fehlverhalten wird unter anderem unzureichendes Wissen der Piloten gesehen. Fehlendes Wissen von Piloten lässt Mängel in der Ausbildung vermuten. Unterrichtsmängel können methodischer und inhaltlicher Art sein. An Beispielen vorgeschriebener Unterrichtsinhalte der Meteorologie wird gezeigt, dass deren Bezug zur Luftfahrt fehlt. Erarbeitet wird ein Verfahren, mit dem es möglich ist, die Unterrichtsinhalte einer Fachwissenschaft aufzuspüren, die für eine Tätigkeit außerhalb der Fachwissenschaft erforderlich sind. Damit wird eine Brücke geschlagen zwischen der zu unterrichtenden Fachwissenschaft und der von den Schülern angestrebten Tätigkeit. Hier werden die Tätigkeit von Piloten und die Fachwissenschaft Meteorologie betrachtet. Das Verfahren ist auch auf andere Tätigkeiten und Fachwissenschaften anwendbar. Das Verfahren bildet anhand der Begriffsnamen die Schnittmenge von Fachbegriffen, die sowohl Bestandteile der Fachwissenschaft sind als auch der Tätigkeit. Die Schnittmenge von Luftfahrt und Meteorologie umfasst 111 Begriffe. Die Diskrepanz in der Übereinstimmung zwischen Begriffsnamen und Begriffen wird erörtert. Die in der Schnittmenge gefundenen Begriffe, die Begriffsnamen und unmittelbaren Begriffsbedeutungen werden zu Unterrichtsinhalten erklärt. Dazu kommt die mittelbare Bedeutung der Begriffsgegenstände im Kontext der angestrebten Tätigkeit. Sie wird mit Hilfe der Tätigkeitsbeschreibung in der Wechselwirkung zwischen dem Begriffsgegenstand und der Tätigkeit gefunden. Ebenso werden die generell gültigen Aussagen der Fachwissenschaft, die die Wechselwirkung ermöglichen, zu Unterrichtsinhalten erklärt. Am Beispiel Vereisung wird veranschaulicht, wie die einzelnen Schritte des Verfahrens erfolgen, und wie die Inhalte unterrichtet werden können. Die Übertragbarkeit des Verfahrens auf andere Fachwissenschaften und Tätigkeiten wird erörtert.</dc:description>
+          <dc:description xml:lang="eng">Weather sometimes seems to cause air traffic accidents. Correctly used knowledge of meteorology may avoid some accidents. The pilots´ unsufficient knowledge is recognized as one reason for mistakes. A lack of instruction seems to be the reason of pilots´ missing knowledge. It may be refered to the methods of instruction or to the syllabus. It is showed, that the official syllabus of meteorology is not strictly related to pilots´ field of activity. A procedure is worked out to get the syllabus of a special branch of science necessary for application outside the branch. A bridge is thrown between the instructed branch of science and the field of activity aspired to. Here the pilots´ branch of activity and the special branch of meteorology are focused. The procedure is applicable to other fields of activity and branches of science as well. The procedure forms the quantity of technical terms being part of the special branch of scienceon the one hand and of the field of activity on the other hand. 111 technical terms belong to air traffic just as to meteorology. The problem of different names and common meanings, and the problem of common names and different meanings are discussed. The common technical terms, their names and direct meanings are decided to belong to the syllabus. The mediate meanings relative to the field of activity are added. They are found in the interaction of direct meanings and activities by using descriptions of activities. The universal statements of the branch of science making possible the interaction are added just so. The several steps of the procedure and a variant of teaching are illustrated using the example of icing. The transferability to other branches of science and other fields of activity is discussed.</dc:description>
+          <dc:date>2002-07-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/386</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3812</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3812</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/386/fischer_burkhard.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

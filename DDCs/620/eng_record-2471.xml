@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2471">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2471</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen von mit Mauerwerk ausgefachten Stahlrahmen in Erdbebengebieten und ihre Anwendung in der Praxis</dc:title>
+          <dc:title xml:lang="eng">Investigation of with masonry filled-in steel frames in earthquake-prone areas and their application in practice</dc:title>
+          <dc:creator>Haupt, Uwe</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand dieser Arbeit ist die Untersuchung von mit Mauerwerk ausgefachten Stahlrahmen und deren Anwendung in Erdbebengebieten. Die Arbeit umfasst Analysen zur Tragfähigkeit, aus denen Empfehlungen für Anwendungsgrenzen abgeleitet werden und Hinweise zur konstruktiven Ausbildung. Die Berücksichtigung von im Lastfall Erdbeben mittragenden Ausfachungen ist hinsichtlich des Gesamttragverhaltens von Bauwerken zwingend erforderlich. Durch die Anwendung von Ersatzstäben wird eine Möglichkeit der vereinfachten Modellierung für die Praxis vorgestellt, wodurch der Einfluss der Ausfachungen rechnerisch berücksichtigt werden kann. Verschiedene Ersatzstabmodelle werden hinsichtlich ihrer Eignung vorgestellt und bewertet. Das Vorgehen beim Nachweis von Ausfachung und Rahmen wird beschrieben. Anhand von Gebäuden werden Berechnungen zur Tragfähigkeit ausgefachter Rahmen unter Erdbebenlast durchgeführt. Es zeigen sich enge Anwendungsgrenzen hinsichtlich Geometrie und Material. Bei Einhaltung der Grenzwerte können ausgefachte Rahmen zwar geringe Horizontallasten aufnehmen, für das Gesamttragwerk sind jedoch zusätzliche Aussteifungselemente in jedem Fall empfehlenswert. Abschließend erfolgt die Vorstellung verschiedener konstruktiver Möglichkeiten zur weiteren Erhöhung der Tragfähigkeit ausgefachter Rahmen. Möglichkeiten der konstruktiven Ausbildung der Kontaktfugen zwischen Rahmen und Ausfachung, der Knotenpunkte und der Diagonalen werden aufgezeigt.</dc:description>
+          <dc:description xml:lang="eng">The purpose of this work is the analysis of steel frames that are filled-in with masonry and their application in earthquake-prone areas. The work comprises calculations of the bearing capacity from which recommendations for the limits of their applicability will be developed and details concerning the structural design. Because of the influence on the whole structure’s load bearing behaviour the consideration of participating fillings in the load case earthquake is mandatory. An alternative of a simple modelling for practical work by using equivalent struts that helps considering the influence of fillings for the calculation of infilled frames is presented. Different equivalent strut models are presented and evaluated concerning their applicability. The approach to design fillings and frames is described. On the basis of buildings calculations concerning the bearing capacity of infilled frames exposed to seismic loads are made. The limits of applicability regarding geometry and material are narrow. Although by following these limits of applicability infilled frames can take small horizontal loads, additional stiffening building elements for the whole structure are advisable. Different structural alternatives that enhance the bearing capacity of infilled frames are presented. Details regarding the structural design of the joint between frames and masonry, of the junction point of members and of the strut are shown.</dc:description>
+          <dc:date>2010-03-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2471</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26016</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26016</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2471/haupt_uwe.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

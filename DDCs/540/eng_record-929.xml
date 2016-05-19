@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:929">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:929</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Synthese von Carbo- und Heterocyclen durch Ruthenium-katalysierte Kreuzmetathese  Beiträge zur Katalysatorentwicklung</dc:title>
+          <dc:title xml:lang="eng">Synthesis of Carbo- and Heterocycles by Ruthenium-catalyzed Cross Metathesis - Contributions to Catalyst Development</dc:title>
+          <dc:creator>Mix, Stefan</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Ruthenium-katalysierte Kreuzmetathesereaktionen sind C-C-Kupplungsreaktionen mit wachsendem Synthesepotential. Zielstrukturen können modular und flexibel aufgebaut werden, wobei eine Reihe von Funktionalitäten und Strukturmotiven toleriert werden. Das umsetzbare Substratspektrum ist durch die Entwicklung von Ruthenium-Katalysatoren mit N-Heterocyclischen Carben-Liganden stark erweitert worden. Obgleich stereoselektiv verlaufende Kreuzmetathesereaktionen unter Beteiligung akzeptorsubstituierter Doppelbindungen bekannt sind, werden in anderen Fällen oft E/Z-Gemische gebildet. In der vorliegenden Arbeit wird gezeigt, wie dieser Nachteil durch stereokonvergent verlaufende Folgereaktionen umgangen werden kann. Es wurde gefunden, dass N-geschützte chirale Homoallylaminderivate mit Vinylcarbinolen in einer Ruthenium-katalysierten Kreuzmetathesereaktion mit hohen Ausbeuten zu E/Z,lk/ul-Gemischen der Produkte reagieren. Diese wurden anschließend durch die BF3*Et2O-induzierte Bildung von Allyl-kationen stereokonvergent zu trans-2,6-disubstituierten 1,2,5,6-Tetrahydropyridinen umgesetzt (trans:cis = 5:1 bis &gt;20:1). Das Stereozentrum des eingesetzten chiralen Homoallylamins wirkte hierbei dirigierend, die Verwendung der Schutzgruppen Troc, Cbz bzw. Fmoc war notwendig. Die neue Synthesestrategie wurde auf die modulare Synthese nichtnatürlicher Pipecolsäurederivate angewendet. Ausgehend von Cbz-geschütztem (S)-4-Aminopenten konnte das Naturstoff-Enantiomer (+)-trans-Solenopsin A in nur drei Schritten diastereoselektiv erhalten werden. Ausgehend vom gleichen Homoallylaminderivat wurde der Naturstoff (-)-(5Z,9E)-3-Hexyl-5-methylindolizidin in drei Schritten erstmalig synthetisiert und sein Drehwert bestimmt. In einem weiteren Projekt wurden durch Enin-Kreuzmetathese terminaler Alkine und mono-akzeptorsubstituierter ?,?-Diene als E/Z-Gemische erhaltene Produkt-Triene in einer stereokonvergent verlaufenden intramolekularen Diels-Alder-Reaktion umgesetzt. Es entstanden 1,6-disubstituierte Hexahydro-1H-indene und 7-substituierte Hexahydro-2H-naphthalin-1-one mit hoher cis-Selektivität und guten Ausbeuten. In Studien zur Reaktivität neuer Rutheniumkomplexe wurden mit dem Metatheseinitiator 204 Ringöffnungs-/Kreuzmetathesereaktionen von anspruchsvoll funktionalisierten Norbornen-derivaten in hoher Verdünnung bei Raumtemperatur chemoselektiv durchgeführt. Durch Einführung von Trifluoracetat-Liganden wurden neue Ruthenium-Komplexe synthetisiert, deren Aktivität in Testreaktionen geprüft wurde.</dc:description>
+          <dc:date>2005-03-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/929</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9220</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9220</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/929/mix_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

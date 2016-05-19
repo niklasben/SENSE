@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4131">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4131</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Rechtliche Rahmenbedingungen von Cloud Computing : rechtliche Situation im Öffentlichen Sektor </dc:title>
+          <dc:creator>Labes, Stine</dc:creator>
+          <dc:subject>ddc:0</dc:subject>
+          <dc:description xml:lang="deu">Die rechtliche Situation und limitierende Rahmenbedingungen sind heute die größte Hürde für die Akzeptanz neuartiger Datenverarbeitung, wie im Cloud Computing. Besonders im Öffentlichen Sektor findet schon heute Datenverkehr und Kommunikation übergreifend über Einrichtungen sowie Städte- und Landesgrenzen hinweg statt. Ob dies künftig auch über Cloud-Dienste abgewickelt werden kann wird in diesem Dokument untersucht.&#13;
+Mit Fokus auf die Situation im Projekt GGC-Lab, fasst der vorliegende Leitfaden die rechtlichen Themengebiete Vertragsgestaltung sowie Datenschutz und Compliance im Rahmen von Cloud-Diensten zusammen und zeigt Hindernisse auf. Die vertragliche Einordnung von Cloud-Diensten bewirkt unterschiedliche Anforderungen an die Verfügbarkeit des Dienstes sowie Gewährleistung und Haftung bei Verstößen. Für einen Zusammenschluss von öffentlich-rechtlichen IT-Dienstleistern, wie im Projekt GGC-Lab, gelten besondere Bedingungen hinsichtlich des Vergaberechts. Mit Hilfe eines Community-Vertrags werden alle internen Vereinbarungen, Qualitätslevel und Haftungsfragen geklärt. Mit dem Ziel der gemeinsamen Datenverarbeitung von cloudfähigen Fachanwendungen, müssen darüber hinaus spezielle Lizenzverträge mit dem Anbieter der jeweiligen Fachanwendung vereinbart werden. Bei der Verarbeitung personenbezogener Daten mit cloudbasierten Fachanwendung müssen die Forderungen des Datenschutzrechts beachtet werden. Werden durch den Zusammenschluss der IT-Dienstleister wettbewerbsbeeinflussend viele Abnehmer angesprochen, ist die Betrachtung des Kartellrechts eine weitere Hürde, die zu nehmen ist.&#13;
+Viele Initiativen beschäftigen sich mit diesen komplexen Rechtsfragen und geben Vorschläge wie ihnen zu begegnen ist. Abschließend gibt eine Übersicht über die Inhalte ausführlicher Publikationen Aufschluss über den Stand der gegenwärtigen Diskussionen in diesem Themengebiet.</dc:description>
+          <dc:date>2013-11-22</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4131</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41312</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41312</dc:identifier>
+          <dc:identifier>978-3-7983-2627-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4131/projektberichte_IKM_10.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

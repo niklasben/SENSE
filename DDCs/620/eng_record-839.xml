@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:839">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:839</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Funktionsgetriebene Konstruktion als Grundlage verbesserter Produktentwicklung</dc:title>
+          <dc:title xml:lang="eng">Functional Driven Design as Basis for the Improved Product Development</dc:title>
+          <dc:creator>Leemhuis, Helen</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird ein Ansatz vorgestellt, der es ermöglicht, auf Basis der Repräsentation und Verarbeitung der intendierten Produktfunktion Teilaufgaben der Produktentwicklung zu optimieren und eine Wiederverwendung von Teillösungen zu unterstützen. Hierzu wurden Konzepte für die Erfassung sowie die rechnerunterstützte Abbildung und Nutzung funktionsbasierten Wissens entwickelt und prototypisch umgesetzt. Die Grundlage dafür bildet die Repräsentation kausaler Relationen zwischen der Produktfunktion, den spezifizierenden Anforderungsparametern und den entwickelten Lösungselementen im Kontext des Entwicklungsprozesses. Das Ziel der Arbeit ist es, einen Beitrag zur Optimierung der Produktentwicklung zu leisten, indem insbesondere in den frühen Phasen die Entwicklungsmethoden um die Handhabung der Produktfunktionen als zentrales Element erweitert sowie eine adäquate, für die Verarbeitung von Produktfunktionen dedizierte Entwicklungsumgebung zur Verfügung gestellt wird.</dc:description>
+          <dc:description xml:lang="eng">The aim of any design process is the fulfilling of the product function. Within the design methodology the process of decomposition of the function in sup-functions and the allocation of the specifications and part solutions is one of the main points within the conceptional design process, and is the basis of the following detailed design process. By using the enhanced possibilities of information modelling and processing the use of the design methodology get a new dimension for the enhancement of the design process particularly with regard to the early design phases. Within the further development process the product function is the basis for the validation of the product properties against to the requirements. The product information of the early phases of the design process like product specification and product function are important information for the whole product development process and has to provide all over all phases. Within this thesis a concept is described for an design environment with focus of the product function.</dc:description>
+          <dc:date>2005-03-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/839</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8326</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8326</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/839/leemhuis_helen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

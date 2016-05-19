@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1848">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1848</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Vor- und nachgeschaltete Signalwege der Go2alpha-vermittelten Regulation der vesikulären Monoaminspeicherung</dc:title>
+          <dc:title xml:lang="eng">Up- and downstream signalling pathways of the Go2alpha-mediated regulation of vesicular monoamine storage</dc:title>
+          <dc:creator>Blex, Christian</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Die Grundlage der neuronalen Signalübertragung ist die regulierte Freisetzung vesikulärer Neurotransmitter in den synaptischen Spalt. Die synaptische Signalübertragung unterliegt dabei einer Vielzahl regulatorischer prä- und postsynaptischer Prozesse. Die Beeinflussung des vesikulären Füllungszustandes stellt dabei eine Möglichkeit dar, die synaptische Übertragung präsynaptisch zu modulieren. Vorangegangene Arbeiten konnten zeigen, dass der Füllungszustand monoaminerger Vesikel durch die Go2alpha-Untereinheit heterotrimerer G-Proteine reguliert wird. Der vesikuläre Füllungszustand ist dabei das auslösende Signal der G-Proteinregulation. Die daran beteiligten zellulären Prozesse und Signaltransduktionswege sowie die Bedeutung dieser Regulation in vivo sind aber bisher unverstanden. Ziel dieser Arbeit war es daher, vor- und nachgeschaltete Signalwege zu identifizieren und physiologische Effekte der Inaktivierung von Go2alpha zu analysieren. Monoamine werden durch zwei Isoformen des vesikulären Monoamintransporters (VMAT) in Vesikeln gespeichert. In Neurotransmitteraufnahmeexperimenten mit CHO-Zellen, die mit verschiedenen mutierten Konstrukten des VMAT2 transfiziert, als stark vereinfachtes Modellsystem dienten, konnte gezeigt werden, dass die erste intraluminale Schleife des VMAT2 an der Signaltransduktion aus dem Vesikellumen beteiligt ist. Ähnliche Untersuchungen mit dem VMAT1 legen eine vergleichbare Bedeutung der ersten intraluminalen Schleife als intravesikuläre Rezeptorstruktur nahe. Einen weiteren Schwerpunkt der Arbeit bildete die Identifikation potentieller nachgeschalteter Signalproteine. Dabei stellte sich heraus, dass die Proteine CAPS1 und CAPS2 in der Lage sind, den vesikulären Monoamintransport und die Speicherfähigkeit für Monoamine zu erhöhen. Durch systematisches Durchmustern einer cDNA-Bibliothek mit konstitutiv aktivem Go2alpha in einem Yeast-two-Hybrid-System wurden 15 Proteine identifiziert, die als potentielle Zielproteine an der G-Proteinregulation der VMAT beteiligt sind. Darüber hinaus konnten verschiedene, dabei identifizierte Go2alpha-bindende Proteine bereits im Zellkern lokalisiert bzw. assoziiert mit dem Zytoskelett nachgewiesen werden und deuten auf eine Funktion von Go2alpha an diesen Strukturen hin. In genetisch veränderten Mäusen, die nicht in der Lage sind, Go2alpha zu exprimieren, konnten im Striatum, einer Gehirnregion die besonders an der motorischen Feinregulation beteiligt ist, verminderte Dopaminspiegel festgestellt werden. Diese verminderten Monoaminspiegel korrelieren mit einer verminderten Bewegungsaktivität der Go2a-defizienten Mäuse nach Stimulation des dopaminergen Systems mittels Amphetamin und Kokain. Zusätzlich bleibt nach mehrfacher Behandlung mit Kokain die in Wildtyptieren einsetzende substanzvermittelte Sensibilisierung aus, die auf zusätzliche Störungen des dopaminergen Systems hinweist.</dc:description>
+          <dc:description xml:lang="eng">The basic principle of neural communication involves regulated exocytosis of neurotransmitter molecules into the synaptic cleft. Neuronal communication at the synapse depends on several regulatory mechanisms which are localized pre- or postsynaptically. Vesicular filling represents one possibility of influencing synaptic transmission presynaptically. Previous experiments showed that activation of Go2alpha, a brain and neuroendocrine cell specific subunit of heterotrimeric G-proteins, modulates filling of synaptic vesicles with monoamines. Vesicular filling itself was shown to be the preceding step of the Go2alpha-regulation. Further evidence of participating intracellular signalling cascades was missing. Therefore the aim of the project was to identify possible upstream and downstream signalling molecules as well as to determine the impact of Go2alpha inactivation in vitro and in vivo. Monoamine storage in vesicles is mediated by the activity of two isoforms of the vesicular monoamine transporter (VMAT). Neurotransmitter uptake experiments using CHO-cells transfected with wildtype and mutant VMAT2-cDNA proved that the first intravesicular loop of VMAT2 is required for Go2alpha-activation. Similar experiments using VMAT1-cDNA-constructs also indicated that the first intralumenal loop of the VMAT shows receptor like properties. The investigation of potential downstream targets revealed the proteins CAPS1 and CAPS2 to enhance vesicular transport and storage capacity for monoamines. Furthermore a yeast two hybrid screening of a mouse brain cDNA-library using GTPase deficient Go2alpha as bait identified 15 potential downstream effectors. Besides a possible role in regulating vesicular filling, some of the identified proteins are localized in the nucleus or associated with the cytoskeleton. These observations point to further functions of Go2alpha at other subcellular structures.Analysis of Go2alpha-knockout mice revealed reduced dopamine-amounts in the striatum, a brain region involved in movement control. Decreased striatal dopamine levels correlate with reduced locomotor-activity of the knockout mice compared to wildtype animals after challenging the monoaminergic system using amphetamine and cocaine. Additionally knockout mice lack drug-induced sensitization after repeated application of cocaine indicating further disturbances of the dopaminergic system.</dc:description>
+          <dc:date>2008-08-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1848</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19503</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19503</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1848/original_dokument1.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1848/blex_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

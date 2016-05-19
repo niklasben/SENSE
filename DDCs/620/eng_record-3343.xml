@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3343">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3343</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dreidimensionale Rekonstruktion des Gefäßverlaufes aus biplanen Koronarangiogrammen</dc:title>
+          <dc:title xml:lang="eng">Three-dimensional reconstruction of the coronary vasculature from biplane angiograms</dc:title>
+          <dc:creator>Zeiler, Steffen</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand der Dissertation ist die Entwicklung von neuen Methoden zur dreidimensionalen Rekonstruktion des koronaren Gefäßbaumes aus biplanen Angiogrammen. Dabei soll ohne spezielle Kalibrierung der Röntgenapparatur die räumliche Lage und Orientierung der Koronarien anhand kontrastarmer Röntgenprojektionen aus zwei unterschiedlichen Richtungen automatisch geschätzt werden. Die Grundlage bildet ein Zustandsraummodell für die Lage und Orientierung kleiner Gefäßabschnitte. Die Koronarien werden mit den Pfaden extremaler Länge im Suchraum identifiziert. Die Graphentheorie liefert die notwendigen Konzepte wie extremale Länge und Metrik und beschreibt die Eigenschaften und Realisierungen konkreter Suchstrategien. Für die biplane Koronarangiographie wird eine spezielle Pfadmetrik entwickelt, mit der zwei unterschiedliche Ansichten des gleichen Gefäßbaumes für die 3D-Rekonstruktion verknüpft werden können. Im Rahmen der projektiven Geometrie werden kleine Bildbereiche statt einzelner Bildpunkte für die Rückprojektion benutzt, um damit ein neues robusteres Rekonstruktionsverfahren zu entwickeln. Für die Segmentierung der Koronarien in den Röntgenbildern kommen statistische Verfahren zum Einsatz. Diese benutzen die Bewegungen der Koronarien für eine automatische Klassifikation des Bildinhaltes. Die Merkmale sind in einem Skalenraum in verschiedenen Auflösungsstufen der Bilder definiert und beschreiben nicht nur isolierte Bildpunkte sondern zusätzlich auch deren Umgebung. Die Abhängigkeiten des Rekonstruktionsverfahrens von Fehlern in der Aufnahmegeometrie werden anhand eines virtuellen Phantommodells in Computersimulationen untersucht und die Ergebnisse bewertet. Zusätzlich werden dreidimensionale Computermodelle anhand realer biplaner Röntgenaufnahmen rekonstruiert und visualisiert.</dc:description>
+          <dc:description xml:lang="eng">The thesis is concerned with developing new methods for three-dimensional reconstruction of the coronaries from biplane angiograms. Position and orientation of the coronaries need to be estimated automatically from two distinct X-ray projections without special calibration of the X-ray gantry. Based on a state space model of the position and orientation of small vessel segments, the coronaries are identified as the paths of extremal length through the search space. Graph theory provides the necessary concepts such as length and metric, and it describes the properties and realizations of specific search strategies. For biplane coronary angiography, the thesis designs a dedicated metric which can be used to evaluate the composition of two distinct views of the same vessel tree for 3D-reconstruction. In this composition, projective geometry allows for using the backprojection of small regions, rather than of single points, which leads to the development of a new, more robust reconstruction method. For coronary segmentation, statistical methods are used. The apparent movement of the coronaries in the X-rays is used for automatic classification of the image contents. Features are defined in a scale space of different image resolutions and they describe not just isolated pixels but also their surrounding regions. In computer simulations, the dependencies of the reconstruction errors on the calibration errors are determined, and the results are evaluated. Additionally, three-dimensional computer models of actual biplane X-ray angiograms are reconstructed and visualized.</dc:description>
+          <dc:date>2012-06-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3343</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35480</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35480</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3343/zeiler_steffen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

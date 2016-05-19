@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1238">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1238</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Nucleation and growth during the formation of polycrystalline silicon thin films</dc:title>
+          <dc:title xml:lang="deu">Nukleation und Wachstum bei der Bildung von dünnen, polykristallinen Siliziumschichten</dc:title>
+          <dc:creator>Schneider, Jens Michael</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Polycrystalline Silicon (poly-Si) thin films on foreign substrates are interesting for large area electronic devices like displays, sensors and solar cells. Such films can be formed by the aluminum-induced layer exchange (ALILE) process. In the ALILE process aluminum, amorphous silicon (a-Si) bi-layers exchange their positions with a concurrent crystallization of the silicon during a simple annealing step below the eutectic temperature of the Al/Si system (Teu = 577 °C). The resulting poly-Si layer is large grained which promises high carrier mobilities and exhibits a preferential, crystallographic (100) orientation which facilitates low-temperature, epitaxial thickening. Within this thesis glass/Al/a-Si layer stacks are investigated in-situ during the ALILE process with an optical microscope. The role of a thin interlayer between the Al and a-Si is studied. While nucleation in isothermal annealing experiments is caused by supersaturation of silicon in the aluminum layer additional nucleation can be enforced by supercooling the sample during annealing. The use of temperature profiles during annealing reveals the mechanism of the ALILE process. The process is discussed on the basis of thermodynamic consideration and elucidated within the Al/Si phase diagram. The definition of Si concentration limits in the Al demonstrates that the large grains in the resulting poly-Si film are caused by a characteristic self-limiting suppression of nucleation during the layer exchange process. When the Si concentration is above the saturation concentration but below a critical concentration existing grains grow but additional nucleation is suppressed. From the thermodynamic considerations on nucleation and growth a model is derived explaining the origin of the preferential orientation. Both experimental and theoretical results obtained in this thesis allow to develop recipes for an optimized polycrystalline silicon layer formation. Poly-crystalline silicon thin-film solar cells based on the seed layer concept have the potential to achieve high efficiencies at very low costs which make them suitable candidates for the medium-term future solar cell technology.</dc:description>
+          <dc:description xml:lang="deu">Dünne Schichten polykristallines Silizium (poly-Si) auf Fremdsubstraten sind für großflächige, elektronische Bauelemente wie Displays, Sensoren und Solarzellen von Interesse. Solche Schichten können mit dem Aluminium-induzierten Schichtaustausch (ALILE) Prozess hergestellt werden. Im ALILE Prozess tauschen eine Aluminium und eine amorphe Silizium (a-Si) Schicht ihre Position durch einen einfachen Temperschritt unterhalb der eutektischen Temperatur (Teu = 577 °C) des Al-Si Systems. Dabei wird das Silizium kristallisiert. Die resultierende poly-Si Schicht is großkörnig, was eine hohe Ladungsträgerbeweglichkeit verspricht, und weist eine kristallographische (100) Vorzugsorientierung auf, was eine Verdickung mittels Niedertemperaturepitaxie erleichtert. In dieser Dissertation werden Glas/Al/a-Si Schichtstapel mittels optischer Mikroskopie in-situ während des ALILE Prozesses untersucht. Die Rolle einer dünnen Zwischenschicht wird beleuchtet. Während die Nukleation in einem isothermen Temperexperiment durch Übersättigung von Silizium in der Aluminiumschicht hervorgerufen wird, kann diese zusätzlich durch Unterkühlung während der Temperung verstärkt werden. Durch den Einsatz von Temperaturprofilen wird der Mechanismus hinter dem ALILE Prozess aufgeklärt. Der Prozess wird auf der Basis von thermodynamischen Überlegungen im Al/Si Phasendiagramm diskutiert. Die Definition von Siliziumkonzentrationsgrenzen im Al demonstriert, dass die groen Körner in der resultierenden poly-Si Schicht durch eine charakteristische selbstlimitierte Unterdrückung der Nukleation im Schichtaustauschprozess hervorgerufen wird. Ist die Siliziumkonzentration größer als die Sättigungskonzentration aber kleiner als die kritischen Konzentration so wachsen bestehende Körner weiter während weiter Nukleation unterdrückt wird. Mit thermodynamischen Überlegungen über Nukleation und Wachstum wird ein Modell entwickelt, das den Ursprung der Vorzugsorientierung in den Schichten erklärt. Sowohl die experimentellen als auch theoretischen Ergebnisse dieser Arbeit ermöglichen es Rezepte zur Optimierung der polykristallinen Siliziumschichten zu entwickeln. Solarzellen aus dünnen polykristallinen Siliziumschichten haben das Potential hohe Wirkunsgrade bei sehr niedrigen Kosten zu erreichen. Damit sind Sie geeignete Kandidaten für die Solartechnologie der mittelfristigen Zukunft.</dc:description>
+          <dc:date>2006-03-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1238</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11460</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11460</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1238/schneider_jens.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3184">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3184</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Messtechnische Bestimmung von Leuchtdichtekoeffizienten für Fahrbahndeckschichten unter flachen Anstrahlwinkeln</dc:title>
+          <dc:title xml:lang="eng">Measurement of Luminance Coefficents of Road Surfaces for Flat Angles of Light Incidence</dc:title>
+          <dc:creator>Köhler, Susanne</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird sowohl die Vorwärts- als auch Rückwärtsreflexion für Kfz-typische Anordungen von Scheinwerfer und Beobachter untersucht. Das Ziel hierbei ist, eine verbesserte Leuchtdichtesimulation zur Berücksichtigung wahrnehmungsangepasster Gütemerkmale für Scheinwerferlichtverteilungen zu ermöglichen. Um die hierfür notwendigen Leuchtdichten auf der Fahrbahnoberfläche zu bestimmen, müssen ihre Reflexionseigenschaften gemessen werden. Dies stellt für Kfz-typische Geometrien aufgrund der kleinen Anstrahlwinkel aktuell ein Problem dar. Deshalb besteht das allgemeine Ziel dieser Arbeit in der Bestimmung von Leuchtdichtekoeffizienten für kleine Anstrahlwinkel, um die Leuchtdichtesimulation in diesem Bereich zu verbessern. Hier werden wegen ihrer Wichtigkeit für die Verkehrssicherheit die Spezialfälle einer trockenen und einer nassen Fahrbahndeckschicht bei Vorwärts- und Rückwärtsreflexion unter Kfz-typischer Geometrie untersucht. Die Messungen werden nicht, wie üblich, anhand einer Straßenprobe unter winkeltreuem verkleinerten Maßstab im Gonioreflektometer im Labor bestimmt, sondern unter realem Maßstab auf einer realen Fahrbahndeckschicht. Es zeigt sich, dass im Fall der Rückwärtsreflexion bei fester Geometrie ein Leuchtdichtekoeffizient für eine Fahrbahndeckschicht genügt, um eine für viele Anwendungen ausreichend genaue Leuchtdichtesimulation durchzuführen. Für Vorwärtsreflexion wird ein winkelabhängiges Reflexionsmodell vorgeschlagen, welches eine isotrope, spektral aselektive Fahrbahndeckschicht voraussetzt. Die Ergebnisse ermöglichen sowohl eine verbesserte Simulation von Fahrbahn- als auch von Objektleuchtdichten. Im Weiteren können mit ihrer Hilfe Lichtverteilungen bei nassen Fahrbahndecken derart angepasst werden, dass sie entgegenkommende Fahrzeuge, die durch neuartige Fahrerassistenzsysteme erkannt werden, möglichst wenig blenden.</dc:description>
+          <dc:description xml:lang="eng">This thesis deals with backward as well as forward reflection of road surfaces under geometries typical for vehicles. The aim is to improve luminance simulation for considering physiological criteria like visibility or reaction times. To quantify the required luminances the reflection properties of the road surface have to be measured. This raises a lot of difficulties due to the small angles of illumination typical for car-lighting. Therefore the general aim of this work is measuring luminance coefficients for small angles of illumination. With regard to their importance for traffic safety this work deals with the special cases of backward and forward reflection of dry and wet road surfaces under vehicle conditions. The measurements are carried out on real road surfaces under real scale conditions. This is different to conventional measurements of luminance coefficients, which are performed in reduced scale on small segments of road surfaces in laboratories with the help of gonioreflectometers. In case of backward reflection the results show that for a certain illumination and observation geometry that represents real driving situations one luminance coefficient for the whole road surface is enough to enable luminance calculation. The simulated luminances are sufficiently accurate for many applications. Regarding forward reflection an equation is proposed which describes the reflectance behavior of an isotropic, spectral aselective road surface. The two vertical angles as well as the horizontal angle difference between illumination and observation are parameters for the calculation. The results of this work improve the simulation of luminances of road surfaces and obstacles. Moreover they provide valuable information for the dimensioning adaptive headlamps for adverse weather conditions. Advanced luminous intensity distributions may avoid glaring oncoming traffic participants who are detected by image processing based driving assistance systems.</dc:description>
+          <dc:date>2011-12-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3184</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33360</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33360</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3184/koehler_susanne.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

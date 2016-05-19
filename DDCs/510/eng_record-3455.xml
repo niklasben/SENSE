@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3455">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3455</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Combinatorial Aspects of Zonotopal Algebra</dc:title>
+          <dc:title xml:lang="deu">Kombinatorische Aspekte zonotopischer Algebra</dc:title>
+          <dc:creator>Lenz, Matthias</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">Zonotopal algebra is the study of a family of pairs of dual vector spaces of multivariate polynomials that can be associated with a list of vectors X. It connects objects from combinatorics, geometry, and approximation theory. The origin of zonotopal algebra is the pair (D(X),P(X)), where D(X) denotes the Dahmen-Micchelli space that is spanned by the local pieces of the box spline and P(X) is the Macaulay inverse system of a certain power ideal. Further zonotopal spaces were recently studied by Holtz-Ron and others. A common property of all these spaces is that their Hilbert series is a matroid invariant. The present dissertation has four chapters. The first chapter contains an introduction to zonotopal algebra and some background material. In Chapter 2 there are two main results. The first is the construction of a canonical basis for D(X) that is dual to the canonical basis for P(X) that is already known. The second is the construction of a new family of zonotopal spaces that is far more general than the ones that were recently studied by Ardila-Postnikov, Holtz-Ron, Holtz-Ron-Xu, Li-Ron, and others. We call the underlying combinatorial structure of those spaces forward exchange matroid. A forward exchange matroid is an ordered matroid together with a subset of its set of bases that satisfies a weak version of the basis exchange axiom. In Chapter 3 we study hierarchical zonotopal power ideals and the corresponding P-spaces. We generalise and unify results by Ardila-Postnikov on power ideals and by Holtz-Ron and Holtz-Ron-Xu on (hierarchical) zonotopal spaces. The last chapter deals with matroid theory and its connections with zonotopal algebra. The main result is that f-vectors of matroid complexes of realisable matroids are log-concave. This was conjectured by Mason in 1972.</dc:description>
+          <dc:description xml:lang="deu">Zonotopische Algebra befasst sich mit einer Familie von Paaren dualer Vektorräume, die aus multivariaten Polynomen bestehen und die anhand einer Liste von Vektoren X konstruiert werden. Sie verbindet Objekte aus der Kombinatorik, Geometrie und Approximationstheorie. Der Ursprung der zonotopischen Algebra ist das Paar (D(X),P(X)). Hierbei bezeichnet D(X) den Dahmen-Micchelli Raum, der von den lokalen Stücken des Boxsplines aufgespannt wird und P(X) das Macaulaysche inverse System eines bestimmten Potenzideales. Weitere zonotopische Räume wurden kürzlich von Holtz-Ron und anderen untersucht. Eine gemeinsame Eigenschaft dieser Räume ist, dass ihre Hilbertreihen Matroidinvarianten sind. Die vorliegende Dissertation hat vier Kapitel. Das erste Kapitel enthält eine Einführung in zonotopische Algebra und Hintergrundmaterial. In Kapitel 2 gibt es zwei Hauptergebnisse. Das erste ist die Konstruktion einer kanonischen Basis für D(X), die zur bereits bekannten Basis für P(X) dual ist. Das zweite ist die Konstruktion einer neuen Familie zonotopischer Räume, die weitaus allgemeiner ist als die, die kürzlich von Ardila-Postnikov, Holtz-Ron, Holtz-Ron-Xu, Li-Ron und anderen betrachtet wurden. Wir nennen die diesen Räumen zugrundeliegende kombinatorische Struktur Vorwärtsaustauschmatroid. Ein Vorwärtsaustauschmatroid ist ein geordneter Matroid zusammen mit einer Teilmenge seiner Basen, die eine abgeschwächte Version des Basisaustauschaxiomes erfüllt. In Kapitel 3 untersuchen wir hierarchische zonotopische Potenzideale und die zugehörigen P-Räume. Wir verallgemeinern und vereinheitlichen Ergebnisse von Ardila-Postnikov über Potenzideale und von Holtz-Ron und Holtz-Ron-Xu über (hierarchische) zonotopische Räume. Das letzte Kapitel beschäftigt sich mit Matroidtheorie und den Verbindungen zu zonotopischer Algebra. Das Hauptergbnis ist das f-Vektoren von Matroidkomplexen realisierbarer Matroide logarithmisch konkav sind. Dies wurde 1972 von Mason vermutet.</dc:description>
+          <dc:date>2012-09-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3455</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36866</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36866</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3455/lenz_matthias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

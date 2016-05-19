@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1141">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1141</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Nonlinear transport properties of quantum dot systems</dc:title>
+          <dc:title xml:lang="deu">Nichtlineare Transporteigenschaften von Quantenpunktsystemen</dc:title>
+          <dc:creator>Kießlich, Gerold</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">This work deals with the theoretical investigation and description of nonlinear electronic transport through coupled quantum dot systems by means of various approaches. The essential aspects are the consideration of the Coulomb interaction between the carriers and the quantum coherence during the resonant tunneling process. Both provide temporal correlations in the tunneling current which manifest themselves in a characteristic manner in the current fluctuations. This means that for a deeper understanding of transport processes it is necessary not only to consider the average current, but also the shot noise behavior. Typical for current-voltage characteristics of coupled quantum dot systems is the emergence of peaks. Their physical origin and dependencies on the system parameters is elaborately discussed by means of a master equation model. Furthermore, scenarios of sub-Poissonian and super-Poissonian noise are systematically presented and analyzed. Therein, the interplay between the Coulomb interaction and Pauli's exclusion principle clearly emerges. For the quantum coherent description of transport with Coulomb interaction the Hartree-Fock approximation is considered. It provides reasonable results for the average current, but due to the neglect of quantum fluctuations the noise proves to be inadequate. In order to establish the connection between sequential and coherent tunneling, the mechanism of dephasing of the coherent transport process is investigated. The main focus here is on the comparison of different approaches without Coulomb interaction. In particular, the average current through two quantum dots coupled in series turns out to be independent of the degree of quantum coherence in the transport process. For weak and strong coupling between the quantum dots this also holds for the zero-frequency shot noise. However, for intermediate coupling strengths the noise is sensitive to coherence. Dephasing by elastic scattering in the framework of scattering matrix formalism indeed leads to the loss of the coherent features in the noise, but for sufficiently strong dephasing the limit of sequential tunneling cannot be reached within this approach. In order to fully characterize the transport process in this context the modern concept of full counting statistics is utilized. Particularly the third order cumulant shows a qualitatively similar dephasing behavior as the shot noise.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit beschäftigt sich mit der theoretischen Untersuchung und Beschreibung des nichtlinearen elektronischen Transports durch gekoppelte Quantenpunktsysteme mit Hilfe verschiedener Modelle. Wesentlich hierbei ist zum einen die Berücksichtigung der Coulomb-Wechselwirkung zwischen den Ladungsträgern und zum anderen die Quantenkohärenz im resonanten Tunnelprozess. Beide sorgen für zeitliche Korrelationen im Tunnelstrom, die sich auf charakteristische Weise in den Stromfluktuationen offenbaren. D.h. für ein tieferes Verständnis des Transportprozesses ist es notwendig, nicht nur den mittleren Strom, sondern auch das Stromrauschen zu studieren. Charakteristisch für Strom-Spannungs-Kennlinien von gekoppelten Quantenpunktsystemen ist das Auftreten von Peaks. Deren physikalischer Ursprung und die Abhängigkeit von systemspezifischen Parametern wird ausführlich in einem Mastergleichungsmodell diskutiert. Darüberhinaus werden systematisch Szenarien für Sub-Poisson- und Super-Poisson-Rauschen aufgezeigt und analysiert. Dabei tritt das Wechselspiel zwischen Coulomb-Wechselwirkung und Pauli-Prinzip in den zeitlichen Korrelationen des Tunnelprozess deutlich zutage. Für die quantenkohärente Beschreibung des Transports unter der Berücksichtigung der Coulomb-Wechselwirkung wird die Hartree-Fock-Näherung betrachtet. Es zeigt sich, dass sie zwar für den nichtlinearen Strom zuverlässige Ergebnisse liefert, aber auf Grund der Vernachlässigung von Quantenfluktuationen das Rauschen nicht hinreichend wiedergibt. Um die Verbindung zwischen sequentiellem und kohärentem Tunneln herzustellen, wird der Mechanismus der Dephasierung des kohärenten Transports untersucht. Im Vordergrund steht hierbei der Vergleich verschiedener Modellansätze ohne Coulomb-Wechselwirkung. Im Speziellen zeigt sich, dass der mittlere Strom durch zwei seriell gekoppelte Quantenpunkte unabhängig ist vom Grad der Kohärenz im Transportprozess. Für schwache und starke Kopplung zwischen den Quantenpunkten gilt dies auch für das Nullfrequenz-Stromrauschen. Demgegenüber ist es für mittlere Kopplungen sensitiv auf Kohärenz. Dephasierung durch elastische Streuung im Streumatrixformalismus führt in diesem Bereich zwar zum Verschwinden der kohärenten Merkmale, im Limes hinreichend starker Dephasierung weicht es allerdings vom Rauschverhalten des sequentiellen Tunnelns ab. Um in diesem Zusammenhang den Transportprozess vollständig zu charakterisieren, wird das moderne Konzept der Elektronen-Zählstatistik benutzt. Insbesondere zeigt die Kumulante dritter Ordnung ein qualitativ ähnliches Verhalten bezüglich des Dephasierens wie das Schrotrauschen.</dc:description>
+          <dc:date>2005-11-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1141</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11303</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11303</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1141/kiesslich_gerold.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

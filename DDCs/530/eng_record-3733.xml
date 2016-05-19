@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3733">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3733</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Electronic and Magnetic Properties of Impurities Embedded in Non-Magnetic Finite Hosts</dc:title>
+          <dc:title xml:lang="deu">Elektronische und magnetische Eigenschaften von Dotieratomen in finiten nicht-magnetischen Wirtsmaterialien</dc:title>
+          <dc:creator>Hirsch, Konstantin</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The electronic and magnetic properties of a single transition metal dopant (Sc, Ti, V, Cr) embedded in a finite gold host were studied. This was done by applying x-ray absorption and x-ray circular dichroism spectroscopy as well as density functional theory to size selected cationic gas phase clusters. The electronic structure of the impurity sensitively depends on the nature of the dopant as well as on quantum confinement in the host cluster and their interplay. An odd-even effect of electron localization in TiAu_n^+ clusters is foreshadowed in ScAu_n^+ clusters, whereas the local electronic structure in VAu_n^+ clusters is almost independent of the gold host size. However, for all investigated systems a strong tendency was found to delocalize an even number of electrons whenever allowed by the given boundary conditions. The Anderson impurity model [1] describes the interaction of a single magnetic impurity with a homogenous free electron gas in a bulk sample. However, in case of a finite system the influence of an energy gap in the hosts density of states as to be accounted for. This was done within this thesis by studying the problem using a model Hamiltonian in tight binding approximation. Thus, it could be shown that the description of finite systems within the Anderson impurity model breaks down in principle. Especially the magnetic to non-magnetic transition threshold is predicted incorrectly. In addition it was shown that the spin polarization of an impurity atom is substantially stabilized by the presence of an energy gap in the host density of states. Still, the size dependence of the spin magnetic moment of chromium in almost fully spin polarized CrAu_n^+ clusters is essentially in agreement with the Anderson impurity model, since it is far from a magnetic to non-magnetic transition. Therefore, only a scaling of the spin magnetic moment of the impurity as a function of the energy gap could be observed, which was confirmed by substituting the host material from gold to copper. [1] P. W. Anderson, Phys. Rev. 124, 41 (1961).</dc:description>
+          <dc:description xml:lang="deu">Die elektronischen und magnetischen Eigenschaften einzelner Übergangsmetallatome (Sc, Ti, V, Cr) eingebettet in einen finiten Wirt aus Gold wurde sowohl mit Hilfe von Röntgenabsorptionsspektroskopie und zirkularem Röntgendichroismus als auch mit Hilfe von Dichtefunktionaltheorie am Beispiel von größenselektierten kationischen Clustern in der Gasphase untersucht. Die elektronische Struktur des Dotieratoms hängt sehr empfindlich von der Natur des Fremdatoms, von Quanteneffekten im Wirt sowie deren Zusammensspiel ab. Gerade-ungerade Variationen in der Lokalisierung von Elektronen des Dotieratoms findet man in TiAu_n^+ Clustern und andeutungsweise bereits in ScAu_n^+ Clustern. In VAu_n^+ Clustern hingegen ist die lokale elektronische Struktur des Dotieratoms unabhängig von der Größe des Wirtsclusters. Dennoch lässt sich schlußfolgern, dass es in allen untersuchten Systemen die Tendenz gibt eine gerade Anzahl von Elektronen zu delokalisieren, sofern dies durch die gegebenen Randbedingungen möglich ist. Das Anderson impurity model [1] beschreibt die Wechselwirkung eines einzelnen magnetischen Dotieratoms mit einem homogenen Elektronengas in einer ausgedehnten Festkörperprobe. Für finite Systeme hingegen muss der Einfluß einer Energielücke in der Zustandsdichte des Wirstmaterials berücksichtigt werden. Dies wurde in der vorliegenden Dissertation mit Hilfe eines Hamiltonoperators in tight binding Näherung getan. Damit konnte gezeigt werden, dass für finite Systeme grundsätzlich die Beschreibung im Anderson impurity model zusammenbricht, und insbesondere der Übergang von magnetischem zu unmagnetischem Verhalten falsch vorhergesagt wird. Es konnte weiterhin gezeigt werden, dass die Energielücke zu einer deutlichen Stabilisierung des Spinmoments des Dotieratoms beiträgt. Die größenabhängige Variation des Spinmoments in nahezu vollständig spinpolarisierten CrAu_n^+ Clustern ist dennoch im Wesentlichen in Übereinstimmung mit dem Anderson impurity model [1], da diese Systeme weit vom Übergang von magnetischem zu unmagnetischem Verhalten entfernt sind. Es ergibt sich eine Skalierung des Spinmoments mit der Größe der Bandlücke im Wirtscluster, was durch Austausch des Wirtsmaterials von Gold zu Kupfer bestätigt werden konnte. [1] P. W. Anderson, Phys. Rev. 124, 41 (1961).</dc:description>
+          <dc:date>2013-06-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3733</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40313</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40313</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3733/hirsch_konstantin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3360">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3360</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Real-time depth imaging</dc:title>
+          <dc:title xml:lang="deu">Echtzeitfähige Verfahren zur Verbesserung von Tiefenbildern</dc:title>
+          <dc:creator>Hahne, Uwe</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">This thesis depicts approaches toward real-time depth sensing. While humans are very good at estimating distances and hence are able to smoothly control vehicles and their own movements, machines often lack the ability to sense their environment in a manner comparable to humans. This discrepancy prevents the automation of certain job steps. We assume that further enhancement of depth sensing technologies might change this fact. We examine to what extend time-of-flight (ToF) cameras are able to provide reliable depth images in real-time. We discuss current issues with existing real-time imaging methods and technologies in detail and present several approaches to enhance real-time depth imaging. We focus on ToF imaging and the utilization of ToF cameras based on the photonic mixer device (PMD) principle. These cameras provide per pixel distance information in real-time. However, the measurement contains several error sources. We present approaches to indicate measurement errors and to determine the reliability of the data from these sensors. If the reliability is known, combining the data with other sensors will become possible. We describe such a combination of ToF and stereo cameras that enables new interactive applications in the field of computer graphics. In addition, we show how the fusion of multiple exposures entails improved measurements and extended applications.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit beschreibt Lösungsstrategien zur Realisierung bildbasierter Tiefenmessungen in Echtzeit. Während Menschen sehr gut im Schätzen von Entfernungen sind und somit ihre eigenen Bewegungen und auch Fahrzeuge problemlos steuern können, fehlt Maschinen häufig die Fähigkeit, ihre Umgebung in einer dem Menschen vergleichbaren Weise wahrzunehmen. Diese Diskrepanz verhindert es, dass bestimmte Arbeitsschritte automatisiert werden können. Wir gehen davon aus, dass eine Verbesserung der Methoden zur bildbasierten Tiefenmessung einen entscheidenden Schritt darstellt, diese Lücke zu schließen. Wir untersuchen, inwieweit Tiefenbildkameras verlässliche Daten in Echtzeit liefern. Dabei zeigen wir die Probleme existierender Methoden und Technologien auf und stellen verschiedene Ansätze vor, wie die bildbasierte Tiefenmessung in Echtzeit verbessert werden kann. Wir konzentrieren uns auf sogenannte Lichtlaufzeitverfahren und damit im Speziellen den Einsatz einer Tiefenbildkamera, die auf dem Prinzip des Photonen-Misch-Detektors beruht. Derartige Kameras ermöglichen eine pixelbasierte Distanzmessung in Echtzeit. Allerdings wird die Messung durch mehrere Fehlerquellen beeinflusst. Wir präsentieren Ansätze zur Erkennung dieser Fehler und damit eine Möglichkeit zur Bestimmung der Zuverlässigkeit der Daten dieser Sensoren. Wenn die Zuverlässigkeit bekannt ist, lassen sich die Daten mit denen anderer Sensoren kombinieren. Wir beschreiben eine solche Kombination aus Tiefenbild- und Stereokamera, die neuartige, interaktive Anwendungen auf dem Gebiet der Computergrafik ermöglicht. Darüber hinaus zeigen wir, dass die Fusion von Mehrfachbelichtungen sowohl verbesserte Messungen als auch erweiterte Anwendungsmöglichkeiten mit sich bringt.</dc:description>
+          <dc:date>2012-06-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3360</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35649</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35649</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3360/hahne_uwe.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

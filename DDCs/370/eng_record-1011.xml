@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1011">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1011</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:370</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zum reformpädagogischen Potential des Einsatzes Neuer Medien in der Lehre am Beispiel des Projekts TeleStudent</dc:title>
+          <dc:creator>Kindiger, Susanne</dc:creator>
+          <dc:subject>ddc:370</dc:subject>
+          <dc:description xml:lang="deu">Von Überfüllung und langen Studienzeiten, von überforderten Studenten und von der Lehre als Stiefkind der Massenuniversität (Hamm, Müller-Böling 1997: 9) ist häufig die Rede, wenn vom Ist-Zustand der deutschen Hochschulen gesprochen wird. Der Ruf nach Reformen wird laut. Neben der strukturellen Veränderung steht nicht selten ebenfalls der Versuch, Neue Medien stärker in die Lehre einzubinden. Zahlreiche Projekte demonstrieren, welche Möglichkeiten der Einsatz des Mediums Computer bietet. So auch das Projekt TeleStudent, das vom 01.05.1997 bis zum 31.07.1999 an der TU-Berlin durchgeführt wurde. Ziel war es, in regulär stattfindenden Veranstaltungen die Möglichkeiten von I&amp;K-Technologie zu erproben. Es wurden sowohl geisteswissenschaftliche als auch naturwissenschaftliche Fächer berücksichtigt. Ca. 250 Studierenden und ca. 20 Dozenten nahmen am Projekt teil. Während des Projektverlaufs zeigte sich sehr deutlich, dass ein erfolgreicher Einsatz von I&amp;K-Technologie fundierte didaktische Konzepte erforderlich macht. Frontalunterricht, wie er immer noch in sehr vielen Fällen üblich ist, ist hier zum Scheitern verurteilt. In meiner Doktorarbeit konnte ich zeigen, dass der Einsatz Neuer Medien in der Lehre als Katalysator zur Einlösung reformpädagogischer Forderungen wirkt. Was von den Reformpädagogen zu Beginn des 20.Jahrhunderts eingefordert und exemplarisch umgesetzt wurde, gewinnt zu Beginn des 21. Jahrhunderts durch den Einsatz Neuer Medien an Aktualität: der Computer verändert die Lernsituation und damit auch das Rollenverhalten. Die Überlegungen der Reformpädagogen sollten zur Veränderung der Unterrichtsgestaltung und des Rollenverhaltens von Lehrenden und Lernenden führen. Der Einsatz Neuer Medien hingegen führt zwangsläufig zu einer grundlegend veränderten Unterrichtssituation und damit auch zu einer veränderten Lernsituation. Dies betrifft insbesondere die Selbsttätigkeit des Lernenden, die Vermittlung von Methodenkompetenz, das Bereitstellen von Arbeitsmaterialien und die Motivierung der Lernenden.</dc:description>
+          <dc:date>2005-08-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1011</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10019</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10019</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1011/kindiger_susanne.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

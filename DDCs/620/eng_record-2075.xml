@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2075">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2075</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Finite-Difference-Frequency-Domain Simulation of Electrically Large Microwave Structures using PML and Internal Ports</dc:title>
+          <dc:title xml:lang="deu">Anwendung von PML-Wänden und internen Toren in der Simulation elektrisch großer Mikrowellenstrukturen mit Hilfe des Verfahrens der Finiten Differenzen im Frequenzbereich</dc:title>
+          <dc:creator>Talukder, Prodyut Kumar</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">For EM simulations of complex MMIC structures, the usage of PML (Perfectly Matched Layer) absorbing boundary conditions is inevitable. PML provides a reflectionless open boundary condition and thus helps to keep the mesh size within a reasonable limit. On the other hand, structures completely enclosed by PML walls do not allow excitation by waveguide ports but require so-called internal ports. Such ports, which are introduced between two or more mesh points inside the structure, facilitate also to include lumped elements or entire networks thus enabling one to study active circuit, for instance. This work treats both the PML boundary condition and the internal ports, in the framework of the frequency-domain Finite-Difference method (FDFD). It is shown that the presence of PML walls enlarges the magnitude range of the system matrix coefficients, encountered when calculating the fields. This makes the system matrix ill-conditioned and increases the number of iterations when solving the system and may even render this PML totally unusable for most practical applications. It is found that by avoiding any overlapping PML walls and by making the PML cell sizes the largest ones in the whole mesh the high count of the number of iterations can be lowered drastically. The mode spectrum at waveguide ports with lateral PML walls consists of artificial PML and physical modes. We find that the coupling between PML modes and physical modes must be analyzed thoroughly in order to filter the artificial PML modes out in a reliable way. Regarding the internal port, a line-current formulation proves to be the only practical choice. The parasitic inductances associated with it are found to be of significant influence. A closed-form expression for these inductances is developed in order to determine their values so that it can be deembedded from the results. The optimized PML and internal port formulations are verified for the example of a 24 GHz slot antenna with integrated front-end MMIC, suitable for short range communications and sensor networks.</dc:description>
+          <dc:description xml:lang="deu">Bei Berechnungen des elektromagnetischen Verhaltens von komplexen MMIC-Strukturen ist die Verwendung von absorbierenden Randbedingungen in Form des sogenannten Perfectly Matched Layer (PML) unvermeidlich. Allseitig durch PML-Wände reflexionsfrei abgeschlossene Raumbereiche helfen die Anzahl der Diskretisierungszellen zu reduzieren. Sie lassen aber auch keine Wellenleitertore (mit Öffnungen in PML-Regionen) zu. In diesen Fällen sind interne Tore erforderlich. Derartige Tore erlauben darüber hinaus das Einbetten diskreter Elemente und ganzer Netzwerke und damit z.B. die Analyse aktiver Strukturen. Diese Arbeit behandelt sowohl die PML-Randbedingung als auch die internen Tore und beschreibt ihr Verhalten im Rahmen des Finite-Differenzen-Verfahrens im Frequenzbereich (FDFD). Dabei werden insbesondere die unerwünschen parasitären Effekte ausführlich untersucht. Zur Lösung des bei der FDFD-Methode auftretenden Gleichungssystems, das den Zusammenhang der elektromagnetischen Felder in der zu berechnenden Struktur beschreibt, wird ein iteratives (SSOR-)Verfahren benutzt. Die Konvergenz dieses Verfahrens wird sehr stark von der Kondition der Matrix bestimmt. Eine schlecht konditionierte Matrix vergrößert die Zahl der Iterationen und damit die Rechenzeit beträchtlich. Leider tritt dieser Fall bei der Anwendung von PML-Wänden deutlich in Erscheinung. Trotzdem kann die Zahl der Iterationen auf ein vernünftiges Maß beschränkt werden, wenn bestimmte Richtlinien eingehalten werden. In dieser Arbeit wurden verschiedene Möglichkeiten zur Reduzierung ansonsten hoher Iterationszahlen untersucht und bewertet, was von großem praktischen Nutzen ist. In Strukturen, bei denen die PML-Wände als Berandung eines Wellenleiters eingesetzt werden, besteht das Modenspektrum (z.B. des entsprechenden Wellenleitertores) aus den physikalisch sinnvollen sowie aus unphysikalischen, künstlichen PML-Moden. Die künstlichen Moden lassen sich häufig durch geeignete Kriterien herausfiltern. Aber Beispiele zeigen, daß in vielen Fällen das Separieren physikalischer und künstlicher Moden nur nach einer umfassenden Betrachtung möglich ist. Die Beschreibung interner Tore kann mit verschiedenen Ansätzen durchgeführt werden. Tatsächlich zeigt sich aber, daß nur der Ansatz mit der Linienstromformulierung praktikabel ist. Neben der reinen Implementierung werden in der vorliegenden Arbeit auch die parasitären Effekte wie die mit dem internen Tor verknüpften Induktivitäten diskutiert und Abschätzungsformeln entwickelt. Abschließend wird der Einsatz der optimierten PML und der internen Tore am Beispiel einer 24 GHz-Schlitzantenne mit integriertem Frontend-MMIC, verwendbar für Kurzstrecken-kommunikation und Sensor-Netze, demonstriert.</dc:description>
+          <dc:date>2009-03-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2075</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21854</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21854</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2075/original_talukder_prodyut.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2075/talukder_prodyut.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

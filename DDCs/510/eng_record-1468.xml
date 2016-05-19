@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1468">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1468</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Numerical Solution of Differential-Algebraic Systems Arising in Circuit Simulation</dc:title>
+          <dc:title xml:lang="deu">Numerische Lösung differential-algebraischer Systeme aus der Schaltungssimulation</dc:title>
+          <dc:creator>Bächle, Simone</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">In this thesis, quasi-linear Differential-Algebraic Equations (DAE) as they arise in circuit simulation are examined. The circuit is described with help of a netlist, e.g. a list which contains the information about all devices in the circuit and the way these devices are connected to each other. With the help of this netlist a DAE is created by using either the classical or the charge oriented Modified Nodal Analysis. One focus of this thesis is the graph theoretical structure of the circuit, which is reflected in the properties of the circuit DAE. For example, it is known that it is possible under certain conditions to determine the differentiation index of such a DAE based on the graph of the circuit. Moreover, it is possible to determine the derivatives of equations which yield hidden constraints. In the course of this work, two methods have been developed that use this structural information to reduce the differentiation index of a circuit DAE if the DAE has differentiation index 2. To this end the graph theoretical foundations are laid out and applied to the existing results. It is shown that because of the graph theoretical results both index reduction methods work without time consuming rank decisions. Therefore these methods are applicable to large circuits. Moreover, the second method which was developed for DAEs arising from the charge oriented Modified Nodal Analysis allows for a physical interpretation. Hence this method not only can be realized as a numerical method that alters the DAE in order to reduce the differentiation index, but also as a method that alters the circuit itself. The second approach has the advantage that existing software for circuit simulation only has to be adapted slightly to use the index reduction method. Since the charge oriented Modified Nodal Analysis is preferred in industrial circuit simulation, the academical circuit simulator PSIM by Robert Melville has been adapted to use this variant to produce the circuit DAE. Following this step the differentiation index of the resulting DAE is determined by graph theoretical algorithms and the index reduction method for DAEs from charge oriented Modified Nodal Analysis as proposed in this thesis is applied. The method has been tested on various examples. A comparison with the numerical results obtained without reducing the differentiation index shows the robustness and efficiency of the method.</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Dissertationsschrift werden quasi-lineare differential-Algebraische Gleichungen (DAE), wie sie in der Schaltungssimulation auftreten, untersucht. Dabei wird von einer Beschreibung der Schaltung als Netzliste, d.h. als Liste aller in der Schaltung enthaltener Bauteile sowie deren Verschaltung, ausgegangen. An Hand dieser Netzliste wird dann mit Hilfe der klassischen oder der ladungsorientierten Modifizierten Knotenanalyse eine DAE gewonnen. Ein Schwerpunkt der Arbeit liegt auf der graphentheoretischen Struktur der Schaltung, die sich in den Eigenschaften der Schaltungs-DAE widerspiegelt. So ist zum Beispiel bekannt, dass sich der Differentationsindex einer solchen DAE unter bestimmten Voraussetzungen aus dem Netzwerkgraphen der Schaltung bestimmen läßt. Weiterhin ist bekannt, dass sich im Zuge dieser graphentheoretischen Indexbestimmung ebenso die Gleichungen bestimmen lassen, aus deren Ableitungen sich versteckte Zwangsbedingungen ergeben. Im Rahmen dieser Arbeit wurden zwei Verfahren entwickelt, die diese strukturellen Informationen nutzen, um den Differentationsindex zu reduzieren, falls die betrachtete Schaltungs-DAE Differentationsindex 2 hat. Dazu werden die graphentheoretischen Grundlagen erarbeitet und auf bestehende Ergebnisse angewandt. Es wird gezeigt, dass auf Grund dieser graphentheoretischen Grundlagen beide Verfahren zur Indexreduktion ohne rechenaufwendige Rangbestimmungen auskommen und somit auch für größere Schaltungen geeignet sind. Zu dem läßt das zweite Indexreduktionsverfahren, das für DAEs aus der ladungsorientierten Modifizierten Knotenanalyse entwickelt wurde, eine physikalische Deutung als Modifikation der zu Grunde liegenden Schaltung zu. Daher kann dieses Indexreduktionsverfahren nicht nur als rein numerisches Verfahren, das die bestehende Schaltungs-DAE verändert, sonder auch als Verfahren, welches die der DAE zu Grunde liegende Schaltung verändert, realisiert werden kann. Dieses Vorgehen hat den Vorteil, dass bestehende Simulationssoftware nur wenig angepasst werden muss. Da in der Industrie die ladungsorientierte Modifizierte Knotenanlyse gegenüber der klassischen Variante bevorzugt wird, wurde der akademische Schaltungssimulator PSIM von Robert Melville so modifiziert, dass die ladungsorientiere Formulierung zur Modellierung der Schaltung verwendet wird. Danach wird der Differentationsindex der erzeugten DAE mit Hilfe graphentheoretischer Methoden bestimmt und anschliessend die in dieser Arbeit vorgestellte Indexreduktion für diese Art von DAEs durchgeführt. Tests anhand von einigen Beispielen zeigen die Effizienz und Robustheit dieser Methode im Vergleich zur Simulation der Schaltungen ohne Indexreduktion.</dc:description>
+          <dc:date>2007-03-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1468</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15241</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15241</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1468/baechle_simone.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

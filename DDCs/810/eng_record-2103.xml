@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2103">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2103</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:810</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The red rover, a tale of the sea.</dc:title>
+          <dc:creator>Cooper, James Fenimore</dc:creator>
+          <dc:subject>ddc:810</dc:subject>
+          <dc:description xml:lang="eng">Sea novel by James Fenimore Cooper, set in the mid-eighteenth century at the North American coast. In the guise of a common sailor the young Harry Wilder sets out on a mission to capture the mysterious and legendary pirate Red Rover. Digitized (with OCR). Printed version published 1885 by Lovell as volume 10 of Cooper’s works. Location: Technische Universität Berlin, Universitätsbibliothek, Zentralbibliothek, Rare Books Call number: 8TA13136</dc:description>
+          <dc:description xml:lang="deu">Seefahrer-Roman von James Fenimore Cooper, der in der Mitte des 18. Jahrhunderts vor der Küste Nordamerikas spielt. Der junge Harry Wilder will den Roten Freibeuter, den gefürchteten Piraten, stellen, der immer wieder die Segelschiffe der britischen Krone überfällt. Digitalisiert (mit OCR). Gedruckte Version als Band 10 von Cooper’ Works im Verlag Lovell 1885 erschienen. Standort: Technische Universität Berlin, Universitätsbibliothek, Zentralbibliothek, Rara Signatur: 8TA13136</dc:description>
+          <dc:date>2009-04-06</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2103</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22056</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22056</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2103/The_red_rover_coopers_work.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

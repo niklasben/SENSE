@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1002">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1002</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analysis of physical constraints in an optical burst switching network</dc:title>
+          <dc:creator>Buchta, Hao</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit leistet einen Beitrag zu den Untersuchungen von optischen Burst-vermittelten Netzen (OBS). Die Leistungsfähigkeit, die technische Realisierbarkeit und die entstehende Komplexität solcher Netze wird eingehend untersucht. Verschiedene physikalische und technologische Beschränkungen in einem OBS-Netzwerk werden unter Berücksichtigung der heutigen und der zukünftig zu erwartenden Technologien analysiert.</dc:description>
+          <dc:description xml:lang="eng">This work represents a contribution to the investigation of Optical Burst Switching (OBS) networks. Recently, there have been major effords to adapt the OBS concept to WDM-based optical networks. In this context, the required complexity and technical feaibility of an OBS network are investigated in this work. Different physical and technological constraints in an OBS network are analysed by considering available and expected technologies in the short and long term.</dc:description>
+          <dc:date>2005-08-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1002</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9952</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9952</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1002/buchta_hao.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

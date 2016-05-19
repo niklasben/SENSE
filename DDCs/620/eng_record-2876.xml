@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2876">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2876</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Efficient Integration of Planar Antennas Considering Electromagnetic Interactions at Board Level</dc:title>
+          <dc:title xml:lang="deu">Effiziente Integration von Planarantennen auf Board-Ebene unter Berücksichtigung von Elektromagnetischen Wechselwirkungen</dc:title>
+          <dc:creator>Ohnimus, Florian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The (quasi) millimeter-wave range provides large spectral bandwidths for wireless short range microelectronic communication systems. Efficient planar antennas, with dimensions on the order of millimeters, are integrated at board level using printed circuit board technologies, thus, facilitating the realization of compact and low cost wireless modules. However, electromagnetic interactions occurring between planar antennas and board components sharing the same substrate may detune the antenna characteristics and also cause a high amount of undesired electromagnetic coupling at board level. Therefore, in this work, an approach for defining a block out region around the planar antenna, where no board components should be placed is developed, thereby ensuring that the antenna characteristics remain within tolerable limits when the antenna is integrated at board level. This region, bounded by what will be termed the electromagnetic antenna boundary, is determined by evaluating the reactive electromagnetic power density excited on the substrate and deducing a threshold value. Furthermore, a method for efficient calculation of electromagnetic coupling between planar antennas and transmission lines routed outside the electromagnetic antenna boundary is developed. This method is based entirely on a post processing step to field simulations i.e., the coupling is calculated based on the previously computed field distribution excited by the antenna on the ground plane. The coupling model uses the theory of field excited transmission lines together with the Baum-Liu-Tesche integral equations for obtaining the terminal voltages of the transmission line and, hence, the coupling terms. Finally, planar shielding configurations including a mushroom-type electromagnetic bandgap structure and a surface wave reduced patch antenna, suitable for integration on low cost printed circuit boards, were implemented, characterized and compared. Based on the proposed approaches, methods and results presented in this work, numerical full-wave simulation efforts as well as trial-and-error iterations are considerably reduced during the integration of planar antennas, thereby saving time and cost during the design process of compact wireless modules.</dc:description>
+          <dc:description xml:lang="deu">Der Quasi-Millimeterwellenbereich bietet große spektrale Bandbreiten für drahtlose mikroelektronische Kommunikationssysteme zum Datenaustausch über kurze Entfernungen. Effiziente Planarantennen, mit Abmessungen von einigen Millimetern, werden mittels Leiterplattentechnologien auf Board-Ebene integriert und ermöglichen somit die Realisierung von kompakten und kostengünstigen drahtlosen Funkmodulen. Jedoch führen elektromagnetische Interaktionen zwischen Planarantennen und Board-Komponenten auf demselben Substrat zu einer möglichen Verstimmung der Antennencharakteristika und verursachen ein hohes Maß an elektromagnetischer Kopplung auf Board-Ebene. Aus diesem Grund wird in dieser Arbeit ein neuer Ansatz zur Definition einer Blockout Region um die Planarantenne entwickelt, innerhalb der keine Board-Komponenten platziert werden sollten, um die Antennencharakteristika nach der Integration auf Board-Ebene innerhalb tolerierbarer Grenzen zu halten. Der Rand dieser Region wird als elektromagnetische Antennenumgrenzung (engl., electromagnetic antenna boundary) bezeichnet und wird durch die Evaluierung der von der Antenne angeregten reaktiven elektromagnetischen Leistungsdichte auf dem Substrat sowie der Festlegung eines Schwellwertes ermittelt. Des Weiteren wird eine Methode zur effizienten Berechnung der elektromagnetischen Kopplung zwischen Planarantennen und Transmissionsleitungen, die außerhalb der elektromagnetischen Antennenumgrenzung geroutet werden, entwickelt. Diese Methode basiert ausschließlich auf einem Post-Prozess-Schritt zu Feldsimulationen, d.h. die Kopplung wird basierend auf der zuvor simulierten von der Antenne auf der Massefläche angeregten Feldverteilung berechnet. Das Kopplungsmodel benutzt die Theorie der feldangeregten Transmissionsleitungen zusammen mit den Baum-Liu-Tesche Integralgleichungen, um die Terminalspannungen der Transmissionsleitung und somit die Kopplungsterme zu erhalten. Zuletzt wurden Planar-Schirmungskonfigurationen einschließlich einer pilzartigen elektromagnetischen Bandsperre und einer oberflächenwellenreduzierten Patch-Antenne, die zur Integration in kostengünstigen Leiterplatten geeignet sind, implementiert, charakterisiert und verglichen. Basierend auf den in dieser Arbeit vorgeschlagenen Ansätzen, Methoden und Resultaten, werden numerische Simulationsaufwände sowie Trial-und-Error-Iterationen während der Integration von Planarantennen maßgeblich reduziert. Dadurch werden Zeit und Kosten in der Entwurfsphase von kompakten drahtlosen Modulen eingespart.</dc:description>
+          <dc:date>2011-05-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2876</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30388</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30388</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2876/ohnimus_florian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

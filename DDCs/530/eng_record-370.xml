@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:370">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:370</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Optisch-optische Doppelresonanzexperimente an Kalium-Argon und Bestimmung der adiabatischen Potentiale sowie der Spin-Bahn-Funktion im B²Σ - A²Π - System</dc:title>
+          <dc:title xml:lang="eng">Optical-optical double resonance experiments on Potassium-Argon and determination of the adiabatic potentials as well as the spin-orbit function in the B²Σ - A²Π - system</dc:title>
+          <dc:creator>Braune, Markus Manfred</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird über die laserspektroskopische Untersuchung des van der Waals-Moleküls Kalium-Argon berichtet. Die KAr-Moleküle wurden in einer Überschall-Molekülstrahlapparatur erzeugt, in der ein Gemisch aus Kaliumdampf und Argon-Gas durch eine schmale Düse in ein Vakuum expandiert. Im Überschallstrahl wurden die KAr-Moleküle durch einen kontinuierlich durchstimmbaren Laser angeregt und die induzierte Fluoreszenz gemessen. Auf diese Weise wurden mit der Doppelresonanzmethode Experimente im Wellenzahlbereich zwischen 13048 cm-1 und 13073 cm-1 durchgeführt. Außerdem wurde das Absorptionsspektrum von KAr von 13032 cm-1 bis 13049 cm-1 rotationsaufgelöst aufgenommen, wodurch nun zusammen mit den Ergebnissen früherer Untersuchungen ein lückenloses Anregungsspektrum von 12866 cm-1 bis 13080 cm-1 vorliegt. Mit Hilfe der Doppelresonanzmessungen konnten erstmalig die drei untersten Schwingungsniveaus v = 0,1,2 des angeregten elektronischen Zustands B2Σ identifiziert werden. Durch Auswertung von 243 Absorptionslinien und 65 Doppelresonanzsignalen konnten die Molekülparameter dieser Niveaus ermittelt werden. Weiterhin konnten drei lokale Störungen zwischen Schwingungsniveaus der Zustände B2Σ und A2Π3/2 beobachtet werden. Im Fall der Störung B2Σ,v = 1 - A2Π3/2,v = 14 gelang eine quantitative Analyse. Darin wurden Molekülkonstanten des Niveaus A2Π3/2,v = 14 und der Störparameter B14,1 berechnet. Für die ersten angeregten Zustände B2Σ und A2Π wurden in einem quantenmechanischen Verfahren interatomare Wechselwirkungspotentiale berechnet. Dazu wurden die Parameter geeigneter Potentialfunktionen durch numerisches Lösen der Schrödingergleichung an die experimentell bestimmten Schwingungsniveaus angepaßt. Für den B2Σ-Zustand, dessen Potential hier aus den nun vorliegenden Daten zu den Schwingungsniveaus v = 0...6 erstmals ermittelt wurde, geschah dies zunächst in einer Einzelanpassung. Darüberhinaus wurde unter Hinzunahme der experimentellen Daten zu den Schwingungsniveaus v = 6...11 der Zustände A2Π1/2 und A2Π3/2 eine globale Berechnung unter Verwendung einer adiabatischen Näherung vorgenommen, die die Wechselwirkung der Zustände A2Π1/2 und B2Σ durch den Spin-Bahn-Operator berücksichtigt. Mit dieser Anpassung gelang neben der Berechnung der adiabatischen Potentiale für B2Σ, A2Π1/2 und A2Π3/2 auch eine Bestimmung der Spin-Bahn-Funktion A(R). Für den A2Π1/2-Zustand konnte im Bereich der Störung ein gegenüber früheren Ergebnissen verbessertes Potential ermittelt werden. Die Resultate für die Gleichgewichtsparameter der bestimmten adiabatischen Potentiale sind: &lt;center&gt; &lt;p&gt; &lt;table border="4" cellpadding="0" cellspacing="2"&gt; &lt;tr&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;A&lt;sup&gt;2&lt;/sup&gt;Π&lt;sub&gt;1/2&lt;/sub&gt;&lt;/td&gt; &lt;td&gt;A&lt;sup&gt;2&lt;/sup&gt; Π&lt;sub&gt;3/2&lt;/sub&gt;&lt;/td&gt; &lt;td&gt;B&lt;sup&gt;2&lt;/sup&gt;Σ&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;I&gt;R&lt;/i&gt;&lt;sub&gt;e&lt;/sub&gt; in Å&lt;/td&gt; &lt;td&gt; 3.30(2)&lt;/td&gt; &lt;td&gt; 3.31(2)&lt;/td&gt; &lt;td&gt; 6,99(2)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;I&gt;D&lt;/i&gt;&lt;sub&gt;e &lt;/sub&gt; in cm&lt;sup&gt;-1&lt;/sup&gt;&lt;/td&gt; &lt;td&gt; 424(3)&lt;/td&gt; &lt;td&gt; 438(3)&lt;/td&gt; &lt;td&gt; 26.06(4)&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/p&gt;&lt;/center&gt;</dc:description>
+          <dc:date>2002-12-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/370</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3657</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3657</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/370/braune_markus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

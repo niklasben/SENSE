@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:489">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:489</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung des thermischen und mechanischen Hystereseverhaltens von einkristallinen Cu82Al14Ni4-Formgedächtnislegierungen</dc:title>
+          <dc:title xml:lang="eng">Investigation of thermal and mechanical hysteresis behaviour of Cu82Al14Ni4 single crystals</dc:title>
+          <dc:creator>Uebel, Andreas</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Die Untersuchung der Umwandlungshysterese der thermoelastischen martensitischen Umwandlung bildet einen Schwerpunkt für die grundlegende und praxisorientierte Entwicklung von Formgedächtnislegierungen. Daher wurde, am Beispiel der technisch bedeutsamen Formgedächtnislegierung Cu-Al-Ni, der Zusammenhang komplexer thermischer und mechanischer Hysteresen mit den an der martensitischen Umwandlung beteiligten treibenden Kräfte näher untersucht. Im Hinblick auf den praktischen Einsatz dieser Legierung wurde eine Methodik für die quantitative Spezifizierung der technisch relevanten Hystereseparameter entwickelt. Erstmalig wurde eine gemischte thermische Hysterese gemessen, die in Form eines schmalen und breiten Teilbereiches durch Überlagerung einer athermen und schlagartigen Umwandlungskinetik hervorgerufen wurde. Die mechanische Hysterese erbrachte ebenfalls neue Formen, die sich durch ausgeprägte sowohl positive als auch negative Dehnungsschläge von mehr als einem Prozent auszeichneten. Letztere konnten auf ein Verschwinden des Verformungsträgers durch einen martensitischen Phasenumschlag zurückgeführt werden. Das Innere der thermischen Hysterese wies keine Abhängigkeit von der Temperatur auf, was eine vollständige Dissipation der elastischen Energie der Martensitkristalle impliziert. Die innere mechanische Hysterese zeigte dagegen eine nahezu vollständige Speicherung dieser Energie. Zur Quantifizierung der elastischen Energie wurde ein spezifischer Energieparameter eingeführt, der sich näherungsweise unabhängig von der Kristallorientierung verhielt. Die anwendungsbezogene systematische Auswertung der mechanischen Hysterese, die durch Überlagerung mehrerer spannungsinduzierter Phasenumwandlungen komplexe Formen aufwies, erfolgte durch eine entwickelte Anpassungsmethodik. Als Ergebnis wird ein Umwandlungsschaubild präsentiert, das die Interpretation des temperaturabhängigen Verhaltens der technisch relevanten Umwandlungsparameter ermöglicht. Es dient ferner als Grundlage für den praktischen Einsatz der untersuchten Legierung.</dc:description>
+          <dc:date>2003-01-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/489</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4847</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4847</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/489/uebel_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

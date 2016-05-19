@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:916">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:916</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A New and Efficient Method of Designing Low Noise Microwave Oscillators</dc:title>
+          <dc:creator>Rohde, Ulrich L.</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Dimensionierung von Mikrowellen-Oszillatoren war und ist das Thema vieler Veröffentlichungen. Zu einem gewissen Grade wurden Oszillatoren primär aufgrund experimenteller Daten und Erfahrungen gebaut und deren Eigenschaften dann gemessen und die Daten veröffentlicht. Von der Anwenderseite her ist es jedoch wichtig und sinnvoll, dass man von einem Satz Spezifikationen ausgeht und dann eine Synthese-Prozedur hat, die zur erfolgreichen Schaltung führt. Im Rahmen dieser Dissertation wurde zunächst einmal die vorhandene internationale Literatur untersucht und dahin geprüft, welche Ansätze zum optimalen Design vorhanden sind. Hier werden die entsprechenden Literaturstellen aufgeführt und kommentiert. Einer der beliebtesten Oszillatorschaltungen ist die Colpitts-Schaltung. Diese wird im Rahmen der Dissertation genauer untersucht, wobei zunächst das Kleinsignalverhalten betrachtet wird und dann das Großsignalverhalten ausführlich dargestellt wird. Es werden Mikrowellen Bipolar-Transistoren verwendet, da sich deren Großsignalparameter stärker ändert als die von Feldeffekttransistoren. Es folgt sodann eine Darstellung des Rauschens innerhalb des Transistors. Der Kern der Arbeit stellt eine mathematische Analyse dar, die es gestattet, sowohl das Großsignalverhalten als auch das Rauschen des Oszillators zu berechnen, wobei erstmalig in der Literatur das Verhalten der Ausgangsleistung und des Rauschens des Oszillators genau betrachtet wird und für beides der beste Arbeitspunkt berechnet wurde. Um dieses zu unterstützen, wurden gleichzeitig verfügbare Resonatoren angesprochen und die Messung des Großsignalverhaltens des Transistors sowie die Messung des Phasenrauschens dargestellt. Nach der mathematischen Darstellung des Problems wurden eine Reihe von Oszillatoren nach dem Schema aufgebaut und vermessen. Es zeigt sich eine exzellente Übereinstimmung zwischen der Messung, der Synthese-Berechnung, die auch eine Analyse beinhaltet und einer vollen HB-Analyse mit einem kommerziellen Simulator. Insgesamt wurden drei Methode zur Rauschberechnung und Optimierung dargestellt. 1. Eine Erweiterung der Leeson-Formel mit exakter Berechnung aller notwendigen Parameter. 2. Die Berechnung des zur Entdämpfung notwendigen negativen Widerstandes des Oszillators im Zeitbereich unter Einbeziehung seines Rauschens. 3. Die Rausch-Berechnung des Oszillators mit allen Rauschbeiträgen des Oszillators als Regelschleifen-Problem. Die Arbeit wird abgerundet durch drei diskrete Beispiele im Anhang, bei denen die generelle Berechnung des Oszillators das Verhalten im Großsignalbereich und abschließend die Berechnung eines optimierten Oszillators mit allen parasitären Elementen durchgeführt wurde.</dc:description>
+          <dc:description xml:lang="eng">How to design microwave oscillators has been and is the subject of many publications. To a certain degree oscillators had been designed based on experimental data and experiences and the resulting performance has been measured and published. The designer, however, considers it important and useful to start from a set of specifications and then applies a synthesis procedure, which leads to a successful circuit. Within the scope of this dissertation, the existing literature has been searched to find which successful and optimum design-procedures were published. The relevant literature is referenced and commented. One of the more favorable oscillator circuits is the Colpitts circuit. This dissertation takes a closer look at it, starting with a small signal performance and then the large signal performance is discussed in detail. Since the large signal parameters deviate further from the small signal parameters, microwave bipolar transistors are being used rather than field-effect transistors. Next is a discussion of the noise of a transistor. The core of the work is a mathematical analysis, which allows to calculate both large signal performance and noise performance whereby as a first the output power and the noise are simultaneously considered and the optimum bias point is found. In order to support this, various resonators are discussed. The measurement of large signal parameters of the transistor is shown and finally phase noise measurements are presented. Following the mathematical solution of the problem, various oscillators had been built following this procedure and were measured. There is an excellent agreement between measurement and this synthesis calculation, which also contains an analysis. An excellent agreement is also found using a HB-based commercial simulator. In total three methods to calculate the phase noise and obtain best performance are demonstrated. 1.An extension of the Leeson formula with exact calculation of all necessary parameters. 2.The calculation of the negative noisy resistance necessary to start oscillation is calculated in time domain. 3.Noise calculation of an oscillator including all noises as a loop problem. This work finishes by showing three discrete cases in the appendix. Here the oscillators general performance is calculated using large signal conditions and finally an optimized oscillator with all parasitic elements is shown.</dc:description>
+          <dc:date>2004-04-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/916</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9093</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9093</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/916/rohde_ulrich.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

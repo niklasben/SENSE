@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3636">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3636</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Placeholders : 13 pavilions on 13 future construction sites in Berlin</dc:title>
+          <dc:creator>Vuga, Bostjan</dc:creator>
+          <dc:creator>Stollmann, Jörg</dc:creator>
+          <dc:creator>Ruic, David</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">ADIP, the chair for Architecture Design and Innovation, is a laboratory for new ideas and changing input, run by guest professors at the Institute for Architecture at the Technische Universität Berlin. In 2011, ADIP welcomed Bostjan Vuga, founding partner of the architectural office SADAR+VUGA in Ljubljana, Slovenia. PLACEHOLDERS are forecasters of the future object at the select location. They are areas for socializing, games, new experiences and showrooms for main public activities in the future object. Placeholders encourage cooperation and interaction between their visitors and users. 13 future construction sites are chosen, 13 urban spots in Berlin where a new construction is not only planned, but already defined with an architectural project. It is shown how a design of 13 pavilions influences the way we see ourselves and how we interact with others today.</dc:description>
+          <dc:contributor>ADIP : Architecture Design Innovation Program</dc:contributor>
+          <dc:date>2013-03-01</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3636</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38837</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38837</dc:identifier>
+          <dc:identifier> 978-3-7983-2443-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3636/adipmag3_placeholders.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

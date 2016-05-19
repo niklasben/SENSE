@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:67">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:67</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hochaufgelöste Elektronenstreuexperimente für Anwendungen in der Elektronenmikroskopie und der Monte-Carlo-Simulation der Elektronenstreuung</dc:title>
+          <dc:title xml:lang="eng">High resolution measurements of the electron scattering for applications in electron microscopy and Monte-Carlo simulations of electron scattering</dc:title>
+          <dc:creator>Berger, Dirk</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit werden hochaufgelöste Messungen der Energie- und vollständigen Winkelverteilungen der Streuung von 20 keV-Elektronen gezeigt (Energieauflösung 0,55%). Die Ergebnisse werden hinsichtlich des Verständnisses der fundamentalen Streuprozesse, der Bildinterpretation in der Elektronenmikroskopie und neuer Detektorsysteme der Rasterelektronenmikroskopie sowie der Verifizierung von Modellen und Simulationen diskutiert. Die Untersuchungen schließen Detektionswinkel nahe der Targetoberfläche und den schiefwinkligen Elektroneneinfall zum Teil erstmalig ein. Die verwendeten kompakten elektrostatischen Spektrometer mit sphärischer und toroidaler Geometrie werden charakterisiert und verglichen. Für den Erhalt hochaufgelöster Spektren müssen die gemessenen Spektren von der Antwortfunktion des Spektrometers entfaltet werden. Für die Winkelverteilung der Rückstreuung an mehratomigen massiven Proben und der Transmission durch dünne Metallfilme werden neue funktionelle Zusammenhänge gefunden und diskutiert. Ferner werden die Aussagefähigkeiten von Monte-Carlo-Simulationen, die unterschiedliche physikalische Modelle verwenden, betrachtet. Es stellt sich heraus, daß die Simulation hochaufgelöster Spektren nur bei Berücksichtigung von statistisch verteilten Energieverlustfluktuationen anstelle der zuvor betrachteten weglängenabhängigen Verluste möglich ist. Als weitere Anwendung der Elektronenspektroskopie wird ein neues Meßverfahren für die Mikrotomographie (tiefenselektive Abbildung) im Rasterelektronenmikroskop un-tersucht. Anhand der Streuung an einkristallinen Proben wurde der Einfluß von Channelingeffekten (anomale Transmission und Absorption) auf die Rückstreuspektren demonstriert.</dc:description>
+          <dc:description xml:lang="eng">This work presents high resolution measurements of the energy and complete angular distribution of the scattering of 20 keV electrons (energy resolution 0.55%). The examinations include take-off angles close to the target surface and non-perpendicular incidences of electrons partly for the first time. The results are of interest for the understanding of fundamental scattering processes, the interpretation of signals and new detector systems in electron microscopy and electron spectroscopy. Furthermore, they are used for the verification of electron scattering models and simulations. The applied compact electrostatic spectrometers with spherical and toroidal geometries are characterized and compared. High resolution spectra are obtained by deconvolution of the measured spectra by the response characteristic of the spectrometer. New formulae for the description of the angular distribution of the backscattering from multicomponent specimens and of the transmission of electrons through thin metal films are found and discussed. Moreover, Monte-Carlo simulations based on different physical models and their abilities of predicting the experimental results are considered. It turns out that the introduction of statistical fluctuations of energy losses instead of pathlength depending losses is necessary for the simulation of high resolution spectra. For applications in electron spectroscopy a new detector scheme for microtomography (imaging of subsurface structures) in the scanning electron microscope is examined. By means of the scattering at mono-crystalline samples the influence of channeling (anomalous absorption and transmission) on backscattered electron spectra is shown. Captions are given in English language.</dc:description>
+          <dc:date>2000-09-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/67</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-620</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-620</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/67/berger_dirk.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2125">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2125</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Berufsbiografieforschung: Erfolgsfaktoren in Sänger- und Sängerinnenkarrieren</dc:title>
+          <dc:creator>Mörth, Martina</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="deu">In künstlerischen Berufen wie im Gesang ist es heutzutage sehr schwierig, sich langfristig etablieren zu können und den Beruf einkommenssichernd auszuüben, da es kaum vorgegebene Laufbahnen gibt. In der vorliegenden Arbeit wurden die Entstehungs- und Aufrechterhaltungsbedingungen untersucht, die dazu beitragen, dass jemand langjährig erfolgreich als professioneller Sänger oder als professionelle Sängerin bestehen kann. Vor dem Hintergrund der Komparativen Kasuistik (Jüttemann, 1990) wurden - mittels halbstrukturierter, biografischer Interviews - sechs Sänger und Sängerinnen mit rund 10 Jahren Berufserfahrung befragt. Ziel war die Erhebung der individuellen Sichtweise und die Erfassung des subjektiven Bezugssystems der Interviewten und anschließend die Extraktion der Kategorien direkt aus den Interviewtexten. Mit Hilfe der Methode des Zirkulären Dekonstruierens (Jaeggi &amp; Faas, 1991) wurden ausgehend von Einzelfallanalysen überindividuelle Aussagen generiert, die als Hypothesen mit wahrscheinlicher Relevanz für eine langjährige Berufstätigkeit im Gesangsbereich gesehen werden können. Vielfältige Ergebnisse rund um biografisch wichtige Erlebnisse, die Wahl des musikalischen Genres, den Beruf an sich, den Berufsalltag und die Singstimme sind anschaulich dargestellt und mit zahlreichen Beispielen versehen. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2009-05-20</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2125</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22407</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22407</dc:identifier>
+          <dc:identifier>978-3-7983-2120-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2125/Berufbiografieforschung_MArth.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

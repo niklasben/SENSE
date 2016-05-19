@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3776">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3776</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Maritime Lösungen für die Offshore-Windparkversorgung</dc:title>
+          <dc:title xml:lang="eng">Maritime Solutions for Offshore Wind Farm Logistics</dc:title>
+          <dc:creator>Holbach, Gerd</dc:creator>
+          <dc:creator>Stanik, Christopher</dc:creator>
+          <dc:creator>Eckert, Carsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Nutzung der Offshore-Windenergie in Nord- und Ostsee liefert einen wichtigen Beitrag zur deutschen und europäischen Energiewende dar. Immer größere Wassertiefen und weitere Küstenentfernungen stellen erhebliche logistische Herausforderungen an Errichtung und Betrieb von Offshore-Windparks. Hinzu kommen schlechte Wetter- und Arbeitsbedingungen, die nicht nur während der Installationsphase für hohe Kostenanteile im Bereich der maritimen Logistik verursachen. Die richtige Service- und Versorgungsstrategie zu finden, um einen profitablen und sicheren Windparkbetrieb zu ermöglichen, ist ebenso ein komplexes und spezifisches Unterfangen. Zu diesen Themenbereichen wurde die Berliner Tagung "Maritime Lösungen für die Offshore-Windparkversorgung" am 14.06.2013 an der TU Berlin durchgeführt, an der Experten aus Wissenschaft, Windparkbetrieb, Notfallversorgung sowie Schifffahrt und Schiffbau teilnahmen. Die Beiträge der Referenten sind in diesem Tagungsband zusammengefasst. Es werden Erfahrungsberichte aus Errichtung und Betrieb von Offshore-Windparks aus Kunden- und Dienstleistersicht aufgezeigt. Marktpotenziale maritimer Lösungsansätze, Schiffbauliche und –betriebliche Vorschriften sowie Modellierungs- und Simulationsmethoden zur Bewältigung komplexer Betriebsabläufe werden vorgestellt. Neben der täglichen Ersatzteil- und Personalversorgung für den Offshore-Windparkbetrieb sind vor allem sichere und robuste Rettungskonzepte von Nöten, weshalb auch diesem notfallmedizinischen Thema ein besonderes Augenmerk gewidmet wird. Die Berliner Tagung "Maritime Lösungen für die Offshore-Windparkversorgung" ist ein hervorragendes Beispiel für die erfolgreiche Zusammenarbeit zwischen Industrie und Forschung und die Entwicklung innovativer Lösungen für komplexe Herausforderungen des technologischen Fortschritts in Deutschland und Europa.</dc:description>
+          <dc:date>2013-05-27</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3776</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40056</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40056</dc:identifier>
+          <dc:identifier>978-3-7983-2560-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3776/tagungsband_offshore_windparkversorgung.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

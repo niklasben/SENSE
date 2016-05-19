@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:791">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:791</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Vergleichende Untersuchungen zum Saponingehalt von Asparagus officinalis</dc:title>
+          <dc:title xml:lang="eng">Comparative study on saponin contents of Asparagus officinalis</dc:title>
+          <dc:creator>Schwarzbach, Anita</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurde der Saponingehalt von in Deutschland angebautem Spargel bestimmt. Dabei wurde auch betrachtet, welche Faktoren vor und nach der Ernte Einfluss auf diese Gehalte haben. Saponine sind wegen zahlreicher biologischer Aktivitäten (wie z.B. antimikrobieller Eigenschaften) von wissenschaftlichem Interesse. Für die Untersuchungen stand Probenmaterial aus einer Gewächshausanlage des IGZ sowie aus dem Brandenburger Sortenversuch zur Verfügung. Die Thermostabilität von Saponinen wurde einerseits an Saponinextrakten bei unterschiedlicher Temperatureinwirkung und andererseits an gefriergelagertem Spargel untersucht. Die Probenaufbereitung erfolgte mittels Festphasenextraktion (SPE). Die qualitative und quantitative Analytik wurde mittels Dünnschichtchromatographie (DC) vorgenommen. Es wurden Gesamtsaponingehalte zwischen ca. 14 mg bis 80 mg in 100 g Frischmasse ermittelt. Dabei zeigten sich eindeutig sortenabhängige Unterschiede sowie eine unterschiedliche Reaktion auf solche Faktoren wie Bodentemperatur, möglicherweise Bodenfeuchte und pflanzenspezifische Aspekte, wie z.B. einem Befall mit Pathogenen. Während Erhitzen von Spargelextrakten zu temperaturabhängigen Saponinverlusten führte, wiesen gefriergelagerte Spargelproben nach 12 Wochen keine Saponinverluste auf. In Auswertung der Ergebnisse scheint eine Aufbereitung von Spargelabfällen zur Gewinnung von Reinsubstanzen vor dem Hintergrund, dass in Deutschland pro Erntesaison ca. 25.000 Tonnen dieser Abfälle entstehen, als sinnvoll. Für den Einsatz dieser aufgereinigten Saponine sind verschiedene Anwendungsgebiete denkbar. Dazu gehören funktionelle Lebensmittel, Nutraceuticals und biologische Pflanzenschutzmittel.</dc:description>
+          <dc:description xml:lang="eng">In this work we estimated the quantity of saponins in asparagus spears, grown in Germany, with respect to different cultivars as well as pre and post harvest treatments. Saponins are known as biologically active substances. For our investigation we used plant material grown in the greenhouse of the IGZ Großbeeren as well as in cultivar experiment in Brandenburg. A method was developed to prepare samples by Solid Phase Extraction (SPE) and to analyse these extracts by High Performance Thin Layer Chromatography (HPTLC). With this method contents of total saponins of approximately 14 mg to 80 mg per 100 g fresh weight were measured. Significant differences between cultivars were found. But other pre harvest conditions like low soil moisture or pathogens attacks may also have effected the contents of saponins. Heating of Asparagus extracts caused losses of saponins, depending on the increasing of temperature. No losses of saponins were detected in frozen asparagus samples after 12 weeks of storage. About 25.000 t of broken asparagus spears, bottom cuts and other unmarketable parts are disposed every season in Germany and mainly they are biologically degradated. The interpretation of our results suggests that it may be useful to process these waste products, to clean up saponins and to use these prepared saponins as additives to functional food, nutraceuticals or natural pesticides.</dc:description>
+          <dc:date>2004-03-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/791</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7854</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7854</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/791/schwarzbach_anita.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

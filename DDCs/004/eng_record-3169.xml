@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3169">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3169</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Advances in Neurotechnology for Brain Computer Interfaces</dc:title>
+          <dc:title xml:lang="deu">Fortschritte der Neurotechnologie für Gehirn Computer Schnittstellen</dc:title>
+          <dc:creator>Fazli, Siamac</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Brain Computer Interfacing has witnessed a tremendous growth of scientific interest during the last 10 years. However, some downfalls have prevented this exciting technology to produce mainstream applications for the general public. Among those are long setup time, illiteracy of some subjects as well as non-stationarities within recording sessions. This thesis introduces a number of hardware as well as software related neurotechnological developments, which address and alleviate these issues, thus making BCI a more compact, robust and ready-to-use technology. A patented dry electrode EEG cap with 6 channels is introduced and its capabilities demonstrated within a BCI environment. While this development certainly enhances BCI usability, also future EEG research will benefit from dry electrode technology. To further reduce setup time to essentially zero, an ensemble framework, consisting of a large number of BCI datasets, was developed and gated by a number of machine learning methods, to enable instantaneous feedback for users. In addition, a multimodal neuroimaging study was conducted and shown to reduce illiteracy among subjects as well as enabling basic neuroscientific insight.</dc:description>
+          <dc:description xml:lang="deu">Gehirn Computer Schnittstellen haben in den letzten 10 Jahren ein enormes wissenschaftliches Interesse hervorgerufen. Allerdings offenbart diese spannende Technology bei näherer Betrachtung noch einige Hürden, welche bisher die Entwicklung von massentauglichen Anwendungen verhindert haben. Unter Anderem eine lange Vorbereitungszeit eines BCI Systems, die fehlende Steuermöglichkeiten für manche Benutzer, sowie die nicht Stationaritäten innerhalb einer Aufnahme. Diese Dissertation führt eine Reihe von neurotechnologischen Entwicklungen ein, welche diese Probleme addressieren. Dadurch wird BCI zu einer kompakteren, robusteren und praktikableren Technologie. Eine patentierte EEG Kappe mit sechs trockenen Elektroden wird vorgestellt und ihre Funktion innerhalb der BCI Umgebung demonstriert. Während diese Entwicklung für BCI von Nutzen ist, wird auch zukünftige EEG Forschung von dieser Technologie profitieren. Zur weiteren Reduzierungs der Vorbereitungszeit, wurde ein Ensemble Framework entwickelt, welches aus einer grossen Menge von BCI Daten besteht. Mit Hilfe der Methoden des maschinellen Lernens erlaubt dieses Framework damit ein instantanes Feedback. Weiterhin wurde eine multi-modale Studie durchgeführt, welche die Inoperabilität des Systems für einige Benutzer reduzieren konnte, und desweiteren zu neurophysiologischen Erkenntnissen geführt hat.</dc:description>
+          <dc:date>2011-12-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3169</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33527</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33527</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3169/fazli_siamac.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

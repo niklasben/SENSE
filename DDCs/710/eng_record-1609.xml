@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1609">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1609</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Urban Lock - nördliche Lohmühleninsel : Urban Design Workshop 2006</dc:title>
+          <dc:creator>Roskamm, Nikolai</dc:creator>
+          <dc:creator>Seelig, Sebastian</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Im Frühjahr und Sommer des Jahres 2006 wurden in einem internationalen städtebaulichen Workshop stadtplanerische und architektonische Ideen für die nördlichen Lohmühleninsel im Bezirk Kreuzberg-Friedrichshain von Berlin durch international besetze Studententeams erarbeitet. Der Workshop ist Bestandteil einer schon langjährig bestehenden Kooperation zwischen dem Institut für Stadt- und Regionalplanung der Technischen Universität Berlin und der Architekturfakultät der Politechnika Warschau. Mit den erarbeiteten Ideen werden die Entwicklungspotentiale und stadträumlichen Qualitäten des Kreuzberger Spreeufers thematisiert. Dadurch wird ein Beitrag zu der laufenden Debatte um die Entwicklung des Kreuzberger Spreeufers im Rahmen des Bund-Länder-Programms „Stadtumbau West“ geleistet. In dieser Dokumentation werden die Aufgabenstellung sowie die Arbeiten der fünf Teams dargestellt. Online im Universitätsverlag der TU Berlin erschienen.</dc:description>
+          <dc:date>2007-11-06</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1609</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16571</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16571</dc:identifier>
+          <dc:identifier>978-3-7983-2059-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1609/Graue_Reihe_Heft_6_urban_lock.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

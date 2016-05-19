@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:5017">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:5017</identifier>
+        <datestamp>2014-04-11</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Interfacial properties and phase equilibria for mixtures relevant in the oil and gas industry</dc:title>
+          <dc:title xml:lang="deu">Grenzflaecheneigenschaften und Phasengleichgewichte von Mischungen, die fuer die Oel- und Gasindustrie relevant sind</dc:title>
+          <dc:creator>Nino Amezquita, Oscar Gabriel</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The interfacial tension of mixtures plays an important role in industrial processes when various fluid phases are involved, like in distillation columns and enhanced oil and gas recovery. Knowledge on the interfacial tension is needed for process design especially regarding transport properties. Systematic experimental work covering the commonly required large range of conditions is quite costly. For this reason a theoretical method in order to predict the interfacial tension using only bulk properties of the mixture and the surface tensions of pure components is very helpful. One possibility for a theoretical approach is the density gradient theory in combination with a suitable equation of state (EOS). This work focuses on the development of a methodology combining the density gradient theory together with the perturbed-chain statistical associating fluid theory equation of state (PC-SAFT EOS). The use of an equation of state allows the use of the framework on pure substances with a further extension to mixtures. Pure components of highly differing characteristics were used in the density gradient theory framework, with excellent results when compared to literature data. Some new parameter sets for the EOS  are also presented according to physical assumptions. The extension of the proposed framework to binary mixtures delivers good predictions in a broad field of mixtures; however, when applied to water-containing mixtures, a few extra assumptions have to be made both on phase equilibrium and DGT. The approach leads to a description of both mutual solubility and interfacial tension in water mixtures, including water + hydrocarbon systems. A pure prediction of a ternary system, based only on the findings from the binary subsystems, poses a big challenge for validation of the framework. First results for a ternary system are presented and show promising perspectives for the use of the methodology for multicomponent mixtures, based purely on the pure and binary system outcomes.</dc:description>
+          <dc:description xml:lang="deu">Die Grenzflächenspannung von Mischungen spielt eine entscheidende Rolle in verschiedenen Bereichen der Verfahrenstechnik, wenn verschiedene fluide Phasen aufeinandertreffen, beispielsweise in Rektifikationskolonnen oder in der Erdöl- bzw. Erdgasförderung. Eine genaue Kenntnis der Grenzflächenspannung in solchen Systemen ist entscheidend für ein geeignetes Prozessdesign, besonders für die optimale Gestaltung des Stofftransports. Messungen der Grenzflächenspannung als Funktion der Zusammensetzung, der Temperatur und des Druckes sind in der Regel sowohl kosten- als auch zeitaufwändig. Aus diesem Grund wäre eine Berechnungsmethode wünschenswert, die die Grenzflächenspannung einer Mischung aus beliebig vielen Komponenten aus den bulk-Eigenschaften der binären Randsysteme und den Reinstoffeigenschaften vorhersagen kann. Eine geeignete Methode ist die Dichtegradiententheorie in Kombination mit einer thermischen Zustandsgleichung. &#13;
+Diese Arbeit beschäftigt sich mit der Kombination der Dichtegradiententheorie mit der störungstheoretischen Zustandsgleichung (perturbed-chain statistical associating fluid theory, PC-SAFT). Diese Vorgehensweise erlaubt, ausgehend von der Beschreibung reiner Stoffe, die Extrapolation auf Mischungen. Die thermody-namischen Eigenschaften von Reinstoffe mit unterschiedlichen Polaritäten konnten in sehr guter Übereinstimmung mit experimentellen Daten aus der Literatur berechnet werden. Die Erweiterung der Methode für binäre Mischungen liefert auch ebenso gute Ergebnisse für eine Vielzahl von Mischungen. Nur in Mischungen, die aus Wasser und einer unpolaren Komponente bestehen, müssen weitere Annahmen getroffen werden. Somit war auch die Beschreibung von Mischungen aus Wasser und Kohlenwasserstoffen möglich. Basierend auf den Daten für die reinen Stoffe und die binären Randsysteme gelang die vollständige Vorhersage des Phasenverhaltens und der Grenzflächeneigenschaften von einfachen, ternären Mischungen. Somit konnte das Potential für die Anwendung dieser Methode auf Vielstoffsysteme, wie beispielsweise Erdöl oder Erdgas demonstriert werden.&#13;
+</dc:description>
+          <dc:date>2014-04-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/5017</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-50176</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-50176</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/5017/ninoamezquita_oscar_gabriel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

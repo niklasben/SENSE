@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4871">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4871</identifier>
+        <datestamp>2014-03-18</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Gold substrates for SERS and SERS/SERDS measurements in seawater and Raman measurements through long optical fibers</dc:title>
+          <dc:title xml:lang="deu">Gold Substrate für SERS und SERS/SERDS-Messungen im Meerwasser und Raman-Messungen durch lange optische Fasern</dc:title>
+          <dc:creator>Ahmad, Hossam</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">Raman spectroscopy and surface enhanced Raman scattering (SERS) are well established spectroscopic techniques for seawater applications. &#13;
+The first part of this work focuses on using SERS with shifted excitation Raman difference spectroscopy (SERDS) technique to identify polycyclic aromatic hydrocarbons (PAHs). To achieve this purpose new SERS substrates suitable for seawater application were fabricated. A simple and low-cost method based on electroless plating solution of HAuCl4 and H2O2 was developed to construct a novel gold island film as SERS substrate. The substrate has a good resistance against seawater. It kept about 50 % of their initial SERS activity after 4 weeks of storage in artificial seawater and 15 % after 8 weeks of storage. Furthermore, this substrate is reproducible with a SERS intensity tolerance of about 8 %. Using 785 nm diode laser and applying SERS/SERDS technique the high sensitivity of the substrate was proved by determining the limits of detection (LODs) of selected PAHs, i.e. pyrene, fluoranthene, and phenanthrene. The LODs were determined to be 1 nmol/l, 4 nmol/l, and 8 nmol/l, respectively.&#13;
+Furthermore, the improvement of the sensitivity of the substrate is presented using 671 nm diode laser. The LOD of pyrene in this case reduces down to 0.5 nmol/l. Moreover, for the first time the substrate was successfully tested in the local harbor near IFREMER center in La Seyne Sur Mer. The test shows several Raman bands which could be referred to some PAHs. &#13;
+Besides this substrate, naturally grown Au nanoparticle substrates with surface plasmon resonance bands around 671 nm were developed at the University of Kassel and tested by us. The LODs of pyrene applying SERS/SERDS technique can reach 0.5 nmol/l.&#13;
+The second part of this thesis is presented the new laboratory setup based on two 1000 m low OH optical fibers and an 1.25 W broad area distributed feedback diode laser emitting at 785 nm. 275 mW of optical power were available at the sample after passing optics, a 1000 m fiber and a pressure-resistant optode. The latter collects the Raman straylight and focuses it into a second 1000 m fiber which transfers the light into a spectrometer. To illustrate the capability of this setup, Raman spectra were taken from natural minerals (sulfates, carbonates, sulfur) with typical signal-to-noise ratios for the minor signals up to 60 at short integration times of 0.5 s.&#13;
+The applicability of SERDS for in situ investigations in the deep sea is presented. It is shown that SERDS leads to a reduction of the background which improves the signal-to-background ratio by a factor of up to 100, i.e. even weak Raman bands can clearly be identified. Furthermore, SERDS can remove the narrow luminescent bands which can bother the measurements. &#13;
+Finally, a pilot experiment was carried out using optical fiber as SERS sensor. As a sample cresyl violet was used to test the activity of this sensor. This study shows the capability of using this sensor in the future for seawater application.   &#13;
+This work shows that the gold SERS substrates are well suitable to detect pollutants as PAHs in the seawater body. In addition, long fibers Raman setup is a promising tool for the in situ investigations of sub-marine sediments.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Raman-Spektroskopie und die oberflächenverstärkte Ramanstreuung sind gut bewährte spektroskopische Techniken zur Untersuchung von Meerwasser.&#13;
+Der erste Teil dieser Arbeit konzentriert sich auf die  Verwendung von SERS mit der “shifted excitation Raman difference spectroscopy“ (SERDS) zur Identifizierung von polyzyklischen aromatischen Kohlenwasserstoffe (PAKs). Zu diesem Zweck wurden neue SERS-Substrate speziell für Meerwasseranwendungen hergestellt. Eine einfache und kostengünstige Methode basierend auf einer stromlosen Plattierung durch eine Lösung aus HAuCl4und H2O2  wurde entwickelt um einen neuartigen Goldinselfilm als SERS Substrate zu erschaffen. Das Substrat weist eine gute Widerstandsfähigkeit gegenüber Meerwasser auf. Die anfängliche SERS-Aktivität konnte nach 4 Wochen Lagerung im künstlichen Meerwasser zu 50% und nach 8 Wochen Lagerung zu 15% erreicht werden. Darüber hinaus ist das Substrat mit einer SERS-Intensitäts-Toleranz von über 8% reproduzierbar. Durch den Einsatz eines 785 nm Diodenlasers und der SERS/SERDS-Technik konnte die hohe Empfindlichkeit des Substrats durch die Bestimmung der Nachweisgrenze (LODs) einiger PAKs u.a. für Pyren, Flouranthen und Phenanthren, bewiesen werden. Die bestimmten Nachweisgrenzen erreichen Werte der Größenordnung 1nmol/l, 4 nmol/l und 8 nmol/l.&#13;
+Des Weiteren wird eine Verbesserung der Sensitivität des Substrats mittels eines 671 nm Diodenlasers aufgezeigt. Die Nachweisgrenze von Pyren konnte auf 0,5 nmol/l reduziert werden. Zudem wurde das Substrat erstmalig im lokalen Hafen in der Nähe des Forschungsinstituts IFREMER in La Seyne Sur Mer erfolgreich getestet.&#13;
+Neben diesem Substrat wurden in Zusammenarbeit mit der Universität Kassel Substrate mit auf natürliche Weise gewachsenen Gold-Nanopartikeln mit einer Resonanzwellenlänge der Oberflächenplasmonen (SPR) um 671 nm entwickelt und von uns getestet. Die Nachweisgrenze für Pyren erreichte mittels der SERS/SERDS Technik den Wert 0,5 nmol/l.&#13;
+Der zweite Teil dieser Arbeit stellt den neuen Laboraufbau bestehend aus zwei 1000 m langen low OH optischen Fasern und einem 1,25 W DFB-Diodenlaser mit einer Emissionswellenlänge von 785 nm vor. 275 mW optische Leistung treffen auf die Probe nach  Durchlaufen der Optik, einem 100 m langem Faser und einer druckbeständigen Optode. Letzteres sammelt das Raman-Streulicht und fokussiert sie in eine zweite 1000 m lange Faser, welche die Strahlen in einen Spektrographen leitet. Um die Leistungsfähigkeit des Aufbaus zu zeigen, wurden Raman-Spektren von natürlichen Mineralien (Sulfaten, Karbonaten, Schwefel) mit typischem Signal-Rausch-Verhältnis für kleine Signale bis 60 bei einer kurzen Belichtungszeit von 0,5 s aufgenommen.&#13;
+Die Einsetzbarkeit von SERDS für in-situ Messungen in der Tiefsee wird vorgestellt. Es zeigt sich, das SERDS zur einer Verringerung des Hintergrundes und somit das Signal-Rausch-Verhältnis um ein Faktor 100 verbessert, d.h. auch schwache Raman-Banden können eindeutig identifiziert werden. Darüber hinaus können durch SERDS Fluoreszenz, die die Messungen stören, beseitigt werden.&#13;
+Schließlich wurde ein Pilotversuch unter Verwendung eines optischen Leiters als SERS-Sensor durchgeführt. Als Probe wurde zur Messung der Aktivität des Sensors Kresylviolett verwendet. Diese Studie zeigt die Leistungsfähigkeit des Sensors bezüglich der zukünftigen Verwendung im Meerwasser.&#13;
+Diese Arbeit zeigt, dass Gold-SERS-Substrate sehr gut geeignet zur Detektion von Schadstoffen wie PAKs in Gewässern sind. Darüber hinaus ist ein Langfaser-Ramanaufbau ein vielversprechendes Werkzeug für die in-situ Messungen von Tiefsee-Sedimente.&#13;
+</dc:description>
+          <dc:date>2014-03-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4871</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-48713</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-48713</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4871/Ahmad_Hossam.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

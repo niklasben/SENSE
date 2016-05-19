@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1981">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1981</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Synthesis of 2,6-substituted 6-membered heterocycles via diastereoselective RRM and enyne RRM</dc:title>
+          <dc:title xml:lang="deu">Synthese von 2,6-substituierte 6-gliedrigen Heterocyclen via diastereoselective RRM und Enin RRM</dc:title>
+          <dc:creator>Schmitt, Sophie</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">The present thesis is a contribution to the development of diastereoselective ring-rearrangement metathesis developed in our research group. Two types of substrates bearing a meso-carbocycle and a stereocentre were investigated, which lead to key building blocks in the synthesis of a number of target natural products or drug-like molecules: 2,6-substituted tetrahydropyridines and 2,6-dihydropyrans. The first type of molecules consisted of two cycloalkenes connected together via a heteroatom. The second ring is linked on the chiral centre which is in allylic position. Good conversions and in some cases good diastereoselectivities were found especially when catalysts bearing NHC ligands are engaged. The results showed good but different diastereoselectivities depending on the ringsize of the carbocycle bearing the stereocentre of these bridged bicyclic substrates, and was found to be more substrate- than catalyst-dependant. The second type of substrates used consists in C-3-tethered cycloolefins substituted with a chiral propargylamine, which lead after ring-rearrangement metathesis to 2,3,6-trisubstituted tetrahydropyridines. This transformation constitutes the first example of diastereoselective enyne RRM. Transformation of these propargylamines gives good diastereoselectivities mostly in the same manner when either first or second generation ruthenium catalysts are involved. But, contrary to the above-mentioned substrates, this type of transformation seems to be more governed by the catalyst than the substrate. Indeed, an inversion of selectivity is observed when the catalyst type is switched from first to second generation. The cis-product is the major formed in the first case while the trans-derivative is predominant in the second case.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit ist ein Beitrag zur diastereoselektiven Ringumlagerungsmetathese die im Arbeitskreis Blechert durchgeführt wird. Zwei Arten von Substraten, die ein meso-Carbocyclus und ein Stereozentrum beinhalten, wurden eingesetzt und führten zu wichtigen Syntheseintermediaten von Naturstoffen oder wirkstoffähnlichen Molekülen: 2,6-substituierte Tetrahydropyridine und 2,6-Dihydropyrane. Die erste Substratart bestand aus zwei Cycloalkenen, die über ein Heteroatom verbrückt waren. Der zweite Ring ist in allylischer Position an ein chirales Zentrum gebunden. Gute Umsätze und oft gute Diastereoselektivitäten wurden hauptsächlich mit Katalysatoren, die einen NHC-Ligand beinhalten, erziehlt. Die Diastereoselektivität zeigte sich vom Substrat abhängig. Es hat sich dabei gezeigt, dass sie von der Ringgröße des Carbocyclus mit dem Stereozentrum abhängig ist. Außerdem zeigte es sich, dass die Diastereoselektivität mehr substrat- als katalysatorabhängig ist. Der zweite Substrattyp besteht aus Cycloolefinen, die in C-3-Position durch ein chirales Propargylamin substituiert sind. Nach erfolgter Ringumlagerungsmetathese führten diese Moleküle zu 2,3,6-trisubstituierten Tetrahydropyridinen. Diese Umlagerungen sind die ersten Beispiele diastereoselektiver Enyn-Ringumlagerungmetathese. Umlagerungen solcher Propargylamine lieferten gute Diastereoselektivitäten. Im Gegensatz zu den oben genannten Substraten scheinen solche Umlagerungen eher katalysator- als substratabhängig zu sein. In der Tat wurde eine Umkehrung der Selektivität beobachtet, wenn man von der ersten zur zweiten Rutheniumkatalysatorgeneration wechselte. Das cis-Produkt wurde bevorzugt mit Katalysatoren der ersten Generation gebildet, während das trans-Produkt von Katalysatoren der zweiten Generation begünstigt wurde.</dc:description>
+          <dc:date>2008-11-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1981</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20761</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20761</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1981/schmitt_sophie.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

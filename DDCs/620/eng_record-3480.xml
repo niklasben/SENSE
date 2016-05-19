@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3480">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3480</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Music Structure Segmentation</dc:title>
+          <dc:title xml:lang="deu">Musik Struktur Segmentierung</dc:title>
+          <dc:creator>Kaiser, Florian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Music is above all about expression and communication. For musicians to develop their own musical expression and be able to communicate in a playing situation, music is therefore necessarily a structured language that produces structured musical discourses. One of the problems that Music Information Retrieval tackles and that we propose to study in this document is thus the estimation of structure in music. In this study, the problem of musical structure estimation is formalized as the task of Music Structure Segmentation and aims at estimating the largest structural entities that compose a music piece. A verse in Popular music, a bridge in Jazz music or a movement in Classical music constitute such structural entities. As a front-end processing for audio indexing applications such as audio browsing, summarization or annotation, the task knows a growing interest in the Music Information Retrieval research community. Research in this field has been particularly active since the introduction of audio self-similarity matrices and the visualization of the temporal evolution of the harmonic and timbral content of musical signals. We propose to estimate musical structures from such visualizations by means of their sparse decomposition with the Non-negative Matrix Factorization (NMF) algorithm. Indeed, we show that structural sections that are defined by sufficient acoustical homogeneity in terms of harmony or timbre can be easily separated with such a decomposition. We are then able to derive from the NMF of similarity matrices a mid-level representation of structure that allows for its robust classification. This approach is then further developed using the analogy of the visualization of structural sections in the similarity matrices with the segmentation of foreground and background objects in intensity images. Using image segmentation filtering techniques, we are indeed able to strengthen the structure representation and improve its segmentation. Finally, we propose a mid-level descriptor of tonal structures to allow for a better characterization of structural sections in similarity matrices. Analyzing such matrices with the NMF-based segmentation approach we significantly improve the structural segmentation. These results are illustrated with the comparative evaluation on popular and classical music.</dc:description>
+          <dc:description xml:lang="deu">Die Musik ist in erster Linie ein Mittel des Ausdrucks und der Kommunikation. Um die Entwicklung eines spezifischen musikalischen Ausdrucks und das musikalische Spiel im Ensemble zu ermöglichen, baut Musik notwendigerweise auf einer strukturierten Sprache auf, und der musikalische Diskurs hat daher eine ihm eigene Form. Eine der Herausforderungen der Extraktion von Informationen aus Musiksignalen die dieser Schrift behandelt wird ist die Erkennung de zugrundeliegenden Musikstruktur. Das Problem der Abschätzung der musikalischen Struktur wird hier als Identifizierung von Abschnitten auf höherer Ebene formalisiert. Man kann die Analogie mit der Strophe in der populären Musik, mit der Brücke zwischen zwei Teilen eines Jazzstückes oder mit dem Satz einer klassischen Komposition machen. Die Ergebnisse dieser Segmentierung kann sehr effektiv im Rahmen von Audioindizierung für Anwendungen wie Navigation durch große Datenbanken verwendet werden. Die Forschung in diesem Bereich kennt seit der Einführung durch Foote von Audio-Ähnlichkeitsmatrizen eine starke Entwicklung, die die Visualisierung von Musik-Inhalten auf der Basis ihres Timbres oder Oberwelleninhaltes ermöglicht. Wir schlagen vor, solche Visualisierungen für die Schätzung der musikalischen Struktur mittels ihrer nicht-negativen Matritzenfaktorisierung zu analysieren. Wenn die musikalischen Struktur aus Teilen akustisch homogener Form besteht, zeigen wir dass eine Beschreibung auf mittlerer Ebene der musikalischen Struktur von einer solchen Faktorisierung abgeleitet werden kann und eine robuste Klassifikation ermöglicht. Daraufhin beschreiben wir, wie die Darstellung von Strukturinformation mit Ähnlichkeitsmatritzen durch Anwendung von Forschungergebnissen im Bereich der Bildsegmentierung verbessert werden kann. Im letzten Teil dieser Arbeit schlagen wir eine Beschreibung auf mittlerer Ebene des tonalen Kontextes vor, der das Ziel hat die Beschreibung der Homogenität die Teile einer musikalischen Struktur charakterisiert zu verbessern. Durch die Kombination dieses Ansatzes mit nicht-negativer Faktorisierung der Ähnlichkeitsmatritzen erhalten wir ein System für robuste Schätzung der musikalischen Struktur und evaluieren dieses System auf der Basis einer Datenbank die aus populärer und klassischer Musik besteht.</dc:description>
+          <dc:date>2012-10-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3480</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36000</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36000</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3480/kaiser_florian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

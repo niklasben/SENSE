@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1841">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1841</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Beitrag zur Erweiterung von Beamforming-Methoden</dc:title>
+          <dc:title xml:lang="eng">A contribution to the extension of beamforming-methods</dc:title>
+          <dc:creator>Kern, Marcus</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im automobilen Entwicklungsprozess haben sich akustische Messsysteme etabliert, die mit einer Anordnung von Mikrofonen, einer optischen Kamera und einer nachgeschalteten Signalverarbeitung die Schalleinfallsrichtung detektieren und dadurch die Schalldruckverteilung auf Quellorte im Fernfeld zurückrechnen und visualisieren können. Die Signalverarbeitung beruht i. A. auf dem Delay&amp;Sum-Beamforming, deren Umsetzung im Zeit- oder Frequenzbereich erfolgt. Die Schwächen dieser Messtechnik bezüglich Ortsauflösung und Dynamik sowie akustisch schlechte Bedingungen erschweren die Interpretation akustischer Bilder und bieten Ansätze für Verbesserungen, die die Einsatzfähigkeit des System im Entwicklungsprozess des Automobils erweitern können. Neben dem Stand der Technik und der Theorie von Schallquellenlokalisations-Verfahren werden in dieser Studie auf Basis eines kommerziellen Beamforming-Systems Methoden diskutiert, die auf das verwendete Delay&amp;Sum-Beamforming im Zeitbereich aufsetzen und die Einsatzfähigkeit des Systems in der täglichen Messpraxis erweitern sollen.</dc:description>
+          <dc:description xml:lang="eng">In automotive development process acoustic measurement systems established, that detect the direction of incidence of a sound wave by means of microphones, an optical camera and a signal processing unit. Sound sources are visualized in an acoustic photo by reprojecting the measured pressure level in the far-field to a virtual focus plane. The common technique is the delay&amp;sum-principle in time or frequency domain. The interpretation of measurement results is sometimes complicated because of inherent drawbacks of the system and the method itself, and moreover by bad acoustic conditions. Thus, demands for improvements arise to extend the applicability of the system in automotive development process. Introduced by the state of the art of sound source localization approaches and their fundamental theory, further methods are investigated in this study that based on the delay&amp;sum-beamforming in time domain focussing on extending the applicability of the system in practical measurements.</dc:description>
+          <dc:date>2008-07-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1841</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19268</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19268</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1841/kern_marcus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

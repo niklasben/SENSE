@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:690">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:690</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Monolithische GaAs FET- und HBT-Oszillatoren mit verbesserter Transistormodellierung</dc:title>
+          <dc:title xml:lang="eng">Monolithic GaAs FET- and HBT-oscillators with improved transistor-modelling</dc:title>
+          <dc:creator>Lenk, Friedrich</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit behandelt die Analyse und Optimierung von monolitisch integrierten Oszillatoren (MMIC-VCO) auf Gallium-Arsenid (GaAs). Der erste Teil beschäftigt sich mit der Kleinsignalmodellierung von GaAs-Feldeffekttransistoren (FET) und Heterobipolartransistoren (HBT). Für HBTs wird ein neuer Algorithmus vorgestellt, der eine zuverlässige Extraktion der Elemente des Kleinsignalersatzschaltbildes ermöglicht und auch für HBTs aus anderen Materialsystemen (SiGe, InP) erfolgreich eingesetzt wurde. Ferner wird das niederfrequente Rauschen von GaAs HBTs untersucht und ein Extraktionsverfahren für die relevanten Rauschquellen entwickelt. Diese Ergebnisse werden dann auf den in der Mikrowellentechnik weit verbreiteten Reflexionsoszillator angewandt. Es wird der Zusammenhang zwischen Schleifenverstärkung, belasteter Güte und Phasenrauschen abgeleitet und analysiert. Dies führt zu einer neuen Designstrategie, mit der sich die belastete Güte maximieren lässt. Auf dieser Basis wurden MMIC-VCOs bei 38 GHz und 77 GHz realisiert, die Bestwerte in Bezug auf das Phasenrauschen erreichen.</dc:description>
+          <dc:description xml:lang="eng">This thesis treats analysis and optimization of monolithic integrated oscillators (MMIC-VCO) on GaAs. The first part describes small-signal modelling of GaAs field-effect-transistors (FET) and hetero-bipolar-transistors (HBT). For HBTs, a new algorithm is presented, which allows reliable extraction of the small-signal equivalent-circuit elements. It was successfully employed with SiGe and InP HBTs as well. Furthermore, the low-frequency noise of GaAs HBTs is investigated and an extraction routine for the relevant noise sources is developed. In a second step, these results are applied to the reflection-type oscillator, a well-known concept in microwave circuits. The relation between loop-gain, loaded Q and phase noise is derived. This leads to a new design strategy, which allows maximizing the loaded Q. As an example, MMIC-VCOs at 38 GHz and 77 GHz are realized, which achieve best-in-class phase-noise values.</dc:description>
+          <dc:date>2004-01-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/690</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6846</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6846</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/690/lenk_friedrich.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

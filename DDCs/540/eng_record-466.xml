@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:466">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:466</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Schwingungsspektroskopie katalyserelevanter Adsorbatsysteme</dc:title>
+          <dc:creator>Wang, Yuemin</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit war die Erforschung der katalytischen Reaktivität von Ru(11-20)- und RuO2(110)-Oberflächen. Dabei wurden Schwingungsspektroskopie (HREELS) und thermische Desorptionsspektroskopie (TDS) verwendet. Für NH3-Adsorption auf Ru(11-20) wurden erstmals alle erwarteten Schwingungsmoden für die verschiedenen Adsorptionszustände von der Monolage bis zur Multilage identifiziert. Zwei Adsorptionsplätze wurden in der NH3-Monolage gefunden. Beim Tempern zerfällt NH3 nach einem Angebot bis zu 0,2 L vollständig in Stickstoff und Wasserstoff. Dieser Prozess besteht aus der schrittweisen Dehydrierung von NH3. Die Aktivierungsenergien der einzeinen Reaktionsschritte von NHx (x = 3, 2, 1) wurden jeweils ermittelt zu: 70, 84 und 97 kJ/mol. Die relativ kleine Zerfallsmenge von NH3 (0,11 ML) ist auf den Bindungskonkurrenz-Effekt zurückzuführen. NH3-Belegungen bei RT führen zu dissoziativer Adsorption, und eine maximale Stickstoffbedeckung von 0,38 ML wird erreicht. Die Aktivierungsenergie für die N2-Desorption beträgt 120 kJ/mol. Die Präparation der nahezu isolierten Zwischenprodukte NH2 und NH erlaubt, deren Schwingungseigenschaften erstmals eindeutig zu charakterisieren. Für NH sind zwei niederenergetische Verluste bei 83,2 und 88,2 meV der Biegemode neu zugeordnet. Bei RT reagiert der atomare Stickstoff mit Wasserstoff auf Ru(11-20), und die Ammoniaksynthese durch die stufenweise Hydrierung von Stickstoff wird bestätigt. Auf der RuO2(110)-Oberfläche findet die CO2-Adsorption bei 85 K nur an dem bindungsmäßig ungesättigten Ru-Oberflächenatom (Ru-cus) und nicht an dem ebenfalls ungesättigten O-Oberflächenatom (O-Brücke) statt und führt zur Koexistenz von physisorbiertem CO2, chemisorbiertem CO2(delta-) und einem CO2CO2(delta-)-Dimer. Offensichtlich kann der zur Chemisorption notwendige Ladungstranfer zum CO2 nur an Ru-cus erfolgen. Nach dem Tempern wurden zwei Prozesse für physisorbiertes CO2 beobachtet: Desorption oder weitere Reaktion mit CO2(delta-) zu einem CO2CO2(delta-)-Dimer. Alle Spezies wurden durch HREEL-Spektren identifiziert. Symmetrieanalyse erlaubt es, Adsorptionsgeometrie ausführlich zu diskutieren. Hinsichtlich Carbonatbildung ist nur die O-reiche RuO2(110)-Oberfläche reaktiv. CO2-Adsorption bei 85 K sowie Tempern bis zu 250 K führen zu einer stufenweise zunehmenden Menge von Carbonat. Die Schwingungsmoden von Carbonat wurden zugeordnet. Zwei adsorbierte Spezies wurden als Reaktanden nachgewiesen: ein schwach gebundenes O-Atom (O-cus) und ein geknicktes (oder abgewinkeltes) CO2(delta-)-Molekül, die beide an benachbarten Ru-cus-Plätzen adsorbiert werden. Ein Monodentat-Carbonat wird über einen Bidentat-Übergangszustand gebildet und zerfällt nach dem Tempern auf Temperaturen über RT in CO2 und O-cus. Als maximale Carbonatbedeckung wurde 26 % der Monolage ermittelt. Durch diese Untersuchung wird bestätigt, dass die katalytische Aktivität dieser Oberfläche durch das ungesättigte Ru-Oberflächenatom verursacht wird.</dc:description>
+          <dc:date>2002-09-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/466</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4618</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4618</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/466/wang_yuemin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

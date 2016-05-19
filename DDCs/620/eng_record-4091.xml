@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4091">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4091</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR XII: Influence on Other Impact Types</dc:title>
+          <dc:creator>Thomson, Robert </dc:creator>
+          <dc:creator>Krusper, Aleksandra</dc:creator>
+          <dc:creator>O’Brien, Sean</dc:creator>
+          <dc:creator>Adolph, Thorsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The objective of this deliverable is to describe the expected influence of the candidate test procedures developed in FIMCAR for frontal impact on other impact types. The other impact types of primary interest are front-to-side impacts, collisions with road restraint systems (e.g. guardrails), and heavy goods vehicle impacts. These collision types were chosen as they involve structures that can be adapted to improve safety. Collisions with vulnerable road users (VRU) were not explicitly investigated in FIMCAR. It is expected that the vehicle structures of interest in FIMCAR can be designed into a VRU friendly shell. Information used for this deliverable comes from simulations and car-to-car crash tests conducted in FIMCAR or review of previous research. Three test configurations (full width, offset, and moving deformable barriers) were the input to the FIMCAR selection process. There are three different types of offset tests and two different full width tests. During the project test procedures could be divided into three groups that provide different influences or outcomes on vehicle designs:&#13;
+ 1. The ODB barrier provides a method to assess part of the vehicles energy absorption capabilities&#13;
+    and compartment test in one test&#13;
+ 2. The FWRB and FWDB have similar capabilities to control structural alignment, further assess&#13;
+    energy absorption capabilities, and promote the improvements in the occupant restraint system&#13;
+    for high deceleration impacts. &#13;
+ 3. The PDB and MPDB can be used to promote better load spreading in the vehicle structures, in&#13;
+    addition to assessing energy absorption and occupant compartment strength in an offset configuration.&#13;
+The consortium selected the ODB and FWDB as the two best candidates for short term application in international rulemaking. The review of how all candidates would affect vehicle performance in other impacts (beside front-to-front vehicle or frontal impacts with fixed obstacles) however is reported in this deliverable to support the benefit analysis reported in FIMCAR. The grouping presented above is used to discuss all five test candidates using similarities between certain tests and thereby simplify the discussion.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4091</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40914</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40914</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4091/FIMCAR_XII_influence.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

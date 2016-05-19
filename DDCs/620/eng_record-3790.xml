@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3790">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3790</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Kosten und externe Effekte des künstlichen Lichts sowie Ansätze der ökonomischen Bewertung </dc:title>
+          <dc:creator>Hänsch, Robert</dc:creator>
+          <dc:creator>Könecke, Benjamin</dc:creator>
+          <dc:creator>Pottharst, Merle</dc:creator>
+          <dc:creator>Wukovitsch, Florian</dc:creator>
+          <dc:description xml:lang="deu">Der vorliegende Band wurde im Rahmen des Teilprojekts 5 "Kosten des Verlusts der Nacht – Eine ökonomische Analyse der Folgen nächtlicher Beleuchtung" als Literaturbericht der ersten Projektphase erstellt. Der Text stellt einen Überblick über den Forschungsstand zu den direkten Kosten der zunehmenden künstlichen nächtlichen Beleuchtung sowie zu näherungsweisen Bewertungen von ökonomischen Wirkungen der externen Kosten zum Stand Ende 2011 dar.</dc:description>
+          <dc:date>2013-02-15</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3790</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38691</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38691</dc:identifier>
+          <dc:identifier>978-3-7983-2503-6</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3790/haensch_kosten_externe_effekte.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2809">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2809</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Genetics of scleroglucan production by Sclerotium rolfsii</dc:title>
+          <dc:title xml:lang="deu">Genetik der Scleroglukan Produktion mit Sclerotium rolfsii</dc:title>
+          <dc:creator>Schmid, Jochen</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">Scleroglucan is an exopolysaccharid produced by the basidiomycete S. rolfsii and consists of β-1,3 linked glucose with a β-1,6 glycosyl branch on every third unit. The scleroglucan biosynthesis as well as the pathway leading to formation of the unwanted by-product oxalate were analysed on sequence level with the aim to enable metabolic engineering in S. rolfsii. A transformation system for S. rolfsii was established in order to enable functional genetics. The ab initio pyrosequencing of an EST library combined with two transcriptomic approaches, namely suppression subtractive hybridisation and microarray technique, delivered initial insights into the genomics of S. rolfsii during scleroglucan production. Based on the data obtained, it can be postulated that scleroglucan synthesis is carried out by a five-step-biosynthesis. The nucleotide sugar supply for scleroglucan synthesis was confirmed by the identification of four protein coding genes, namely hexokinase, phosphoglucomutase, UTP-glucose-1-phosphate uridylyltransferase and the backbone elongating β-1,3-glucan synthase. The last enzyme (or enzymes), responsible for branching on every third unit, remains speculative. The biosynthesis of oxalate could be further unravelled by the identification of glycolate oxidase and oxaloacetate hydrolase, both acting within the GLOX cycle. Putative target genes were identified by sequence analysis for oxaloacetate hydrolase, glycolate oxidase and isocitrate lyase. Theses genes represent promising target genes for metabolic engineering, in order to improve S. rolfsii as a production host for industrial scleroglucan synthesis. The data obtained indicate that there is a novel energy saving metabolic system in S. rolfsii via coupling of TCA and GLOX cycle and alternatively by oxidation of formate. This lead to the suggestion that the aerobic fungus S. rolfsii possesses several mechanisms to adapt and survive anaerobic growth conditions caused by excessive scleroglucan production.</dc:description>
+          <dc:description xml:lang="deu">Scleroglukan, ein Exopolysaccharid, bestehend aus β-1,3 verknüpfter Glukose mit einer β-1,6-glycosidischen Verzweigung an jeder dritten Einheit, wird von dem Basidiomyzeten Sclerotium rolfsii sekretiert. Sowohl die Biosynthese von Scleroglucan als auch der Syntheseweg des Hauptnebenprodukts Oxalat wurden auf Sequenzebene analysiert, um durch Metabolic Engineering die Scleroglukan Produktion optimieren zu können. Hierzu war es nötig ein Transformations-System für S. rolfsii zu etablieren. Eine ab initio Pyrosequenzierung in Verbund mit zwei zusätzlichen Untersuchungen auf Transkriptomebene, namentlich subtraktive suppressive Hybridisierung und Microarray Analyse, gewähren erstmals Einblick in die Molekulargenetik und den Stoffwechsel von S. rolfsii. Für die Biosynthese von Scleroglukan konnte dadurch eine Abfolge der Genprodukte Hexokinase, Phosphoglukomutase, UTP-Glukose-1-Phosphat Uridylyl-transferase und β-1,3-Glukan Synthase postuliert werden, der letzte Schritt der β-1,6-Verzweigung bleibt weiterhin spekulativ. Für die Oxalat Biosynthese wurden zwei Enzyme identifiziert welche direkt an der Oxalat Synthese über den GLOX Zyklus in S. rolfsii beteiligt sind, Glykolat Oxidase und Oxalacetat Hydrolase. Beide Enzyme wurden zum ersten Mal in S. rolfsii nachgewiesen. Die gewonnenen Sequenzdaten liefern somit Angriffspunkte für ein Metabolic Engineering des Oxalat Stoffwechsels über die Gene für Oxalacetat Hydrolase, Glykolat Oxidase oder auch der Isocitrat Lyase. Die nötige Energie für die Scleroglukan Biosynthese wird durch eine Kopplung des TCA mit dem GLOX Zyklus geliefert oder alternativ, über die Oxidation von Formiate. Anaerobe Respiration erscheint ebenfalls möglich in S. rolfsii, was ein absolutes Novum für diesen bisher als aerob betrachteten Pilz darstellt und einen Hinweis für vielfältige Adaptionsmöglichkeiten von S. rolfsii verkörpert.</dc:description>
+          <dc:date>2011-02-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/octet-stream</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2809</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21142</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21142</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2809/Supplemental%20Data_Schmid_Jochen.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2809/Supplemental_Data_Schmid_Jochen.7z</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2809/schmid_jochen.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

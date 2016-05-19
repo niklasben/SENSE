@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:262">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:262</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Fluids confined by nanopatterned substrates</dc:title>
+          <dc:title xml:lang="deu">Fluide zwischen nanostrukturierten Substraten</dc:title>
+          <dc:creator>Bock, Henry</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Der Einfluß chemischer Heterogenität der Substratoberflächen auf Phasenverhalten und mechanische Eigenschaften von Fluiden in begrenzender Geometrie wird untersucht. In der vorliegenden Arbeit sind Fluide durch chemisch strukturierte, planparallele Substrate auf schlitzförmige Bereiche nanoskopischer Dicke eingeschränkt.Die chemisch strukturierten Substrate bestehen aus alternierenden stark und schwach adsorbierenden Streifen. Zur Untersuchung des Phasenverhaltens werden Phasendiagramme eines(einfach-kubischen) Gittergases berechnet. Eine modulares Verfahren erlaubt die analytische Berechnung von Phasendiagrammen bei verschwindender Temperatur (T=0). Für T&gt;0 wird das Gittergas innerhalb einer Molekularfeldnäherung behandelt. Das komplexe Phasenverhalten ist unter anderem dadurch gekennzeichnet, dass die Porenkondensation in zwei aufeinander folgende Phasenübergänge erster Ordnung aufspaltet. Während des ersten Überganges wird eine Flüssigkeitsbrücke zwischen den sich genüberliegenden stark adsorbierenden Substratteilen gebildet. Brückenphasen unterscheiden sich von allen anderen Phasen, da sie bei allen Abständen zwischen den Wänden laterale Inhomogenitäten aufweisen. Um den Einfluß der Vereinfachungendieses Modells zu kontrollieren, werden wesentliche Ergebnisse mit Hilfe eines kontinuierlichen Modells überprüft. Durch Verschiebung der Wände gegeneinander, können Flüssigkeitsbrücken einer Scherdeformation alpha sx ausgesetzt, die zu einer nicht verschwindenden Scherspannung Tzx führt. Die entsprechenden Scherspannungskurven Tzx(alpha sx)stimmen qualitativ mit denen überein, die für feste Filme zwischen atomar strukturierten Wänden gefunden werden. Bei kleinen alpha sx verhält sich eine Flüssigkeitsbrücke wie eine Hooke'sche Feder, gefolgt von einem Bereich zunehmender Nichtlinearität, bis schließlich ein ein Maximum, der sogenannte Haltepunkt erreicht ist. Variationen der Breite der stark und schwach adsorbierenden Streifen führen zu einer Verschiebung des Haltepunktes, ändern jedoch die generelle Form der Scherspannungskurven nicht. Mit Hilfe einer Theorie korrespondierender Zustände können die Scherpannungskurven auf die Koordinaten des Haltepunktes normiert und durch eine systemparameterfreie universelle Kurve repräsentiert werden.</dc:description>
+          <dc:description xml:lang="eng">The impact of chemical heterogeneity of solid surfaces on phase behavior and mechanical properties of confined simple fluids is investigated. In the present work fluids are confined to a slit of nanoscopic width by chemically decorated, plan-parallel substrates consisting of alternating slabs of weakly and strongly adsorbing solid. The phase behavior is explored by calculating phase diagrams using a simple-cubic lattice-gas model. A modular approach is developed which allows us to calculate the phase diagram analytically at vanishing temperature (T=0). At higher temperatures T&gt;0 the lattice gas is treated within the mean-field approximation. A rich phase behavior is observed which depends on the large set of parameters needed to describe the heterogeneous confinement. Caused by the chemical heterogeneity of the substrates the capillary condensation is split into two successive first-order phase transitions. During the first transition the gap between opposing strongly adsorbing wall parts is filled with liquid surrounded by vapor, that is a bridge phase forms. Bridge phases are distinguished from all other phases in that they are laterally inhomogeneous at all planes z=const. The mean-field approximation to the lattice-gas model is used since it provides phase diagrams at moderate computational expense. To control the influence of the simplifications inherent in the lattice model, the main findings are verified qualitatively employing a parallel continuous model, which is treated by Monte Carlo simulations. By misaligning the the opposite substrates, bridge phases can be subjected to a shear strain alpha sx. Because of their unique internal structure bridge phases support a nonvanishing shear stress T zx. The shear stress curve T zx(alpha sx)is qualitatively similar to the one characteristic of solidlike films confined between atomically structured substrates, in that the response to small strains is Hookean, followed by an increasingly nonlinear regime up to the yield point where T zx(alpha sx) assumes its maximum. Variation of the width of strongly and weakly adsorbing slabs causes the yield point to shift, but does not alter the general form of T zx(alpha sx). With the aid of a theory of corresponding states, T zx(alpha sx) is renormalized by yield stress and strain such that the results can be represented uniquely by a master curve independent of any system parameters.</dc:description>
+          <dc:date>2001-11-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/262</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2573</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2573</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/262/bock_henry.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

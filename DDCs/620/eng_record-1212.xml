@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1212">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1212</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mischungsverstärker in konstant gekreuzten Scherschichten und im Abgasblütenmischer</dc:title>
+          <dc:title xml:lang="eng">Enhancement of mixing effectiveness in skewed streams and lobed mixers</dc:title>
+          <dc:creator>Deinert, Bianca</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand der vorliegenden Untersuchungen ist die Mischungsverbesserung durch Mischungsverstärker in konstant gekreuzten Scherschichten und im Abgasblütenmischer. Hierbei ist neben dem Mischungsgrad beider Ströme der Druckverlust, der durch die Vermischung entsteht, wichtig, da hierdurch die Gewinne durch die Mischung zum Teil wieder aufgezehrt werden. Ziel der Untersuchungen war einerseits die Untersuchung der Wirkung von Mischungsverstärkern in konstant gekreuzten und mischerähnlichen Scherschichten sowie zu prüfen, ob der Einsatz von Mischungsverstärkern in Abgasblütenmischern die Möglichkeit einer Schubsteigerung bietet. Die experimentellen Untersuchungen wurden an einem Niedergeschwindigkeits- sowie in einem Hochgeschwindigkeits-Zweistromwindkanal durchgeführt. Im Vorfeld der Untersuchungen wurden verschiedene Visualisierungstechniken zur Strömungssichtbarmachung angewendet. Es konnte gezeigt werden, dass der Einsatz von Mischungsverstärkern zu einer Mischungsverbesserung und einer Druckverluststeigerung führt. Es wurde darüber hinaus der Schubgewinn durch den Einsatz von Mischungsverstärkern berechnet und gezeigt, in welchen Triebwerken der Einsatz solcher Mischungsverstärker zu einer Schubsteigerung führen könnte.</dc:description>
+          <dc:description xml:lang="eng">The present investigation considers mixing enhancement in skewed streams and lobed mixers through the introduction of smaler scale mixing devices. For the design of these mixing devices it is important to keep in mind, that the devices have to produce smaler scale vorticity, but with an acceptable pressure loss. Forced mixers are used to improve the performance (thrust and SFC) and to reduce jet-mixing noise of turbofan engines. The experimental investigations were conducted in a two-stream low-speed wind tunnel and a two-stream high-speed wind tunnel. To survey the flow behaviour the constant skewed streams and lobed mixer streams disturbed by tabs were visualized with different facilities. It was shown that the introduction of mixing devices improves mixing effectiveness, but increases the pressure loss as well. Further more the gain of thrust was calculated.</dc:description>
+          <dc:date>2006-03-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1212</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12293</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12293</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1212/deinert_bianca.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

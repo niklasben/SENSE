@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3798">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3798</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">SOLARCHVISION Studies on Young Cities Project</dc:title>
+          <dc:creator>Samimi, Mojtaba</dc:creator>
+          <dc:creator>Nasrollahi, Farshad</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">The natural as well as the artificial environment affect a building’s energy balance. Together with the vegetation and water bodies, these natural and artificial features produce microclimatic conditions that not only influence the energy-related aspects, but also the comfort conditions of a building. Alongside the effects of the natural environment in a microclimate, buildings interact on behalf of the received solar radiation and both the wind direction and speed; with the solar radiation, however, being the most influential factor. Buildings in an urban complex can, on the one hand, overshadow each other at different times of the day and year; on the other hand, they can reflect solar radiation and thus generate greater incidence on different surfaces, which is one of the key factors characterizing a building’s energy balance. In order to minimize the heating and cooling energy demands in continental climates, the building envelope (especially the transparent parts) must generate maximum solar gain during the heating period and minimum solar gain during the cooling period. The amount of solar heat reaching the different surfaces of the building’s thermal envelope at different times of the day and year depend on the orientation of each surface as well as the shading created by the surrounding natural and built environment. The urban form of a neighborhood unit, a building cluster and an individual building affect the solar heat gain both in regard of the surfaces’ orientation (orientation and form) as well as the urban form and composition of the neighborhood units, and influence the shading between buildings. Due to the fact that incident solar radiation play a positive role in winter but a negative one in summer, only the intensity of solar radiation incidence on the outer surfaces of a building throughout the whole year cannot contribute in an energy-efficient design. Therefore, the SolarVision has combined the amount of solar radiation and the air temperature as an energy-related factor. This factor presents the advantageous and disadvantageous characteristics of any surface from the viewpoint of received solar radiation at different times. This factor can be calculated and plotted for different surfaces in neighborhood units or for single buildings. The decisions that can be made based on this factor in urban planning and building design lead to energy-efficient buildings. The SolarVision analysis can contribute to energy efficiency in different scales from urban scale up to building and detail scale. Since the analysis of the urban and building form by SolarVision is a planning and design tool for energy efficiency, it does not increase the investment costs of the buildings since no further material or technology is needed. After a scientific introduction to SolarchVision analysis, this Young Cities Research Brief analysis the commercial mixed-use as well as New Generation Office Building regarding the intensity and duration of received solar radiation in different seasons.</dc:description>
+          <dc:contributor>Sponsored by German Federal Ministry of Education and Research (BMBF)</dc:contributor>
+          <dc:date>2013-06-05</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3798</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40241</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40241</dc:identifier>
+          <dc:identifier>978-3-7983-2551-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3798/No06_SOLARCHVISION.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

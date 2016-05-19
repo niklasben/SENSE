@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:30">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:30</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Molekulargenetische Untersuchungen zum Ethanol-oxidierenden System in Pseudomonas aeruginosa</dc:title>
+          <dc:creator>Schobert, Max</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="deu">Einige Gram-negative Bakterien bilden beim Wachstum auf Alkohol als einziger Kohlenstoff- und Energiequelle interessante Enzymsysteme mit Quinoprotein-Alkoholdehydrogenasen. Diese Quinoproteine besitzen eine ungewöhnliche prosthetische Gruppe, Pyrrolochinolinchinon, sind im Periplasma lokalisiert und übertragen die Reduktionsäquivalente auf die Elektronentransportkette. Pseudomonas aeruginosa ATCC 17933 bildet beim Wachstum auf Ethanol ebenfalls ein Quinoprotein-Enzymsystem. Zwei Komponenten dieses Systems, die Quinoprotein-Ethanoldehydrogenase und das Cytochrom c550 waren zu Beginn der vorliegenden Arbeit bekannt. Das Ziel der Arbeit war es, mit einem molekulargenetischen Ansatz weitere Komponenten des Ethanol-oxidierenden Systems zu identifizieren, die Anzahl und Organisation der beteiligten Gene abzuschätzen und ihre Regulation zu studieren. Zur Identifizierung der beteiligten Gene wurden 21 Pseudomonas aeruginosa Mutanten isoliert, die nicht mehr auf Ethanol wachsen konnten. Diese Mutanten konnten biochemisch charakterisiert und gemäß ihres Phänotyps in vier Gruppen eingeteilt werden. Mit einer Cosmidgenbank wurden alle Mutanten komplementiert und zehn verschiedene Cosmide isoliert. Das Gen des Cytochrom c550 wurde durch Hybridisierung mit einer Gensonde auf einem DNA-Fragment eines komplementierenden Cosmids identifiziert und sequenziert. Die abgeleitete Aminosäuresequenz wies überraschenderweise nur geringe Identitäten zu anderen c-Typ Cytochromen auf. Unerwartet war auch die Umgebung des Cytochrom c550 Gens: Vor dem Cytochrom c550 Gen und zu diesem divergent orientiert liegt das Gen der Quinoprotein Ethanoldehydrogenase. Dem Cytochrom c550 Gen folgt ein Gen für eine cytoplasmatische NAD+-abhängige Aldehyddehydrogenase. Die Regulation der divergent zueinander orientierten Promotoren von Cytochrom c550 und der Quinoprotein Ethanoldehydrogenase wurde durch transkriptionelle Fusionen mit dem lacZ Gen untersucht. Hierbei konnte ein Zwei-Komponenten System identifiziert werden, welches die Expression der Quinoprotein Ethanoldehydrogease unabhängig vom Cytochrom c550 Gen kontrolliert. Insgesamt wurden sieben Regulationsmutanten identifiziert. Die Zusammenfassung aller Ergebnisse dieser Arbeit zeigten, daß P. aeruginosa zum Wachstum auf Ethanol ein unerwartet komplex aufgebautes und reguliertes Ethanol-oxidierendes System benötigt: Mindestens 17 Gene sind am Ethanol oxidierende System in P. aeruginosa beteiligt, davon sind sieben Gene allein für die Regulation notwendig.</dc:description>
+          <dc:date>2000-08-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/30</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-276</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-276</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/30/schobert_max.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

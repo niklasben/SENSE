@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1046">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1046</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Simulationen und Messungen polarisationsabhängiger Raman-Intensitäten von β-Carotinen in Photosystem II-Kristallen</dc:title>
+          <dc:title xml:lang="eng">Simulations and measurements of polarisation-dependent Raman intensities of β-carotenes in photosystem II crystals</dc:title>
+          <dc:creator>Brose, Katharina</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Diese Dissertation behandelt Simulationen und Messungen von β-Carotinmolekülen in monomeren und dimeren Photosystem II-Kristallen mithilfe der polarisationsabhängigen Raman-Spektroskopie. Es wird diskutiert, inwiefern sich mit dieser Methode das Verhalten einzelner β-Carotinmoleküle innerhalb der Photosystem II-Molekülkomplexe untersuchen lässt. Die Vergleiche der berechneten und gemessenen Raman-Intensitäten erfolgen an zwei ausgewählten Schwingungsmoden, bezeichnet als ν66 und ν67. Die Schwingungen dieser beiden Raman-Moden sind annähernd parallel zur Längsausrichtung des Moleküls orientiert, weswegen die Lage des Moleküls Einfluss auf die ermittelten Intensitäten hat. Bei den Simulationen wird erstmals die individuelle Orientierung eines jeden β-Carotins innerhalb der Einheitszelle des Kristalls berücksichtigt. Für die Berechnungen der winkelabhängigen Raman-Intensitäten der Moleküle wurde aufgrund der Annahme einer C2h-Symmetrie des β-Carotins die Raman-Symmetrie Ag sowie die Einträge des daraus resultierenden Raman-Tensors Rz für beide β-Carotinmoden bestimmt und durch den Vergleich mit polarisationsabhängigen Raman-Messungen bestätigt. Die Position des einzelnen β-Carotins wird mithilfe von Drehmatrizen bei der Intensitätsberechnung beschrieben. Beim Vergleich mit Raman-Messungen dreier Anregungswellenlängen (476, 532, 1064nm) ergeben sich für die berechneten Gesamtintensitäten gute Übereinstimmungen mit Ausnahme für die Mode ν66bei 476nm. Als Grund für diese Diskrepanz werden resonanzbedingt ein verstärkter Einfluss der Proteinumgebung und des Duschinsky-Effekts angenommen. Es wird außerdem nachgewiesen, dass bei der Messung eines belichteten Photosystem II-Kristalls bei 1064nm das Raman-Spektrum des β-Carotinradikalkations eine resonant verstärkte Mode im Bereich der Moden ν66 und ν67 besitzen muss.</dc:description>
+          <dc:description xml:lang="eng">This thesis presents simulations and measurements of polarisation dependent Raman spectroscopy on β-carotene molecules in monomeric and dimeric photosystem II crystals. It is discussed how this method can be used to investigate individual β-carotene molecules inside the photosystem II complexes. The comparison of the calculated and measured Raman intensities is done for two vibrational modes called ν66 and ν67. The vibrations of these two Raman modes are approximately in longitudinal alignment to the molecule axis which causes an influence on the Raman intensity due to the position of the molecule. For the first time the simulations of the Raman intensities include the individual orientation for each β-carotene inside the crystal unit cell. The calculations of the rotation angle dependent Raman intsities asume the C2h-symmetry of the β-carotene molecule and assign to both vibrational modes the Ag Raman symmetry and the entries of the resulting Raman tensor Rz. Comparison to polarisation dependent Raman measurements confirm the assignments. The position of individual β-carotene molecules is descibed by rotation matrices in the simulations. Comparing the predictions with measurements at three excitation wavelengths (476, 532, 1064nm) show good agreement except for the mode ν66 at 476nm. The reasons for this single mismatch is most likely the resonant excitation which causes a stronger influence of the protein environment and the Duschinsky effect. Raman measurements with 1064nm excitation on the photosystem II crystal during exposure to light reveal a resonantly enhanced mode of the β-carotene cation in the region of the modes ν66 and ν67.</dc:description>
+          <dc:date>2013-06-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1046</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40370</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40370</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1046/brose_katharina.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

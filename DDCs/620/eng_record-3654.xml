@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3654">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3654</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung von Einsatzszenarien einer automatischen Mittelpufferkupplung</dc:title>
+          <dc:title xml:lang="eng">Investigation of implementation scenarios of an automatic central buffer coupling</dc:title>
+          <dc:creator>Stuhr, Helge Johannes</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Standardkupplungssystem im europäischen Schienengüterverkehr (SGV) ist nach wie vor die Schraubenkupplung mit Seitenpuffern – ein technisches System, das sich seit seiner Einführung vor rund 170 Jahren prinzipiell nicht verändert hat. Nachteile des Systems sind die aufwändige manuelle Bedienung und seine starken Einschränkungen für die zulässigen Zugdimensionen Länge und Masse. Eine Alternative ist in sogenannten (halb)automatischen Mittelpufferkupplungen zu sehen, wie sie in weiten Teilen der Erde seit Langem im Einsatz sind. Die letzten großen Einführungsversuche alternativer Kupplungssysteme sahen großflächige Umrüstungen innerhalb eines relativ kurzen Zeitraums in einem europäischen Bahnmarkt der Staatsbahnen mit nationalen Monopolen vor. Sie scheiterten an der nationalen und internationalen Einigungsfähigkeit auf eine Umstellung und den damit zusammenhängenden Kosten. Vor dem Hintergrund der geänderten Struktur im liberalisierten Bahnmarkt und neuen technischen Kupplungsentwicklungen befasst sich die Arbeit mit dem Ansatz der Umrüstung einzelner Teilbereiche des SGV, der die Vorteile einer Innovation dort sofort ermöglicht und durch eine sukzessive Hinzunahme weiterer Teilbereiche zu einer Vollumrüstung führen kann. In Form einer qualitativen Untersuchung wird dazu den Fragen nachgegangen, in welchen Teilbereichen des SGV primär eine partielle Einführung anzustreben ist und welchen Funktionsumfang das neue System für einen größtmöglichen Nutzen haben sollte. Einleitend gibt die Arbeit dazu einen Überblick über den Schienengüterverkehrsmarkt, die an ihn gestellten Anforderungen und seine Wachstumsaussichten. Daraus wird der Bedarf nach Innovation im SGV abgeleitet. Der Technikeinsatz wird beleuchtet, indem ausführlich auf die Kupplungsthematik aus technischer Sicht eingegangen sowie ihr möglicher Beitrag für weitere technische Innovationen wie überlange Züge, verteilte Traktion oder elektrisch angesteuerte Bremsen untersucht wird. Als Methode zur Entscheidungsfindung dient die Nutzwertanalyse. Dazu wird ein ausführlicher Kriterienbaum erstellt, der ebenso zur Bewertung anderer technischer Innovationen für den SGV herangezogen werden kann.</dc:description>
+          <dc:description xml:lang="eng">The screw coupling combined with side buffers is still the standard coupling system in Europe’s rail freight transport. This system has only been developed further in small details since its first deployment over 170 years ago. An alternative is to be seen in automatic central buffer couplings, as they are in use in most other parts of the world. The advantages of such systems are the reduction of the needed workforce for coupling processes and the possibility to run longer and heavier trains. The aim of the last large-scale attempts to implement alternative coupling systems was the wide-range implementation within a short in a railway market, in which the national railway companies where monopolists. They failed because of the non-ability of the national authorities to agree on a conversion and on the costs incurred. Against the background of the structural changes of Europe’s railway market, which is now liberalized, and of current technical developments, the thesis analyses the possibilities of an implementation of automatic central buffer couplings in subdomains of the rail freight system. The aim of this strategy is that the new system quickly generates benefits in the converted subdomains and that the subdomains can grow gradually. Based on a qualitative analysis the thesis examines which subdomains should be selected for the first implementation and which technical functions the new system should incorporate. As an introduction an overview of the rail freight market, the transport and quality demands of its customers and its growth prospects is given. This results in the awareness that innovations are urgently needed. Following, the topic of coupling systems is elaborated, considering the effect of these new systems on the possibilities of running longer trains and of using distributed traction and electronically controlled brakes. To help decision making a value benefit analysis is used. For this, a detailed hierarchical criteria tree is developed in a way that it can be used for the assessment of other innovative technologies for rail freight transport as well.</dc:description>
+          <dc:date>2013-03-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3654</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38904</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38904</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3654/stuhr_helge.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

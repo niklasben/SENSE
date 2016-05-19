@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1388">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1388</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Strahlungsübertragung durch Stufen-Index-Fasern ; eine rechnerische und experimentelle Analyse</dc:title>
+          <dc:title xml:lang="eng">Radiation transfer of step-index-fibers ; a computational and experimental analysis</dc:title>
+          <dc:creator>Uebel, Stefan</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die Strahlungsübertragung durch Stufen-Index-Fasern wird rechnerisch beschrieben und experimentell untersucht. Die Beschreibung erfolgt mit einem strahlenoptischen, dreidimensionalen Ansatz. Im Mittelpunkt der Untersuchung stehen die in der Faser windschief verlaufenden Strahlen. Die andersartige Ausbreitung windschiefer Strahlen wird eingehend rechnerisch analysiert und diskutiert. Die Diskussion wird mit einer 3D-computergestützten Strahldurchrechnung als auch analytisch durchgeführt. In zahlreichen Experimenten wird der Beitrag windschiefer Strahlen zur Strahlungsübertragung demonstriert und ausgewertet.</dc:description>
+          <dc:description xml:lang="eng">The radiation transfer of step-index-fibers is computed and experimentally investigated. The calculation is worked out by means of geometrical optics in three dimensions including skew rays. The propagation of skew rays in a step-index-fiber is analyzed and discussed in a 3D-computer-simulation. The contribution of skew rays to the radiation transfer is demonstrated in many experiments and evaluated.</dc:description>
+          <dc:date>2006-12-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1388</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14389</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14389</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1388/uebel_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

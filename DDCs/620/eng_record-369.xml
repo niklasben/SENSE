@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:369">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:369</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Quality of Service Support for Multimedia Services in Wireless CDMA Systems</dc:title>
+          <dc:title xml:lang="deu">Dienstgüteunterstützung für multimediale Dienste in drahtlosen CDMA Systemen</dc:title>
+          <dc:creator>Fitzek, Frank</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Mobilfunk hat in dem letzten Jahrzehnten eine bemerkenswerte Entwicklung vollzogen. Aufgrund der allgemeinen Nachfrage durch die Mobilkunden nach mehr Mobilität erfreuen sich drahtlose Endgeräte vermehrter Nachfrage. Parallel zu der Entwicklung des Mobilfunks wird auch die Anzahl der Benutzer des Internets stark ansteigen. Die erste und zweite Mobilfunkgeneration war durch das Bedürfnis des Kunden nach Sprachdiensten geprägt. Zukünftige Mobilfunkgenerationen werden darüber hinaus auch Multimedia-Dienste über das Internetprotokoll anbieten. Multimedia-Dienste umfassen sowohl Sprach als auch Video, Daten und Gaming Dienste. Das Zusammenführen von Multimedia-Diensten und dem Mobilfunk stellt erhöhte Ansprüche an die Kommunikationsprotokolle. Gerade durch die Eigenschaften des drahtlosen Kanals ensteht die Schwierigkeit, dem Mobilkunden die vom Festnetz bekannten Leistungsmerkmale auch auf dem drahtlosen Endgerät bereitzustellen. Der drahtlose Kanal ist im Gegensatz zu dem drahtgebundenen Kanal fehlerbehafteter. Um diese Fehler zu korrigieren gibt es Fehlerschutzmechanismen wie ARQ und FEC in der Datensicherungsschicht. Im Falle von FEC wird dem eigentlichen Datenwort Redundanz hinzugefügt, mit der der Empfänger das richtige Datenwort dekodieren kann, selbst dann wenn Fehler auf dem drahtlosen Kanal enstanden sind. Je mehr Redundanz hinzugefügt wird desto fehlerunanfälliger wird die Übertragung. Gleichzeitig sinkt aber auch die Netto-Datenrate und damit die Verzögerung mit mehr Redundanz. Der Vorteil von FEC ist ein stabiler Durchsatz mit stabilen und daher voraussehbaren Verzögerungen; der Nachteil liegt in der erhöhten Redundanz bei gutem Kanalzustand, da wo die Redundanz möglicherweise nicht gebraucht würde. In solchen Situationen würde Bandbreite verschwendet werden. ARQ Verfahren wiederholen fehlerhafte Datenworte, während weitere Datenworte in der Warteschlange zurückgehalten werden. Somit umgehen die ARQ-Verfahren den Nachteil von FEC Verfahren, in dem sie nur fehlerhafte Datenworte behandeln. Andererseits wird dadurch der Durchsatz und die Verzögerung variabel. Beide Verfahren ARQ und FEC sind zur Unterstützung von Multimedia-Diensten aufgrund des verringerten Durchsatzes oder der variable Verzögerung nicht optimal. Die Idee für den in dieser Arbeit vorgestellten Ansatz, im folgenden Simultaneous MAC Packet Transmission genannt, basiert auf der Fähigkeit von drahtlosen Endgeräten auf mehreren CDMA Kanälen gleichzeitig zu senden und zu empfangen. Eine Möglichkeit dies zu erreichen basiert auf der Multi-Code CDMA Technologie. SMPT versendet fehlerhafte Datenworte nicht sequentiell wie ARQ in der Zeitdomäne, sondern benutzt parallele Kanäle, um die Wiederholungen zu übertragen. Die in dieser Arbeit gemachten simulativen Untersuchungen beschränken sich auf zellulare Systeme. Durch den Einsatz der Pseudo-Noise Sequenzen könnten die SMPT Mechanismen aber auch für Ad-Hoc Systeme zum Einsatz kommen.</dc:description>
+          <dc:date>2002-07-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/369</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3649</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3649</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/369/fitzek_frank.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

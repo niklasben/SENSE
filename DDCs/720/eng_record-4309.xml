@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4309">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4309</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Placemaker : Autobahn Inhabited Bridges on the Berlin Stadtring A100</dc:title>
+          <dc:creator>Vuga, Bostjan </dc:creator>
+          <dc:creator>Ruby, Andreas </dc:creator>
+          <dc:creator>Leeser, Jörg</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">PLACEMAKER is the third in a series of four PLACE studios conducted at ADIP the Architecture Design Innovation Program at the TU Berlin.&#13;
+&#13;
+PLACEMAKER investigats non-places – places of transience that do not hold enough significance to be regarded as places. An architectural object that is placed into a non-place environment must have the ability to create a field of transition and subsequently become an actual destination. Its architectural design and its hybrid-public as well as internal program must become an attraction in order for the original non-place to become a new place.&#13;
+The non-place environment of investigation for this studio was Berlin’s intercity highway - the A100 Stadtautobahn. Four sites were selected based on the diversity of their context and the evident discontinuation of the city fabric inflicted by the highway.</dc:description>
+          <dc:date>2014-04-02</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4309</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43096</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43096</dc:identifier>
+          <dc:identifier>978-3-7983-2647-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4309/ADIP_magazine_3_3.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

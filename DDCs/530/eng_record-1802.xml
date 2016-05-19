@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1802">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1802</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ultraschnelle Entmagnetisierung: Co und Fe20Ni80/IrMn</dc:title>
+          <dc:title xml:lang="eng">Ultrafast demagnetization: Co and Fe20Ni80/IrMn</dc:title>
+          <dc:creator>Heitkamp, Bernd</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die Magnetisierungsdynamik auf einer Femtosekundenskala an zwei unterschiedlichen magnetischen Systemen untersucht. Ein Teil der Arbeit befasst sich mit der optisch induzierten Entmagnetisierung von dünnen Kobaltfilmen. Mit spinaufgelöster Photoemission kann für die Zeitkonstante der Entmagnetisierung ein Wert von 170 fs bestimmt werden, bei einer maximalen Entmagnetisierung von etwa 20 %. Zusätzlich zur Entmagnetisierung wird während der optischen Anregung ein Einbruch der Spinpolarisation beobachtet. Mit Hilfe eines spinaufgelösten Ratenmodells wird belegt, dass der Einbruch rein elektronischer Natur ist. Durch die stark unterschiedliche Zustandsdichte und damit auch Lebensdauern der Majoritäts- und Minoritätselektronen ändert sich die gemessene Spinpolarisation. Auf Grund der kurzen Lebensdauern der angeregten Elektronen in den Zwischenzuständen tritt der Effekt nur während des zeitlichen Überlapps von Pump- und Probepuls auf. Dieser Effekt ist dem „bleaching“ aus magnetooptischen Messungen ähnlich. Im zweiten Teil der Arbeit wird die Ultrakurzzeitdynamik an einem Schichtsystem aus Ferromagnet und Antiferromagnet mit rein optischer zeitaufgelöster Spektroskopie untersucht. Aus den statischen Messungen kann für das Exchange Bias-System Fe20Ni80/IrMn eine mikroskopische Modellierung mit dem Spin-Glass Modell gefunden werden. Die Entmagnetisierungsdynamik zeigt bei maximaler Pumpleistung einen Einbruch der Magnetisierung des ferromagnetischen Fe20Ni80 von 2 %. Der halbe Einbruch wird etwa 110 fs nach der Anregung gemessen. Die Dynamik des Exchange Bias ist vielfältig. Sowohl Exchange Bias als auch Koerzitivität der Probe zeigen eine Variation auf einer Femtosekundenzeitskala. Aus einer mikroskopischen Modellierung lässt sich belegen, dass sich die Grenzflächenenergie innerhalb von 180 fs halbiert. Dies kann nur durch ein athermisches Anregen der Grenzflächenspins erklärt werden. Möglicherweise bietet die Femtosekundenanregung einen Kanal für ein ultraschnelles Schalten der ferromagnetischen Schicht.</dc:description>
+          <dc:description xml:lang="eng">In this thesis the magnetization dynamics of two different systems is presented. Part I investigates the magnetization dynamics on a femtosecond time scale of ferromagnetic cobalt. Spin and time-resolved photoemission shows a demagnetizaiton timescale of abou 170 fs. The total demagnetization is about 20%. In addition a decrease of the observed spinpolarization during the temporal overlap of pump- and probe-pulse could be seen. This is explained by a different lifetime of excited majority and minority electrons. Part II investigates the magnetizaiton dynamics of the "exchange bias"-system Fe20Ni80/IrMn. The pure demagnetization of the ferromagnetic layer shows a maximal demagnetization of 2%. Exchange bias and coercitivity show a change on the femtosecond time scale. Exchange bias decreases within 180 fs to half of its value befor the excitation. This athermal excitation may give the possibility for an ultrafast switching of a ferromagnet in only small applied fields.</dc:description>
+          <dc:date>2008-06-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1802</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18995</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18995</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1802/heitkamp_bernd.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

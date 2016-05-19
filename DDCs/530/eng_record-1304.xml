@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1304">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1304</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Transport von Vortices in Supraleitern durch akustische Oberflächenwellen</dc:title>
+          <dc:title xml:lang="eng">Transport of vortices in superconductors by surface acoustic waves</dc:title>
+          <dc:creator>Jachmann, Fabian</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird die Interaktion zwischen Ultraschallwellen und Vortices in einem Typ-II Supraleiter behandelt. Vorangestellt sind theoretische Überlegungen, in denen mögliche Wechselwirkungsmechanismen diskutiert werden. Als Materialsystem wird ein 100nm dicker Film aus einem granularen Hochtemperatursupraleiter (YBa2Cu3O7) auf einem piezoaktiven Substrat (LiNbO3) verwendet. Hierbei bietet sich die Möglichkeit, neben der Interaktion mit der Schallwelle auch den Einfluss einer Polarisationswelle auf den Supraleiter zu beobachten. Sowohl die Wechselwirkung von Schallwellen mit gepinnten Vortices, als auch mit thermisch aktiverten Vortices wird untersucht. In Temperaturbereichen nahe des thermisch aktivierten Flussfließens wird geprüft, ob die gepinnte Vortexphase durch resonante Absorption von Ultraschall in den ungepinnten Zustand überführt werden kann. Hierfür wird die Leitfähigkeit, Magnetisierung und AC-Suszeptibilität der Probe überprüft. Die intrinsischen Pinningeigenschaften der Probe zeichneten sich in diesen Größen klar ab. Es wird gezeigt, dass die Oberflächenwellen das Pinningverhalten der Probe nicht beeinflussen. Ein eventuell vorhandenes Schall-induziertes Depinning hat einen Einfluss, der unterhalb der Nachweisbarkeitsgrenze liegt. Für die Wechselwirkung des Ultraschalls mit der ungepinnten, thermisch aktivierten Vortexphase werden zwei verschiedene Modelle vorgeschlagen. Beide führen zu einem Impulsübertrag der Welle auf die Vortices. Ein bewegtes Vortexensemble induziert über die Lorentzkraft ein Gleichspannungspotential UDC senkrecht zum Schallpfad. Diese Spannung wird nachgewiesen und ihre Abhängigkeit von Temperatur und Magnetfeld bestimmt. Das Verhalten von UDC steht in Übereinstimmung mit den Vorhersagen aus den theoretischen Überlegungen. Zudem wird festgestellt, dass die induzierte Spannung einen Untergrund trägt, der auf eine nichtlineare Wechselwirkung mit hochfrequenten, elektro-magnetischen Störfeldern zurückzuführen ist. Dieser Zusammenhang kann eindeutig verifiziert und der Untergrund von der durch Vortexbewegung induzierten Spannung getrennt werden. Thermische Einflüsse auf UDC werden überprüft und können ausgeschlossen werden.</dc:description>
+          <dc:description xml:lang="eng">This work is about the interaction of ultrasound with vortices in type-II superconductors. Different interaction mechanisms are discussed in the beginning. The sample is a 100nm thick film of a granular high-Tc superconductor (YBa2Cu3O7) on a piezoactive substrate (LiNbO3). This makes it possible to observe the influence of the polarization wave next to the interaction with the sound wave. The interaction of sound waves with vortices is investigated for the pinned phase as well as for thermally activated vortices. For temperatures close to the thermally activated fluxflow it is examined if the pinned vortex phase can be depinned by a resonant absorption of ultrasound. Therefore conductivity, magnetization and AC-susceptibility of the sample are probed. From these parameters the properties of the intrinsic pinning are clearly visible. It is shown that the surface acoustic waves do not influence the pinning of the material within the resolution of the measurements. For the interaction of ultrasound with the unpinned, thermally activated vortex phase two different models are presented. Both lead to a transfer of momentum of the soundwave on the vortices. A shifted vortex ensemble induces, by the Lorentz force, a potential (VDC) perpendicular to the sound path. This voltage is detected and measured depending on the temperature and magnetic field. The behavior of VDC is in agreement with theoretical predictions. Furthermore a background of the voltage is detected that can be deduced to a nonlinear interaction with the high frequency electromagnetic background radiation. This correlation is verified and the background can be separated from the VDC that is induced by vortex movement. Thermal influences on VDC are also investigated but can be excluded.</dc:description>
+          <dc:date>2006-07-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1304</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13230</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13230</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1304/jachmann_fabian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

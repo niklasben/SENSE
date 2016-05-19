@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1227">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1227</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Fully Quantum Mechanical Description of Ultrashort Time Dynamics of Semiconductor Quantum Dots</dc:title>
+          <dc:title xml:lang="deu">Vollquantisierte Beschreibung der Ultrakurzzeitdynamik eines Quantenpunktes</dc:title>
+          <dc:creator>Ahn, Kwang Jun</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">In this thesis, the quantum kinetics of semiconductor quantum dots coupled to the radiation field, the vibrational modes of the crystalline lattice, and another quantum confined electron are studied using the density matrix formalism in the full quantization regime. To address and characterize the influence of the environment on the optical properties of quantum dots, the experimentally observable quantities in quantum optics are described by the radiation field correlation functions which are coupled to quantum confined electrons and phonons via the electron-photon and -phonon interaction. The influence of dispersive, absorbing, and inhomogeneous media on the local photon density of quantum dots is investigated by a quantized radiation field with the Green function formalism. The influence of the electron-phonon interaction on the quantum dot interband coherence, which consequently yields incoherent photon emission, is explained by the ratio of the electron-phonon scattering time to the duration of the coherent laser pulse. As another aspect of the electron-phonon interaction, the radiation induced by coherent acoustic waves in the intersubband region of quantum dots is investigated. This is a highly off-resonant nonlinear excitation due to the energetically large discrepancy between the acoustic waves and the electronic intersubband transition. As a basic building block for quantum information processes, the excitation energy transfer in a coupled quantum dot system is investigated. Here, the dipole-dipole interaction, where the longitudinal and the transversal electric field couplings are given by the Coulomb and the radiation field coupling, respectively, is a main energy exchange mechanism. Using 8 band kp-theory wave functions of self-growth semiconductor quantum dots, all coupling constants are calculated. In linear optics and local excitation regime, quantum kinetic equations of motion for the electrons are analytically solved by using the Hartree-Fock approximation, and its validity is verified. The absorption and the resonance fluorescence spectrum are given in an analytical form. In nonlinear optics, each coupling and dephasing mechanism influencing the energy transfer between the two quantum dots is discussed in the differential transmission spectrum, the resonance fluorescence spectrum, and the joint counting rate of two photons.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die Quantenkinetik von Elektronen in Halbleiter-Quantenpunkten mit Hilfe des Dichtematrixformalismus in vollquantisierter Beschreibung untersucht. Dabei werden die Wechselwirkungen mit dem radiativen Feld, den Schwingungsmoden des Kristalls sowie die Wechselwirkung mit einem weiteren Elektron in einem anderen Quantenpunkt berücksichtigt. Um den Einfluss der Umgebung auf die optischen Eigenschaften der Quantenpunkte zu beschreiben, werden die experimentell beobachtbaren Größen der Quantenoptik durch die Korrelationsfunktionen des quantisierten radiativen Feldes ausgedrückt, welche mit der Elektronen- sowie Phononendynamik des umgebenden Festkörpers verknüpft sind. Für einen Quantenpunkt, welcher in einem dispersiven, absorbierenden und inhomogenen Medium eingebettet ist, wird ein veränderter Quantisierungsformalismus des elektromagnetischen Feldes präsentiert, wobei das Photon über Greensche Funktionen und einen Rauschoperator dargestellt wird. Dies ermöglicht, unter anderem, die Untersuchung des Einflusses vom umgebenden Medium auf die lokale Photonendichte. Die durch die phononinduzierte Dephasierung der Interbandkohärenz erzeugte inkohärente Photoemission wird durch das Verhältnis der Elektron-Phononstreuzeit zur Dauer des Laserpulses erklärt. Ein anderer untersuchter Aspekt der Elektron-Phonon Wechselwirkung führt zu einer multiphononabsorptionsinduzierten Lichtemission in der Intersubbandregion. Auf Grund des großen energetischen Unterschieds zwischen der Übergangs-energie und der Energie der akustischen Wellen führt dieser Vorgang zu einer stark nichtresonanten Anregung. Als grundlegender Prozess in der Quanteninformationstheorie wird desweiteren der Anregungsenergietransfer zwischen zwei gekoppelten Quantenpunkten betrachtet. Die Energie eines Quantenpunktes wird dabei durch die Dipol-Dipol Wechselwirkung zu einem anderen Quantenpunkt übertragen. Die vorgestellte Theorie berücksichtigt die radiative Feldkopplung als auch die Coulomb'sche Wechselwirkung. Hierzu werden die benötigten Kopplungskonstanten mit realistischen Wellenfunktionen aus der 8 Band kp-Theorie berechnet. In linearer Optik und unter lokaler Anregung werden die Heisenberg'schen Bewegungsgleichungen mit Hilfe der Hartree-Fock-Approximation analytisch gelöst. Zusätzlich wird auch ein analytischer Zugang zum Absorptions- und Resonanzfluoreszenzspektrum vorgestellt. In der nichtlinearen Optik werden an Hand von differenziellem Transmissionsspektrum und dem Resonanzfluoreszenzspektrum die Kopplungsstärke und Dephasierungsmechanismen, welche beim Energieaustausch zwischen den Quantenpunkten auftreten, diskutiert.</dc:description>
+          <dc:date>2006-03-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1227</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12432</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12432</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1227/ahn_kwang.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

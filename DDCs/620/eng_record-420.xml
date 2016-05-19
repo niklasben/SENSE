@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:420">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:420</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Superconductor Magnetization Modeling for the numerical calculation of field errors in accelerator magnets</dc:title>
+          <dc:title xml:lang="deu">Modellierung der Supraleiter-Magnetisierung zur numerischen Berechnung von Feldfehlern in Beschleunigermagneten</dc:title>
+          <dc:creator>Völlinger, Christine</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Zur Beschleunigung schwerer geladener Teilchen werden ungewöhnlich starke Magnetfelder benötigt, um die Teilchen auf einer Kreisbahn zu halten. Diese hohen Magnetfelder können heute nur mit supraleitenden Magneten erzeugt werden, wobei die Spulen aus sog. Typ II Supraleitern hergestellt sind. Befinden sich Typ II Supraleiter in einem magnetischen Feld, werden - ähnlich dem Prinzip der Wirbelströme in einem herkömlichen Leiter - Ströme in den Supraleitern induziert, die die Feldqualität in der Apertur des Magneten empfindlich stören. Im Gegensatz zu Strömen in normalleitenden Materialien, klingen diese supraleitenden Ströme aufgrund des nicht vorhandenen Widerstands im Supraleiter nicht ab. Sie werden deshalb als supraleitende Dauerströme bezeichnet und sind die Ursache einer (induzierten) Supraleitermagnetisierung. Im Rahmen dieser Dissertation wurde ein makroskopisches Model zur Bestimmung der induzierten Magnetisierung eines dünnen supraleitenden Zylinders aus Typ II supraleitendem Material entwickelt, wenn dieser sich einem äusseren magnetischen Feld ausgesetzt sieht. Das Model berücksichtigt die Abhängigkeit der induzierten Stromdichte vom externen Feld sowie der lokalen Feldverteilung im Querschnitt des Supraleiters. Zur Bestimmung der Magnetisierung ist für das Model, neben geometrischen Daten wie des Radius des Zylinders, nur die sogenannte kritische Stromdichte des Materials erforderlich. Es werden sowohl eindimensionale (homogene) Feldänderungen als auch richtungsveränderliche Felder in der Ebene betrachtet, bei denen der Supraleiter einem sich drehenden Feld beliebiger Richtungsänderung ausgesetzt ist. Die Rückwirkung der induzierten Magnetisierung auf das ursprünglich angelegte Feld wird mit Hilfe eines Iterationsverfahrens nach dem Prinzip der Fixpunkt-Iteration berücksichtigt. Ein Relaxationsverfahren beschleunigt die Konvergenz und erhöht die Stabilität der Iteration. Die bei einer Änderung des äusseren Feldes auftretende Hysterese ist Teil des Magnetisierungsmodells und wird vollständig beschrieben. Das Model wurde implementiert in das Feldberechnungsprogramm ROXIE, was eine Kombination mit numerischen Methoden wie der Methode der gekoppelten Finiten Elemente/ Randelementmethode ermöglicht. Somit können nicht-lineare Materialien, wie sie beim Bau supraleitender Magnete Verwendung finden, in der Feldberechnung berücksichtigt werden. Verschiedene Methoden zur Kompensierung der unerwünschten Supraleiter-magnetisierung werden erörtert und die verbleibenden Feldfehler bestimmt. Zur Verifizierung des Supraleiter-Modells wurden verschiedene supraleitende Magnetgeometrien aus dem Beschleunigerbereich berechnet und mit Messungen verglichen. Eine Kompensierungsmöglichkeit durch Einsetzen eines dünnen ferromagnetischen Blechs wurde getestet und der berechnete Kompensierungseffekt experimentell bestätigt.</dc:description>
+          <dc:description xml:lang="eng">Superconducting magnets are obligatory today in order to provide the high magnetic fields that are needed for the acceleration of heavy particles in particle accelerators. The coils of such magnets are made of type II superconducting material and are exposed to a changing magnetic field which induces a so-called persistent current. Persistent currents are bipolar screening currents that do not decay, but persist due to the lack of resistivity in the superconductor. This way, they are the source of a superconductor magnetization in the coil which disturbs the field quality in the magnet aperture. In the framework of this thesis, a macroscopic superconductor model for the calculation of the magnetization of a thin superconducting cylinder of type II material has been developed. The model considers the dependency of the induced current density on the applied field as well as the local distribution of the magnetic induction within the superconductor. Both, the one-dimensional case of a homogeneous change of an external field as well as the case of rotating magnetic inductions with arbitrary excercising angles in the plane are considered. The repercussion of the screening field on the applied field is considered by means of a fixed-point iteration. A relaxation method accelerates and stabilizes the convergence of the iteration. Hysteresis effects that occur in the superconductor in case of a change in the external field are fully re-produced. The model has been incorporated into the program ROXIE and in such a way is combined with numerical methods as the coupled method of finite elements and boundary elements. This way, the calculation of field errors resulting from non-linear materials as used in accelerator magnets, is possible in combination with the superconductor model. The model has been verified by comparing the calculated field errors with measurements for various magnet types, typically for use in particle accelerators, today. Different methods for compensating the persistent current effect are discussed and one method of inserting a ferromagnetic sheet has been tested and experimentally confirmed the predicted compensatory effect.</dc:description>
+          <dc:date>2003-07-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/420</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4155</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4155</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/420/voellinger_christine.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

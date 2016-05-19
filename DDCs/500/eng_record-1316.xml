@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1316">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1316</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Brain stimulation techniques with the aid of nonlinear delayed neurofeedback and MEG inverse methods</dc:title>
+          <dc:title xml:lang="deu">Hirnstimulationstechniken mit Hilfe von nichtlinearer zeitverzögerter Rückkoppelung und MEG-Inversverfahren</dc:title>
+          <dc:creator>Hadamschek, Volker</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">In order to apply model-based neurofeedback methods for the regulation of brain rhythms, an appropriate biomagnetic inverse routine has been developed. This technique has been implemented in a realtime system which processes magnetoencephalography (MEG) signals for the feedback. Linear and nonlinear delayed feedback protocols have been investigated in an MEG experiment with visual stimulation. The superposition of neural activity from different brain areas in the feedback signal is unavoidable in MEG. The influence of this MEG characteristic on nonlinear delayed feedback has been studied in a model of interacting neural ensembles. A benchmark of common distributed source models for the reconstruction of the current density distribution in the brain from MEG data has been performed. For this, the reconstruction of single and multiple current dipoles has been simulated varying their position and orientation across the source space. The presence of detector noise has been taken into account. With respect to realtime applications a weighted Minimum Norm method called GaussMN, which has been tested here against other state-of-the-art algorithms for the first time, showed the best accuracy. A useful regularization routine has been developed. A spatial filter system has been produced to reduce the cross-contamination from different brain regions in the reconstructed current densities. In numerical simulations it exhibited a significantly better performance than alternative techniques. A nonlinear delayed feedback method recently proposed for the regulation of brain rhythms is investigated in interacting ensembles of coupled limit cycle oscillators. With respect to the desynchronization and decoupling of two interacting populations, an adequate mixing of their mean fields for the calculation of the stimulation signal leads to an enhanced effect. This is explained by studying the induced phase shift between the synchronized mean fields. A modeling approach for an analytical understanding is given. The realtime current density reconstruction is verified in phantom experiments. An MEG experiment applying visual delayed neurofeedback in a healthy subject has been performed. The nonlinear delayed feedback method shows a strong suppression of a brain rhythm in this proof of principle. Using more localized brain activity for the feedback signal enhances the effect.</dc:description>
+          <dc:description xml:lang="deu">Um modellbasierte Rückkoppelungsmethoden zur Regelung von Hirnrhythmen anzuwenden, wurde eine geeignete biomagnetische Inversmethode entwickelt. Diese Routine wurde in einem Echtzeit-System implementiert, welches die rückgekoppelten Signale auf der Grundlage von Magnetenzephalographie (MEG) Daten berechnet. Lineare und nichtlineare zeitverzögerte Rückkoppelungsprotokolle sind in einem MEG Experiment mit visueller Stimulation untersucht worden. Die überlagerung von neuronaler Aktivität aus unterschiedlichen Gehirnregionen in dem rückgekoppelten Signal ist bei Verwendung der Magnetenzephalographie unvermeidbar. Der Einfluss dieser MEG Charakteristik auf nichtlineare zeitverzögerte Rückkoppelung wurde in einem Modell interagierender neuronaler Populationen studiert. Ein Vergleichstest bekannter Verteilte-Quellen-Modelle zur Rekonstruktion der zerebralen Stromdichteverteilung aus MEG Signalen wurde durchgeführt. Hierfür wurde unter Variierung ihrer Position und Orientierung die Rekonstruktion von Stromdipolen simuliert. Der Einfluss von Detektorrauschen wurde in den Simulationen berücksichtigt. Bezüglich Echtzeit-Anwendungen zeigte eine gewichtete Minimum-Norm Methode namens GaussMN, die in dieser Arbeit zum ersten Mal mit anderen üblichen Algorithmen verglichen wurde, die höchste Genauigkeit. Eine geeignete Regularisierungsprozedur wurde erstellt. Ein räumlicher Filter zur Reduzierung der überlagerung von Signalen aus unterschiedlichen Hirnregionen in den rekonstruierten Stromdichten wurde entwickelt. In numerischen Simulationen zeigte diese Methode eine signifikant bessere Güte als alternative Verfahren. Ein nichtlineares zeitverzögertes Rückkoppelungsprotokoll, das kürzlich zur Regelung von Hirnrhythmen vorgeschlagen wurde, ist in interagierenden Ensembles gekoppelter Oszillatoren theoretisch studiert worden. Bezüglich der Desynchronisation und Entkoppelung zweier interagierender Populationen, führt eine adäquate überlagerung ihrer Felder zur Berechnung des Stimulationssignals zu einem verstärkten Effekt. Dieser kann mit Hilfe der relativen Phasenlage der synchronisierten Felder erklärt werden. Ein Modellierungsansatz auf dem Weg zu einem analytischen Verständnis ist gegeben. Die Rekonstruktion der Stromdichteverteilung in Echtzeit wurde mit Hilfe von Messungen an einem Phantom validiert. Ein MEG Experiment unter Verwendung von visuellen zeitverzögerten Rückkoppelungsverfahren wurde an einem gesunden Probanden durchgeführt. Die nichtlineare zeitverzögerte Rückkoppelungsmethode zeigte eine starke Suppression eines Hirnrhythmus. Die Verwendung räumlich lokalisierter Hirnaktivität für das rückgekoppelte Signal steigert diesen Effekt.</dc:description>
+          <dc:date>2006-08-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1316</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13309</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13309</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1316/hadamschek_volker.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

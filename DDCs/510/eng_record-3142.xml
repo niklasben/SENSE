@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3142">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3142</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Bilinear Discretization of Integrable Quadratic Vector Fields: Algebraic Structure and Algebro-Geometric Solutions </dc:title>
+          <dc:title xml:lang="deu">Bilineare Diskretisierung integrabler quadratischer Vektorfelder: Algebraische Struktur und algebro-geometrische Lösungen</dc:title>
+          <dc:creator>Pfadler, Andreas</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This thesis discusses the integrability properties of a class of bilinear discretizations of integrable quadratic vector elds, the so called Hirota-Kimura type discretizations. This method tends to produce integrable birational mappings. The integrability properties of these mappings are discussed in detail and - where possible - solved exactly in terms of elliptic functions or their relatives. Integrability of the mappings under consideration is typically characterized by conserved quantitites, invariant volume forms and particular invariance relations, formulated in the language of so called HK bases. After a short introduction into the theory of nite dimensional integrable systems in the continuous and discrete setting, a general methodology for discovery and proof of integrability of birational mappings is developed. This methodology is based on the concept of HK bases. Having recalled the basics of the theory of elliptic functions, the relations between HK bases and elliptic solutions of integrable birational mappings is explored. This makes it possible to formulate a general approach to the explicit integration of integrable birational mappings, provided they are solvable in terms of elliptic functions. The appealing feature of this approach is that it does not require knowledge of additional structures typically characterizing integrability (e.g. Lax pairs). Having discussed the general properties of the HK type discretizations, several examples are discussed with the help of the previously introduced methods. In particular, discretizations of the following systems are considered: Euler top, Zhukovsky-Volterra system, three and four dimensional periodic Volterra systems, Clebsch system, Kirchhoff System, and Lagrange top. HK bases, conserved quantities and invariant volume forms are found for all examples. Furthermore, explicit solutions in terms of elliptic functions or their relatives are obtained for the Volterra systems and the Kirchhoff system. Methodologically this work is based on the concept of experimental mathematics. This means that discovery and proof of most of the presented results are based on computer experiments and the usage of specialized symbolic computations.</dc:description>
+          <dc:description xml:lang="deu">In der Arbeit werden die Integrabilitätseigenschaften der Hirota- Kimura Diskretisierungen (HK-Diskretisierungen) von algebraisch integrablen Systemen gewöhnlicher Differentialgleichungen beschrieben. Dieser Diskretisierungs-ansatz, der zuerst von Kahan beschrieben wurde und später von Hirota und Kimura auf den Eulerschen und Lagrangeschen Kreisel angewendet wurde, tendiert dazu integrable Abbildungen zu produzieren. Diese Abbildungen werden systematisch untersucht und - wenn möglich - mit Hilfe elliptischer (bzw. Abelscher) Funktionen gelöst werden. Die Arbeit setzt dabei einen Schwerpunkt auf die rechnergestützten Methoden zum Erkennen und Beweisen der Integrabilität birationaler Abbildungen. Nach einer kurzen Einleitung werden zuerst die verschiedenen Integrabili-tätsbegriffe für kontinuierliche und diskrete dynamische Systeme erläutert. Darauf aufbauend wird ein der Arbeit zugrundeliegender Integrabilitätsbegriff entwickelt. Hier wird insbesondere auf sogenannte Hirota-Kimura Basen eingegangen. In diesem Umfeld werden weiterhin mehrere Methoden zur Entdeckung integrabler birationaler Abbildungen beschrieben. Es wird besonderes Augenmerk auf zwei algorithmische Methoden basierend auf sogenannten HK Basen gelegt. Schließlich wird auf verschiedene Aspekte eingegangen, die beim Beweis der Integrabilität birationaler Abbildungen mit Hilfe von Computer Algebra Systemen eine Rolle spielen. Danach werden die wesentlichen Eigenschaften von ellip-tischen Funktionen und deren Anwendung auf die Parametrisierung spezieller Invarianzrelationen aus der Theorie diskreter integrabler Systeme eingegangen. Weiterhin wird eine experimentelle Methodik vorgestellt, die es erlaubt Lösungen für integrable birationale Abbildungen zu finden, vorrausgesetzt, dass diese lösbar in elliptischen Funktionen sind. Nach der Vorstellung der HK-Diskretisierungen und deren allgemeinen Eigenschaften, beschäftigt sich der Rest der Arbeit mit konkreten Beispielen. Es werden insbesondere die HK-Diskretisierungen der folgenden Systeme vorgestellt und deren Integrabilität bewiesen: Weierstraß-System, Euler Kreisel, Zhukovsky Volterra System, drei- und vierdimensionales periodisches Volterra Gitter, Clebsch System, Kirchhoff System, Lagrange Kreisel. Alle Systeme werden mit Hilfe der Methoden aus dem ersten Teil der Arbeit untersucht. Dabei werden in allen Fällen deren HK Basen, Erhaltungs-größen und invariante Volumenformen beschrieben. Weiterhin werden für die Volterra Systeme und das KirchhoffSystem Lösungen in Form elliptischer Funktionen bestimmt. Nach einer Zusammenfassung der Ergebnisse schließt die Arbeit im Appendix mit einigen Hinweisen bezüglich der verschiedenen rechnergestützten Experimente und Beweise.</dc:description>
+          <dc:date>2011-11-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3142</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33112</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33112</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3142/pfadler_andreas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

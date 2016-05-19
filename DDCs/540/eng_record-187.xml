@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:187">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:187</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">High Field EPR and ENDOR Investigations on Radicals and Metal Centers in Subunit R2 Wild Type and Mutant Class Ia Ribonucleotide Reductase</dc:title>
+          <dc:title xml:lang="deu">Hochfeld EPR und ENDOR Untersuchungen an Radikalen und Metallzentren in Untereinheit R2 Wildtyp und Mutanten Klasse Ia Ribonukleotid Reduktase</dc:title>
+          <dc:creator>Bleifuß, Günther</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit ist die Aufklärung der elektronischen Struktur paramagnetischer Zentren in der Untereinheit R2 von Wildtyp als auch Mutanten Protein des Enzyms Ribonucleotide Reduktase in Bakterium Escherichia coli und Maus. Untersucht werden transiente Tryptophanradikale in den Mutanten Y177W (Mausprotein) und R2-Y122F (E. coli), sowie ein stabiles paramagnetisches Zweieisenzentrum (Zentrum H), das in der Mutante R2-Y122H auftritt. Verwendet werden hierzu moderne Methoden der EPR, wie Hochfeld-EPR sowie CW- und gepulste ENDOR Techniken. Die proteinassoziierten Tryptophanradikale als auch die im entsprechenden Wildtypprotein auftretenden Tyrosinradikale werden mit EPR im Hochfeld (Mikrowellenfrequenz: 94 GHz) charakterisiert und verglichen. Aufgrund der etwa zehnfachen Zeemanaufspaltung im Vergleich zu X-Band (9.7 GHz) und der damit verbundenen besseren Auflösung des g-Tensors kann gezeigt werden, dass sich beide Radikaltypen mittels ihrer charakteristischen g-Tensorhauptwerte im W-Band bereits ohne aufwendige Isotopenmarkierung eindeutig voneinander unterscheiden lassen. Ein bisher nicht charakterisiertes paramagnetisches Zentrum (Zentrum H), das in R2-Y122H auftritt, zeigt im X-Band ein inhomogen verbreitertes Singulett ohne aufgelöste Hyperfeinstruktur b.z.w. g-Anisotropie. Es wird gezeigt, dass im Hochfeld bei 94 GHz der g-Tensor vollständig aufgelöst ist. Die g-Tensor Hauptwerte für Zentrum H können somit bestimmt und mit Werten aus früheren Messungen an bekannten paramagnetischen Fe(II)Fe(III) und Fe(III)Fe(IV) Zweieisenzentren verglichen werden. Zentrum H in 57Fe substituiertem Protein R2-Y122H zeigt eine Verbreiterung der Linie von 2.2 mT auf 4.3 mT im X-Band, was auf eine starke, aber unaufgelöste Eisenkopplung hinweist. Mittels Davies Puls-ENDOR sowie CW-ENDOR konnten zwei 57Fe Hfs-Tensoren vollständig aufgelöst werden. Der Vergleich der isotropen als auch anisotropen Anteile beider Tensoren mit 57Fe Tensoren, wie sie für mixed-valence Fe(III)Fe(IV) und Fe(II)(III) Zentren theoretisch erwartet und auch gemessen wurden, ergibt keine befriedigende Übereinstimmung. Daher wird ein Modell vorgeschlagen, das eine Kopplung von 3 Spins untereinander beschreibt, und in dem beide Eisenatome (beide high spin Fe(III), daher jeweils S=5/2) miteinander und mit einem S=1/2 Ligandradikal zu einem S=1/2 Grundzustand gekoppelt sind. Die 57Fe Kopplungen, die sich aus diesem Modell berechnen lassen, stehen in guter Übereinstimmung mit den Messungen an Zentrum H. 14N und 15N CW- und Puls-ENDOR an Zentrum H ermöglicht die Identifizierung zweier koordinierter Stickstoffatome und ihre Zuordnung zu dem Imidazol-Nd von zwei Histidinen. Aufgrund der hohen Stabilität von Zentrum H ist es möglich, R2-Y122H Kristalle zu ziehen, in denen sich das orientierte Zentrum H im Hochfeld charakterisieren läßt. Basierend auf ersten Messungen konnte das g-Tensor Rotationspattern des Zentrums H im Kristall im W-Band simuliert werden und eine vorläufige Zuordnung der Orientierung der Hauptachsen des g-Tensors in die Molekülstruktur des Zentrums vorgeschlagen werden. Basierend auf den Ergebnissen dieser Arbeit wird Zentrum H als Fe(III)Fe(III) Zentrum plus Ligandradikal interpretiert.</dc:description>
+          <dc:date>2001-10-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/187</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1826</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1826</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/187/bleifuss_guenther.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

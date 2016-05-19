@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1320">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1320</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Farbmetrische Methoden zur Herstellung von Prüfvorlagen für Farbkopierer, Farbscanner und Farbmonitore</dc:title>
+          <dc:title xml:lang="eng">Colorimetric methods for the production of test charts for colour copiers, colour scanners and colour monitors</dc:title>
+          <dc:creator>Witt, Jens</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Herstellung von Prüfvorlagen erfordert Methoden, mit denen sich geräteunabhängig definierte Farben gezielt reproduzieren lassen. Hierzu werden in dieser Arbeit Methoden vorgestellt, mit denen sich im CIELAB-Farbraum (geräteunabhängig) definierte Farben in Ansteuerwerte (z. B. rgb-Werte) eines geeigneten Ausgabegerätes transformieren lassen. Die Methoden basieren auf geometrischen Modellen, die sich dadurch auszeichnen, dass sie zwischen einem Satz vorgegebener Referenzwerte, d. h. einem Satz von geräteunabhängigen Farbwerten und dazugehörigen Ansteuerwerten lokal interpolieren, um so die zwischen den Referenzwerten liegenden Farbwerte zu berechnen. Zur Interpolation werden die trilineare Interpolation, die kubischen Spline-Interpolation, die Tetraeder-Interpolation in einer Delaunay-Tetraedrisierung und die Shepard-Interpolation verwendet. Des Weiteren wurden zwei iterative Methoden entwickelt, bei denen die Referenzfarben nach jedem Iterationsschritt angepasst werden. Die von den Modellen benötigten Referenzwerte erhält man durch die Ausgabe einer Prüfvorlage mit einer entsprechenden Auswahl von Farben, definiert im Signalraum des Ausgabegerätes. Hierzu wurden verschiedene digitale Prüfvorlagen entwickelt, die kubisch-primitive Referenzfarbverteilungen, kubisch-primitive Referenzfarbverteilungen mit zusätzlichen Farbwerten am Rand des Gerätefarbraums und kubisch-raumzentrierte Referenzfarbverteilungen realisieren. Unter Verwendung eines Digital-Bilddrucksystems wurden die Reproduktionseigenschaften der verschiedenen Methoden bestimmt. Dabei zeigte sich, dass mit den Methoden im CIELAB-Farbraum definierte Farben mit einer Farbabweichung von im Mittel weniger als ΔE = 1,0 reproduziert werden können, was der Stabilität des verwendeten Drucksystems entspricht. Auf Basis dieser Untersuchungen wurden Methoden ausgewählt und mit ihnen ISO/IEC-Prüfvorlagen in photographischer Technik in Reflexion und Transmission hergestellt.</dc:description>
+          <dc:description xml:lang="eng">The production of test charts makes it necessary to reproduce colours which are defined in a device independent colour space. This thesis presents methods to transform device independend CIELAB data into device dependend colour values (e. g. rgb-values) of an appropriate device. The methods are based on geometric models. The geometric models are using a set of reference data for a local interpolation, for example a set of device independent CIELAB data and corresponding signal values, for the calculation of values between the reference data. The interpolation uses the trilinear interpolation, the cubic spline interpolation, the tetrahedral interpolation in a Delaunay tetrahedrisation and the Shepard interpolation. Furthermore two iterative methods were developed, which are adjusting the reference colours after each iteration The reference data is determined by printing and measuring a test chart with a selection of colours defined in the device signal space. Different test charts were developed, which are using simple cubic reference colour arrangements, simple cubic reference colour arrangements with additional colour values near the boundary of the colour gamut and body-centered cubic reference colour arrangements. Using a digtal image printer the reproduction properties of the different methods were determined. It is shown that CIELAB colour data can be reproduced with a colour difference below ΔE = 1.0 which is in the range of the printer reproducibility. Based on this results the most accurate methods were used to produce ISO/IEC-test charts in reflection and transmission mode with photographic printing technology.</dc:description>
+          <dc:date>2006-08-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1320</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13639</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13639</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1320/witt_jens.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

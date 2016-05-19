@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:900">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:900</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Strategische Planung von Kreislaufwirtschaftssystemen</dc:title>
+          <dc:title xml:lang="eng">Strategic Planning of Recycling Management Systems</dc:title>
+          <dc:creator>Lander, Sandra</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Kreislaufwirtschaftssysteme sind komplexe und dynamische Systeme. Sie umfassen die Sammlung und die Redistribution sowie die Verwertung und die Beseitigung von Altprodukten. Instrumente zur strategischen Planung dieser Systeme, die sowohl ökonomische als auch ökologische Auswirkungen über einen langfristigen Zeitraum analysieren, fehlen indes meist. Ziel dieser Arbeit ist es, einen auf System Dynamics basierenden Ansatz für die strategische Planung von Kreislaufwirtschaftssystemen zu entwickeln, um das Verhalten des Kreislaufwirtschaftssystem unter verschiedenen Randbedingungen zu prognostizieren. Die Ursache-Wirkungs-Zusammenhänge des Kreislaufwirtschaftssystems sind Basis für die Quantifizierung in einem mathematischen Simulationsmodell  dem strategischen Planungsmodell eines Kreislaufwirtschaftssystems. Indem der Ansatz Methoden der Betriebswirtschaft und der Ökobilanzierung zur quantitativen Abschätzung dynamisiert, modelliert er Stoffströme und Kapazitäten, Kosten und Erlöse sowie potenzielle Umweltwirkungen. Mittels der dynamischen Szenarienanalyse und der dynamischen Sensitivitätsanalyse lassen sich Informationen für die strategische Planung eines Kreislaufwirtschaftssystems zur Entscheidungsunterstützung bereitstellen. Der auf System Dynamics basierende Ansatz für die strategische Planung wird am Beispiel des Kreislaufwirtschaftssystems der Altauto-Verwertung verifiziert. Das strategische Planungsmodell bildet die Altauto-Verwertung über den Zeitraum von 2005  2020 in Deutschland ab.</dc:description>
+          <dc:description xml:lang="eng">Recycling management systems are complex and dynamic. These systems include the collection and the redistribution as well as the recycling and the disposal of end-of-life products. Instruments for the strategic planning of these systems - investigating the economical and the ecological impacts with the focus of a long-term horizon - are missing. The aim of this thesis is to develop an approach for the strategic planning of recycling management systems. Based on the methodology of System Dynamics the approach predicts the behaviour of recycling management system taking different conditions into account. The cause-and-effect chains of recycling management systems lead to a quantified mathematic simulation model  the strategic planning model of a recycling management system. Using methods of business administration and Life Cycle Analysis the approach estimates material flows and capacities, costs and revenues as well as potential environmental impacts. The dynamic scenario analysis and the dynamic sensitivity analysis support the decision-making process by gathering information about the potential system behaviour in the future. The approach based on System Dynamics is verified by modelling and simulating the system of the end-of-life vehicle treatment. This strategic planning model quantifies the end-of-life vehicle treatment from 2005 to 2020 in Germany taking different economic and environmental conditions into consideration.</dc:description>
+          <dc:date>2005-04-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/900</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8937</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8937</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/900/lander_sandra.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

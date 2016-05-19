@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3658">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3658</identifier>
+        <datestamp>2013-10-14</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Particular timelike flows in global Lorentzian geometry</dc:title>
+          <dc:title xml:lang="deu">Spezielle zeitartige Flüsse in der globalen Lorentzgeometrie</dc:title>
+          <dc:creator>Dirmeier, Alexander</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This work investigates the topological and causal characteristics of Lorentzian manifolds $(M,g)$, which possess a complete and timelike unit vector field $V$, or in other words a global timelike flow, as an additional structure. Naturally, these Lorentzian manifolds are spacetimes. General geometric requirements for these spacetimes to split diffeomorphically as a product $\mathbb{R}\times S$, with the vector field $V$ along the $\\mathbb{R}$-factor and $S$ the space of flow lines of $V$, are derived. The possible causality conditions for these splitting spacetimes are analyzed and a complete causal classification is given. Sub-classes of these splitting spacetimes can be obtained by a classification according to a decomposition of the covariant derivative $\nabla V$ of the given timelike vector field. The specific sub-classes of sliced spacetimes and stationary spacetimes are analyzed with regard to global hyperbolicity and several new relations are obtained. For stationary and homothetic spacetimes, a new version of the Lorentzian Bochner technique is derived. Finally, conformal Lorentzian submersions, and particularly Hubble-isotropic spacetimes, are analyzed and conditions for their global hyperbolicity and geodesic completeness are obtained.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit untersucht topologische und kausale Eigenschaften Lorentz'scher Mannigfaltigkeiten $(M,g)$, die als zusätzlich Struktur ein vollständiges, zeitartiges Einheitsvektorfeld $V$, oder in anderen Worten einen globalen zeitartigen Fluss, aufweisen. Diese Lorentz'schen Mannigfaltigkeiten sind in natürlicher Weise Raumzeiten. Es werden allgemeine geometrische Bedingungen hergeleitet, die dazu führen, dass diese Raumzeiten eine Produktstruktur $\mathbb{R}\times S$ aufweisen, wobei das Vektorfeld $V$ entlang des Faktors $\mathbb{R}$ zeigt und $S$ der Raum der Integralkurven von $V$ ist. Die möglichen Kausalstufen für diese Produktraumzeiten werden analysiert und eine vollständige kausale Klassifikation wird angegeben. Durch eine Klassifikation bezüglich einer Zerlegung der kovarianten Ableitung $\nabla V$ des gegebenen zeitartigen Vektorfelds können Unterklassen dieser Produktraumzeiten gewonnen werden. Die speziellen Unterklassen der geblätterten Raumzeiten und der stationären Raumzeiten werden hinsichtlich ihrer globalen Hyperbolizität analysiert und mehrere neue Beziehungen werden gewonnen. Für stationäre und homothetische Raumzeiten wird eine neue Version der Lorentz'schen Bochnertechnik hergeleitet. Schließlich werden konforme Lorentz'sche Submersionen und insbesondere Hubble-isotrope Raumzeiten analysiert und Bedingungen für deren globale Hyperbolizität und geodätische Vollständigkeit werden gewonnen.</dc:description>
+          <dc:date>2013-03-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3658</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38530</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38530</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3658/dirmeier_alexander.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

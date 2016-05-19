@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4462">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4462</identifier>
+        <datestamp>2013-12-13</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Feature constraint propagation along configuration links for advanced feature models</dc:title>
+          <dc:title xml:lang="deu">Feature Constraint Propagierung entlang Configuration Links für erweiterte Feature Modelle</dc:title>
+          <dc:creator>Rein-Jury, Alexander</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="eng">Product line engineering is faced with several challenges when it comes to dealing with highly complex variability. Several approaches to tackle these challenges have been proposed in recent years. Among others, some of them provide the possibility to decompose a large-scale product line and to describe the variability in distinct variability models, tailored to individual stakeholders. These variability models are then hierarchically related in order to form the overall product line by integrating different views and different levels of abstraction. Configuration links are a concept for this purpose. A configuration link is a directed relation between two feature models and allows to automatically derive a configuration of the lower-level feature model from a given configuration of the higher-level feature model.&#13;
+However, the use of configuration links raises some new challenges if constraints are contained in the individual feature models. Constraints forbid certain configurations of a feature model and occur almost in every realistic model. In combination with configuration links, constraints of one feature model do not necessarily affect only this individual model but can also influence higher-level feature models. This can result in locally valid configurations of a higher-level feature model which are invalid with respect to the overall product line because they lead to derived configurations of lower-level feature models which violate their constraints.&#13;
+This dissertation presents the technique of feature constraint propagation, a new way to deal with constraints in such hierarchically organized product lines. Feature constraint propagation transforms constraints of a lower-level feature model into constraints of a higher-level feature model, making all their implicit effects explicit in the higher-level model. All configurations fulfilling the propagated constraints lead then to derived configurations fulfilling the original constraints and vice versa. Feature constraint propagation thus reveals the actual meaning of constraints of a lower-level model within the taxonomy of a higher-level model, which makes the higher-level model self-contained and helps to detect errors in the product line specification.&#13;
+The proposed technique is defined on a conceptual level, formalized, verified, implemented and evaluated. The evaluation comprises an experimental case study (automated functional and performance tests) and an industrial case study (at Daimler AG).		&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Produktlinienentwicklung steht verschiedenen Herausforderungen gegenüber, wenn die vorhandene Variabilität sehr hoch ist. In den letzten Jahren wurden verschiedene Ansätze vorgestellt, um diese Herausforderungen anzugehen. Unter anderem bieten einige von ihnen die Möglichkeit, eine große Produktlinie zu zerlegen und die Variabilität in verschiedenen Variabilitätsmodellen, die auf einzelne Stakeholder zugeschnitten sind, zu beschreiben. Diese Variabilitätsmodelle werden dann hierarchisch in Beziehung gesetzt, um die übergeordnete Produktlinie durch die Integration verschiedener Sichten und Abstraktionsebenen zu bilden. Configuration Links sind ein Konzept dafür. Ein Configuration Link ist eine gerichtete Beziehung zwischen zwei Feature Modellen und erlaubt die automatische Ableitung einer Konfiguration des untergeordneten Feature Modells von einer gegebenen Konfiguration des übergeordneten Feature Modells.&#13;
+Allerdings wirft die Benutzung von Configuration Links auch einige neue Herausforderungen auf, wenn Constraints in den einzelnen Feature Modellen enthalten sind. Constraints verbieten bestimmte Konfigurationen eines Feature Modells und kommen in fast jedem realistischen Modell vor. In Kombination mit Configuration Links beeinflussen Constraints eines Feature Modells nicht unbedingt nur dieses einzelne Modell, sondern können auch Auswirkungen auf übergeordnete Modelle haben. Das kann lokal gültige Konfigurationen eines übergeordneten Feature Modells zur Folge haben, die ungültig bezüglich der gesamten Produktlinie sind, weil sie zu abgeleiteten Konfigurationen von untergeordneten Feature Modellen führen, die deren Constraints verletzen.&#13;
+Diese Dissertation präsentiert die Technik der Feature Constraint Propagierung, einen neuen Weg, um mit Constraints in solchen hierarchisch angeordneten Produktlinien umzugehen. Die Feature Constraint Propagierung transformiert Constraints eines untergeordneten Feature Modells in Constraints eines übergeordneten Feature Modells, was all ihre impliziten Effekte in dem übergeordneten Modell explizit macht. Alle Konfigurationen, die die propagierten Constraints erfüllen, führen dann zu abgeleiteten Konfigurationen, die die ursprünglichen Constraints erfüllen und umgekehrt. Die Feature Constraint Propagierung deckt also die tatsächliche Bedeutung der Constraints eines untergeordneten Modells in der Taxonomie eines übergeordneten Modells auf, was das übergeordnete Modell in sich schließt und hilft, Fehler in der Produktlinien-Spezifikation aufzudecken.&#13;
+Die vorgestellte Technik ist auf konzeptioneller Ebene definiert, formalisiert, verifiziert, implementiert und evaluiert. Die Evaluation umfasst eine experimentelle Fallstudie (automatisierte Funktions- und Performanztests) und eine industrielle Fallstudie (bei der Daimler AG).&#13;
+</dc:description>
+          <dc:date>2013-12-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4462</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44620</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44620</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4462/reinjury_alexander.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

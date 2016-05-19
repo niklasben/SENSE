@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:217">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:217</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Upconversionfaserlaser im blauen Spektralbereich</dc:title>
+          <dc:title xml:lang="eng">Upconversion fiber laser in the blue spectral region</dc:title>
+          <dc:creator>Gäbler, Volker</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschreibt die fundamentalen Prinzipien kurzwelliger Upconversionfaserlaser. Hierbei wird insbesondere auf die laserphysikalischen und materialtechnischen Grundlagen eingegangen. Der experimentelle und angewandte Aufbau von Faserresonatoren wird diskutiert. Die Funktion und Wirkungsweise von blauen Upconversionfaserlasern wird am Beispiel eines 482nm Tm:ZBLAN Lasersystems dargelegt. Mit diesem System konnte eine maximale kontinuierliche Ausgangsleistung von 120mW erzielt werden. Aktuelle Forschungsergebnisse verdeutlichen die hervorragenden Strahleigenschaften sowie das breite Anwendungspotential des Upconversionfaserlasers. Systematische spektrale Untersuchungen der Upconversionprozesse führten unter Anwendung einer Besetzungs- und Verstärkungsmodellierung der Anregungsmechanismen zur Entwicklung eines geeigneten Modells für 3-fach gepumpte Upconversionfaserlaser. Mit Hilfe dieses Modells können kurzwellige Upconversionlasersysteme optimiert werden. Anhand des Degradations- und Bleichverhaltens wird die Zeitabhängigkeit der Laserausgangsleistung unter Berücksichtigung der faser - internen Farbzentrenbildung behandelt, sowie das zeitabhängige Schwellwert- und Bleichverhalten von Tm:ZBLAN Faserlasern beschrieben. Infrarote Laserdioden mit Emissionswellenlängen zwischen 1100nm und 1140nm wurden als Pumpquellen für Upconversionfaserlaser untersucht. Quantenpunktlaserdioden zeigten hierbei gegenüber Heterostrukturdioden ein besonders geeignetes Emissionsspektrum. Erste Tests zur Kombination von Quantenpunktlaserdioden und monolithischen LPE - Glasfaserresonatoren zum Aufbau hochkompakter blauer Laser wurden durchgeführt. Durch eine detaillierte Charakterisierung der verwendeten Fluoridfasermaterialien gelang es, in Kooperation mit dem IHT der TU Braunschweig, für Laseremission geeignetes ZBLAN - Fasermaterial zu entwickeln. Unter Einsatz dieses Materials wurde erstmals ein blauer Upconversionlaser unter Verwendung von in Deutschland gezogener Fluoridfaser aufgebaut. Es wurde ein Herstellungsverfahren für mikroskopische Spiegel mittels direkter dielektrischer Beschichtungen auf Monomodefaserenden entwickelt. Unter Verwendung dieser Verspiegelungen konnten hochkompakte monolithische Faserlaser aufgebaut werden, die sich besonders für das direkte Diodenpumpen eignen. Die hierfür entwickelten Herstellungsmethoden erzielen äußerst geringe Koppelverluste bei gleichzeitig hoher Zerstörschwelle, was die Grundlage für eine weitere Leistungsskalierung darstellt.</dc:description>
+          <dc:description xml:lang="eng">This work investigates the fundamentals of short wavelength upconversion fiber laser. The basic principles of upconversion and single mode fiber lasers as well as the required material properties are presented. Advanced cavity setups and practical laser configurations are discussed. The principle function and operation of a blue upconversion fiber laser is examined experimentally using an Tm:ZBLAN 482nm system. A maximum blue output of 120mW was achieved. Recent research results demonstrate the high excitation efficiency and beam quality of upconversion fiber laser suitable for a wide range of application. Through systematic spectral investigation of the upconversion excitation mechanism as well as a complex occupation and gain analysis a convenient model describing 3-step upconversion pumped fiber lasers could be developed. Using this model a detailed optimization of short wavelength upconversion fiber lasers becomes possible. Time resolved measurements of the degradation and bleaching behavior, including ultraviolet induced colour center formation lead to the modeling and quantitative description of the threshold and long-time dependence for the 482nm laser transition in Tm:ZBLAN. Infrared laser diodes emitting between 1100nm and 1140nm have been tested for upconversion pump sources. Quantum dot diode lasers exhibit improved excitation due to compared to heterostructure diodes broader emission spectra. First tests combining new developed quantum dot lasers and special LPE - glass fiber materials achieving high compact blue lasers have been carried out. Within the frame of a cooperation between the Optical Institute of the Technical University Berlin and the Institute for High - Frequency Technology of the Technical University of Braunschweig detailed characterizations of different fluorozirconate glass fiber materials were carried out. The obtained low loss ZBLAN fibers could be used to demonstrate the first blue upconversion fiber laser based on german fiber material. Direct dielectric coatings could be evaporated onto single mode optical fiber ends resulting in a damage threshold greater than 150MW/cm². Using these microscopic mirrors high compact monolithic fiber lasers could be manufactured. The developed coating methods guarantee low loss coupling to achieve minimum threshold laser emission suitable for direct diode pumping.</dc:description>
+          <dc:date>2001-11-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/217</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2120</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2120</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/217/gaebler_volker.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

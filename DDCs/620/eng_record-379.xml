@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:379">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:379</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mikrostruktur und magnetische Eigenschaften von CoFe- Ein- und CoFe-/SiO2-Viellagenschichten</dc:title>
+          <dc:title xml:lang="eng">Microstructure and magnetic properties of CoFe single und CoFe /SiO2 multi layer</dc:title>
+          <dc:creator>Dieter, Sascha</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wird der Einfluss der Beschichtungsparameter auf die Textur, den Eigenspannungszustand und die Mikrostruktur von RF-Magnetron gesputterten CoFe-Einlagen- und CoFe-/SiO2-Viellagenschichten mit Hilfe röntgenographischer Methoden systematisch untersucht. Dabei werden Zusammenhänge zwischen Textur und Eigenspannungszustand in den CoFe-Schichten und den magnetischen Eigenschaften, insbesondere der Sättigungsmagnetisierung und Koerzitivfeldstärke, aufgezeigt. Für die Untersuchung der Schichtrauhigkeiten, Schichtdicken und der Dichte der einzelnen Schichten kommt die Reflektometrie mit Synchrotronstrahlung zum Einsatz, so dass die Schichtparameter auch für hohe Eindringtiefen ermittelt werden können. Begleitend werden für die Untersuchungen der Oberfläche elektronenmikroskopische Verfahren eingesetzt. Die Textur- und Eigenspannungsanalysen erfolgten zerstörungsfrei mit Hilfe unterschiedlicher Beugungsmethoden. Neben dem ?sin2y?-Verfahren werden zur Untersuchung der dünnen magnetischen Schichten spezielle Analyseverfahren zur Bestimmung der Eigenspannungsgradienten eingesetzt. Die Ergebnisse der Untersuchungen dokumentieren, dass die Ausbildung der Textur bzw. des Spannungszustandes in den Schichten eine deutliche Abhängigkeit von den Beschichtungsparametern aufweisen. Die Mikrostruktur der Schichten wird dagegen maßgeblich durch die Ausbildung der Textur und somit nur indirekt durch die Beschichtungsparameter beeinflusst. Auch die Textur beeinflusst die magnetischen Eigenschaften der Ein- und Viellagenschichten infolge der Richtungsabhängigkeit der magnetischen Konstanten. Aufgrund der Verknüpfung der magnetischen Eigenschaften mit den elastischen Konstanten über den Effekt der Magnetostriktion ergibt sich ein starker Einfluss der Eigenspannungen auf die magnetischen Eigenschaften. Analysen der Mikrostruktur, der Textur und der Eigenspannungen, welche die Abhängigkeit dieser Größen vom Beschichtungsprozess darstellen, sind daher zur Optimierung der magnetischen Charakteristika, insbesondere des Koerzitivfeldes, der Remanenz und der Sättigungsmagnetisierung dünner magnetischer Schichten, besonders geeignet.</dc:description>
+          <dc:description xml:lang="eng">In this thesis the influence of the sputter parameters on the texture, the residual stress state and the microstructure of RF Magnetron sputter deposited CoFe single and CoFe /SiO2 multi layers was systematically analysed by x-ray diffraction and by x-ray reflection methods. The texture and the residual stress state in the CoFe layers are correlated with the magnetic characteristics, especially remanence polarisation and the coercivity. For the investigation of the layer roughness, layer thickness and the density of the individual layers x-ray reflectometry as performed using synchrotron radiation, so that the layer parameters could be determined also for high penetration depths. Electron microscopy were used for investigations of the layer surfaces. Texture and residual stress analysis were performed by different nondestructive X-Ray diffraction methods. For the investigation of the thin magnetic layers beside the "sin2y" method special methods for the determination of the residual stress gradients are used. The results of the investigations document that the formation of texture respectively the residual stress state in the layers shows a clear dependence on the sputter parameters. On the other hand the microstructure of the layers is mainly influenced by the formation of texture and only in an indirect way by the coating parameters. The texture also affects the magnetic characteristics of the single and multi layers due to the direction-dependence of the magnetic constants. The connection between the magnetic characteristics and the elastic constants, due to the effect of the magnetostriction, results in a strong influence of the residual stresses on the magnetic characteristics of the single and multi-layers. Analyses of the microstructure, the texture and the residual stresses, which are influenced by the coating process, are especially suitable for the optimization of the magnetic characteristics, in particular the coercivity and the remanence polarisation of thin magnetic layers.</dc:description>
+          <dc:date>2002-12-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/379</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3748</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3748</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/379/dieter_sascha.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:289">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:289</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Klärwirkung modifizierter Kieselsole und Kieselsolgemische am Beispiel einer Modelltrübungssuspension</dc:title>
+          <dc:title xml:lang="eng">Investigations of fining effects of modified silica sols using a model system</dc:title>
+          <dc:creator>Schnick, Alexander Thomas</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Durch Lösen eines trübungsaktiven Proteins, Maltodextrin und Tannin in einem Puffer (pH 4,2) gelang es, reproduzierbar eine Modelltrübungssuspension herzustellen, welche eine systematische Untersuchung der Faktoren erlaubte, die die Klärwirkung von Kieselsol in Bier beeinflussen. Bewertungsmaßstäbe für die Klärwirkung der ladungs- und oberflächenmodifizierten Kieselsolpräparate waren die Kältetrübung sowie die Filtrierbarkeit der Modellsuspensionen nach der Kieselsolbehandlung. Unter Laborbedingungen wurde nachgewiesen, dass durch den Zusatz von Kieselsol trübungsaktive Proteine deutlich reduziert werden, während der Einfluss auf die Filtrierbarkeit gering ist. Kationisch modifizierte Kieselsole erzielten bei einem pH-Wert von 4,2 die besten Klärergebnisse. Als optimales Wirkungsspektrum für anionische Kieselsole konnten pH-Werte zwischen 4,4 und 4,6 ermittelt werden. Die Untersuchungsergebnisse zeigen weiterhin, dass Kieselsole mit größerer spezifischer Oberfläche aluminatmodifizierten Kieselsolen mit vergleichsweise kleinerer spezifischer Oberfläche hinsichtlich einer Verbesserung der kolloidalen Stabilität vorzuziehen sind. Klärversuche mit Betriebsbieren unterschiedlichen pH-Wertes verifizieren die gewonnenen Ergebnisse. Der Einsatz ladungs- und oberflächenmodifizierter Kieselsolpräparate in Abhängigkeit des Bier-pH kann zu einer Verbesserung des Klärungs- und Filtrationsprozesses beitragen.</dc:description>
+          <dc:description xml:lang="eng">The haze-active protein gliadin, maltodextrin and the polyphenol tannic acid were combined in pH 4.2 buffer to gain a model system, which allows systematic studies of factors, that influence the fining procedure with silica sol in beer. The effectiveness of the silica sol fining was assessed by measurements of the chill-haze value and the filterability after the fining with different silica sols - modified in charge and surface. Under laboratory conditions it was shown, that silica sol is very effective in removing haze-active protein, but not so effective in improving filterability. Factors, that strongly influence the fining results, are the pH value of the model system, the charge of the silica sol and its surface. Negative charged silica sol is very effective at pH values between 4.4 and 4.6 while positive charged silica sols shows their best results at lower pH value (4.2). The larger the surface of the silica particles, the better the positive impact on colloidal stability. These results are comparable to those obtained with beer Variations and combinations in charge and surface of the silica sol  depending on beer pH value, are expected to improve fining and filtration performance.</dc:description>
+          <dc:date>2002-01-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/289</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2849</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2849</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/289/schnick_alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

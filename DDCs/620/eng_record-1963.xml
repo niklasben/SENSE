@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1963">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1963</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Fault tolerant position control of SM-PMSM in an electro-mechanical brake actuator against AMR angle sensor failure</dc:title>
+          <dc:title xml:lang="deu">Fehlertolerante Positionregelung für SM-PMSM in einem elektro-mechanischen Bremsaktuator gegen AMR Winkelsensorausfall</dc:title>
+          <dc:creator>Lai, Geng</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This study is part of the development of fault tolerance function for an electro-mechanical wedge brake actuator at the Robert Bosch GmbH. Through the Fault Mode and Effect Analysis (FMEA) on the present brake actuator design, the AMR angle sensor (AMR: anisotropic magnetic resistance) is identified as one of the most critical components in the brake actuator. This angle sensor is applied to measure the rotor angle of a surface-mount permanent magnet synchronous machine (SM-PMSM), which produces the desired displacement of the wedge in the brake caliper. Without fault tolerance measure, the failure of the AMR angle sensor would lead to unpredictable brake moment. This study focuses on this problematic and strives for a software fault tolerance solution to cope with AMR sensor fault without shutting down the actuator. Software solution needs little hardware change and involves hardly any production cost increase. An active fault tolerant control scheme has been proposed in which the position con-troller is switched online between the measured and the estimated rotor angle. The fault behavior of the AMR angle sensor is investigated and a fault detection module is designed. The rotor angle estimation of an SM-PMSM in the whole rotor speed range is investigated and an ad-hoc solution is proposed for the application in the specific brake actuator. A position controller with single closed-loop structure in-stead of cascaded closed-loop structure has also been designed. The parameter tuning of the position control is very simple thanks to the simple structure of the new con-troller. For the validation of the algorithm with real SM-PMSM hardware, a rapid control prototyping test bench is designed and built.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit leistet einen Beitrag zur Fehlertoleranz einer von Robert Bosch GmbH entwickelten elektromechanischen Keilbremse. Durch die Fehler-möglichkeits- und Einfluss-Analyse (FMEA) wurde der AMR-Winkelsensor (AMR: anisotropischen magnetischen Widerstand) als eine der kritischsten Komponenten in dem Bremsaktuator festgestellt. Der AMR-Winkelsensor liefert den Rotorwinkel ei-ner Permanentmagnet-Synchronmaschine mit oberflächemontiertem Magnet (SM-PMSM). Dieser Motor erzeugt die definierte Bewegung des Keils im Bremsaktuator. Ohne Fehlertoleranz führt der Fehler des AMR Winkelsensors zum unvoraussehba-ren Verhalten des Bremsmoments. Die vorliegende Arbeit fokussiert sich auf dieser Problematik und strebt einer Softwarelösung der Fehlertoleranz an, um Ausschalten des Bremsaktuators beim AMR Winkelsensorausfall zu vermeiden. Softwarelösun-gen haben den Vorteil, dass sie kaum zusätzliche Produktionskosten verursachen. Ein Schema der aktiven fehlertoleranten Regelung wird in dieser Arbeit entworfen, indem der Positionsregler zwischen den gemessenen und geschätzten Rotorwinkel umgeschaltet wird. Das Fehlerverhalten wird untersucht und die entsprechende Feh-lererkennung wird entworfen. Die Verfahren der Winkelschätzung von SM-PMSM werden vergleicht und untersucht. Eine Ad-hoc-Lösung für die Winkelschätzung die-ser Maschinentyp in dem gesamten Drehzahlbereich einschließlich Stillstand wird entwickelt. Ein neuer Positionsregler ohne Kaskadenregelung wird ebenfalls herge-leitet. Die Parametereinstellung des Positionsreglers ist problemlos möglich aufgrund seiner einfachen Struktur. Zur Validierung der Algorithmen wird ein Rapid-Control-Prototyping Prüfstand aufgebaut.</dc:description>
+          <dc:date>2008-10-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1963</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20641</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20641</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1963/original_lai_geng.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1963/lai_geng.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

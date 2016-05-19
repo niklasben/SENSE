@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:815">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:815</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung miniaturisierter elektrodynamischer Energiewandler</dc:title>
+          <dc:creator>Walter, Steffen</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ausgangspunkt für die Entwicklung miniaturisierter elektrodynamischer Energiewandler mit Reluktanzläufer war die Anforderung, ein elektronisches Schließsystem mit einer eigenständigen Energieversorgung auszustatten. Bei kommerziellen elektronischen Schließsystemen erfolgte bisher die Energieversorgung über einen Netzanschluss oder über Batteriebetrieb. Über ein Getriebe lässt sich mittels Generator aus zugeführter mechanischer Energie, zum Beispiel infolge der Klinkenbewegung, elektrische Energie gewinnen und in einem Kondensator speichern, um die Elektronik zur Codeauswertung und einen Verriegelungsmechanismus zu betreiben. Nach Analyse kommerziell erhältlicher Energiewandler zeigte sich, dass die bisherigen Konzepte zur Versorgung elektronischer Schlosssysteme nicht geeignet sind. Dies resultiert vor allem aus der Schwierigkeit, Wicklungen mit hoher Induktivität widerstandsarm auszuführen. Deshalb wurde nach einem Prinzip gesucht, das eine hohe Leistungsdichte, einen günstigen Wirkungsgrad sowie eine hohe Klemmenspannung schon bei möglichst geringen Drehzahlen ermöglicht und eine kostengünstige Massenfertigung erlaubt. Die vorliegende Arbeit befasst sich mit der Entwicklung von miniaturisierten elektrodynamischen Energiewandlern, die sich als Synchronmaschine mit feststehenden Permanentmagneten, fester zentraler Spule und Reluktanzläufer bezeichnen lassen. Mit dieser Bauform wurde das Ziel erreicht, einen Generator mit einem Durchmesser von 12 mm und einer Dicke von 3 mm zur Versorgung elektronischer Schließsysteme zu entwickeln. Der Generator ist vom Aufbau her eine durch ortsfeste Permanentmagneten heteropolar erregte Synchronmaschine mit zentraler Spule und Reluktanzläufer. Zur Auslegung waren wegen der speziellen Topologie des Generators dreidimensionale FEM-Modellrechnungen notwendig. Darauf basierend wurden Betrachtungen zur Dimensionierung, zur Materialauswahl und zum Skalierungsverhalten der Generatoren durchgeführt. Das wegen der Verwendung eines Reluktanzläufers zu erwartende Rastmoment lässt sich durch FEM-Berechnungen bestimmen und durch eine angepasste Geometrie reduzieren. Die experimentellen Ergebnisse bestätigten die FEM-Berechnungen. Durch das Klauenpolprinzip mit Reluktanzläufer ist es möglich, die geforderte Klemmenspannungsamplitude von 5 V bei einer Leistungsabgabe von 200 mW schon mit einer Drehzahl von 6750 U/min zu erreichen. Tests der Klauenpolgeneratoren ergaben auch im Motorbetrieb als einphasige Synchronmaschine sehr gute Resultate. Basierend auf den Untersuchungen zu den Generatoren wurden deshalb zweiphasige Motoren dieser Bauart entwickelt. Nach Untersuchungen zum Einfluss der Geometrie und der Werkstoffauswahl wurden Versuchsmuster mit 6 mm Durchmesser und 6 mm Länge sowie 14 mm Durchmesser und 14 mm Länge aufgebaut. Skalierungsbetrachtungen zeigen, welche Drehmomente bei einer weiteren Miniaturisierung zu erwarten sind und welche Veränderungen sich für den Aufbau ergeben. Durch die Verwendung des Klauenpolprinzips mit Reluktanzläufer gelang es, die Drehmomentdichte gegenüber kommerziellen Motoren etwa um den Faktor 2,5 zu steigern. Der 6mm-Motor liefert ein Moment von 0,25 mNm und der 14mm-Motor von 5,3 mNm. Die maximal erzielten Wirkungsgrade liegen um 21 % bzw. 43 % und damit in einer für miniaturisierte, bürstenlose Motoren üblichen Größenordnung. Klauenpolmotoren mit Reluktanzläufern zeichnen sich wegen ihres Prinzips durch ein hohes spezifisches Drehmoment aus. Wegen der hohen Drehmomentdichte und des einfachen Aufbaus eignet sich das Klauenpolprinzip mit Reluktanzläufer sehr gut zur weiteren Miniaturisierung von Generatoren und zur kostengünstigen Massenproduktion drehmomentstarker Mikromotoren.</dc:description>
+          <dc:date>2004-02-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/815</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8082</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8082</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/815/walter_steffen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

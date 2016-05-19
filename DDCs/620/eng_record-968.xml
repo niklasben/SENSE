@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:968">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:968</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Simulation von Hysteresen in Ferroelektrika</dc:title>
+          <dc:creator>Sahota, Harsimar</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein Modell zur qualitativen Beschreibung des komplexen Verhaltens von ferroelektrischen Stoffen vorgestellt. Es erfasst dabei den piezoelektrischen Effekt und den hysteresebehafteten Umpolungsprozess in solch einem Material. Das Modell ist in der Lage eine simultane und zeitabhängige Belastung durch ein elektrisches Feld, eine mechanische Last und die Temperatur zu berücksichtigen. Es ermittelt die daraus resultierende Polarisation und die Länge einer ferroelektrischen Probe als Funktion der Zeit. Wir betrachten dazu die physikalischen Eigenschaften der Elementarzellen eines Bariumtitanat-Ferroelektrikums und erachten diese als Basis für unsere Beschreibung. Die Eigenschaften werden durch eine potentielle Energie repräsentiert und der Umpolungsvorgang wird als thermisch aktivierter Prozess modelliert. Zunächst betrachten wir isotherme Hysteresen für den eindimensionalen Fall. Wir geben ein zyklisches elektrisches Feld vor und beobachten Polarisations- und Schmetterlingshysteresen, die sich aus der Auftragung der Polarisation über dem elektrischen Feld bzw. der Länge über dem elektrischen Feld ergeben. Die Hysteresen werden durch verschiedene Temperaturen verändert und die Ratenabhängigkeit kann gezeigt werden. Das Modell demonstriert ferner den Einfluss einer simultan aufgebrachten mechanischen Zug- und Druckbelastung, der sich insbesondere in unterschiedlichen Längenänderungen während des Umpolungsprozesses zeigt. Es sind Relaxationseigenschaften zu beobachten und Asymmetrien treten bei gleichzeitiger Belastung durch ein zyklisches elektrisches Feld und eine zyklische mechanische Kraft auf. Wir können eine reine alternierende mechanische Belastung aufbringen und erhalten Last-Dehnungs- und Last-Polarisations-Diagramme. Es können Fliesslasten für die Umpolung darstellt und der Einfluss eines elektrischen Feldes auf diese demonstriert werden. Das eindimensionale Modell wird anschliessend auf eine zweidimensionale Betrachtung erweitert, um den Einfluss einer zweiachsigen Belastung zu beschreiben. Wir berechnen den Deformationsgradienten und die Polarisation unter einer konstanten lateralen Zug- und Drucklast und beobachten die Verschiebung der Fliesslasten und Nichtlinearität in den elastischen Bereichen der Hysteresen. Nachdem wir isotherme Hysteresen berechnet haben, geben wir die Differentialgleichung für die Berechnung der Temperatur aus der Bilanz der inneren Energie für den eindimensionalen und den zweidimensionalen Fall an. Über die Temperaturgleichung kommen die latenten Wärmen beim Umpolungsprozess zum Vorschein und beeinflussen die Hysteresen.</dc:description>
+          <dc:description xml:lang="eng">This work presents a model for the qualitative description of the complex behaviour of ferroelectric materials. It covers the piezoelectric effect and the switching process, which is accompanied by hysteresis. The model is capable of taking the application of an electric field, a mechanical load and the temperature into account. It determines the resulting polarization and length of a ferroelectric specimen as a function of time. For this purpose, we consider the physical properties of the unit cells of the ferroelectric barium titanate and regard these as basis of our model. The properties are described by a potential energy and the switching process is modelled as a thermal activated process. First of all, we calculate isothermal hysteresis for the one dimensional case. A cyclical electric field is applied and we observe the polarization- and the butterfly-hysteresis. They result from plotting the polarization versus the electric field and the length versus the electric field, respectively. The hysteresis are changed by temperature and the rate-dependency can be shown. The model further demonstrates the influence of a simultaneously applied mechanical tensile or compressive load, which, in particular, shows itself in different changes of length during the switching process. We observe relaxation properties and asymmetries emerge due to an simultaneous application of a cyclical electric field and a cyclical mechanical load. We may apply only a cyclical mechanical load and get load-length- and load-polarization-diagrams. The model is capable of showing the yield loads for the switching process and the effect of an additional electric field. Afterwards, the one dimensional model is extended to the two dimensional case for the application of a biaxial loading. We calculate the deformation gradient and the polarization under a constant lateral tensile and compressive mechanical load. The resulting hysteresis exhibit the shifting of the yield loads and the nonlinearity in their elastic branches. Having calculated isothermal hysteresis, we finally write the differential equation for the calculation of the temperature, which results from the balance equation for the internal energy. Due to the equation for the temperature, the latent heats during the switching process influences the hysteresis.</dc:description>
+          <dc:date>2005-05-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/968</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9613</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9613</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/968/sahota_harsimar.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1603">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1603</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung der Hydrierung von Acrolein an Silberkatalysatoren</dc:title>
+          <dc:title xml:lang="eng">Examination of the hydrogenation of Acrolein with silver catalysts</dc:title>
+          <dc:creator>Steinhauer, Bernd</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit untersucht im Rahmen des DFG-Projektes SPP 1091 mit dem Thema „Von Einkristallsystemen zu realen Katalysatoren am Beispiel der Hydrierung an Silber-Katalysatoren“, den Aspekt der Überwindung der Druck- und Materiallücke. Dazu wird die Selektivhydrierung von Acrolein zu Allylalkohol an Silberkatalysatoren im Druckbereich von 0,1mbar bis 1bar in einer Reaktionsstudie und mit Methoden der Oberflächenforschung wie TDS, SEM und XPS untersucht. Hierin soll ermittelt werden, ob die Methode TDS (Thermal Desorption Spectroscopy), verwendet an diesem Realsystem, Ergebnisse zum Verständnis der Reaktion beisteuern kann. Im Fokus dieser Arbeit liegt die Kombination von Reaktionsstudie (angewandte Methode) und TDS (Grundlagenmethode). In dieser Arbeit ist eine Barriere für die Bildung von Allylalkohol bei 100mbar Reaktionsdruck festgestellt worden. Umsatz und Selektivität zu Allylalkohol können durch eine Sauerstoffbehandlung des Katalysators gesteigert werden. TDS lässt im Ergebnis keine Rückschlüsse auf die Elementarschritte der Reaktion oder den Ablauf von Reaktionspfaden zu. Viel mehr zeigt diese Methode, neben der Desorption, weitere Phänomene wie Diffusion, Kondensation und Zersetzungsreaktionen.</dc:description>
+          <dc:description xml:lang="eng">The present thesis examines in the context of the DFG project 1091 with the topic "From single crystal systems to real catalysts on the example of the hydrogenation with silver catalysts", the aspect of the overcoming of the pressure- and material gap. For that the selective hydrogenation of Acrolein to Allylalcohol with silver catalysts in the pressure range between 0,1mbar and 1bar with a reaction study was investigated. Additional methods of the surface science like TPD, SEM, TEM, XRD and BET as well was used to characterize the catalyst. The main question is the use of the method TPD to characterize a real porous catalyst. The focus of this work is the combination of a reaction study (applied research) and TPD (fundamental research). A pressure barrier for the formation of Allylalcohol was found. First with a pressure of 100mbar Allylalcohol was formed. A treatment of the Catalyst with air elevates Conversion and selectivity to Allylalcohol significant and reproducible. With the method TPD no conclusions to the elementary steps of the reaction are possible. This method show mechanisms like diffusion, condensation and thermal decomposition what overlay desorption.</dc:description>
+          <dc:date>2007-10-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1603</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16677</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16677</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1603/original_Untersuchung_der_Hydrierung_von_Acrolein_an_Silberkatalysato.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1603/steinhauer_bernd.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

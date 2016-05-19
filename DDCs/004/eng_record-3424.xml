@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3424">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3424</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Modeling and Optimizing Content-based Publish/Subscribe Systems</dc:title>
+          <dc:title xml:lang="deu">Modellierung und Optimierung inhaltsbasierter Publish/Subscribe Systeme</dc:title>
+          <dc:creator>Schröter, Arnd</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Publish/subscribe systems are increasingly often used as a communication platform for loosely-coupled systems. Its applications are widespread ranging from real-time business applications and eHome scenarios to Internet applications, such as communication and collaboration platforms or social networks. The performance of publish/subscribe systems plays an essential role for their acceptance. Especially, in mission-critical and financial areas, the system should guarantee certain predefined performance metrics such as throughput and latency. Furthermore, due to the economic pressure operators are forced to run publish/subscribe systems as efficiently as possible to reduce their operating costs. These requirements lead to the necessity to develop strategies for planning and managing publish/subscribe systems. Therefore, in this thesis we present a holistic approach targeting the modeling and optimization of the entire life cycle of publish/subscribe systems including the design, the runtime and the redesign phase. We show how an optimized infrastructure meeting predefined requirements can be determined before the system is deployed and how this approach can be used for a redesign. This allows designers to decide about the required size and capabilities of the infrastructure they have to set up. The foundation of this capacity planning is a stochastic system model that covers all important inputs and outputs. It allows a detailed analysis of distributed content-based publish/subscribe systems. We show the applicability of the approach with the help of an extensive case study. A second main topic of this thesis is the online optimization of publish/subscribe systems that avoids a performance degradation at runtime by adapting to dynamic changes of the environment. This approach is complementary to capacity planning. The algorithm works on the message routing level in order to reduce the message overhead. It is based on a new class of routing algorithms called hybrid routing which is a generalization of standard algorithms. Apart from the evaluation, we also meet challenges in fault-tolerance and in the composition with other adaptive algorithms.</dc:description>
+          <dc:description xml:lang="deu">Publish/Subscribe-Systeme werden zunehmend als Kommunikationsplattform für lose-gekoppelte, verteilte Systeme verwendet. Dabei erstrecken sich die Anwendungsbereiche von Echtzeit-Anwendungen in Unternehmen, über eHome-Szenarien bis hin zu Kommunikations- und Kollaborationsplattformen im Internet wie z.B. soziale Netzwerke. Für die Akzeptanz von Publish/Subscribe-Systemen spielt die Leistungsfähigkeit eine wichtige Rolle. Dies gilt vor allem für missionskritische Anwendungen und im Finanzbereich von Unternehmen. Bei diesen Anwendungen ist es wichtig, dass das System definierte Leistungswerte wie Durchsatz und Latenz einhält. Gleichzeitig hat der Betreiber das Ziel, das Publish/Subscribe-System mit möglichst geringen Kosten zu betreiben. Diese gegensätzlichen Anforderungen an das System führen zur Notwendigkeit einer Kapazitätsplanung. Dazu wird in dieser Arbeit ein ganzheitlicher Ansatz vorgestellt, der den kompletten Lebenszyklus eines Publish/Subscribe-Systems mit Designphase, Betrieb und Redesignphase umfasst. Es wird gezeigt, wie vor Inbetriebnahme aus vorgegebenen Anforderungen an das System eine passende Konfiguration abgeleitet werden kann. Das zugrunde liegende stochastische Systemmodell berücksichtigt alle wichtigen Einflussgrößen und erlaubt eine detaillierte Analyse verteilter inhaltsbasierter Publish/Subscribe-Systeme. Anhand einer Fallstudie wird die Anwendbarkeit der vorgestellten Kapazitätsplanung gezeigt. Der zweite Schwerpunkt der Arbeit ist die Laufzeitoptimierung von Publish/Subscribe-Systemen, um auf Änderungen der Umgebung geeignet reagieren zu können. Dieser Ansatz ist komplementär zur Kapazitätsplanung und ergänzt diese. Der vorgestellte Online-Algorithmus wirkt dabei auf der Ebene des Routings von Nachrichten und hat das Ziel, den Nachrichtenoverhead zu reduzieren. Er basiert auf einer verallgemeinerten Klasse bekannter Routingalgorithmen. Neben einer ausführlichen Evaluation wird der vorgestellte Algorithmus auch hinsichtlich Fehlertoleranz und Komponierbarkeit mit anderen Algorithmen untersucht.</dc:description>
+          <dc:date>2012-08-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3424</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36406</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36406</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3424/schroeter_arnd.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

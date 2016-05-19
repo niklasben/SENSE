@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:273">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:273</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Rolldynamik des Luftreifens mit einer Vielteilchenmethode und der Methode der Finiten Elemente</dc:title>
+          <dc:title xml:lang="eng">Dynamics of Rolling of a Pneumatic Tire with a Multi-Particle-Method and the Method of Finite Elements</dc:title>
+          <dc:creator>Gleu, Jens-Uwe</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein Weg vorgestellt, auf dem mit vertretbarem Aufwand der Übergangszustand vom abgeplatteten, stehenden zum stationär rollenden Luftreifen mit einer Kombination aus Einschicht- und Mehrschichtmodellen simuliert werden kann. Zur Analyse der äußeren Mechanik des instationär rollenden Reifens wird basierend auf der Vielteichenmethode (s. [Böhm.66a, Gallrein.92, Zachow.97, u.v.a.]) ein Einschichtmodell aufgebaut. Dieses liefert die Kontaktkräfte und die Felgenbewegung, welche dann als Ausgangsdaten zur Analyse des inneren Spannungs- und Deformationszustandes mit einem extra dafür entwickelten FE-Code verwendet werden. Die Zeitintegration des Vielteichenmodells für die äußere Mechanik erfolgt explizit nach einem adaptierten PK-Verfahren. In dem FE-Programm ist als Zeitintegrationsschema für die innere Mechanik des Gürtelreifens der Energie-Impuls-Erhaltungsalgorithmus (EMA) [Tarnow.93, Simo.92, Gonzales.96b, u.a.] implementiert. Dabei werden Stab- und Volumenelemente mit KIRCHHOFFschem Material verwendet. Außerdem kommen neu entwickelte, sehr robuste Volumenelemente mit MOONEY-RIVLIN-Material zum Einsatz, die bei speziellen Problemen bis zu 70mal schneller rechnen, als die dem Autor zugänglichen, am Markt vorhandenen Elemente.</dc:description>
+          <dc:description xml:lang="eng">In this work a method is presented, with which the simulation of the transitional stages from the flattened, standing towards the stationary rolling pneumatic tire becomes possible at an justifiable effort, using a combination of a one layer and a multi layer model. For the analysis of the outer mechanics of the non-stationary rolling tire a one layer model is established, based on the multi-particle-method [Böhm.66a, Gallrein.92, Zachow.97]. It provides both the contact forces and the rim movement, which then are used as initial data for the analysis of the inner stress and deformation state, calculated with a FE-code, developed especially for this purpose. The time-integration of the multi-particle-model for the outer mechanics is carried out explicitly with an adapted P-K-technique. In the FE-program the energy momentum conserving algorithm (EMA) [Tarnow.93, Simo.92, Gonzales.96b] is implemented as the time integration schema for the inner mechanics of the belted tire. Therefore rod- and volume elements with KIRCHHOFF material model are employed. Furthermore newly developed, very robust volume elements with MOONEY-RIVLIN material model are deployed, which, at specific problems, work up to 70 times faster than the for the author accessible, on the market available elements.</dc:description>
+          <dc:date>2001-08-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/273</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2682</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2682</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/273/gleu_jens.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

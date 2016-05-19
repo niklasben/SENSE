@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4993">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4993</identifier>
+        <datestamp>2014-04-22</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Metallkomplexe polypodaler Thiolatliganden als Modellsysteme für FeFe- und FeNi-Hydrogenasen</dc:title>
+          <dc:title xml:lang="eng">Metal complexes of thiolate ligands as model systems for FeFe and FeNi hydrogenases</dc:title>
+          <dc:creator>Daunke, Daniel</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit Synthese, Charakterisierung und Reaktivitätsuntersuchungen neuartiger Modellsysteme für FeFe- und FeNi-Hydrogenasen.&#13;
+Im ersten Teil wird die Synthese der tripodalen Thiolatliganden 2,2-Bis((diphenylphosphino)methyl)propan-1,3-dithiol (2.4) und 2-(Methoxymethyl)-2-((diphenylphosphino)methyl)propan-1,3-dithiol (2.10) ausgehend von Pentaerythritol beschrieben. Die Umsetzung der Liganden mit Fe3(CO)12 liefert die Eisen-Schwefel-Cluster [Fe2(CO)5(2.4–2H)] (2.12), [Fe3(CO)9(2.4–2H)] (2.13) und [Fe2(CO)5(2.10–2H)] (2.14). Die Komplexe geben in sehr guter Manier wichtige strukturelle Parameter des aktiven Zentrums der FeFe-Hydrogenasen wieder.&#13;
+Die Umsetzung von 2.14 mit Cyaniden führt zu einem einfachen Carbonyl-Cyanid-Austausch am distalen Eisenzentrum. Die Protonierung des Clusters mit HBF4 · Et2O ergibt die μ-verbrückte Hydridspezies [Fe2(CO)5(μ-H)(2.10–2H)](BF4) (2.16). Elektrochemische Untersuchungen von 2.14 ergeben unter anderem einen quasireversiblen Einelektron-Reduktionsprozess bei E1/2 = –2.03 V für das FeIFeI/FeIFe0-Redoxpaar. In Anwesenheit von HBF4 · Et2O wird ein elektrokatalytischer Reduktionsprozess für die Bildung von Wasserstoff aus Protonen mit 2.14 als Katalysator beobachtet.&#13;
+Im zweiten Teil der vorliegenden Arbeit werden die Synthese und Koordinationsverhalten der beiden neuen pentadentaten Liganden 2,6-Bis(2-methyl-1,3-dithiolatopropan-2-yl)pyridin (py(SH)4, 3.4) und 2-Methyl-2-(6-(1,1-di(pyridin-2-yl)ethyl)pyridin-2-yl)propan-1,3-dithiol (py(SH)4, 3.7) beschrieben. Ausgehend von 3.7 sind unter anderem die heterodinuklearen FeNi-Komplexe des Typs [FeNi(dppe)(Py3S2)(Ln–)](2–n)+ mit L = CO (3.13), CN–/Br– (3.14), NCMe (3.15) und N3– (3.16) als Modellverbindungen für FeNi-Hydrogenasen zugänglich. Durch Wechselwirkungen der eisenzentrierten Coliganden L mit dem Nickelzentrum variieren die Fe–Ni-Abstände zwischen den untersuchten Modellverbindungen. Es wird gezeigt, dass das Ni(dppe)-Fragment flexibel auf die Wechselwirkungen reagieren kann, während das Eisenzentrum durch die pentadentate Koordination fixiert ist.&#13;
+Elektrochemische Untersuchungen zeigen, dass der Cyanidkomplex 3.14 einer Ein-Elektronen-Oxidation bei mildem Potential unterworfen werden kann (E1/2 = –235 mV vs. Fc/Fc+). Ferner lässt sich Verbindung 3.14 via SET mit Fc+ zu einer gemischt-valenten FeIIINiII-Verbindung auf präparativer Skala oxidieren. Derartige Systeme sind für die Modellierung des Ni-C-Zustandes der FeNi-Hydrogenasen von Interesse, die eine gemischt-valente FeIINiIII-Paarung im aktiven Zentrum aufweisen.</dc:description>
+          <dc:description xml:lang="eng">This thesis describes synthesis, characterisation and reactivity studies of new model systems for FeFe and FeNi hydrogenases.&#13;
+The first section describes the synthesis of the tripodal thiolate ligands 2.4 and 2.10. The reaction of 2.4 with Fe3(CO)12 yields the iron-sulfur-clusters 2.12 and 2.13. Compound 2.12 contains a free phosphane unit, while 2.13 features a phopshane group coordinated to an Fe0(CO)4 fragment.&#13;
+In contrast to 2.13, the ligand system 2.10, when reacted with Fe3(CO)12, produces complex 2.14 as the only isolable product. This cluster reproduces important structural features of the FeFe hydrogenase active site.&#13;
+The reaction of 2.14 with cyanides causes one carbonyl ligand at the distal iron centre to be changed for CN–. The protonation of the cluster with HBF4 · Et2O affords the μ-bridged hydrido species 2.16. The electrochemical characterisation of 2.14 shows a quasi-reversible one-electron reduction process for the FeIFeI/FeIFe0 couple. In the presence of HBF4 · Et2O, the electrochemical formation of dihydrogen from protons, with 2.14 acting as a catalyst, is observed.&#13;
+The second part of this thesis outlines the synthesis and coordination behaviour of the new pentadentate ligands Py(SH)4 (3.4) and Py3(SH)2 (3.7). Based on compound 3.7, several heterodinuclear FeNi complexes of the type [FeNi(dppe)(Py2S2)(Ln–)](2–n)+ with L = CO (3.13), CN–/Br– (3.14), NCMe (3.15) and N3– (3.16) have been prepared as model systems for FeNi-hydrogenases. As a consequence of interactions of the iron-bonded co-ligands with the nickel site, the iron-nickel distances vary in these model systems. It is shown that the Ni(dppe) fragment responds to these interactions while the iron site is “static�?, owing to pentadentate coordination by the ligand backbone.&#13;
+Electrochemical characterisation indicates a one-electron oxidation process at a mild potential (E1/2 = –235 mV vs. Fc/Fc+). Furthermore, compound 3.14 is oxidisble via SET using Fc+, to a mixed-valent FeIII/NiII complex on a preparative scale. Such systems are of great value for modelling the Ni-C state of FeNi hydrogenase acive sites, which contain a mixed-valent FeIINiIII core.</dc:description>
+          <dc:date>2014-04-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4993</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49939</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49939</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4993/Daunke_Daniel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

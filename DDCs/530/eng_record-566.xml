@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:566">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:566</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Optisches Schalten mit Elektroabsorptionsmodulatoren</dc:title>
+          <dc:title xml:lang="eng">Optical Switching Based on Electroabsorption Modulators</dc:title>
+          <dc:creator>Hilliger, Enno</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Um den ständig wachsenden Bedarf an Informationsaustausch decken zu können, sind leistungsfähige Kommunikationssysteme nötig. Die übertragungskapazität eines optischen Kommunikationssystems wird maßgeblich durch die Verarbeitungsgeschwindigkeit in den Netzknoten begrenzt. Zur Steigerung der Gesamtübertragungsgeschwindigkeit soll daher die bisherige elektrische Signalverarbeitung in den Netzknoten durch eine optische Signalverarbeitung ersetzt werden. Die höheren Geschwindigkeiten in der optischen Signalverarbeitung werden durch schnelle optische Schalter erreicht. Aufgrund ihrer Eigenschaften sind Elektroabsorptionsmodulatoren (EAM) vielversprechende Komponenten für schnelles optisches Schalten. Als Halbleiterkomponenten lassen sie sich kompakt und in großer Stückzahl herstellen. EAM sind verhältnismäßig unkomplizierte und flexible Komponenten, die sich vielseitig einsetzen lassen. Es ist daher recht wahrscheinlich, daß EAM in den nächsten Jahren in verschiedenen Anwendungen Verbreitung finden werden. In dieser Arbeit wurden schnelle optische Schalter auf der Basis von Elektroabsorptionsmodulatoren für Anwendungen in der optischen Signalverarbeitung entwickelt und untersucht. Als Ausgangspunkt wurde zunächst ein kommerziell erhältlicher EAM charakterisiert, der auf die allgemein übliche Weise zum schnellen optischen Schalten verwendet wurde. Die Charakterisierung des Schalters erfolgte mit sogenannten Schaltfenstermessungen, mit denen sich das optische Transmissionsverhalten des Schalters mit einer zeitlichen Auflösung von etwa einer Pikosekunde bestimmen läßt. Basierend auf den Ergebnissen mit dem konventionellen EAM-Schalter wurden modifizierte Schalterkonzepte entwickelt, um die Möglichkeiten der EAM-Schalter zu erweitern. Diese Schalter wurden ebenfalls mit Hilfe von Schaltfenstermessungen charakterisiert. Nach der Charakterisierung der einzelnen Schalter wurden diese in Anwendungen der optischen Signalverarbeitung eingesetzt. Dazu wurden Demultiplex-Experimente im optischen Zeitmultiplex (optical time division multiplexing - OTDM) bei verschiedenen Datenraten bis zu 160 Gbit/s durchgeführt und die Erzeugung kurzer optischer Pulse mit einer Repetitionsrate von 40 GHz experimentell untersucht. Bei dem Gesamtvergleich stellt sich heraus, daß der Selbstkaskadierte Elektroabsorptionsmodulator (Self Cascaded EAM - SCEAM) unter den untersuchten Schalterkonzepten die günstigsten Schalteigenschaften besitzt. Mit dem SCEAM wird sowohl das kürzeste Schaltfenster (etwa 3,6 ps) als auch gleichzeitig der höchste Schaltkontrast (etwa 22dB) erreicht.</dc:description>
+          <dc:date>2003-07-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/566</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5611</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5611</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/566/hilliger_enno.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

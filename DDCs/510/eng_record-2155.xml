@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2155">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2155</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Distribution of Real Critical Points of Logarithmic Derivatives of Real Entire Functions</dc:title>
+          <dc:title xml:lang="deu">Verteilung der kritischen Punkte der logarithmischen Ableitungen ganzer reeller Funktionen</dc:title>
+          <dc:creator>Tyaglov, Mikhail</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">The distribution of real critical points of logarithmic derivatives of real entire functions with finitely many zeros is studied in the dissertation. We use the classification of real entire functions introduced by Ålander in 1922. Namely, a real entire function f belongs to the class V2n if it has the following representation: f(z)=czde-?z(2n+2)+q(z) ?j(1-z/aj)exp(z/aj+z²/a²j+...+zl/alj) where ?=0, q(z) is a real polynomial with deg q=2n+1, l=2n+1, aj?R for all j?Z, ?j|aj|-l-1&lt;8, d?Z+, c?R\{0}. A function f belongs to the class U*2n if f=pf, where p is a real polynomial with no real zeros and f is in the class U2n=V2n\V2n-2 for n=1 or in the class U0=V0. The later class is usually called the Laguerre-Polya class and denoted by L-P. The class U*0=L-P* plays an important role in the dissertation. For a given function f?U*2n we study the dependence of the number of real zeros of the function Q=Q[f]=(f'/f)' on the number of nonreal zeros of the functions f and f' and on the number of real zeros of the function Q1=Q[f']=(f''/f')'. We establish this dependence in finite and half-infinite intervals and on the real axis. The main result of the work is the following inequalities, which are valid for some subclasses of the classes U*2n: ZC(f)-ZC(f')+2n-2=ZR(Q)=ZC(f)-ZC(f')+2n+1+ZR(Q1), where ZR(Q) and ZR(Q1) are the number of real zeros of the functions Q and Q1, respectively, and ZC(f) and ZC(f') are the number of nonreal zeros of the functions f and f'. For the class L-P*, these inequalities are improved for some subclasses and are used to obtain a more sharp estimate of the number of real zeros of Q. Namely, it is proved that for any function f in L-P*, the number of real critical points of its logarithmic derivative does not exceed the number of nonreal zeros of f. Thus, the 22-year-old conjecture by Craven, Csordas, and Smith is proved. This conjecture was nicknamed the Hawaii conjecture, since all the authors are from the University of Hawaii at Manoa. The proofs of all results in the dissertation are mainly based on properties of functions in the classes U*2n and on Rolle's theorem.</dc:description>
+          <dc:description xml:lang="deu">Die vorgelegte Dissertation beschäftigt sich mit der Verteilung der kritischen Punkten der logarithmischen Ableitungen ganzener Funktionen endlichen Grads mit endlich vielen nicht-reellen Nullstellen. Diese Funktionen wurden 1922 von Ålander klassifiziert. Er zeigte, dass eine reelle ganze Funktion f zu der Klasse V2n gehört, wenn sie in folgender Form dargestellt werden kann: f(z)=czde-?z(2n+2)+q(z) ?j(1-z/aj)exp(z/aj+z2/a2j+...+zl/alj) wobei q(z) ein reelles Polynom ist und ?=0, deg q=2n+1, l=2n+1, aj?R für j?Z, ?j|aj|-l-1&lt;8, d?Z+, c?R\{0}. Eine Funktion f gehört zu der Klasse U*2n, wenn f=pf für ein reelles Polynom p ohne reelle Nullstellen und eine Funktion f, die zu der Klasse U2n=V2n\V2n-2, n=1, oder zu der Klasse U0=V0 gehört. Die letztere Klasse wird auch Laguerre-Polya-Klasse genannt und wird mit L-P bezeichnet. Die Klasse U*0=L-P* spielt eine wichtige Rolle in dieser Dissertation. Für eine gegebene Funktion f?U*2n wird die Anzahl der reellen Nullstellen der Funktion Q=Q[f]=(f'/f)' betrachtet in Abhängigkeit von nach der Anzahl der nicht-reellen Nullstellen der Funktionen f und f' und der Anzahl der reellen Nullstellen der Funktion Q1=Q[f']=(f''/f')' auf einigen beschränkten und einseitig unbeschränkten Intervallen, sowie auf der ganzen reellen Achse. Die Hauptergebnisse dieser Arbeit sind folgende Ungleichungen, die für bestimmte Teilklassen der Klasse U*2n gelten: ZC(f)-ZC(f')+2n-2=ZR(Q)=ZC(f)-ZC(f')+2n+1+ZR(Q1), wobei ZR(Q) und ZR(Q1) die Anzahl der reellen Nullstellen von Q bzw. Q1 bezeichnen und ZC(f) und ZC(f') die Anzahl der nicht-reellen Nullstellen der Funktion f bzw. f' bezeichnen. Für die Klasse L-P* werden diese Ungleichungen verbessert und für schärfere Abschätzungen der Anzahl der nicht-reellen Nullstellen verwendet. Es wird gezeigt, dass für jede Funktion f in der Klasse L-P* gilt: Die Anzahl der kritischen Punkte ihrer logarithmischen Abteilung ist kleiner oder gleich der Anzahl der nicht-reellen Nullstellen der Funktion f. Dadurch wird die 22 Jahre alte Hawaii-Vermutung bewiesen, die so genannt wird, genannt weil da deren Autoren an der University of Hawaii forschen. Die Beweise dieser Resultate verwenden den Satz von Rolle und andere Eigenschaften von Ableitungen der Funktionen in der Klasse U*2n.</dc:description>
+          <dc:date>2009-06-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-dvi</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2155</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22641</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22641</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2155/original_tyaglov_mikhail.dvi</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2155/tyaglov_mikhail.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

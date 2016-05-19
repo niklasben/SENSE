@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:71">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:71</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Mechanisms of Apoptosis in Cancer: Regulatory Role of Caspases</dc:title>
+          <dc:creator>Eßmann, Frank</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">This thesis will cover two main areas:The identification of the initiating signalling pathway of drug-induced apoptosis in the human B-cell lymphoma cell line BJAB, and insights into apoptosis related events induced by cytostatic drug-treatment. The one area governs questions regarding specific events and/or proteins associated with apoptosis:To elucidate the initiating pathway of drug-induced apoptosis the cascade of apoptotic events was unravelled starting at the most downstream event of apoptosis:drug-induced cell death. It was shown that during apoptosis DNA is degraded and one of the most downstream substrates of caspases, PARP (poly-ADP ribose polymerase), was specifically cleaved during drug-induced apoptosis in BJAB cells. Moreover, caspase-3, caspase-9 and caspase-8 activation was detected by western blot analysis. Processing of caspase-8 rose the question for the initiating point of the caspase cascade during drug-induced apoptosis because caspase-8 is reported to be the most upstream-located initiator caspase in CD95/Fas-induced apoptosis. Disruption of mitochondrial membrane potential, an event that is located upstream of caspase-9 activation, was examined by flow cytometric analysis and BJAB/mock cells were shown to undergo significant loss of mitochondrial membrane potential. To further investigate the role of caspase-8 processing stably transfected cells, harbouring a dominant-negative mutant of the adaptor molecule FADD were used. Overexpression of the dominant negative mutant of FADD (FADDdn) abrogates transmission of the CD95/Fas death signal into the cytoplasm and blocks apoptosis. Western blot analysis showed that transfection with FADDdn had no significant influence on caspase-8 processing in cytostatic drug-induced apoptosis. CD95/Fas-independent processing of caspase-8 was confirmed using a cell free extract system. Western blot analysis and caspase substrate assays from in vivo and in vitro experiments locate caspase-8 processing downstream of caspase-3 in different human B cell lymphoma cell lines: BJAB/mock, BJAB/FADDdn, NALM6 and REH. The second area governs a more general setup:2DE-PAGE analysis of samples derived from drug-treated cells and control samples was performed and evaluated by subtractive analysis. These experiments lead to the identification of several caspase substrates, including D4-GDI (rho GDP dissociation inhibitor 2). Using the caspase-3 specific inhibitor Z- DEVD-fmk it was shown that D4-GDI is being cleaved by active caspase-3 in cultured apoptotic BJAB cells. This result was confirmed in cell free extracts and by immunochemical depletion of procaspase-3. As caspase-1 is also reported to proteolyze D4-GDI, further experiments were performed. Western blot analysis showed no increase in concentration of the mature subunit p20 of caspase-1 and in a caspase activity assay no significant activity of caspase-1 could be detected. Finally, mass spectrometric analysis of the resulting D4-GDI fragment clearly showed that caspase-3 and not caspase-1 is responsible for cleavage of D4-GDI after drug treatment of BJAB cells. Moreover, it is demonstrated that apoptotic cell death bears no consequences for Rho-GDI 1, a protein which displays high homology to D4-GDI. However, the results indicated that the applied methodology is not sufficient to detect changes of regulatory factors on protein level after drug-treatment of BJAB/mock cells. Therefore, analytical efforts were made to overcome this problem and Annexin V-coupled magnetic beads were used to separate apoptotic from non-apoptotic cells. However, this method did not lead to the identification of regulatory proteins during apoptotic cell death. In another attempt, the visualisation technique was sensitized by metabolic radioactive labeling of proteins. By this method, detection limits are lowered and changes in a specific time frame can be monitored. Results obtained so far indicate that this method is suitable for detection of regulatory proteins but inherits other difficulties:in most cases the amount of regulatory proteins is far below the limit of mass spectrometric analysis and identification. For example, one spot displaying considerable variation in intensity was detected on images of 2DE PAGE gels derived from metabolic labeled samples but its identification was not yet successful.</dc:description>
+          <dc:date>2000-10-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/71</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-663</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-663</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/71/essmann_frank.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

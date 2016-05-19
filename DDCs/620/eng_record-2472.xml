@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2472">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2472</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Smart Grid: The Central Nervous System for Power Supply- New Paradigms, New Challenges, New Services -</dc:title>
+          <dc:creator>Knab, Sebastian</dc:creator>
+          <dc:creator>Strunz, Kai</dc:creator>
+          <dc:creator>Lehmann, Heiko</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">In future power systems, a smart grid is expected to manage supply and demand of electricity efficiently. This article explores (1) the trends and challenges of today’s power system that trig-ger the development of smart grids, (2) the elements that may eventually constitute the smart grid and (3) the role a telcommunication provider may adopt in the emerging smart grid market. The trend towards an increasing share of renewable and distributed energy sources bears two major challenges: A lack of predictability and a lack of controllability of power generation. This article introduces four elements of a smart grid which address these challenges: virtual power plants, demand side management, control of power flow and storage and buffering. Finally, it is pointed out that in order to enhance the smart grid’s actual value, the elements have to be systemically integrated. It is argued that telecommunication providers are well positioned to adress the integration challenges as they have crucial experiences and capabilities: profound understanding of large IP networks, experiences in cloud computing, extensive service platform know-how and cooperation experience. Online-Version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de)</dc:description>
+          <dc:description xml:lang="deu">Im Energiesystem der Zukunft wird ein intelligentes Netz (Smart Grid) Angebot und Nachfrage effizient steuern. Dieser Artikel beschreibt (1) die Trends und Herausforderungen heutiger Ener-giesysteme, die die Entwicklung eines Smart Grid auslösen, identifiziert (2) Elemente eines Smart Grid und stellt (3) die mögliche Rolle eines Telekommunkationsunternehmes im entste-henden Smart Grid Markt dar. Der Trend zu einem steigenden Anteil erneuerbarer und dezentraler Energieerzeugungsanlagen bringt zwei große Herausforderungen mit sich: Eine mangelnde Vorhersagbarkeit und eine man-gelnde Regelbarkeit der Erzeugungsleistung. In diesem Artikel werden vier Elemente eines Smart Grid vorgestellt, die diese Herausforderungen adressieren: Virtuelle Kraftwerke, Demand Side Management, Lastflussregelung und Energiespeicherung. Abschließend wird herausgestellt, dass die Elemente systemisch integiert werden müssen um den eigentlichen Wert des Smart Grid zu heben. Es wird erörtert, dass sich Telekommunkiationsan-bieter in einer guten Ausgangsposition befinden um die Herausforderungen dieser Integration zu adressieren, da sie über wesentliche Erfahrungen und Fähigkeiten verfügen: Umfassendes Ver-ständnis großer IP-Netzwerke, Erfahrungen mit Cloud Computing, umfangreiches Wissen zu Service-Plattformen und Kooperationserfahrung. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2010-03-26</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2472</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25659</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25659</dc:identifier>
+          <dc:identifier>978-3-7983-2216-5 </dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2472/2216_Knab_IZE_2_final.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4999">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4999</identifier>
+        <datestamp>2014-04-15</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Hepatic differentiation of human embryonic stem cells in a 3D bioreactor environment</dc:title>
+          <dc:title xml:lang="deu">Hepatische Differenzierung von humanen embryonalen Stammzellen in einer 3D Bioreaktor Umgebung</dc:title>
+          <dc:creator>Urbaniak, Thomas</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">Human embryonic stem cells (hESC) are pluripotent cells capable of unlimited proliferation and of differentiation into cell derivatives of all germ layers. With a growing understanding of mechanisms that control cell differentiation, stem cell based therapies could play an important role in the future treatment of diseases. Further on stem cell derived differentiated cells could also be used in pharmaceutical research for in vitro tests of drug metabolism and toxicity.&#13;
+The goal of this study was to investigate the hepatic differentiation of hESC in 3D bioreactor systems. Two different approaches were pursued. &#13;
+The first strategy focuses on the reduction of xenobiotic materials. Two protocols were adapted for hepatic differentiation in a 3D bioreactor system. &#13;
+In 2D cultures, the commitment to a hepatic lineage in protocol two was found to be superior compared to approach one. The differentiation kinetics was altered when the differentiation was conducted in 3D bioreactor systems. The hepatic commitment was now found to be increased in protocol one compared to protocol two.&#13;
+The second approach was conducted in cooperation with Cellartis based on a protocol for hepatic differentiation of hESC in conventional 2D culture.  &#13;
+The results showed no improvement of differentiation in case of the inoculation of DE committed cells. The differentiation over a 30 day period resulted in an immature phenotype, while in a 46 day bioreactor experiment cells were found expressing adult liver markers. &#13;
+In conclusion the results of this study suggest that the 3D bioreactor technology could be useful for the hepatic differentiation of hESC. In addition, the study provides evidence for a possible up-scaling by the use of larger bioreactor models, the use in pharmaceutical research and clinical applications.</dc:description>
+          <dc:description xml:lang="deu">Humane embryonale Stammzellen (hESC) sind pluripotente Zellen, die zur unbegrenzten Teilung und zur Differenzierung in Zellen aller drei Keimblätter in der Lage sind. Mit einem wachsenden Verständnis der an der Zelldifferenzierung beteiligten Mechanismen könnten stammzellbasierte Therapien eine wichtige Rolle in der zukünftigen Behandlung von  Erkrankungen spielen. Darüber hinaus könnten aus pluripotenten Stammzellen hergestellte differenzierte Zellen in der pharmazeutischen Forschung für in vitro Tests zum Metabolismus und zur Toxizität von Arzneimitteln genutzt werden.  &#13;
+Ziel dieser Arbeit war die Untersuchung der leberspezifischen Differenzierung von hESC in 3D Bioreaktorsystemen. Es wurden dafür zwei verschiedene Ansätze verfolgt.&#13;
+Der erste Ansatz zielte auf die Minimierung des Einsatzes von Materialien tierischen Ursprungs ab. Insgesamt wurden hierbei zwei Protokolle für die hepatische Differenzierung in 3D Bioreaktorsystemen adaptiert. &#13;
+In 2D-Kultur war der Grad der hepatischen Differenzierung im zweiten Protokoll dem im ersten Protokoll überlegen. Im 3D-Kultursystem änderte sich das Differenzierungsmuster. Der Grad der hepatischen Differenzierung im ersten Protokoll stellte sich nun höher als im zweiten Protokoll dar. &#13;
+Der zweite Ansatz wurde in Kooperation mit Cellartis durchgeführt und basiert auf einem Protokoll für die hepatische Differenzierung in 2D Kultur. &#13;
+Die Ergebnisse des zweiten Ansatzes zeigten keine Verbesserung der Differenzierung bei der Inokulation von bereits endodermal differenzierten Zellen. Die Differenzierung über 30 Tage resultierte hier ebenfalls in einem unreifen Phänotyp. Hingegen konnten in einem Experiment mit einer 46-tägigen Differenzierung Zellen identifiziert werden, die adulte Lebermarker exprimierten. &#13;
+Die Resultate dieser Arbeit zeigen, dass die verwendete Bioreaktortechnologie für die hepatische Differenzierung geeignet sein könnte. Weiterhin stellen sie den möglichen Nutzen des Systems für pharmazeutische Studien, klinische Anwendungen sowie die Möglichkeit eines „Scale-Up“ durch die Verwendung größerer Bioreaktormodelle dar.&#13;
+</dc:description>
+          <dc:date>2014-04-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4999</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49992</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49992</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4999/urbaniak_thomas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

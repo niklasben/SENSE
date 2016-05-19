@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:605">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:605</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Functional Genome Analysis of Mycobacterium tuberculosis</dc:title>
+          <dc:title xml:lang="deu">Funktionelle Genomanalyse von Mycobacterium tuberculosis</dc:title>
+          <dc:creator>Rachman, Helmy</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Anhand filterbasierter DNA-Arrays, die sämtliche offenen Leseraster von Mycobacterium tuberculosis repräsentieren, wurde eine funktionelle Genom-Analyse des Erregers der Tuberkulose durch geführt. Ein Genom-Vergleich von Mitgliedern des M. tuberculosis-Komplexes wies zusätzlich zu den bekannten Deletionen weitere, bislang unbekannte Sequenzvariationen nach. Der in dieser Arbeit gefundene Sequenzpolymorphismus kann möglicherweise zur Differenzierung der untersuchten Stämme herangezogen werden. Mit denselben DNA-Arrays wurden weitere Transkriptom-Analysen der Genexpressionsprofile von M. tuberculosis durchgeführt, die aus Makrophagen und Gewebematerial der menschlichen Lunge isoliert worden waren. Die DNA-Array-Untersuchungen zeigten ein charakteristisches Muster von aktiver Abgrenzung gegen und Evasion von Wirtsabwehrmechanismen. Die während der Infektion aufregulierten Gene stellen potentielle Zielstruktur für neue Interventionsstrategien dar.</dc:description>
+          <dc:description xml:lang="eng">By means of filter-based DNA arrays, which represent all open reading frames of Mycobacterium tuberculosis the functional genome analysis of the causative agent of tuberculosis was performed. The genome comparison of the members of M. tuberculosis complex revealed some so far-unknown sequence variations in addition to the known deletions. The sequence polymorphisms, which was observed in this study may be used to differentiate the analysed strains. Using the same DNA arrays the transcriptome analyses of gene expression profile of M. tuberculosis was performed, which was isolated from macrophages and human lung tissue material. The DNA array experiments revealed a characteristic pattern of active fortification against and evasion from host defense mechanisms. The genes which are upregulated during infection represent potential targets for novel intervention strategies.</dc:description>
+          <dc:date>2004-04-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/605</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5991</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5991</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/605/rachman_helmy.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

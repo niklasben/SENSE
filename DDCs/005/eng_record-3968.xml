@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3968">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3968</identifier>
+        <datestamp>2013-07-17</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">First passage times of Lévy processes over a moving boundary</dc:title>
+          <dc:title xml:lang="deu">Das erste Austrittszeiten-Problem für Lévy-prozesse unter Einbeziehung einer zeitabhängigen Barriere</dc:title>
+          <dc:creator>Kramm, Tanja</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">In this thesis we study first passage times of Lévy processes over a moving boundary. For a stochastic process and a deterministic function (the so-called moving boundary) the first passage time is the first time that the process crosses the moving boundary. The main focus of the present work is on comparing the asymptotic behaviour of these passage times of constant and moving boundaries. In this context two different types of problems are considered. &#13;
+First, we look at the asymptotic tail behaviour of the distribution of the first passage time. In particular, we concentrate on finding necessary and sufficient conditions for the moving boundary such that the asymptotic tail behaviours for a constant and a moving boundary have the same asymptotic polynomial order.&#13;
+This question is answered by Uchiyama (1980) for Brownian motion which is a simple example of a Lévy process. In Chapter 3 we revisit this result and provide an elementary proof in the case of a decreasing boundary. There is hope that our proof can be generalised to other processes in contrast to former ones. &#13;
+Subsequently, we study general Lévy processes. Since the fluctuations of a Lévy process are at least as large as the ones of a Brownian motion, a Lévy process intuitively allows a larger class of moving boundaries for which the polynomial order remains the same as in the consant case. Our theorems in Chapter 4 formalise this intuition. &#13;
+We then restrict our discussion to asymptotically stable Lévy processes. These processes are the best-known Lévy processes which fluctuate more than a Brownian motion. For this class of Lévy processes it is shown in Chapter 5 that the class of moving boundaries for which the asymptotic tail behaviour does not change compared to the constant case depends on the magnitude of the fluctuations of a Lévy process. &#13;
+The second question concerns the local behaviour of the first passage time over a moving boundary. In Chapter 6 the asymptotic behaviour of the probability that the process crosses the moving boundary at a certain time point for the first time is specified. Moreover, we show that a typical path that does not exit a moving boundary is contained in the set of paths not exiting a constant boundary.</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit betrachten wir das Austrittszeiten-Problem für Lévy-Prozesse unter Einbeziehung einer zeitabhängigen Barriere. Für einen stochastischen Prozess und eine deterministische Funktion ist die Austrittszeit definiert als der Zeitpunkt, an dem der Prozess die zeitabhängige Barriere das erste Mal überschreitet. Der Fokus der Arbeit liegt auf dem Aufzeigen von Parallelen zwischen der Austrittszeit unter Einbeziehung einer konstanten und einer zeitabhängigen Barriere. In diesem Zusammenhang behandeln wir zwei verschiedene Fragestellungen. &#13;
+Als erstes untersuchen wir das asymptotische  Tail-Verhalten dieser Austrittszeit. Insbesondere beschäftigen wir uns mit der Frage, für welche zeitabhängigen Barrieren sich das asymptotische Tail-Verhalten im Vergleich zu einer konstanten Barriere nicht verändert.&#13;
+Diese Frage wurde von Uchiyama (1980) für die Brownsche Bewegung, die ein einfaches Beispiel eines Lévy-Prozesses ist, beantwortet. In Kapitel 3 nehmen wir dieses Resultat wieder auf und stellen einen vereinfachten Beweis für fallende Barrieren vor. Im Gegensatz zu den vorher bekannten Beweisen, weckt unser Ansatz die Hoffnung, ihn auf andere Prozesse übertragen zu können.  &#13;
+Darauffolgend widmen wir uns allgemeinen Lévy-Prozessen. Da intuitiv ein Lévy-Prozess mindestens so stark fluktuiert wie die Brownsche Bewegung, ist zu erwarten, dass die Klasse von zeitabhängigen Barrieren, für die sich das asymptotische Verhalten im Vergleich zu einer konstanten Barriere nicht verändert, mindestens so groß ist wie im Fall einer Brownschen Bewegung. Diese These wird durch die Theoreme in Kapitel 4 bestätigt. &#13;
+Im Anschluss beschränken wir uns auf asymptotisch stabile Lévy-Prozesse. Diese Klasse von Lévy-Prozessen fluktuiert stärker als die Brownsche Bewegung. Für diese Klasse  wird gezeigt, dass die Klasse der zeitabhängigen Barrieren, für die sich das asymptotische Tail-Verhalten im Vergleich zu einer konstanten Barriere nicht verändert, abhängig ist von der Stärke der Fluktuation des Lévy-Prozesses.&#13;
+Die zweite Fragestellung behandelt das lokale Verhalten der Austrittszeit unter Einbeziehung einer zeitabhängigen Barriere. Das asymptotische Verhalten der Wahrscheinlichkeit, dass der Prozess die zeitabhängige Barriere zu einem bestimmten Zeitpunkt zum ersten Mal überschreitet, wird analysiert. Darüberhinaus zeigen wir, dass ein typischer Pfad, der die zeitabhängige Barriere zu einem bestimmten Zeitpunkt zum ersten Mal überquert, ähnliche Eigenschaften aufweist wie ein typischer Pfad, der eine konstante Barriere zu diesem Zeitpunkt zum ersten Mal überquert.</dc:description>
+          <dc:date>2013-07-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3968</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-39687</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-39687</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3968/kramm_tanja.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3119">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3119</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Electronic Properties of Transition Metal Doped Silicon Clusters</dc:title>
+          <dc:title xml:lang="deu">Elektronische Eigenschaften übergangsmetalldotierter Siliziumcluster</dc:title>
+          <dc:creator>Rittmann, Jochen</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The interaction of a transition metal atom with a silicon cluster is investigated to understand the stabilizing effect responsible for silicon cage formation in transition metal doped silicon clusters. The analysis was done using VUV spectroscopy and element specific x-ray spectroscopy. Partial ion yield analysis allows observing resonant excitation and direct photoionization channels separately. First experimental indications for the predicted high symmetry [1,2] of VSi16+ are found. In addition, studies on different transition metal dopant atoms in this specific silicon cage show that deviation from electronic shell closure seems to affect the silicon cage more strongly than the local electronic structure at the transition metal dopant. Furthermore, the size of transition metal doped silicon clusters shows a strong influence on the localization of electrons and position of valence levels. The latter is studied using a novel analysis method based on the combination of VUV and x-ray spectroscopy. Determination of the HOMO-LUMO gap for a wide range of cluster sizes show good agreement with theoretical predictions. An enhanced HOMO-LUMO gap of (1.9±0.2) eV is observed in case of the highly symmetric VSi16+, which can be understood in terms of a spherical potential model [1, 3]. [1] M. B. Torres, E. M. Fernandez, and L. C. Balbas. Physical Review B, 75(20):205425, 2007. [2] V. Kumar and Y. Kawazoe. Physical Rewiew Letters, 87(4):045503, 2001. [3] K. Jackson, E. Kaxiras, and M. R. Pederson. The Journal of Physical Chemistry, 98(32):7805, 1994.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die Wechselwirkung zwischen einem Übergangsmetallatom und einem Siliziumcluster untersucht. Die Untersuchungsmethoden beinhalten VUV Spektroskopie und elementspezifische Röntgenspektroskopie. Durch die Analyse der partiellen Ionenausbeute können die resonante Anregung und die direkte Photoionisation eines Clusters getrennt betrachtet werden. Erstmalig werden experimentelle Indizien für die vorhergesagte hohe Symmetrie von VSi16+ [1, 2] gezeigt. Untersuchungen an diesem Siliziumkäfig mit Titan und Chrom als Dotieratom zeigen, dass die Dotierung einen größeren Einfluss auf die Struktur des Käfigs hat als auf die lokale elektronische Struktur des Übergangsmetallatoms. Des Weiteren konnte die größenabhängige Änderung der Lokalisierung von Valenzelektronen näher bestimmt werden. Der in einem erstmalig eingesetzten Verfahren bestimmte Abstand von dem höchsten besetzten und dem niedrigsten unbesetzten Molekülorbital (HOMO-LUMO gap) in Abhängigkeit der Clustergröße zeigt eine gute Übereinstimmung mit theoretischen Berechnungen desselben. Eine besondere Stellung hat hierbei das hochsymmetrische VSi16+ mit einem gemessenen HOMO-LUMO gap von (1.9 ± 0.2) eV. [1] M. B. Torres, E. M. Fernandez, and L. C. Balbas. Physical Review B, 75(20):205425, 2007. [2] V. Kumar and Y. Kawazoe. Physical Rewiew Letters, 87(4):045503, 2001. [3] K. Jackson, E. Kaxiras, and M. R. Pederson. The Journal of Physical Chemistry, 98(32):7805, 1994.</dc:description>
+          <dc:date>2011-11-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3119</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32942</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32942</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3119/rittmann_jochen.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

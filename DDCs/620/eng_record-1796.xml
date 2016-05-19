@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1796">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1796</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modellierung und Simulation der Vergasung eines Holzpartikels unter Verwendung detaillierter Reaktionsmechanismen</dc:title>
+          <dc:title xml:lang="eng">Modelling and simulation of the gasification of a single wood particle using detailed reaction mechanisms</dc:title>
+          <dc:creator>Wilmes, Birgit</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Konversion von Biomasse stellt eine interessante Alternative zum Einsatz fossiler Energieressourcen dar. Für die Konversion von Biomasse werden unterschiedlichste Reaktortypen eingesetzt. Diese zu modellieren ist noch immer eine große Herausforderung. Das Herzstück dieser Reaktormodellierungen bildet die Modellierung der Konversion eines einzelnen Biomassepartikels. Die vorliegende Arbeit entstand am Fachgebiet Energieverfahrenstechnik und Umwandlungstechniken regenerativer Energien am Institut für Energietechnik der TU Berlin. Sie umfasst die detaillierte Modellierung der Vergasung / Verbrennung poröser Brennstoffpartikel zur Erstellung des Computerprogrammes RPM (Reactions in porous media) zur Simulation eines solchen Prozesses unabhängig vom Gesamtprozess. Das Programmpaket RPM kann in vielfacher Art und Weise eingesetzt werden und an unterschiedlichste Gesamtprozesse (z. B. Wirbelschichtreaktor, Festbettreaktor) gekoppelt werden. Es werden die einzelnen Prozesse Trocknung, Pyrolyse und Vergasung / Verbrennung weitgehend separat aber auch kombiniert untersucht und mit experimentellen Daten validiert. Für die Validierung werden experimentelle Daten des Fachgebiets Energieverfahrenstechnik und Umwandlungstechniken regenerativer Energien der TU Berlin und Literaturdaten herangezogen. Die Berechnungen zeigen gute Übereinstimmungen mit den Experimenten. Abweichungen werden analysiert und diskutiert. Die Modellierungsansätze werden kritisch diskutiert und Verbesserungen und Erweiterungen vorgeschlagen. Außerdem wird die das Partikel umgebende Gasphase auf drei verschiedene Arten (empirische Wärme- sowie Stoffübergangsbedingungen, eine Kopplung mit kugelsymmetrischen Kontinuumsgleichungen für die ruhende Umgebung und eine Kopplung mit Grenzschichtgleichungen, die auf einer Staupunktkonfiguration basieren) berücksichtigt. Die Übergangsbedingungen liefern für den Fall der Vergasung großer Partikel eine gute Beschreibung für den Partikelrand. Wird allerdings Luftüberschuss in der Umgebung betrachtet, so können in der Umgebung Gasphasenreaktionen auftreten, die zu erheblicher Wärmetönung führen. Diese kann durch die Übergangsbedingungen nicht abgebildet werden. Stattdessen muss die umgebende Gasphase selbst modelliert werden. Die auftretenden Gasphasenreaktionen werden mittels detaillierter Reaktionsmechanismen beschrieben.</dc:description>
+          <dc:description xml:lang="eng">The conversion of biomass represents an interesting alternative to the utilisation of fossil energy. For the conversion of biomass different reactor types are used. Modelling these reactors is still a challenging task. The core of these reactor modelling constitutes the modelling of the conversion of a single biomass particle. This work was performed at the chair for Energy Process Engineering and Conversion Technologies for Renewable Energies at the department of Energy Engineering at the TU Berlin. It comprises the detailed modelling of the gasification / combustion of porous biomass particles in order to implement a software tool called RPM (reactions in porous media) for simulating such a process independent of the overall process. This software package RPM is extremely versatile and is suitable for coupling to different overall processes (e.g. packed-bed reactor, fluidized-bed reactor). The different sub-processes drying, pyrolysis and gasification / combustion are investigated separately as well as combined. The simulation results are validated by experiments using data from the chair of Energy Process Engineering and Conversion Technologies for Renewable Energies at the TU Berlin as well as data from literature. The calculations show good agreement with experiments. The modelling approaches are analysed and model extensions and improvements are investigated. Furthermore, three different approaches for modelling the surrounding gas phase are compared (empirical heat and mass transfer coefficients, coupling with spherically symmetric continuum equations, and coupling with boundary layer equations based on a stagnation point configuration). The use of transfer coefficients provides a good description for the particle border when modelling the gasification of large particles. However, if excess air is considered, gas phase reactions in the ambiance occur and heat is released. This is not reproducible using transfer coefficients. Instead, the surrounding gas phase has to be modelled. The gas phase reactions are described using a detailed reaction mechanism.</dc:description>
+          <dc:date>2008-06-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1796</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18449</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18449</dc:identifier>
+          <dc:identifier>978-3-938720-31-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1796/original_wilmes_birgit.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1796/wilmes_birgit.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1796/wilmes_birgit_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

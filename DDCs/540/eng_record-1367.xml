@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1367">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1367</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Photoschaltbare Aminosäuren - Synthese, photochrome Eigenschaften und Einbau in peptidische Grb2-SH2 Antagonisten</dc:title>
+          <dc:title xml:lang="eng">Photoswitchable Amino Acids – Synthesis, Photochromism and Incorporation into Peptidic Grb2-SH2 Antagonists</dc:title>
+          <dc:creator>Priewisch, Beate</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Der Einbau photoschaltbarer Elemente in Biomoleküle ermöglicht die Modulation ihrer Konformation und damit auch ihrer Aktivität durch Bestrahlung mit Licht. Im Fokus der vorliegenden Arbeit stand die Entwicklung photoschaltbarer Phosphopeptide, die als Antagonisten der Grb2-SH2 Domäne fungieren. Zur Modulation der Struktur und Funktion solcher Peptide wurden in dieser Arbeit neue photochrome ω-Aminosäuren auf Azobenzolbasis entwickelt. Es konnte ein Verfahren zur effizienten Synthese elektronenarmer aromatischer Nitrosoverbindungen mit Oxon als Oxidans in einem zweiphasigen Lösungsmittelsystem entwickelt werden, mit dessen Hilfe eine Vielzahl unterschiedlich substituierter Azobenzole in guten Ausbeuten zugänglich sind. Des weiteren konnte die Verwendung von Selendioxid als Katalysator zur wasserstoffperoxidvermittelten Oxidation aromatischer Amine gezeigt werden. In diesem Fall ließ sich die Produktselektivität über die Wahl des Lösungsmittels steuern. In einem thematisch abgegrenzten Teil wurden substituierte Azobenzole zur Untersuchung von molekularen Schaltvorgängen an Oberflächen aufgebaut und hinsichtlich ihrer photochromen Eigenschaften mittels UV/Vis- und 1H-NMR-Spektroskopie untersucht. Auf der Grundlage der hierbei gewonnenen Erkenntnisse konnten neue azobenzolbasierte ω-Aminosäuren mit verbesserter thermischer Stabilität entwickelt werden, die ebenfalls hinsichtlich ihrer photochromen Eigenschaften charakterisiert wurden. Es konnte eine Gleichung zur Abschätzung der thermischen Halbwertszeit dieser Verbindungen bei 30 °C in Dimethylsulfoxid anhand ihres Absorptionsmaximums gefunden werden. Die Anwendbarkeit dieser neuen Aminosäuren in der Festphasenpeptidsynthese konnte erfolgreich anhand der Synthese zyklischer Phosphopeptide gezeigt werden. Untersuchungen der photochemischen Eigenschaften eines zyklischen Peptides mittels UV/Vis- und 1H-NMR-Spektroskopie zeigten die Übertragung des Schaltvorganges auf das Peptidrückgrat.</dc:description>
+          <dc:description xml:lang="eng">Reversible control of the conformation and the activity of biomolecules by light can be achieved through the incorporation of photoswitches. The goal of the present work was the development of photochromic phosphopeptides acting as antagonists of the Grb2-SH2 domain. For this purpose new azobenzene-based ω-amino acids were synthesized. A simple, high-yielding synthesis of nitrosoarenes using oxone was developed providing access to a range of substituted azobenzenes. Furthermore, selenium dioxide was shown to be suitable for the catalytic oxidation of anilines by hydrogen peroxide. Another part of this work focussed on the synthesis of azobenzenes for the investigation of elementary processes in molecular switches at surfaces. The photochromic properties of these switches were investigated by means of UV/Vis and 1H-NMR spectroscopy. Based on the results obtained, new photochromic ω-amino acids with improved thermal stability were developed. A linear relationship could be established between the thermal half-decay time of the photoswitches and their wavelength of maximum absorbance. The application of these new amino acids in solid phase peptide synthesis was successfully demonstrated by the synthesis of cyclic phosphopeptides. Investigation by means of UV/Vis and 1H-NMR spectroscopy indicated a transfer of the isomerization process from the switch to the peptide backbone.</dc:description>
+          <dc:date>2006-11-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1367</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14119</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14119</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1367/priewisch_beate.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

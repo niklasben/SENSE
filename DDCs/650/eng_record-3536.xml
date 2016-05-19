@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3536">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3536</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Grundlagen des Cloud Computing : Konzept und Bewertung von Cloud Computing</dc:title>
+          <dc:creator>Labes, Stine</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Die Durchdringung des Cloud-Begriffes in den Köpfen der Anwender schreitet seit 2007 immer weiter voran und festigt sich langsam als etabliertes Bereitstellungsmodell in der Informationstechnologie (IT). Trotz der inflationären Verwendung des Begriffes „Cloud Computing“ werden die konkrete Definition und das Ökosystem rund um das Cloud-Konzept noch nicht einheitlich verstanden. Das vorliegende Manuskript geht auf diese Unklarheiten ein und vermittelt die relevanten Grundlagen zum Thema „Cloud“. Nach einer Einleitung, welche das Thema motiviert, wird der Begriff „Cloud Computing“ konkret dargelegt und gegenüber verwandten Konzepten abgegrenzt. Da Cloud Computing keine technische Revolution darstellt, sondern sich evolutionär entwickelt hat, werden die historischen Schritte bis zu dem heutigen Konzept beschrieben und die technologischen Grundlagen dazu erläutert. Die IT-Bereiche, in die sich das Cloud-Konzept integriert, sind besonders umfassend. Das Dokument erläutert die drei allgemeinen Service-Ebenen und die vier Bereitstellungsmodelle, in denen diverse Cloud-Dienste existieren. An den Cloud-Diensten sind zwei Gruppen von Akteuren beteiligt, die Anbieter der Dienste und deren Anwender. Entlang der verschiedenen Rollen dieser Akteure wird die Wertschöpfung des Cloud-Dienstes dargestellt. Im Anschluss werden sowohl der Nutzen als auch die Herausforderungen von Cloud Computing, für die Anbieter auf der einen Seite sowie die Anwender auf der anderen Seite, näher erläutert. Abschließend wird das Cloud-Konzept bewertet und ein Ausblick in dessen Zukunft unternommen. </dc:description>
+          <dc:date>2012-12-03</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3536</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37481</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37481</dc:identifier>
+          <dc:identifier>978-3-7983-2478-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3536/9783798324787_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3536/9783798324787_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

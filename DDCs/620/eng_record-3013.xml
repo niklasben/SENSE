@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3013">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3013</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Monochromator-based absolute calibration of radiation thermometers for thermodynamic temperature measurements of high-temperature fixed-points</dc:title>
+          <dc:title xml:lang="deu">Monochromatorgestützte Absolutkalibrierung von Strahlungsthermometern für die Messung der thermodynamischen Temperatur von Hochtemperaturfixpunkten </dc:title>
+          <dc:creator>Keawprasert, Thada</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Messunsicherheit bei der Realisierung der Internationalen Temperaturskala (ITS-90)nimmt oberhalb der Kupfererstarrungstemperatur von 1084,62 °C stetig zu, da die Skala hier über eine Extrapolation basierend auf dem Planckschen Strahlungsgesetz und ausgehend von den Temperaturen des erstarrenden Silber, Gold oder Kupfers definiert ist. Alternativ dazu erlaubt die absolute radiometrische Strahlungsmessung eine direkte Temperaturbestimmung rückgeführt auf ein kryogenes elektrisches Substitutionsradiometer als primäres Detektornormal. Aus diesem Grund wurde ein neuer auf einem Monochromator und einem Ulbrichtkugelstrahler basierender Vergleichsmessplatz entwickelt, der es erlaubt die spektrale Empfindlichkeit von Hochtemperatur-Strahlungsthermometern mit einer relativen Standardunsicherheit im sichtbaren Wellenlängenbereich von unter 0,17 % (k = 1) zu kalibrieren. An einem lasergestützten Messplatz konnte eine relative Standardunsicherheit der spektralen Empfindlichkeit von unter 0,14 % (k = 1) erreicht werden. Die daraus resultierende geringe Messunsicherheit der Temperaturbestimmung von 0,14 K und 0,16 K konnte an einem Goldfixpunkt (1337,33 K) bestätigt werden. Mit dem absolut kalibrierten Strahlungsthermometer wurden die thermodynamische Phasenübergangstemperaturen der eutektischen Fixpunkte Co-C (1597 K), Pt-C (2012 K) und Re-C (2748 K) mit einer Messunsicherheit (k = 1) von maximal 0,7 K direkt bestimmt.</dc:description>
+          <dc:description xml:lang="eng">According to the International Temperature Scale of 1990 (ITS-90), the temperature (T90)above the copper freezing temperature (1084 °C) is realized using Planck’s law and one of the silver, gold or copper fixed-point as the reference source. Due to this extrapolation method the realization uncertainty at high temperatures is much higher than at lower temperatures. An alternative to the dissemination of temperature based upon the ITS-90 is the direct realization of thermodynamic temperatures (T) by means of absolute spectral radiometry with high accuracy radiation thermometers, whose spectral radiance responsivity is traceable to the optical power measured by the PTB primary cryogenic radiometer. In this work, for the first time a new monochromator-integrating sphere based spectral comparator facility was developed and fully investigated to calibrate radiation thermometers of the type LP3 in terms of absolute spectral radiance responsivity in the wavelength range from 370 nm to 1100 nm. The absolute responsivity calibration was performed by using a 75 W Xenon lamp with a reflective mirror and imaging optics to achieve a relative measurement uncertainty lower than 0.17 % (k = 1). The absolute calibration of the same radiation thermometer was also performed at a tuneable laser-based facility with a relative measurement uncertainty of 0.14 % (k = 1) in order to compare the performance and accuracy of both facilities. With the absolutely calibrated radiation thermometer, a thermodynamic temperature uncertainty of 0.14 K and 0.16 K can be achieved at 1337.33 K with the calibration results at the laser-based facility and the new monochromator based facility, respectively. To verify the calibration accuracy, the absolutely calibrated radiation thermometer was used to measure the thermodynamic freezing temperatures of the PTB primary gold-and copper fixed-point blackbodies, resulting in T-T90 values for the gold and copper fixedpoint temperatures. Applying the same radiation thermometer, the thermodynamic temperatures of the melting points of Co-C, Pt-C and Re-C eutectic fixed-point cells in WP4 of the CCT-WG5 high-temperature fixed-point research plan were directly determined in radiance mode with standard uncertainties (k = 1) below 0.7 K at 2748 K. Finally measurement results are presented for each material and compared with previous determinations of other national metrology institutes, which could be useful for a revision of the International Temperature Scale above 1300 K in the near future.</dc:description>
+          <dc:date>2011-08-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3013</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31978</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31978</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3013/keawprasert_thada.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

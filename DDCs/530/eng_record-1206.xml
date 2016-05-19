@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1206">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1206</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Exzitonische Komplexe in einzelnen III-V Quantenpunkten</dc:title>
+          <dc:title xml:lang="eng">Excitonic complexes in single III-V quantum dots</dc:title>
+          <dc:creator>Rodt, Sven</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Quantenmechanische Effekte eröffnen der Halbleiterelektronik Wege zu völlig neuartigen Bauelementen. Beispiele hierfür sind Einzelphotonenemitter für die Quantenkryptografie und Qubit-Systeme für Quantencomputer. Die viel versprechendsten Strukturen für die Realisierung solcher Anwendungen sind Halbleiter-Quantenpunkte. Für deren kontrollierten Einsatz ist es Voraussetzung, die elektronischen Eigenschaften und deren Abhängigkeit von der Quantenpunkt-Morphologie zu kennen. Im Rahmen dieser Arbeit werden die elektronischen Eigenschaften von einzelnen Quantenpunkten durch hoch-ortsaufgelöste Spektroskopie untersucht. Die Quantenpunkt-Materialsysteme umfassen InAs und InGaAs Quantenpunkte in einer GaAs Matrix sowie InGaN Quantenpunkte in GaN. Der experimentelle Zugang zu einzelnen Quantenpunkten erfolgt durch Kathodolumineszenz-Spektroskopie und der Anwendung von Nahfeld-Schattenmasken. Ergänzt werden die experimentellen Ergebnisse durch realistische Modellrechnungen im Rahmen von 8-Band k.p-Theorie und der Konfigurations-Interaktions-Methode. Die komplexen Emissionsspektren der InAs Quantenpunkte können der Rekombination von neutralen und geladenen exzitonischen Komplexen zugeordnet werden. Eine systematische Untersuchung der Bindungsenergien der Komplexe ergibt, dass sie in charakteristischer Weise von der Exzitonenenergie (der Quantenpunktgröße) abhängen. Für das Biexziton wird sogar ein Übergang von positiven zu negativen Bindungsenergien mit abnehmender Quantenpunktgröße beobachtet. Durch die Modellrechnungen kann der zugrunde liegende Zusammenhang von elektronischen und strukturellen Eigenschaften hergestellt werden: In kleinen Quantenpunkten sind weniger Lochzustände gebunden, deren Anzahl die Bindungsenergien maßgeblich beeinflusst. Des Weiteren werden die Abhängigkeiten der exzitonischen Komplexe von der Probentemperatur, vertikalen und horizontalen elektrischen Feldern und einem Temperschritt der Probe untersucht. Im Fall der InGaAs Quantenpunkte zeigen die Bindungsenergien keine Abhängigkeit von der Exzitonenenergie und sind im Falle des Biexzitons stets positiv. Lumineszenzuntersuchungen am Ensemble zeigen, dass alle Quantenpunkte nahezu die gleiche Anzahl an gebundenen Zuständen besitzen. Dieser Befund steht in voller Übereinstimmung mit dem Modell, über den Einfluss der Anzahl gebundener Zustände. Die Untersuchungen an einzelnen InGaN Quantenpunkten haben gezeigt, dass es zwei zueinander senkrechte Kristallrichtungen gibt, entlang derer alle Emissionslinien polarisiert sind. Zusammen mit anregungsdichteabhängigen Messungen ergibt sich ein Bild, das bislang einzigartig für Quantenpunkte ist.</dc:description>
+          <dc:description xml:lang="eng">Quantum mechanical effects give rise to novel devices within semiconductor electronics, including single-photon emitters for quantum cryptography and qubit registers for quantum computing. The most promising candidates for realizing such applications are semiconductor quantum dots. A prerequisite for their controlled utilization is understanding the interrelation of their electronic and structural properties. Within this work the electronic properties of single quantum dots are investigated by means of spatially high-resolved spectroscopy. The material systems under investigation include InAs and InGaAs quantum dots in a GaAs matrix as well as InGaN quantum dots in GaN. The experiments are performed by cathodoluminescence spectroscopy aided by near-field shadow masks. The experimental results are complemented by realistic calculations within the framework of 8-band k.p-theory and the configuration interaction method. The complex emission spectra of the InAs quantum dots stem from recombination of neutral and charged excitonic complexes. A systematic investigation of the respective binding energies shows a systematic dependence on the exciton energy (the quantum dot size). For the biexciton even a transition from positive to negative binding energies occurs for decreasing quantum dot size. The model calculations reveal the underlying interrelation of electronic and structural properties: In small quantum dots there are fewer bound hole states that influence the binding energies decisively. Further investigations address the dependence of excitonic complexes on sample temperature, vertically and horizontally electric fields and on an annealing step of the sample. Concerning InGaAs quantum dots no dependence of the binding energies on the exciton energy is observed and the biexciton binding energy is found to be always positive. Investigation of the ensemble luminescence reveals a nearly constant number of bound states for all quantum dots. This result is in full accordance with the modeled impact of the number of bound states. The investigation of single InGaN quantum dots reveals two perpendicular crystal axes along which all emission lines are polarized. In combination with excitation dependent measurements a completely new quantum dot scheme is revealed.</dc:description>
+          <dc:date>2006-02-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1206</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12238</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12238</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1206/rodt_sven.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

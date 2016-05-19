@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4404">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4404</identifier>
+        <datestamp>2013-12-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zum Einfluss von Schwefelverbindungen auf Wirkungsgrad und Degradation biogasbetriebener PEM-Brennstoffzellensysteme</dc:title>
+          <dc:title xml:lang="eng">Investigation of the effect of sulphur compounds on performance and degradation of biogas fuelled PEMFC systems</dc:title>
+          <dc:creator>Ellner, Janine</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Durch die Nutzung von Biogas können erhebliche Mengen an Treibhausgasemissionen vermieden werden. Zudem handelt es sich dabei um einen der wirtschaftlichsten Bioenergieträger, der im Gegensatz zur Solar- und Windenergie dazu geeignet ist, den Grundlastbereich abzudecken. Die Gaseigenschaften ähneln denen von Erdgas, so dass sich eine energetische Verwertung in Protonenaustauschmembran-Brennstoffzellen (PEMFC) anbietet. Brennstoffzellen stellen wegen ihrer hohen Wirkungsgrade sowie geringer Lärm- und Schadgasemissionen eine vielversprechende Alternative zur konventionellen Nutzung gasförmiger Kohlenwasserstoffe in Blockheizkraftwerken (BHKW) dar.&#13;
+Biogas weist neben den Hauptkomponenten Methan und Kohlendioxid auch eine erhebliche Anzahl von Spurengasen auf. Dazu zählen  flüchtige organische Verbindungen (VOC), stickstoffhaltige Verbindungen und flüchtige Schwefelverbindungen (VSC). Die genaue Gaszusammensetzung des Biogases und die Wirkung bestimmter Spurengase auf einzelne Zellkomponenten und die Leistungsfähigkeit von PEM-Brennstoffzellen sind noch unklar. In den bisherigen Forschungsarbeiten lag der Schwerpunkt auf der Wirkung von Schwefelwasserstoff (H2S), der als starkes Katalysatorgift identifiziert werden konnte. Über die Wirkung anderer flüchtiger Schwefelverbindungen sind nur wenig Informationen verfügbar.&#13;
+Das wissenschaftliche Ziel der Arbeit liegt in der Identifikation schädigender Spurengase im Biogas und die Ermittlung ihres Einflusses auf Wirkungsgrad und Degradation biogasbetriebener PEMFC. Weiterhin sollen eine Messmethode für die Degradationsanalyse entwickelt und Toleranzgrenzen für PEMFC bestimmt werden.&#13;
+Im ersten Teil der Arbeit wurde eine Methode zur Identifikation und Quantifizierung von Schwefelverbindungen im Biogas entwickelt. Die Analyse von sechs ausgewählten Schwefelverbindungen erfolgte mit einem GC-MS-System. Dazu wurden Biogasproben aus Laborreaktoren und Praxisanlagen entnommen. Die Bildung volatiler Schwefelverbindungen hängt von der Zusammensetzung des zugeführten Substrates, der Prozesstemperatur, der Raumbelastung und des Fermentationsverfahrens ab. Die Mengen an Schwefelverbindungen im durch biologische Entschwefelung gereinigten Biogas der Praxisanlagen lagen unter denen der Laborreaktoren. H2S ist die am häufigsten nachgewiesene Verbindung. Die Konzentrationen bewegten sich in einem Bereich zwischen 42 und 2589 ppm. Weiterhin wurden Methylmerkaptan (MeSH) und Dimethylsulfid (DMS) in erheblichen Konzentrationen festgestellt. Geringe Mengen Schwefelkohlenstoff (CS2) und Carbonylsulfid (COS) wurden ebenfalls detektiert. Allerdings könnte durch den Einsatz der zweistufigen Feststoffvergärung mit Bioleaching der Anteil an schädigenden Spurengasen reduziert werden.&#13;
+Für die Zellspannungs- und Degradationsuntersuchungen an PEM-Brennstoffzellen wurde ein Einzellerversuchsstand mit elektrochemischer Impedanzspektroskopie entworfen, aufgebaut und getestet. Das Brennstoffzellenverhalten bei Vergiftung mit Schwefelverbindungen wurde beispielhaft an Carbonylsulfid und Methylmerkaptan untersucht. Als Referenzverbindung diente Schwefelwasserstoff. Alle drei Schwefelverbindungen verhielten sich im Vergiftungsverhalten ähnlich und bewirkten bereits bei sehr geringen Konzentrationen sehr starke Zellspannungs- und Wirkungsgradverluste. Die Ergebnisse der Impedanzspektroskopie lassen eine Hemmung der Wasserstoffdissoziation durch die Adsorption von Schwefel an den aktiven Zentren der Katalysatoroberfläche vermuten.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">Biogas is one of the most economical and greenhouse gas saving sources of renewable energy. In contrast to wind and solar power, biogas is capable for base load production. Because its characteristics are similar to natural gas, biogas can be used as a fuel in Proton Exchange Membrane Fuel Cells (PEMFC). PEM fuel cells offer promising options to generate electricity with higher electric efficiency, lower environmental pollution and lower noise emission, than conventional combustion engines in combined heat and power units (CHP).&#13;
+The problem is that in addition to the main components, methane (CH4) and carbon dioxide (CO2), biogas contains various harmful trace compounds such as volatile organic compounds (VOC), nitrogen-containing compounds and volatile sulphur compounds (VSC). The exact biogas composition and the effect of these trace compounds on the components and performance of PEM fuel cells are still unclear. Up to now the research has mainly been focused on hydrogen sulphide (H2S). It was identified as a strong catalyst poison. But only little information has been published on other volatile sulphur compounds.&#13;
+The objectives of this work are: the identification of harmful trace compounds in biogas as well as the evaluation of their effects on the performance of PEMFCs. Furthermore develop a method measuring the degradation analysis and determine tolerance limits for PEMFCs.&#13;
+In the first part of this work a methodology was established for the identification and quantification of volatile sulphur compounds in biogas. Six selected sulphur compounds were analyzed and quantified by gas chromatography and mass spectrometry (GC-MS). Biogas from different commercial biogas plants and laboratory fermenters, fed with various substrates were analyzed. The concentration of VSCs depends on substrate properties, process temperature, volumetric load and fermentation processes. The VSC content in samples from biogas plants were lower than in laboratory samples. Most of the investigated biogas plants use an internal biological desulphurization by blowing small quantities of air into the fermenter. H2S was the most abundant sulphur species. Its content ranged from 42 to 2589 ppmv. Methyl mercaptan and dimethyl sulphide were found in significant concentrations. Little amounts of carbonyl sulphide (COS) and carbon disulphide (CS2) were also detected. However, the two stage fermentation with bioleaching can reduce such harmful trace compounds.&#13;
+Furthermore, a single cell PEM fuel cell test stand was designed and tested, and also the electrochemical impedance spectroscopy (EIS) for performance and degradation analysis was established. The effects of carbonyl sulphide and methyl mercaptan on PEMFC performance and degradation were investigated and compared with the effect of hydrogen sulphide. H2S, COS and methyl mercaptan cause nearly the same cell voltage behavior. Even at very small concentrations the cell voltage and efficiency dropped very fast. The results of the impedance spectroscopy indicated an inhibition of hydrogen dissociation caused by sulphur adsorption onto the active catalyst sites.&#13;
+</dc:description>
+          <dc:date>2013-12-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4404</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44040</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44040</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4404/ellner_janine.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

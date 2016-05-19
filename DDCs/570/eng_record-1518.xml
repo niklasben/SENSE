@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1518">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1518</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Protein Profiling und Metabolite Profiling in Arabidopsis thaliana im systembiologischen Kontext</dc:title>
+          <dc:title xml:lang="eng">Protein profiling and metabolite profiling of Arabidopsis thaliana in the context of systems biology</dc:title>
+          <dc:creator>Morgenthal, Katja</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Die biologische Forschung der vergangenen Jahre konzentrierte sich im Wesentlichen auf die detaillierte qualitative Beschreibung ausgewählter molekularer Teilprozesse. Die technische und/oder medizinische Nutzung dieser Erkenntnisse setzt jedoch ein ganzheitliches Verständnis der Funktionszusammenhänge biologischer Systeme voraus. Da dieses bis heute bestenfalls im Ansatz gegeben ist, lag der Schwerpunkt der vorliegenden Arbeit in der Entwicklung und Validierung von Analysemethoden zur quantitativen und ganzheitlichen Beschreibung zellulärer Prozesse über einen interdisziplinären Ansatz mit Methoden und Konzepten der Statistik und Bioinformatik. Zur Methodenvalidierung wurden komplexe Extrakte pflanzlichen Blattgewebes mittels GC-TOF-MS und nano-HPLC-MS in einer Vielzahl technischer und biologischer Replikate analysiert, wobei insgesamt 80 polare Metabolite sowie 179 lösliche Proteine eindeutig identifiziert und relativ quantifiziert werden konnten. Des Weiteren wurden die mit dem diurnalen Rhythmus verbundenen Änderungen des Stoffwechsels von Arabidopsis thaliana sowie die Auswirkungen von Temperaturstress auf den pflanzlichen Metabolismus erstmals integrativ analysiert. Die Auswertung und Interpretation der gewonnenen Metabolit- und Proteindaten erfolgte mit Hilfe bioinformatorischer Ansätze wie der Hauptkomponentenanalyse, der unabhängigen Komponentenanalyse oder der Analyse von Korrelationsnetzwerken. Als Ergebnis dieser Untersuchungen konnten zahlreiche metabolische und proteomische Marker identifiziert werden, anhand welcher der genetische Hintergrund bzw. ein durch Temperaturstress veränderter Metabolismus angezeigt werden. Zudem erbrachte die Netzwerkanalyse einige gezielte Hinweise auf in verschiedenen pflanzlichen Spezies konservierte, oder infolge von Mutation oder veränderten Umweltbedingungen deflektierte regulatorische Mechanismen.</dc:description>
+          <dc:description xml:lang="eng">Recent biological research essentially concentrated on detailed qualitative description of select molecular sub processes. However, the technical and/or medical application of these findings requires a holistic understanding of the functional coherence of biological systems. Since such work is still in its infancy, the present work focused on developing and validating analytical methods to quantitatively describe cellular processes by means of an interdisciplinary approach that uses methods and concepts from both, statistics and bioinformatics. To validate the developed methods, complex plant leaf extracts were analyzed using GC-TOF-MS and nano-HPLC-MS. This allowed for the unambiguously identification and quantification of 80 polar metabolites and 179 soluble proteins. For the first time changes in the metabolism of Arabidopsis thaliana resulting from its diurnal rhythm and from temperature stress were integratively analyzed. The analysis and interpretation of the metabolite and protein data obtained was performed using principal components analyses, independent components analysis, and the analysis of correlation networks. These analyses allowed for the identification of metabolic markers, which reveal the genetic background and/or changes in the metabolism caused by temperature stress. In addition, the network analysis points to several specific regulatory mechanisms conserved in various plant species or changed by mutation or altered environmental conditions.</dc:description>
+          <dc:date>2007-06-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1518</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15740</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15740</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1518/original_morgenthal_katja.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1518/morgenthal_katja.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

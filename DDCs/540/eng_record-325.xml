@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:325">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:325</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Thermo-elektrooptische und thermo-optische Effekte in Flüssigkristallen mit Glaszustand</dc:title>
+          <dc:title xml:lang="eng">Thermo-electrooptical and thermo-optical effects in liquid crystals with glassy state</dc:title>
+          <dc:creator>Selbmann, Christine</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Inhalt der vorliegenden Arbeit ist eine umfassende Charakterisierung niedermolekularer calamitischer Flüssigkristalle, die im Raumtemperaturgebiet stabile, optisch anisotrope Glaszustände ausbilden, im Hinblick auf ihre Eignung als reversible optische Langzeitspeichermedien. Im ersten Teil erfolgen grundlegende Untersuchungen zur Änderung der elektrooptischen Eigenschaften von Einzelsubstanzen und optimierten Mischungen mit einfrierbaren nematischen, cholesterischen oder ferroelektrischen Phasen bei Annäherung an den Glasübergang. Nach speziellen Orientierungsversuchen werden die phasenspezifischen elektrooptischen Effekte in Abhängigkeit von der Temperatur untersucht, u. a. bei Variation der Dotierstoffkonzentration, der Schichtdicke sowie der Ganghöhe cholesterischer Mischungen. Dabei werden Besonderheiten im elektrooptischen Verhalten gegenüber konventionellen Flüssigkristallen hervorgehoben, z. B. die erstmalig beobachtete starke Temperaturbeeinflussung der Bistabilität des ferroelektrischen Schaltvorganges. Alle einfrierbaren flüssigkristallinen Phasen zeigen Übereinstimmungen im Relaxationsverhalten in den feldfreien Zustand nach einem Schaltprozeß. Die experimentell gefundenen Abweichungen vom Arrhenius-Verhalten schon ca. 40 K oberhalb der Glastemperatur können mit der Vogel-Fulcher-Tamman-Gleichung beschrieben und durch Glasbildungstheorien erklärt werden. Der zweite Teil beinhaltet die Erprobung der Eignung eingefrorener Flüssigkristallphasen als reversibles Speichermedium. Unter Einsatz einfacher optischer Einstrahlsysteme werden das thermo-elektrooptische Einschreiben und der entsprechende Reversprozeß demonstriert. Eine transparente Metallschicht dient dabei als Wärmeüberträger. Nach der Entdeckung eines viel schnelleren (Einschreibzeiten &lt; ms) laseradressierten Speichereffektes ohne Einwirkung eines äußeren Feldes werden Einschreibbedingungen, Reversibilität und Langzeitstabilität des Speicherprozesses intensiv untersucht. Als alternative Materialien werden Zwillingsverbindungen und Seitengruppenpolymere geprüft. Vergleichende Untersuchungen laseradressierter Strukturänderungen auf speziell präparierten freien Oberflächen und in geschlossenen Zellen werden erstmals mittels Rasterkraft- und Polarisationsmikroskopie vorgestellt. Zur Deutung der thermisch induzierten dreidimensionalen Brechungsindexmodulationen werden neben polarisationsmikroskopischen Bildern auch mikroskopspektrometrische Untersuchungen und Computersimulationen der Direktorkonfiguration herangezogen. Nachfolgend entwickelte theoretische Konzepte werden zur Erklärung des postulierten thermischen Strömungsprofils mit den experimentellen Ergebnissen verglichen. Da eine laseradressierte Speicherung nicht phasenspezifisch, sondern durch die Nähe der Glastemperatur determiniert ist, sind sowohl niedermolekulare Substanzen mit unterschiedlichen einfrierbaren Phasen als auch polymere Flüssigkristalle als thermo-optische Speichermedien geeignet. Anhand der experimentellen Ergebnisse werden Anwendungsmöglichkeiten für optische Speichersysteme diskutiert.</dc:description>
+          <dc:date>2002-09-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/325</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3208</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3208</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/325/selbmann_christine.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

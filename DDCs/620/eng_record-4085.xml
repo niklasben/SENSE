@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4085">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4085</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR VI: Off-set Test Procedure: Updated Protocol</dc:title>
+          <dc:creator>Lazaro, Ignacio</dc:creator>
+          <dc:creator>Adolph, Thorsten</dc:creator>
+          <dc:creator>Thomson, Robert</dc:creator>
+          <dc:creator>Vie, Nicolas</dc:creator>
+          <dc:creator>Stein, Mathias</dc:creator>
+          <dc:creator>Johannsen, Heiko</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The off-set assessment procedure potentially contributes to the FIMCAR objectives to maintain the compartment strength and to assess load spreading in frontal collisions. Furthermore it provides the opportunity to assess the restraint system performance with different pulses if combined with a full-width assessment procedure in the frontal assessment approach. Originally it was expected that the PDB assessment procedure would be selected for the FIMCAR assessment approach. However, it was not possible to deliver a compatibility metric in time so that the current off-set procedure (ODB as used in UNECE R94) with some minor modifications was proposed for the FIMCAR Assessment Approach. Nevertheless the potential to assess load spreading, which appears not to be possible with any other assessed frontal impact assessment procedure was considered to be still high. Therefore the development work for the PDB assessment procedure did not stop with the decision not to select the PDB procedure. As a result of the decisions to use the current ODB and to further develop the PDB procedure, both are covered within this deliverable. The deliverable describes the off-set test procedure that will be recommended by FIMCAR consortium, this corresponds to the ODB test as it is specified in UN-ECE Regulation 94 (R94), i.e. EEVC deformable element with 40% overlap at a test speed of 56 km/h. In addition to the current R94 requirements, FIMCAR will recommend to introduce some structural requirements which will guarantee sufficiently strong occupant compartments by enforcing the stability of the forward occupant cell. With respect to the PDB assessment procedure a new metric, Digital Derivative in Y direction - DDY, was developed, described, analysed, and compared with other metrics. The DDY metric analyses the deformation gradients laterally across the PDB face. The more even the deformation, the lower the DDY values and the better the metric’s result. In order analyse the different metrics, analysis of the existing PDB test results and the results of the performed simulation studies was performed. In addition, an assessment of artificial deformation profiles with the metrics took place. This analysis shows that there are still issues with the DDY metric but it appears that it is possible to solve them with future optimisations. For example the current metric assesses only the area within 60% of the half vehicle width. For vehicles that have the longitudinals further outboard, the metric is not effective. In addition to the metric development, practical issues of the PDB tests such as the definition of a scan procedure for the analysis of the deformation pattern including the validation of the scanning procedure by the analysis of 3 different scans at different locations of the same barrier were addressed. Furthermore the repeatability and reproducibility of the PDB was analysed. The barrier deformation readings seem to be sensitive with respect to the impact accuracy. In total, the deliverable is meant to define the FIMCAR off-set assessment procedure and to be a starting point for further development of the PDB assessment procedure.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4085</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40854</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40854</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4085/FIMCAR_VI_off_set_test_updated.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:276">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:276</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hochfeld- und Puls-EPR-Untersuchungen an den Kofaktoren von [NiFe]-Hydrogenasen: Beiträge zur Klärung des Mechanismusses der biologischen Wasserstoffspaltung</dc:title>
+          <dc:title xml:lang="eng">High-field and pulse EPR investigations on cofactors from [NiFe] hydrogenases: Contributing to the elucidation of the biological hydrogen splitting</dc:title>
+          <dc:creator>Brecht, Marc Torsten Jörg</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Hydrogenasen katalysieren die reversible Oxidation von molekularem Wasserstoff. Die in der vorliegenden Arbeit untersuchten Enzyme gehören zu der Gruppe der [NiFe]-Hydrogenasen. Das katalytisch aktive Zentrum dieser Hydrogenasen besteht aus einem heterobimetallischen NiFe-Zentrum. Neben dem NiFe-Zentrum enthalten die Hydrogenasen mehrere Eisen-Schwefel-Cluster. Diese Cluster sind am Transfer der Elektronen vom aktiven Zentrum zur Protein- oberfläche beteiligt. In Abhängigkeit von den äußeren Bedingungen liegen die Kofaktoren in verschiedenen Oxidationszuständen vor. Einige dieser Zustände sind charakteristisch für das oxidierte, inaktive Enzym, andere für das reduzierte, katalytisch aktive Enzym. Um den katalytischen Mechanismus der [NiFe]-Hydrogenasen zu verstehen, ist eine genaue Kenntnis der elektronischen Struktur der verschiedenen Intermediate notwendig. Die detaillierte Charakterisierung der paramagnetischen Zustände sowohl des NiFe-Zentrums als auch des [3Fe-4S]-Cluster war der Gegenstand dieser Arbeit. Die vorliegende Arbeit lässt sich in drei Teile unterteilen. Im ersten Teil wurden ESEEM- und HYSCORE-Messungen an Einkristallen der Hydrogenase aus Desulfovibrio vulgaris Miyazaki F durchgeführt. Anhand dieser Messungen war es möglich eine Stickstoffkopplung in den beiden oxidierten Zuständen Ni-A und Ni-B zu bestimmen. Die Zuordnung dieser Kopplung zu dem N (in epsilon-Position) eines Histidins ergibt sich aus DFT-Rechnungen, die auf der Röntgenstruktur des Enzyms basieren. Im zweiten Teil dieser Arbeit wird die elektronische Struktur des aktiven Ni-C und der Ni-L Zustände der regulatorischen Hydrogenase aus Ralstonia eutropha charakterisiert. Mit orientierungsselektierten ENDOR- und HYSCORE-Messungen konnten im Ni-C Zustand mehrere Protonen lokalisiert werden. Eine sehr anisotrope Kopplung lässt sich auf ein Proton (H/D-austauschbar) in der Brücke zwischen dem Ni und dem Fe zurückführen. Weitere Kopplungen könnten den beta-CH_2-Protonen eines verbrückenden und eines terminalen Cysteins zugeordnet werden. HYSCORE-Messungen am Ni-L Zustand zeigen, dass das Proton in der Brücke durch Bestrahlung mit weißem Licht aus dieser Position entfernt wird. Messungen an einem durch ortsgerichtete Mutagenese modifizierten Protein zeigen die große Ähnlichkeit des aktiven Zentrumis der RH mit dem der Standardhydrogenasen. Im dritten Teil wird über Messungen am oxidierten [3Fe-4S]^+-Cluster berichtet. Mittels Hochfeld-EPR-Messungen (94 GHz) an Einkristallen der Hydrogenase aus D. vulgaris Miyazaki F konnte der vollständige g-Tensor dieses Clusters und seine Orientierung im Kristallachsensystem bestimmt werden. Durch Puls-EPR-Messungen in verschiedenen Frequenzbändern wurde gezeigt, dass das Signal eine starke Verbreitung durch 'g-strain' erfährt. Durch ENDOR-Messungen konnten sowohl beta-CH_2-Protonen von einem Cystein lokalisiert, als auch eine Aussage über die Spindichteverteilung innerhalb des Clusters getroffen werden.</dc:description>
+          <dc:date>2002-03-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/276</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2715</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2715</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/276/brecht_marc.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:857">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:857</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Monolithically Integrated Gain Shifted Mach-Zehnder Interferometer for All-Optical Demultiplexing</dc:title>
+          <dc:title xml:lang="deu">Monolithisch integrierte gewinn-verschobene Mach-Zehnder Interferometer für rein-optisches Demultiplexen</dc:title>
+          <dc:creator>Tekin, Tolga</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das optische Zeitmultiplex-Verfahren (optical time division multiplexing, OTDM) ist eines der gebräuchlichsten Verfahren, um die Datenübertragungskapazität einzelner Glasfaser zu erhöhen. Auf der Empfängerseite sind die Signale der Basisdatenrate durch einen optischen Schalter mit einer Demultiplexer Funktion wieder zurückzugewinnen. Die verschiedene Möglichkeiten zur Realisierung schneller optischer Demultiplexer unterscheiden sich im wesentlichen durch ihre Ansteuerung: Elektro-optische und rein-optische Demultiplexer. Der rein-optische Schalter basiert auf dem Prinzip Licht durch Licht zu steuern. Die wichtigsten Anforderungen an schnelle Schalter sind: Die Öffnungszeiten der Schalter müssen kürzer als die Bitperiode des OTDM Datensignals sein; der Schalter muss ein hohes Unterdrückungsverhältnis von grösser als 10 dB besitzen und stabil sein um ein gutes Systemperformance zu gewährleisten. Diese Arbeit präsentiert einen rein-optischen Demultiplexer basierend auf Halbleiterlaserverstärkern (semiconductor optical amplifier, SOA) in einem Mach-Zehnder Interferometer (MZI) als monolithisch integriertes Bauelement, das sogenannte monolithisch integrierte 'gewinn-verschobene' (gain shifted, GS) MZI. Das Operationsprinzip des Schalters ist rein-optisch und kann bei einer Übertragungsrate bis zu 160 Gbit/s eingesetzt werden. Der Schalter hat ein hohes Unterdrückungsverhältnis und die monolithische Integration ermöglicht die benötigte Stabilität. Mit dem hier untersuchten GS Schaltschema wurde ein Kompromiss zwischen den Vor- und Nachteilen der konventionellen und 'gewinn-transparenten' (gain transparent, GT) Schaltschemen angestrebt. Ausserdem präsentiert diese Arbeit den ersten monolithisch integrierten Schalter in einem unkonventionellen Schaltschema, da der GT-Schalter noch nicht als ein monolithisch integriertes Bauelement realisiert wurde. Das GS Schaltschema reduziert das Rauschen, die Patterneffekte und die Einfügedämpfung und ermöglicht eine breite Linearität. Ein polarisationsunempfindliches Design für monolithisch integrierte MZI wurde entwickelt. Hierdurch wurde eine prozesstolerante Herstellung von Bauelementen mit reduzierter Einfügedämpfung, reduzierten internen Reflektionen und einer verbesserten Faser-Chip Kopplung realisiert. Statisches und dynamisches Schaltverhalten des monolithisch integrierten GS-MZIs wurden analysiert. Fehlerfreies rein-optisches Schalten von 160 Gbit/s auf 10 Gbit/s konnte mit dem neuen monolithisch integrierten auf GS-SOA basierenden MZI für alle OTDM-Kanäle erfolgreich gezeigt werden.</dc:description>
+          <dc:description xml:lang="eng">Optical time division multiplexing (OTDM) is one of the fundamental techniques to increase the transmission capacity on a fiber. At the receiver side the base rate data signals must be extracted from the OTDM data stream by using an optical switch with a demultiplexing function. Different approaches have been proposed and used for optical switching. The possible approaches can be categorized as follows: electro-optical demultiplexer and all-optical demultiplexer. The electro-optical demultiplexers rely on the electrical control of the switching function. The general principle of the all-optical switches relies on the control of light by light. Some of the basic requirements for such a switch can be defined as follows: The switching time should be much less than the bit period of the OTDM data signal; it has to have high switching contrast of more than 10 dB; it should be stable to provide a good system performance. This thesis presents an all-optical demultiplexer based on semiconductor optical amplifiers (SOA) monolithically integrated in a 'gain shifted' (GS) Mach-Zehnder interferometer (MZI). The switch operates all-optically and can handle data rates up to160 Gbit/s. It has a high contrast ratio and the monolithic integration provides the required stability. The GS switching scheme investigated here intends to find a compromise between the advantages and disadvantages of the existing 'conventional' and 'gain transparent' (GT) switching schemes. Moreover, as a switch based on the GT-switching scheme was never realized as monolithically integrated device, this work presents the first monolithically integrated interferometric switch in a non-conventional switching scheme. The GS-switching scheme provides reduced amplified spontaneous emission noise, reduced pattern effects, better linearity and low insertion loss. A polarization insensitive design of the monolithically integrated GS-MZI was developed, which enables process tolerant technological realization of devices with reduced internal losses, reduced internal reflections and improved fiber-chip coupling. Static and dynamic switching performances of the GS-MZI have been analyzed and compared with existing solutions. Error-free all-optical demultiplexing from 160 Gbit/s to 10 Gbit/s has been successfully performed with the monolithically integrated MZI comprising GS-SOAs for all OTDM channels.</dc:description>
+          <dc:date>2004-07-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/857</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8507</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8507</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/857/tekin_tolga.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

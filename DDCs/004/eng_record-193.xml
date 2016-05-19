@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:193">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:193</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zur Kontextanalyse einer algebraischen Programmiersprache</dc:title>
+          <dc:title xml:lang="eng">About the context analysis of an algebraic programming language</dc:title>
+          <dc:creator>Maeder, Christian</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Algebraische Spezifikationen wurden theoretisch gut untersucht, doch für verschiedene Entwürfe von konkreten Spezifikations- oder Programmiersprachen erwies sich die Notation von Instanzen für parametrisierte Strukturen als umständlich. Inzwischen hat sich dafür eine Listennotation durchgesetzt, bei der aktuelle und formale Parameter per Position zugeordnet werden. In einigen Sprachen wurden explizite Instanziierungen reduziert, indem parametrisierte Namen generisch importiert werden können und die Kontextanalyse die fehlende Information aus dem Anwendungskontext inferiert. Der Sprachentwurf orientiert sich insoweit an Analysealgorithmen. Der Entwurf von ML mit streng getypten polymorphen Funktionen höherer Ordnung wurde geprägt durch den Hindley-Milner-Algorithmus W zur Typinferenz. Der ursprüngliche Entwurf von PASCAL war durch die effiziente One-Pass-Technik auf so genannte lineare Sichtbarkeit beschränkt. Diese gilt immer noch für fast alle algebraischen Sprachen (PVS, LPG und CASL), aber nicht für moderne Programmiersprachen wie JAVA (objektorientiert) oder HASKELL (funktional). Der Entwurf von OPAL ist daher herausragend: Deklarationen können in beliebiger Reihenfolge notiert werden und sind im ganzen Modul sichtbar; unabhängig davon ist die Reihenfolge formaler Parameter. Für die algebraische Typanalyse werden in dieser Arbeit die klassische polymorphe Typinferenz und Überlagerungsauflösung zu einem Algorithmus Wo verschmolzen. Es stellt sich heraus, dass dieselbe Art der Analyse für die Identifikation von überlagerten und generischen Namen benötigt wird. Dafür müssen einfache Typterme zu Namenstermen verallgemeinert werden; die Namen stehen für deklarierte Typen und Funktionen, die sowohl die Parametersignatur als auch die Gesamtsignatur einer Struktur etablieren. Durch den hier entwickelten Algorithmus I für die Namensidentifikation entsteht eine Parallele zur Typanalyse, die über die aus HASKELL bekannte Analogie für die Konstruktorapplikation von Typen und Ausdrücken hinausgeht. Instanziierung ist Applikation und zwar insbesondere für Funktionsparameter. Dadurch werden die klassische ML-Polymorphie und Funktionen höherer Ordnung zu Teilaspekten der universelleren Generizität durch Parametrisierung. Den Kern der Namensidentifikation I bilden die um Funktionen erweiterten Namensterme. Die konsequente Gleichberechtigung von Typen und Funktionen unterstützt Funktionsparameter, die andere Funktionsparameter enthalten können; diese sind beispielsweise für die Zusicherung von Eigenschaften geeignet. Der induktive Aufbau der Namen erlaubt die inkrementelle Konstruktion eines Namensraums unabhängig von der textuellen Reihenfolge. Für einen erweiterten und unverändert schlanken Sprachentwurf werden implizite Parameter vorgeschlagen, die Parameterlisten verkürzen, sowie sich wechselseitig importierende Strukturen und polymorphe Rekursion.</dc:description>
+          <dc:date>2001-08-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/193</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1888</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1888</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/193/maeder_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

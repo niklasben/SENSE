@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4455">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4455</identifier>
+        <datestamp>2014-01-30</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">MATSim for urbansim : integrating an urban simulation model with a travel model</dc:title>
+          <dc:title xml:lang="deu">MATSim for urbansim : Integration eines Flächennutzungsmodels mit einem Verkehrsmodell</dc:title>
+          <dc:creator>Nicolai, Thomas Wilhelm</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="eng">Land use and transport interaction (LUTI) models allow to perform impact analysis and the evaluation of transport, land use and environmental policies. The use of state-of-the-art LUTI models is valuable to decision makers in assessing alternative combinations of transport, economic, and environmental policies, and investments in specific metropolitan areas in order to attain their social, economic and environmental objectives.&#13;
+LUTI models can be seen as simplifications of the urban system. They try to represent the urban system, with all its processes and interactions as well as its evolution over time. In particular, LUTI models are taking the feedback cycle between land use and transport into account. Both land use and transport are influencing each other in a dynamic and complex manner. Accessibility provided by transport influences location decisions of developers, firms and households. Conversely, land use determines the need for spatial interaction. The main purpose of LUTI models is to understand the interactions between land use and transport and consequently to use the knowledge to explain effects of modifications to the urban system such as modifications on the structure of the transport system, the land use patterns and the environment.&#13;
+Accessibility is a central measure. Generally, it is a measure of attractiveness. The important aspect in the context of LUTI models is that accessibility measures how opportunities, e.g., workplaces, locations for shopping and leisure, are linked with each other via the transport network and how well they can be reached. Various accessibility measurements exist. One example is the so-called logsum that is used as a policy evaluation measure. It is an utility-based measurement of accessibility reflecting the (economic) benefit, as the maximum expected utility, that someone gains from access to spatially distributed opportunities.&#13;
+So far, modern operational models taking the feedback cycle between land use and transport into account are still missing or are not implemented in a consistent way. This dissertation aims to address this issue by integrating the micro-simulation land use model UrbanSim with the agent-based travel model MATSim. UrbanSim is an extensible agent-based urban simulation model that aims at simulating interactions between land use, transportation, economy and the environment at large-scale metropolitan areas and over long time horizons. MATSim (Mutli-Agent Transport Simulation) is a disaggregated agent-based transport model that is designed to simulate several million travelers individually for large real-world transport scenarios.&#13;
+This dissertation presents concepts and implementation details (i) to couple both frameworks directly at a microscopic person-centric level. Moreover, the robustness of the software integration is taken into account by using a “certified grammar�? (XSD) to validate the data exchange. The computational efficiency of the traffic simulation is increased by the so-called warm and hot start that reduces computing times of simulation runs. (ii) Both, the integrated modeling framework and the impact of a large accessibility increase are analyzed in case study. (iii) The traffic model is extended to compute accessibilities at high resolutions. The proposed approach is computationally feasible and provides a spatially differentiated picture; artifacts such as supposedly homogeneous accessibility within zones are removed.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Integrierte Landnutzungs- und Verkehrsmodelle, sog. Land use and transport interaction (LUTI) models, ermöglichen Analysen und Bewertungen von Verkehrs-, Landnutzungs- und Umweltmaßnahmen. Sie dienen politischen Entscheidungsträgern als Unterstützungswerkzeug um alternative Verkehrs-, Wirtschafts- und Umweltmaßnahmen, sowie Investitionen in bestimmte Regionen zu beurteilen und soziale, wirtschaftliche und ökologische Zielsetzungen gezielter umsetzen.&#13;
+LUTI Modelle können als vereinfachte Abbildung des urbanen Systems – mit all seinen Prozessen und Wechselbeziehungen – angesehen werden. Charakteristisch für LUTI Modelle ist der Rückkopplungsprozess zwischen Landnutzung und Verkehr. Ziel ist die Wechselwirkung zwischen beiden Teilsystemen zu verstehen und Auswirkungen durch Modifikationen an diesen Teilsystemen erklären und prognostizieren zu können. Landnutzung und Verkehr beeinflussen sich auf eine dynamische und komplexe Weise. Die Erreichbarkeit von Aktivitätenorten, d.h. von Arbeitsplätzen, Einkaufs- und Freizeitgelegenheiten, beeinflusst Standortentscheidungen sozioökonomischer Gruppen (Haushalte, Firmen und Bauunternehmen). Umgekehrt ergibt sich durch die Verteilung der Aktivitätenorte die Notwendigkeit räumlicher Interaktion. In diesem Kontext ist die Erreichbarkeit ein zentrales  Maß und spiegelt die Attraktivität von Aktivitätenorten wieder und zeigt wie gut Aktivitätenorte über das Verkehrssystem verbunden sind und erreicht werden können. Ein Beispiel der Vielzahl von Erreichbarkeitsmaßen ist der sog. “Logsum Term�?, der zur Evaluierung von Richtlinien verwendet wird. Er ist ein nutzenbasiertes Erreichbarkeitsmaß und spiegelt den maximal zu erwartenden ökonomischen Nutzen einer Person wieder, den diese durch Zugang zu räumlich verteilten Aktivitätenorten erlangt.&#13;
+Bisher fehlen einsatzfähige Modelle, die den Rückkopplungsprozess zwischen Landnutzung und Verkehr berücksichtigen oder deren Modelle konsistent integrieren. Ziel der Dissertation ist es, dieser Problemstellung nachzugehen und moderne agentenbasierte Microsimulationsmodelle, UrbanSim und MATSim miteinander zu koppeln. UrbanSim ist ein flexibles  Landnutzungsmodell, das Wechselwirkungen zwischen Landnutzung, Verkehr, Wirtschaft und Umwelt für große Metropolregionen und über lange  Zeithorizonte simuliert. MATSim (Multi-Agent Transport Simulation) ist ein mikroskopisches agentenbasiertes Verkehrsmodell zur Simulation umfangreicher Verkehrsszenarien mit mehreren Millionen individuellen Verkehrsteilnehmern.&#13;
+Diese Arbeit stellt Konzepte und Implementierungsdetails zur (i) mikroskopisch personenzentrierten Kopplung beider Simulationsmodelle vor. Die Robustheit der Software-Anbindung wird durch die Validierung des Datenaustausches über eine Metasprache (XSDs) erreicht. Zur Laufzeitoptimierung der Verkehrssimulation wird ein sog. Warm- und Hot-Start implementiert. (ii) Das integrierte Simulationsmodell wird in einer Fallstudie untersucht  – dabei wird die  Erreichbarkeit eines schlecht  angebundenen Gebietes drastisch verbessert. (iii) Zudem wird das Verkehrsmodell um eine Komponente zur effizienten  Berechnung hochauflösender Erreichbarkeiten erweitert. Der vorgestellte Ansatz bietet ein differenziertes Bild von Erreichbarkeiten im Raum. Artefakte, wie vermeintlich homogene Erreichbarkeiten in Zonen, entstehen nicht.&#13;
+</dc:description>
+          <dc:date>2013-12-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4455</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44552</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44552</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4455/nicolai_thomas_wilhelm.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

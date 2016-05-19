@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2010">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2010</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Gartenhistorisches Forschungskolloqium 2008 : Zusammenstellung der Tagungsbeiträge</dc:title>
+          <dc:creator>Butenschön, Sylvia</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Das Gartenhistorische Forschungskolloquium ist ein Forum für NachwuchswissenschaftlerInnen, die an Dissertationen über gartenhistorische Themen arbeiten oder unlängst auf diesem Gebiet promoviert haben. Das Themenfeld ist die Gartengeschichte im weitesten Sinne, es umfasst also auch Arbeiten aus dem Gebiet der Geschichte des Stadtgrüns, gestalteter Landschaften und der Gartendenkmalpflege. Entsprechend breit gefächert ist auch die Zusammenstellung der Tagungsbeiträge des 7. Kolloquiums dieser Reihe, das im April 2008 an der TU Berlin stattfand. Sie reicht von koreanischen Gärten über spezielle Aspekte landschaftlicher Gartenkunst des 18. Jahrhundert und städtischer Grünelemente aus der Zeit um 1900 bis zur Professionsgeschichte der Landschaftsarchitektur in der zweiten Hälfte des 20. Jahrhunderts. Der Themenbereich der Gartendenkmalpflege wurde speziell in den Eröffnungsvorträgen in den Mittelpunkt gestellt, in denen zwei Vertreterinnen aus Landesdenkmalämtern die Anforderungen und Wünsche der Praxis an die Forschung formulierten. Das weite Feld der Gartengeschichte wird natürlich nicht nur von LandschaftsarchitektInnen bestellt – WissenschaftlerInnen aus der Kunstgeschichte, Geschichte und Literaturwissenschaft trugen zu dem interdisziplinären Austausch bei. Die Veranstaltung bot eine willkommene Gelegenheit, die Forschungsvorhaben und -ergebnisse über die eigenen Fachgrenzen hinaus zur Diskussion zu stellen und mit anderen ForscherInnen der Kultur- und Kunstgeschichte von Gärten und Parks Erfahrungen auszutauschen. Online im Universitätsverlag der TU Berlin erschienen</dc:description>
+          <dc:date>2009-01-13</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2010</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20931</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20931</dc:identifier>
+          <dc:identifier>978-3-7983-2100-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2010/Graue_Reihe_Heft_17_Gartenhistorisches_Forschungskolloquium_2008.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:384">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:384</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Long time behavior of a spherical mean field model</dc:title>
+          <dc:title xml:lang="deu">Langzeitverhalten von spärischen Teilchenmodellen mit Mittelfeldwechselwirkung</dc:title>
+          <dc:creator>Dahms, Rene</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit untersuchen wir einige Aspekte des Langzeitverhaltens von sphärischen Teilchenmodellen mit Mittelwertwechselbeziehung. Diese Modelle sind durch Problemstellungen der mathematischen Physik und der statistischen Mechanik motiviert. Genauer gesagt, betrachten wir N Diffusionen (Teilchen), deren Drift vom empirischen Maß dieser N Teilchen rotationsinvariant abhängt. Dem Verhalten des Prozesses der empirischen Maße für große N gilt dabei unser Hauptinteresse. Dieser Prozeß kann als eine zufällige Störung der deterministischen McKean-Vlasov-Dynamik aufgefaßt werden. Der geeignete Zugang zum Studium solcher zufälligen Systeme besteht in einer unendlich dimensionalen Verallgemeinerung der klassischen Freidlin-Wentzell-Theorie. Diese Theorie ist ein mächtiges Werkzeug in der Untersuchung von endlich dimensionalen deterministischen dynamischen Systemen mit kleinen zufälligen Störungen. Im ersten Teil der vorliegenden Arbeit untersuchen wir ein hierarchisches Modell, das aus mehreren Stufen besteht. Für jede Stufe n leiten wir ein Prinzip der großen Abweichungen für die invarianten Verteilungen der maßwertigen empirischen Prozesse der jeweiligen Stufe her. Die zugehörige Ratenfunktion geben wir explizit an und charakterisieren ihre Nullstellenmenge. Es stellt sich heraus, daß diese Menge eine endlich-dimensionale Sphäre von Wahrscheinlichkeitsmaßen ist. Diese Sphäre kann durch ihren Radius beschrieben werden. Wir zeigen, daß an einem kritischen Wert für die Stärke der Mittelwertwechselbeziehung ein Phasenübergang stattfindet, und geben diesen kritischen Wert explizit an. Weiterhin analysieren wir die Folge der Radien und leiten einige Kriterien für ihr Verhalten beim Grenzübergang n gegen Unendlich her. Im zweiten Teil untersuchen wir allgemeinere zufällige Teilchenmodelle auf endlich dimensionalen Riemannschen Mannigfaltigkeiten anstatt einer Sphäre. Wir beweisen ein Prinzip moderater Abweichungen für die empirischen Prozesse für N gegen Unendlich. Die Größenordnung der Abweichungen, die mit solch einem Prinzip gemessen werden, liegt zwischen der Skala Eins durch Wurzel N des zentralen Grenzwertsatzes und der Skala Eins der großen Abweichungen. Weiterhin leiten wir eine kompakte Integralform der zugehörigen Ratenfunktion her und untersuchen ihre Nullstellenmenge. Es stellt sich heraus, daß diese Menge als einziges Element die Schwartz'sche Distribution Null enthält. Die wichtigsten Werkzeuge, die wir in diesem Teil verwenden, sind die Theorie partieller Differentialgleichungen in Sobolevräumen und stochastische Analysis auf Riemannschen Mannigfaltigkeiten. Im letzten Teil untersuchen wir die mit N*t zeitbeschleunigten empirichen Prozesse. Unter Verwendung der ersten beiden Teile beweisen wir einen funktionalen zentralen Grenzwertsatz. Genauer gesagt, beweisen wir, daß die empirischen Prozesse für N gegen Unendlich in Verteilung gegen eine Brownsche Bewegung auf der Sphäre von Wahrscheinlichkeitsmaßen konvergieren, welche wir bereits im ersten Teil beschrieben haben. Weiterhin berechnen wir die Varianz dieser Brownschen Bewegung mittels Eigenfunktionen eines assoziierten Diffusionsoperators.</dc:description>
+          <dc:date>2002-12-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/384</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3795</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3795</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/384/dahms_rene.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

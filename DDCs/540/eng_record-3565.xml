@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3565">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3565</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Kinetische Untersuchungen der elektrokatalytischen Chlorevolution auf Ru/Ir/Ti-Oxidanoden</dc:title>
+          <dc:title xml:lang="eng">Kinetic studies of the electrocatalytic Chlorine Evolution on Ru/Ir/Ti oxide anodes</dc:title>
+          <dc:creator>Menzel, Nadine</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit befasst sich mit einer kinetischen Untersuchung der elektrochemischen Chlorevolution an industriellen und neuartigen dimensionsstabilen Ru Ir Ti Oxidelektroden. Dazu wurde zunächst eine elektrochemische Zweikammertestzelle entwickelt, die den enormen Stabilitätsansprüchen der Chlorelektrochemie genügt. Der Einfluss der Temperatur, Chlorid-Konzentration, des pH-Wertes sowie des Chlorpartialdrucks des Elektrolyten auf die Chlorevolutionsrate wurde experimentell gemessen und die entsprechenden kinetischen Exponenten abgeschätzt. Tafel-Analysen ergaben darüber hinaus Werte für die exponentiellen Abhängigkeiten der Reaktionsraten vom angelegten elektrischen Überpotential. Mit den ermittelten kinetischen Parametern wurde dann ein experimentelles Reaktionsgeschwindigkeitsgesetz aufgestellt und die experimentellen Befunde mit den Vorhersagen einfacher Elementarmechanismen verglichen. Die experimentellen Befunde legen den Erenburg-Mechanismus für die Chlorevolution nahe, der neben der molekularen Adsorption eines ersten Chloridions eine Koadsorption einer sauerstoffhaltigen Spezies beinhaltet. Das dabei gebildete Zwischenprodukt Hypochlorit reagiert mit einem zweiten Chloridion zu bimolekularem Chlor. Weiterhin wurde der Effekt der Einführung von kontrollierter Elektrodenporosität auf die resultierende elektrokatalytische Aktivität von Mischoxidelektroden, bestehend aus Ru, Ir und Ti, für die Chlorevolutionsreaktion untersucht. Die hoch porösen Elektrokatalysatoren wurden durch Selbstorganisation (EISA) unter Verwendung des Templates Pluronic®F127 und Metallpräkursoren (TiCl4, Ru- und Ir-Acetat) als dünner Film auf einem Titan-Substrat abgeschieden. Die Schichtdicke der katalytischen Coatings wurde systematisch variiert und korreliert mit der resultierenden Aktivität. Diese Katalysatoren besitzen eine größere absolute Oberfläche, eine verbesserte Homogenität in Dicke und Phasenzusammensetzung und zeigen insgesamt eine stark erhöhte katalytische Aktivität für die Chlorevolutionsreaktion.</dc:description>
+          <dc:description xml:lang="eng">This work investigates the kinetics of the electrochemical chlorine evolution reaction on dimensionally stable industrial and novel Ru-Ir-Ti oxide electrodes. To this end, a novel electrochemical two-compartment test cell was first developed, which met the highly demanding, corrosive conditions of the electrochemical chlorine evolution reaction. The influence of temperature, chloride concentration, pH value as well as the partial pressure of chlorine of the electrolyte on the chlorine evolution rate was determined experimentally and the corresponding kinetic exponents were estimated. Analysis of the tafel slope resulted in values for the exponential dependence of the reaction rate from applied electrical overpotential. Using the experimentally determined kinetic parameters an experimental reaction rate law could be established and the experimental results were compared with predictions of simple elementary reaction mechanisms. The experimental results are consistent with the so called Erenburg mechanism for the chlorine evolution, which couples the initial chloride adsorption to an oxygenated surface species forming a hypochlorite intermediate which reacts with a second chloride anion to chlorine. Furthermore, the effect of controlled electrode porosity on the electrocatalytic activity of mixed oxide electrodes made from Ru, Ir and Ti were investigated for the chlorine evolution reaction. Mesoporous and highly active electrocatalysts were prepared by an evaporation-induced self assembly by utiliziation of Pluronic®F127 templates and metal precursors (TiCl4, Ru and Ir acetate) on Titan substrates as thin film. The layer thickness of the catalytic coating was systematically varied and correlated with the activity for the evolution of chlorine. The coating approach provides higher surface areas, improved homogeneity in thickness and phase composition, and shows overall a violent enhanced catalytically activity for the chlorine evolution reaction.</dc:description>
+          <dc:date>2012-12-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3565</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37966</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37966</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3565/menzel_nadine.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

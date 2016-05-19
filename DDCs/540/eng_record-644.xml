@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:644">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:644</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beiträge zur Entwicklung und Anwendung von Metathesekatalysatoren</dc:title>
+          <dc:title xml:lang="eng">Contributions to the development and application of metathesis catalysts</dc:title>
+          <dc:creator>Randl, Stefan</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Ruthenium-Carben-Komplexe mit N-heterocyclischen Liganden (NHC) haben das Potential der Olefinmetathese in den letzten Jahren erheblich erweitert. Der Ersatz des Phosphin-Liganden im Grubbs-Katalysator der zweiten Generation (5b) durch eine chelatisierende, in ortho-Position des Styren-Liganden angebrachte Isopropoxygruppe führt zu dem Metatheseinitiator 34. Dieser kann nach der Metathesereaktion durch Säulenchromatographie reisoliert werden. Es zeigte sich, dass sich beide Katalysatoren sowohl hinsichtlich Selektivität als auch Reaktivität signifikant voneinander unterscheiden. In der vorliegenden Arbeit konnte gezeigt werden, dass beide Katalysatoren hochselektiv Kreuzmetathesen (CM) zwischen terminalen Olefinen und diversen akzeptorsubstituierten Alkenen mit hohen Stereoselektivitäten (E/Z &gt; 20:1) ermöglichen. 34 stellt im Gegensatz zu 5b einen effizienten Katalysator für Kreuzkupplungen mit Acrylnitril dar. Eine Reihe von Substraten konnte in dieser Kupplung in guten bis sehr guten Ausbeuten funktionalisiert werden. Trisubstituierte, elektronenarme Olefine sind ebenso via CM zugänglich. In einem weiteren Projekt wurden Domino-Metathesereaktionen von alkinylsubstituierten Cycloolefinen untersucht. Dabei wurde festgestellt, dass N- und O-propargylsubstituierte Cycloolefine mit terminalen Olefinen als Kupplungspartnern nach einem unterschiedlichen Mechanismus umgesetzt werden. Des Weiteren wurde gefunden, dass sich ungespannte Cycloolefine in einer bislang unbekannten Sequenz aus Ringöffnungs-Kreuzmetathese mit ?,?-ungesättigten Carbonylverbindungen als Kupplungspartner zu linearen, doppelt gekreuzten Dienen umsetzen lassen. Der Einsatz zweier verschiedener elektronenarmer Olefine ermöglicht die Darstellung unsymmetrischer Produkte. Katalysator 34 lieferte in allen Fällen höhere Ausbeuten als 5b. Die vorliegende Arbeit beschreibt die Darstellung zweier an Polystyrolharz über den Styren-Liganden immobilisierter Varianten von 34. Mit einem über eine Etherbrücke in para-Position zur Isopropoxygruppe geträgerten Komplex konnten erstmals mit festphasen-gebundenen Metathesekatalysatoren effizient CM-Reaktionen von elektronenarmen Olefinen durchgeführt werden. Eine mehrmalige Wiederverwendung des Katalysators nach einfacher Filtration war möglich. Die Kombination einer CM zwischen einem Enon und einem Alkenylamin mit anschließender cyclisierender, reduktiver Aminierung ermöglicht effizient den stereoselektiven Aufbau von gesättigten N-Heterocyclen. Mit dieser Strategie gelang die Darstellung des Piperidin-Alkalois (+)-Carpamsäure und der Indolizidin-Alkaloide (3R,5S,9S)-3-Ethyl-5-methyl-indolizidin und (+)-Monomorin I.</dc:description>
+          <dc:date>2003-04-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/644</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6387</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6387</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/644/randl_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

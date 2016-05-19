@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3054">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3054</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">CSP as a Coordination Language. A CSP-based Approach to the Coordination of Concurrent Systems</dc:title>
+          <dc:creator>Kleine, Moritz</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Complex concurrent systems are in general hard to understand, and equally hard to specify and to verify. The process algebra Communicating Sequential Processes (CSP) offers a way of taming the complexity of concurrent systems by focusing on the interaction behavior of systems and abstracting from synchronization mechanisms and other implementation details. CSP provides a mature intermediate level formalism that allows us to specify and model such systems in a mathematically precise way and to verify important properties, e. g., deadlock-freedom. However, the derivation of a system’s implementation from its CSP-based model is still a problem and sub ject to ongoing research. It is, for example, not obvious how to integrate CSP with internal actions of a system, because CSP abstracts from internal actions to a great extent. To overcome this problem, we propose to integrate CSP with a sequential host language such that the concurrency aspects of systems are captured on the CSP level and its actions are implemented in the sequential host language. This idea of separating concurrent and sequential aspects of a system is also known from coordination languages, but those are in general less amenable to automated verification. In this thesis, we present the use of CSP as a formal coordination language for arbitrary sequential host languages, allowing us to use CSP for the design, implementation, and verification of concurrent systems. To this end, we develop the model of a coordination environment that simulates a CSP process at runtime and performs the system’s actions accordingly. The coordination environment controls the system’s interaction with its environment as well as its internal actions. We present proof obligations to ensure that the properties proved on the CSP level also hold on the implementation level of the system. We also present an implementation of the coordination environment for the target language Java and a case study of constructing a workﬂow server as a coordinated concurrent Java program. This thesis contributes to the theory and practice of CSP, to the engineering of correct concurrent systems, and to the modeling and management of workﬂows. The main contribution of this thesis is a target language independent CSP-based framework for the construction of provably correct concurrent systems.</dc:description>
+          <dc:description xml:lang="deu">Die Beherrschbarkeit komplexer nebenläufiger Systeme hängt in hohem Maße davon ab, mit welchen Methoden das System modelliert bzw. spezifiziert wird. Formale auf Nebenläufigkeit spezialisierte Methoden erlauben es, solche Systeme elegant auf einem hohen Abstraktionsniveau zu modellieren und zu analysieren. Ein Vertreter derartiger Methoden ist die in dieser Arbeit verwendete Prozess Algebra CSP. CSP ist ein weitverbreiteter, wohluntersuchter Formalismus, der es erlaubt, ein nebenläufiges System mathematisch präzise zu beschreiben und wichtige Eigenschaften, beispielsweise Verklemmungsfreiheit, zu verifizieren. Dennoch ist die Ableitung einer Systemimplementierung aus einem gegebenen CSP Modell immer noch ein aktueller Forschungsgegenstand. So ist zum Beispiel unklar, wie interne Aktionen eines Systems in einer Implementierung integriert werden können, da diese in CSP ununterscheidbar sind. Als Lösung wird in dieser Arbeit vorgeschlagen, CSP mit einer sequentiellen Zielsprache zu integrieren, so dass die Aktionen eines Systems in der sequentiellen Zielsprache implementiert werden und die Aktionen entsprechend eines CSP Prozesses koordiniert werden. Koordinationssprachen zielen ebenfalls darauf ab, Nebenläufigkeit von sequentiellen Aspekten eines Systems zu trennen, sie sind aber weniger auf automatisierte formale Verifikation ausgerichtet. In der Arbeit wird die Verwendung der Prozess Algebra CSP als formale Koordinationssprache für beliebige sequentielle Zielsprachen vorgeschlagen. Hierfür wird das formale Fundament einer Koordinationsumgebung entwickelt, die einen CSP Prozess zur Laufzeit simuliert und die Aktionen des Systems entsprechend ausführt. Besonderer Wert liegt auf der Koordination interner Aktionen und auf der Erkennung von Nebenläufigkeit zwischen extern synchronisierbaren und internen Aktionen. Durch Beweisverpflichtungen wird der Zusammenhang zwischen dem Koordinationsprozess und den Implementierungen der Aktionen hergestellt. Die Koordinationsumgebung wird konkret für die Zielsprache Java implementiert. Desweiteren wird eine Fallstudie vorgestellt, die sich mit der Entwicklung eines Workflow Servers beschäftigt, dessen interne Nebenläufigkeit einerseits selbst mittels CSP koordiniert wird und der andererseits CSP-basierte Workflows ausführen kann, die ebenfalls durch eine CSP Koordinationsumgebung gesteuert werden. Die Arbeit enthält wissenschaftliche Beiträge zur Theorie und der praktischen Verwendbarkeit von CSP, bezüglich der Konstruktion korrekter nebenläufiger Systeme, sowie zum Bereich der Modellierung und Verwaltung von Workflows.</dc:description>
+          <dc:date>2011-10-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3054</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32169</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32169</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3054/kleine_moritz.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

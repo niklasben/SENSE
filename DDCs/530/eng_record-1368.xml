@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1368">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1368</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die geführte Transmission hochgeladener Ionen durch Nanokapillaren in Polyethylenterephthalat</dc:title>
+          <dc:title xml:lang="eng">Guided transmission of highly charged ions through nanocapillaries in polyethylenterephthalate</dc:title>
+          <dc:creator>Hellhammer, Rolf</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die hier vorliegende Arbeit untersucht das Transmissionsverhalten hochgeladener Ionen durch wenige Hundert Nanometer durchmessende Nanokapillare in Polyethylenterephthalat. Zu diesem Zweck wurden Proben mit Nanokapillaren hoher Parallelität hergestellt und ihren Eigenschaften entsprechend charakterisiert. Die Transmission hochgeladener Ionen durch Nanokapillare konnte über große Winkelbereiche der Anstellung der Kapillarachse gegen die Strahlrichtung bei Variation von Projektilenergie und Ladungszustand nachgewiesen werden. Das Modell zur Beschreibung des hier vorliegenden Effektes wurde über weite Bereiche bestätigt und darüber hinaus in Teilen ergänzt. Die innerhalb erster Untersuchungen aufgetretenen Störeinflüsse auf die Transmission konnten analysiert werden. Als Ursache der Störeffekte wurde die Art der primären Bestrahlung durch Xe bei einer Projektilenergie von 100 MeV erkannt. Aufgrund dieser Analyse konnte eine veränderte Art der Kapillarerzeugung erarbeitet werden, welche die Störeinflüsse nicht mehr beinhaltet. Aufgrund dieser Änderungen konnte in diesen Kapillarfolien die Transmission hochgeladener Ionen über einen großen Energie- und Ladungsbereich von Ne7+ bei 3 keV bis Xe25+ bei 40 keV nachgewiesen und analysiert werden. Innerhalb der Untersuchungen zur zeitlichen Entwicklung der Transmission konnte eine Charakterisierung der Aufladungs- und Entladungsvorgänge im Eingangsbereich durchgeführt werden. Hierbei stellte sich heraus, dass die Entladungscharakteristik auch im Fall des selbstorganisierten Aufbaues der die Entladungsströme bestimmenden Felder nicht vom Verhalten aufgrund großer externer Felder abweicht. Als wesentliches Ergebnis dieser Untersuchungen ergab sich eine nahe zu Konstanz der Ladung zur Erzeugung des Ablenkfeldes über den gesamten untersuchten Bereich für alle Energien, Projektilladungen und Anstellwinkel.</dc:description>
+          <dc:description xml:lang="eng">The present work is focused on the transmission of highly charged ions through nanocapillaries of a few hundred nanometer diameter in Polyethylenterephthalat. Therefore highly parallel capillary foils were prepared and characterized. Transmission was found over a wide range of tilt angles for different projectile energies and charge states. The previously developed model describing this new effect could be verified and also be complemented. Spurious effects of the transmission seen with former samples could be analyzed. As the cause for these effects the primary irradiation with Xenon at a relatively low energy of 100 MeV was determined. Based on this analysis an improved method to irradiate and prepare the samples was worked out. New types of capillary foils without these spurious effects have been produced. Due to these significant changes in target preparation transmission of highly charged ions in the range from Ne7+ at 3keV up to Xe25+ at 40 keV was found. Within the investigations to determine the time dependence of the transmission for different beam intensities, a characterization for charging and also for discharging processes in the scattering region of the capillaries was performed. It was found, that the high-field conductivity caused by the self organizing field strength in the capillary is comparable with the conductivity of insulators in strong external electrical fields. As a main result of this conductivity in strong electrical fields, a nearly constant charge in the deflection patch of the capillary was found, independent of beam intensity, projectile charge or tilt angle.</dc:description>
+          <dc:date>2006-11-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1368</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14153</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14153</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1368/hellhammer_rolf.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

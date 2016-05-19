@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:361">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:361</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zur Steigerung der Nutzenproduktivität von Ressourcen durch eine Life Cycle Unit</dc:title>
+          <dc:creator>Grudzien, Waldemar</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Durch Anpassung kann der Abnutzung von Produkten entgegengewirkt und damit eine Steigerung der Nutzenproduktivität von Ressourcen bei Senkung des Ressourcenverbrauchs erreicht werden. Zur effizienten und effektiven Durchführung der Anpassung wird in diesem Forschungsbericht das Konzept der Life Cycle Unit (LCU) entwickelt. Basis der Systementwicklung ist die Funktionsstruktur, der sich die Identifikation der Anpassungsinformationen anschließt. Nach der Beschreibung der Kopplung der Anpassungsinformationen mit Zuverlässigkeitsmodellen zwecks verbesserter Abnutzungsvorhersage wird die Systemstruktur der LCU entwickelt. Es folgt die Betrachtung der Kombinationsmöglichkeiten auf Untersystem- und Elementebene sowie der Teilsysteme der LCU. Neben der technischen wird auch die ökonomische Seite der LCU durch die Entwicklung einer allgemeinen Methode der Kalkulation einer beliebig ausgelegten LCU für ein Produkt in seinem Anwendungsfeld betrachtet und am Beispielprodukt Waschmaschine demonstriert. Für die konkrete Auslegung einer LCU wird eine Methode entwickelt und an einem Beispielprodukt evaluiert. Die Betrachtung potentieller Geschäftsfelder schließt die Systementwicklung ab. Durch erste Pilotrealisierungen auf Untersystem-, Produkt- und Anpassungssystem-Ebene wird die technische und ökonomische Machbarkeit des Konzepts der LCU gezeigt. Hierzu werden Softwareprogramme entwickelt sowie Hardwarekomponenten konstruiert und realisiert. Einige unterschiedlich ausgelegte LCUs integriert in Produkten gestatten bereits einen Blick auf die zukünftigen Märkte von eingebetteten Systemen in bekannten aber auch neuen Produkt- und Nutzenangeboten. Die LCU erweist sich als ein geeignetes Werkzeug für eine effizient und effektiv durchzuführende Anpassung. Zukünftige Forschungsbedarfe können vor allem im Bereich der Sensorik und Aktorik identifiziert werden. Einen weiteren Forschungsschwerpunkt bilden verbesserte und neue Zuverlässigkeitsmodelle von mechanischen und elektrischen Bauteilen. Detailliert untersuchte Anwendungen des Konzepts der LCU an Investitions- und Gebrauchsgütern werden die Entwicklung und Besetzung neuer Geschäftsfelder fördern.</dc:description>
+          <dc:date>2002-11-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/361</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3565</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3565</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/361/grudzien_waldemar.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

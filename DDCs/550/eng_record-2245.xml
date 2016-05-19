@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2245">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2245</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Extended use of Magnetic Resonance Sounding (MRS) datasets - QT inversion and resolution studies</dc:title>
+          <dc:title xml:lang="deu">Erweiterter Nutzen von Datensätzen der Magnetischen-Resonanz Sondierung (MRS) - QT Inversion und Studien zum Auflösungsvermögen</dc:title>
+          <dc:creator>Müller-Petke, Mike</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="eng">The present thesis provides a comprehensive insight into the Magnetic Resonance Sounding (MRS) inverse problem and introduces the QT inversion scheme as native solution scheme of the inverse problem. At this, the thesis analyses the inverse problem in terms of resolution and stability both in theory, synthetic and field examples, mostly restricted to 1D depth sounding (MRS) but with an outlook on 2D tomography like investigations (MRT), and follows several tasks. First and within the scope to develop an improved inversion scheme the currently available solution schemes are analysed. This analysis includes the initial value inversion using extrapolated initial values and the time step inversion using multiple inversions for several different record times. The resulting new approach, called QT inversion, incorporates directly the native data structure of two variables, namely the pulse moment q and the record time t, and provides improved resolution and stability. Second, the model and data spaces of the initial value inversion scheme are investigated. In order to assess the model resolution as a function of the loop size, maximum pulse moment and noise level, the model space is studied. On the one hand, the results of this study help to determine field settings appropriate to the target of investigation. On the other hand, the estimated model can be evaluated concerning its reliability using measures of resolution derived from the model resolution matrix. Besides model resolution the data space caries information on data dependencies. Consequently, analysing the data resolution matrix a sequence of optimal distributed pulse moments is derived. This optimal pulse moment distribution provides the maximum amount of information most efficiently. This analysis introduces the data resolution matrix rather than the model resolution matrix, as object of analysis into the field of experimental design. In addition, the properties of the mono or multi-exponential fitting are studied, and possibilities to improve the estimated model using transformation that restrict the model and data space with upper and lower boundaries are shown. At this, the pseudo water content is introduced to permit data space transformations. Finally, all subtasks are summarised, assessed and discussed at a field example.</dc:description>
+          <dc:description xml:lang="deu">Die vorgelegte Dissertationsschrift stellt einen möglichst umfassenden Einblick in die inverse Aufgabe der Magnetischen-Resonanz Sondierung (MRS) dar. Im Besonderen wird ein neues Inversionsschema, die QT Inversion als natürlicher der Datensatzstruktur entsprechender Lösungsansatz, vorgestellt. Das inverse Problem wird dieser Zielstellung folgend, hinsichtlich Auflösungsvermögen und Stabilität sowohl im theoretischen Rahmen als auch mittels synthetischer und praktischer Beispiele. Dabei folgt die Arbeit mehreren Aufgabenfeldern. Zum Einen, werden die verfügbaren Lösungsansätze im Hinblick auf die Entwicklung eines verbesserten Schemas analysiert. Die Analyse beinhaltet dabei das Inversionsschema basierend auf extrapolierten Werte der gemessenen Zeitreihen zum Zeitpunkt null (Initial value inversion) und das Zeitschrittinversionsschema, d.h. die gemeinsame Interpretation von Inversionen zu definierten verschiedenen Zeitpunkten der Zeitreihen (Time step inversion). Der, auf dieser Analyse beruhende, verbesserte Ansatz wird als QT Inversion bezeichnet und benutzt erstmalig nativ die Abhängigkeit des Datensatzes von zwei Variablen, dem Pulsmoment q und der Aufzeichnungszeit t, direkt, um verbesserte Auflösungseigenschaften und Stabilität zu gewinnen. Zum Anderen, werden der Model- und Datenraum des Initial value Inversionsschemas analysiert. Die Analyse des Modelraums führt dabei auf die Evaluierung des Inversionsresultates in Abhängigkeit von Spulengröße, maximalem Pulsmoment und Rauschlevel. Die gewonnenen Erkenntnisse helfen dabei, dem Objekt der Untersuchung entsprechende, angepasste Messanordnungen zu wählen und durch Berechnung von Auflösungsmaßen das durch die Inversion gewonnene Model hinsichtlich seiner Vertrauenswürdigkeit zu untersuchen. Die Analyse des Datenraums ermöglicht die Wahl einer optimalen Verteilung von Pulsmomenten, dergestalt dass unter dem Gesichtspunkt der Effektivität der maximale Informationsgehalt extrahiert werden kann. Diesem Feld des experimentellen Designs wird damit die Analyse der Datenauflösungsmatrix hinzugefügt. Ergänzend werden die Eigenschaften der mono und multi-exponentiellen Datenanpassung untersucht, sowie die Möglichkeiten das Inversionsresultat mittels Transformationen, d.h. dem Einschränken des Model- und Datenraumes durch obere und untere Grenzen, zu verbessern, gezeigt. Dabei wird die Größe des scheinbaren Wassergehaltes eingeführt, um die Transformationen auch auf den Datenraum erweitern zu können. Abschließend werden alle Teilaufgaben in einem Feldbeispiel zusammengefasst, beurteilt und diskutiert.</dc:description>
+          <dc:date>2009-09-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2245</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23603</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23603</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2245/muellerpetke_mike.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

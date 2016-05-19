@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1302">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1302</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Molecular characterization of human bone marrow stromal cells supporting early B lymphopoiesis</dc:title>
+          <dc:title xml:lang="deu">Molekular Charakterisierung humaner Knochenmarksstromazellen, die die frühe B-Lymphopoese unterstützen</dc:title>
+          <dc:creator>Schaumann, Daniel</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="eng">The differentiation of B lymphocytes in the bone marrow is guided by the surrounding microenvironment determined by cytokines, adhesion molecules, and the extracellular matrix. These microenvironmental factors are mainly provided by stromal cells. I identified a VCAM-1-positive stromal cell population by flow cytometry. This population shows the expression of cell surface markers known to be present on stromal cells (CD10, CD13, CD90, CD105) and has a fibroblastoid phenotype in vitro. Single cell RT-PCR analysis of its cytokine expression pattern revealed transcripts for hematopoietic cytokines important for either the early B lymphopoiesis like flt3L or the survival of long-lived plasma cells like BAFF or both processes like SDF-1. Whereas SDF-1 transcripts are detectable in all VCAM-1-positive cells, flt3L and BAFF are only expressed by some cells suggesting the putative existence of different subpopulations with distinct functional properties. In summary, the VCAM-1-positive cell population seems to be a candidate stromal cell population supporting either developing B cells and/or long-lived plasma cells in human bone marrow.</dc:description>
+          <dc:description xml:lang="deu">Die Differenzierung von B-Lymphozyten im humanen Knochenmark wird durch Zytokine, Adhäsionsmoleküle und die extrazelluläre Matrix in der unmittelbaren Umgebung der sich differenzierenden Zellen reguliert. Diese Faktoren werden durch Stromazellen produziert. Mit Hilfe durchflusszytometrischer Verfahren ist es mir gelungen, eine VCAM-1-positive Stromazellpopulation aus dem humanem Knochenmark zu identifizieren. Diese Zellpopulation exprimiert die für Stromazellen typischen Zelloberflächenmarker (CD10, CD13, CD90, CD105) und zeigt in in vitro-Kulturen einen fibroblastoiden Phänotyp. Durch Einzelzell-RT-PCR-Analyse konnten Transkripte für verschiedene hämatopoetische Zytokine detektiert werden, die einerseits an der frühen B-Lymphopoese (flt3L), dem Überleben langlebiger Plasmazellen (BAFF) oder beiden Prozessen (SDF-1) beteiligt sind. Während SDF-1 in allen Zellen exprimiert wird, werden flt3L und BAFF nur von einem Teil der Zellen produziert, was auf die Existenz unterschiedlicher Subpopulationen mit unterschiedlichen funktionellen Eigenschaften hinweist. Alles in allem zeigt die VCAM-1-positive Zellpopulation alle erwarteten Eigenschaften einer Stromazellpopulation, die zum einen für die Differenzierung früher B-Zellen zum anderen für die Erhaltung langlebiger Plasmazellen im humanen Knochenmark verantwortlich sind.</dc:description>
+          <dc:date>2006-07-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1302</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13323</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13323</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1302/schaumann_daniel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

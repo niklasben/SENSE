@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:867">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:867</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">From molybdenum based model catalysts to technically applied systems</dc:title>
+          <dc:title xml:lang="deu">Von Molybdänmodellkatalysatoren zu technisch angewandten Systemen</dc:title>
+          <dc:creator>Knobl, Stefan</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Molybdän-, vanadium- und wolframhaltige Suboxide finden vielfältigen Einsatz als Partialoxidationskatalysatoren. So wird die Partialoxidation von Acrolein zu Acrylsäure an einem solchen System durchgeführt. Zum besseren Verständnis der Genese des Systems wurden Untersuchungen anhand von Modellverbindungen durchgeführt, die nur Molybdän und Sauerstoff enthalten. In Abhängigkeit von den Rahmenbedingungen der Präparation (Reaktionstempereratur, Ausgangsverbindung, Gegenion, Konzentration, etc.) werden verschiedene Strukturfamilien (orthorhombisches MoO3, hexagonales MoO3, Mo36O1128- und Trimolybdat) erhalten. In Abhängigkeit vom pH-Wert liegen Mo7O246-, [HMo7O24]5-, a Mo8O264- und b Mo8O264- vor. Durch Potenzialmessungen und in situ Raman Spektroskopie konnte der Reaktionsmechanismus in Lösung unter präparativen Bedingungen aufgeklärt werden. Eine Verschiebung des Gleichgewichts zwischen den gelösten a Mo8O264- und b Mo8O264- Spezies führt bei tieferen Reaktionstemperaturen zur Bildung von festem supramolekularen Molybdänoxid; bei höheren Temperaturen zu hexagonalen MoO3. Eine Variation der Gegenionen beeinflusst das Löslichkeitsprodukt und ist somit von entscheidender Bedeutung. Bei Zugabe von Additiven werden dem Modellsystem ähnliche Zwischenstufen als Funktion des pH-Wertes durchlaufen. Diese Spezies werden durch Vanadylbrücken miteinander verknüpft und können somit eine oligomere oder polymere Spezies in Lösung bilden. Bemerkenswert ist, dass [Mo36O112(H2O)16]8- eine pentagonale Bipyramide enthält, genau die Struktureinheit, die auch für (MoVW)5O14 charakteristisch ist. Thermische Analyse und temperaturprogrammierte Reaktionsspektroskopie zeigen, dass die unterschiedlichen Verbindungen sich auch deutlich in ihrem Reaktions- und Katalyseverhalten unterscheiden. Das Reaktionsverhalten läßt sich entsprechend der Verbindungsfamilie klassifizieren. Eine genauere Betrachtung zeigt jedoch, dass auch die Realstruktur der Prekursoren innerhalb einer Familie einen erheblichen Einfluss hat.</dc:description>
+          <dc:description xml:lang="eng">Molybdenum, vanadium and tungsten containing suboxides are widely used as partial oxidation catalysts of acrolein to acrylic acid. The nature of the active site and the role of tungsten and vanadium are still discussed. A breakthrough was achieved recently by preparing an active single (MoVW)5O14 phase and thereby showing that no phase cooperation or spill over phenomena are functionally essential for catalytic activity. However, the role of vanadium and tungsten in structure development and in the catalytic process is still unclear. While preparing this quaternary system via the aqueous reaction path changes induced by altering variables of state are hard to distinguish between changes induced by additives or counter-ions. Therefore, a binary Mo-O system is investigated as a model. Controlled preparation is achieved by monitoring in situ pH, conductivity and UV/Vis. Various species are generated in solution and react via olation, oxolation or they can be connected via linkers, such as the vanadyl ion in the quaternary system. Depending on pH and other variables catalyst precursors can be generated e.g. temperature and concentration are important factors to discriminate among a supramolecular phase which is very similar to the Mo36O112 unit and the hexagonal MoO3. The degree of catalytic activity is found to be crucially dependent upon these parameters. The controlled preparation opens the opportunity to study these effects and elaborate a structure function relationship. The ultimate goal of this work is a functional investigation of the obtained catalyst.</dc:description>
+          <dc:date>2004-03-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/867</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8605</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8605</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/867/knobl_stefan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

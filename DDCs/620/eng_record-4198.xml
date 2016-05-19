@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4198">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4198</identifier>
+        <datestamp>2013-10-08</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Gestaltung eines autonomen Unterwasserfahrzeugs mit elektromagnetischer Auftauchvorrichtung und multifunktionalem Transportsystem</dc:title>
+          <dc:title xml:lang="eng">Designing an autonomous underwater vehicle with an electromagnetic release mechanism and a multifunctional transport system</dc:title>
+          <dc:creator>Preradović, Oliver</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Abbau von Bodenschätzen im Meer wird infolge der schwindenden Rohstoffvorräte an Land zunehmend interessanter. Bei der Suche nach ressourcenreichen Gebieten, der Aufnahme von Boden- und Wasserproben sowie zum Aufbau und zur Inspektion von Unterwasserstationen werden technisch hoch entwickelte Unterwasserfahrzeuge eingesetzt, die extremen Tiefseebedingungen ausgesetzt sind, beispielsweise den korrosiven Eigenschaften des Meerwassers und dem enormen hydrostatischen Druck, welcher mit zunehmender Tiefe ansteigt.&#13;
+Die vorliegende Arbeit beschreibt die Entwicklung und den Aufbau des druckneutralen Unterwasserfahrzeugs PreToS, welches in einer Tauchtiefe von 6.000 Meter operieren soll. Im Gegensatz zur herkömmlichen Bauweise sieht der Gesamtaufbau keine gasgefüllten Hohlräume vor. Jede Einbaukomponente wird zum Schutz vor Korrosion und zur elektrischen Isolation in einen elastischen Feststoff vergossen, so dass sich der Umgebungsdruck über den Verguss auf die Bauelemente überträgt, die dem Druck standhalten müssen.&#13;
+Das aus Titan bestehende Stützskelett der PreToS nimmt die auf das Fahrzeug wirkenden Kräfte auf, welche beim Ausbringen und Bergen sowie bei der Lagerung auftreten. Die Gliederung in Sektionen führte zu einer modularen Gestaltung der Innenstruktur, die eine freie Platzierung der Einbauteile zulässt, um den Auftriebs- und den Massenschwerpunkt festzulegen, wodurch ein stabiles Fahrverhalten des Fahrzeugs im Wasser resultiert. Der Auftrieb des Fahrzeugs wird durch die Innenauskleidung mit syntaktischem Schaum generiert. Anhand von CFD-Rechnungen zum strömungstechnischen Verhalten bekannter Rotationskörper ließ sich zeigen, dass bei der angestrebten Fortbewegungsgeschwindigkeit von vier Knoten und einem festen Fahrzeugvolumen eine Pinguin-ähnliche Gestalt den geringsten Strömungswiderstand erzeugt.&#13;
+Ein Bootsgestell aus geschweißten Edelstahlprofilen dient zum Transport, zur Lagerung und zur Drehung des Bootskörpers um dessen Längsachse, da durch den druckneutralen Aufbau wesentliche Fahrzeugsysteme erst nach Drehung um die Längsachse zugänglich sind.&#13;
+Um das Auftauchen auch in Notfallsituationen zu gewährleisten, beispielsweise beim Ausfall des Fahrzeugantriebs, wurde ein elektromagnetischer Aktor mit mechanischem Aufbau entwickelt, der bei einem kurzen Stromimpuls die Trennung eines Gewichts von dem Unterwassergerät herbeiführt. Durch den dabei entstehenden Auftrieb steigt das Boot an die Wasseroberfläche. Mit dem Auslöser lassen sich weiterhin am Meeresboden verankerte Bodenstationen auslösen, welche der Kommunikation und Navigation des Unterwasserfahrzeugs dienen.&#13;
+Zusammenfassend lässt sich feststellen, dass aufgrund der druckneutralen Bauweise ein sehr flexibles Fahrzeug mit einer außergewöhnlichen Form entstand, welches in zahlreichen Erprobungen in der Ostsee bemerkenswerte Fahreigenschaften aufzeigte. Das Bootsgestell erlaubt einen schnellen sowie unkomplizierten Zugang zum Fahrzeuginneren und erleichtert die Erweiterung des Fahrzeugs mit einer Mittelsektion, welche weitere technische Komponenten aufnimmt. Der druckneutrale elektromechanische Auslösemechanismus erwies sich bei vielen Tests in der Ostsee sowie auch in einem Drucktank bei 600 bar als sehr zuverlässig und wird sowohl im Fahrzeug als auch zur Auslösung von Bodenstationen eingesetzt.</dc:description>
+          <dc:description xml:lang="eng">Due to ever-decreasing reserves of resources, interest in offshore mining is growing continuously. Advanced underwater vehicles designed to withstand the extreme deep-sea conditions explore areas rich in resources. Here, they are employed to collect soil and water samples as well as for the assembly and inspection of submarine installations. Problems arise because of the corrosive effects of sea water and the enormous hydrostatic pressure which increases with diving depth.&#13;
+The present thesis describes the development and construction of the pressure tolerant underwater vehicle PreToS, which is designed to operate in depths of up to 6,000 meters. In contrast to conventional designs, the vehicle does not exhibit any gas-filled cavities. Protection against corrosion and electrical insulation is achieved by encapsulation of each module in an elastic solid. Therefore, components have to withstand the ambient pressure which is transmitted through the grouting.&#13;
+The frame structure of the PreToS consists of titanium. It serves to take up and distribute impact forces during launch and recovery operations as well as transportation of the vehicle. The frame’s partition into sections leads to a modular arrangement of its inner structure, allowing the variable installation of different devices. Thus, the center of gravity and buoyancy may be controlled, resulting in a stable driving behaviour of the vehicle in water. The overall buoyancy is achieved by filling the boat with syntactic foam. CFD calculations on known rotational symmetric bodies revealed a minimal flow resistance for a penguin-like shape at a velocity of four knots and a fixed volume of the vehicle.&#13;
+A boat rack made of welded steel profiles has been developed for storage and transportation of the underwater vehicle, also facilitating a rotation by 180 degrees around its longitudinal axis. This is necessary to access essential systems due to the vehicle’s pressure tolerant construction and the resulting distribution of installed components.&#13;
+In emergency situations, such as a failure of the main propulsion system, a weight is released, generating a positive lift and thus safeguarding the vehicle’s rise to the surface. To this end, a mechanical releaser was developed. A short pulse of electrical current to the electromagnetic actuator designed for this specific purpose triggers the release of the weight. Underwater stations for communication and navigation of the submarine vehicle may also be unfastened from the sea floor employing the releaser.&#13;
+In summary, an extraordinary shape and unique build-up of a submarine vehicle could be achieved due to a pressure tolerant design. Numerous trials during dive cruises in the Baltic Sea proved the vehicle’s remarkable diving behaviour. A rack facilitates a simple handling of the boat and allows quick and easy access to its interior. It also facilitates the incorporation of an additional middle-section to house further technical equipment. Finally, the pressure tolerant electromagnetic releaser proved to be extremely reliable in a pressure tank at an ambient pressure of 600 bars as well as in the Baltic Sea. The electromagnetic actor is an integral part of the submarine vehicle and is also utilized to release stations positioned at the sea floor.</dc:description>
+          <dc:date>2013-09-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4198</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41984</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41984</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4198/preradovic_oliver.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

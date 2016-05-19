@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3835">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3835</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hermann Mattern. Gärten – Landschaften – Bauten – Lehre. Leben und Werk. - 2., überarb. Auflage - </dc:title>
+          <dc:creator>Heinrich, Vroni</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Das Buch zeichnet Leben und Werdegang von Hermann Mattern (1902-1971) in den politischen und kulturellen Turbulenzen des letzten Jahrhunderts nach: vom Kaiserreich über den ersten Weltkrieg und die Weimarer Republik, von der Zeit des Nationalsozialismus mit zweitem Weltkrieg bis zum Zusammenbruch, von der Teilung Deutschlands und dem Neubeginn bis Anfang der 1970er Jahre. Das Werk, vielseitig und impulsgebend wie kaum das eines anderen Planers seines Jahrhunderts, umfasst private und öffentliche Gärten und Parks, Landschafts- und Siedlungsplanungen, denkmalpflegerische Arbeiten, Bauten wie Einfamilien- und Siedlungshäuser, Fabrik- und Ausstellungshallen, selbst Aussichtstürme, nicht zuletzt Veröffentlichungen, Vorträge und Vorlesungen als Hochschullehrer in Kassel und Berlin, seine leidenschaftlichen Plädoyers für verantwortungsvollen Umgang mit Landschaft und Umwelt, seine Initiativen beispielsweise bei der Rettung der Bücherei des Deutschen Gartenbaues, Gründung der Dokumenta oder des Peter-Joseph-Lenné-Preisausschreibens. Das Lebenswerk wird durch in sich abgeschlossene Kapitel jeweils mit Einführung, ausgewählten, teils bisher unveröffentlichten Texten von Hermann Mattern und Projektbeispielen mit Plänen, Fotos, Pflanzenlisten und Farbgebungen vorgestellt. Ein umfassendes Werkverzeichnis rundet das Buch ab. Die Autorin war Studentin und zeitweilige Mitarbeiterin Hermann Matterns an der Technischen Universität Berlin und dort später für 25 Jahre wissenschaftliche Leiterin der Bibliothek für Landschafts- und Freiraumplanung. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) unter der ISBN 978-3-7983-2525-8 erschienen. </dc:description>
+          <dc:date>2013-04-05</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3835</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39214</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39214</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3835/heinrich_vroni_hermann_mattern.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

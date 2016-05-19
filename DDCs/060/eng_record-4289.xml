@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4289">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4289</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:60</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Grundlagen und Anwendungen der Mensch-Maschine-Interaktion</dc:title>
+          <dc:title xml:lang="eng">Foundations and applications of human-machine-interaction</dc:title>
+          <dc:creator>Brandenburg, Elisabeth</dc:creator>
+          <dc:creator>Doria, Laura</dc:creator>
+          <dc:creator>Gross, Alice</dc:creator>
+          <dc:creator>Günzler, Torsten</dc:creator>
+          <dc:creator>Smieszek, Hardy</dc:creator>
+          <dc:subject>ddc:60</dc:subject>
+          <dc:description xml:lang="deu">Der vorliegende Tagungsband zur 10. Berliner Werkstatt Mensch-Maschine-Systeme gibt einen Einblick in die aktuelle Forschung im Bereich der Mensch-Maschine- Interaktion. Einen besonderen Fokus stellt das Wechselspiel von Grundlagenforschung und anwendungsbezogener Forschung dar, was sich im breiten Themenspektrum widerspiegelt, welches von theoretischen und methodischen Betrachtungen bis hin zu anwendungsnahen Fragestellungen reicht. Dabei finden Inhalte aus allen Phasen des Forschungsprozesses Beachtung, sodass auch im Rahmen der 10. Berliner Werkstatt MMS wieder sowohl neue Untersuchungskonzepte als auch abschließende Befunde diskutiert werden. Zentrale Themengebiete sind u. a. Fahrer-Fahrzeug-Interaktion, Assistenzsysteme, User Experience, Usability, Ubiquitous Computing, Mixed &amp; Virtual Reality, Robotics &amp; Automation, Wahrnehmungsspezifika sowie Psychophysiologie und Beanspruchung in der Mensch-Maschine-Interaktion.</dc:description>
+          <dc:description xml:lang="eng">The proceedings of the 10th Berlin Workshop Human-Machine-Systems provide an insight into the current research in the field of human-machine-interaction. The main focus lies on the interplay between basic and applied research, which is reflected in the wide range of subjects: from theoretical and methodological issues to application oriented considerations. Again all stages of the research process are represented in the contributions of the 10th Berlin Workshop HMS. This means new research concepts as well as final results are subject of this volume. Central topics include driver-vehicleinteraction, assistance systems, user experience, usability, ubiquitous computing, mixed and virtual reality, robotics &amp; automation, perception specifics,</dc:description>
+          <dc:date>2013-10-24</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4289</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-42897</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-42897</dc:identifier>
+          <dc:identifier>978-3-7983-2626-2</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4289/proceedings_bwmms_10.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

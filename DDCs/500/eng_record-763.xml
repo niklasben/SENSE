@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:763">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:763</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Bestimmung der Herkunft von Steroidhormonen : Entwicklung einer Methode zur Probenaufarbeitung von Rinderfaeces für die GC-C-IRMS Analytik</dc:title>
+          <dc:title xml:lang="eng">Determination of the origin of steroid hormones : Development of a clean up procedure for cattle faeces for GC-C-IRMS measurments</dc:title>
+          <dc:creator>Weltring, Anja</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Zum Nachweis eines Missbrauchs natürlicher Hormone wie beispielsweise des Testosterons in der Rinderhaltung wird seit einigen Jahren die Stabilisotopenanalytik getestet. Sie beruht auf der Messung der durch eine Verabreichung geänderten Isotopenverhältnisse des Hormons und seiner Metaboliten im Vergleich zum durch eine Behandlung nicht beeinflussten Isotopenverhältnis einer Vorläufersubstanz. Das Ziel dieser Arbeit ist die Ausarbeitung einer Methode zur Bestimmung der 12C/13C- Isotopenverhältnisse von Steroidhormonen, deren Metaboliten und Vorläufersubstanzen in Rinderfaeces mit Hilfe der GC-C-IRMS. Dabei ist besonders die Entwicklung einer leistungsstarken Probenaufarbeitung wichtig, da zur Analyse mit GC-C-IRMS hochreine Probenextrakte und eine hohe Konzentration des Analyten (10 ng/Injektion) erforderlich sind. Messungen mit GC-MS ergeben, dass die Konzentrationen je nach Analyt im unteren µg/kg- bis oberen ng/kg-Bereich liegen. Daraus ergibt sich, dass hohe Mengen Probenmaterial (mindestens 100 g) aufgearbeitet werden müssen, um eine ausreichende Menge Analyten für IRMS-Messungen zu erhalten. Vorversuche an Faecesproben zeigen eine große Zahl an unterschiedlichen Matrixkomponenten. Hinzu kommt, dass Faeces unter anderem eine Reihe verschiedener Steroide und andere Stoffe wie beispielsweise Gallensäuren enthält, die in ihrer Struktur und ihrem chemisch-physikalischen Verhalten den Zielanalyten sehr ähnlich sind. Dadurch ist der Einsatz hochleistungsfähiger clean up Schritte zur Abtrennung der Matrixkomponenten von den Zielanalyten erforderlich. Unter Berücksichtigung dieser Voraussetzungen wurde eine Methode entwickelt, die zuverlässige Stabilisotopenmessungen von ausgewählten Steroidhormonen und ihrer Metaboliten in Rinderfaeces erlaubt. Als erster Schritt werden die Zielanalyten über eine beschleunigte Lösemittelextraktion (ASE) oder nach Soxhlet extrahiert, wobei zugunsten der Ausbeuten auf eine hohe Reinheit der Extrakte verzichtet wird. Die Vorreinigung und Aufkonzentrierung der Extrakte erfolgt dann an Polymer-SPE-Materialien und über eine Flüssig-Flüssig-Extraktion. Nach einem Solvolyseschritt zur Spaltung gebundener Steroide erhöht sich die Menge an messbaren Analyten deutlich. Die Abtrennung chemisch sehr ähnlicher Matrixkomponenten von den Zielanalyten erfolgt über eine mehrschrittige HPLC. Nach einer Anreicherung der Analyten und einer Abtrennung großer Mengen an Matrixkomponenten an einer Restricted Access Material (RAM)-Vorsäule erfolgt eine Fraktionierung der Extrakte auf einem Umkehrphasenmaterial. Die in Gruppen aufgetrennten Steroide werden dann acetyliert und erneut über RP-HPLC weiter aufgetrennt. Die anschließend durchgeführten GC-MS-Messungen zeigen, dass die resultierenden Eluate nach dieser Aufarbeitung eine Reinheit aufweisen, die die GC-C-IRMS-Messung von 17?-Estradiol, Progesteron, Epiandrosteron, Etiocholanolon und Dehydroepiandrosteron zulässt. Androst-5-en-3?,17?-diol kann durch diese Aufarbeitung nicht vollständig von anderen Komponenten abgetrennt werden. Bei Pregnenolon kann eine mögliche Diskriminierung während des clean up nicht ausgeschlossen werden. Diese beiden Steroide sind daher als Zielanalyten nicht geeignet. Die entwickelte Methode gestattet den zuverlässigen Nachweis und die quantitative Bestimmung von Steroidhormonen in Rinderfaecesproben auf der Basis von GC-C-IRMS-Messungen. Inwieweit Stabilisotopenmessungen den Nachweis einer Behandlung der Tiere mit natürlichen Steroiden erlauben, muss durch weiterführende Tierversuche untersucht werden.</dc:description>
+          <dc:date>2004-12-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/763</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7572</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7572</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/763/weltring_anja.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

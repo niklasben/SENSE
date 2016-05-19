@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1298">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1298</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Miniaturmessverfahren zur Bestimmung mechanischer Kennwerte von Lotwerkstoffen aus der Mikroelektronik</dc:title>
+          <dc:title xml:lang="eng">Miniature measuring methods of mechanical material parameters of solders using in microelectronics</dc:title>
+          <dc:creator>Häse, Alexander</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit werden Messmethoden untersucht, die es ermöglichen mechanische Kenndaten von Materialien zu ermitteln, die als Probe im Miniaturformat vorliegen. Dafür wurde der klassische einachsige Zugversuch so modifiziert, dass die verwendeten Proben einen Durchmesser von nur 1 mm besitzen. Mit dem Nanoindenter, der zweiten benutzten Messmethode, ist es möglich mechanische Materialparameter von Bereichen einer Probe zu ermitteln, deren Größe im Mikrometerbereich liegt. Um die Relevanz von Härtemessverfahren deutlich zu machen, wurde einleitend deren historische Entwicklung kurz erläutert. Gegen Ende des 20. Jahrhunderts konnte mit der Methode von Oliver und Pharr das E-Modul mittels Härtemessverfahren bestimmt werden. Zusätzlich wurde in dieser Arbeit ein Verfahren entwickelt, das die Berechnung der Fließspannung aus den bis dahin mittels Nanoindentation bestimmten Materialwerten ermöglicht. Mit den Daten der durchgeführten Literaturrecherche und den Ergebnissen der Miniaturzugversuche ist es möglich dieses neue Verfahren zu verifizieren. Die Versuche an verschiedenen bleifreien Loten zeigen eine gute Übereinstimmung der gemessenen Materialkennwerte.</dc:description>
+          <dc:description xml:lang="eng">In this work measuring methods are examined, to determine mechanical properties from materials, which are present as specimen in miniature format. Therefore classical tension was modified in such a way that the used samples possess a diameter of only 1 mm. Using the nanoindenter, as second measuring method, it is possible to determine mechanical parameters of material samples with a size of some micrometers. In order to make the relevance of hardness measuring procedures clear, introductory their historical development was described briefly. At the end of 20. Century with the method by Oliver and Pharr the Youngs modulus could be determined with hardness measuring devices. Additionally in this work a procedure was developed, which makes it possible to determine yield stress with the help of nanoindentation. With the data of a literature search and the results of the miniature tension tests it is possible to verify this new procedure. The tests at different lead free solders show a good agreement of the measured material properties.</dc:description>
+          <dc:date>2006-07-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1298</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13275</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13275</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1298/haese_alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

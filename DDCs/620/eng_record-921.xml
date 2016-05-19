@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:921">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:921</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Steigerung der Flughafen-Kapazität durch Modellierung und Optimierung von Flughafen-Boden-Rollverkehr : Ein Beitrag zu einem künftigen Rollführungssystem (A-SMGCS)</dc:title>
+          <dc:title xml:lang="eng">Enhancing Airport Capacity by Modeling and Optimization of Airport Ground Traffic</dc:title>
+          <dc:creator>Busacker, Torsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Thema der vorliegenden Arbeit ist die Optimierung von Flughafen-Boden- Rollverkehr. Weltweit steigt die Nachfrage nach Luftverkehr. Damit steigt auch die Anzahl der Flugbewegungen an Flughäfen. Insbesondere große Drehkreuzflughäfen stoßen weltweit schon heute an ihre Kapazitätsgrenzen. Kapazitätserweiterungen durch Neu- oder Ausbauten sind aber nur noch in Ausnahmefällen möglich. Besondere Bedeutung kommt daher der effizienteren Nutzung der bestehenden Infrastruktur zu. Der Boden-Rollverkehr wurde bisher weitgehend als unbegrenzte Ressource angesehen. Eine genaue Analyse zeigt aber, dass der Rollverkehr durchaus ein Kapazitätsengpass sein kann. Durch die Planung und Optimierung der Routenführung des Rollverkehrs soll daher ein Effizienzgewinn erzielt werden. Ein solches Optimierungsverfahren stellt als Planungskomponente zugleich einen wichtigen Bestandteil eines künftigen Rollverkehrsführungssystems (A-SMGCS) dar. Eine Analyse des Rollverkehrs, seiner Funktion im Betriebsablauf und seiner für eine Modellierung wichtigen Eigenschaften führt zum Optimierungsziel der minima-len mittleren Rollzeiten. Ausgehend von dieser Zielsetzung wird eine Zielfunktion formuliert, deren Nebenbedingungen die Systemeigenschaften des Rollverkehrs mathematisch beschreiben. Es wird ein Algorithmus entwickelt, der kürzeste konfliktfreie Rollrouten mit Hilfe von Zeitfenstern und zielgerichteter Suche plant. Zur Validierung dieses Rollverkehrs-Algorithmus wird ein großer Verkehrsflughafen graphentheoretisch modelliert. Mit Hilfe des neuen Algorithmus werden dann realistische Rollverkehrs-Szenarien optimiert. Die Validierung selbst erfolgt sodann durch den Vergleich mit echten, im Flugbetrieb gemessenen Rollverkehrszeiten. Der Vergleich ergibt, dass der neue Algorithmus einen deutlichen Effizienzgewinn gegenüber dem heutigen Rollverkehrsbetrieb ermöglicht. Die Zeitersparnis für jeden Rollvorgang beträgt im Mittel mindestens ca. 5%, wobei besonders hervorzuheben ist, dass der Algorithmus in keinem untersuchten Fall im Mittel schlechter abschnitt als die Realität. Die maximale erreichte Zeitersparnis lag in allen untersuchten Szenarien konsistent bei deutlich über 20%. Damit wurde gezeigt, dass die Optimierung des Rollverkehrs das Potenzial besitzt, den Flughafenbetrieb effizienter zu machen. Zugleich wurde bewiesen, dass der in dieser Arbeit vorgestellte Algorithmus grundsätzlich geeignet ist, dieses Potenzial zu erschließen.</dc:description>
+          <dc:description xml:lang="eng">This thesis presents a new algorithm for Airport Ground Traffic Optimization. Demand for air transportation is constantly growing world-wide, and with it the number of aircraft movements at airports. Especially big hub airports in a number of countries are already operating close to or above their respective capacity limits. However, enhancement of airport capacity by building new airports or extending the existing ones is not usually an option. Hence, exploiting the existing infrastructure efficiently is of paramount concern. Aprons and taxiways have up till now been usually regarded as an unlimited resource. Thorough analysis proves, however, that taxi traffic can indeed become a limiting factor in certain instances. Thus, it is hoped that planning and optimizing taxi routing will lead to greater efficiency. Optimization of taxi traffic will also be required as a planning component of a future Advanced Airport Surface Movement Guidance and Control System (A-SMGCS). An analysis of taxi traffic, of its role in airport operations and of its properties which affect modelling make clear the necessity to minimize average taxi times. This necessity is translated into an objective function, the side conditions of which describe the system properties of taxi traffic mathematically. An algorithm is developed that plans shortest conflict-free taxi routes by means of time windows and targeted search. This taxi traffic algorithm is validated by being applied to the graph model of a large airport. Using the new algorithm, realistic taxi traffic scenarios are optimized. Validation itself is achieved by comparing the optimization results with actual taxi times observed in real-life airport operations. The result of this comparison is that the new algorithm increases efficiency significantly beyond present taxi operating procedures. The time saved per taxi roll is about 5% on average. It is especially noteworthy that in none of the instances studied does the algorithm perform worse than the present operations. The maximum time saved was consistently above 20% in all the scenarios studied. It was thus proved that optimizing taxi traffic has the potential to make airport operations more efficient. It was also shown that the algorithm presented in this thesis might help turn this potential into actual savings.</dc:description>
+          <dc:date>2005-05-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/921</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9142</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9142</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/921/busacker_torsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

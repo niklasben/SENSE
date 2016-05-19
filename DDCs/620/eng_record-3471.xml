@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3471">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3471</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Beitrag zur Simulation und Messung von Blade Off Ereignissen</dc:title>
+          <dc:title xml:lang="eng">A contribution to simulation and measurement of blade off events</dc:title>
+          <dc:creator>Kalinowski, Piotr</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ein plötzlicher Verlust einer oder mehrerer Schaufeln einer Turbine bzw. eines Kompressors ist ein typisches Beispiel für ein Ereignis, das zur Entstehung einer unerwünschten, in Lastkollektiven nicht berücksichtigten Kraft führt. Daraus entstand die Motivation im Rahmen der Promotionsarbeit ein Simulationsprogramm speziell zur Untersuchung von Blade Off Ereignissen und deren Auswirkungen auf die Rotordynamik zu entwickeln. Um die erzielten Ergebnisse bewerten zu können, wurde außerdem ein geeigneter Prüfstand zur plötzlichen Unwuchterzeugung bei Betriebsbedingungen aufgebaut. Die überdies durchgeführten Untersuchungen zeigten neue Erkenntnisse bzgl. des dynamischen Verhaltens von Wälzlagern beim plötzlichen Auftreten einer Unwucht. Auf dieser Basis lassen sich z. B. neue Ansätze zur Auslegung von Rotor-Stator-Spalten entwickeln. Schließlich gibt die Arbeit einen umfassenden Überblick über die Simulationstechnik und erforderliche Parameter und soll helfen, zuverlässige Modelle für eine effiziente Simulation von Blade Off Events aufzubauen.</dc:description>
+          <dc:description xml:lang="eng">A sudden and unexpected loss of one or more blades in a turbine or compressor stage is a typical example of an incident called blade off event leading to a development of an unwanted load that normally has not been considered in the load collectives. Based on this motivation a simulation program for analysis of blade off events and their impact on the rotordynamic has been developed. Moreover, a test rig suited for creating of sudden unbalance has been built to validate the simulation results. In summary, the presented results indicate that the simulation as well as the measurement of blade off events can be carried out succesfully. The carried out sensitivity analyses show some new findings regarding the dynamic behaviour of ball bearings while a sudden unbalance occurs. On this basis, some new approaches concerning dimensioning of the gap between the rotor and the stator can be developed for example. In conclusion, the thesis gives an extensive overview of the simulation technology and some necessary parameters and should help to set up reliable models for an efficient simulation of blade off events.</dc:description>
+          <dc:date>2012-10-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3471</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36638</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36638</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3471/kalinowski_piotr.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

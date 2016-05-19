@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2764">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2764</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Electronic properties of functionalizedcarbon nanotubes</dc:title>
+          <dc:title xml:lang="deu">Elektronische Eigenschaften funktionalisierter Kohlenstoffnanotubes</dc:title>
+          <dc:creator>Müller, Matthias</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Carbon nanotubes are tiny cylinders which can be imagined as rolled up graphene monolayers. Their fundamental architecture is the honeycomb lattice with sp2-hybridized carbon as known from natural graphite. Functionalization means a chemical treatment, which adds molecules to the nanotubes by covalent or non-covalent bonding. Functionalized carbon nanotubes have many potential applications in the fields of nanoelectronics and chemistry. The functionalities allow to design tubes for special needs in specific environments and drastically increase the processability of nanotubes, e.g., by increasing the solubility in certain media. Chemical functionalization highly influences the carbon lattice. The addition leads to local strain relaxation, which is revealed in the diameter dependence of the tube reactivity. Due to the different curvature of the tubes, small diameter tubes are more affected than larger ones. Depending on the applied reaction conditions also a preferred reaction to either metallic or semiconducting tubes can be achieved. The charge transfer between the tube and the addend causes changes in the electronic structure of the tubes, depending on the moiety. This is probed via resonant Raman spectroscopy of the tubes, which reveals changes in the optical transitions. Due to their extraordinary mechanical properties, nanotubes are also desirable for composite materials, e.g., the integration into polymers. The electronic properties of such composites after polymerization are studied. It is shown that electronic effects can be separated from pure structural effects after covalent sidewall additions. The investigation of functionalized material is typically performed on nanotube ensembles, i.e., solutions or bulk material. Isolated tubes or small bundles on a grid allow polarization dependent measurements in addition to the experimental benefit to combine the spectroscopical analysis with the structural characterization by the transmission electron microscopy measurements</dc:description>
+          <dc:description xml:lang="deu">Kohlenstoffnanotubes sind winzige Zylinder, die man sich wie aufgerollte Graphenmonolagen vorstellen kann. Sie besitzen die gleiche sechseckige Wabenstruktur, wie sie auch in Graphit vorkommt. Unter Funktionalisierung versteht man die chemische Veränderung der Tubes, dabei werden Moleküle an die Seitenwand der Nanotubes gebunden. Man unterscheidet kovalente und nicht-kovalente Funktionalisierungen. Funktionalisierte Nanotubes sind in vielen Bereichen der Nanotechnik und der Chemie einsetzbar; die Funktionalisierung erlaubt das Anpassen der Röhren an bestimmte Umgebungen, z.B. durch Verändern ihrer Löslichkeit. Kovalente Bindungen beinflussen die atomare Sturuktur der Seitenwände, u.a. führt die Bindung lokal zu einer Entspannung des Gitters. Dieser Effekt wird in der Durchmesserabhängigkeit der Reaktivität verschiedener Tubes sichtbar, Röhren kleiner Durchmesser werden bevorzugt funktionalisiert. Durch geeignete Reaktionsbedingungen kann auch die Reaktivität halbleitender oder metallischer Nanotubes bevorzugt sein. Je nach Art der funktionellen Gruppen wird die elektronische Struktur der Nanotubes unterschiedlich stark beeinflusst. Die resonante Ramanspektroskopie erlaubt eine detaillierte Untersuchung dieser Einflüsse. Die Ver änderungen der optischen Übergänge lassen sich anhand der Resonanzprofile der sog. Atmungsmode der Tubes untersuchen. Dabei können elektronische Effekte durch Ladungstransfer von Einflüssen durch strukturelle Ver- änderungen, hervorgerufen durch die kovalenten Bindungen, unterschieden werden. Die außergewöhnlichen mechanischen Eigenschaften der Nanotubes machen diese auch interessant für Verbundmaterialien, insbesondere in Verbindungen mit Polymeren. Die elektronischen Eigenschaften der Röhren nach der Polymerisation werden untersucht. Üblicherweise werden funktionalisierte Nanotubes anhand von Ensembles untersucht. Einzelne Tubes, auf einem Gitter gewachsen, ermöglichen auch polarisationsabhängige Ramanmessugen. Darüber hinaus ergeben sich interessante experimentelle Möglichkeiten durch die Kombination von Ramanmessungen mit hochauflösender Elektronenmikroskopie.</dc:description>
+          <dc:date>2011-01-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2764</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29295</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29295</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2764/mueller_matthias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

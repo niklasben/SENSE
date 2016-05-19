@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1922">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1922</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Schlüsselenzyme der Phyllochinon (Vitamin K1)- und Salicylatbiosynthese in Arabidopsis thaliana</dc:title>
+          <dc:title xml:lang="eng">Key enzymes of phylloquinone (vitamin K1)- and salicylic acid biosynthesis in Arabidopsis thaliana</dc:title>
+          <dc:creator>Lohmann, Antje</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Phyllochinon (Vitamin K1) wird in Cyanobakterien und in den Chloroplasten höherer Pflanzen synthetisiert. Dort ist es integraler Bestandteil des Photosystems I ist und fungiert als Elektronenüberträger. Der erste Schritt der Phyllochinon-Biosynthese ist die durch die Aktivität einer Isochorismatsynthase (ICS) katalysierte Umwandlung von Chorismat zu Isochorismat, welches Vorstufe der Phyllochinon- als auch Salicylatbiosynthese ist. Salicylat spielt in Pflanzen vor allem als Mittler in der Abwehr von Pathogenen eine wichtige Rolle. In Arabidopsis kodieren zwei Gene für eine Isochorismatsynthase: ICS1 und ICS2. Beide Gene sind an der Phyllochinonbiosynthese beteiligt. ICS1 ist zudem für die Salicylatbiosynthese von Bedeutung ist. Die Tatsache, dass in der Nullmutante ics1 noch Salicylat akkumuliert, lässt die Vermutung zu, dass auch das zweite Isochorismatgen ICS2 oder ein alternativer Biosyntheseweg an der Bildung von Salicylat beteiligt ist. In dieser Arbeit konnte gezeigt werden, dass das Gen ICS2 ein funktionell aktives Enzym kodiert, welches in die Salicylatbiosynthese involviert ist. Die Hauptaktivität besitzt jedoch die durch das Gen ICS1 kodierte Isochorismatsynthase 1. Dass in der phyllochinonfreien Doppelmutante ics1ics2 noch geringe Mengen an Salicylat detektiert werden können, bestätigt die Vermutung, dass in Arabidopsis zudem ein ICS-unabhängiger Salicylatbiosyntheseweg existiert. Die Methylierung von 2-Phytyl-1,4-naphthochinon (PNQ) zu Phyllochinon ist der letzte Schritt der Phyllochonbiosynthese in Cyanobakterien und wird katalysiert durch eine Methyltransfearse menG. Im zweiten Teil dieser Arbeit wurde gezeigt, dass in der phyllochinonfreien Mutante AtmenG die Vorstufe PNQ akkumuliert. PNQ wie auch Phyllochinon sind in den Thylakoidmembranen lokalisiert. Überschüssige Mengen beider Moleküle werden in den Plastoglobuli gespeichert. In der Mutante AtmenG übernimmt PNQ teilweise die Funktion des fehlenden Phyllochinons innerhalb des Photosystems I. Die Ergebnisse dieser Arbeit belegen, dass in AtmenG u.a. die Menge an funktionellem Photosystem I ebenso wie die Quantenausbeute des Photosystems II verringert sind. Besonders unter Hochlichtbedingungen wird deutlich, dass die Methylierung von Phyllochinon in Arabidopsis für eine maximale photosynthetische Effizienz von großer Bedeutung ist.</dc:description>
+          <dc:description xml:lang="eng">Phylloquinone (vitamin K1) is synthesized in cyanobacteria and in chloroplasts of plants, where it serves as electron carrier of photosystem I. The first step of phylloquinone biosynthesis in Arabidopsis is the production of isochorismate from chorismate through the activity of an isochorismate synthase (ICS). Isochorismate is a precursor of phylloquinone as well as salicylic acid (SA), which is known to be an important mediator of plant defense response. There are two genes in Arabidopsis coding for an isochorismate synthase: ICS1 and ICS2. Both are involved in phylloquinone biosynthesis. Furthermore, it is known that ICS1 contributes to production of SA. Null ics1 mutants still accumulate some SA, suggesting that also ICS2 is involved in SA biosynthesis or an alternative ICS-independent SA biosynthetic route exists. This work shows that ICS2 encodes a functional ICS enzyme. Comparison of phylloquinone and SA accumulation in the ics1, ics2, and ics1ics2 mutants indicates that ICS1 can largely compensate for the absence of ICS1. Furthermore, detection of SA in the double ics1ics2 double mutant that is completely devoid of phylloquinone provides evidence of the existence of an ICS-independent SA biosynthetic pathway in Arabidopsis. The last step of phylloquinone synthesis in cyanobacteria is the methylation of 2-phytyl-1,4-naphthoquinone by the menG gene product. Here, we report that an Arabidopsis mutant, AtmenG, carrying a T-DNA insertion in the gene At1g23360 is devoid of phylloquinone, but contains an increased amount of 2-phytyl-1,4-naphthoquinone (PNQ). Phylloquinone and PNQ are located in thylakoid membranes of wild type and AtmenG, respectively, predominantly localize to photosystem I, whereas excess amounts of prenyl quinones are stored in plastoglobules. Under high light photosystem I reaction centers and photosystem II quantum yield are decreased, anthocyanin and xanthophyll accumulation are affected in AtmenG plants. In conclusion, the results demonstrate that methylation of phylloquinone is important for maximal photosynthetic efficiency and optimal growth when plants are raised under normal light conditions. At high light, the impact of replacement of phylloquinone with PNQ becomes even more significant.</dc:description>
+          <dc:date>2008-09-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1922</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20272</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20272</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1922/lohmann_antje.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

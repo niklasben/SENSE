@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:181">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:181</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dynamik des Wasserhaushaltes von Niedermooren</dc:title>
+          <dc:title xml:lang="eng">Dynamic of water balance of lower moor soils</dc:title>
+          <dc:creator>Schwärzel, Kai</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Die Entwässerung und intensive Nutzung der Niedermoore führt zu Veränderungen der bodenphysikalischen Eigenschaften. Anhand der Kennwerte des Wasserhaushaltes und auch am Beispiel der ermittelten ungesättigten hydraulischen Leitfähigkeit wird dies gezeigt. Die Ableitung der Porengrößenverteilung aus der Wasserretentionskurve ist jedoch auf Grund der entwässerungsbedingten Schrumpfung der Torfe vor allem im hohen Wasserspannungsbereich fehlerbehaftet. Diese Fehler sind um so größer, je geringer der Torf von bodengenetischen Prozessen geprägt wurde. Die Übereinstimmung zwischen den im Labor und im Feld ermittelten Wasserretentionskurven (Desorption) und auch den ungesättigten hydraulischen Leitfähigkeitsgängen ist zufriedenstellend. Unterschiede von bis zu 30 Vol.-% im Wassergehalt wurden aber bei gleicher Wasserspannung zwischen den im Feld erhobenen Be- und Entwässerungskurven festgestellt. Diese Unterschiede beruhen vor allem auf Benetzungshemmung. Mit Hilfe eines Simulationsmodells wurde der Einfluss der Bodenentwicklung, der Moormächtigkeit und der Substrattypen auf den kapillaren Aufstieg in Niedermooren in Abhängigkeit von der Grundwassertiefe geprüft. Mit neu entwickelten und mit Sonden bestückten Grundwasserlysimetern wurden die Bodenfeuchte- und Wasserspannungsverläufe, die reale Evapotranspiration und der kapillare Aufstieg in Abhängigkeit vom Grundwasser-Flurabstand sowie die tiefenabhängige Wasseraufnahmerate der Pflanzenwurzeln ermittelt. Die erhobenen Daten dienten zur Entwicklung, Kalibrierung und Validierung eines Wasserhaushaltsmodells. Die Verdunstung wird dabei nach dem Penman-Monteith-Ansatz berechnet. Der dazu benötigte Bestandeswiderstand wurde aus den Messdaten als Restgröße berechnet. Erstmalig konnte für Rohrglanzgras (Phalaris arund.) die Abhängigkeit der Verdunstung von der im Wurzelraum vorherrschenden Wasserspannung experimentell nachgewiesen werden. Über einen neuartigen Ansatz wird dieser Sachverhalt im Wasserhaushaltsmodell berücksichtigt. Aus den Modellrechnungen wurden monatsspezifische Bestandeskoeffizienten abgeleitet. Mit Hilfe dieser und der Grasreferenzverdunstung kann die Verdunstung in Niedermooren allein aus meteorologischen Größen berechnet werden. Durch Modellrechnungen wurde der Einfluss der Grundwassertiefe auf den Wasserverbrauch, den kapillaren Aufstieg und die CO2-Freisetzung für Erd- und Mulm-Niedermoore untersucht. Die Simulationsergebnisse verdeutlichen, dass durch die Wahl der Grundwassertiefe der Torfabbau beschleunigt oder verlangsamt werden kann. Empfehlungen für eine moorschonende Nutzung werden gegeben.</dc:description>
+          <dc:description xml:lang="eng">Drainage and farming have changed the physical properties of lower moors. On a cultivated and partly drained lower moor north east of Berlin (Oberes Rhinluch), a groundwater-lysimeter with TDR-probes and automatic tensiometers was installed. The groundwater level was controlled by pumps and the amount of water was balanced. With the experimental setup the real evaporation and capillary water uptake was measured at different groundwater levels. The canopy resistance (vegeatation phalaris arund.) was calculated too. A lysimeter without vegetation was used to measure the soil-hydraulic functions (conductivity and water retention). These functions were also measured in the laboratory for a higher range of water contents and water suctions. The laboratory and field function were consistent. Using the laboratory functions, capillary water uptake was calculated with a numerical model at different boundary conditions. The calculated water fluxes were in the same range as the measured water fluxes. Additionally, hydraulic functions from peat-sites (Niedermoor) with varying depth of the peat, substrates and peat-types were measured and the water balance of various representative profiles was calculated with the numerical model. The simulations show that the choice of groundwater depth the peat mineralisation can increase or decrease.</dc:description>
+          <dc:date>2001-07-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/181</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1765</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1765</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/181/schwaerzel_kai.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

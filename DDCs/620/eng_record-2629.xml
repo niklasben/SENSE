@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2629">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2629</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Simulation und Analyse turbulenter Strömungen am Beispiel der Umströmung eines Zylinderstumpfes mit Endscheibe</dc:title>
+          <dc:title xml:lang="eng">Numerical simulation and analysis of turbulent flows using the example of the flow around a finite cylinder with endplate</dc:title>
+          <dc:creator>Frederich, Octavian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Analyse der Dynamik in turbulenten Strömungen ist wegen des instationären, dreidimensionalen und stochastischen Charakters von Turbulenz noch immer eine große Herausforderung. Dieser ist jedoch zu begegnen, um die Eigenschaften von Turbulenz zu charakterisieren und zu quantifizieren, so daß erwünschte bzw. unerwünschte Effekte wie starke Vermischung oder erhöhter Widerstand, speziell in technisch relevanten Strömungen erkannt, verstanden und gegebenenfalls kontrolliert werden können. Insbesondere aufgrund der räumlich-zeitlichen Variation turbulenter Strömungen muß im Rahmen der Analyse nahezu zwingend methodenbasiert vorgegangen werden, um zumindest die dominanten Effekte im industriellen Umfeld semi-automatisch zu extrahieren. In der vorliegenden Arbeit wurde die Strömung um einen wandgebundenen Zylinderstumpf, der repräsentativ für diverse Fahrzeuganbauten oder auch Gebäude ist, als Beispiel einer komplexen turbulenten Strömung numerisch hochauflösend simuliert und bezüglich stark verschiedener Perspektiven analysiert. Im Rahmen der traditionell üblichen statistischen Analyse konnte eine Topologie für das zeitlich gemittelte Strömungsfeld gewonnen werden und kaum dokumentierte Einzelheiten extrahiert und quantifiziert werden. Der dabei extensiv durchgeführte Vergleich von numerischen und experimentellen Strömungsdaten lieferte durchweg hervorragende Übereinstimmung. Die Analyse der Strömungsdynamik wurde unter Verwendung einer Kombination konzeptionell unterschiedlicher Analysemethoden durchgeführt. Zu den wichtigsten und erfolgreichsten Verfahren zählen Proper Orthogonal Decomposition, ein neu entwickelter Strukturverfolgungsalgorithmus sowie verschiedene Filterungskonzepte. Die Extraktion der dominanten Bewegungsformen, intermittierenden Effekte und instantanen Wirbelformationen wurde durch diese Methoden wesentlich vereinfacht. Schwierigkeiten bei der Identifikation von Einzelphänomenen treten durch deren Interaktion und Synchronisation im Strömungsfeld auf. Dennoch kann wesentlich zum Verständnis der speziellen Strömung beigetragen werden, und die Eigenschaften der eingesetzten Analyseverfahren können hinsichtlich ihrer Eignung zur Turbulenzanalyse charakterisiert werden. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:description xml:lang="eng">The analysis of the dynamics in turbulent flows is still a major challenge due to the unsteady, three-dimensional and stochastic nature of turbulence. Overcoming this challenge is important, however, to characterise and quantify the properties of turbulence, so that desired and undesired effects such as strong mixing or increased drag, especially in technically relevant flows, can be identified, understood and possibly controlled. In particular, because of the spatial and temporal variation of turbulent flows, a method-based analysis is near-mandatory in order to extract at least the dominant effects semi-automatically in an industrial environment. In the present study, the flow around a finite wall-mounted cylinder, which is a prototype for various vehicle fittings or buildings and an example of a complex turbulent flow, has been numerically simulated with high resolution and analysed with respect to different perspectives. Employing traditional statistical analysis a topology for the time-averaged flow field could be obtained and seldom-documented flow features have been extracted and quantified. The extensive comparison of numerical and experimental flow data in this framework reveals consistently excellent agreement. The analysis of the fluid dynamics has been carried out using a combination of conceptually different analysis methods. Proper Orthogonal Decomposition, a newly-developed structure tracking algorithm and various filtering approaches are among the most important and successful techniques. The extraction of the dominant flow pattern, intermittency effects and instantaneous vortex formations was substantially simplified by these methods. Difficulties in the identification of individual phenomena arise from their interaction and synchronisation in the flow field. Nevertheless, much can be contributed to the understanding of the specific flow and the analysis procedures are evaluated with respect to their suitability for the analysis of turbulence. Printed version available by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de).</dc:description>
+          <dc:date>2010-09-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2629</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27380</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27380</dc:identifier>
+          <dc:identifier>978-3-7983-2241-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2629/TU_Berlin_2241_Frederich.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2629/US_TU_Berlin_2241_Frederich.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

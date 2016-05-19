@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2522">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2522</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Complex self-organized dynamics in oscillator networks and methods of its control</dc:title>
+          <dc:title xml:lang="deu">Komplexe selbst-organisierte Dynamik in Netzwerken von Oszillatoren und Methoden zur Kontrolle</dc:title>
+          <dc:creator>Gil, Santiago</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">Models of phase oscillators are a universal tool for the study of collective dynamics in periodic systems. The interactions of otherwise regular periodic elements may produce various kinds of behavior, amongst which chaos and incoherence may not be desirable. The objective of this work is to study possible methods to control chaos and disorder in systems of interacting oscillators, and to study the different kinds of dynamical states that can be induced in the process. Systems of coupled phase oscillators are considered, which include phase shifts in the interactions between each pair of elements. This phase shift can lead to a desynchronization transition in a globally coupled system of identical oscillators. Under these conditions, we investigate the effect of external common noise acting on all elements. We observe that when such noise is weak, it gives rise to the formation of clusters in the system, whereas strong noise intensities bring the system to a synchronized state. When the all-to-all coupling is replaced by a random network, desynchronization gives way to chaos. Analysis of the Lyapunov spectrum reveals a high-dimensional chaotic attractor which is analogous to phase turbulence in oscillatory media. By introducing global feedback, turbulence can be suppressed and a transition to synchronous oscillations can be induced. Along this transition, different kinds of complex dynamics can be observed, such as propagation of phase slips or intermittent turbulence. Emerging coherent patterns take here the form of self-organized active subnetworks whose size and behavior can be controlled. This work exploits methods rarely used in the analysis of phase oscillator net- works to uncover dynamical patterns that may have previously been overlooked. As such, it sheds new light on the kinds of self-organized dynamics that can be found between the boundaries of disorder and synchronization</dc:description>
+          <dc:description xml:lang="deu">Modelle von Phasenoszillatoren sind ein Universalwerkzeug, um die kollektive Dynamik in periodischen Systemen zu untersuchen. Dabei führen Wechselwirkungen zwischen gewöhnlich regulär periodischen Elementen zu einer Vielzahl an Verhalten. Dazu zählen auch Chaos und Inkohärenz, welche für etliche Anwendungen unerwünscht sind. Die Zielsetzung dieser Arbeit ist die Untersuchung von Methoden zur Kontrolle von Chaos und Unordnung in Systemen wechselwirkender Oszillatoren und die damit einhergehenden dynamischen Aspekte. Dazu werden Systeme gekoppelter Phasenoszillatoren betrachtet, bei denen die paarweise Wechselwirkung von einer Phasenverschiebung zwischen den Elementen abhängt. Diese Phasenverschiebung kann in einem global gekoppelten System von identischen Oszillatoren zu Desynchronisation führen. Hierbei wird der Einfluss von externem gemeinsamen, auf alle Elemente wirkendes Rauschen untersucht. Ist dieses Rauschen schwach, beobachten wir die Ausbildung von Clustern im System; starkes Rauschen hingegen führt zu Synchronisation. Betrachtet man statt der globalen Kopplung ein Zufallsnetzwerk, geht die Desynchronisation in Chaos über. Die Auswertung des Lyapunov-Spektrums liefert in diesem Fall einen hochdimensionalen chaotischen Attraktor, welcher analog zur Phasenturbulenz in oszillatorischen Medien ist. Turbulenz kann durch die Einfuehrung von globalem Feedback unterdrückt werden. Dabei kann ein Übergang zu synchronen Oszillationen herbeigeführt werden. Entlang dieses Übergangs zeigen solche Systeme verschieden komplexe Dynamik, wie die Ausbreitung von Phasenrutschen (phase slips) oder zeitweilige Turbulenz. Dabei entstehen kohärente Muster, die als selbst-organisierte aktive Unternetzwerke auftreten, deren Größe und Verhalten kontrolliert werden können. Die vorliegende Arbeit verwendet Methoden, welche selten in der Analyse von Netzwerken von Phasenoszillatoren benutzt werden. Dadurch können dynamische Muster gefunden und beschrieben werden, die bislang möglicherweise ubersehen worden sind. Damit wirft diese Arbeit ein neues Licht auf selbstorganisierte Dynamik, welche am Übergang zwischen Unordnung und Synchronisation auftritt.</dc:description>
+          <dc:date>2010-05-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2522</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26215</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26215</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2522/gil_santiago.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

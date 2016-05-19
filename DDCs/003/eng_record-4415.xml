@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4415">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4415</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analytic strategies and analytic tactics</dc:title>
+          <dc:creator>Woolf, Nicholas </dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">Using ATLAS.ti powerfully is a specific skill that has little to do with learning to operate the software. In this keynote address I present the core of my propositions that will be fleshed out in more practical terms in my forthcoming book, “How to use ATLAS.ti powerfully�?. The key issue is how we resolve the contradictions between the iterative and emergent nature of qualitative research that is expressed in our analytic strategies, and the pre-determined, linear nature of computer software that is expressed in the analytic tactics we use to execute the qualitative data analysis (QDA). Contradictions can be resolved in several ways: through denial, by choosing between the contradictory alternatives, or by trading off between them. These variously lead to approaches to QDA that I refer to as one-level, two-level, and three-level QDA. However, these approaches to reconciling the contradictions do not easily lead to using ATLAS.ti powerfully. By learning from the general principles described in Edward Luttwak’s five-level model of military strategy, I propose a five-level QDA that resolves the contradictions by transcending them. I propose that this is the best approach to using ATLAS.ti powerfully. </dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4415</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44159</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44159</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4415/03_woolf_4415.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:685">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:685</identifier>
+        <datestamp>2014-08-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Effiziente FD-Berechnung verlustbehafteter planarer Strukturen unter Berücksichtigung quasi-statischer Lösungen</dc:title>
+          <dc:title xml:lang="eng">Efficient FD simulation of lossy planar structures including quasi-static solutions</dc:title>
+          <dc:creator>Kunze, Marco</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Trend zu höheren Frequenzen von MMICs erfordert die Reduzierung der charakteristischen Abmessungen von aktiven und passiven Elementen. Dabei liegen typische Metallisierungsdicken solcher Elemente in der Größenordnung der Skin-Eindringtiefe, so dass der Skin-Effekt bei der Analyse dieser Schaltungen nicht mehr vernachlässigt werden darf. Die Finite-Differenzen-Berechnung passiver MMIC-Elemente bedarf deshalb der Berücksichtigung endlicher Leitfähigkeiten von Metallisierungen und damit die Auflösung der Skin-Eindringtiefe. Der numerische Aufwand (Speicherbedarf, Rechenzeit) der konventionellen Methode der Finiten Differenzen wächst mit der geforderten Auflösung. Sie ist unter Berücksichtigung des Skin-Effekts in der Regel um eine Größenordnung höher im Vergleich zu Anordnungen mit idealen Leitern. Die vorliegende Arbeit stellt die Hybridmethode der Finiten Differenzen (HMFD), eine effizientere Formulierung der Methode der Finiten Differenzen im Frequenzbereich (FDFD), vor. Dabei werden dynamische Rechnungen mit quasi-statischen Lösungen verknüpft. Die Berechnung passiver Komponenten erfolgt in zwei Schritten. Die Bereiche einer Struktur, die eine hohe Auflösung erfordern, werden zunächst in einem hochauflösenden Gitter quasi-statisch berechnet. In einem zweiten Schritt erfolgt die dynamische Rechnung unter Berücksichtigung der quasi-statischen Lösungen in einem wesentlich gröberen Gitter. Die Auflösung des quasi-statischen Gitters wird dabei durch die Skin-Eindringtiefe, die des dynamischen durch die kleinsten Strukturabmessungen bestimmt. Im Rahmen dieser Arbeit wird die Hybridmethode HMFD sowohl an zweidimensionalen (Wellenleiterproblem) als auch an dreidimensionalen Strukturen verifiziert. Bei vergleichbarer Genauigkeit kann die Rechenzeit bis zum Faktor 100 und der Speicherbedarf bis zum Faktor 6 gegenüber der konventionellen Methode FDFD reduziert werden. Gedruckte Version im Cuvillier Verlag, Göttingen [http://www.cuvillier.de/] erschienen.</dc:description>
+          <dc:description xml:lang="eng">The trend toward higher frequencies for MMICs requires the reduction of the characteristic dimensions of active and passive components. Typical metallization thicknesses are in the range of skin-depth and the skin-effect has to be considered in the analysis of such circuits. Therefore the Finite Difference simulation of passive MMIC components needs finite conductivity to be accounted for and the resolution of skin-depth. The numerical efforts (CPU-time, memory) of the conventional Finite Difference method increase with mesh size. Compared to the lossless case the spatial resolution when skin-depth is considered, is higher by about one order of magnitude. This work presents the hybrid finite-difference method HMFD). It is a more efficient formulation of the Finite Difference method in frequency domain (FDFD). The hybrid method splits into a dynamic and a quasi-static part, and the analysis of passive components is performed in two steps. The regions of a structure which require a high spatial resolution are first analyzed by the quasi-static approach in a dense grid. This is the case, for instance, at edges, corner, or within planar metallizations. The dynamic part is then performed in a much coarser grid including the quasi-static field solution. The quasi-static grid is selected in relation to the skin-depth and the dynamic one according to the smallest geometrical dimension of a structure under investigation. In the context of this work the hybrid method HMFD is verified for two dimensional (transmission-line problem) and for three dimensional problems. By employing the HMFD, the computing time can be reduced by a factor of up to 100 and the storage requirements can be reduced by a factor of up to 6, with no appreciable decrease in accuracy from conventional FDFD. Printed version available from Cuvillier Verlag, Göttingen [http://www.cuvillier.de/].</dc:description>
+          <dc:date>2003-05-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/685</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6796</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6796</dc:identifier>
+          <dc:identifier> 978-3-89873725-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/685/kunze_marco.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

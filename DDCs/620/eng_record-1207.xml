@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1207">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1207</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Gestaltung intelligenter Systeme für die schmerzarme Blutentnahme an der Fingerbeere</dc:title>
+          <dc:title xml:lang="eng">New concepts of intelligent systems for painless blood uptake at the human finger tip</dc:title>
+          <dc:creator>Grundmann, Armin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit der Untersuchung neuartiger Konzepte zur Schmerzreduzierung der Blutprobenentnahme an der Fingerbeere. Dazu wurde zunächst der Einsatz von Mikronadeln geprüft. Die zentrale Frage bestand darin, ob Mikronadeln den Schmerz beim Einstechen in die Fingerbeere mindern und welche Mechanismen dabei zum Tragen kommen. Als Fazit der Untersuchung bleibt festzuhalten, dass die Verwendung von Mikronadeln zur schmerzärmeren bzw. schmerzfreien Blutprobenentnahme kritisch zu betrachten ist. Der Hauptteil der Arbeit beschäftigt sich mit einem neuen Konzept zur Schmerzreduzierung. Eine intelligente Nadel detektiert während des Einstechvorgangs den Kontakt mit Blut und wird daraufhin sofort abgebremst und wieder aus der Haut entfernt. Die somit erzielte, geringst mögliche Einstechtiefe reduziert den Schmerz auf ein Minimum. Bestandteil dieser Arbeit sind Ausführungen zur Sensorik. Es wurde über die Untersuchung von Blut unterschiedlicher Hämatokritkonzentration mit Mikroelektroden indirekt nachgewiesen, dass sich anhand des durch die Applikation von Sinus- und Rechteckspannungen erzeugten Stromflusses Hautgewebe und Blut voneinander unterscheiden lassen. Diese Unterscheidung ist auch bei beschleunigter Bewegung der Mikroelektrode möglich. Das Signal benötigt etwa 200 µs nach dem Eintauchen der Mikroelektrode von Luft in das zu messende Medium, um einen sicheren Nachweis zu gewährleisten.</dc:description>
+          <dc:description xml:lang="eng">This thesis establishes new concepts of pain reduction for blood uptake at the human finger tip. In the first part, the utilization of microneedles as a means of lesion reduction was investigated. The crucial point was to show whether microneedles reduce pain and what mechanisms would be involved. As a conclusion, the use of microneedles cannot ad hoc considered to be painless. On the contrary, there is reason to believe pain will not be reduced beyond a certain level of miniaturization. The major part of this work is dedicated to introducing a new concept of pain reduction by means of an intelligent puncturing system. It incorporates a sensor at the tip of a needle for detecting its contact with blood, in combination with a controllable actuator. This actuator will retard and withdraw the needle upon blood contact, thus, guaranteeing minimum penetration depth of the needle. The investigation of the sensor system is the integral part of this work. By application of sinusoidal and square wave voltages to microelectrodes in blood suspensions of different hematocrit concentration and the measurement of the subsequent current flow, it was indirectly shown that skin tissue and blood can be distinguished by this method. This discrimination was proven to be still valid under conditions of an accelerated needle as in the case of a puncturing needle for blood uptake. The signal requires a minimum of roughly 200 µs to establish after first contact of the microelectrode with the medium to be analyzed.</dc:description>
+          <dc:date>2006-02-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1207</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12202</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12202</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1207/grundmann_armin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:295">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:295</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modell zum Einfluß erhöhter CO2-Konzentrationen und Temperatur auf den Wasserumsatz von Buchenbeständen</dc:title>
+          <dc:creator>Stille, Alfred Manuel</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Seit Beginn der kontinuierlichen Messungen der CO2-Konzentration auf dem Mauna-Loa 1958 ist die Konzentration bis 1997 von 315,83 µmol mol-1 auf 363,82 µmol mol-1 angestiegen. Mit großer Wahrscheinlichkeit ist die Erwärmung der Erde auf die anthropogene Erhöhung der atmosphärischen CO2-Konzentration zurückzuführen. Anhand eines im Rahmen dieser Arbeit entwickelten Modells werden mögliche Auswirkungen der Erhöhung der atmosphärischen CO2-Konzentration und erwarteter Temperaturerhöhungen auf den Wasserumsatz und das Wachstum von Buchenbeständen untersucht. Die im Modell verwendeten Wetterdaten werden generiert. Zwei Verfahren zur Generierung von Wetterdaten (Wettergenerator WGEN und FOURIER-Reihen) werden gegenübergestellt. Die Biomassen werden basierend auf dem Farquhar Modell (der Stickstoffgehalt in den Blattschichten beeinflußt in der verwendeten Variante VCmax und Jmax) und empirischen Verteilungsfunktionen berechnet. Die Evapotranspiration wird auf Basis eines von JARVIS modifizierten PENMAN-MONTEITH Ansatz berechnet, bei dem der Einfluß der Bestandesrauhigkeit auf den Grenzschichtwiderstand zwischen Bestand und angrenzender Atmosphäre berücksichtigt wird. Für die Darstellung des Bodenwasserhaushaltes wird ein Modell von VANDENBERG verwendet. In einigen Modelläufen wird zum Berechnen des Beginns der Vegetationsperiode ein Modell von KRAMER verwendet. Das Modell errechnet bei erhöhter CO2-Konzentration eine deutlich höhere Biomasse und einen höheren LAI. Die Transpiration sinkt bezogen auf die Biomasse um 14%. Bezogen auf die Grundfläche gibt es kaum eine Änderung. Die Interzeption nimmt deutlich (36%) ab. Die Evaporation von der Bodenoberfläche nimmt um 9% und die Versickerungsrate um 16% zu. Eine konstante Temperaturerhöhung um 2 °C über den Simulationszeitraum von 150 Jahren führt bei Verwendung des Modells von KRAMER nicht zu einer verlängerten Vegetationsperiode. Daher konnten Effekte, die durch eine erhöhten Temperatur erwarteten längeren Vegetationsperiode auftreten, im Modell nicht nachgebildet werden.</dc:description>
+          <dc:date>2002-02-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/295</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2909</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2909</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/295/stille_alfred.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

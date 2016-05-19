@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1590">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1590</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Nonlinear applications of semiconductor optical amplifiers for all-optical networks</dc:title>
+          <dc:title xml:lang="deu">Nichtlineare Anwendungen Halbleiterlaserverstärkern für rein-optische Netzwerke</dc:title>
+          <dc:creator>Marques de Melo, Alessandro</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">In the present work several optical network functionalities based on Semiconductor Optical Amplifiers (SOA) are investigated by means of numerical simulations. An optical network has the function of connecting two or more optical links through a network node. Although in the transmission paths the data flux is all-optical, in the network nodes much of the signal switching/processing has been implemented through electronic circuits whose speed is much lower than the speed of optics. One of the challenges of the present work was to propose novel all-optical network functions to substitute electronic signal processing in order to avoid a bottleneck in the network nodes. In this context, several network functionalities have been proposed and theoretically investigated in the present work. First, a solution for high-speed simultaneous OTDM Add/Drop multiplexing is presented. The proposed setup enables independent optimization of drop and clear ports simultaneously, can work with high aggregate and high base data rates, can be monolithic integrable, possess low polarization dependency and has the potential of low cost and low power consumption. A detailed investigation of a simplified setup for wavelength conversion of optical signals at bit rates varying from 40~Gbit/s to 320~Gbit/s is also carried out. The setup consists of a continuous wave (CW) pulse source, a semiconductor optical amplifier and an optical bandpass filter. Moreover, error-free 40~Gbit/s wavelength conversion operation was demonstrated experimentally. A scheme for all-optical Exclusive-OR (XOR) is proposed and investigated for a bit rate of 160~Gbit/s. The setup consists of a semiconductor optical amplifier placed in both arms of a Mach-Zehnder interferometer (SOA-MZI) and coupled to a delay interferometer (SOA-MZI-DI). With help of the delay interferometer a completed degraded signal could be restored. A setup for the regeneration of Differential Phase-Shift Keying (DPSK)-signals is proposed and analytically analyzed. Theoretical investigations on parametric amplification in semiconductor optical amplifiers are performed. Specially, ultra-long devices (&gt; 2mm) are investigated because of their improved efficiency. First results confirmed the existence of parametric amplification in SOAs which is related to the SOA gain spectrum asymmetry.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit der Untersuchung verschiedener auf Halbleiterlaserverstärkern (SOA) basierenden Netzwerkfunktionalitäten mittels numerischer Simulationen. Die Aufgabe eines optischen Netzwerks besteht darin, zwei oder mehrere optische Übertragungsstrecken durch einen Netzwerkknoten zu verbinden. Obwohl die Übertragungsstrecken rein optisch sind, müssen die Daten in dem Netzwerkknoten elektronisch bearbeitet werden. Da die Schaltzeiten der Elektronik geringer sind als die der Optik, besteht das Problem des so genannten Kapazitätsengpass ("Bottleneck"). Die Aufgabe bei dieser Dissertation bestand aus der Darstellung neuer Netzwerkfunktionalitäten, die auf einer rein optischen Lösung basieren, um einen Kapazitätsengpass in einem Netzwerk zu vermeiden. Die vorliegende Arbeit schlägt in diesem Zusammenhang verschiedene Netzwerkfunktionalitäten vor und unterzieht sie einer theoretischen Untersuchung. Zuerst wurde eine Lösung für hochbitratiges OTDM Add/Drop Multiplexing (ADM) dargestellt. Die vorgeschlagene Anordnung ermöglicht eine unabhängige, simultane Optimierung für "Drop" und "Clear" Ausgänge und kann mit einer Hochbitrate arbeiten. Außerdem ist sie monolithisch integrierbar und weist eine geringe Polarisationsabhängigkeit auf. Eine ausführliche Untersuchung einer vereinfachten Anordnung für Wellenlängeumsetzung optischer Signale mit Bitraten von 40 Gbit/s bis zu 320 Gbit/s wurde durchgeführt. Der Anordnung besteht aus einer CW-Quelle, einem Halbleiterlaserverstärker und einem optischen Bandpassfilter. Darüber hinaus wurde eine fehlerfreie 40 Gbit/s Wellenlängeumsetzung experimentell gezeigt. Der Entwurf eines rein optischen "Exclusive-OR" (XOR) Gatters wurde vorgeschlagen und für eine Bitrate von 160 Gbit/s untersucht. Die Anordnung basiert auf einem Mach-Zehnder Interferometer, in dessen Armen sich je ein SOA befindet (SOA-MZI). Hinter das gesamte SOA-MZI ist ein "delay-Interferometer" (SOA-MZI-DI) geschaltet. Mit Hilfe des Delay-Interferometers konnte ein vollständig degradiertes Signal wiederhergestellt werden. Eine Anordnung für die Regeneration der "Differential Phase-Shift Keying (DPSK)-" Signale wurde vorgeschlagen und analytisch untersucht. Theoretische Untersuchungen parametrischer Verstärkung in Halbleiter-Laserverstärkern wurden durchgeführt. Aufgrund ihrer verbesserten Effizienz wurden hierbei insbesondere ultralange SOAs (&gt; 2 mm) untersucht. Die Ergebnisse beweisen die Existenz von parametrischer Verstärkung in SOAs, welche durch die SOA Gewinnspektrumasymmetrie entstehen.</dc:description>
+          <dc:date>2007-09-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1590</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16532</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16532</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1590/original_Marques_de_Melo_Alessandro.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1590/marquesdemelo_alessandro.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

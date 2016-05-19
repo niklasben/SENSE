@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:618">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:618</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Applications of Subdivision Techniques in Product Development</dc:title>
+          <dc:title xml:lang="deu">Anwendungen von Subdivisiontechniken in der Produktentwicklung</dc:title>
+          <dc:creator>Gross, Nele</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die digitale Darstellung von Flächen in glatter, parametrischer Form ist im Maschinenbau von zentraler Bedeutung. Um ein Objekt mit Unterstützung des Computers zu fertigen, ist es notwendig, eine digitale Darstellung dieses Objekts zu finden. Dabei hat sich die Darstellung als Freiformfläche als besonders umfassend herausgestellt. Mathematische Grundlage für solche Darstellungen sind nach Stand der Technik Non-Uniform Rational B-Splines (NURBS). Diese basieren auf einem viereckigen Gitternetz und können beliebige Topologien nicht problemlos wiedergeben. Subdivisionflächen wurden als Verallgemeinerung der B-Splines auf allgemeine Topologien entwickelt und haben sich in der Computergraphik weitgehend durchgesetzt. Im Ingenieurbereich wurden sie aus den folgenden Gründen erst zögerlich eingesetzt: Um eine reibungslose Kommunikation zwischen verschiedenen Systemen zu gewährleisten, müssen die Daten beim Datenaustausch in standardisierter Form vorliegen. Subdivisionflächen sind aber in diesen standardisierten Datenaustauschformaten nicht enthalten. Weiterhin erfüllen sie die Genauigkeitsanforderungen, die im Ingenieurbereich höher sind als in der Computergraphik, bisher nicht. Einerseits neigen sie an speziellen Punkten zur Wellenbildung, andererseits approximieren häufig verwendete Subdivisionalgorithmen, wie der Catmull-Clark Algorithmus, die Eingabenetze nur. Um diese Hindernisse zu überwinden, wird in der vorliegenden Arbeit der sogenannte Faired Interpolating NURBS (FIN) Algorithmus vorgeschlagen. Er beruht auf einem Subdivisionalgorithmus und interpoliert sehr effizient Oberflächennetze mit geglätteten NURBS-Flächen beliebiger Topologie. Die Stärken des Algorithmus werden an Beispielen aus der Flächenrückführung, dem Industriedesign und der Fertigung durch NC-Fräsen aufgezeigt. Im Gegensatz zu vergleichbaren Verfahren, die nicht auf Subdivisionmethoden beruhen, ist der Algorithmus erheblich effizienter. Aufgrund des allgemeineren topologischen Ansatzes entstehen keine Lücken in der Flächendarstellung und die Parameterlinien gehen überall stetig ineinander über. Weiterhin sind die Flächen fast global krümmungsstetig. Es wird somit nachgewiesen, dass Subdivisiontechniken in der Produktentwicklung erfolgreich eingesetzt werden können und erhebliche Vorteile gegenüber anderen Methoden der Flächenberechnung haben.</dc:description>
+          <dc:description xml:lang="eng">The representation of surfaces in smooth, parametric form is of central importance in mechanical engineering. In order to machine a shape using a computer, it is necessary to produce a computer-compatible description of that shape. Subdivision techniques are a surface representation that generalizes B-splines to arbitrary topology. Due to their strong geometric properties, they enjoy growing popularity in computer graphics. Their application in engineering has been much more hesitant because of the following reasons: Subdivision surfaces tend to have oscillations around extraordinary vertices and thus dont obtain a measure of surface fairness demanded in e.g. automotive design. Subdivision techniques are not compatible with standards of data exchange, like IGES or STEP. Furthermore, approximating algorithms like the commonly used Catmull-Clark algorithm shrink in relationship to the input mesh. On the other hand, subdivision algorithms have obvious advantages over spline representation also in the engineering area, as they can calculate arbitrary topological surfaces in a single calculation step. E.g. they can eliminate problems with gaps between patch boundaries and discontinuous parameter lines inherent to spline representation. This thesis tries to address these problems. A new algorithm based on subdivision techniques has been developed that efficiently interpolates a quadrilateral mesh of arbitrary topology with almost globally curvature continuous fair NURBS surfaces. The algorithm is called FIN ( = faired interpolating NURBS) algorithm. The output NURBS surfaces can be exported to commercial CAD systems in standards of data exchange, like IGES or STEP. All tested models could be converted on a standard Pentium IV 450 MHz PC in a few minutes. A preliminary example has been manufactured by NC-milling. The output surfaces are highly suited for NC-milling as they are watertight, almost globally curvature continuous and the parameter lines join smoothly over patch boundaries. To apply the algorithm also to triangular meshes, a pre-processing step has been developed. This flat-area detection step discovers flat areas of the triangular mesh and interpolates it with curvature-dependent quadrilaterals. The quadrilaterals will later serve as boundaries for the NURBS patches. The advantages of the developed algorithm are demonstrated on examples from reverse engineering, design and manufacturing.</dc:description>
+          <dc:date>2004-05-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/618</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6123</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6123</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/618/gross_nele.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:209">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:209</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Computergestützter Entwurf Nichtlinearer Transmissionsleitungen zur Erzeugung elektrischer Transienten im Picosekunden-Bereich</dc:title>
+          <dc:title xml:lang="eng">Computer Aided Design of Nonlinear Transmission Lines for Generation of Electrical Transients in the Picosecond-Domain</dc:title>
+          <dc:creator>Langer, Thomas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit behandelt Nichtlineare Transmissionsleitungen (NLTLs) und deren Anwendungen. Ein genaues NLTL-Modell wird entwickelt und eine Methode zur Parameterextraktion wird vorgestellt. Die auf dieser Basis entworfenen NLTLs wurden als GaAs MMICs mit koplanaren Leitungsstrukturen realisiert. Eine besonders niederohmige Diodenkontaktierung wird dabei durch eine vergrabene leitfähige Schicht erreicht. Die Messungen der hergestellten NLTLs ergeben bei den schnellsten Transienten Abfallzeiten von 6,7 ps. Die dazu benötigte hohe Meßbandbreite erfordert elektro-optische Samplingmessungen oder integrierte Samplingschaltungen. Die Ergebnisse zeigen eine sehr gute Übereinstimmung zwischen zuvor simulierten Kurvenformen und den gemessenen Verläufen. Wichtigste Anwendung der NLTL ist die Samplingschaltung. Gemeinsam mit NLTLs wurden deshalb Samplingschaltungen als MMICs aufgebaut. Sie ermöglichen Messungen von Spannungstransienten mit Harmonischen bis 140 GHz. Außerdem bildet diese Anordnung den Schlüsselbaustein für Netzwerkanalysator-MMICs. Die Beschreibung einer integrierten Netzwerkanalysator-Schaltung mit NLTLs und Samplingschaltungen bildet den Abschluss der Arbeit.</dc:description>
+          <dc:description xml:lang="eng">This thesis deals with Nonlinear Transmission Lines (NLTLs) and their applications. A precise NLTL-model is developed and a method to extract the model parameters is presented. NLTLs developed on this basis were realized as GaAs MMICs with coplanar waveguides. A very low diode series resistance is achieved with a buried conductive layer. Measurements of the produced NLTLs show fall times of 6.7 ps for the fastest transients. The necessary large measurement bandwidth requires electro-optical sampling measurements or integrated sampling circuits. The results show a very good conformity between simulated waveforms and measurements. The most important NLTL application is the sampling circuit. Sampling circuits were built together with NLTLs as MMICs. They allow measurements of voltage transients with harmonics up to 140 GHz. Furthermore, this arrangement is the key element for network analyzer MMICs. The description of an integrated network analyzer circuit with NLTLs and sampling circuits is given.</dc:description>
+          <dc:date>2001-09-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/209</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2042</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2042</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/209/langer_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

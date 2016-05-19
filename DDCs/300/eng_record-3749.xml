@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3749">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3749</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:300</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Energy Consumption Behavior and Attitudes towards Climate Change in Hashtgerd New Town</dc:title>
+          <dc:creator>Schröder, Sabine</dc:creator>
+          <dc:creator>Schmithals, Jenny</dc:creator>
+          <dc:creator>Poor-Rahim, Nadia</dc:creator>
+          <dc:creator>Kannegießer, Merten</dc:creator>
+          <dc:subject>ddc:300</dc:subject>
+          <dc:description xml:lang="eng">This study was prepared in the framework of the sub-project "Awareness Raising" of the Iranian-German research project "Young Cities – Developing Urban Energy Efficiency in the Tehran-Karaj Region", which is funded under the program "Future Megacities" by the Federal Ministry for Education and Research (BMBF), and focuses on the energy efficient development of New Towns in Iran, with emphasis on the New Town Hashtgerd. Since a considerable amount of worldwide greenhouse gas emissions is currently produced in cities, the consequences of climate change can only be reduced by significantly and sustainably changing the way we build, move and live in our cities. The aims of the sub-project "Awareness Raising" are to survey the attitudes of citizens in regard to environmental issues, climate change and energy consumption patterns, in order to develop awareness-raising measures for environmental and climate change issues and to sensitize the population of the New Town Hashtgerd to climate change, sustainable energy consumption and energy-efficient building. Furthermore, the aim is to obtain insight into the needs and suggestions of Hashtgerd residents and incorporate them into the work of the project. Therefore, an exploratory qualitative survey of citizens of the New Town Hashtgerd on energy consumption in the household and transport sector, and on information about and attitudes towards climate change was carried out. The survey was also used to find out more about the structural condition of the apartments and buildings and about needs and suggestions of the residents regarding traffic and transport and other infrastructure in Hashtgerd.</dc:description>
+          <dc:contributor>Sponsored by German Federal Ministry of Education and Research (BMBF)</dc:contributor>
+          <dc:date>2013-06-06</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3749</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39623</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39623</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3749/9783798325364_content_u_cover.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

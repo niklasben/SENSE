@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4566">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4566</identifier>
+        <datestamp>2014-01-31</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Stabilitätsverhalten und Anwendungen der transienten Randelementmethode in der Akustik</dc:title>
+          <dc:title xml:lang="eng">Stability behaviour and application of the transient boundary element method in acoustics</dc:title>
+          <dc:creator>Stütz, Michael</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Für die Simulation transienter Abstrahl- und auch Streuphänomene im Außenraum ist die Zeitbereichs-Randelementemethode (TD-BEM) eine erfolgversprechende Methode. Aufgrund der bekannten Stabilitätsprobleme ist die Methode jedoch wenig verbreitet. Die Instabilität wird durch die Innenraumresonanzen der Struktur erzeugt, was numerisch nachgewiesen werden konnte. Die Stärke des Einflusses der Innenraumresonanzen auf den Außenraum hängt stark vom Parameter beta ab, welcher das Verhältnis von Zeitschrittgröße dt und Kantenlänge der Oberflächenelemente h beschreibt. Während für beta&lt;0,8 generell instabile Ergebnisse zu erwarten sind, tritt für beta&gt;0,8 eine Instabilität nur auf, wenn die Abtastfrequenz fs=1/dt mit einer Innenraumresonanz zusammenfällt. Auch bei der Frequenzbereichs-Randelementemethode sind die Innenraumresonanzen problematisch, da in diesen Frequenzen die Integralgleichungen keine eindeutige Lösung haben (Non-uniqueness Problem). Die CHIEF-Methode (combined Helmholtz integral equation formulation) von Schenk ist ein bekannter Lösungsansatz, bei dem zusätzlich zu den Kollokationspunkten sogenannte CHIEF-Punkte in dem Innenraum platziert werden, in denen der Schalldruck Null gesetzt wird. Dieser Ansatz kann auch im Zeitbereich angewendet werden. Allerdings kommt es bei der üblichen schrittweisen Berechnung des Schalldrucks zu keiner Stabilisierung der Simulationsergebnisse. Bei der Lösung des Schalldruckverlaufes in einem Schritt konnte in allen betrachteten Fällen eine Stabilisierung erreicht werden. Bei der numerisch weniger aufwendigen schrittweisen Berechnung geht die Zeitabhängigkeit des Einflusses der CHIEF-Punkte verloren, so dass die CHIEF-Methode dort nicht die gewünschte Wirkung zeigt. Bei der Lösung von Innenraumproblemen weist die TD-BEM ein anderes Instabilitätsverhalten auf. Mit Anregung der sogenannten Pneumatischen Mode, welche den Ruheschalldruck des Innenraums beschreibt, kommt es zu einem linearen Anstieg des Schalldrucks. Dies kann durch eine vorherige Filterung der Randbedingungen mit einem Hochpassfilter verhindert werden.</dc:description>
+          <dc:description xml:lang="eng">For the simulation of transient radiation and scattering phenomena in the exterior the time domain boundary element method (TD-BEM) is a promising method. However, due to the known stability problems, the method is not being widely used. Numerical evidence shows that this unstable behavior is caused by the internal resonances of the structure. The internal resonances of the structure affect the exterior sound field, which may lead to inaccurate results or even unstable behaviour. The magnitude of the influence depends on beta, which describes the ratio of time step size dt and element size h. While for beta &lt; 0.8 results are generally unstable, for beta&gt; 0.8 an instability only occurs when the sampling frequency fs  = 1/dt coincides with an internal resonance. The frequency domain boundary element method also has to address the problematic internal resonances because in these frequencies the integral equations have no unique solution (non-uniqueness problem). The CHIEF method (combined Helmholtz integral equation formulation) by Schenk is a known approach that places additional points, the so-called CHIEF points, in the interior of the structure. The use of the CHIEF method in the time domain does not show the desired results if, as usual, the solution is computed stepwise in time. But applying the method to the non-iterative solution shows a significant reduction of the internal resonances and their influence on the exterior sound field. In the numerically less complex stepwise calculation, the time dependence of the CHIEF points is lost and the CHIEF method does not show the stabilising effect. For interior problems the TD-BEM shows a different instability behavior. The excitation of the so-called pneumatic mode, which presents the equilibrium sound pressure of the interior, causes a linear increase of the sound pressure. This can be avoided by a prior filtering of the boundary conditions with a high pass filter.</dc:description>
+          <dc:date>2013-12-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4566</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-45669</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-45669</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4566/Stuetz_Michael_pdfa.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

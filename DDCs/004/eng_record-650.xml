@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:650">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:650</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Time Partition Testing : systematischer Test des kontinuierlichen Verhaltens von eingebetteten Systemen</dc:title>
+          <dc:title xml:lang="eng">Time Partition Testing</dc:title>
+          <dc:creator>Lehmann, Eckard</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Eingebettete Systeme beeinflussen die reale Umgebung und kommunizieren mit dieser Umgebung in der Regel über zeit- und/oder wertekontinuierliche Größen. Für diese Systemklasse gibt es gegenwärtig keinerlei spezialisierte, systematische Testverfahren, die einen gründlichen und effizienten Funktionstest des kontinuierlichen Verhaltens unterstützen. Der wachsenden Bedeutung und Komplexität eingebetteter Systeme muss jedoch auch beim Test Rechnung getragen werden. Die vorliegende Dissertation liefert einen Beitrag zur Fehlerreduktion in komplexen eingebetteten softwarebasierten Systemen in Form eines neu entwickelten, systematischen Testverfahrens, das als Time Partition Testing (kurz: TPT) bezeichnet wird. Bei der Entwicklung des Time Partition Testing wurde insbesondere auf zwei Faktoren besonderer Wert gelegt: Zum einen unterstützt TPT für ein gegebenes, zu testendes System eine systematische Vorgehensweise für die Ermittlung von Testfällen, bei der der Fokus der Testmodellierung auf der Gesamtmenge aller relevanten Testfälle liegt (im Gegensatz zur individuellen Betrachtung einzelner Testfälle). Hierzu trägt auch die grafische Testmodellierungstechnik von TPT -- eine spezielle Form parametrisierter hybrider Automaten -- unterstützend bei. Durch diese Vorgehensweise können sowohl Redundanzen in Testfällen als auch fehlende Testfälle für testrelevante Situationen deutlich leichter erkannt und damit auch vermieden werden. Zum anderen wurde bei der Entwicklung des Time Partition Testing darauf Wert gelegt, dass eine Durchgängigkeit von der Testmodellierung über die Testdurchführung bis hin zur Testauswertung gewährleistet wird. Um dieses Ziel zu erreichen, hat die Testmodellierungssprache von TPT eine wohldefinierte ausführbare Semantik, so dass systematisch ermittelte Testfälle ohne weiteres automatisiert durchgeführt werden können. Automatisierung und Toolunterstützung vereinfachen den Testprozess und fördern damit auch die Akzeptanz des Verfahrens in der Praxis. In realen Softwareentwicklungsprojekten fordert das Testen häufig einen hohen Anteil -- meist mehr als 50% -- des Projekt-Budgets. Durch die beiden oben genannten Faktoren ermöglicht es das Time Partition Testing beim Test des kontinuierlichen Verhaltens eingebetteter Systeme mit den zur Verfügung stehenden Testressourcen deutlich effektiver (durch Fokussierung auf die wirklich relevanten Testfälle bei der Testfallermittlung) und effizienter (durch Testautomatisierung) zu testen. Das Time Partition Testing ist bereits in einer Reihe größerer industrieller Entwicklungsprojekte im Automobilbereich erfolgreich im praktischen Einsatz.</dc:description>
+          <dc:description xml:lang="eng">Embedded systems influence the real environment and, as a rule, communicate with this environment via time-continuous and/or value-continuous variables. At present, there are no specialized, systematic test procedures to support thorough and efficient functional testing of continuous behavior for this system class. When testing embedded systems, however, their growing importance and complexity must be taken into account. This thesis provides a contribution to error reduction in complex, embedded, software-based systems in the form of a newly developed, systematic test procedure called Time Partition Testing (TPT). During the development of the Time Partition Testing particular importance was attached to two factors: Firstly, TPT supports a systematic procedure for determining test cases for a given system which is to be tested. In doing so, test modeling focuses on the total quantity of all relevant test cases (in contrast to the individual consideration of single test cases). This is supported by TPT's test modeling technique - a special form of parametrized hybrid systems. This procedure noticeably increases the ease with which redundancies in test cases and also a lack of test cases for relevant situations can be identified and thus avoided. Secondly, whilst developing Time Partition Testing, importance was attached to attaining a consistent and seamless process from test modeling through test execution to test evaluation. In order to achieve this, TPT's test modeling language has well-defined, executable semantics, so that systematically determined test cases can easily be executed automatically. Automation and tool support simplify the test process and thus promote the acceptance of the procedure in practice. In real software development projects, testing accounts for a high proportion -- usually more than 50% -- of the project budget. The two above-mentioned factors allow TPT to test the continuous behavior of embedded systems, with the test resources available, noticeably more effectively (by focusing on those test cases which are really relevant during test case determination) and more efficiently (due to test automation). Time Partition Testing is already being used successfully in a number of major development projects in the motor-vehicle industry.</dc:description>
+          <dc:date>2004-02-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/650</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6448</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6448</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/650/lehmann_eckard.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

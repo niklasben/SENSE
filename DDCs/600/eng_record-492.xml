@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:492">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:492</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Fehlerdiagnose in der Ultraschallprüfung durch iterative Modellierung</dc:title>
+          <dc:title xml:lang="eng">Flaw diagnosis in ultrasonic testing by iterative modeling</dc:title>
+          <dc:creator>Tscharntke, Dirk</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Ein Ziel der Arbeit bestand ursprünglich darin, ein Rechenmodell zur Ultraschallprüfung mit einer Evolutionsstrategie zu verknüpfen. Zunächst verlagerte sich der Schwerpunkt der Arbeit jedoch auf die Erarbeitung eines validierten und erprobten Modells, das den Anforderungen für die Verwendung der Evolutionsstrategie genügt. Aber selbst damit zeigte sich, dass ein Arbeiten mit der Evolutionsstrategie nicht ohne weiteres möglich ist. Daher wurde der Weg der iterativen Modellierung gewählt. Die Einschränkungen der verschiedenen Bewertungs- und Untersuchungsverfahren zur Fehlerdiagnose in der Ultraschallprüfung lassen in Abhängigkeit von der Prüfsituation nur eine fallweise Anwendung zu. Die erzielbaren Ergebnisse sind durch prinzipielle Grenzen, wie die orientierungsabhängigen Wechselwirkungen der Ultraschallwellen mit dem Fehler, in ihrer Genauigkeit stark begrenzt. Eine zuverlässige Bewertung ist meist durch die Zusammenfassung der Ergebnisse mit denen aus anderen ZfP- Verfahren und die Nutzung von a priori Informationen z. B. aus der Fertigungsgeschichte einer Komponente oder des Fehlerentstehungsmechanismus möglich. Die vorgeschlagene iterative Modellierung bietet dazu, wie die vorliegende Untersuchung zeigt, eine Möglichkeit. Die durch Einführung von a priori Informationen aufgestellten Fehlerhypothesen werden durch Modellrechnungen abgesichert oder wieder verworfen. Das Rechenmodell ermöglicht die Bewertung der Amplitude, der Laufzeit, der Echodynamik und des Anzeigenmusters, also aller auch bei anderen Diagnoseverfahren herangezogenen Bewertungskriterien. Die iterative Modellierung basiert auf drei Teilprozessen, der Analyse der möglichen Wechselwirkungen, der Separation dieser Wechselwirkungen in diverse Schallwege und schließlich der Synthese der auf den verschiedenen Wegen berechneten Signale zum Gesamtsignal. Die ersten beiden Teilprozesse müssen z. Zt. für jeden Prüffall neu gelöst werden und erfordern wie die Modellbedienung Expertenwissen. Die im Rahmen dieser Untersuchung erfolgten Modellmodifikationen konnten gemeinsam mit der Modellverifikation die Zuverlässigkeit der Modellrechnungen deutlich steigern. Die Berechnungen können schnell und interaktiv durchgeführt werden. Die Rechenzeit für ein TD- Bild mit 50 A- Bildern beträgt üblicherweise ein bis fünf Minuten. Durch die Kombination des Rechenmodells mit der Evolutionsstrategie wurde der Versuch unternommen, die iterative Modellierung zu systematisieren. Diese Kombination würde die Lösung des inversen Problems, d.h. die Bestimmung der Ursache für die akustische Störung, ohne Durchführung einer mathematischen Inversion ermöglichen. Der Anwendung der Evolutionsstrategie mit der hier gewählten einfachen Qualitätsfunktion steht ein hoher Zeitbedarf entgegen, ein schnelles und interaktives Arbeiten ist nicht möglich. Die Praxis erfordert die Definition einer komplexen Qualitätsfunktion, die eine Bewertung des Anzeigenmusters ermöglicht und unempfindlich auf Störeffekte reagiert. Die besondere Schwierigkeit besteht darin die Erfahrungen und die "Phantasie" eines Experten in das Modell zu integrieren. Dieser Umstand beinhaltet noch ein großes Entwicklungspotenzial. Ein gegenwärtiger Einsatz der Evolutionsstrategie erscheint daher verfrüht. Inwieweit Probleme mit in den Messdaten enthaltenen Mehrdeutigkeiten und Störanzeigen von Testblockkanten und anderen Reflektoren zukünftig überwunden werden können, kann gegenwärtig noch nicht abschließend geklärt werden. Eine zuverlässige Bewertung von kritischen Befunden mit mehreren möglichen Ursachen kann derzeit nur mit Expertenwissen über den Weg der iterativen Modellierung erfolgen. Dies ermöglicht auf einfache Weise die Einführung der a priori Informationen und gestattet ein schnelles und interaktives Arbeiten.</dc:description>
+          <dc:date>2002-04-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/492</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4873</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4873</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/492/tscharntke_dirk.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

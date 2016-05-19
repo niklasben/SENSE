@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:480">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:480</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Experimentelle Untersuchungen zum Stabilitätsverhalten ebener Diffusoren im Unterschall</dc:title>
+          <dc:creator>Kühle, Ralph</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand der vorliegenden Untersuchungen ist das Stabilitätsverhalten der abgelösten Strömung in ebenen Diffusoren im Unterschall. Diffusoren spielen heutzutage eine große Rolle sowohl in verfahrenstechnischen Anlagen, als auch in Turbomaschinen. Sie dienen dazu, die dem System zugeführte kinetische Energie möglichst verlustfrei in Druckenergie umzuwandeln. Im Vordergrund der Untersuchungen stand der Einfluß der dem Diffusor nachgeschalteter Elemente, da Diffusoren fast immer in einem komplexen Strömungssystem eingesetzt werden und dabei einen entscheidenden Einfluß auf die Gesamtgüte des Systems besitzen. Die Untersuchungen zeigten eine deutliche Abhängigkeit der Strömungs- bzw. Ablösecharakteristik sowohl von den Eintrittsrandbedingungen (Reynolds-/Machzahl) als auch von den Austrittsrandbedingungen, d.h. von der Geometrie der Anschlußelemente stromab des Diffusors. Dabei erwies sich die Austrittsbedingung als die dominierende Einflußgröße in Bezug auf das Ablöseverhalten des Diffusors. Auftretende Instabilitäten zeigten sich dabei in erster Linie abhängig von der Charakteristik der Ablösung im Diffusor, die wiederum von der Austrittsrandbedingung bestimmt wurde. Sie konnten grob in zwei Formen unterteilt werden, ein Wechsel der Ablösung von einer großräumigen Rückströmung in kleinere, lokale Ablösegebiete sowie die spontane, räumliche Verlagerung der großräumigen Rückströmung innerhalb des Diffusors. Ein Einfluß auf das Gesamtsystem durch eine Änderung des Drosselzustandes konnte nur bei einem Wechsel der Ablösecharakteristik beobachtet werden, eine räumliche Verlagerung innerhalb des Diffusors zeigte dahingegen keinerlei Rückwirkungen auf das Gesamtsystem. Die experimentellen Untersuchungen wurden mit stationärer und instationärer Meßtechnik sowie mit Hilfe von Visualisierungen durchgeführt. Zu deren beschleunigter Verarbeitung wurde aus den Ergebnissen der stationären und instationären Drucksignale und deren Korrelation mit den Visualisierungen eine spezielle Auswertemethode zur Beurteilung der auftretenden Strömungszustände entwickelt. Sie erlaubte es wesentliche Charakteristiken der Strömung wiederzugeben, die Datenmenge dabei aber deutlich zu reduzieren. Anhand der so gewonnenen Häufigkeitsverteilung konnten sowohl Aussagen über die Strömungscharakteristik als auch vergleichende Aussagen über die Schwankungsgröße der Strömung gemacht werden. So konnten die einzelnen Darstellungen der instationären Drucksignale, die Auswertung der Schwankungsgröße und der Visualisierung zusammengefaßt und somit deutlich vereinfacht werden.</dc:description>
+          <dc:description xml:lang="eng">The current investigations deal with the stability behaviour of separated flow in plane diffusers in the subsonic region. Nowadays diffusers play an important part both in process engineering facilities and in turbomachinery. They are used to transform kinetic energy of the system into pressure energy, keeping any losses of energy to a minimum. Research focused on the influence of the components downstream of the diffuser, since diffusers are nearly always used in complex flow systems, where they have a substantial influence on the overall quality of the system. The investigations showed a distinct dependence of the flow and separation characteristics, both on the inlet boundary conditions (Reynolds-/Mach-number) and the outlet boundary conditions, i.e. on the geometry of the components downstream of the diffuser. Here, the outlet boundary condition proved to be the dominant influence in respect of the diffuser's separation behaviour. An instabilities proved to be primarily dependant on the separation characteristics in the diffuser, which were in turn determined by the outlet boundary condition. They could be roughly subdivided into two types. One of them showed a change in separation from a large-scale reverse flow to smaller local separation regions and the other one a spontaneous spatial shift of the large-scale reverse flow within the diffuser. Any influence on the overall system caused by a change in the blockage was observed only in the former separation type, whereas a spatial shift within the diffuser had no effect whatsoever on the overall system. The experimental investigations were carried out using steady and unsteady measurement techniques as well as visualisation methods. A special method was developed to assess the prevailing flow conditions. This method is based on data reduction of the steady and unsteady pressure signals and their correlation with the visualisations. This produced the identification of typical flow characteristics whilst significantly reducing the data quantity. The evaluated probability density allowed both, conclusions on the flow characteristics and comparisons of the fluctuation values of the flow. Consequently, the individual representations of the unsteady pressure signals, the evaluation of the fluctuation value and the visualisation could be summarised and hence noticeably simplified.</dc:description>
+          <dc:date>2002-11-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/480</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4753</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4753</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/480/kuehle_ralph.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

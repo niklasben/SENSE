@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1269">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1269</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Herstellung und Charakterisierung der Schichtgittersulfide MoS2 und WS2 für photovoltaische Anwendungen</dc:title>
+          <dc:title xml:lang="eng">Preparation and characterization of layered dichalcogenides MoS2 and WS2 for photovoltaic applications</dc:title>
+          <dc:creator>Seeger, Stefan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die halbleitenden Schichtgittersulfide MS2 (M=Mo, W) mit direkten Bandlücken Eg=1,8 eV und hohen Absorptionskoeffizienten (105cm-1 (2 eV)) sind als Absorbermaterialien in Dünnschichtsolarzellen interessant. Die van-der-Waals (vdW)-Oberfläche in diesen Schichtgitterhalbleitern (parallel zur Basalebene) zeichnet sich durch geringe Konzentrationen an Oberflächenzuständen aus und bildet damit eine ideale Voraussetzung zur Bildung von elektronisch hochwertigen Grenzflächen in p-n-Heteroübergängen. Für polykristalline WSx-Schichten leitet sich daraus die Forderung ab, dass das Wachstum von großen Kristalliten mit der vdW-Oberfläche parallel zum Substrat ((001)-Textur) von Vorteil ist. In dieser Arbeit wurde die Anwendbarkeit des reaktiven Magnetronsputterns zur Herstellung von (001)-texturierten polykristallinen WSx-Schichten untersucht. Hierfür wurde eine Magnetronsputterquelle mit einem Wolframtarget und eine Gasmischung aus Argon und H2S verwendet. Die strukturellen, elektrischen und optischen Eigenschaften der gesputterten WSx-Schichten wurden in Abhängigkeit von den Prozessparametern studiert. In situ energiedispersive Röntgenbeugung (EDXRD) an der Synchrotronstrahlungsquelle im HASYLAB in Hamburg (DESY) wurde benutzt, um das Wachstum der WSx-Schichten während des Sputterprozesses zu untersuchen. Diese Untersuchungen haben ergeben, dass WSx-Schichten bei hoher Substrattemperatur (Ts=620°C), hohem Totalgasdruck (p &lt; 1 Pa) und hoher Plasmaanregungsfrequenz (27,12 MHz) in einer (001)-Textur auf oxidierten Silizium und Quarzglas wachsen. Bei diesen Prozessparametern ist der Beschuss der wachsenden Schicht mit energetischen Ionen während des Magnetronsputterns reduziert. Obwohl sich diese Schichten durch gute strukturelle Eigenschaften auszeichnen, ergaben die elektrischen und optischen Charakterisierungen, dass die photo-elektrische Qualität für eine Anwendung als Absorbermaterial noch nicht ausreichend ist. In diesem Material führt schon der Beschuss mit niederenergetischen Ionen (Energie kleiner als 50 eV) während des Magnetronsputterns zu einem gestörten Schichtwachstum. Als Ursache werden hierfür die schwachen van-der-Waals-Wechselwirkungen zwischen den Schwefelatomen benachbarter (S-W-S)-Ebenen gesehen.</dc:description>
+          <dc:description xml:lang="eng">The layered semiconducting dichalcogenides MS2 (M=Mo,W) with band gaps of about Eg1.8 eV and high absorption coefficients (105cm-1 (2 eV)) are of interest as absorber materials in solar energy conversion devices. The van der Waals (vdW) surface of the layered semiconductors (parallel to basal plane) are ideal for forming p-n heterojunctions because of the absence of inherent surface states arising from unsaturated bonds. Due to high levels of recombination at the edge planes ((100)-texture) it is required to produce polycrystalline films with large grains with their basal plane orientation parallel to the substrate ((001)-texture). In this work the suitability of reactive magnetron sputtering for preparing (001)-textured polycrystalline WSx films were explored. Commercial magnetron sputtering sources with tungsten targets in a mixture of argon and H2S were used. These films were investigated with respect to the change in film structure, chemical composition and optical and electrical properties in dependence of the sputtering conditions. In situ energy dispersive X-ray diffraction (EDXRD) at the synchrotron radiation source HASYLAB in Hamburg (Germany) was used to study the growth of the reactively sputtered films. It is shown that the films with a (001)-texture were grown at high temperatures (Ts=620°C), high sputtering pressures (p &lt; 1Pa) and high plasma excitation frequency (27.12 MHz) on oxidized silicon or quartz glass. These conditions correspond to a low energetic particle bombardment of the growing films. In spite of the high crystallographic quality these WSx films exhibit a significant sulphur (x=1.85) deficit, a high defect density and impurity incorporation up to 3 atomic percent, which render these films unsuitable for photovoltaic applications. In conclusion it is shown that a quite low energy of ions (lesser than 50 eV) impinging the films is sufficient to disturb the growth of the WSx films during the deposition by magnetron sputtering, which is due to the weak bonding in this material.</dc:description>
+          <dc:date>2006-05-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1269</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12952</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12952</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1269/seeger_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

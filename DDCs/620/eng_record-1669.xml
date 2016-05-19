@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1669">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1669</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zu Druckentlastungsvorgängen nicht-schäumender, schäumender sowie reaktiver dreiphasiger Systeme</dc:title>
+          <dc:title xml:lang="eng">Investigations of pressure relief scenarios of non-foaming, foaming as well as reactive three-phase systems</dc:title>
+          <dc:creator>Poli, Marco</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Druckbehälter bzw. Reaktoren müssen gegen eine Überschreitung des zulässigen Behälterdruckes mit Hilfe von Druckentlastungsarmaturen geschützt werden, um auch bei Betriebsstörungen den mechanischen, chemischen und thermischen Beanspruchungen sicher zu genügen. Derzeitige Auslegungsmethoden gelten jedoch nur für ein- oder zweiphasige Druckentlastungssysteme. Bei zusätzlichem Vorhandensein eines Feststoffs ist ein dreiphasiges Abströmen möglich, wobei die geringen Kenntnisse über die fluid- und thermodynamischen Vorgänge im Behälter die Notwendigkeit weitergehender Untersuchungen begründen. In der vorliegenden Arbeit werden daher systematisch die Druckentlastungsvorgänge von nicht-schäumenden, schäumenden sowie reaktiven dreiphasigen Systemen in Abhängigkeit von den Feststoffeigenschaften beschrieben. Im Labormaßstab konnte festgestellt werden, dass sich nicht-schäumende dreiphasige Systeme weitestgehend auf zweiphasige Systeme reduzieren lassen. Bei schäumenden dreiphasigen Systemen ist hingegen das Entlastungsverhalten stark vom Partikeldurchmesser, von der Oberflächenspannung, von der Art und Konzentration des Tensids sowie von der eingetragenen Rührerleistung abhängig. Zudem ist bei charakteristischem Aufwallverhalten mit einem deutlich langsameren Druckabbau und mit einem höheren Massenaustrag zu rechnen. Ferner wurde die Anwendbarkeit bestehender ein- und zweiphasiger Druckentlastungsmodelle auf dreiphasige Systeme mit Hilfe der Simulationsumgebungen SAFIRE/Vent (TU-HH) und gProms® geprüft. Durch die neuen Erkenntnisse aus dieser Arbeit lassen sich Notenspannungseinrichtungen anhand der abgeleiteten Auslegungsempfehlungen genauer berechnen und das dreiphasige Entlastungsverhalten im Prozess genauer vorhersagen. Zudem konnten neue Ansätze zur Modellierung des Feststoffaustrags abgeleitet werden, die für zukünftige Forschungsarbeiten bei der Entwicklung von Modellen zur Beschreibung von heterogenen reaktiven Gemischen mit dreiphasigem Aufwallen und Abströmen dienen. Gedruckte Version erschienen: ISBN 978-3639052473 im Vdm Verlag Dr. Müller</dc:description>
+          <dc:description xml:lang="eng">Pressure vessels and/or reactors have to stand the mechanical, chemical and thermal stresses safely for the intended mode of operation. During operational upset conditions, these can be protected against excessive pressures by pressure relief devices. However, current design methods are applicable only to one- or two-phase pressure relief systems. But in the presence of solids, a three-phase discharge is possible. The lack of knowledge on the fluid- and thermodynamic behaviour in the reactor under these conditions justifies the investigations presented here. The pressure relief behaviour of non-foaming, foaming as well as reactive three-phase systems has been studied systematically by taking the solid properties into account. Experimental results have shown that on bench scale non-foaming three-phase systems behave like two-phase systems. However, the pressure relief of foaming three-phase systems differs and depends on surface tension, type and concentration of surfactant, particle diameter as well as the stirrer speed. The pressure drop in the reactor is significantly slower and the mass discharge is higher due to the typical level swell. Furthermore with the help of the simulation tools SAFIRE/Vent (TU-HH) and gProms® the applicability of two-phase pressure relief models has been tested for three-phase systems. Results of this work contribute significantly to a better design of pressure relief devices and help to make a more precise prediction of three-phase pressure relief behaviour. Moreover, the new approach can be applied for the modelling of solids discharge. It serves as a basis for future research work to develop a model for heterogeneous reactive mixtures with three-phase pressure relief. Printed version available: ISBN 978-3639052473 Vdm Verlag Dr. Müller</dc:description>
+          <dc:date>2008-01-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1669</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17549</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17549</dc:identifier>
+          <dc:identifier>9783639052473</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1669/poli_marco.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

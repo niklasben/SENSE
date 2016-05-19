@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3319">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3319</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">GaN Based HEMTs for High Voltage Operation. Design, Technology and Characterization</dc:title>
+          <dc:title xml:lang="deu">GaN-HEMTs für Hochspannungsanwendungen. Design, Technologie und Charakterisierung </dc:title>
+          <dc:creator>Bahat-Treidel, Eldad</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Gallium nitride (GaN) based High Electron Mobility Transistors (HEMTs) for high voltage, high power switching and regulating for space applications are studied in this work. Efficient power switching is associates with operation in high OFF state blocking voltage while keeping the ON state resistance, the dynamic dispersion and leakage currents as low as possible. The potential of such devices to operate at high voltages is limited by a chain of factors such as subthreshold leakages and the device geometry. In this work physical based device simulation as an engineering tool was developed. The simulation is utilized to analyze, give insight to the modes of operation of the device and for design and evaluation of innovative concepts. ‎Blocking voltage enhancement is a complicated problem that requires parallel methods for solution; epitaxial layers design, device structural and geometry design, and suitable semiconductor manufacturing technique. Novel device structures with a back barrier consists of wide bandgap AlGaN or carbon doped GaN along with innovative device geometrical structure such as multiple grating field plates (MGFPs) were studied. Electrical DC characterization shows considerable reduction in the subthreshold leakage currents that result in breakdown voltage above 1000 V with very low ON state resistance. Smart layout prevent immature breakdown due to lateral proximity of highly biased interconnects. Optimization of inter device isolation designed for high voltage prevents substantial subthreshold leakage. While major efforts are being made to improve the forward blocking performance, devices with reverse blocking capability are also desired in a number of applications. Novel GaN based HEMT with reverse blocking capability for Class S switch mode amplifiers is introduced. The high voltage protection is achieved by introducing recessed Schottky contact as a drain electrode. Such configuration provides protection of reverse bias over 110 V.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wurden Galliumnitrid (GaN) basierte Hochspannungs HEMTs (High Electron Mobility Transistor) für Hochleistungsschalt- und Regelanwendungen in der Raumfahrt untersucht. Effizientes Leistungsschalten erfordert einen Betrieb bei hohen Sperrspannungen gepaart mit niedrigem Einschaltwiderstand, geringer dynamischer Dispersion und minimalen Leckströmen. Dabei wird das aus dem Halbleitermaterial herrührende Potential für extrem spannungsfeste Transistoren aufgrund mehrerer Faktoren aus dem lateralen und dem vertikalen Bauelementedesign oft nicht erreicht. Physikalisch-basierte Simulationswerkzeuge für die Bauelemente wurden daher entwickelt. Die damit durchgeführte Analyse der unterschiedlichen Transistorbetriebszustände ermöglichte das Entwickeln innovativer Bauelementdesignkonzepte. Das Erhöhen der Bauelementsperrspannung erfordert parallele und ineinandergreifende Lösungsansätze für die Epitaxieschichten, das strukturelle und das geometrische Design und für die Prozessierungstechnologie. Neuartige Bauelementstrukturen mit einer rückseitigen Kanalbarriere (back barrier) aus AlGaN oder Kohlenstoff-dotierem GaN in Kombination mit neuartigen geometrischen Strukturen wie den Mehrfachgitterfeldplatten (MGFP, Multiple Grating Field Plate) wurden untersucht. Die elektrische Gleichspannungscharakterisierung zeigte dabei eine signifikante Verringerung der Leckströme im gesperrten Zustand. Dies resultierte bei nach wie vor sehr kleinem Einschaltwiderstand in einer Durchbruchspannungserhöhung um das etwa Zehnfache auf über 1000 V. Vorzeitige Spannungsüberschläge aufgrund von Feldstärkenspitzen an Verbindungsmetallisierungen werden durch ein geschickt gestaltetes Bauelementlayout verhindert. Eine Optimierung der Halbleiterisolierung zwischen den aktiven Strukturen führte auch im kV Bereich zu vernachlässigbaren Leckströme. Während das Hauptaugenmerk der Arbeit auf der Erhöhung der Spannungsfestigkeit im Vorwärtsbetrieb des Transistors lag, ist für einige Anwendung auch ein rückwärtiges Sperren erwünscht. Für Schaltverstärker im S Klassenbetrieb wurde ein neuartiger GaN HEMT entwickelt, dessen rückwärtiges Sperrverhalten durch einen tiefgelegten Schottkykontakt als Drainelektrode hervorgerufen wird. Eine derartige Struktur ergab eine rückwärtige Spannungsfestigkeit von über 110 V</dc:description>
+          <dc:date>2012-05-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3319</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35156</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35156</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3319/bahat_treidel_eldad.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

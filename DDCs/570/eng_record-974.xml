@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:974">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:974</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The mitochondrial protein profile changes during the aging process : proteomic aspects and mathematical modeling</dc:title>
+          <dc:title xml:lang="deu">Mitochondriale Proteinänderung während des Alterungsprozesses</dc:title>
+          <dc:creator>Mao, Lei</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Man nimmt an, dass die Anreicherung von Mitochondrien mit mutiertem Genom maßgeblich am Alterungsprozess beteiligt ist. Um die Auswirkung der mtDNA-Veränderungen bei der Alterung auf Proteinebene zu erforschen, wurde das mitochondriale Proteom während des Alterns anhand eines Mausmodells untersucht. Vor der Untersuchung des Proteoms wurde durch histochemische Färbung nachgewiesen, dass die Zytochrome C Oxydase Aktivität bei alten im Gegensatz zu jungen Mäusen im Muskelgewebe abnimmt. Dies bestätigt, dass die Lebensspanne der Maus für die Untersuchung der mitochondrialen Alterung ausreicht. Aus dem Gehirn und der Leber von Mäusen wurden Mitochondrien an sechs unterschiedlichen Zeitpunkten isoliert. Mitochondriale Proteine wurden mit einer sequenziellen Extraktionsstrategie extrahiert. Großgel 2D-Elektrophorese (2DE) und Westernblots wurden für die Analyse der Proteine verwendet. Die Expression von zwei Untereinheiten des Komplexes I und einer Untereinheit des Komplexes IV der Atmungskette nahm mit zunehmendem Alter ab. Eine Untereinheit von Komplex III, eine Untereinheit von Komplex V und ein mitochondrial-ribosomales Protein zeigten ein erhöhtes Expressionsniveau im Alter. Diese Ergebnisse zeigen, dass das Fehlen von Komponenten der Komplexe I und IV der Atmungskette in alterndem Gewebe durch Feedbackregelung anderer Proteinkomplexe in der Atmungskette begleitet wird. Die Herunterregulierung des 10 kDa mitochondrialen Hitzeschock-Proteins deutet auf ein erhöhtes Niveau an oxidativem Stress im alternden Mausgehirn und in der Leber hin. Die Erhöhung der Expression des mitochondrien-assozierten alpha-Synuclein im Gehirn könnte auf eine erhöhte Anfälligkeit zur Bildung von Proteinaggregaten mit fortschreitendem Alter hindeuten. Die Abnahme des mitochondrien-assoziierten Regucalcin in der Leber weist auf eine gesenkte mitochondriale Pufferungsfähigkeit für Kalziumionen hin. Ein mathematisches Modell wurde entwickelt, um die Anhäufung von defekten Mitochondrien während des Alterns zu simulieren. Mit den experimentell erhobenen Daten aus der Großgel 2DE wurde eine mtDNA Mutationsrate von 1.2x10-8 pro Gen und Tag abgeschätzt. Diese Mutationsrate ist groß genug, um eine Anreicherung von defekten Mitochondrien innerhalb der Lebensspanne einer Maus zu verursachen. Die experimentellen Daten unterstützen die Hypothese, dass sich mitochondriale Veränderungen mit dem Alter anreichern. Dies erklärt mitochondriale Funktionsstörungen und die Zunahme von oxidativen Stress während des Alterns.</dc:description>
+          <dc:description xml:lang="eng">The accumulation of mitochondria bearing mutated genomes was proposed to be an important factor involved in aging. In order to investigate the effect of mtDNA mutation at the protein level, we studied the mitochondrial proteome during aging with a mouse model. For the validation of the mouse model, histochemical staining was carried out to compare the cytochrome c oxidase (COX) activity on mouse muscle tissues of young and old animals. The senescent muscle tissue displayed typical mosaic pattern with alternating COX-activity level, similar to that has been described in previous studies using human material. This indicates that the mouse could be a valid model for human aging. Mitochondria were isolated from mouse brain and liver at six different ages using continuous gradient centrifugation. Mitochondrial proteins were sequentially extracted and analyzed using large-gel 2D-electrophoresis (2DE) and Western immunoblotting. The expression of two respiratory chain complex I subunits and one complex IV subunit decreased with age. One subunit of complex III, one subunit of complex V and a mitochondrial ribosomal protein increased in expression during aging. Together, these data indicate that complex I and IV deficiency in aged tissue is accompanied by feedback regulation of other protein complexes in the respiratory chain. The observed down-regulation of the 10 kDa mitochondrial heat shock protein indicated an elevated level of oxidative stress in aged mouse brain and liver tissue. The up-regulation of mitochondria-associated alpha-synuclein in brain tissue might indicate an enhanced susceptibility to protein aggregation with advanced age. The decrease of mitochondria-associated regucalcin in liver tissue indicates a lowered mitochondrial buffering capacity of calcium. A mathematical model was developed to simulate the accumulation of defective mitochondria during aging. When we applied our quantitative data observed by 2DE to this model, the mtDNA mutation rate was estimated to be 1.2x10-8 per gene per day. This mutation rate is high enough to lead to the accumulation of defective mitochondria during the biological time scale. The experimental data gained from our proteomic study were in accordance with the hypothesis that mitochondrial somatic mutations accumulate with age. This may explain the progression of mitochondrial dysfunction and increasing level of oxidative stress during the aging process.</dc:description>
+          <dc:date>2005-04-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/974</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9673</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9673</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/974/mao_lei.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

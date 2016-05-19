@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1506">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1506</identifier>
+        <datestamp>2014-04-30</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hochauflösende Laserspektroskopie am S0 �? S1 Übergang des Anthracen: Rotationsstruktur und Stark-Effekt</dc:title>
+          <dc:title xml:lang="eng">High-resolution laser spectroscopy on the S0 �? S1 transition of anthracene: rotational structure and Stark effect</dc:title>
+          <dc:creator>Bendkowsky, Vera</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird der schwingungslose Übergang S0 �? S1 des organischen Moleküls Anthracen mittels laserinduzierter Fluoreszenz (LIF) am Überschall-Düsenstrahl untersucht. Das Spektrum des Übergangs vom elektronischen Grundzustand S0 in den ersten angeregten Zustand S1 wird erstmals rotationsaufgelöst gemessen. Ausgehend von den experimentellen Daten werden die Rotationskonstanten A,B,C der beteiligten Zustände S0 und S1 durch die Simulation des Spektrums des starren asymmetrischen Rotators mit einer Genauigkeit von 0.1% ermittelt. Weiterhin werden die Polarisierbarkeiten der Zustände S0 und S1 durch Messung der Linienverschiebungen und -verbreiterungen in elektrischen Feldern untersucht, wobei bei einer Feldstärke von 85 kV/cm Linienverschiebungen aufgrund der Polarisierbarkeitsänderung Deltaα = 123(7) a.u. von 150 MHz beobachtet werden. Die Komponenten αaa, αbb, αcc der Polarisierbarkeitstensoren der Zustände S0 und S1 werden durch die Simulation des gesamten Spektrums mittels Störungsrechnung 2. Ordnung bestimmt.</dc:description>
+          <dc:description xml:lang="eng">In this work the vibrationless electronic transition S0 �? S1 of anthracene is studied by laser induced fluorescense (LIF) in a suprsonic jet-expansion. The rotational spectrum of the transition is measured and the rotational constants A,B,C are identified with an accuracy of 0.1%. Furthermore the polarizabilities of the electronic states S0, S1 are investigated. At an electric field of 85 kV/cm line shifts of up to 150 MHz caused by a change in the polarizability of Deltaα = 123(7) a.u. and broadenings due to the anisotropy are observed. The components of the tensor polarizabilities αaa, αbb, αcc of the electronic states S0 and S1 are determined by simulating the complete spectra using second-order perturbation theory.</dc:description>
+          <dc:date>2007-05-22</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1506</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15166</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15166</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1506/Diplomarbeit.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

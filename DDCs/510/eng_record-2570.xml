@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2570">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2570</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Über die Konstruktion algebraischer Kurven mittels komplexer Multiplikation</dc:title>
+          <dc:title xml:lang="eng">On the construction of algebraic curves with complex multiplication</dc:title>
+          <dc:creator>Uzunkol, Osmanbey</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Es seien $k$ ein imagin"ar quadratischer Zahlk"orper und $\mathcal{O}_{t}$ die Ordnung von $k$ mit dem F"uhrer $t$ und der Diskriminante $D_{t}$. Mit Hilfe der Theorie der komplexen Multiplikation zeigen wir, dass der singul"are Wert des Quotienten gewisser Thetafunktionen den Ringklassenk"orper $\Omega_{t}$ modulo $t$ "uber $k$ erzeugt. Dieses erm"oglicht eine schnellere Konstruktion der Klassenpolynome der Ringklassenk"orper als die Konstruktion mittels der klassischen Quotienten der Dedekindschen $\eta-$Funktion. Ferner beweisen wir, dass die verallgemeinerten $\eta-$Quotienten mittels der Quotienten der Thetanullwerte darstellbar sind. Diese Darstellungen lassen sich auch zur schnelleren Konstruktion der Klassenpolynome verwenden. Im Falle, dass $D_{t}$ gewissen Kongruenzbedingungen gen"ugt, beweisen wir, dass diese singul"aren Werte Einheiten in den entsprechenden Ringklassenk"orpern sind. Diese Eigenschaft wird benutzt, um die Einheitengruppen solcher Ringklassenk"orper mittels der in der Konstruktion des Klassenpolynoms explizit bestimmten Nullstellen zu berechnen. Es sei $(A,E)$ eine einfache hauptpolarisierte abelsche Fl"ache vom primitiven CM-Typ $(K,\Phi)$ mit $[K:\Q]=4$. Wir erweitern die CM-Konstruktion hyperelliptischer Kurven vom Geschlecht zwei "uber endlichen K"orpern mittels einer Bedingung an die Steinitzklasse auf alle primitiven CM-K"orper. Mit Hilfe des zwei-dimensionalen Reziprozit"atsgesetzes von Shimura, der Theorie der komplexen Multiplikation abelscher Variet"aten, und einer Arithmetik der Siegelschen Modulfunktionen $g$ der Stufe $(2N,4N)$, $\mbox{ggT}(2,N)=1$, verallgemeinern wir das Verfahren, welches im Falle der elliptischen Kurven "uberpr"uft, ob ein singul"arer Wert einer arithmetischen Modulfunktion $g(\tau)$ ein Erzeuger des Ringklassenk"orpers $\Omega_{t}$ ist. Damit erhalten wir ein Verfahren, welches "uberpr"uft, ob ein System der Werte der Siegelschen Modulfunktionen $g_{1}(\tau),\ g_{2}(\tau)$ und $g_{3}(\tau)$ der Stufe $(2N,4N)$ mit $\tau\in\mathbb{H}_{2}$ den "uber dem Reflexivk"orper $K^{r}$ von $K$ unverzweigten Klassenk"orper nach dem ersten Hauptsatz der Theorie der komplexen Multiplikation erzeugt. Den Abschluss bilden einige Beispiele der Klassenpolynome nebst den Untergruppen der Einheitengruppen entsprechender Ringklassenk"orper, die wir mittels der singul"aren Werte der Quotienten der Thetanullwerte berechnen.</dc:description>
+          <dc:description xml:lang="eng">Let $k$ be an imaginary quadratic number field and $\mathcal{O}_{t}$ be the order with the conductor $t$ and the discriminant $D_{t}$. We show by means of the theory of complex multiplication that the singular values of quotients of some theta functions generate the ring class field $\Omega_{t}$ modulo $t$ over $k$. This enables more efficient computation of the class polynomials of these rings class fields than the construction of class polynomials by means of quotients of values of Dedekind $\eta-$function. Furthermore, we prove that the generalised $\eta-$ quotients can be represented by quotients of Thetanullwerte. Also these representations allow us to compute the class polynomials more efficiently. In the case that $D_{t}$ satisfies certain congruence conditions, we prove that these singular values are units in the corresponding ring class fields. This property is used to compute the unit group of those ring class fields with the help of explicitely given roots of the class polynomials, which are predetermined during the construction of such polynomials. Let $(A,E)$ be a simple principally polarised abelian surface of primitive CM-type $(K,\Phi)$ with $[K:\Q]=4$. We generalise the CM-construction of hyperelliptic curves of genus two over finite fields using a condition on the Steinitz class to all primitive CM-fields. We extend the methode of elliptic curves that tests whether a singular value of an aritmetical modular function $g(\tau)$ is a generator of rings class field $\Omega_{t}$ to simple abelian varieties by using the two-dimensional reciprocity law of Shimura, the theory of complex multiplication of abelian varieties and an arithmetic of Siegel modular functions $g$ of level $(2N,4N)$, $\mbox{gcd}(2,N)=1$. This enables to introduce an algorithm, which tests whether a system of values of Siegel modular functions $g_{1}(\tau),\ g_{2}(\tau)$ and $g_{3}(\tau)$ of level $(2N,4N)$ with $\tau\in\mathbb{H}_{2}$ generate the unramified abelian extension of the reflex field $K^{r}$ of $K$ by the first main theorem of complex multiplication. At the end, the examples of some class polynomials are given together with the subgroups of the unit group of the corresponding ring class fields, which we compute with the help of singular values of the quotients of Thetanullwerte.</dc:description>
+          <dc:date>2010-07-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2570</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27072</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27072</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2570/uzunkol_osmanbey.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

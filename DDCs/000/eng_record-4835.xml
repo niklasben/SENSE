@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4835">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4835</identifier>
+        <datestamp>2014-03-11</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung und Anwendung eines rechnergestützten Modells zur Ursachenanalyse großräumiger Luftschadstofftransporte</dc:title>
+          <dc:title xml:lang="eng">Development and application of a computerized model for cause analysis of large-scale air pollution transport</dc:title>
+          <dc:creator>Finkelnburg, Roman</dc:creator>
+          <dc:subject>ddc:0</dc:subject>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="deu">Schwebstaub hat nach heutigem Kenntnisstand viele negative Wirkungen auf die menschliche Gesundheit. Häufig werden Herz-Kreislauf- und Atemwegserkrankungen bei hohen Schwebstaubbelastungen festgestellt. Die Europäische Union legt daher mit der Luftqualitäts-Rahmenrichtlinie und ihren Tochterrichtlinien Grenzwerte für Schwebstaubimmissionen gesetzlich fest. Die zur Zeit geltenden Grenzwerte für Schwebstaub beziehen sich auf Partikel mit einem aerodynamischen Durchmesser kleiner als 10 μm und sind von allen Mitgliedstaaten einzuhalten.&#13;
+Berlin konnte die bestehenden Grenzwerte für die Schwebstaubbelastung teilweise nicht einhalten und ist somit gezwungen, Maßnahmen zur Verminderung der Schwebstaubbelastung zu entwickeln. In diesem Zusammenhang ist der Berliner Luftreinhalteplan entstanden, dessen Umsetzung das Erreichen der geforderten Luftqualität sichern soll.&#13;
+Ein Teil des Schwebstaubs besteht aus sehr kleinen Feinstaubpartikeln (PM2,5), die über große Distanzen transportierbar sind und eine lange Verweildauer in der Atmosphäre besitzen. Um die genauen Ursachen der Belastungssituation durch PM2,5-Feinstaub in Berlin zu untersuchen, ist das Fachgebiet Umweltverfahrenstechnik/Luftreinhaltung der TU Berlin von der Berliner Senatsverwaltung für Gesundheit, Umwelt und Verbraucherschutz beauftragt worden eine Ursachenanalyse der PM2,5-Immissionen für Berlin durchzuführen. Diese Studie beschränkt sich auf den Staubanteil mit einem aerodynamischen Durchmesser kleiner als 2,5 μm, da diese Fraktion eine höhere Wirksamkeit auf die menschliche Gesundheit besitzt als die größeren Fraktionen. Aus diesem Grund wird auch in der derzeit laufenden Novellierung der EU-Luftqualitätsrichtlinien ein Grenz- oder Zielwert für PM2,5-Feinstaub diskutiert.&#13;
+PM2,5 kann über mehrere hundert bis tausend Kilometer in der Atmosphäre transportiert werden und ist daher die Fraktion, in der zu einem großen Anteil Ferntransportaerosole zu finden sind. Um die fernliegenden Quellen dieses Feinstaubs identifizieren zu können, die die PM2,5-Immissionssituation in Berlin signifikant beeinflussen, ist in dieser Arbeit ein rechnergestütztes Modell zur Berechnung der Bewegungslinien von Luftmassen (Trajektorien) und ein Programm zur Darstellung von Trajektoriendichten, die aus den Trajektorien verschiedener Einzelereignisse generiert werden, entwickelt worden. Die Entwicklung des  Trajektorienberechnungsprogramms stützte sich hierbei auf weitreichende Erfahrungen mit&#13;
+einem zuvor am FG UVT eingesetzten Modell zur Berechnung zweidimensionaler Trajektorien.&#13;
+Es werden die Funktionsweise und Bedienung der entwickelten Programme erklärt und Untersuchungen über signifikante Zusammenhänge zwischen bestimmten Immisionssituationen in Berlin und dem&#13;
+Herkunftsort der antransportierten Luftmassen durchgeführt. Wenn ein solcher Zusammenhang aufgezeigt werden kann, könnten die Programme eingesetzt werden, um bedeutenden Verursacher leichter zu identifizieren und somit einen Beitrag zur Entwicklung geeigneter Maßnahmen zur Minderung der PM2,5-Belastungsituation in Berlin leisten.</dc:description>
+          <dc:description xml:lang="eng">According to present knowledge, particulate matter has many negative effects on human health. Cardiovascular and respiratory diseases are detected frequently during periods and/or at sites of high particulate matter (PM) concentration. The European Union therefore determines limits for PM immissions with the directives on ambient air quality and cleaner air. The current directives refer to particles with an aerodynamic diameter less than 10 microns (PM10) and have to be adhered by all Member States. Berlin is forced to develop measures to reduce the local exposure to particulate matter since the existing limits are partly exceeded. Thus, the Berlin air pollution control plan was developed to guarantee the achievement of the required air quality for the future.&#13;
+A portion of suspended particulate matter consists of very small particles (PM2.5), which can be transported over long distances (hundred to thousand kilometers) and has a long residence time in the atmosphere. Furthermore, particulate matter with an aerodynamic diameter less than 2.5 microns has a higher efficacy on human health than the larger particles. Thus an additional limit for PM2.5 is also being discussed in the ongoing revision of the EU air quality directives. In the context of the Berlin air pollution control plan the exact causes of PM2.5 pollution in Berlin is investigated and the "Berliner Senatsverwaltung für Gesundheit, Umwelt und Verbraucherschutz" commissioned the "Fachgebiet Umweltverfahrenstechnik/Luftreinhaltung at the TU Berlin" to conduct a root cause analysis of the PM2.5 immissions in Berlin. &#13;
+A computer model is used in this study to calculate backward trajectories of contaminated air masses and display the results as trajectory densities to identify the distant sources, which significantly affect the PM2.5 pollution in Berlin, i.e. the trajectory densities are obtained from individual backward trajectory calculated from high immission events in Berlin. The general function and usage of the developed software is explained and relations between immision situations in Berlin and source locations of possible background pollution are exemplary investigated. Furthermore, such the method of identifying such relationships could be used in the future to help to identify major polluters and thus contribute to develop appropriate measures to mitigate the PM2.5-load in Berlin.&#13;
+</dc:description>
+          <dc:date>2014-04-11</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4835</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-48358</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-48358</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4835/teil_2_anhang_I.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4835/teil_3_anhang_II.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4835/finkelnburg_roman_diplomarbeit.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

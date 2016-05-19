@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:53">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:53</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A Turbulent Jet in Counterflow</dc:title>
+          <dc:creator>Bernero, Stefano</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Bei einem turbulenten Freistrahl, der in eine gleichförmige Gegenströmung eingespeist wird, entsteht ein komplexes Strömungsfeld, das bisher wenig untersucht wurde. Diese Strömungskonfiguration zeigt jedoch einige Eigenschaften wie z.B. eine verbesserte Mischungsfähigkeit, die weitere Untersuchungen motivieren, an möglichen praxisrelevanten Anwendungen ausgerichtet. Durch die neueste messtechnische Entwicklung von PIV und LIF, die gut durch höhere Signalverarbeitungsmethoden (z.B. POD) zu ergänzen sind, lassen sich wahrscheinlich weitere Erkenntnisse über dieses Strömungsphänomen gewinnen. Diese Untersuchung wurde deshalb mit dem Ziel geplant, die vorhandenen experimentellen und theoretischen Erkenntnisse über den turbulenten Freistrahl im Gegenstrom zu erweitern. Sichtbarmachungen sowie Geschwindigkeits- und Konzentrationsmessungen eines turbulenten Strahles im Gegenstrom wurden in einem Wasserkanal durch LDA, LIF, und PIV durchgeführt. Durch die Untersuchung der Wirkung verschiedener Anfangs- und Randbedingungen auf die Strömung wurde es möglich, Grundlagen zu schaffen, die einen Vergleich verschiedener Ergebnissen erlauben. Die Bestimmung der Grenzen des Mischungsbereiches zeigte eine vom Geschwindigkeitsverhältnis zwischen Strahl und Gegenströmung alpha abhängige Skalierung. Die Erhöhung der Mischungswirksamkeit durch die Gegenströmung wird von einer steileren Geschwindigkeits- und Konzentrationsabnahme entlang der Strahlachse, sowie einer erhöhten Ausbreitungsrate gekennzeichnet. Der dabei auftretende schnellere Zerfall der Primärstrukturen wird durch die Verstärkung von Längsstrukturen und durch das Auftreten höherer Instabilitätsmoden herbeigeführt. Die vorliegenden Beobachtungen legen die Aufteilung des Strömungsfeldes in ein Nah- und ein Fernfeld nahe. Im strahlähnlichem Nahfeld unterdrückt die Gegenströmung die Wirbelpaarung und verringert die typische Frequenz des Strahles. Auch wenn im Fernfeld starke unregelmässige und niederfrequente dreidimensionale Fluktuationen entstehen, kann das zeitgemittelte Strömungsfeld durch eine einfache überlagerung eines Strahles und einer gleichförmigen Strömung annähernd modelliert werden. Eine weitere Mischungserhöhung kann durch passive Kontrolle mit nicht-runden Düsen erreicht werden.</dc:description>
+          <dc:description xml:lang="eng">A turbulent jet in counterflow, i.e. a jet issuing into a uniform stream of opposite direction, produces a rather complex flowfield and was therefore up to now only scarcely investigated. Nevertheless, some interesting features -- among which its enhanced dilution -- motivate further studies of this flow configuration, also in view of possible practical applications. The recent developments in techniques such as particle image velocimetry (PIV) and laser-induced fluorescence (LIF), combined with advanced signal analysis methods (e.g. proper orthogonal decomposition - POD), allow a further advance in the understanding of this phenomenon. The present work was therefore planned with the aim of expanding the basis of data and knowledge available on the turbulent jet in counterflow, thereby providing a deeper insight in some of its aspects. Velocity and passive scalar concentration measurements of a turbulent jet in counterflow were carried out in a water channel by means of LDA, LIF, and PIV. By investigating the flowfield under different boundary and initial conditions, it was possible to determine their effect on the flow and to define which conditions should be required in order to obtain a "standard" flow for a consistent comparison of results. A characterization of the flow was given by determining the extent of the mixing region, and its scaling with the jet-to-counterflow velocity ratio. The dilution enhancement produced by the counterflow is indicated by a faster centerline decay, a faster jet growth, and a faster decay of the primary instability structures. The last one is due to the enhanced formation of secondary instability structures and to the appearance of higher order (azimuthal) instability modes. It was observed that the flowfield can be divided into two distinct regions: a near, inner field and an outer, far field. In the near field, which is similar to that of a free jet, the counterflow can suppress vortex pairing and reduce the typical frequency of the jet. The far field is characterized by strong and slow three-dimensional fluctuations showing complex dynamics. Nevertheless, the time-averaged flowfield can be approximately predicted by a very simple model, through the superposition of a jet and a uniform stream. It was also shown that a further dilution enhancement can be obtained through passive flow control by using non-circular (and especially square) nozzles.</dc:description>
+          <dc:date>2001-01-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/53</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-507</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-507</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/53/bernero_stefano.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

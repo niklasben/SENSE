@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4418">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4418</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Grounding ethnographic content analysis, etic as well as emic strategies; a study of context for instructional designers</dc:title>
+          <dc:creator>Hansen, Brett </dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">Parallels were realized between Krippendorff’s (2004) validity evidence for content analysis and Fereday and Muir-Cochrane’s (2006) interpretation of Schultz’s (1967) postulates for increasing rigor within the examination of social phenomenon. In order to increase empirical validity of content analyses Krippendorff (2004) suggested concentrating on the structure of the analysis, validity of the data, and the relational aspects of the findings. Fereday and Muir-Cochrane introduced a step-by-step analysis process containing deductive and inductive coding, allowing their research to begin grounded and then progress to a thematic, data-driven discovery. Ethnographic Content Analysis (Altheide, 1987) disregards a priori coding as a quantitative characteristic; however, the etic (and emic) quality of the Fereday &amp; Muir-Cochrane methodology adds grounding and structure to ECA without disrupting the discovery, descriptive nature of the methodology. Instructional designers must be familiar with the characteristics and relationships of context when designing for context-based learning environments. No design or analysis models exist that account for the variable relationships of context. ATLAS.ti® provided the capacity, foundation, and modeling to support both etic and emic qualities and validity evidence through an ECA of internet job postings identifying and modeling contextual elements and their relationships. </dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4418</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44183</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44183</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4418/06_hansen_4418.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

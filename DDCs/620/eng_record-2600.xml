@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2600">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2600</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Low-dimensional modelling and control of separated shear flows</dc:title>
+          <dc:title xml:lang="deu">Niederdimensionale Modellierung und Kontrolle von abgelösten Scherströmungen</dc:title>
+          <dc:creator>Luchtenburg, Dirk Martin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This thesis involves the modelling and control of separated shear flows. The emphasis is on the development of low-dimensional mean-field models that capture essential flow physics and are suitable for nonlinear control design in simulation and experiment. The concept of the mean-field model by Noack et al. (2003) has been generalized to include actuation mechanisms, which are incommensurable with the dominant frequency of the natural flow. This model describes how actuation-induced oscillations can interact with (and suppress) the instability at the natural frequency, only by indirect interaction via the varying mean flow. The framework of mean-field modelling has been applied to three different configurations: the flow around a 2-D circular cylinder, the flow around a 2-D high-lift configuration, and the flow around a D-shaped body. The first two configurations are investigated in numerical simulations, whereas the latter is a windtunnel experiment. For the circular cylinder, a parameterized proper orthogonal decomposition approach (POD) is used to extend the dynamic range of the standard POD. This parameterized model is used to optimize sensor locations. The model is demonstrated in a closed-loop control that targets wake suppression. High frequency open-loop actuation can significantly reduce the separation that is caused by large flap angles of a high-lift configuration. The essence of this mechanism is captured by the generalized mean-field model. This model is used for a set-point control of the lift coefficient. Finally, the generalized mean-field model is adapted for design of a nonlinear controller for set-point tracking of the base pressure coefficient of a bluff body. This illustrates the usefulness of mean-field models in experiment.</dc:description>
+          <dc:description xml:lang="deu">Die Arbeit befasst sich mit der Modellierung und Kontrolle von abgelösten Scherströmungen. Der Schwerpunkt liegt dabei in der Entwicklung von niederdimensionalen Mean-Field-Modellen, die die wesentliche Physik der Strömung erfassen und sich dadurch für den nichtlinearen Reglerentwurf sowohl für Simulation als auch für Experimente eignen. Das Konzept des Mean-Field-Modells von Noack et al. (2003)§ wurde dazu verallgemeinert, um zusätzliche Aktuationsmechanismen, die im Bezug auf die Frequenz der natürlichen Strömung inkommensurabel sind, zu ermöglichen. Durch das Modell wird beschrieben, wie aktuationsinduzierte Oszillationen allein durch die indirekte Interaktion mit der variierenden mittleren Strömung mit der natürlichen Instabilität wechselwirken (und diese auch unterdrücken) können. Die Mean-Field-Modellierung wurde auf drei unterschiedliche Konfigurationen angewandt: die Strömung um einen 2D Kreiszylinder, die Strömung um eine 2D Hochauftriebskonfiguration und die Strömung um einen stumpfen Körper. Die ersten beiden Konfigurationen wurden mit Hilfe numerischer Simulationen untersucht, während für die dritte Konfiguration ein Windkanal-Experiment genutzt wurde. Für die Kreiszylinderumströmung erfolgte eine parametrisierte "Proper Orthogonal Decomposition" (POD), um die dynamische Bandbreite gegenüber der Standard-POD zu erweitern. Dieses parametrisierte Modell findet in der Optimierung von Sensorpositionen Anwendung. Ein weiteres Einsatzgebiet ist eine Regelung mit geschlossenem Regelkreis zur Unterdrückung der Nachlaufinstabiltät. Durch hochfrequente Aktuation mit offenem Regelkreis kann die Ablösung, die durch große Klappen-Anstellwinkel in Hochauftriebskonfigurationen entsteht, signifikant unterdrückt werden. Der wesentliche Wirkmechanismus wird dabei durch das "Mean-Field"-Modell erfasst, so dass eine Sollwert-Regelung des Auftriebskoeffizienten erfolgen kann. Abschließend wird das generalisierte Mean-Field-Modell für den Entwurf eines nichtlinearen Reglers zur Sollwert-Nachführung des Druckkoeffizienten eines stumpfen Körpers adaptiert. Dies verdeutlicht den Vorteil des Einsatzes von Mean-Field-Modellen für Anwendungen im Experiment.</dc:description>
+          <dc:date>2010-08-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2600</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27371</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27371</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2600/luchtenburg_dirk.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

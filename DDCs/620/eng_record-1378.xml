@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1378">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1378</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Chance Constrained Optimization of Process Systems under Uncertainty</dc:title>
+          <dc:title xml:lang="deu">Optimierung von Prozesssystemen unter Unsicherheiten mit  Hilfe von Wahrscheinlichkeitsrestriktionen</dc:title>
+          <dc:creator>Arellano-Garcia, Harvey</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">In this thesis, new approaches for chance constrained programming of large scale nonlinear dynamic systems under time-dependent uncertainty are introduced. The stochastic nature of the uncertainties is explicitly considered in the problem formulation in which some input and state constraints are to be complied with predefined probability levels. The developed methods consider a nonlinear relation between the uncertain input and the constrained variables. Efficient algorithms are applied to compute the probabilities and, simultaneously, the gradients through integration by collocation in finite elements. The formulation of single or joint probability limits incorporates the consideration of feasibility and that of the trade-off between robustness and profitability regarding the objective function values. The new approaches are relevant to all cases when uncertainty can be described by any kind of joint correlated multivariate distribution function. The potential and the efficiency of the presented systematic methodology are illustrated with application to different processes under uncertainty, in particular, transient processes. Moreover, the functionality and efficiency of the developed chance constrained framework are demonstrated throughout on examples of design, operation and control problems. Furthermore, two model based approaches are developed to provide a close integration of dynamic real time optimization and control and to cope with uncertainty.</dc:description>
+          <dc:description xml:lang="deu">In der chemischen Industrie steigt der Bedarf an flexibleren und wirksameren Produktionsanlagen, um den steigenden Anforderungen bezüglich der schnell wechselnden Marktanforderungen und der Umweltverträglichkeit gerecht zu werden. Die Erfahrung hat gezeigt, dass die in der Vergangenheit schwerpunktmäßig durchgeführte deterministische Analyse und Optimierung dieser Prozesse nicht ausreichend sind. Sie führen entweder zu einer konservativen oder einer aggressiven Prozessstrategie und oftmals zur Verletzung von entscheidenden Restriktionen wie Umweltvorgaben, Sicherheitsrestriktionen, Produkt-Spezifikationen. Hieraus resultiert, dass eine Berücksichtigung von Unsicherheiten in die dynamische Optimierung des Prozesses zur Anpassung der sich ändernden stochastischen Randbedingungen notwendig ist. Entsprechende Lösungsansätze für komplexe dynamische Prozesse fehlten. Hierfür wurde in dieser Arbeit ein systematischer Lösungsansatz zur nichtlinearen dynamischen stochastischen Optimierung größer Systeme unter sich zeitlich ändernden Randbedingungen entwickelt und erfolgreich an verschiedene Beispielprozesse angewandt. Für die Erprobung der Methodik wurden rigorose Prozessmodelle einbezogen. Es galt insbesondere, die Einflüsse der unsicheren Größen auf die nichtmessbaren Variablen zu berücksichtigen. Diese Variablen entsprechen häufig relevanten Größen wie z.B. Produktqualitäten. Zu diesem Zweck wurden Optimierungsprobleme unter Wahrscheinlichkeitsrestriktionen formuliert und an die konkrete Fragestellung angepasste Lösungswege entwickelt. Der entwickelte Ansatz stellt in jedem Fall eine signifikante Erweiterung der Stochastischen Programmierung dar. Die hieraus abgeleitete Methodik beschreibt eine allgemeine Vorgehensweise zur optimalen und robusten Prozessführung unter Unsicherheiten.</dc:description>
+          <dc:date>2006-11-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1378</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14126</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14126</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1378/arellanogarcia_harvey.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1413">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1413</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Optimising Quality-of-Service for the Composition of Electronic Services</dc:title>
+          <dc:title xml:lang="deu">Dienstgüte-Optimierung bei der Komposition Elektronischer Dienste</dc:title>
+          <dc:creator>Jäger, Michael Chin</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Electronic services and their composition gain a growing interest from businesses that intend to implement their processes with software systems. The general characteristics of electronic services resemble the idea of process-orientation as proposed by the business process re-engineering initiative introduced in the 90s. Thus, the software industry promotes developing service compositions in order to efficiently implement business processes. The development of service compositions involves service brokers. These brokers implement a trading functionality in order to identify the suitable services based on requirement descriptions. The trading functionality can also consider different optimisation criteria in order to optimise the resulting composition. In the proposed application scenario, numerical Quality-of-Service (QoS) characteristics usually serve as optimisation criteria. When multiple criteria have to be considered at once, an optimisation problem arises that can result in an unfeasible computational effort. A novel approach for this problem is to apply heuristic algorithms. This approach requires a discussion, because heuristic algorithms do not guarantee to find the optimal solution. The question is how well the approximations compare with the optimal solution referring to the resulting QoS of the composition. Based on the characteristics of the application scenario a method is developed for computing the QoS of compositions based on the QoS statements of the involved services. A QoS-based selection must use such a method in order to determine the QoS of the entire composition when selecting individual services. Based on this method, a model for the problem of QoS-based selection is defined. The model enables the understanding about the problem and it also serves as the reference for the discussion about the relations to other combinatorial problems. Moreover, the problem model is used for the explanation of the heuristic algorithms applied to the selection problem. Based on the problem model and the relevant QoS concepts, the implementation of a simulation provides the evaluation of the performance of the heuristic algorithms. The simulation presents measures based on the resulting QoS of the composition and the computation time. The results from conducted simulation runs allow the comparison among the algorithms and with a method that always finds the optimal solution.</dc:description>
+          <dc:description xml:lang="deu">Kompositionen aus elektronischen Diensten finden in Softwaresystemen Verwendung, die bei der Umsetzung von prozess-orientierten Vorgängen in Unternehmen, so genannten Geschäftsprozessen, zum Einsatz kommen. Dies begründet sich darin, dass Kompositionen aus elektronischen Diensten und Geschäftsprozesse gemeinsame Charakteristiken besitzen. Daher sind Dienstkompositionen für die Realisierung von Geschäftsprozessen besonders geeignet. Um eine Komposition aus individuellen Diensten zusammen zu stellen, werden Dienstvermittler herangezogen, die anhand von Anforderungsbeschreibungen geeignete Dienste identifizieren. Dabei können Optimierungskriterien berücksichtigt werden, um die Eigenschaften der Komposition zu verbessern. Als Optimierungskriterien dienen in dem berücksichtigten Anwendungsszenario quantifizierbare Dienstgüteigenschaften. Sollen mehrere Kriterien gleichzeitig berücksichtigt werden, entsteht ein Optimierungsproblem, das in einem unpraktikablen Aufwand resultieren kann. Für dieses Problem soll die Anwendbarkeit von heuristischen Algorithmen untersucht werden. Der Ansatz heuristische Algorithmen auf dieses Problem anzuwenden ist neu und bedarf daher einer Untersuchung: Heuristische Verfahren können die optimale Lösung nicht garantieren. Eine zu beantwortende Frage ist daher, welche Eigenschaften Annäherungen im Vergleich zu einer optimalen Lösung aufweisen. Zunächst wird ein Verfahren entwickelt, um die Dienstgüteeigenschaften einer Dienstkomposition zu berechnen. Für die Problemstellung ist dieses Verfahren notwendig, um bei der Auswahl eines einzelnen Dienstes die Auswirkungen auf die Komposition zu bestimmen. Basierend auf diesem Verfahren wird ein Modell für das Problem definiert. Anhand dieses Modells wird der Bezug zu verwandten Problemstellungen verdeutlicht und der resultierende Aufwand zur Lösung des Problems diskutiert. Darüber hinaus wird anhand des Problemmodells die Anwendung der heuristischen Algorithmen erklärt. Mit der Implementierung einer Simulation wird die Leistungsfähigkeit der heuristischen Algorithmen untersucht. Der Begriff der Leistungsfähigkeit bezieht sich hierbei auf die Berechnungsdauer und auf die Dienstgüteeigenschaften der Komposition resultierend aus der jeweilig ermittelten Lösung bzw. Annährung. Die Ergebnisse durchgeführter Simulationen ermöglichen eine quantitative Bewertung der implementierten Algorithmen im Vergleich zueinander als auch den Vergleich zu einem Verfahren, das die optimale Lösung garantiert.</dc:description>
+          <dc:date>2007-01-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1413</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14724</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14724</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1413/jaeger_michael.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

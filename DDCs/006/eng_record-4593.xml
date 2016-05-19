@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4593">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4593</identifier>
+        <datestamp>2014-01-23</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Vergleichende Untersuchung und Entwicklung von Verzögerungselementen für hochlineare Ring-Oszillatoren</dc:title>
+          <dc:title xml:lang="eng">Comparative study and development of delay elements for highly linear ring oscillators</dc:title>
+          <dc:creator>Pashmineh, Sara Toktam</dc:creator>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="deu">Bei einem ringoszillator-basierten ADC kann die Erhöhung der Auflösung durch den Einsatz eines Ringoszillators erreicht werden. Jedoch ist eine hohe Linearität für Ringoszillatoren von entscheidender Bedeutung, da die Nichtlinearität der Oszillatoren die Leistungseffizienz des oszillatorbasierten ADCs negativ beeinflusst.&#13;
+Bis jetzt wurde die Nichtlinearität eines VCOs durch verschiedene Techniken kompensiert z.B. durch eine Rückkopplung des Ausgangssignals auf den Eingangssignal. Diese Lösung hat zwei Nachteile. Zu einem werden zusätzliche Schaltungen nötig, die eine große Chip-Fläche erfordern. Zum anderen wird entsprechend der zusätzlichen Schaltungen mehr Strom bzw. Leistung verbraucht. Infolgedessen verschlechtert es die Gütezahl "FOM" des ADCs.&#13;
+Deshalb ist die Entwicklung eines Ringoszillators mit hoher Linearität ein wichtiges Ziel.&#13;
+Die Ringoszillatoren bestehen aus einer geschlossenen Kette der in Reihe geschalteten Inverter, deren Verzögerungszeit von der Umladung der Lastkapazität jedes Inverters verursacht wird. Somit hängt die Verzögerungszeit von der Lastkapazität, dem Umladestrom und dem Spannungshub der Lastkapazität bei der Auf- bzw. Entladung ab. Die Lastkapazität und deren Spannungshub sind aufgrund der konstanten Versorgungs-Spannung ebenfalls konstant. Daher kann die Verzögerungszeit durch die Veränderung des Versorgungsstroms variiert werden. Da die Oszillatorfrequenz mit der inversen Verzögerungszeit proportional ist, hat sie einen linearen Zusammenhang mit dem Versorgungsstrom. Die Erfindung von Matthias Völker und Harald Neubauer (Fraunhofer IIS) hat diese Eigenschaft für die Linearität des Ringoszillators genutzt, wobei der Versorgungsstrom mit Hilfe einer Regelschleife der Steuergröße angeglichen wird. Somit wird ein linearer Zusammenhang zwischen der Ring-oszillator-Frequenz und der Steuergröße erreicht. &#13;
+Im Rahmen dieser Masterarbeit, die in Zusammenarbeit mit der technischen Universität Berlin (Institut Mikroelektronik) und dem Fraunhofer IIS (Abteilung IC-Entwurf Analog Systeme) in Erlangen erstellt wurde, wurden zuerst Kriterien definiert, um die Nichtlinearität der bereits entworfenen Ringoszillatoren zu beurteilen. Durch die Schaltungs-Analyse mit Hilfe der Simulation unter Cadence und Matlab wurden die Ursachen der Nichtlinearität der drei ausgewählten Ringoszillatoren analysiert und verglichen. &#13;
+Anschließend  wurde ein optimierter Ringoszillator entworfen, der eine bessere Linearität im Vergleich zu den untersuchten Oszillatoren hat.&#13;
+Die untersuchten Ringoszillatoren sind auf einem 11 Element CMOS-Inverter, die in einer 180 nm CMOS Technologie implementiert wurden, basiert und werden von einer Spannung von 1,8 V versorgt.&#13;
+</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4593</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-45939</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-45939</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4593/Pashmineh_Sara.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-ND: Creative Commons-Lizenz: Namensnennung, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

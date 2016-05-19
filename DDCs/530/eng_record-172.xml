@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:172">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:172</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hochauflösende Laserspektroskopie der elektronischen Zustände X²-Sigma, A²-Pi und B²-Sigma von Natrium-Argon</dc:title>
+          <dc:title xml:lang="eng">High resolution laser spectroscopy of the electronic states X²-Sigma, A²-Pi and B²-Sigma of Sodium-Argon</dc:title>
+          <dc:creator>Schwarzhans, Dirk</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden die Ergebnisse einer laserspektroskopischen Untersuchung des Van-der-Waals-Moleküls Natrium-Argon (NaAr) vorgestellt. Mit Hilfe der laserinduzierten Fluoreszenz wurden die in einem Überschall-Düsenstrahl produzierten Moleküle im Bereich von 16734 cm-1 bis 17009 cm-1 rotationsaufgelöst spektroskopiert und dabei Übergänge zwischen den elektronischen Zuständen X2&amp;Sigma;, A2&amp;Pi;1/2, A2 &amp;Pi;3/2 und B2&amp;Sigma; untersucht. Im Grundzustand X2&amp;Sigma; konnten die spektroskopischen Parameter aller gebundener Schwingungsniveaus (v" = 0...6) bestimmt werden, die der beiden obersten davon erstmalig. In den Zuständen A2&amp;Pi;1/2 und A2 &amp;Pi;3/2 wurden die Parameter der Schwingungsniveaus v' = 5...12 gegenüber früheren Untersuchungen mit erhöhter Genauigkeit bestimmt. Die Parameter der im A2&amp;Pi;1/2-Zustand im Bereich der Störung durch den B2&amp;Sigma;-Zustand liegenden beiden höchsten gebundenen Schwingungsniveaus mit v' = 17 und v' = 18 und die der Niveaus mit v' = 3...5 im B2&amp;Sigma;-Zustand konnten ebenfalls erstmalig bestimmt werden. Insgesamt wurden dazu für mehr als 3500 Linienpaare die Übergangsfrequenzen ausgewertet und Quantenzahlen zugewiesen. Aus den bestimmten Energieniveaus konnten mit Hilfe eines Anpassungsverfahrens nach der Methode der kleinsten Fehlerquadrate ( "Least Squares Fit") getrennt Potentialfunktionen für den X2&amp;Sigma;-Zustand, den A2&amp;Pi;1/2- und A2 &amp;Pi;3/2-Zustand bestimmt werden, welche die gemessenen Niveaus im Rahmen der Meßfehler reproduzieren. Außerdem wurden die Feinstrukturwechselwirkung A(R) und die Potentialfunktionen für den unaufgespaltenen A2&amp;Pi;-Zustand und den B2&amp;Sigma;-Zustand in einer gemeinsamen Anpassung bestimmt. Damit liegen für Natrium-Argon z.T. erstmalig direkt aus laserspektroskopisch bestimmten Energieniveaus berechnete Potentialfunktionen dieser Zustände vor. Für die Potentialtiefe De und den Gleichgewichtsabstand Re ergaben sich folgende Werte: X2&amp;Sigma; A2&amp;Pi;1/2 A2 &amp;Pi;3/2 B2&amp;Sigma; Re[Å] 5,01(1) 2,94(4) 2,94(4) 6,5(2) De [cm-1] 41,6(2) 581(17) 576(11) 32(5) In einer weiteren Untersuchung wurden erstmals erfolgreich an einem Alkali-Edelgasmolekül die relativen Intensitäten der Schwingungsbanden A2&amp;Pi;1/2(v' = 6...10) &amp;larr; X2&amp;Sigma;(v" = 0) bestimmt und mit den theoretischen Franck-Condon-Faktoren verglichen. Dazu war es notwendig, das Sättigungsverhalten dieser Übergänge genauer zu untersuchen, da diese bereits bei Laserleistungen ab ca. 40 mW Sättigung zeigten. Für die Durchführung der Messungen wurde ein auf einem Mikrokontroller basierendes Meßsystem mit DA-, AD-Wandlern und Photonenzählern sowie die zugehörige Software entwickelt und erfolgreich eingesetzt. Mit Hilfe einer vereinfachten Düsenkonstruktion konnte außerdem die Zuverlässigkeit der Molekularstrahl-Quelle deutlich verbessert werden.</dc:description>
+          <dc:date>2000-11-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/172</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1673</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1673</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/172/schwarzhans_dirk.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

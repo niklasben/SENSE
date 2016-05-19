@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4629">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4629</identifier>
+        <datestamp>2014-01-29</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Design and implementation aspects of open source Next Generation networks (NGN) test-bed software toolkits</dc:title>
+          <dc:creator>Vingarzan, Dragos</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="eng">Information and Communication Technologies provide for a long time already the backbone of telecommunication networks, such that communication services represent an elementary foundation of today’s globally connected economy. The telecommunication landscape has experienced dramatic transformations through the convergence of the Telecom and the Internet worlds. The previously closed telecommunication domain is currently transforming itself through the so-called NGN evolution into a highly dynamic multiservice infrastructure, supporting rich multimedia applications, as well as providing comprehensive support for various access technologies.&#13;
+The control layer of such NGNs is then of paramount importance, as representing the convergent mediator between access and services. The use and the optimization of the IP-Multimedia Subsystem (IMS) was researched and considered in this domain for many years now, such that today it represents the world-wide recognized control platform for fixed and mobile NGNs.&#13;
+Research on protocols and services for such NGN architectures, due to the convergence of technologies, applications and business models, as well as for enabling highly dynamic and short innovation cycles, is highly complex and requires early access to vendor independent - yet close to real life systems - validation environments, the so-called open technology test-beds.&#13;
+The present thesis describes the extensive research of the author over the last nine years in the field of open NGN test-beds. It focuses on the design, development and deployment of the Open Source IMS Core project, which represents since years the foundation of numerous NGN test-beds and countless NGN Research &amp; Development projects in the academia as well as the industry domain around the globe. A major emphasis is given for ensuring flexibility, performance, reference functionality and inter-operability, as well as satisfying elementary design principles of such test-bed toolkits.&#13;
+The study also describes and evaluates the use of Open Source principles, highlighting the advantages of using it in regard to the creation, impact and sustainability of a global OpenIMSCore research community.&#13;
+Moreover, the work documents that the essential design principles and methodology employed can be reused in a generic way to create test-bed toolkits in other technology domains. This is shown by introducing the OpenEPC project, which provides for seamless integration of different mobile broadband technologies.</dc:description>
+          <dc:description xml:lang="deu">Informations- und Kommunikationstechnologien bilden seit langem das immer wichtiger werdende Rückgrat der weltweiten Wirtschaft und Telekommunikation, in der speziell Telekommunikationsnetze und -dienste einen elementaren Anteil tragen. Durch die Konvergenz von Telekommunikations- und Internettechnologien hat sich die Telekommunikationslandschaft in der letzten Dekade drastisch verändert. Bislang geschlossene Telekommunikationsumgebungen haben sich imWandel zum sogenannten Next Generation Network (NGN) hinsichtlich unterstützter Zugangsnetztechnologien und angebotener multimedialer Anwendungen sowie der eingesetzten Protokolle und Dienste zu komplexen, hochdynamischen, Multi-Service Infrastrukturen gewandelt.&#13;
+Die Kontrollschicht solcher NGNs ist dabei von übergeordneter Bedeutung, da diese zwischen den Zugangsnetzen und den Anwendungen sitzt. Der Einsatz und die Optimierung des IP-Multimedia Subsystem (IMS) wurde in diesem Kontext Jahrelang erforscht und diskutiert und es repräsentiert heute die weltweit anerkannte Kontrollplattform für feste und mobile Telekommunikationsnetze.&#13;
+Die Forschung an Protokollen und Diensten in diesen NGN Umgebungen ist aufgrund der Konvergenz von Technologien, Anwendungen und Business Modellen sowie der hohen Dynamik aber kurzen Innovationszyklen hochkomplex. Der frühzeitigen Zugang zu herstellerunabhängigen – aber dicht an der Produktwelt angelehnten - Validierungsinfrastrukturen, sogenannten offenen Technologietest-beds, kurz Test-beds, ist daher für Forschungs- und Entwicklungsabteilungen unerlässlich&#13;
+Die vorliegende Dissertation beschreibt die umfangreiche Forschungsarbeit des Autors auf dem Gebiet der offenen NGN Test-beds über die letzten neun Jahre und konzentriert sich dabei auf Entwurf, Entwicklung und Bereitstellung des Open Source IMS Core Projekt, das seit Jahren die Grundlage für eine Vielzahl von NGN Test-beds und zahllose NGN Forschungs- und Entwicklungsprojekte im akademischen als auch Industrienahen Umfeld rund um den Globus darstellt. Dabei wird ein großer Schwerpunkt auf die Anforderungen hinsichtlich Flexibilität, Leistung, Funktionalitätsumfang und Interoperabilität, sowie elementare Designprinzipien von Test-bedwerkzeugen gelegt.&#13;
+Die Arbeit beschreibt und bewertet darüberhinaus den Einsatz von Open Source Prinzipien und veranschaulicht die Vorteile dieses Ansatzes hinsichtlich Einfluss und Nachhaltigkeit der Forschung anhand des Aufbaus einer globalen Open Source IMS Core (OpenIMSCore) Forschungs-Community.&#13;
+Außerdem veranschaulicht die Arbeit zum Ende die Wiederverwendbarkeit der wesentlichen angewendeten Designprinzipien an anderen maßgeblich durch den Autor entwickelten Test-bed Werkzeugen, insbesondere dem Open Evolved Packet Core (OpenEPC) für die nahtlose Integration verschiedener Breitbandnetztechnologien.</dc:description>
+          <dc:date>2014-01-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4629</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46293</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46293</dc:identifier>
+          <dc:identifier>978-3-8442-7788-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4629/vingarzan_dragos.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

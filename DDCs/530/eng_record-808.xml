@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:808">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:808</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Nichtgleichgewichtsthermodynamik und statistische Mechanik dissipativer diskreter Systeme</dc:title>
+          <dc:title xml:lang="eng">Non-equilibrium thermodynamics and statistical mechanics of isolated discrete systems</dc:title>
+          <dc:creator>Gümbel, Sebastian</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In der Arbeit wird ein dissipatives diskretes System untersucht. Ein dissipatives diskretes System besteht aus dem System selber und seiner Wechselwirkung mit seiner Umgebung. Wird die Wechselwirkung mit der Umgebung ausgeschaltet, so spricht man von einem isolierten diskreten System. Ein isoliertes System kann man auf verschiedenen Stufen beschreiben. Im ersten Teil der Arbeit wird ein solches System auf der phänomenologischen Ebene untersucht. Auf der phänomenologischen Ebene führt diese Untersuchung zu dem Schluss, dass wir die untersuchten phänomenologischen Modelle sowohl in der rationalen Thermodynamik als auch in GENERIC darstellen können. Im zweiten Teil der Arbeit werden die Grundzüge der klassischen Quantenthermodynamik dargestellt. Der Ausgangspunkt dieser Theorie ist, dass eine ausgewählte Menge makroskopischer Observablen existiert. Diese Menge wird Beobachtungsebene genannt. Weiterhin soll eine geeignete Abbildung existieren, die die Observablen auf die Beobachtungsebene abbildet. Mit dieser Abbildung erhält man eine Dynamik für die Wahrscheinlichkeitsdichte auf der Beobachtungsebene und damit eine Möglichkeit die Entropie einzuführen. Die ungeklärten Fragen dieser Theorie sind aber zum einen: Ist die Entropieproduktion nicht negativ?; und zum anderem: Was zeichnet die makroskopischen Observablen aus?; bzw. kann man wenigstens für die makroskopische Zeitableitung der Erwartungswerte der Observablen zeigen, dass sie gleich den mikroskopischen Erwartungswerte sind. Deshalb wird im dritten Teil der Arbeit Dissipation in die klassische statistische Mechanik durch ein Potential eingeführt. Die konsequente Ableitung befindet sich aber noch in der heuristischen Phase. Deshalb werden die Bewegungsgleichungen postuliert. Aus diesem Postulat folgt dann aber, dass wir die extsc{Generic}-Struktur auf der mikroskopischen klassischen Ebene wiederfinden. Sie gilt hier für alle Observablen. Der Versuch, diese Struktur auf die makroskopische Ebene zu übertragen, scheint im Prinzip möglich.</dc:description>
+          <dc:description xml:lang="eng">Thermodynamics is the theory of non-equilibrium systems. A dissipative discrete system consists of the system itself and its environment. A system is called a dissipative system, if the entropy production is non negative. The system could exchange with its environment some quantities, i.e $dot{Q}$ heat exchange, $dot{W}$ power exchange and $dot{n}_e$ particle exchange. A system is called isolated, if all these quantities are vanishing. An isolated system is in equilibrium, if the entropy production is zero. The definition of entropy production is the part of the entropy rate, which is still there, if you isolated the system. Now there exists different levels of description of such a system. You may treat such a system in quantum mechanical, classical statistical mechanics or on the macroscopic level, but the definitions of energy and entropy should be assumed to be independent of the level of description. Therefore one has to show that the dissipation is always contained in the microscopic theories. We will suggest a possibility to define entropy on the microscopic level. Since the work of Langevin and Einstein who they presented a model of the brownian motion, this principle is quite clear. But it is also clear that the brownian motion is a model for an open discrete system. Therefore we have to open the system, if we are looking for a microscopic description , an example for this is the Caldeira-Legget model. The works of Nakajma, Kawaski and Gunton and Mori show, how one has to introduce dissipation for a set of macroscopic variables. This approach is discussed in the second part of this work. The motivation of this work was to understand a theory called extsc{Generic}, which was introduced by Öttinger and others. The first part of this work is an comparison of GENERIC and rational thermodynamics on the phenomenological level. But on this level,we are not able to understand the meaning of extsc{Generic}. In the second part of this work, we treat such a system in the frame of classical quantum mechanical. But in this theory, we have only a set of macroscopic observables. And we are not able to answer the question, if the entropy production is non negative in general? In the third part, we suggest a possibility to introduce dissipation in the theory of classical statistical mechanics. Therefore we bring in the theory a potential, which describe the interaction between the particle. This potential has the property that its expectation value is zero for all times. Therefore we are only able to observe its correlation function. This postulate allows us to define entropy on the microscopic level, and we found the extsc{Generic}-structure on the microscopic level.</dc:description>
+          <dc:date>2004-05-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/808</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8028</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8028</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/808/guembel_sebastian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

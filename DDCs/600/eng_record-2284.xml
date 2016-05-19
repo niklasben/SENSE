@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2284">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2284</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die Lösung der elastischen Bewegungsgleichung als Modellfall der Schallemission</dc:title>
+          <dc:title xml:lang="eng">The solution of elastic equation of motion as a model of acoustic emission testing</dc:title>
+          <dc:creator>Heinrich, Thomas-Rex</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Es soll herausgefunden werden, ob ein piezoelektrischer Sensor die Anregung durch eine elastische Welle korrekt abbildet. Die Abbildung elastischer Wellen durch Schallemissionssensoren kann nur dann beurteilt werden, wenn das Eingangssignal durch Analyse der Wellenausbreitung bekannt ist, und das berechnete Ausgangssignal von dem gemessenen Ausgangssignal bestätigt wird. Dazu wird ein lineares Modell aufgestellt, das einen zeitbegrenzten punktförmigen Kraftstoß in Achsenrichtung eines Stabes und radial auf den Rand einer Scheibe beschreibt. Gesucht werden das Verschiebungsfeld und das resultierende Sensorsignal. Die analytische Lösung des Anfangs-Randwertproblems mit den vollständigen Wellengleichungen gelingt nicht. Es wird darum eine numerische Rechnung durchgeführt. Zweifache zeitliche Ableitung des numerisch ermittelten Signals und Faltung mit einer idealisierten Impulsantwort des Messsystems ergeben das theoretisch bestimmte Signal, das dem realen Sensorsignal gegenübergestellt wird. Es zeigt sich, dass Sensoren, wenigstens in ihrer ersten Schwingung, das theoretisch zu erwartende Signal produzieren, oder anders herum, dass ein theoretisch erwartetes Sensorsignal unter kontrollierten experimentellen Bedingungen auch gemessen wird.</dc:description>
+          <dc:description xml:lang="eng">The aim is to establish whether a piezoelectric sensor accurately maps stimulus through an elastic wave. Mapping of elastic waves by acoustic emission sensors can only be assessed if the input is known through analysis of the wave propagation, and the calculated output is confirmed by the measured output. For this purpose, a linear model is set up, which describes a time-limited punctiform pressure-impulse in the axial direction of a rod and radially on the rim of a disc. The displacement field and resulting sensor signal are sought. The analytic solution of the initial boundary-value problem with the full wave equations does not succeed. A numerical solution is therefore carried out. Double temporal derivation of the numerically determined signal and convolution with an idealised impulse response of the measurement system yield the theoretically determined signal, which is compared with the real sensor signal. It turns out that sensors, at least in their initial oscillation, produce the theoretically predicted signal or, conversely, that a theoretically predicted sensor signal is also measured under controlled experimental conditions.</dc:description>
+          <dc:date>2009-10-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2284</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23937</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23937</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2284/original_heinrich_thomas.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2284/heinrich_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

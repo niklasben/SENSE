@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1482">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1482</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Benetzungsverhalten an strukturierten Oberflächen</dc:title>
+          <dc:title xml:lang="eng">Wetting behavior at structured surfaces</dc:title>
+          <dc:creator>Bohlen, Holger</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Dissertation werden Benetzungsphänomene einkomponentiger Fluide an strukturierten Substraten unter Verwendung von großkanonischen Monte-Carlo (GCMC) Simulationen untersucht. Die Arbeit ist aus zwei Teilen aufgebaut. Im ersten Teil werden die verwendeten Modellsysteme beschrieben. Diese bestehen aus einem Fluid das von Substraten begrenzt wird, die eine periodische Abfolge von Vertiefungen enthalten. Die Fluideigenschaften sind in den verwendeten Modellsystemen in einer Raumrichtung translationsinvariant. Folglich kann die Dichte des großkanonischen Potentials aus einem entsprechenden "mechanischen" Ausdruck berechnet werden. Durch eine Minimierung der Dichte des großkanonischen Potentials werden thermodynamisch stabile Phasen bestimmt. Mit Hilfe von Auftragungen der Dichte des großkanonischen Potentials als Funktion des chemischen Potentials ist man somit in der Lage diskontinuierliche Phasenübergänge zu lokalisieren. Eine Möglichkeit zur Charakterisierung von Phasenübergängen ist gegeben durch den Adsorptionsüberschuss als Funktion des chemischen Potentials. Die Berechnung des Adsorptionsüberschusses erfolgt aus Dichteprofilen, die im Laufe der GCMC Simulationen ermittelt werden. Der zweite Teil der vorliegenden Arbeit befasst sich mit den Ergebnissen der durchgeführten Untersuchungen. Im Rahmen dieser Dissertation wird der Vorbenetzungsphasenübergang an sägezahnförmig strukturierten Substraten untersucht. Hierbei richtet sich das Augenmerk auf den Effekt, den die Höhe der Struktur auf den Vorbenetzungsphasenübergang hat. Außerdem werden Auffüll- bzw. Entleerungsprozesse innerhalb von Vertiefungen untersucht, die in periodischer Abfolge auf die Oberflächen der Substrate aufgeprägt sind. Die Natur der Prozesse, die innerhalb der Vertiefungen stattfinden, hängt dabei von der Wechselwirkung zwischen den Fluidmolekülen und dem Substrat, von der Form der Vertiefungen und vom Abstand zwischen den Substraten ab.</dc:description>
+          <dc:description xml:lang="eng">During this dissertation grandcanonical Monte-Carlo (GCMC) simulations are employed to investigate wetting phenomena of single component fluids in contact with structured substrates. The dissertation consists of two parts. The first part describes the model systems used within this work. All model systems are composed of a fluid confined between substrates. The substrates contain periodic sequences of grooves in a way that by symmetry system properties are translationally invariant in one direction in space. Accordingly the grand-potential density can be obtained as a closed "mechanical" expression. Throughout this work thermodynamically stable phases are identified by minimisation of the grand-potential density. From plots of the grand-potential density as function of the chemical potential discontinuous phasetransitions can be located. Furthermore, can phasetransitions be characterised by means of the surface excess coverage. The surface excess coverage is calculated from density profiles. This density profiles are also obtained from GCMC simulations. Results of the performed investigations are presented in the second part of the dissertation. One of the focal points is the investigation of prewetting at sawtooth like structured substrates. Of special interest in this context is the impact of the depth of the wedge shaped grooves on prewetting. Furthermore substrates consisting of a periodic sequence of grooves are investigated. The central point of the investigations is the filling and deplition of grooves. The nature of filling and deplition transitions of grooves depend on the interaction between fluidmolecules and the substrate, on the shape of the grooves and on the distance between the substrates.</dc:description>
+          <dc:date>2007-04-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1482</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15341</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15341</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1482/original_doktor_final.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1482/bohlen_holger.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

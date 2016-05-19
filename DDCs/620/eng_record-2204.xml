@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2204">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2204</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Farbmetrische Verarbeitung von Bilddaten von Scanner-Systemen mit geeigneten Prüfvorlagen und Druckerausgabe</dc:title>
+          <dc:title xml:lang="eng">Colorimetrical processing of image data of scanner systems with appropriate test charts and printout</dc:title>
+          <dc:creator>Wagenknecht, Hans</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Eine mathematische Methode zur Farbdatenkontrolle von der Bildaufnahme bis zur Bildausgabe auf der Basis der Farbmetrik wird entwickelt. Alle farbmetrischen Transformationen erfolgen über den Natürlichen Austauschfarbraum NCCS (Natural Colour Connection Space). Die hier vorgestellte Methode der Bildverarbeitung wird daher als Methode NCCS bezeichnet. Die Berechnung der Farbdaten von Bildaufnahme- und Bildausgabegeräten gemäß der Methode NCCS erfolgt in einem Software-Programm und wird an verschiedenen Gerätekombinationen getestet. Als Bildaufnahmegeräte dienen Scanner und Scannereinheiten von Multifunktionsgeräten. Für die Bildausgabe werden Tintenstrahl-Drucker, Laser-Drucker, Foto- und Diabelichter verwendet. Bei der Methode NCCS werden die Farbumfänge aller an einem Arbeitsablauf beteiligten Geräte relativ farbmetrisch auf den Austauschfarbraum NCCS abgebildet. Hierbei ergibt sich der Vorteil, dass Konturen und Farbverläufe in Bildern auf allen am Arbeitsablauf beteiligten Geräten erhalten bleiben. Es konnte gezeigt werden, dass die Methode NCCS sehr gut für die Farbdatenkontrolle von der Bildaufnahme bis zur Bildausgabe geeignet ist. Die Güte eines einzelnen Arbeitsablaufes bei der Geräteansteuerung wurde durch die Bestimmung der erreichten mittleren Farbabstände ermittelt. Die CIELAB-Abstände wurden dabei zwischen reproduzierten Farben von Geräten und den vorgegebenen Farben der Testvorlage berechnet. Die erzielte Ansteuerungsgenauigkeit von Geräten nach der Methode NCCS wurde mit kommerziellen Software-Lösungen verglichen. Hierbei traten bei der Bildausgabe über eine ICC-profilierte Druckeransteuerung im Mittel 30% größere mittlere und 25% größere maximale Farbabstände bei der Farbreproduktion auf als bei einer Druckeransteuerung über die Methode NCCS. Bei der Bildaufnahme traten bei einer ICC-profilierten Scanneransteuerung im Mittel 90% größere mittlere und 115% größere maximale Farbabstände bei der Farbdarstellung auf als bei einer Scanneransteuerung über die Methode NCCS. Beim Gesamtarbeitsablauf traten bei einer ICC-profilierten Geräteansteuerung von Scanner und Drucker im Mittel 90% größere mittlere und 120% größere maximale Farbabstände bei der Farbreproduktion auf als bei einer Geräteansteuerung über die Methode NCCS.</dc:description>
+          <dc:description xml:lang="eng">A mathematical method is developed to control the colour values in a scan to print workflow. The method is based on colorimetry. All colorimetric transformations are passed through the Natural Colour Connection Space - NCCS. Therefore the here presented method of Colour Management is called the method NCCS. A software is developed to test this method. The software is tested with several scanning and printing devices. For the scanning process scanners and scanner units of multifunctional devices are used. The printing process is tested with ink-jet printers, laser printers, photographic-quality-image printers and desktop film recorders. Using the method NCCS the colour-gamuts of all devices of a scan to print workflow are transformed into the Natural Colour Connection Space. All transformations are relative colorimetric. This form of transformation has the advantage that contures in pictures are visible on all devices. The method NCCS was particularly suitable for the control of colour values in a scan to print workflow. The precision of a single workflow was determined by calculating the average colour differences in the CIELAB colour space. The colour differences in the standard CIELAB system were calculated between the reproduced colours of a colour device and the default colours of a given testchart. The quality which was obtained with the method NCCS was compared to the results achieved by standard ICC-workflow methods. For printing devices the average differences in colour reproduction were 30% larger and the maximum differences in colour reproduction were 25% larger by using an ICC-workflow compared to the method NCCS. For scanning devices the average differences in colour reproduction were 90% larger and the maximum differences in colour reproduction were 115% larger by using an ICC-workflow compared to the method NCCS. For the scan to print workflow the average differences in colour reproduction were 90% larger and the maximum differences in colour reproduction were 120% larger by using an ICC-workflow compared to the method NCCS.</dc:description>
+          <dc:date>2009-08-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2204</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22910</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22910</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2204/original_wagenknecht_hans.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2204/wagenknecht_hans.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

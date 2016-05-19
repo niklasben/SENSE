@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4957">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4957</identifier>
+        <datestamp>2014-04-04</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Automatisierte Modellerstellung für die Mehrkörpersystemsimulation : ein Beitrag zur rechnergestützten Integration von Gestaltung und Berechnung in der Entwicklung von Kurbelwellen</dc:title>
+          <dc:title xml:lang="eng">Automated model generation for the multibody system simulation : a contribution to the integration of design and calculation in the development of crankshafts</dc:title>
+          <dc:creator>Sadowski, Torsten</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Integration von Konstruktion und Berechnung im Maschinenbau verspricht eine große Steigerung der Effizienz im Konstruktionsprozess. Die Integration erfordert eine spezialisierte Modellvorbereitung für das im CAD System entworfene Bauteil. Die Modellvorbereitung ist von der Art des Bauteils, der Anwendung und den gewünschten Berechnungen abhängig. &#13;
+Die Realisierbarkeit und der mögliche Effizienzgewinn eines spezialisierten Präprozessors wird untersucht. Die betrachtete Bauteilklasse sind Kurbelwellen in Kolbenverbrennungsmotoren. Das Berechnungsmodell der Kurbelwelle soll für Mehrkörpersystemsimulation des vollständigen Motors verwendet werden. &#13;
+Die vorliegende Arbeit erörtert die Möglichkeiten für die Integration eines spezialisierten Präprozessors in den Konstruktionsprozess. Sie gibt einen detaillierten Überblick über Modelldaten für die Beschreibung der Gestalt in CAD-Systemen und Modelldaten zur Beschreibung von FE-Berechnungsaufgaben sowie Mehrkörpersystemsimulation. Des Weiteren werden allgemeine Präprozessoren für FE-Berechnungsaufgaben und Mehrkörpersystemsimulation betrachtet. &#13;
+Kurbelwellen werden als Beispiel für eine Bauteilklasse verwendet und in der historischen Entwicklung vor und nach der Er�?ndung des Kolbenverbrennungsmotors dargestellt. Im Anschluß folgt ein Überblick der Entwicklung von Berechnungsmethoden für das dynamische Verhalten von Verbrennungsmotoren. &#13;
+Als Nachweis der Machbarkeit wurde im Verlauf der Dissertation der Präprozessor CADSimShaft für die automatisierte Modellaufbereitung von Kurbelwellen vom Autor erstellt. Der Präprozessor vereinigt den gesamten Arbeitsablauf der Modellaufbereitung vom CAD-Modell zum MKS-Modell unter einer graphischen Benutzeroberﬂäche. Die Implementierung beruht vollständig auf quelloffenen Bibliotheken. Von besonderer Bedeutung war die Entwicklung eines robusten Vernetzungsalgorithmus für die zuverlässige Bestimmung der Federeigenschaften der Kurbelwellenteile.&#13;
+Der Präprozessor wurde mit einer Reihe ausgeführter Kurbelwellenmodelle getestet. Praktische Ergebnisse werden für jeden Schritt der Modellaufbereitung vorgestellt. Zusätzlich wurden für eine Kurbelwelle die Auswirkungen von Fehlern der Modellbildung auf die Simulation des vollständigen Motors untersucht.</dc:description>
+          <dc:description xml:lang="eng">The integration of design and calculation in mechanical engineering promises a large increase of efficiency in the design process. The integration requires specialized preprocessing for the CAD designed part. The preprocessing depends on the part type, its application and on the required calculations. &#13;
+The feasibility and possible gain in efficiency of one specialized preprocessor will be analyzed. The examined part type are piston engine crankshafts. The calculation model of the crankshaft will be used in multibody system simulations of the complete engine. &#13;
+This thesis discusses possibilities for the integration of a special preprocessor in the design process. It provides a detailed overview of model data used for shape representation in CAD systems and model data necessary to de�?ne �?nite element and multibody system simulation tasks. Also given is a short overview of general preprocessors for �?nite element caculations and multibody system simulation. &#13;
+Crankshafts are used as a part type example and the historic development of crankshafts before and after the invention of the piston engine is shown. This is followed by an overview of the development of calculation methods for the dynamic behaviour of piston engines. &#13;
+A proof of concept preprocessor CADSimShaft for the automatic preprocessing of crankshafts has been developed by the author in the course of the dissertation. The preprocessor combines to complete model preparation workﬂow from the CAD model to the MBS model under a graphical user interface. The implementation is wholly based on open source libraries. Of special importance was the development of a robust meshing algorithm for a reliable stiffness determination of the crankshaft parts. &#13;
+The preprocessor has been tested with a number of production crankshaft models. Practical results are given for every model preparation step. Additionally, the effects of crankshaft modelling errors on the complete engine simulation are analyzed for one crankshaft model.</dc:description>
+          <dc:date>2014-03-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4957</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49571</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49571</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4957/sadowski_torsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3384">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3384</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung eines Oberflächenmessverfahrens für die bildgebende Erfassung instationärer Wanddruckschwankungsfelder</dc:title>
+          <dc:title xml:lang="eng">Development of a surface measurement method for an imaging detection of unsteady wall pressures</dc:title>
+          <dc:creator>Rathmann, Jan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Erfassung komplexer instationärer Strömungszustände in Windkanalmessungen erfordert sowohl zeitlich als auch flächig hochauflösende Messverfahren, die in der Lage sind, die auf einen Strömungskörper wirkenden Oberflächenkräfte zu erfassen, ohne selbst dessen Umströmung zu beeinflussen. Die vorliegende Arbeit beschreibt die Entwicklung einer druckempfindlichen Copolymerbeschichtung (Pressure Sensitive Copolymer, PSC) mit piezoelektrischen Eigenschaften für die Messung instationärer Oberflächendrücke an komplex dreidimensional geformten Strömungskörpern in Windkanalexperimenten. Mit der PSC-Technologie gelingt es, einen Brückenschlag zwischen der drucksensitiven Flüssigkristallfarbe (Pressure Sensitive Paint, PSP) und der konventionellen Druckmesstechnik zu vollziehen. Dabei werden die Vorteile beider Messverfahren kombiniert, indem die optimale Modellintegration und die hohe räumliche Auflösung von PSP mit der hohen zeitlichen Auflösung der Drucksensoren vereint werden. Damit PSC im Rahmen von Windkanalexperimenten angewendet werden kann, musste zunächst ein auf die aerodynamischen Anforderungen zugeschnittener Herstellungsprozess sowie eine geeignete Messperipherie erarbeitet werden. Neben umfangreichen Kalibrationsmessungen für die Optimierung der sensorischen Eigenschaften wurden verschiedene Windkanalmodelle großflächig mit PSC ausgestattet und vermessen. Im Rahmen der durchgeführten Windkanalexperimente konnten PSC-Beschichtungen in einem breiten Anwendungsspektrum eingesetzt werden. Dabei konnten bei Anströmgeschwindigkeiten von 10-160 m/s Druckfluktuationen im Bereich von 10-2500 Pa mit charakteristischen Frequenzen von fc=30 Hz-4.0 kHz großflächig an bis zu 288 Abgriffen zeitgleich aufgenommen und eine maximale Ortsauflösung von 9 Abgriffen pro Quadratzentimeter erzielt werden.</dc:description>
+          <dc:description xml:lang="eng">The capture of complex unsteady flows in wind tunnel measurements requires measurement techniques providing both a high temporal and a high spatial resolution, which are suitable for investigating the surface forces on a flow body without influencing the actual surrounding flow. The investigation in hand describes the development of a pressure-sensitive copolymer, PSC, with piezo electric properties for measuring unsteady surface pressures in complex threedimensionally shaped flow bodies in wind tunnel experiments. PSC technology succeeds in bridging the gap between pressure-sensitive paint, (PSP) and conventional pressure measurement techniques. It incorporates the advantages of both measurement techniques by combining the optimised model integration and high spatial resolution of PSP with the high temporal resolution of sensor probes. Using PSC in wind tunnel experiments requires a manufacturing process customized for aerodynamic purposes as well as a suitable measuring periphery. In addition to extensive calibration measurements for optimising sensory properties various wind tunnel models were equipped and measured with PSC across a wide area. In the wind tunnel experiments carried out PSC coatings were employed in a broad range of applications. At a flow velocity of u=10-160 m/s pressure fluctuations in the region of p0=10-2500 Pa with characteristic frequencies of fc=30 Hz- 4.0 kHz could be recorded across a wide area at up to 288 taps simultaneously, reaching a maximum spatial resolution of 9 taps/cm2.</dc:description>
+          <dc:date>2012-07-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3384</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35461</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35461</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3384/rathmann_jan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

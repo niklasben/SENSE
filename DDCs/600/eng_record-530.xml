@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:530">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:530</identifier>
+        <datestamp>2014-08-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Effiziente Simulation komplexer Strömungen auf semi-strukturierten Gittern</dc:title>
+          <dc:title xml:lang="eng">Efficient simulation of complex flows using semi-structured grids</dc:title>
+          <dc:creator>Yan, Jianping</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit werden Techniken zur biharmonischen Gittergenerierung und effizienten Glättung entwickelt und auf komplexe, praktisch relevante zwei- und dreidimensionale Konfigurationen angewendet. Validierungen belegen, dass die durch biharmonische Verfahren generierten Netze von hoher Qualität sind und dass Mehrgitterverfahren nicht nur eine deutliche Konvergenzbeschleunigung, sondern auch eine verbesserte Stabilität gegenüber dem Eingitterverfahren erzielen. Zur Beschleunigung der Strömungssimulation mit dem SIMPLE-Algorithmus wird in der vorliegenden Arbeit ein modifiziertes Full Multigrid (FMG) Verfahren mit V-Zyklus entwickelt, bei dem die Startlösung inklusive der Turbulenzvariablen nicht vom feinen Gitter übertragen,sondern vom vorherigen Zyklus übernommen werden. Die Validierung erfolgt an ausgewählten zwei- und dreidimensionalen Testfällen. Als wichtige technische Anwendungsfälle werden die Simulation einer Stufenkörper-Diffusionsflamme und die instationäre Umströmung eines generischen KFZ-Außenspiegels vorgestellt. Für die Simulation der Diffusionsflamme wird das Flamelet-Modell implementiert und Ergebnisse für verschiedene Turbulenzmodelle erzeugt. Beim KFZ-Außenspiegel wird der DES Ansatz im Vergleich zu einer URANS Simulation eingeführt. Bei beiden Testfällen wird deutlich, dass die Wiedergabe der physikalischen Vorgänge stark vom Turbulenzmodellierungsansatz abhängig ist. Gedruckte Version im Mensch &amp; Buch Verlag Berlin [http://www.menschundbuch.de] erschienen.</dc:description>
+          <dc:date>2003-07-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/530</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5251</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5251</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/530/yan_jianping.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

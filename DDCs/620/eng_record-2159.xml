@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2159">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2159</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Differential geometry applied to continuum mechanics</dc:title>
+          <dc:creator>Aubram, Daniel</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Differential geometry provides the suitable background to present and discuss continuum mechanics with an integrative and mathematically precise terminology. By starting with a review of linear geometry in affine point spaces, the paper introduces modern differential geometry on manifolds including the following topics: topology, tensor algebra, bundles and tensor fields, exterior algebra, differential and integral calculi. The tools worked out are applied subsequently to basic topics of continuum mechanics. In particular, kinematics of a material body and balance of mass are formulated by applying the geometric terminology, the principles of objectivity and material frame indifference of constitutive equations are examined, and a clear distinction of the Lagrangian formulation from the Eulerian formulation is drawn. Moreover, the paper outlines a generalized Arbitrary Lagrangian-Eulerian (ALE) formulation of continuum mechanics on differentiable manifolds. As an essential part, the grid manifold introduced therein facilitates a consistent description of the relations between the material body, the ambient space and the arbitrary reference domain of the ALE formulation. Not least, the objective of the paper is to provide a compilation of important formulae and basic results -some of them with a full proof- frequently used by the community. If practical, point arguments and changes in points within equations will be clearly indicated, and component and direct (or absolute) tensor notation will be applied as needed, avoiding a single-track approach to the subject. Printed Version available from Shaker Verlag [http://www.shaker.de/Online-Gesamtkatalog/Details.asp?ISBN=978-3-8322-8154-0].</dc:description>
+          <dc:description xml:lang="deu">Die Differentialgeometrie bietet den geeigneten Hintergrund, um die Kontinuumsmechanik mit einer einheitlichen und mathematisch präzisen Terminologie darzulegen und zu diskutieren. Ausgehend von einem Rückblick auf die lineare Geometrie in affinen Punkträumen führt die Arbeit in die moderne Differentialgeometrie auf Mannigfaltigkeiten unter Berücksichtigung der folgenden Themen ein: Topologie, Tensoralgebra, Bündel und Tensorfelder, Äußere Algebra sowie Differential- und Integralkalküle. Die erarbeiteten Werkzeuge werden anschließend auf grundlegende Themen der Kontinuumsmechanik angewendet. Insbesondere wird die Kinematik eines materiellen Körpers und die Massenbilanz vom geometrischen Standpunkt heraus formuliert, das Prinzip der Objektivität von Tensoren und von Materialgleichungen wird untersucht, und es wird der Unterschied zwischen der Lagrange'schen und der Euler'schen Formulierung auf klärende Weise dargestellt. Desweiteren skizziert die Arbeit eine verallgemeinerte Arbitrary Lagrangian-Eulerian (ALE) Formulierung der Kontinuumsmechanik auf differenzierbaren Mannigfaltigkeiten. Als wesentlicher Bestandteil ermöglicht dabei die eingeführte Gittermannigfaltigkeit eine konsistente Beschreibung der Beziehungen zwischen dem materiellen Körper, dem umgebenden Raum und dem beliebigen Referenzgebiet der ALE Formulierung. Nicht zuletzt besteht die Zielsetzung der Arbeit darin, wichtige Formeln und grundlegende Ergebnisse auf den behandelten Gebieten teilweise auch mit vollständigem Beweis zusammenzustellen. Sofern es zweckmäßig erscheint, werden Punktargumente und der Wechsel der Bezugspunkte in den Gleichungen hervorgehoben. Außerdem wird je nach Bedarf sowohl die Komponentenschreibweise, als auch die direkte oder absolute Schreibweise von Tensoren angewendet und dadurch ein eingleisiges Vorgehen vermieden. Gedruckte Version im Shaker Verlag [http://www.shaker.de/Online-Gesamtkatalog/Details.asp?ISBN=978-3-8322-8154-0] erschienen.</dc:description>
+          <dc:date>2009-06-22</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2159</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22704</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22704</dc:identifier>
+          <dc:identifier>978-3-8322-8154-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2159/aubram_daniel_44.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

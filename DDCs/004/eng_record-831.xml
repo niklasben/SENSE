@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:831">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:831</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Patientenorientierte Verarbeitung und Präsentation medizinischer Bilddaten</dc:title>
+          <dc:title xml:lang="eng">Patient-oriented Processing and Presentation of Medical Image Data</dc:title>
+          <dc:creator>Tschirley, René</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Um interessierten Patienten die Möglichkeit zu geben, sich selbst aktiv um ihre Gesundheit zu kümmern, wurde von der Fachgruppe Computer Graphics and Computer Assisted Medicine der Technischen Universität Berlin das PREPaRe-System (Personal Repository for Electronic Patient Records) entworfen. Es ermöglicht dem Anwender den Abruf seiner eigenen Gesundheitsdaten vom heimischen Personal Computer in der Umgebung seiner Familie oder aus der Praxis des behandelnden Arztes zu einem vertieften Beratungsgespräch. Der in dieser Arbeit vorgestellte Beitrag umfasst die grobe Konzeption und Spezifikation des PREPaRe-Systems, sowie Konzeption, Spezifikation, Design und exemplarische Umsetzung eines Subsystems, das die Vorverarbeitung von dreidimensionalen Tomographiedaten durchführt und die Daten derart aufbereitet, dass der Benutzer aus dem Betrachten der Visualisierungsergebnisse auch ohne medizinische Kenntnisse einen Informationsgewinn erzielen kann.</dc:description>
+          <dc:description xml:lang="eng">To enable the interested patient to participate more actively in his/her personal health care process, the PREPaRe-System (Personal Repository for Electronic Patient Records) was designed by the Department for Computer Graphics and Computer Assisted Medicine at the Technical University of Berlin. It provides the users with the possibility to review their own medical data at home or at the physician's office. The contribution presented in this document includes conception, specification of the PREPaRe system as well as conception, specification, design and implementation of a subsystem which implements image preprocessing of three dimensional tomographic data. The preprocessing subsystem provides the knowledge which is required to transform the raw medical data into easy to understand objects.</dc:description>
+          <dc:date>2004-05-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/831</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8247</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8247</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/831/tschirley_rene.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

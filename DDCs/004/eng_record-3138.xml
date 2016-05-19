@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3138">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3138</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Suchbasierter Strukturtest für Simulink Modelle</dc:title>
+          <dc:title xml:lang="eng">Search-based Structural Testing for Simulink Models</dc:title>
+          <dc:creator>Windisch, Andreas</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die strukturorientierte Testdatengenerierung ist eine besonders aufwändige Aufgabe beim Test komplexer Modelle. Eine Automatisierung dieser Aufgabe verspricht signifikante Kosteneinsparungen und eine Erhöhung der erzielten Testqualität. Existierende Ansätze zur Automatisierung des strukturorientierten Tests für Modelle basieren hauptsächlich auf symbolischer Ausführung und Constraint Solving oder der Zufallssuche. Diese Ansätze unterliegen jedoch insbesondere für komplexe Modelle Einschränkungen, die zu einer starken Begrenzung sowohl ihrer Anwendbarkeit als auch der von ihnen erzielten strukturellen Überdeckung des Modells führen. Darüber hinaus spielt die Plausibilität der generierten Testdaten bei den existierenden Ansätzen eine untergeordnete Rolle. In dieser Arbeit wird ein Verfahren zur Automatisierung der strukturorientierten Testdatengenerierung für komplexe Modelle entwickelt. Die Aufgabe der strukturorientierten Testdatengenerierung wird in ein Optimierungsproblem transformiert, welches mit Hilfe eines metaheuristischen Suchverfahrens gelöst wird. Während der Suche werden Anforderungen des Testers an die zu erstellenden Testdaten berücksichtigt. Diese Anforderungen umfassen einfache Amplitudenbeschränkungen ebenso wie komplexe Signal Constraints. Das Ergebnis ist ein automatisiertes Verfahren, welches die Generierung plausibler Testdaten zur Erreichung einer hohen strukturellen Überdeckung für komplexe Modelle ermöglicht. Die Effektivität des Verfahrens konnte anhand einer experimentellen Fallstudie nachgewiesen werden. Im Vergleich mit existierenden Verfahren konnte eine signifikant höhere strukturelle Überdeckung der verwendeten Testobjekte erreicht werden. Ferner wurden die spezifizierten Signal Constraints nahezu vollständig erfüllt.</dc:description>
+          <dc:description xml:lang="eng">Structure-oriented test data generation is a particularly laborious task in testing complex models. An automation of this task promises significant cost reductions and an improvement of the realized test quality. Existing approaches for automating structure-oriented testing of models are primarily based on symbolic execution and constraint solving or random search respectively. In particular for complex models these approaches are subject to restrictions, which lead to limitations of both their applicability and the achieved structural coverage of the model. In addition, plausibility of generated test data plays a less significant role in existing approaches. In this work a new approach for automating structure-oriented test data generation for complex models is developed. The task of generating suitable test data is transformed in an optimization problem, which is attempted to be solved by means of a metaheuristic search technique. Specific requirements of the tester on the test data to be generated are considered during search. These requirements include simple amplitude restrictions as well as more complex signal constraints. The outcome of this work is an automated approach allowing for the generation of plausible test data for reaching high structural coverage for complex models. The effectiveness of the approach has been demonstrated using an experimental case study. In comparison to existing approaches a significantly higher structural coverage of the used test objects has been reached. Furthermore, the specified signal constraints have almost completely been achieved.</dc:description>
+          <dc:date>2011-11-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3138</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33097</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33097</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3138/windisch_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3262">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3262</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung einer ABK-Metapher für gruppierte Fahrerassistenzsysteme</dc:title>
+          <dc:title xml:lang="eng">Development of a HMI-metaphor for grouped Advanced Driver Assistance Systems</dc:title>
+          <dc:creator>Lindberg, Thomas</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="deu">Fahrerassistenzsysteme (FAS) der Bahnführungsebene halten seit den späten 90er Jahren sukzessive Einzug in Serienfahrzeuge und erhöhen damit die Sicherheit im Straßenverkehr. Die im Zuge dieser Entwicklung etablierten Produkte wie Aktive Geschwindigkeitsregelung (ACC), Spurverlassens-Warnung oder Auffahrwarnung werden künftig mit neuen Systemen wie Kreuzungsassistenten oder Querführung im Stau ergänzt. Die steigende Menge an Assistenten kann jedoch nur dann sinnvoll genutzt werden, wenn Nutzerschnittstelle und Interaktion mit dem Fahrer ergonomisch optimal ausgelegt sind. Diese Arbeit beschäftigt sich daher mit der Entwicklung von integrativen Anzeige-Bedienkonzepten (ABK) für ein Fahrzeug mit vielen Fahrerassistenzsystemen. Nach einer Bedarfsanalyse und einem Ausblick auf die bis 2015 realisierbaren FAS-Funktionen wird der mentale Wahrnehmungsraum der Fahrer mit Hilfe von Kartensortier-Experimenten erforscht. Die Ergebnisse geben Aufschluss darüber, welche FAS nach Ansicht der Nutzer am ehesten zusammengehören. Darauf aufbauend, werden zwei Beispiele für integrierte Fahrerassistenz entwickelt, im Fahrsimulator implementiert und anschließend in Probandenversuchen bewertet. Im ersten Beispiel werden dazu die Systeme Spurverlassenswarnung und Spurwechsel-Assistent in einem Gesamtsystem vereint und mit verschiedenen Rückmelde-Strategien ausgestattet. Die Ergebnisse zeigen auf, daß Fahrer einerseits die Nutzfälle dieser Warnsysteme nach Kritikalitäten unterscheiden können und eine kritikalitätsbasierte Rückmeldestrategie bevorzugen. Andererseits lassen die Daten vermuten, dass die Kritikalitätswahrnehmung nicht ausschließlich von der erwarteten Unfallschwere, sondern auch von subjektiven Faktoren wie einer bewussten Spurwechsel-Entscheidung abhängt. Das zweite Beispiel widmet sich der Definition einer neuen Bedienmetapher, die ABK für Sicherheits-FAS in Gruppen zusammenfasst. Dieses als Kritikalitäts-Raum-Metapher bezeichnete Konstrukt bildet die Basis eines neuen Anzeige-Bedienkonzepts, das ebenfalls im Simulator umgesetzt und mit einem herkömmlichen Einzelsystem-Ansatz hinsichtlich Verständnis und Gebrauchstauglichkeit verglichen wird. Das neue Konzept zeigt keine Nachteile gegenüber der Einzelsystem-Bedienung auf und wird von den Probanden gesamthaft besser bewertet. Darüberhinaus ergeben sich konkrete Hinweise auf Verbesserungspotenziale und weitere Ausbaumöglichkeiten.</dc:description>
+          <dc:description xml:lang="eng">Advanced Driver Assistance Systems (ADAS) have been gradually introduced into series production cars since the late 90s and have since continued to significantly increase road safety. New systems like intersection or traffic jam assistants will enhance established features like Active Cruise Control (ACC), Lane Departure Warning and Frontal Collision Warning. However, the increasing amount of functionality only makes sense in conjunction with ergonomically optimized driver interfaces. Therefore, this thesis deals with the development of integrated Human-Machine- Interfaces (HMI) for cars equipped with multiple ADAS. Firstly, a user-needs-analysis and an outlook on useful assistance functions realizable until 2015, is introduced. Next, card sorting experiments reveal the perceptual space of drivers in terms of driver assistance.The results show which functions most likely belong together according to the users. From this analysis, two examples of integrated driver assistance systems are developed, implemented in a driving simulator and evaluated with several experiments. The first example combines Lane Departure Warning and Lane Change Assistant into one system with different feedback strategies. The evaluation results show that drivers can differentiate usecases in terms of criticality and can also prefer a criticality-based feedback approach. However, objective data indicates that the perception of criticality is not solely determined by the expected accident severity, but also by subjective factors like the intention to change lanes. The second example defines a new control metaphor that combines safety ADAS-HMI in groups. Referred to hereafter as a Criticality-Space-Metaphor, this new concept is the basis of an alternative Human-Machine-Interface, which is also implemented in the simulator and compared to a conventional single-system approach in terms of usability and understanding. The new concept proves to be as good as a single-system operation in most aspects and eventually gets a better overall rating. Furthermore, the evaluation trial uncovers optimization potentials and further possibilities for expansion.</dc:description>
+          <dc:date>2012-03-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3262</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34340</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34340</dc:identifier>
+          <dc:identifier>978-3-8439-0277-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3262/lindberg_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

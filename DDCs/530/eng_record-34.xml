@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:34">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:34</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die Bestimmung der optischen Selektivität von W/Al(index2)O(index 3)-Schichten nach Auslagerung bei 500°C mittels spektraler Ellipsometrie zwischen 0,25 und 25 mikro-m</dc:title>
+          <dc:creator>Djahanbakhsh, Mohammad</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Optisch selektive W/Al(index 2)O(index 3)-Cermetschichten wurden im CVD- und Sputterverfahren hergestellt. Als Ausgangsmaterial für das CVD-Verfahren wurden Wolframhexcarbonyl und Aluminiumtrioisopropylat (ATI) verwendet. Die Targets beim Sputterverfahren bestanden aus Wolfram-Aluminiumoxid-Sinterlingen unterschiedlicher Zusammensetzung. Zur Untersuchung der optischen Selektivität des Systems der W/Al(index 2)O(index 3)-Cermetschichten wurden Zusammensetzung, Dicke und Substrat der Cermetschichten variiert. Als Substrat wurde 1.4301 Cr-Ni-stahl und OFHC-kupfer verwendet. Die W/Al(index 2)O(index 3)-Cermetschichten aus beiden Herstellungsverfahren bestehen direkt nach der Herstellung aus Wolfram, Wolframoxiden und Aluminiumoxid. Um Wolframoxide der Schichten zu Wolfram zu reduzieren, wurden die proben direkt nach der Herstellung zwei Stunden in Reinstwasserstoff bei 750°C getempert. Die Proben wurden bei 500°C bei einem logarithmischen Zeitskalar 10, 100 und 1000 Stunden im Vakuum bei laufenden Pumpen ausgelagert, wobei sie nach jeder zeitlichen Temperaturbehandlung für die optischen Messungen auf Raumtemperatur gebracht wurden. Die Änderung der Zusammensetzung der Proben wurde mit der EDX-Analyse untersucht. Die Untersuchung der optischen Eigenschaft der W/Al(index 2)O(index 3)-Cermetschichten wurde mit zwei Ellipsometern spektral von 250 bis 1700 nm und von 2000 bis 25000 nm gemessen. Die optischen Eigenschaften der solarselektiven W/Al(index 2)O(index 3)-Schichten auf metallischen Unterlagen wurde durch Variation der Zusammensetzung, Dicke und Rauhigkeit mit Hilfe der Theorie effektiver Medien und der Fresnelschen Gleichungen berechnet. Zur Anpassung der gemessenen spektralen ellipsometrischen Messungen an W/Al(index 2)O(index 3)-Cermetschichten wurde das Down-Hill-Simplex-Verfahren verwendet. Mit den Schichtparametern, die durch die Anpassung gewonnen wurden, wurde die spektrale Reflexion bei senkrechtem Einfallswinkel und daraus die solare Absorption berechnet. Mit der Variation der Einfallswinkel zwischen 0° und 85° wurde die Reflexion und winkelabhängiger Emissionsgrad berechnet. Die Berechnung des hemisphärischen Emmisionsgrads erfolgt über die Integration des gerichteten Gesamtemissionsgrads über den Halbraum. Nur die Schichten mit geringen Schichtdicken bis 200 nm besitzen eine gute solare Absorption und geringe thermische Abstrahlung. Die Ergebnisse der EDX-Analyse und der ellipsometrischen Messungen zeigen, daß die Wasserstofftemperung großen Einfluß auf die optischen Eigenschaften der W/Al(index 2)O(index 3)-Cermetschichten hat. Danach bewirkt eine Auslagerung im Vakuum bei 500°C nur wenig Veränderung bezüglich der Zusammensetzung und der optischen Eigenschaften der W/Al(index 2)O(index 3)-Cermetschichten. Besonders die Schichten auf OFHC-Kupfer zeigen einen sehr geringen hemisphärischen Gesamtemissionsgrad, wobei durch weitere Optimierung im Sonnenspektrumbereich eine bessere solare Absorption erreicht werden kann. Das System W/Al(index 2)O(index 3) auf Edelstahl- und OFHC-Kupfer-Substrat kann möglicherweise als Ersatz dafür zum System Molybdän/Aluminiumoxid betrachtet werden.</dc:description>
+          <dc:date>2000-05-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/34</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-315</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-315</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/34/djahanbakhsh_mohammad.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

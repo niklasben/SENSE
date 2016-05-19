@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:49">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:49</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Molekulargenetische und biochemische Analyse der Biosynthese von 2-Methyl-4-carboxy-3,4,5,6-tetrahydropyrimidin und seinem 5-Hydroxyderivat, zwei salzstreßinduzierbaren Osmolyten, in Streptomyces chrysomallus</dc:title>
+          <dc:creator>Grammel, Nicolas</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Die Tetrahydropyrimidinderivate THP(B) (Ectoin) und THP(A) (Hydroxyectoin) zählen zu den wichtigsten intrazellulär gebildeten Osmolyten bei den halophilen Bakterien und den Streptomyceten. Eine Reihe von Arbeiten stellte einen Zusammenhang zwischen der THP-Biosynthese und der Salzstreßantwort in Streptomyceten her. Ein postulierter Weg der Biosynthese von THP(B) verläuft vom L-Aspartat-b- Semialdehyd über die L-2,4-Diaminobuttersäure (DABA) und N-Acetyl-L-2,4-Diaminobuttersäure. Durch Isolierung und Reinigung der DABA-Acetyltransferase wurde die Klonierung des THP-Biosynthesecluster in dem Actinomycin D produzierenden Streptomyces chrysomallus durch reverse Genetik ermöglicht. Die DABA-Acetyltransferase wurde in sieben Schritten partiell aus S. chrysomallus gereinigt. Dabei zeigte sich, daß die Bildung der DABA-Acetyltransferase durch einen Salzschock der Kultur induziert wurde. Das Gen der Acetyltransferase sowie die weiteren THP-Biosynthesegene wurden auf einem Cosmid, welches aus einer Cosmidgenbank genomischer S. chrysomallus DNA stammte, gefunden. Das identische Cosmid wurde durch Koloniehybridisierung mit einer synthetischen Oligonukleotidsonde, deren Sequenz von einer tryptischen Peptidsequenz der DABA-Acetyltransferase abgeleitet wurde, gefunden. Neben dem als thpA bezeichneten Gen, das für die DABA-Acetyltransferase (19,3 kDa) kodiert, wurden noch sieben weitere offene Leserahmen (ORF) gefunden, von denen die Gene thpB, thpC und thpD, die direkt nach dem thpA im 3'-Bereich folgen, in der THP-Biosynthese involviert sind. Die Expression von thpA in E. coli als Hexa-His-Fusionsprotein ergab ein Protein der erwarteten Größe, welches zur Homogenität gereinigt wurde. Die enzymatische Analyse ergab, daß das Protein die Acetylierung von DABA mit Acetyl-Coenzym A katalysiert. Bei Datenbankrecherchen zeigten thpB und thpC hohe Ähnlichkeiten zu den THP(B)-Biosynthesegenen aus halophilen Prokaryonten (thpB zu einer L-Aspartat-b-Semialdehyd-Transaminase und thpC zu einer AcDABA-Cyclase). ThpD zeigte hohe Ähnlichkeiten zu a-Ketoglutarat abhängigen Dioxygenasen. Die Expression von thpC und thpD in E. coli führte in beiden Fällen zu inaktiven Enzymen. Die Gene wurden daher in Streptomyces lividans unter der Kontrolle des mel-Promotors als Hexa-His-Fusionsprotein exprimiert. Im Falle von thpC konnte jedoch neben der endogenen Enzymaktivität keine Zunahme der AcDABA-Cyclaseaktivität festgestellt werden. Dagegen führte die Expression von thpD in S. lividans zu einem Protein mit der erwarteten Größe von 34,1 kDa. Nach der Aufreinigung zur Homogenität konnte gezeigt werden, daß das durch thpD kodierte Protein die a-Ketoglutarat abhängige Hydroxylierung von THP(B) zu THP(A) katalysiert. Als Cofaktor wurde Fe2+ benötigt. Eine Stimulierung der Hydroxylaseaktivität konnte durch Zugabe von Ascorbinsäure und Katalase erreicht werden. Damit wurde erstmals die Hydroxylierung von THP(B) zu THP(A) in vitro durchgeführt. Im 5'-Bereich von thpA befindet sich orfB, der für eine mögliche Aspartat-Aminotransferase kodiert. Da der Vorläufer der THPs das L-Aspartat ist, könnte auch dieses Gen an der THP-Biosynthese beteiligt sein. Im 3'-Bereich von thpD folgt orfC und orfD. Das von orfC abgeleitete Protein zeigte bei der Datenbankanalyse keine Ähnlichkeit zu bekannten Proteinen. Der nach orfC in entgegengesetzter Orientierung zu den THP-Genen folgende orfD kodiert für ein Protein, das hohe Ähnlichkeiten zu NADH abhängigen Oxidoreduktasen zeigt. Durch diese Daten war es erstmals möglich, den Mechanismus der THP(B)- und insbesondere der THP(A)-Biosynthese in Streptomyces chrysomallus aufzuklären und die in vitro Synthese von THP(B) und THP(A), ausgehend von der L-2,4-Diaminobuttersäure, durchzuführen.</dc:description>
+          <dc:date>2000-06-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/49</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-469</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-469</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/49/grammel_nicolas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

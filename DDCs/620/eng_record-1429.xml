@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1429">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1429</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Strukturen von Batterie- und Energiemanagementsystemen mit Bleibatterien und Ultracaps</dc:title>
+          <dc:title xml:lang="eng">Structures of Battery- and Energy Management Systems using Lead-Acid Batteries and Ultracaps</dc:title>
+          <dc:creator>Heinemann, Detlef</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden Strukturen von Batteriemanagementystemen entworfen, zwei Batteriemanagementsysteme für Bleibatterien, sowie ein hybrides Energiemanagementsystem zur Kombination einer Bleibatterie und eines Ultracaps entwickelt, getestet und bewertet. Die Systeme werden in Elektrofahrzeugen eingesetzt. Die entworfenen Strukturen für Batteriemanagementsysteme basieren jeweils auf dem Betriebsverhalten der Antriebsbatterie. Ziel eines jeden Batteriemanagementsystems ist die Erhöhung der Zuverlässigkeit, der Sicherheit und der Lebensdauer der Antriebsbatterie. Ein geeignetes Batteriemanagementsystem (BMS) ist immer auf die genutzte Batterie abgestimmt, d.h. es berücksichtigt die elektrochemischen Eigenschaften des Batteriesystems und den jeweiligen Einsatzfall. Diese Arbeit beschreibt deshalb das Betriebsverhalten und die elektrochemischen Eigenschaften von derzeit industriell gebräuchlichen Sekundärbatterien. Aus deren Eigenschaften werden die Anforderungen an Batteriemanagementsysteme zum schädigungsfreien Betrieb der Batterien abgeleitet. Je nach Einsatzgebiet müssen einzellige, mehrzellige oder vielzellige Batterien vom BMS überwacht werden. Die Applikation und die Batteriegröße haben dabei Auswirkungen auf die Struktur des BMS. Diese Einflüsse werden diskutiert. Am Beispiel von Traktionsanwendungen für Elektrostraßenfahrzeuge werden Strukturen von Batteriemanagementsystemen für unterschiedliche Batteriesysteme diskutiert. Die Ladezustandsbestimmung ist dabei eine der Hauptanforderungen an ein BMS. Bei einer zuverlässigen Ladezustandsbestimmung der einzelnen Batteriezelle einer vielzelligen Batterie kann ein batterieschädigender Betrieb der Gesamtbatterie vermieden werden und eine Maximierung der Lebensdauer erreicht werden. Gebräuchliche Verfahren werden dargestellt und im Hinblick auf eine wirtschaftliche Implementierung im BMS untersucht. Für ein Elektrofahrzeug und ein Elektroleichtfahrzeug wird die Entwicklung, Realisierung und Bewertung je eines BMS dargestellt. Die Systeme zeigen die Notwendigkeit und die Möglichkeiten des BMS auf. Die zusätzliche Implementierung eines Ultracaps in das Elektroleichtfahrzeug mit der Erweiterung des BMS zu einem Energiemanagementsystem (EMS) führt zu deutlich verbesserten Fahrleistungen, speziell im Winterbetrieb. Die Entwicklung und Umsetzung einer geeigneten Betriebsstrategie wird ausführlich dargelegt. Die Ergebnisse eines Testbetriebes über 4 Jahre zeigen beim Einsatz eines hybriden Energiespeichers aus Bleibatterie und Ultracap die Grenzen eines wirtschaftlich und technisch sinnvollen Betriebes eines solchen Systems gegenüber einer reinen Batterielösung auf. Gleichzeitig konnte der lebensdauerverlängernde Einfluss des BMS nachgewiesen werden. Ein geeignetes und auf die Batterie abgestimmtes BMS kann die Gesamtkosten eines Batteriesystems, und damit des Elektrofahrzeugs, über die Gesamtlebensdauer signifikant senken.</dc:description>
+          <dc:description xml:lang="eng">The following thesis discusses structures of battery- and energy management systems for electric vehicles. Two different battery management systems (BMS) for electric vehicles have been developed, tested and evaluated. A battery management system should increase the reliability, safety and economic life-time of a battery. Each battery management system has to be adapted to the battery used in the specific application. The Behavior and electrochemical properties of different secondary batteries have been described. From that, structures of battery management systems to meet the requirements of the batteries have been discussed for different applications. A reliable forecast of the state-of-charge (SOC) of each cell of a battery is a condition precedent to meet the demands on BMS. A model of a lead-acid been has been adapted to electric vehicle batteries and load profiles. The results have been used to enhance the reliability of the SOC-prediction. Overcharging and deep discharge of traction battery modules is avoided by the BMS under all circumstances. The implementation of Ultracaps to the demonstrator vehicle results in a less harmful load profile for the battery and increases the lifetime of the battery significantly. The range of the demonstrator vehicle increases not as hoped for. Especially under winter conditions the implementation of Ultracaps results in better vehicle performance. The testing results over 4 years point up the technical possibilities of increasing lifetime and performance and also the economical limitations of the additional implementation of a second energy storage system and new electronic management systems.</dc:description>
+          <dc:date>2007-01-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1429</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14820</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14820</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1429/original_Heinemann_Detlef.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1429/Heinemann_Detlef.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

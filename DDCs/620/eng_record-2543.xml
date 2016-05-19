@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2543">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2543</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Low Complexity Text and Image Compression for Wireless Devices and Sensors</dc:title>
+          <dc:title xml:lang="deu">Text- und Bildkompression geringer Komplexität für drahtlose Geräte und Sensoren</dc:title>
+          <dc:creator>Rein, Stephan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The primary intention in data compression has been for decades to improve the compression performance, while more computational requirements were accepted due to the evolving computer hardware. In the recent past, however, the attributes to data compression techniques have changed. Emerging mobile devices and wireless sensors require algorithms that get along with very limited computational power and memory. The first part of this thesis introduces a low-complexity compression technique for short messages in the range of 10 to 400 characters. It combines the principles of statistical context modeling with a novel scalable data model. The proposed scheme can cut the size of such a message in half while it only requires 32 kByte of RAM. Furthermore it is evaluated to account for battery savings on mobile phones. The second part of this thesis concerns a low-complexity wavelet compression technique for pictures. The technique consists of a novel computational scheme for the picture wavelet transform, i.e., the fractional wavelet filter, and the introduced wavelet image two-line (Wi2l) coder, both having extremely little memory requirements: For compression of a 256x256x8 picture only 1.5 kBytes of RAM are needed, while the algorithms get along with 16 bit integer calculations. The technique is evaluated on a small microchip with a total RAM size of 2 kBytes, but is yet competitive to current JPEG2000 implementations that run on personal computers. Typical low-cost sensor networks can thus employ state-of-the-art image compression by a software update.</dc:description>
+          <dc:description xml:lang="deu">In der Vergangenheit lag der Schwerpunkt bei der Entwicklung neuer Datenkompressionsverfahren auf der Verbesserung der Kompressionsrate, wobei mehr Rechenaufwand in Kauf genommen wurde, da sich die Computer Hardware immer stetig weiter entwickelt hat. Die aktuelle Entwicklung zeigt aber, dass mobile Geräte und drahtlose Sensoren immer mehr Verbreitung finden. Gängige Verfahren laufen jedoch auf diesen Systemen nicht, da sie nur wenig Rechenleistung und Speicher zur Verfügung stellen. Der erste Teil dieser Arbeit stellt ein Verfahren vor, das kurze Nachrichten von 10 bis 400 Zeichen mit wenig Aufwand komprimieren kann. Dabei werden die Prinzipien der statistischen Kontext-Modellierung mit einem neuartigen skalierbaren Datenmodell kombiniert. Das vorgestellte Verfahren reduziert die Größe der Nachrichten auf die Hälfte, wobei es nur 32 kByte RAM Speicher benötigt. Außerdem wird durch Messungen belegt, dass Mobiltelefone damit Batterieenergie einsparen können. Im zweiten Teil der Arbeit wird ein Verfahren mit geringer Komplexität zur Bildkompression mit Wavelets behandelt. Das Verfahren besteht aus einer neuen Berechnungsvorschrift für die Wavelet-Transformation von Bildern, dem sogenannten Fractional Wavelet Filter, und dem vorgestellten Wavelet Image Two-Line Coder (Wi2l). Der Speicherbedarf ist dabei extrem gering: Um ein 256x256x8 Bild zu komprimieren sind nur 1.5 kByte RAM Speicher notwendig, wobei nur 16 Bit Integer-Berechnungen durchgeführt werden. Die Technik wird auf einem kleinen Mikrocontroller mit 2 kByte RAM verifiziert und erreicht dabei trotzdem vergleichbare Ergebnisse wie aktuelle JPEG2000 Programme, die auf PCs laufen. Die neuartige Bildkompressionstechnik ermöglicht es, dass preiswerte Sensoren oder Sensornetzwerke Bildkompression anwenden können, die dem aktuellen Stand der Technik entspricht.</dc:description>
+          <dc:date>2010-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2543</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26779</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26779</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2543/rein_stephan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

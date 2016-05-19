@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2879">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2879</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Effiziente Verifikation der Robustheit komplexer integrierter Schaltungen</dc:title>
+          <dc:title xml:lang="eng">Efficient Verification of the Robustness of Integrated Circuits</dc:title>
+          <dc:creator>Morgenstern, Haiko</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Elektrostatische Entladungen (Electrostatic Discharge, kurz ESD) treten im Alltag häufig auf und können integrierte Schaltkreise irreversibel schädigen. Die Verifikation integrierter Schaltkreise zur Sicherung der Robustheit gegenüber elektrostatischen Entladungen ist ein komplexer Prozess, bei dem Expertenwissen sowohl im Bereich der Technologie als auch der Schaltungstechnik vorhanden sein muss. Häufig wird das Verhalten der Bauelemente außerhalb normaler Betriebsparameter in der Simulation nicht korrekt wiedergegeben, so dass Schaltungsentwickler das mächtige Werkzeug der Schaltungssimulation hier nicht verwenden können. In der vorliegenden Arbeit wurde eine Methodik entwickelt, welche die Schaltungssimulation von integrierten Mixed-Signal-Schaltkreisen beim Auftreten von elektrostatischen Entladungen durch entsprechende Simulationsmodelle ermöglicht. Weiterhin wurde durch eine Analyse der Simulationsergebnisse und deren Visualisierung die Verifikation und Optimierung hinsichtlich der ESD-Robustheit zum Teil automatisiert und dadurch wesentlich schneller und sicherer. Um die Ausfallmechanismen von Halbleiterbauelementen beim Auftreten elektrostatischer Entladungen zu modellieren, wurden Vor- und Nachteile der in Frage kommenden Beschreibungssprachen herausgearbeitet. Anschließend wurde detailliert auf die Möglichkeiten effizienter Schaltungssimulationen mittels verschiedener Analysearten eingegangen. Hierbei lag der Fokus auf der Reduktion der Simulationsdauer, der Konvergenz sowie der Genauigkeit der Simulationsergebnisse. Die vorgeschlagene Methodik zur Verifikation von integrierten Schaltkreisen gegenüber elektrostatischen Entladungen wurde bereits bestehenden Ansätzen gegenübergestellt. Die erarbeitete Methodik wurde in dem ESD-Analysewerkzeug CLEX umgesetzt. Dieses Werkzeug ist vollständig in die Entwicklungsumgebung Cadence® Design Framework II integriert und unterstützt den Schaltungsentwickler während des gesamten Entwicklungsablaufes bei der ESD-Schaltungsverifikation. Am Beispiel von Smart-Power-Schaltkreisen wurde die Funktionalität der in dieser Arbeit entwickelten Verifikationsmethodik überprüft. Es hat sich dabei gezeigt, dass bei Anwendung dieser Verifikationsmethodik kostenintensive Überarbeitungen von Schaltungen im Fall von negativen ESD-Tests nach der Herstellung vermieden werden können und der Prozess der Fehleridentifikation und -korrektur wesentlich beschleunigt wird. Im Fall eines durch den Einsatz von CLEX vermiedenen Full-Mask-Redesign wird somit der Entwicklungsablauf eines Schaltkreises um mehrere Wochen verkürzt.</dc:description>
+          <dc:description xml:lang="eng">Electrostatic discharges (ESD) occur often in our everyday life and may damage integrated circuits irreversibly. The verification of the robustness of integrated circuits during ESD is a complex process, which needs expert knowledge in the fields of semiconductor technology as well as circuit design. Often, the device characteristics are not reflected by the simulation models beyond their normal operating conditions. Consequently, the circuit designer is not able to use simulators with conventional simulation models for the ESD verification. Therefore, in this work, a methodology is developed, which enables ESD simulations of integrated mixed-signal circuits using novel simulation models. Furthermore, by analyzing the simulation data and highlighting the resulting current paths in the schematic, the verification and optimization process of the ESD protection concept is automated resulting in a time optimized and less error prone design flow. To model the failure mechanism of semiconductor devices during the occurrence of ESD, advantages and disadvantages of possible description languages are also discussed. Subsequently, the possibilities of efficient circuit simulations using different simulation approaches are evaluated. The focus, thereby, lies on the reduction of the simulation time as well as the establishment of numerical stability and precision of the simulation results. The developed verification methodology was implemented as ESD-analysis software CLEX. This tool is fully integrated into the development environment Cadence® Design Framework II and supports the circuit designer during the entire design flow. To verify the functionality of CLEX, the developed verification methodology was applied to several Smart-Power circuits. It is shown that the consequent application of this verification flow may prevent costly redesigns resulting from ESD problems after fabrication and significantly speeds up the process of failure analysis. In the case that a full-mask-redesign is prevented by the application of CLEX, the development flow of a circuit will be shortening by several weeks.</dc:description>
+          <dc:date>2011-05-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2879</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30414</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30414</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2879/morgenstern_haiko.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

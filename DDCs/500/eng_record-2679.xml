@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2679">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2679</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Identifizierung von gerichteten und ungerichteten Stressreaktionen als Effektoren im nicht-viralen Transfektionsprozess</dc:title>
+          <dc:title xml:lang="eng">Positively effects on efficiency of non-viral gene delivery</dc:title>
+          <dc:creator>Graf, Eva</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Es wurden für eine Transfektionssteigerung neue Regulationsmechanismen des nicht-viralen Transfektionsprozesses wie cytosolischer Stress und der Verlust von Stresstoleranz identifiziert. Die Steigerungen der Transfektionseffizienzen beruhen in beiden Fällen hauptsächlich auf der Perturbation des endozytotischen Transports. Diese Mechanismen sind vom gentherapeutischen Interesse, weil erstens die identi-fizierten Stressoren Diamid, H2O2, Zink und DIDS in Hefe sowie in den Säugerzellli-nien HepG2 und A549 reversibel wirken und somit gut regulierbar sind. Außerdem lassen sich die Effekte von Stressoren unterschiedlicher Wirkweisen als zweiten Punkt ergänzen. Da cytosolischer Stress durch ein Transporter-Substrat wie Quinidin in einer Zelle, deren (Quinidin-) Exporter inhibiert ist, gut reguliert und erzeugt wer-den kann, sowie ein Verlust der cytosolischen Stress-Toleranz in Form eines Defek-tes in der oxidativen Stressantwort oder in zellulären Entgiftungsprozessen in Hefe eine gezielte und einfache Regulation ermöglicht, können als dritten gentherapeu-tisch interessanten Punkt Inhibitoren bzw. neue Target-Proteine für die Pharmafor-schung definiert werden. Um auf ubiquitär wirkende Stressoren gänzlich verzichten zu können, aber eine Transfektionssteigerung zu erzielen, können auch einzelne Transportschritte der En-dozytose wie der durch Rab5a vermittelte mittels siRNA spezifisch blockiert werden.</dc:description>
+          <dc:description xml:lang="eng">For gene delivery techniques can be used viral and non-viral vectors. Viral vectors are more complex and time consuming to prepare, can be infectious, and require a greater degree of expertise in handling than non-viral vectors. Thus the non-viral gene transfer has become the method of choice for cell line grown in vitro. Non-viral gene delivery systems are based on endocytosis, but still hampered by low efficiency. The non-viral vector must be taken up by fluid phase endocytosis, translocated through the membrane, and finally transported via the endocytic pathway into the nucleus. In this report we describe new regulation mechanisms to increase the transfection rate using non-viral vectors in the mammalian cell lines HepG2 and A549 as well as in yeast Saccharomyces cerevisiae. Therefore we focus on the intracellular endocytic transport. First the specific down regulation of the early endocytosis involved key protein GTPase Rab5a mediated by siRNA enhances the transfection efficiency significantly in the tested mammalian cell lines. Second less specific acting stressors such as zinc chloride, DIDS, diamide and hydroperoxide advances the gene delivery in the tested mammalian cell lines as well as in yeast. Further we exemplify that external stress can be mimicked by manipulated internal pathways such as interruption of stress response pathways in yeast. As internal pathways we investigated two different kinds of cytosolic stress responses: oxidative and transporter mediated stress response. Stress and the loss of stress tolerance increase the transfection rate via impacts on endocytosis and vacuolar fusion. Finally, disturbing intracellular endocytic steps results in increasing non-viral gene delivery.</dc:description>
+          <dc:date>2010-10-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2679</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22239</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22239</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2679/graf_eva.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

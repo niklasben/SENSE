@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1070">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1070</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Prospektive Qualitätssicherung bei der technischen Saccharosegewinnung</dc:title>
+          <dc:title xml:lang="eng">Prospective quality assurance in technical sucrose production</dc:title>
+          <dc:creator>Sixt, Andrea</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit war es, die Schwankung der Zuckerqualität mit Hilfe technologischer Maßnahmen zu verringern. Dafür wurde ein dynamisches Zuckerhaus-Prozessmodell entwickelt und validiert, mit dem auf der Grundlage naturwissenschaftlich begründeter Gleichungen die Weißzuckerfarbe vorausberechnet werden kann. Die aus der Literatur bekannten Prozessmodelle für die Zuckerindustrie sind entweder statisch oder berücksichtigen lediglich einen einzigen Teilprozess bzw. arbeiten mit empirischen Ansätzen. Außerdem wurden bisher keine prospektiven Simulationen durchgeführt. Die Größen Wasser, gelöste und kristalline Saccharose, Nichtsaccharose und die Farbmasse werden in Differentialgleichungen bilanziert. Grundlage ist eine Massebilanz, an die eine Farbbilanz gekoppelt ist. Das Modell stimmt sehr gut mit dem realen Prozess überein. Im Zuge der Prozessmodellierung wurden drei Zentrifugenmodelle vorgestellt und diskutiert: ein (dynamisches) deterministisches Modell, bei dem eine Zentrifugalfiltration berechnet wird, ein (statischer) empirischer Ansatz und ein künstliches neuronales Netz. Bei der Zentrifugation handelt es sich um einen besonders wichtigen Verfahrensschritt, der die Zuckerqualität vielfältig beeinflusst. Die zahlreichen Einflussgrößen sind bisher noch in keinen mathematischen Zusammenhang gebracht worden. Die Modellierung der Zentrifuge als neuronales Netz führte zum besten Ergebnis. Beim Simulationsstart liest das Modell aus dem Management Information System (MIS) die erforderlichen Informationen aus. Somit kann die Simulation zu jedem beliebigen Zeitpunkt gestartet werden. Nach der Validierung wurden die Simulationen im Zeitraffer durchgeführt. Auf diese Weise ist es möglich, die Weißzuckerqualität kontinuierlich vorauszuberechnen und die Prozesse vorausschauend zu steuern. Die Auswirkungen von Störungen werden sofort sichtbar und eine Korrektur kann rechtzeitig erfolgen. Die Qualitätsschwankung kann somit verringert werden. Die Simulation wird alle 2 min neu gestartet. Bei jedem Neustart wird das Modell zunächst anhand der Informationen aus dem MIS initialisiert, so dass Änderungen der Prozessdaten spätestens 2 min danach vom Modell erkannt und für die Vorausberechnung berücksichtigt werden. Die prospektiv berechnete Weißzuckerfarbe wird an das MIS übergeben, so dass dort ein Trend entsteht, der dem Bedienpersonal als Entscheidungshilfe dient. Darüber hinaus wird der Merkmalsverlauf mit Hilfe Statistischer Prozessführung (SPC) ausgewertet. Es wurden geeignete statistische Regeln gewählt.</dc:description>
+          <dc:description xml:lang="eng">The objective of this thesis is to reduce the variability of white sugar quality by technological measures. Therefore a dynamic sugar house process model has been developed and validated. The quality of white sugar can be precalculated with the help of scientifically based equations. The process models for the sugar industry found in the literature are either static, only valid for a single part of the process, or involve empirical approaches. Furthermore, prospective simulations have not yet been carried out. The variables water, soluted and crystalline sucrose, non-sucrose and colour mass (= the product from the dry substance mass and the colour index) are balanced in differential equations. This calculation is based on a mass balance that is combined with a colour balance. The model corresponds very well to the real process. In the course of process modelling, three centrifugal models have been presented and discussed: a (dynamic) deterministic one, calculating a centrifugal filtration, a (static) empirical one, and an artificial neural network. Centrifugation is an especially important process step that influences the sugar quality in many various ways. The numerous influences have not previously been expressed in a mathematical relation. Modeling by a neural network brought the best result. The white sugar colour can be calculated by the centrifugal model from the amount of wash water and wash syrup, the magma colour, the crystal content, and the filling degree of the centrifuge. When the simulation is started, the necessary data are read from the Management Information System (MIS) of the factory. This way the simulation can be started at any moment. After the validation, the simulation was run faster than in real-time. This way it is possible to precalculate the white sugar colour continuously and to keep prospective problems from occurring. The effects of technical defects are recognized immediately and a correction can be made in time, so the variability of the quality can be reduced. The simulation is started every two minutes. At every new start, the model is initialized by the data from the MIS so that changes in the process data are recognized by the model at least two minutes afterwards and are considered for the precalculation. The prospectively calculated white sugar colour is led to the MIS so that a trend exists that helps the user decide when and how to change the process. Moreover the trend of the precalculated white sugar colour is evaluated by Statistical Process Control (SPC). In this work useful statistical rules have been chosen.</dc:description>
+          <dc:date>2005-07-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1070</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10542</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10542</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1070/sixt_andrea.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

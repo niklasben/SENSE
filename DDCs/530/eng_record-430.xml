@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:430">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:430</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Dust in the atmospheres of Brown Dwarfs</dc:title>
+          <dc:title xml:lang="deu">Staub in den Atmosphären Brauner Zwerge</dc:title>
+          <dc:creator>Lüttke, Marcus</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Sterne verbringen einen Großteil ihres "Lebens" in einem metastabilen Gleichgewichtszustand zwischen der nach innen gerichteten Gravitationskraft einerseits und den nach aussen gerichteten Druckkräften des Gases und der Strahlung andererseits. Bereits in den 60er Jahren des zwanzigsten Jahrhunderts vermutete man, daß es eine Klasse von sternähnlichen Objekten geben müsse, deren Masse nicht ausreichen dürfte, um die thermodynamischen Bedingungen im Sterninneren zu erzeugen, die benötigt werden, "nukleares Brennen" zu zünden. Diese "verhinderten Sterne", die erst durch die großen Fortschritte in den Beobachtungstechniken während der letzten Dekade der Beobachtung zugänglich wurden, werden als Braune Zwerge bezeichnet. In den Atmosphären Brauner Zwerge herrschen thermodynamische Bedingungen, die die Bildung von Staubteilchen, d.h. kleinen Festkörperpartikel ermöglichen ("tiefe" Temperaturen bei relativ hoher Dichte). Mit der Untersuchung dieser kühlen, staubbildenden Atmosphären befasst sich die vorliegende Arbeit, die erstmalig die zeitabhängige Entwicklung des Staubkomplexes in der Beschreibung der Atmosphären Brauner Zwerge berücksichtigt. Nach einer Einführung in das Themengebiet, in der die Eigenschaften und Charakteristika Brauner Zwerge erläutert werden und eine Einordung dieser Objekte in den allgemeinen astrophysikalischen Kontext erfolgt, schließt sich die Vorstellung der physikalischen Grundgleichungen und Konzepte an. Neben der Beschreibung der Konvektion in Kombination mit der Strahlungshydrodynamik wird besonderes Gewicht auf die ausführliche Darstellung heterogenen Staubwachstums in astrophysikalischen Situationen gelegt. Bei der hier vorgestellten Methode handelt es sich um eine Weiterentwicklung bzw. Zusammenführung bereits vorhandener Darstellungsweisen. Darauf folgt die Beschreibung der verwendeten numerischen Methoden. Neben der detaillierten Darstellung der Diskretisierungs- und Lösungsvorschriften für die Gleichungen der konvektiven Strahlungshydrodynamik wird auch hier besonderes Augenmerk auf die numerische Umsetzung des Staubkomplexes gelegt. Hierzu wurde im Rahmen dieser Arbeit ein Algorithmus entwickelt, der auch den nicht kontinuierlichen Prozessen (Sedimentation, Koagulation u.ä.) Rechnung trägt. Einem kurzen Einschub mit allgemeinen Überlegungen und Anmerkungen über heterogenes Wachstum, der Form der Staubkörner und dem astrophysikalisch relevanten Primärkondensat ist ein weiterer Abschnitt gewidmet. Anschließend werden Ergebnisse der ersten zeitabhängigen Modellrechnungen für die Atmosphäre eines Braunen Zwerges präsentiert.</dc:description>
+          <dc:date>2002-03-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/430</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4253</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4253</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/430/luettke_marcus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

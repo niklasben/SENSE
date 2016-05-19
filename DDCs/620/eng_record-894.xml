@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:894">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:894</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwurf, Bau und messtechnische Untersuchung eines Windenergiegenerators mit dualer Permanentmagnet-Erregung</dc:title>
+          <dc:title xml:lang="eng">Development, construction and measurements of a wind-energy generator with dual-permanent-magnet excitation</dc:title>
+          <dc:creator>Korouji, Gholamreza</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Dissertation befaßt sich mit Entwurf, Aufbau sowie messtechnischen Untersuchungen einer Sonderbauform eines Synchrongenerators mit Permanentmagnet-Erregung für den Einsatz in Windenergieanlagen im W bis kW Leistungsbereich. In der Entwurfsphase wurden mit Hilfe eines am Institut entwickelten FEM-Programms Magnetfeldberechnungen und Optimierungen aller Bauteile des Generators durchgeführt und miteinander verglichen. Dabei wurde der Einfluß unterschiedlicher Parameter auf das Luftspaltfeld untersucht, mit dem Ziel optimale Abmessungen zu finden. Einen weiteren Schwerpunkt bilden die konstruktive Gestaltung und der Aufbau des Synchrongenerators. Über Verfahren und Technologien, vor allem im Zusammenhang der Verarbeitung des neuartigen, hochremanenten Magnetwerkstoffs, wird berichtet. Nach dem Aufbau des Generators wurde das Betriebsverhalten im Labor experimentell untersucht.</dc:description>
+          <dc:description xml:lang="eng">The thesis concerns with the development, construction and measurements of a special construction of an generator with permanent-magnet excitation for use with wind-energy-generators in the low horse-power range. During the development cycle all constructional parts were optimized by use of a 2D FEM software, which was designed at the university. Attention was paid especially on the influence on different parameters on the air-gap field, in order to find optimal sizes. Additionally constructional methods and the assmebly of the generator are emphasized. Herein the focus is on the processing of the new, high-energy-product magnets. Finally, the operating-behaviour of the generator in the lab is shown.</dc:description>
+          <dc:date>2004-07-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/894</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8876</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8876</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/894/korouji_gholamreza.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

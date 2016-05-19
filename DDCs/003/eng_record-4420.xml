@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4420">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4420</identifier>
+        <datestamp>2014-07-14</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">New Technologies and Workloads of Health Care Professionals</dc:title>
+          <dc:creator>Pires, Denise Elvira Pires de </dc:creator>
+          <dc:creator>Matos, Eliane</dc:creator>
+          <dc:creator>Azambuja, Eliana Pinho de </dc:creator>
+          <dc:creator>Trindade, Letícia de Lima</dc:creator>
+          <dc:creator>Scherer, Magda Duarte dos Anjos</dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">Multiple case studies were carried out in Brazil and the Netherlands from 2003 to 2009, with the objective of analyzing the influence of high-technologies on the workloads of health care professionals. The data was obtained and analyzed through a triangulation of methods. ATLAS.ti, software program for qualitative data analysis, was used for data analysis. The interviews, observation notes, and documents studied from each case were initially bundled in three Hermeneutic Units (HUs), with the purpose of identifying elements that may decrease or increase workloads. Afterwards, the three HU were merged into a single new HU that included all research data. Our findings were that the great majority of those interviewed perceived that high technologies decrease workloads. First, because new equipment is more ergonomic, which reduces physical strain, and it also provides more precise data about patients. Second, because new technologies in the organization of work contribute to a more collaborative and satisfactory job environment. Stronger collaboration and greater satisfaction improve the safety and quality of health care, thus reducing workloads. Innovation increases workloads: in the initial use of new technologies, when it occurs in the contexts of cost reductions, non-participative managerial models and in poor working conditions, or when there is a lack of training to work with new technologies. In conclusion, high technologies may increase or decrease workloads depending on the context, which is especially influenced by work conditions, management models, and institutional values. </dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4420</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44200</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44200</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4420/08_pires_matos_azambuja_trindade_scherer_4420.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

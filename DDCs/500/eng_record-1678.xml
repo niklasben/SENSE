@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1678">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1678</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Charakterisierung von Transportsignalen bei Endothelinrezeptoren</dc:title>
+          <dc:title xml:lang="eng">Characterization of transport signals of endothelin receptors</dc:title>
+          <dc:creator>Melzer, Jana</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Endothelinrezeptoren (ETA- und ETB-Rezeptor) vermitteln die physiologischen Effekte von Endothelin 1 (ET1), welches einer der stärksten Vasokonstriktoren ist. Beide Rezeptoren gehören zur großen Familie der G-protein-gekoppelten Rezeptoren. Es ist bekannt, dass der ETA-Rezeptor über den recycling-Weg internalisiert und zurück zur Plasmamembran transportiert wird, wohingegen der ETB-Rezeptor nach ET1-Stimulation in die Lysosomen transportiert und abgebaut wird und einer down-Regulation unterliegt. In dieser Arbeit wurde gezeigt, dass im C-Terminus des ETB-Rezeptors ein GYXXF-Motiv lokalisiert ist, das für die Internalisierung wichtig ist. Mit Hilfe von ELISA-Experimenten und Laser-Scanning-Mikroskopie (LSM) an stabilen Zellklonen, die den wildtypischen oder eine mutierte Form des ETB-Rezeptors exprimierten, konnte gezeigt werden, dass Mutationen in diesem Motiv zu einer verzögerten Internalisierung nach ET1-Stimulation führen. Dabei ist der Austausch des Tyrosins ausreichend, um die Internalisierung zu vermindern. Das GYXXF-Motiv ist auch als lysosomales Sortierungsmotiv beschrieben. Es konnte jedoch durch low-temperature-PAGE gezeigt werden, dass der Transport des ETB-Rezeptors in Lysosomen nicht durch Mutationen in diesem Motiv beeinflusst wird. Außerdem konnte gezeigt werden, dass die Internalisierung des ETB-Rezeptors Arrestin-unabhängig verläuft. LSM an lebenden HEK293-Zellen, die transient den ETB-Rezeptor und Arrestin3.GFP co-exprimierten, deutete auf eine schwache Arrestin-Rekrutierung zur Plasmamembran hin. Das Arrestin-Signal war jedoch unter stimulierten Bedingungen nicht erhöht. Jedoch konnte durch LSM an MEF-Zellen, die einen knock-out in den Genen für Arrestin2 and Arrestin3 (MEF-arr2-/-/arr3-/-) aufwiesen, eine Arrestin-unabhängige Internalisierung des ETB-Rezeptors nachgewiesen werden. Untersuchungen zu weiteren potentiellen Motiven im C-Terminus des ETB-Rezeptors ergaben, dass ein coiled-coil-Motiv Einfluss auf den intrazellulären Transport ausübt.</dc:description>
+          <dc:description xml:lang="eng">Endothelin receptors (ETA and ETB) mediate the physiological effects of endothelin 1 (ET1) representing one of the most potent vasoconstrictors. Both receptors belong to the large family of G-protein coupled receptors. It is known that the ETA receptor utilizes the recycling pathway and re-appears on the plasma membrane, whereas the ETB receptor is transported to lysosomes upon ET1 stimulation and subsequently degraded and down-regulated. In this study it was shown that the C-terminus of the ETB receptor harbours a GYXXF motif which is mainly important for proper internalization. Enzyme-linked immunosorbent assay and laser scanning microscopy (LSM) of cell clones stably expressing wildtype and mutant ETB receptors with alteration within this motif revealed a delayed sequestration of mutant receptors upon ET1 stimulation. The substitution of a single tyrosine within this motif is sufficient enough reducing the internalization. As the GYXXF motif is described as a lysosomal targeting motif, it was shown by low-temperature SDS-PAGE that the lysosomal trafficking of the ETB receptor does not seem to be affected by mutations of this motif. Furthermore, the ligand induced internalization of the ETB receptor occurred to be independent of arrestin3. The arrestin3 recruitment was analyzed by LSM of living HEK293 and cells transiently expressing the ETB receptor and arrestin3.GFP where only weak recruitment could be detected. Interestingly, the arrestin3 signal was not increased under stimulated conditions. Subsequently, live cell imaging with LSM of mouse embryonic fibroblasts carrying a double knockout for arrestin2 and arrestin3 (MEF-arr2-/-/arr3-/-) showed the independence of arrestin3 in the internalization process of the ETB receptor. Further analysis of potential sorting motivs within the C-terminus of the ETB receptor revealed that a coilded-coil motiv may be involved in intracellular trafficking of the receptor.</dc:description>
+          <dc:date>2008-02-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1678</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17400</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17400</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1678/melzer_jana.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

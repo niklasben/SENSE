@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3495">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3495</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Effizientes Bearbeiten von Simulink Modellen mit Hilfe eines spezifisch angepassten Layoutalgorithmus</dc:title>
+          <dc:title xml:lang="eng">Efficient editing of Simulink models using a specifically customized layout algorithm</dc:title>
+          <dc:creator>Klauske, Lars Kristian</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die grafische modellbasierte Entwicklung mit Werkzeugen wie Matlab / Simulink ist eine etablierte Methode zur Entwicklung eingebetteter Software im Automobilbereich, sowie der Bahntechnik und Luftfahrtindustrie. Struktur und Funktion von Softwarekomponenten werden mit grafischen Modellen beschrieben und anschließend mit Codegeneratoren in Seriencode überführt. Im Vergleich zu textuellen Beschreibungen (z.B. Programmcode) sind grafische Modelle besser lesbar sowie verständlicher und leichter wartbar. Ihre Lesbarkeit hängt jedoch maßgeblich vom Layout der grafischen Darstellung ab. Da grafische Editoren bisher nur wenig Unterstützung beim Erstellen von Layouts bieten, müssen die grafischen Elemente aufwändig manuell angeordnet werden. In dieser Arbeit wird ein spezifisch an die grafischen Eigenschaften von Simulink Diagrammen angepasster Algorithmus zur Gestaltung des Layouts beschrieben. Er baut auf einem Algorithmus zum hierarchischen Zeichnen gerichteter Graphen auf und ergänzt diesen sowohl um ein Verfahren zur Kantenbegradigung unter Berücksichtigung variabler Knotengrößen, als auch um einen auf zusätzlichen Hilfsknoten basierenden Ansatz zum Kantenrouting bei Zykluskanten und Kanten an oben oder unten liegenden Ports. Zudem führt er benutzerdefinierte Constraints ein, mit denen die Auswirkung der frühen Hierarchisierung bei hierarchischen Layoutverfahren auf das Layout besser als bisher kontrolliert werden kann. Aufbauend auf diesem Layoutalgorithmus werden Funktionen zur Unterstützung beim strukturellen Bearbeiten von Modellen, insbesondere das auf einer Heuristik zur Auswahl neu einzufügender Elemente basierende kontextbasierte Modellieren, vorgestellt. Im Rahmen einer Erprobung konnte gezeigt werden, dass durch den Einsatz dieser Verfahren beim Bearbeiten von Simulink Modellen in der Praxis eine deutliche Zeitersparnis und Erleichterung der Arbeit erreicht werden kann. Benutzer können sich stärker als bisher auf die funktionalen Aspekte der Modelle konzentrieren und die grafische Anordnung der Elemente automatisch durchführen lassen. Darüber hinaus wird die Entwicklung von Modellgeneratoren zum automatischen Erzeugen von Modellteilen deutlich erleichtert.</dc:description>
+          <dc:description xml:lang="eng">Model-based development of embedded software using tools like Matlab / Simulink is widely-used in the automotive domain and becoming equally important in other domains like aerospace and rail engineering. In model-based development, a software component is directly created using automatic code generation, using graphical models which represent the components structure and functionality as primary input. When compared to textual software development, graphical models are often considered to be more readable, thereby easier to understand and maintain. This readability is significantly influenced by the layout of a models graphical representation. To maintain it, it is often required to adjust the layout when the model is modified. As current model editors offer no automatic layouting support, this has to be done manually. This document presents a layout algorithm, that is specifically taylored to deal with the graphical characteristics of Simulink models. It complements an existing algorithm that creates hierarchical drawing from directed graphs by adding a method to straighten edges under the influence of variable-sized nodes based on linear programming and a method to improve edge routing for feedback edges as well as edges connected to node faces across the signal flow direction. Additionally, it reduces the original algorithms hierarchisation phases influence on the final layout by introducing user-defined contraints. Building on this layout algorithm, several functions to assist the model editing process are introduced, like \emph{kontextual editing}, which provides automatic insertion and connection of elements selected from a heuristically generated list of most propable candidates. Using a real-world evaluation of the methods presented in this work, it is shown that both time and effort can be reduced during the model editing process by using those methods. Also, by leaving the layout generation to the provided layout algorithm, users were reportedly able to better focus onto a models functional aspect than before. Additional benefit in terms of flexibility and reduced effort could be seen in the development of model generation tools, that had to develop individual static layouting schemas for each function before.</dc:description>
+          <dc:date>2012-10-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3495</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36969</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36969</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3495/klauske_lars.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

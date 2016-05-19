@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:950">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:950</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Magnetic Resonance Sounding with separated transmitter and receiver loops for the investigation of 2D water content distributions</dc:title>
+          <dc:title xml:lang="deu">Magnetische Resonanz Sondierung mit getrennten Sende- und Empfangsspulen zur Erkundung von 2D Wassergehaltsverteilungen</dc:title>
+          <dc:creator>Hertrich, Marian</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Eine erweiterte mathematische Formulierung des Antwortsignals von Magnetischen Resonanz Sondierungen (MRS) ermöglicht die Behandlung von Messungen mit getrennten Sende- und Empfangsspulen. Die vorliegende Arbeit untersucht und bewertet die Möglichkeiten und Einschränkungen dieser neuartigen Messanordnung. Basierend auf einer geeigneten Umformulierung der Basisgleichung werden die verschiedenen physikalischen Effekte der MRS-Messungen in getrennter Spulenkonfiguration aufgezeigt und interpretiert. Der Einfluß der Spulenseparation in Bezug auf Abstand und Richtung wird ausführlich behandelt, wie auch die damit verbundene Variation der Empfindlichkeit mit der Tiefe aber auch in lateraler Richtung. Die Auswertung realer Daten mit getrennten Spulen in einem Gelände mit annähernd eindimensionalen Bedingungen zeigt eine hervorragende Übereinstimmung mit den vorhergesagten Eigenschaften der Sondierungskurven. Die Richtigkeit der analytischen Formulierung sowie der numerischen Umsetzung können somit bestätigt werden. Aufgrund der vielversprechenden Ergebnisse der MRS Sondierungen mit getrennten Spulen in Bezug auf ihr ausgezeichnetes räumliches Auflösungsvermögen gegenüber flachen Strukturen wird die Gesamtempfindlichkeit mehrerer Sondierungen mit getrennten Spulen auf einem Profil untersucht und mit konventionellen Sondierungen mit gleicher Sende und Empfangsspule verglichen. Die Einführung der zweidimensionalen Kernfunktion erlaubt eine einfache und schnelle Berechnung synthetischer Sondierungskurven aufgrund einer zweidimensionalen Wasserverteilung und bildet die Grundlage eines einfachen 2D Inversionsschemas. Die Bewertung von synthetischen MRS Messungen an drei exemplarischen Aquifer-Typen sowie dem Modell eines Presseisrückens wie er im arktischen Meereis vorkommt zeigt das hohe Auflösungsvermögen von Messungen mit getrennten Spulen und die deutlich verbesserte Wiedergabe von komplexen zweidimensionalen Wassergehaltsverteilungen. Zwei Feldkampagnen mit mehreren Kombinationen der getrennten Spulenanordnung wurden in Nauen / Deutschland und StCyr en Val / Frankreich durchgeführt. Im ersten Fall konnte ein sehr detailiertes Modell der zweidimensionalen Wasserverteilung bestimmt werden. Im zweiten Fall zeigt das bestimmte Modell nur eine schwache räumliche Auflösung, was durch den dreidimensionalen Einfluß der Wasserverteilung erklärt werden kann.</dc:description>
+          <dc:description xml:lang="eng">An extended mathematical formulation for the response signal of Magnetic Resonance Soundings (MRS) allows the treatment of individual transmitter and receiver loop. The present work extensively evaluates and assesses the potential and limitation of this new technique. Based on a reformulation of the basic equation physical properties of MRS soundings in that configuration are pointed out and interpreted. The influence of loop separation on MRS sounding curves in terms of offset and direction is also assessed as the corresponding sensitivity to depth and lateral Spin variation. Interpretation of real field data measured with separated loops fit excellently the predicted response pattern and confirm the correctness of the analytic formulation and its numerical realization. Based on the promising results of MRS soundings in separated loop configuration and their outstanding spatial resolution to shallow structures the total resolution of a set of separated loop soundings on a profile to a two dimensional Spin distribution is investigated and compared to conventional coincident soundings. The introduction of a two dimensional kernel function allows a fast forward modeling of MRS sounding curves from a two dimensional water distribution and provides the basis for a draft 2D inversion scheme. Assessment of synthetic MRS surveys on three exemplary aquifer types and the model of an ice-ridge on arctic ice cover demonstrates the high resolution of separated loop surveys and its superior rendering of complex 2D water content distributions. Two field survey with this new technique have been performed in Nauen / Germany and StCyr en Val / France. In the first case a well defined model of the 2D water distribution could be found, in the latter case the model shows a poor resolution what could be assigned to 3D influences.</dc:description>
+          <dc:date>2005-05-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/950</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9432</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9432</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/950/hertrich_marian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

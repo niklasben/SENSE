@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1676">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1676</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Experimentelle Erfassung und Simulation instationärer Verdichterphänomene bei Turboladern von Fahrzeugmotoren</dc:title>
+          <dc:title xml:lang="eng">Experimental data acquisition and modelling of unsteady flow phenomena of vehicle engine turbocharger compressors</dc:title>
+          <dc:creator>Grigoriadis, Panagiotis</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Auswahl eines Turboladers erfolgt anhand der Kennfelder von Turbine und Verdichter, die im Allgemeinen auf einem Turboladerprüfstand gemessen werden. Sie stellen zudem wichtige Randbedingungen bei einer Motorprozesssimulation des mit diesem Turbolader aufgeladenen Motors dar. Die im Verdichterkennfeld eingetragene Linie der Pumpgrenze trennt den für die Aufladung geeigneten Kennfeldbereich, rechts der Pumpgrenze, von dem Kennfeldbereich links der Pumpgrenze, in welchem kein stabiler Verdichter- und Motorbetrieb möglich ist. Neben dem gleichfalls zu den instationären Verdichterphänomenen zählenden Rotating Stall (=umlaufende Abreißströmung) befasst sich die Dissertation vor allem mit dem Pumpen von Turboladerverdichtern, insbesondere solcher von Fahrzeugmotoren. Dazu wurden zu je einem Turboladertyp eines Pkw-Ottomotors, eines Pkw-Dieselmotors und eines Nfz-Dieselmotors sowohl Versuche auf Turboladerprüfständen als auch Motorversuche durchgeführt; Letztere zu stationären Betriebspunkten und zu dynamischen Last- und Drehzahlrampen. Von den zur frühzeitigen Pumperkennung herangezogenen (Auswerte-)Verfahren, nämlich der Fast-Fourier-Transformation (FFT), der Berechnung der Schallenergie und dem Autokorrelationsverfahren, erwies sich Letzteres als besonders geeignet. Entgegen der weit verbreiteten Ansicht, dass sich im Motorbetrieb eine andere Pumpgrenze ergeben müsste als im (stationären) Betrieb des Turboladers auf dem Turboladerprüfstand, zeigte sich für alle drei untersuchten Turboladertypen, dass offensichtlich allein die Geometrie des dem Verdichter nachgeschalteten Ladeluft-Leitungssystems für die Lage der Pumpgrenze maßgeblich ist. Dazu wird in Anlehnung an die Arbeiten von Greitzer ein Parameter B0 definiert, dessen Größe unmittelbar auf die Lage der Pumpgrenze schließen lässt. Abschließend berichtet die Dissertation über die numerische Modellierung des Greitzer-Verdichtermodells als Modul der Motorprozesssimulation, welches exemplarisch für den Verdichter des Nfz-Dieselmotors angewandt wurde. Mit diesem Modell lässt sich das Pumpverhalten eines Verdichters nachbilden, wozu die Verdichterkennlinien über die Pumpgrenze hinaus, in den instabilen Kennfeldbereich, extrapoliert werden müssen. Geeignete Ansätze dazu werden beschrieben. Zusätzlich zur Anwendung des Greitzer-Verdichtermodells wurde in dieser Dissertation auch ein halbempirischer Ansatz gezeigt, welcher eine an einem Turboladerprüfstand gemessene Pumpgrenze in Abhängigkeit von der an einem Motor vorliegenden Leitungssystemgeometrie entsprechend verschiebt. Beim Turboladermatching kann dadurch zum Beispiel eine genauere Aussage über das zu erwartende Volllastverhalten eines Motors getroffen werden.</dc:description>
+          <dc:description xml:lang="eng">The matching of a turbocharger is based on turbocharger maps, which are usually determined on a turbocharger test rig under steady state conditions. The turbocharger maps are also fundamental boundary conditions for engine simulation. The surge margin of a compressor map divides the map into a stable and into an unstable region. Among other unstable flow phenomena, such as rotating stall, the main focus of this dissertation is to investigate compressor surging of vehicle engine turbochargers. Experimental investigations were conducted on turbocharger test rigs considering three turbochargers, appendant to a compression ignition engine, a spark ignition engine and a truck engine. These engines were operated under steady state and under transient conditions on an engine test bed. Different numerical methods were tested in order to achieve precursors for unstable flow, especially for surging. Though autocorrelation has been identified as the most appropriate method, the common view that the position of the surge margin depends on the pulsation of the flow could not be confirmed. On the contrary it has been proved with all three turbocharger compressors that the geometry of the surrounding piping system is the main influencing factor. According to the investigations of Greitzer the parameter B0 has been defined to indicate the position of the surge margin. Concluding Greitzer’s lumped parameter model was introduced into an engine simulation code and was exemplarily applied for the study of the truck engine turbocharger compressor, which was operated close to the surge line. To use Greitzer’s model, the characteristic lines of the compressor have to be extrapolated into the area of unstable flow. Adequate approaches for the characteristic line extrapolation are shown in this dissertation. In addition an empirical approach was derived to suitably shift the surge line of a turbocharger compressor determined on a turbocharger test rig depending on the geometry of the engine piping system. Thus, for example a better prediction of the full load line of an engine can be done.</dc:description>
+          <dc:date>2008-01-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1676</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17568</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17568</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1676/grigoriadis_panagiotis.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

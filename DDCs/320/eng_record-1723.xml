@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1723">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1723</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:320</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mobiles Beratungsteam. Einblicke. Ein Werkstattbuch</dc:title>
+          <dc:creator>Hülsemann, Wolfram; Kohlstruck, Michael (Hrsg.)</dc:creator>
+          <dc:subject>ddc:320</dc:subject>
+          <dc:description xml:lang="deu">Der Band soll als „Werkstattbuch“ grundsätzliche Überlegungen und Sachthemen vermitteln, mit denen sich das „Mobile Beratungsteam – Tolerantes Brandenburg“ (MBT) zwischen 1998 und 2004 befasst hat. Er verbindet wissenschaftliche Analyse mit Erfahrungen aus der Beratungspraxis im Arbeitsfeld des MBT: Förderung des demokratischen Gemeinwesens und zivilgesellschaftliches Engagement gegen Rechtsextremismus und Fremdenfeindlichkeit. Die einzelnen Aufsätze behandeln Rahmenbedingungen und Schwerpunkte der MBT-Arbeit. An den Themen Jugendliche, ländliche Regionen sowie am Beispiel der Stadt Angermünde werden Tätigkeitsbereiche der MBT-Regionalbüros dargestellt. Weitere Beiträge behandeln darüberhinausgehende Fragen. Ein Beitrag untersucht Aufbau, Inhalt und Rezeption der „Landser“-Hefte als Einstiegsliteratur in rechtsextreme Szenen. Eine Studie analysiert Tathintergründe der Ermordung von Marinus Schöberl in Potzlow im Jahre 2002. Inhalt: Wolfram Hülsemann: Rahmenbedingungen und politischer Hintergrund der Beratungsarbeit im Gemeinwesen, 7-13 Michael Kohlstruck und Anna Verena Münch: Der Mordfall Marinus Schöberl, 15-46 Nicola Scuteri: Migration und Fremdenfeindlichkeit als politische und gesellschaftliche Phänomene im Land Brandenburg, 47-59 Dirk Wilking: „Der Landser“ – Wie ein Mann ein Mann wird, 61-93 Miriam Schilling: Jugendliche in der MBT-Arbeit – Erfahrungen aus dem südlichen Brandenburg, 95-115 Karin Dörre und Jürgen Lorenz: Die Stadt Angermünde und ihr Umgang mit Rechtsextremismus und Fremdenfeindlichkeit, 117-128 Dirk Wilking: Relevanz der ländlichen Regionen für das MBT, 129-161 Jürgen Lorenz und Karin Dörre: „Für Gleichbehandlung – gegen Diskriminierung“, 163-172</dc:description>
+          <dc:date>2008-03-12</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1723</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17854</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17854</dc:identifier>
+          <dc:identifier>3-00-015288-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1723/kohlstruck_einblicke.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

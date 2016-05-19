@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2038">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2038</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung eines Real-Time-PCR-Systems für den spezifischen Nachweis von Enterobacteriaceae in Lebensmitteln</dc:title>
+          <dc:title xml:lang="eng">Development of a real-time PCR system for the specific evidence of Enterobacteriaceae in food</dc:title>
+          <dc:creator>Heinze, Barbara Anka Erika</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Für den qualitativen Nachweis von Enterobacteriaceae in Lebensmitteln wurde eine spezifische Real-Time-PCR-Anwendung entwickelt. Nach kultureller Anreicherung der Lebensmittelprobe erfolgt die Durchführung der PCR im LightCycler®. Das entwickelte Nachweisverfahren erreicht gegenüber den konventionellen mikrobiologischen Methoden eine Spezifität von 100 % und führt mit einem zeitlichen Aufwand von maximal einem Tag zu einem zuverlässigen Ergebnis. Der Nachweis ermöglicht die Detektion einer einzelnen Bakterienzelle. Er eignet sich für die Qualitätskontrolle von Lebensmitteln unterschiedlichster Produktgruppen sowie die Überwachung aller kritischen Prozessstufen in lebensmittelproduzierenden Betrieben. Mit 72 Lebensmittelproben verschiedener Produzenten, Kategorien und Matrices wurde die Funktionalität des Nachweises im Vergleich mit den Horizontalverfahren zum qualitativen Nachweis von Enterobacteriaceae überprüft. Die Ergebnisse aller Untersuchungen stimmten mit denen des phänotypischen Nachweises überein. Zielmolekül der Real-Time-PCR ist die für 23S rRNA codierende DNA-Sequenz der Enterobacteriaceen. Für das Nachweissystem wurden forward- und reverse-Primer sowie Sonden generiert. Das in der PCR entstehende partielle Amplifikat der 23S rDNA hat eine Größe von 225 bp. Zum Ausschluss falsch negativer Ergebnisse wurde eine Interne Amplifikationskontrolle entwickelt. Bei Anwendung des PCR-Systems kam es auch zu positiven Ergebnissen mit Proben, in denen sich keine Ziel-DNA befinden sollte. Es konnte gezeigt werden, dass es sich hierbei um Amplifikationen kontaminierender DNA in allen überprüften Taq-DNA-Polymerasen diverser Hersteller handelte. Durch enzymatischen Verdau mit DNase I konnte reproduzierbar die vollständige Dekontamination erreicht werden.</dc:description>
+          <dc:description xml:lang="eng">A specific real–time PCR application was developed to give qualitative evidence of Enterobacteriaceae in food. After cultural enrichment of the food sample, the PCR is carried out in the LightCycler®. Compared to the conventional microbiological testing techniques, this newly developed system delivery a reliable 100% detection specificity in a maximum turnaround time of one day. This real-time PCR system allows the detection and gives evidence even in the case of one bacterial cell and is as such ideal for quality control activities in all categories of food samples and for all stages of the food preparation and production process. A review of the functionality of the detection process was carried out by comparing the results of 72 food samples of different producers and food categories to the equivalent results using the qualitative microbiological procedure. The results of all tests agreed to those of the phenotypic proof. The targeted molecule of real-time PCR is the 23S rRNA coding DNA sequence of Enterobacteriaceae. Forward- and reverse-primer as well as probes were generated for the PCR proof system. The partial product of 23S rDNA generated in the PCR has a size of 225 bp. To exclude false negative results, an internal amplification control was developed. The use of the PCR system has also led to positive results with samples in which no target DNA should exist. It could be shown, that this was in all cases due to amplifications of contaminaiting DNA in the checked Taq DNA polymerases of different producers. Absolute decontamination could be reached through enzymatic digest with DNase I.</dc:description>
+          <dc:date>2009-01-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2038</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21360</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21360</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2038/heinze_barbara.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

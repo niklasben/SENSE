@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:162">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:162</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Bedeutung der sinorhizobiellen Phosphor-freien Membranlipide bei der Wurzelknöllchensymbiose</dc:title>
+          <dc:title xml:lang="eng">Investigations about the influence of phosphorus-free membrane lipids on root nodule symbiosis</dc:title>
+          <dc:creator>Weissenmayer, Barbara Anna</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Das Bakterium Sinorhizobium meliloti, welches symbiontisch mit Leguminosen Stickstoff-fixierende Wurzelknöllchen bilden kann, besitzt außer den typischen Phosphor-haltigen Membranlipiden auch die Phosphor-freien Membran-bildenden Lipide Sulfolipid, Ornithinlipid und Diacylglycerol-N,N,N-Trimethylhomoserin (DGTS). Diese Phosphor-freien Membranlipide werden verstärkt (Sulfolipid und Ornithinlipid) oder ausschließlich (DGTS) unter Phosphat-limitierenden Wachstumsbedingungen anstelle der Phospholipide gebildet. Da über die Funktion dieser ungewöhnlichen Phosphor-freien Membranlipide von S. meliloti bisher nichts bekannt war, sollte geklärt werden, ob diese Lipide eine Rolle bei der Ausbildung der Wurzelknöllchensymbiose spielen. Da die Bildung von DGTS nur erfolgt, wenn ein funktioneller PhoB-Regulator im Bakterium vorhanden ist und da PhoB-defiziente Mutanten immer noch Stickstoff-fixierende Knöllchen bilden können, scheint DGTS für die symbiontische Lebensweise von S. meliloti nicht von Bedeutung zu sein. Die Isolierung der an der Sulfolipid-Biosynthese beteiligten Gene (sqdB, sqdC, sqdD) aus S. meliloti zeigte, dass diese Gene bakteriellen Ursprungs sind und nicht durch horizontalen Gentransfer von Wirtspflanzen erhalten wurden. Die Inaktivierung des für die Sulfolipid-Biosynthese essentiellen sqdB-Gens führte zu einer Sulfolipid-defizienten Mutante, die Wachstumseigenschaften wie der Wildtyp besaß und auf den Wirtspflanzen Alfalfa genauso gut Stickstoff-fixierende Knöllchen bilden konnte wie der Wildtyp. Komplementierung chemischer Ornithinlipid-defizienter Mutanten mit einer sinorhizobiellen Genbank führten zur Identifizierung der an der Ornithinlipid-Biosynthese beteiligten Gene olsA und olsB. Eine sinorhizobielle OlsA-inaktivierte Mutante besaß Wachstumseigenschaften wie der Wildtyp und konnte auf den Wirtspflanzen Alfalfa genauso gut Stickstoff-fixierende Knöllchen bilden wie der Wildtyp. Weitere Befunde ließen zudem vermuten, dass OlsB für eine N-Acyltransferase codiert, welche die Kondensation einer 3-Hydroxyfettsäure an Ornithin unter Bildung von Lyso-Ornithinlipid katalysiert, während OlsA für eine O-Acyltransferase codiert, welche die Umwandlung von Lyso-Ornithinlipid in Ornithinlipid vermittelt. Da keines der Phosphor-freien Membranlipide (Sulfolipid, Ornithinlipid oder DGTS) von S. meliloti essentiell für die Ausbildung der Wurzelknöllchensymbiose ist, vermuten wir, dass diese Lipide eine wichtige Funktion beim Überleben unter Phosphatmangelbedingungen, wie sie in Böden häufig herrschen, spielen.</dc:description>
+          <dc:date>2001-03-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/162</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1577</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1577</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/162/weissenmayer_barbara.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

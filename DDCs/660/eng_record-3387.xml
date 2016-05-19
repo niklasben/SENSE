@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3387">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3387</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Tandemreaktion aus Suzuki-Kupplung und Transferhydrierung in Mikroemulsionen</dc:title>
+          <dc:title xml:lang="eng">Tandem reaction of Suzuki-coupling and transfer hydrogenation in microemulsions </dc:title>
+          <dc:creator>Seifert, Katja</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Unter Verwendung von Mikroemulsionen mit nichtionischen Tensiden konnte ein Tandemprozess einer Palladium-katalysierten Suzuki Kupplung und einer Rhodium-katalysierten Transferhydrierung, ohne Zwischenproduktisolierung, aber mit Wiederverwendung der Katalysatoren entwickelt werden. Dafür wurden zunächst beide Reaktionen separat untersucht und mit ihrer Durchführung in herkömmlichen Lösungsmittelgemisch verglichen. Die Suzuki-Kupplung von 4-Bromoacetophenon und Phenylboronsäure führt mit Pd(OAc)2/TPPTS als Katalysator in CH3CN/H2O zwar zu einem hohen Umsatz, ermöglicht aber kein Katalysatorrecycling. In Heptan/H2O verläuft die Suzuki-Kupplung, aufgrund einer auftretenden Stofftransporthemmung viel langsamer. Auch das Katalysatorrecycling ist durch die Salzbildung der Boronsäure und das Homokupplungsprodukt in der wässrigen Phase deutlich erschwert. Durch die Entscheidung, die Reaktion in einer nichtionischen w/o-Mikroemulsion (Heptan/H2O/Marlipal 24/50) durchzuführen, kann ein hoher Umsatz mit Katalysatorrecycling sowie einfacher Produktisolierung erreicht werden. Der Verbrauch der Boronsäure verursacht einen hydrophilen Shift im Phasenverhalten der Mikroemulsion. Mit fortschreitender Reaktion wird das zweiphasige System (w/o) zu einem Dreiphasensystem verschoben und ermöglicht die Separation der einzelnen Phasen. Das entstandene Produkt 4-Acetylbiphenyl, das in der organischen Phase vorliegt, kann abtrennt und im nächsten Reaktionschritt für die Transferhydrierung mit [Rh(COD)Cl]2/TPPTS als Katalysator verwendet werden. Die zuvor durchgeführten Experimente der Transferhydrierung zeigen, dass Tensidmehrphasensysteme (Heptan/H2O/IPA/Triton X-100) ein vielversprechendes Medium zur Minimierung von Löslichkeitsproblemen und für das Recycling des Rhodiumkatatalysators ohne Verlust sind.</dc:description>
+          <dc:description xml:lang="eng">By the use of non-ionic water-in-oil microemulsions we developed a tandem process to combine a Palladium-catalysed Suzuki-coupling reaction and a Rhodium- catalysed transfer hydrogenation reaction, without intermediate isolation, but with re-use of the catalysts. First both reactions were investigated separately and compared to experiments in conventional solvents. The Suzuki-coupling of 4-bromoacetophenone and phenylboronic acid is performed in CH3CN/water. There we reach a high conversion with Pd(OAc)2/TPPTS as catalyst, but the recycling of the catalyst is not possible. In heptane/H2O the coupling proceeds slowly, because of the mass transport limitation. The reusability of the catalyst is also difficult. Here the catalyst is contaminated by the salts of the boronic acid and the homocoupling product. In order to avoid these disadvantages a nonionic w/o-microemulsion (heptane/H2O/Marlipal 24/50) is used. Thereby a high conversion is achieved with catalyst recycling and easy product isolation. The consumption of the boronic acid causes a hydrophilic shift in the phase behaviour of the microemulsion. With progressing reaction the two phase system(w/o) turns into a three phase system and allows the separation of the phases. The resulting product 4-acetylbiphenyl, which is located in the organic phase is separated and used in the next reaction step for the transfer hydrogenation with [Rh(COD)Cl]2/TPPTS as catalyst. Separate experiments for the transfer hydrogenation show surfactant multiphase systems (heptane/H2O/IPA/Triton X-100) are a promising medium for the reduction of solubility problems and for the recycling of the rhodium catalyst without loss.</dc:description>
+          <dc:date>2012-07-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3387</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35952</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35952</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3387/seifert_katja.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

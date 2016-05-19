@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:536">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:536</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Degree Bounds for the Circumference of Graphs</dc:title>
+          <dc:title xml:lang="deu">Gradabschätzungen für den Kreisumfang von Graphen</dc:title>
+          <dc:creator>Wumaier, Aierken</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In dieser Dissertation werden neue Gradabschätzungen für den Kreisumfang c(G) von k-zusammenhängenden Graphen G mit 3 &lt;= k &lt;= 5 angegeben. Sei C ein längster Kreis in G und L(G-C) die Länge der längsten Wege in G-C :=G-V(C). Es ist bekannt, daß c(G) =|C| &gt;= (k+1)delta-(k+1)(k-1) gilt, wenn L(G-C) &gt;= k-1 und G ein (k+1)-zusammenhängende Graph ist. Die Ausnahmeklassen bzgl. dieser Abschätzungen für k-zusammenhängende Graphen werden im wesentlichen bestimmt. Für 3-zusammenhängende Graphen G werden die Ausnahmeklassen bzgl. der Abschätzung |C| &gt;= 4delta-c bei L(G-C) &gt;= 2 für 5 &lt;= c &lt;= 8 im wesentlichen bestimmt.</dc:description>
+          <dc:description xml:lang="eng">In this thesis we present degree bounds for the circumference c(G) of k-connected graphs G with 3 &lt;= k &lt;= 5. Let C be a longest cycle in a graph G and let L(G-C) be the length of a longest path in G-V(C). Let 2 &gt;= k &gt;= 5 and L(G-C) &gt;= k-1. It is known that c(G)= |C| &gt;= (k+1)delta-(k-1)(k+1), if G is (k+1)-connected and n = |G| &gt;= (k+1)&amp;delta;-k(k-1), if G is k-connected. The exceptional classes for these estimates when the connectivity is reduced by 1 are essentially determined. Moreover, for 3-connected graphs G, the exceptional classes for the estimates c(G) &gt;= 4delta-c for 5 &lt;= c &lt;= 8 are essentially characterized.</dc:description>
+          <dc:date>2003-03-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/536</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5319</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5319</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/536/wumaier_aierken.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:955">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:955</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beiträge zur Betriebsoptimierung solarthermisch betriebener Adsorptionskälteanlagen</dc:title>
+          <dc:title xml:lang="eng">Rules to optimize the operating management and the control system of a solar assisted driven adsorption chiller</dc:title>
+          <dc:creator>Glaser, Hendrik</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das wissenschaftliche Ziel dieser Arbeit ist - neben der Erstellung quantitativer Aussagen zur Energiebilanz der Solarenergienutzung und qualitativer Aussagen zur solarthermischen Adsorptionskältetechnik - die Ableitung allgemeingültiger Richtlinien zur regelungstechnischen Auslegung des Gesamtsystems und der Systemeinbindung solarthermisch betriebener Adsorptionskälteanlagen. Hierzu gehört die Ausarbeitung einer Regelungsstrategie zur energieeffizienten Betriebsweise der gesamten Anlagentechnik. Dabei steht die optimale Ausnutzung des solaren Angebots im Vordergrund. Besondere Berücksichtigung findet die gemeinsame Betrachtung der Kältelastseite (Teilklimaanlagen) mit der Kaltwassererzeugung und Kaltwasserverteilung (Adsorptionskältesystemtechnik), da beide Teilsysteme in einer hydraulischen und regelungstechnischen Wechselwirkung zueinander stehen. Einen weiteren Schwerpunkt bildet die Entwicklung und Implementierung eines verbesserten Steuerungs- und Regelungskonzepts für die Adsorptionskältemaschine. Die Verbesserung der Regelungsstrategie über eine Modellbildung des Gesamtsystems und über das Teilsystem Adsorptionskältemaschine hat sich bisher als unzureichend erwiesen, weil die in sehr kurzen Zeitintervallen ablaufenden instationären Prozesse mit stationären Ansätzen beschrieben wurden [vgl. Fraunhofer ISE (2001): Modellierung und messtechnische Bewertung einer Adsorptionskältemaschine in einer solarthermisch unterstützten Kälteanlage] und die vom Hersteller der Adsorptionskältemaschine veröffentlichten Leistungsdaten in der Betriebspraxis nicht erreicht wurden. Die Ausarbeitung hat drei thematische Schwerpunkte, die im Rahmen der Gliederung Beachtung finden: Im Kapitel Grundlagen werden die Grundbegriffe der Regelungs- und Steuerungstechnik erläutert, die unterschiedlichen thermischen Solarenergiewandler vorgestellt und abschließend die physikalischen Vorgänge der Adsorption und die Funktionsweise der Adsorptionskältemaschine ausführlich beschrieben. Der zweite Themenbereich (Kapitel 3 und 4) umfasst die Beschreibung der am Universitätsklinikum Freiburg installierten Systemtechnik zur solarthermischen Adsorptionskälteerzeugung sowie die Darstellung des Aufbaus der dazugehörigen Messtechnik. Im Anschluss daran werden die über einen Zeitraum von drei Jahren ermittelten Messwerte analysiert und diskutiert sowie allgemeingültige Richtlinien zur regelungstechnischen und hydraulischen Auslegung der Anlagentechnik formuliert.</dc:description>
+          <dc:date>2005-04-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/955</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9484</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9484</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/955/glaser_hendrik.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

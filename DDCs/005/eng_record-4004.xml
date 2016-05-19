@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4004">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4004</identifier>
+        <datestamp>2013-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Hydrodynamics of membrane bioreactors with Newtonian and non-Newtonian fluids</dc:title>
+          <dc:title xml:lang="deu">Hydrodynamik von Membranbioreaktoren mit Newtonschen und Nicht-Newtonschen Flüssigkeiten</dc:title>
+          <dc:creator>AL-Shamary, Lamia</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">Membrane bioreactors (MBRs) are an efficient alternative approach for biological wastewater treatment. However, the high operational costs compared to conventional activated sludge plants represent one of the main drawbacks of MBRs. Especially the energy consumption for air scour-ing to limit the cake layer on the membranes still causes significantly higher costs with up to 70% of the total energy costs. Therefore the biggest leap towards energy and operational costs savings can be achieved by improving the use of air. This can be accomplished by optimising the tank, sparger and module geometries of MBRs. Accordingly, the major objective of this work is to achieve a maximum shear stress on the membrane surface by optimizing tank and module geometries, optimizing the operating conditions and by achieving homogenise bubble distribu-tion over the cross section of the membrane module. This is in order to achieve a reduction of cake formation on the membrane surface at a minimum energy input.&#13;
+For the experimental investigation, a membrane chamber was selected. This chamber is config-ured as an airlift reactor with an immersed flat sheet membrane module in the riser. The experi-ments were carried out in a quasi 2-dimensional loop reactor (2.1 m height, 1.2 m width, and 0.1 m depth) with air and tap water or Xanthan TER solution (0.8 g/l), which has similar rheological properties like activated sludge with an MLSS concentration of 10 g/l. &#13;
+The relation between the gas holdup (riser, downcomer, and total) and aeration intensity was investigated experimentally for different geometrical parameters of the tank and the membrane module. Based on the resulting experimental data, the general correlations to predict both hold-ups in airlift MBRs were modified. For examination of the capability of the modified correla-tions, it was compared with the experimental results and a good agreement was found. &#13;
+The dependence of the liquid velocity on aeration intensity was investigated experimentally for different geometrical parameters of the tank and membrane module. The experimental data of the liquid circulation velocity was used to determine the total resistance coefficients for the circula-tion flow in an airlift MBR. Also, it was used to validate a mathematical model which is devel-oped to predict the liquid velocity in an airlift MBR. This model was used to determine an opti-mal geometric design and operating conditions for MBRs. &#13;
+Furthermore, the effect of aeration intensity and the tank and module geometries on the bubble size in the downcomer, the bubble rise velocity and the bubble size between the vertical mem-brane plates was experimentally investigated using Newtonian and non-Newtonian fluids. This investigation gives information about the distribution of air over a cross section of the membrane module, which impacts the filtration performance and is an important step to an optimization of the tank and membrane geometries.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Membranbioreaktoren (MBRs) sind eine leistungsfähige Alternative zur biologischen Abwasser-reinigung. Allerdings stellen die hohen Betriebskosten im Vergleich zu herkömmlichen Belebtschlammanlagen einen der wichtigsten Nachteile der MBRs dar. Insbesondere der Energieverbrauch für die Belüftung zur Abreinigung der Deckschicht auf den Membranen ver-ursacht noch erhebliche Kosten, die bis zu 70% der gesamten Energiekosten ausmachen. Deshalb können die größten Energie- und Betriebskosteneinsparungen vor allem durch die Verbesserung der Belüftung erreicht werden. Diese kann durch die Optimierung des MBR Beckens, des Be-lüftungsmoduls und der Modulgeometrien erreicht werden.&#13;
+Entsprechend ist das Hauptziel dieser Arbeit, eine maximale Schubspannung auf der Membran-oberfläche durch die Optimierung der Becken- und Modulgeometrien sowie der Betriebs-bedingungen zu erreichen. Diese ermöglicht eine Reduktion der Deckschichtbildung auf der Membranoberfläche bei minimalem Energieeintrag zu erreichen.&#13;
+Für die experimentelle Untersuchung wurde eine quase zweidimensionales Modell einer Membrankammer verwendet. Dieses war als Schlaufenreaktor mit einen eingetauchten Flach-membranmodul im Aufströmbereich konfiguriert (2,1 m Höhe, 1,2 m Breite und 0,1 m Tiefe) und wurde mit Luft sowie Leitungswasser oder Xanthan TER-Lösung (0,8 g/l), die ähnliche rheologische Eigenschaften aufweist wie Belebtschlamm mit einer TrockensubstanzKonzentration von 10 g/l, betrieben.&#13;
+Die Abhängigkeit des Gesamtgasgehalts und des Gasgehalts im Abström- und Aufströmbereich von der Belüftungsintensität wurde experimentell für verschiedene geometrische Parameter des Beckens und des Membranmoduls untersucht. Basierend auf den daraus resultierenden experimentellen Daten wurden die allgemeinen Korrelationen, die Gasgehalte in Airlift MBRs vorhersagen, angepasst. Zur Prüfung der Leistungsfähigkeit der modifizierten Korrelationen, wurden sie mit den experimentellen Ergebnissen verglichen und es ergab sich eine gute Überein-stimmung.&#13;
+Außerdem wurde die Abhängigkeit der Flüssigkeitsgeschwindigkeit von der Belüftungsintensität experimentell für verschiedene geometrische Parameter des Beckens und Membranmoduls untersucht. Die experimentellen Daten der Flüssigkeitsgeschwindigkeit wurden verwendet, um den Gesamtwiderstandskoeffizienten für die Zirkulationsströmung in einem Airlift-MBR zu be-stimmen. Außerdem wurde ein mathematisches Modell entwickelt, das die Vorhersage der Flüssigkeitsgeschwindigkeit in einem Airlift-MBR ermöglicht. Dieses Modell wurde verwendet, um eine optimale geometrische Gestaltung und optimale Betriebsbedingungen für MBRs zu be-stimmen.&#13;
+Des weiteren wurde die Abhängigkeit der Blasengröße und der Blasenaufstiegsgeschwindigkeit zwischen den vertikalen Membranplatten von der Belüftungsintensität experimentell für ver-schiedene geometrische Parameter des Beckens und Membranmoduls untersucht. Diese Unter-suchung gibt Informationen über die Verteilung der Luft über einen Querschnitt des Membran-moduls, die die Filtrationsleistung beeinflusst und einen wichtigen Schritt zu einer Optimierung der Becken- und Membrangeometrien darstellt.&#13;
+</dc:description>
+          <dc:date>2013-07-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4004</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40041</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40041</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4004/al_shamary_lamia.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

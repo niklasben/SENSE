@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3180">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3180</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Low Temperature Epitaxy of Silicon by Electron-Beam Evaporation for Polycrystalline Silicon Thin Film Solar Cells</dc:title>
+          <dc:title xml:lang="deu">Niedertemperatur Epitaxie von Silizium durch Elektronenstrahl-Verdampfung für Polykristalline Silizium-Dünnschicht Solarzellen </dc:title>
+          <dc:creator>Dogan, Pinar</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The structural and electrical properties of Si thin-films epitaxially grown by electron-beam evaporation on Si wafers with different crystallographic orientations and on poly-Si seed layer coated glass substrates were investigated. In particular, the influence of deposition parameters like substrate temperature, deposition rate, base pressure and substrate bias on the properties of Si films and solar cells were studied. In addition, the influence of the underlying crystallographic orientation was checked. (100) epitaxial layers revealed a lower defect density and a higher solar cell efficiency compared to (111) epitaxial layers. The substrate temperature was investigated in the range of Ts = 450-700 °C for wafer-based structures. It was found that Ts ≥ 600 °C is necessary for a lower extended defect density and a higher solar cell efficiency. Base pressure investigations revealed that a base pressure of up to 1x10-6 mbar does not influence the solar cell efficiency when a deposition rate of about 100-140 nm/min was used. Poly-Si thin-films on glass were studied in detail. It was found that crystalline quality of the epitaxially grown poly-Si films strongly depends on the crystallographic orientation of the underlying grains. Grains near-(100) orientation revealed considerably less number of defects compared to non-(100) orientations. In addition, the intra-grain defects were caused by the defects present in the AIC seed layers and / or at the epitaxially growing film / seed layer interface. Hydrogen-passivation experiments showed that solar cell efficiency improves after passivation of the grain boundary defects. So far the best solar cell efficiency for poly-Si thin-film solar cells on glass was obtained by solid phase crystallization of amorphous Si deposited by e-beam evaporation. Wafer-based solar cell results revealed that e-beam evaporation is a favourable method to prepare high quality Si films under non-UHV environment and with high deposition rates. However for glass-based structures, defects caused by the imperfections of the seed layer and out-diffusion of impurities from glass substrate inside the growing films remain as some of the important issues to be solved in order to obtain high efficiency poly-Si thin-film solar cells on glass.</dc:description>
+          <dc:description xml:lang="deu">In der vorgelegten Arbeit werden die strukturellen und elektrischen Eigenschaften von dünnen epitaktischen Si-Schichten untersucht. Hierzu wurde das Wachstum mittels Elektronenstrahlverdampfern auf Si-Wafern verschiedener kristallographischer Orientierungen sowie auf polykristallinen Si-Saatschichten auf Glas, ausgeführt. Insbesondere wird auf den Einfluss der Wachstumsparameter wie Substrattemperatur, Abscheiderate, Basisdruck sowie der Vorspannung der verwendeten Substrate eingegangen. Die Ergebnisse zeigen eine Abhängigkeit der Schichtqualität von der Orientierung der Oberfläche des Substrats: (100) orientierte Schichten weisen eine geringere Defektdichte als (111) orientierte Schichten, und haben bei Verwendung in Solarzellen eine höhere Effizienz. Die Substrattempemperatur als Wachstumsparameter wurde im Bereich von Ts = 450-700 °C variiert. Es zeigt sich, dass eine Substrattemperatur von Ts ≥ 600 °C zur Reduktion der Defektdichte notwendig ist. Ein Einfluss des Basisdrucks auf die Schichtqualität bei Abscheideraten von 100-140 nm/min konnte bis zu einem Druck von 1x10-6 mbar nicht nachgewiesen werden. Die Studie des Wachstums auf polykristallinem Si-Saatschichten auf Glas erweist eine starke Abhängigkeit der Qualität der epi-Schichten von der Orientierung des jeweils darunter liegenden Kristallkorns. Körner mit einer annähernd (100)-Orientierung enthalten erheblich weniger Defekte als die jeder anderen Orientierung. Des Weiteren wird gezeigt, dass Defekte innerhalb eines Kristallkorns auf Defekte in der AIC Schicht und/oder Defekte an der Grenzfläche von epi-Schicht und Substrat zurückgeführt werden können. Experimente zur Wasserstoff-Passivierung zeigen, dass die Effizienz der Solarzellen durch Passivierung der Defekte an Korngrenzen angehoben werden kann. Die derzeit effizientesten Dünnschicht poly-Si-Solarzellen auf Glas wurden durch Festphasen-Epitaxie mittels Elektronenstrahlverdampfung hergestellt. Diese Ergebnisse für wafer basierte Solarzellen belegen, dass Elektronenstrahlverdampfung eine vorteilhafte Methode zur Herstellung von Si Schichten sehr guter Qualität unter nicht UHV Bedingungen und hohen Abscheideraten ist. Für auf Glas basierende Strukturen ist eine Reduzierung der Defekte, verursacht durch Unreinheiten in der Keimschicht und Diffusion von Unreinheiten aus dem Glas-Substrat in die Schicht während des Wachstums, nach wie vor ausstehend.</dc:description>
+          <dc:date>2011-12-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3180</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33600</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33600</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3180/dogan_pinar.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

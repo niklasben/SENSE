@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3386">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3386</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Focused Ion Beam Created Refractive and Diffractive Lens Techniques for the Improvement of Optical Imaging through Silicon</dc:title>
+          <dc:title xml:lang="deu">Refraktive und diffraktive Festkörperimmersionslinsen für die Verbesserung der optischen Abbildung durch Silizium hergestellt mittels einer fokussierten Ionenstrahlanlage</dc:title>
+          <dc:creator>Scholz, Philipp</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The research core of this work is the creation of refractive and diffractive Solid Immersion Lenses (SILs), carved into silicon (Si) by a focused ion beam (FIB) machine. SILs are needed to optimize optical resolution, if active parts can only be analysed through the backside of an integrated circuit (IC). Commercial SIL objectives have limited application, e.g. close to edges of IC package openings. FIB created SILs can be formed at any requested location. Two concepts are presented: spherical refractive SILs (rSILs) for broad spectral application, but challenging to shape in large dimensions, and binary diffractive SILs (dSILs), requiring monochromatic light, made of shallow structures, possibly being created over large areas. Three specific models of FIB created SILs are developed: one dSIL and two rSILs, rSIL (1) shaped by unassisted FIB milling and rSIL (2) FIB-etched with gas assistance. The rSILs are spherical caps of a hemisphere to achieve an efficient and feasible FIB process. rSIL (1) needs less than 20 min processing time and improves the microscopic resolution by a factor of 1.8. rSIL (1) was also used with an anti-reflective coating, significantly improving visible details and image contrast. rSIL (2), FIB-etched in less than 60 min, offers a larger opening angle. An even larger lens shape was achieved by the dSIL created in 15 min also by FIB etching. Like rSIL (1), rSIL (2) and dSIL also demonstrate a visible improvement in resolution and contrast. The potential of this technique is a numerical aperture (NA) of at least 1.5 (rSIL) or 2.5 (dSIL). This perspective, along with the presented results and detailed process information, make this work the scientific basis upon which FIB-created SILs can be developed into valuable optical components for the functional analysis of integrated circuits.</dc:description>
+          <dc:description xml:lang="deu">In ihrem Kern befasst sich diese Arbeit mit der Erzeugung refraktiver und diffraktiver Festkörperimmersionslinsen (SILs) aus Silizium (Si) mit einer fokussierten Ionenstrahlanlage (FIB). SILs werden zur optischen Auflösungsoptimierung benötigt, wenn aktive Gebiete nur durch die Rückseite des Chips untersucht werden können. Kommerzielle SIL-Objektive lassen sich, z.B. bei engen Gehäuseöffnungen, nur eingeschränkt nutzen. FIB-erzeugte SILs können an beliebiger Stelle geformt werden. Zwei Konzepte werden präsentiert: kugelförmige refraktive SILs (rSILs) für spektral breitbandige Analysen, jedoch nicht leicht in großen Dimensionen herzustellen, und binäre diffraktive SILs (dSILs), nur für monochromatisches Licht aber aus flachen Strukturen auf großen Flächen realisierbar. Drei konkrete Modelle FIB-erzeugter SILs wurden entwickelt: eine dSIL und zwei rSILs, wobei rSIL (1) durch reines FIB-Fräsen erzeugt wird und rSIL (2) durch gasunterstütztes FIB-Ätzen. Die rSIL-Kugelstruktur wird auf Segmente begrenzt, um einen effizienten und machbaren FIB-Prozess zu erreichen. rSIL (1) benötigt weniger als 20 Min. Prozesszeit und verbessert die mikroskopische Auflösung um den Faktor 1,8. rSIL (1) wurde auch mit einer Antireflexionsschicht verwendet, was die Anzahl erkennbarer Details sowie den Bildkontrast erheblich erhöhte. Die in weniger als 60 Min. geätzte rSIL (2) bietet einen größeren Öffnungswinkel. Eine noch größere SIL ließ sich mit der dSIL in 15 Min. Prozesszeit, ebenfalls durch FIB-Ätzen, erreichen. Wie rSIL (1) zeigten auch rSIL (2) und dSIL eine sichtbare Verbesserung in Auflösung und Kontrast. Das Potential der vorgestellten Technik ist eine numerische Apertur (NA) von 1,5 (rSIL) bzw. 2,5 (dSIL). Diese Perspektive sowie die präsentierten Versuchsergebnisse bilden die wissenschaftliche Grundlage, auf der sich FIB-erzeugte SILs zu wertvollen optischen Komponenten in der Funktionsanalytik von integrierten Schaltkreisen entwickeln lassen.</dc:description>
+          <dc:date>2012-07-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3386</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35940</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35940</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3386/scholz_philipp.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

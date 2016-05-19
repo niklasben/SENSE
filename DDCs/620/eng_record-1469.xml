@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1469">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1469</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Integrating Human Factors into Chemical Process Quantitative Risk Analysis</dc:title>
+          <dc:title xml:lang="deu">Einbeziehung des Human Factor in der Risikoanalyse chemischer Prozesse</dc:title>
+          <dc:creator>Kariuki, Simon Gitahi</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Inclusion of human factors in the chemical process quantitative risk analysis (CPQRA) is done by use of human reliability analysis (HRA) techniques. Therefore, to avoid under or overestimation of the actual risk, human error probability (HEP) estimation must be reasonably accurate. This work was founded on the premise that most HEPs used in CPQRA are plagued with uncertainty and therefore do not represent the actual conditions of the system or plant being analysed. However, it is critical that the potential human causes for major accidents be exhaustively identified and quantified for a complete QRA. There is need to introduce a systematic method to analyse the underlying human factors, which cause errors that lead to accidents. To achieve this, first a qualitative method to assess human factors was developed. It formed basis of introducing the aspects of human factors into quantitative risk analysis. An extended framework to capture human and organisation factors that influence the operator performance in order to identify the actual error producing conditions that lead to basic events has also been described in this work. These factors are used to adjust the existing HEPs or the ones that are estimated by experts. The work was accomplished in the following steps: i) Development of a qualitative human factors assessment tool. The tool covers the whole human factors spectrum and could be used for auditing HF maturity level for a given plant. ii) Development of a framework to identify human error events and to analyse human and organisational factors behind these error events. This information is critical in establishing the influence that impacts indirectly yet powerfully the probability of an accident. iii) Quantification of the human and organisational factors for quantitative risk analysis (QRA). An important part is weighting of HF that was done by use of a questionnaire sent to industrial representatives.</dc:description>
+          <dc:description xml:lang="deu">Bei der Durchführung einer quantitativen Risikoanalyse (chemical process quantitative risk analysis - CPQRA) verfahrenstechnischer Anlagen kann der Human Factor (HF) durch den Ansatz der menschlichen Zuverlässigkeitstechnik (human reliability analysis - HRA) berücksichtigt werden. Eine der wichtigsten Aufgaben dabei ist die Bestimmung der Wahrscheinlichkeit eines menschlichen Fehlers (human error probability – HEP), um das bestehende Risiko korrekt abschätzen zu können. Das größte Problem dabei besteht jedoch in den starken Unsicherheiten, mit denen diese HEPs belegt sind, wodurch nicht die realen Bedingungen der betrachteten Anlage bzw. des betrachteten Systems zu Grunde gelegt werden. Es ist jedoch für die Berücksichtigung des HF bei der Durchführung einer QRA von grundlegender Bedeutung, dass mögliche menschliche Ursachen von Ereignissen und Unfällen umfassend identifiziert und quantifiziert werden. Somit wird eine systematische Methode benötigt, mit deren Hilfe einzelnen HF- Faktoren, welche zu einem Unfall führen können, analysiert werden können. Dafür wurde zunächst eine qualitative Methode, zur Bewertung des Human Factors einer verfahrenstechnischen Anlage entwickelt. Diese stellt eine Grundlage für die Integration des HF in die Risikoanalyse dar. Es wurde eine umfangreiche Kategorisierung aller Faktoren, welche die Leistung des Bedieners beeinflussen, erarbeitet, um die realen Bedingungen, welche zu Fehlern führen können zu identifizieren. Diese Faktoren werden auch dazu verwendet, die bestehenden HEPs und die von Experten abgeschätzten Werte abzugleichen. Die Arbeit läßt sich in folgende Schritte unterteilen: i) Entwicklung einer qualitativen HF- Bewertungs- Methode. Diese beinhaltet die gesamte Bandbreite des HF und kann angewendet werden, um die HF- Qualität einer bestehenden Anlage abzuschätzen. ii) Entwicklung einer Kategorisierung um „human error“ Ereignisse zu identifizieren und die organisatorischen Faktoren hinter diesen Ereignissen zu analysieren. iii) Quantifizierung der einzelnen HF- Faktoren für die quantitative Risikoanalyse. Dabei wurde die Gewichtung der Faktoren durch eine ausführliche Expertenbefragung vorgenommen.</dc:description>
+          <dc:date>2007-03-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/vnd.ms-office</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1469</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15289</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15289</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1469/original_kariuki_simongitahi.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1469/kariuki_simongitahi.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

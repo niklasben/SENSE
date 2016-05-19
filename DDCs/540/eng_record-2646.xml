@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2646">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2646</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Neue Anwendungen der Olefinmetathese in der Naturstoffsynthese - Totalsynthese von Pumiliotoxin CIII</dc:title>
+          <dc:title xml:lang="eng">New application of olefinmethatesis in the natural product synthesis - totalsynthesis of Pumiliotoxine CIII</dc:title>
+          <dc:creator>Eichhorn, Torsten</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Im ersten Teil der Arbeit wurde ausgehend von der bekannten diastereoselektiven Ringumlagerungsmetathese (dRRM) eine neue diastereoselektive Metathesekaskade zur Darstellung von alpha-alkenylsubstituierten Hexahydrochinolinen, ausgehend von acyclischen Propargylamiden, entwickelt. Die mechanistischen Untersuchungen ergaben, dass es sich dabei um eine Kaskade der Metathesearten ROM-enyn-RCM-CM oder CM-enyn-RRM-CM handeln muss. Durch die Wahl des Metathesekatalysatoren und der Bedingungen kann die Diastereoselektivität während der Reaktion kontrolliert werden. Diese neuartige Metathesekaskade wurde anschließend als Schlüsselschritt zum diastereoselektiven Aufbau des Decahydrochinolinsystems in der Totalsynthese von Pumiliotoxin CIII (Alkaloid 195B), einem Toxin isoliert aus Pfeilgiftfröschen der Gattung Dentrobates histrionicus, angewendet. Mit einer diastereoselektiven Hydrierung konnte die erste in der Literatur bekannte Totalsynthese von Pumiliotoxin CIII abgeschlossen und die bisher tentative Struktur aufgeklärt werden. Im zweiten Teil der Arbeit wurde die von J. Neidhöffer angefangenen Studien zur Totalsynthese von (+)-Aspicilin fortgesetzt. Durch eine Sequenz aus CM und einer anschließenden Makrolactonisierung, ausgehend von 2-Hydroxytetradec-13-en und Vinyldioxolenon, wurde ein 17gliedriges beta-Ketolacton erhalten. Dieses wurde nach einer Methode von Zercher mit ZnEt2 und CH2I2 zum 18gliedrigen alpha,beta-gesättigtem gamma-Ketolacton homologisiert. Nach einer diastereoselektiven Reduktion und Entschützung konnte das Aspicilinderivat Dihydroaspicilin gewonnen werden. Das Einfügen einer Doppelbindung zum 18gliedrigen alpha,beta-ungesättigtem gamma-Ketolacton war weder nach der Methode von Zercher, bei der während der Homologisierung Iod als gute Fluchtgruppe zum Eliminieren eingefügt werden sollte, noch nach anderen Olefinierungsmethoden möglich. Damit musste das Projekt zur Totalsynthese von (+)-Aspicilin abgebrochen werden.</dc:description>
+          <dc:description xml:lang="eng">The first part of this study is about the developing of a new diastereoselective metathesis cascade for the synthesis of alpha-alkenylsubstituted hexahydroquinolines. Comming from a known diastereoselective ring rearrangement metathesis th investigations of the mechanism showes that this reaction has to be a cascade of the following metathesis types: ROM-enyne-RCM-CM or CM-enyne-RRM-CM. The diastereoselectivity can be controlled through the reaction by the choice of the catalysts. Afterwards this new metathesis cascade were used as the keystep during the totalsynthesis of Pumiliotoxin CIII (Alkaloid 195B), a toxin isolated from the poison dart frog Dentrobates histronicus. The first in literature known totalsynthesis of Pumiliotoxin CIII were finished with a diastereoselective hydrogenation. In the second part the studies of J. Neidhöfer to the totalsynthesis of (+)-Aspicilin were continued. Starting from 2-hydroxytetradec-13-en and vinyldioxolenone a 17ring beta-ketolactone were build up through a sequence of a crossmetathesis followed by a macrolactonication. By a protocoll of Zercher with ZnEt2 and CH2I2 the macrolactone was expanded to the 18ring alpha,beta-saturated gamma-ketolactone. After a diastereoselective reduction, followed by a deprotection, the aspicilin derivative Dihydroaspiciline were obtained. The insertion of a doppelbond to get the 18ring alpha,beta-unsaturated gamma-ketolactone was not possible by the protocoll of Zercher with iodine as a good leaving group or other olefination methods. Because of this result the procect of the totalsynthesis of (+)-Aspicilin has to be aborted.</dc:description>
+          <dc:date>2010-10-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2646</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27940</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27940</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2646/eichhorn_torsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

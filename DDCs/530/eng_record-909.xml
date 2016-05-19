@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:909">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:909</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hochauflösende Laserspektroskopie mittels optisch-optischer Doppelresonanz an Pentacen und laserinduzierter Fluoreszenz an Terrylen</dc:title>
+          <dc:title xml:lang="eng">High resolution laser spectroscopy of pentacene via optical-optical double resonance and of terrylene via laser induced fluorescence</dc:title>
+          <dc:creator>Hoheisel, Gerald</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In einem Überschalldüsenstrahl wurden Pentacen und Terrylen mit hochauflösender laserinduzierter Fluoreszenz-Spektroskopie untersucht. Bei Pentacen sind erstmalig die nieder-frequenten Gerüstschwingungen (floppy modes) im elektronisch angeregten Zustand mit sorgfältigen Bandkonturanalysen ausgewertet worden. Bei diesen floppy modes gelang durch Stark-Effekt Experimente der Nachweis, daß die Polarisierbarkeit durch einen außergewöhnlich großen Vibrationsanteil beeinflusst wird. Die vorliegende Arbeit überträgt erstmals die Methode der optisch-optischen Doppelresonanz (OODR) auf ein derart großes Molekül wie Pentacen. Durch die Beobachtung und Auswertung einzel-stehender Linien wurden präzise Rotationskonstanten ermittelt, und in Kombination mit dem Stark-Effekt sind genauere Polarisierbarkeitsänderungen für den schwingungslosen Übergang bestimmt worden. Diese Arbeit zeigt erstmalig Spektren freier Terrylen-Moleküle in der Gasphase. Drei dicht beieinander liegende vibronische Übergänge sind beobachtet und diskutiert worden. Durch eine Analyse, der mit hoher spektraler Auflösung aufgenommenen Bandkonturen, gelang die Bestimmung der Übergangsenergien und Trägheitsmomente. Schließlich wird eine mögliche Anwendung der experimentellen Ergebnisse auf eine astronomische Fragestellung diskutiert: Sind Pentacen oder Terrylen mögliche Träger der diffusen interstellaren Absorptionsbanden?</dc:description>
+          <dc:description xml:lang="eng">Pentacene and terrylene were investigated as free molecules in a supersonic jet with laser induced spectroscopy in high resolution. Band contour spectra of vibronic transitions were analysed to study the low frequency floppy modes in the excited state of pentacene. In Stark-effect experiments the vibrational contribution to the polarizability was demonstrated for these floppy modes. For the first time the optical-optical double resonance was applied to an organic molecule with the size of pentacene. Single rovibronic lines of the vibrationless S(1) &lt;-- S(0) transition were observed and analysed to get more precise rotational constants and polarizabilities with this technique. This work presents the first gas-phase spectra of free terrylene. The band contour spectra of three vibronic transitions were observed and the vibrational modes were discussed. The transition energies and moments of inertia were determined. The results were applied to an astrophysical problem: Are pentacene or terrylene carriers of diffuse interstellar bands?</dc:description>
+          <dc:date>2004-11-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/909</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9027</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9027</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/909/hoheisel_gerald.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

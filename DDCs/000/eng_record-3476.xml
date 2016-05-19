@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3476">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3476</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Phasenumwandlung und lokale mechanische Eigenschaften von TRIP Stahl beim simulierten und realen Widerstandspunktschweißprozess</dc:title>
+          <dc:title xml:lang="eng">Phase transformation and local mechanical properties of TRIP steel during real and simulated spot welding process</dc:title>
+          <dc:creator>Brauser, Stephan</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="deu">TRIP Stähle realisieren durch eine unter mechanischer Beanspruchung hervorgerufene Pha-senumwandlung von metastabilen Austenit in Martensit (TRIP-Effekt) hohe Festigkeiten bei gleichzeitig guten Verformungseigenschaften. Während der Verarbeitung dieser Werkstoffe mittels Widerstandspunktschweißen können unter den prozessspezifischen extremen Aufheiz- und Abkühlraten Modifikationen des Austenitanteils hervorgerufen werden die als Folge lokal zu einer Änderung der mechanisch-technologischen Eigenschaften führen. Wesentliche Zielsetzung der vorliegenden Arbeit war daher die Analyse der Gefügestruktur im Bereich einer Punktschweißverbindung hinsichtlich der Änderung des Austenitanteils und den daraus resultierenden Änderungen der lokalen mechanischen Eigenschaften unter besonderer Be-rücksichtigung des TRIP-Effekts. Durch in-situ Beugungsuntersuchungen mittels hochenergetischer Synchrotronstrahlung erfolgte zunächst die Quantifizierung des metastabilen Austenitanteils im unbehandelten Grundwerkstoff. Darauf aufbauend wurden unter definierten Temperaturprofilen in Ofenver-suchen die grundlegenden Aspekte der thermisch bedingten Austenitumwandlung im Auf-heiz- und Abkühlprozess untersucht. Durch Gleeble-Versuche und Ofenexperimente wurden weiterführend verschiedene Temperaturprofile mit unterschiedlichen im Punktschweißprozess lokal vorliegende Spitzentemperaturen genutzt um eine systematische Bewertung des Einflus-ses der Temperatur und der Aufheiz- sowie der Abkühlbedingungen auf den Austenitgehalt unter realen Bedingungen zu ermöglichen. Durch Korrelationsuntersuchungen zwischen den mechanischen Kennwerten thermisch präparierter Zugproben und den mittels Metallogra-phisch wie auch röntgenographisch ermittelten Austenitgehalten konnten die metastabilen, d.h. umwandlungsfähigen Austenitanteile bestimmt werden. Schließlich erfolgte eine Bewer-tung hinschlich der Übertragbarkeit der Ergebnisse auf reale Widerstandspunktschweißver-bindungen. Es wurde dabei der Nachweis erbracht, dass die Austenit-Martensit-Phasenumwandlung lediglich in einem lokal eng begrenzen Werkstoffbereich am Übergang WEZ/Grundwerkstoff wirksam werden kann. Demzufolge führt der TRIP-Effekt zu keiner signifikanten Beeinflussung von Festigkeits- und Verformungseigenschaften im Fügebereich von widerstandspunktgeschweißten TRIP Stählen. Die ermittelten mechanischen Kennwerte wurden abschließend als Eingangsdaten für die numerische Simulation des Verformungs- und Festigkeitsverhaltens von Punkschweißverbin-dungen genutzt. Dabei wurde insbesondere die Notwendigkeit der Implementierung von mechanischen Kenndaten der Wärmeeinflusszone für eine realitätsnahe Modellierung von Scherzugversuchen untersucht.</dc:description>
+          <dc:description xml:lang="eng">TRIP steels give high strength along with good ductility owing to metastable austenite to martensite phase transformation (TRIP effect) caused by mechanical load. Under the extreme process-specific heating and cooling rates of resistance spot welding, these materials may undergo modifications in their austenite portion resulting in changed mechano-technological performance locally. The prime objective of this study was therefore to carry out microstruc-ture analyses of the spot weld area in order to identify the modified portion of austenite and the resulting changes in local mechanical performance with special consideration of the TRIP effect. First, the metastable austenite portion in the unprocessed parent metal was quantified by in-situ diffraction using high energy synchrotron radiation. Next, the basic aspects of tempera-ture dependent austenite transformation in the heating and cooling process were investigated in furnace experiments under defined temperature profiles. Continuative Gleeble tests and furnace experiments were conducted using various temperature profiles with different peaks occurring locally in the spot welding process in order to enable systematic assessment of the influence of temperature and of heating and cooling conditions on the austenite content under real conditions. Correlation experiments between the mechanical characteristics of thermally prepared tensile specimens and the metallographically and roentgenographically determined austenite contents allowed it to ascertain the metastable, i.e. transformable austenite portions. Finally, the results were evaluated concerning their transferability to real resistance spot welds. It was demonstrated that the austenite to martensite phase transformation can come into action only in a strongly localized material area in the transition zone between heat-affected zone and base metal. Consequently, the TRIP effect does not significantly affect the strength and ductility performance in the joining area of spot welded TRIP steels. The established mechanical characteristics were used as input data for numerical simulation of the spot weld ductility and strength performance. Here, the attention was focused on the necessity of implementing mechanical characteristics of the heat-affected zone for realistic tensile shear test modelling.</dc:description>
+          <dc:date>2012-10-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3476</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36596</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36596</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3476/brauser_stephan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:778">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:778</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Generalized Feedback Control and Application to Vehicle Path Following Control</dc:title>
+          <dc:title xml:lang="deu">Generalized Feedback Control und Umsetzung am Beispiel der Fahrzeugbahnfolgeregelung</dc:title>
+          <dc:creator>Schäfer, Frank René</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Dissertation wird ein diskreter Regelungsansatz eingeführt und definiert als 'Generalized Feedback Control' (GFC). Im allgemeinen Sprachgebrauch wird 'Feedback Control' mit einem Regelungssignal in Verbindung gebracht, das proportional zu dem Fehler angesetzt wird, der zwischen einer gewünschten und der tatsächlichen Systemantwort auftritt. Ein Summationspunkt, der die Differenz zwischen beiden berechnet, ist dabei das zentrale Element dieses traditionellen Paradigmas. Die Beschränkung der Rückkopplung auf eine einfache Subtraktion spielt eine entscheidende Rolle für die Analyse des Systems anhand der Linearen System Theorie. In Generalized Feedback Control wird die Rückkopplung nicht auf eine funktionale Verabeitung beschränkt, sondern auf eine algorithmische. Zwei grundlegende Formen der Rückkopplung werden identifiziert: Motivationsabgleich (motivation matching) und Situationsanpassung (circumstance cognition). Ein Modul zur Berechnung eines geometrisch-dynamischen Plans setzt den aktuellen Systemzustand in bezug zu einer Kurzzeitmotivation (short term motivation). Als Ergebnis liefert es einen geometrisch-dynamischen Plan für das darauffolgende Regelungsintervall, den sogenannten 'GD-Plan.' Ein weiteres Modul, der 'plan-to-action mapper,' hat die Aufgabe entsprechende Regelgrößen zu berechnen, die im gegebenen Systemzustand die Umsetzung des geometrisch-dynamischen Plans ermöglichen. Die Abkehr vom Summationspunkt hat zur Konsequenz, daß klassische Analysemethoden nicht verwendet werden können um die Zuverlässigkeit und Stabilität des Systems zu untersuchen. Diese Dissertation führt eine Algorithmus-orientierte Methode ein um die Zuverlässigkeit des Regelungssystems zu untersuchen: das Kriterium der 'Containability' (Ausmass der Dominanz über das zu regelnde System). Es basiert auf der Idee, die Fähigkeit des Regelungssystems zu untersuchen, den zulässigen Bereich der Systemzustände nicht zu verlassen. Die mathematische Modellierung der Kurzzeitmotivation verlangt nach einer tieferen Betrachtung. Aus diesem Grund wird ein geschlossener mathematischer Ansatz eingeführt, um einen eindeutigen GD-Plan zu ermitteln ausgehend von einer Menge von Präferenzen bezüglich des Grundbereichs der möglichen geometrisch-dynamischen Pläne.</dc:description>
+          <dc:description xml:lang="eng">In this dissertation, a discrete control approach is introduced and defined as Generalized Feedback Control (GFC). Traditionally, feedback control is associated with a control signal being computed proportionally to the error between the achieved response of the plant and the desired response. A summation point providing the difference between both becomes a central element in the traditional paradigm. Constraining the feedback to a pure subtraction is essential for the analysis of the control system by means of linear system theory. The Generalized Feedback Control approach does not restrict the processing of feedback to a functional processing but to algorithms. Two essential types of feedback are identified: motivation matching and circumstance cognition. A geometric-dynamic planning unit processes the plant's state and interferes it with a short term motivation. As a result, it delivers a set of parameters specifying the nominal behavior for the following control interval, called gd-plan. This gd-plan is then passed to a so called plan-to-action mapper. This observes the plant's state in order to determine the control parameters to achieve the gd-plan for the given circumstances. The depart from the summation point means at the same time a depart from classical methods of analysis to test the reliability/stability of the controller. This monography introduces an algorithmic approach to test for the reliability of the controller: the criteria containability. It is based on the idea to determine the ability to stay inside an admissible domain of system states. A mathematical modeling of the short term motivation requires in depth consideration. Therefore, an integrated mathematical approach to derive one distinct preferred gd-plan from a set of preferences on the set of possible gd-plans is introduced. The procedure is then defined as the method of target and limit maps. In order to clarify introduced concepts and in order to show its utility, the approach is applied to the problem of combined lateral and longitudinal control of a vehicle at limit handling conditions.</dc:description>
+          <dc:date>2004-09-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/778</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7724</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7724</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/778/schaefer_frank.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2297">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2297</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Optical phonons in colloidal CdSe nanorods</dc:title>
+          <dc:title xml:lang="deu">Optische Phononen in CdSe Nanorods</dc:title>
+          <dc:creator>Lange, Holger</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Colloidal CdSe nanorods are nanoparticles synthesized in solution. The nanorods can be epitaxially covered with a graded CdS/ZnS shell of a few monolayers in thickness. In this work Raman spectroscopy, accompanied by ab-initio calculations, is used to determine the amount of this strain, the exciton-phonon coupling strength in the nanorods and to investigate confinement effects. The longitudinal optical phonons in a nanorod are confined to the nanorod volume. The coupling strength between longitudinal optical phonons and excitons depends on the nanorod diameter. The total coupling strength is much lower than in bulk material due to a decrease of the influence of the Coulomb interaction in nanoparticles. A radial breathing mode with a diameter dependent frequency is investigated verified experimentally. In core-shell structures, the coverage of a CdSe nanorod with a ZnS shell leads to a compressive strain of the CdSe core due to the smaller lattice parameter of ZnS compared to CdSe. The amount of strain is estimated from the Raman spectra.</dc:description>
+          <dc:description xml:lang="deu">CdSe Nanorods sind Nanopartikel, die in einerLösung synthetisiert werden. Die Nanorods können in eine epitaktische Hülle aus einem Halbleitermaterial mit einer größeren Bandlücke, ZnS, eingebettet werden. In dieser Arbeit werden der Einfluss der ZnS H\ülle auf den CdSe Kern und die Schwingungseigenschaften von CdSe Nanorods mit Ramanspektroskopie untersucht. Es wird gezeigt, dass die Frequenzen der longitudinal-optischen Phononen vom Durchmesser der Nanorods bestimmt werden. Dies liegt daran, dass die Wellenfunktion der Phononen im Nanokristall eingeschlossen ist. Die Kopplung der longitudinal-optischen Phononen an Exzitonen hängt ebenfalls vom Durchmesser ab. Eine radiale Atmungsmode in den Nanorods wird nachgewiesen. Die Frequenz dieser hängt stark vom Nanorod-Durchmesser ab, und die Messung der Frequenz erlaubt die Bestimmung des Durchmessers mittels Ramanspektroskopie. Die durch die Hülle verursachten Verpannungen werden mit ab-initio-Berechnungen untersucht. Bindungen entlang der c-Achse sind kaum verspannt, die lateralen Bindungen sind homogen verspannt. Die Größe der Verspannungen kann quantitativ mit Ramanspektroskopie bestimmt werden. Das durch die Hülle geänderte Nanorod-Umfeld führt zu einer Änderung der Exziton-Wellenfunktion und dadurch zu einer stark abnehmenden Exziton-Phonon-Kopplung.</dc:description>
+          <dc:date>2009-11-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2297</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24184</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24184</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2297/holger_lange.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

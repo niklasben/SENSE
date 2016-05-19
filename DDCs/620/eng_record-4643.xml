@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4643">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4643</identifier>
+        <datestamp>2014-01-23</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Qualitative analysis for dynamic behavior of railway ballasted track</dc:title>
+          <dc:title xml:lang="deu">Dynamisches Verhalten des Schottergleises entwickelt unter Anwendung einer Analysenmethode</dc:title>
+          <dc:creator>Choi, Jungyoul</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Because track structures subjected to dynamic loading are usually constructed from different materials and components, their behavior cannot be easily verified or predicted. The design, repair, and effective maintenance of tracks are therefore critical for ballasted track performance assessment. Moreover, low reliability of input variables used in ballasted track analysis can have a potentially large effect on the solution. If the uncertainty in input data could be considered by a range of values rather than a single value, a more reliable design and satisfactory maintenance measures for the entire range of input values could be achieved. In this study, theoretical, experimental, analytical, and statistical evaluations were performed to predict and assess the track support stiffness, track impact factor, dynamic wheel-rail forces, and subgrade modulus. Field measurements for evaluating the dynamic characteristics of a ballasted track and its components were performed; their results reveal a correlation between track support stiffness and the corresponding track response. The track support stiffness directly affects the track response and the entire ballasted track system, implying that the response should ideally be a function of the stiffness. A qualitative analysis–based dynamic behavior prediction model for ballasted tracks (qualitative prediction model) was developed to predict and assess track performance as a function of dynamic vehicle loading and track support stiffness variation. The prediction model consists of a two-degrees-of-freedom dynamic track model and modified track properties, which define the rail pad and ballast stiffness ranges, based on designed and measured values. The qualitative prediction model for dynamic track behavior, capable of simulating the complex interaction between the track’s component properties and track responses, was developed in this study. The qualitative analysis results are presented as a discrete space area of various track responses and parameters, instead of single values. The dynamic behavior of in-service ballasted tracks can be qualitatively predicted by the proposed qualitative analysis map as a function of the rail pad and ballast stiffnesses, and a simple field test. This new approach is expected to facilitate track behavior assessment by owners based on more realistic track conditions, as well as reduce inaccuracies and deliver results that are consistent with the prediction results of in-service track responses using single design values.</dc:description>
+          <dc:description xml:lang="deu">Schottergleise sind infolge ihrer dynamischen Belastungen und weil sie aus verschiedenen Materialien und Komponenten bestehen, nicht leicht zu prüfen und in ihrem Verhalten vorherzusagen. Für die Beurteilung der Schotteroberbauqualität sind daher Gleisdesign, Instandsetzung und effektive Wartung wichtig. Zudem kann eine unzureichende Zuverlässigkeit der Input-Variablen, die in der Beurteilung von Schotteroberbaukonstruktionen und deren Zustandsprognosen im Betrieb verwendet werden, eine große Wirkung auf das Ergebnis haben. In dieser Studie wurden theoretische, experimentelle, analytische und statistische Analysen durchgeführt, um Gleissteifigkeit, Gleis-Impaktfaktor, dynamische Rad-Schiene-Kräfte und Gleisbettmodul zu modellieen und ihr Langzeitverhalten im Betrieb vorherzusagen. Es wurde festgestellt, dass eine gewisse Korrelation zwischen der Gleissteifigkeit und der entsprechenden Gleisreaktion besteht. Die Gleissteifigkeit wird hauptsächlich von der Gleisreaktion und dem gesamten Schottergleissystem beeinflusst. Die Schottergleisreaktion sollte daher idealerweise eine Funktion der Gleissteifigkeit sein. In dieser Studie wird ein Vorhersagemodell zum dynamischen Verhalten des Schottergleises entwickelt unter Anwendung einer qualitativen Analysemethode, das der Vorhersage und Beurteilung der Gleislebensdauer unter dynamischer Fahrzeugbelastung und sich verändernder Gleissteifigkeit dient. Das vorgeschlagene qualitative Vorhersagemodell besteht aus einem dynamischen Gleismodell mit zwei Freiheitsgraden (2DOF) und modifizierbaren Gleiseigenschaften, die den Bereich von Schienenunterlage und Schottersteifigkeit, basierend auf Anfangsswerten und im späteren Verlauf gemessenen Werten definieren. Das qualitative Modell zur Vorhersage dynamischen Verhaltens des Gleises, das die komplexe Interaktion zwischen den Eigenschaften der Gleiskomponenten und der entsprechenden Gleisreaktion zu simulieren vermag, wurde innerhalb der vorliegenden Studie erarbeitet und verifiziert. Die Ergebnisse der qualitativen Analyse werden als diskrete Fläche der verschiedenen Gleisreaktionen und Parameter dargestellt. Das dynamische Betriebsverhalten von belasteten Schottergleisen kann durch die Analysenkarten und den dynamischen Gleisreaktionen vorhergesagt werden. Es ist zu erwarten, dass sich hiermit die Qualität der Prognose der zu erwartetenden Qualität von Schottergleisen unter Betrieb erhöht und die Auswirkungen von Instandhaltungsmaßnahmen noch besser beurteilt werden können.</dc:description>
+          <dc:date>2014-01-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4643</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46430</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46430</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4643/choi_jungyoul_thesis.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3832">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3832</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">IKT-Ressourcenmodellierung : Kriterien und Umsetzung der Ressourcenmodellierung für ein Management-Cockpit</dc:title>
+          <dc:title xml:lang="eng">ICT resources modeling : criteria and implementation of resource modeling for a management cockpit</dc:title>
+          <dc:creator>Opitz, Nicky</dc:creator>
+          <dc:creator>Pröhl, Thorsten</dc:creator>
+          <dc:creator>Erek, Koray</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Wesentliches Ziel des Projekts GreenIT Cockpit ist die Bestimmung des geschäftsprozessbezogenen Energiebedarfs der Informations- und Kommunikationssysteme (IKT) und ein geeignetes System von Key Performance Indikatoren (KPIs) zur einfachen und übersichtlichen Darstellung des Gesamtenergieverbrauchs der IKT in einem Management Cockpit (MC) zu entwickeln. Da viele Entscheider in Geschäftsprozessen denken, ist das ein guter Ansatz, um ein Bewusstsein für die Energieeffizienz bei denjenigen Akteuren zu schaffen, die maßgeblich auf die IKT-Infrastruktur und den damit verbundenen Energiebedarf Einfluss nehmen können. Damit die in den Geschäftsprozessen anfallenden Energieverbräuche der IKT verursachungsgemäß bestimmt werden können, müssen die in den Prozessen verwendeten IKT-Ressourcen erfasst und deren Abhängigkeiten modelliert werden. In diesem Band wird die dafür notwendige Modellierungsmethode entwickelt und erläutert.</dc:description>
+          <dc:date>2013-06-21</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3832</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38320</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38320</dc:identifier>
+          <dc:identifier>978-3-7983-2580-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3832/Projektberichte_IKM_Band%2007_cover_and_content.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

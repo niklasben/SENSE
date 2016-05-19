@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:180">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:180</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The growth rate of random polynomials defined by a random difference equation</dc:title>
+          <dc:creator>Shu, Felix Che</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">Let A=(A_i)_{i in N_0} be a stationary stochastic process in GL(d,R), where GL(d,R) denotes the set of invertible d times d matrices with real entries. Over the past decades an extensive theory has been developed on the asymptotic behaviour of sequences of the form label{abstreq1} (1/n ln||A_n....A_0||)_{n in N} and label{abstreq2} (1/n ln||A_n...A_0 x||)_{n in N} with x a vector in R^d. A lot of material is available on conditions ensuring the existence of almost sure limits as well as characterisations of these limits in case of existence. Along these lines, statements of the type of the central limit theorem in classical probability theory have been proved. Satisfactory answers have been given to these questions amongst others by Furstenberg and Kifer, Oseledec and Tutubalin. The first two authors characterise the almost sure asymptotic behaviour of sequences {abstreq1} and {abstreq2} giving exponential growth rates'' which the limit of {abstreq1} or {abstreq2} may exhibit under appropriate conditions. In the case of {abstreq2}, filtrations of R^d are given which characterise the values the limit takes. Following Tutubalin, Bougerol and Lacroix show that under appropriate conditions on the distribution of the elements of the sequence $A:=(A_i)_{i in N_0}, analogues of the central limit theorem in classical probability theory hold for the sequence ||A_n...A_0x||$. We wish to show that under appropriate conditions, similar statements will hold for products of affine transformations''. We show that without &gt; additional assumptions, versions of the theorem of Furstenberg and Kifer as well as Oseledec's theorem on the almost sure asymptotic behaviour of sequences {abstreq2} remain valid with the vectors x in R^d replaced by matrices $V in M(d,m,R) for any m in N. This will be the key observation which paves our way to descriptions of the almost sure asymptotic behaviour of sequences of the form {abstracteq1} ({1/n}ln||sum_{k=0}^n A_n....A_{n-k+1} B_{n-k+1}C_{n-k}...C_1V||)_{n in N}, where the sequences of random matrices A:=(A_i)_{i in N_0},B:=(B_i)_{i in N_0} and C:=(C_i)_{i in N_0} are such that the operations of multiplication and addition involved can be carried out and V is a deterministic matrix for which the multiplication involved is feasible. The success of the construction of the filtration in this case will rely on irreducibility requirements of certain probability measures. We also consider the case where the irreducibility condition fails and give sufficient conditions for the existence of the almost sure limit in special cases. Our discussions so far are restricted to the case where we consider i.i.d. sequences of random matrices. But we also discuss the situation which arises when the random matrices involved are not independent. We prove central limit theorems for {abstracteq1} under the assumption that (A_i)_{i in N_0} is a random sequence in R or (C_i)_{i in N} is a</dc:description>
+          <dc:date>2000-03-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/180</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1759</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1759</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/180/shu_felix.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

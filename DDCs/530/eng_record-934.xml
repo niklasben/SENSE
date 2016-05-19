@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:934">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:934</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">On the rigorous derivation of a kinetic equation for a chemical reaction taking place in a simple mechanical model system, following Boltzmann's ideas using the 'Stosszahlansatz'</dc:title>
+          <dc:title xml:lang="deu">Über die strenge Herleitung einer kinetischen Gleichung für eine in einem einfachen mechanischen Modellsystem ablaufende chemische Reaktion, Boltzmanns Ideen um den</dc:title>
+          <dc:creator>Rassy, Tilman</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit ist die Bestätigung von Boltzmanns Ideen bezüglich der Herleitung "irreversibler" kinetischer Gleichungen aus "reversiblen" mechanischen Gesetzen, und zwar durch exakte Formulierung und Beweis für ein einfaches mechanisches Modellsystem. Zunächst werden Boltzmanns Ideen, entwickelt als Reaktion auf die Einwände gegen die Boltzmann-Gleichung, sorgfältig in moderner Weise neu formuliert. Es stellt sich heraus, dass Boltzmanns Sicht wesentlich mehr "mechanisch" war als die Ansichten, die üblicherweise in der späteren Literatur eingenommen wurden. Insbesondere war "molekulare Unordnung" -- ein entscheidendes Argument in der Herleitung der Boltzmann-Gleichung -- eine Eigenschaft einzelner Mikrozustände (und nicht z.B. eines Wahrscheinlichkeitsmaßes) und deshalb ein rein mechanischer Begriff. Wahrscheinlichkeit floss nur in einer Weise in die Theorie ein, die deren grundsätzlich mechanische Natur nicht in Frage stellte. Unglücklicherweise konnte Boltzmann seine Idenn nicht in der notwendigen Strenge ausarbeiten (was für reale mechanische Systeme wegen deren Komplexität wahrscheinlich unmöglich ist). Die Überzeugungskraft seiner Ideen hat darunter gelitten. Im zweiten Teil der Arbeit wird ein sehr einfaches Modellsystem (ähnlich Kacs Ring-Modell) konstruiert. Es zeigt eine "chemische Reaktion", für die auf heuristische Weise, völlig analog zur Herleitung der Boltzmann-Gleichung, eine kinetische Gleichung hergeleitet werden kann. Da die zugrundeliegende mikroskopische Dynamik reversibel ist, befinden wir uns in demselben Dilemma wie Boltzmann. Dann werden Boltzmans Ideen angewandt, aber in mathematisch exakter Weise. Insbesondere wird "molekulare Unordnung" exakt definiert als eine Eigenschaft einzelner Mikrozustände. Solange der Mikrozustand diese Eigenschaft besitzt, gilt die kinetische Gleichung. Es läßt sich zeigen, dass -- bezüglich eines sinnvollen Wahrscheinlichkeitsmaßes -- der Mikrozustand mit Wahrscheinlichkeit Eins molekular ungeordnet ist und bleibt. Als eine Folgerung daraus gilt die kinetische Gleichung mit Wahrscheinlichkeit Eins. Zum Schluss werden die Ergebnisse der Arbeit diskutiert.</dc:description>
+          <dc:description xml:lang="eng">The aim of this work is to validate Boltzmann's ideas concerning the derivation of 'irreversible' kinetic equations from 'reversible' mechanical laws by rigorously formulating and proving them for a simple mechanical model. First, Boltzmann's ideas, developed as a reaction to the objections raised against the Boltzmann equation, are carefully re-stated in a modern way. It turns out that Boltzmann's view was far more 'mechanical' than the perspectives usually adopted in the later literature. In particular, 'molecular non-orderedness' -- a crucial argument in the derivation of the Boltzmann equation -- was a property of single microstates (not, e.g., of a probability measure) and therefore a purely mechanical term. Probability only entered the theory in a way that does not question its basically mechanical nature. Unfortunately, Boltzmann was not able to work out his ideas in the necessary rigour (which is probably impossible for real mechanical systems because of their complexity). Therefore the power of persuasion of his ideas has been diminished. In the second part of the work, a very simple model system (similar to Kac's ring model) is constructed. It shows a 'chemical reaction', for which an irreversible kinetic equation can be obtained in a heuristic way completely analogous to the derivation of the Boltzmann equation. Since the underlying microscopic dynamics is reversible, we are in the same dilemma as Boltzmann was. Then, Bolzmann's ideas are applied, but in a mathematically rigorous manner. In particular, 'molecular non-orderedness' is exactly defined as a property of single microstates. As long as the microstate possesses this property, the kinetic equation holds. It can be shown that -- with respect to a reasonable probability measure -- the microstate is and will remain 'molecular non-ordered' with probability one. As a consequence, the kinetic equation holds with probability one. Finally, the results of the work are discussed.</dc:description>
+          <dc:date>2004-11-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/934</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9278</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9278</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/934/rassy_tilman.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

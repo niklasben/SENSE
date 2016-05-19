@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:256">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:256</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Charakterisierung eines ribosomenassoziierten Proteinkomplexes der Hefe Saccharomyces cerevisiae</dc:title>
+          <dc:title xml:lang="eng">Characterization of a ribosome-associated protein complex in Saccharomyces cerevisiae</dc:title>
+          <dc:creator>Franke, Jacqueline</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">NAC (Nascent Polypeptide-associated Complex) ist ein Proteinkomplex mit kontrovers diskutierten Funktionen. Säuger-NAC wurde als ein Regulator des cotranslationalen Transports von Proteinen in das Endoplasmatische Retikulum (ER) identifiziert. Daneben existieren Arbeiten, in denen den Untereinheiten des NAC in Säuger und Hefe Funktionen in der Transkriptionskontrolle zugeschrieben werden. Durch eine Kombination von genetischen und biochemischen Methoden kann in dieser Arbeit gezeigt werden, daß NAC in der Hefe Saccharomyces cerevisiae quantitativ mit Ribosomen assoziiert. NAC verhindert in einem homologen in vitro-System die Bindung von Ribosomen, die nicht-sekretorische Proteine translatieren, an Membranen des Endoplasmatischen Retikulums. Die Abwesenheit von NAC führt in vitro zu einer Fehlleitung dieser Substrate an die ER-Membran. Es wird demonstriert, daß NAC in S. cerevisiae aus einem festen, heterodimeren oder trimeren Komplex aus den Proteinen Egd2p und Egd1p sowie Egd2p und Btt1p besteht. Egd1p vermittelt die Ribosomenbindung des gesamten Komplexes. Die Untereinheiten Egd1p und Egd2p können mit kurzen naszierenden Peptidketten quervernetzt werden und befinden sich somit in ihrer unmittelbaren Nähe. In Wildtypzellen ist NAC ausschließlich cytosolisch lokalisiert. In vitro-Import-Versuche ergaben jedoch, daß die zwei untersuchten Untereinheiten Egd1p und Egd2p fähig sind, abhängig von Energie und den klassischen Importrezeptoren Importin a und b in den Zellkern zu gelangen. GFP-Fusionsproteine von Egd1p und Egd2p akkumulieren in vivo im Kern, wenn ihre Ribosomenbindung verhindert wird. Der Kernimport eines verkürzten, im Kern lokalisierten Egd1p ist in KAP123 und PSE1-Mutanten, die Defekte im Kerntransport ribosomaler Proteine zeigen, gestört. Es wurde eine Domäne identifiziert, die für den Kap123p/Pse1p-vermittelten Kerntransport essentiell ist. Die Hypothese wurde aufgestellt, daß neu synthetisierte NAC-Proteine in den Kern transportiert werden, um dort an ribosomale Untereinheiten zu binden und den Kern mit ihnen zu verlassen.</dc:description>
+          <dc:description xml:lang="eng">NAC (Nascent Polypeptide-associated Complex) is a protein complex whose function is controversially discussed. It has been shown that mammalian NAC acts in regulation of cotranslational transport of proteins into the endoplasmic reticulum (ER). However, others have reported that single NAC subunits may be involved in transcriptional regulation. Genetic and biochemical approaches used in this work demonstrate that NAC is quantitatively associated with ribosomes in Saccharomyces cerevisiae. In a homologous in vitro system NAC inhibits binding of ribosomes bearing non-secretory substrates to membranes of the ER. The absence of NAC causes a mistargeting of these proteins to the ER membrane. Here it is shown that NAC in S. cerevisiae forms a tight, heterodimeric or trimeric complex consisting of Egd2p, Egd1p and Btt1p. Egd1p mediates binding of the whole complex to the ribosome. The subunits Egd1p and Egd2p can be crosslinked to short nascent chains suggesting their close proximity to the emerging polypeptide. In wild type cells Egd1p and Egd2p are exclusively localized in the cytosol. In vitro nuclear import assays revealed that both subunits can be actively transported into the nucleus. This transport is dependent on energy and the classical import receptors importin a and b. Egd1p- and Egd2p-GFP fusion proteins accumulate in vivo if their ribosome binding is impaired. Nuclear transport of a truncated Egd1p-GFP deficient in ribosome binding is inhibited in mutants of KAP123 and PSE1. These mutants show a perturbed nuclear translocation of ribosomal proteins. We identified a domain of the Egd1p essential for nuclear import via the importin Kapl23p/Pselp-dependent import route. Based on these results the following model is suggested: newly translated NAC proteins travel into the nucleus to bind stoichiometrically to ribosomal subunits and leave the nucleus together with them to concentrate in the cytosol.</dc:description>
+          <dc:date>2001-11-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/256</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2517</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2517</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/256/franke_jacqueline.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

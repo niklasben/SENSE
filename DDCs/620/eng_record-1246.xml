@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1246">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1246</identifier>
+        <datestamp>2014-08-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Semiconductor Mode-Locked Laser for High-Speed OTDM Transmission</dc:title>
+          <dc:title xml:lang="deu">Modengekoppelte Halbleiterlaser für Hochgeschwindigkeits- OTDM Übertragung</dc:title>
+          <dc:creator>Kroh, Marcel</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The aim of this work is to investigate semiconductor mode-locked lasers for their application as a transmitter pulse source in an optical time division multiplexing (OTDM) system with data rates up to 640 Gbit/s and with on-off keying (OOK) or differential phase shift keying (DPSK) modulation formats. Up to the present work there have not been any applications of the semiconductor mode-locked laser at data rates above 160 Gbit/s and in transmission experiments involving the modulation format DPSK. The concept of modular pulse generation was implemented comprising the independent building blocks: pulse source, pulse compressor and pulse shaper. This modular pulse generator was able to generate pulse trains with a pulse widths below 0.4 ps and a pulse peak to pulse pedestal contrast exceeding 40 dB. The timing jitter σ(rms) was lower than 100 fs for an integration interval from 100 Hz to 10 MHz. The generated pulse train was multiplexed up to a 640 Gbit/s single polarization pulse train suitable for OTDM applications. A pulse transmission of compressed pulses over a fiber link of 160 km was demonstrated. The building blocks of the modular pulse generator can be used independently as a pulse source for a 10 or 40 GHz pulse train, as pulse compressor for the reduction of the pulse width from more than 3 ps to less than 0.5 ps and as a pulse shaper for the removal of a pulse pedestal in order to reach signal to background ratios exceeding 40 dB. The application of the modular pulse generator was demonstrated in a transmitter of phase modulated data signals. Error free back-to-back measurements were reported for a 320 Gbit/s DSPK bit sequence in a single polarization and a single wavelength channel. An extension to 640 Gbit/s is possible, however only in combination with forward error correction schemes.</dc:description>
+          <dc:description xml:lang="deu">Das Ziel dieser Arbeit ist die Untersuchung von modengekoppelten Halbleiterlasern für die Anwendung als Sender Pulsquelle in einem optischen Zeitmultiplex (OTDM) System mit Datenraten von bis zu 640 Gbit/s mit Amplitudenmodulation (OOK) oder differentieller Phasenmodulation (DPSK). Bis zu dieser Arbeit wurden Halbleiterlaser nicht für Datenraten über 160 Gbit/s und in Transmissionsexperimenten mit dem DPSK Modulationsformat eingesetzt. Mit den Halbleiterlasern wurden Pulsfolgen mit einer Wiederholrate von 10 GHz oder 40 GHz mit geringem Phasen- und Amplitudenrauschen erzeugt. Dabei wurden Halbleiterlaser in externer Kavität und in monolithischer Kavität betrachtet. Verbesserte Rauscheigenschaften der erzeugten Pulsfolgen wurden auf Kosten der Pulsbreite der generierten Pulsfolge erreicht. Ein modulares Konzept bestehend aus den unabhängigen Einheiten Pulserzeugung, Pulsverkürzung und Pulsformung wurde aufgebaut, um eine Pulsquelle zur Erzeugung von Pulsen im Subpikosekundenbereich mit geringerem Phasenrauschen zu erhalten. Die von dem modularen Pulsgenerator erzeugte Pulsfolge bestand aus Pulsen mit einer Pulsbreite von 0.4 ps und einen Signal-zu-Rausch-Kontrast von mehr als 40 dB. Das Phasenrauschen σ(rms) konnte in Einseitenbandmessungen [Frequenzbereich 100 Hz, 10 MHz] auf unter 100 fs verringert werden. Die erzeugte 10 bzw. 40 GHz Pulsfolge wurde zu einer Datenrate von 640 Gbit/s in einer Polarisationsebene und auf einer Wellenlänge gemultiplexed. Eine Verwendbarkeit der generierten Pulsfolge für eine Übertragung auf einer Faserstrecke von 160 km Länge wurde bestätigt. Die Untereinheiten des modular aufgebauten Pulsgenerators können unabhängig voneinander eingesetzt werden, die Pulsquelle zur Erzeugung von Pulsfolgen mit einer Wiederholrate von 10 bzw. 40 GHz, die Pulskompression zur Verkürzung der Pulsbreite von mehr als 3 ps auf unter 0.5 ps und der Pulsformer zum Entfernen von Pulssockeln bzw. zur Erhöhung des Signal-zu-Rausch-Kontrasts auf über 40 dB. Die Phasenstabilität der erzeugten rauscharmen Pulsfolgen blieb bei der Pulskompression und der Erhöhung des Signal-zu-Rausch-Kontrasts durch nichtlineare Fasereffekte erhalten. Die Verwendbarkeit der modularen Pulserzeugung für einen DPSK Transmitter wurde in einer back-to-back Messung eines 320 Gbit/s DPSK Datensignal nachgewiesen. Die erreichten Fehlerraten in der back-to-back Konfiguration erlauben auch eine Erhöhung der Datenrate auf 640 Gbit/s, sofern Verfahren zur "forward error correction" verwendet werden.</dc:description>
+          <dc:date>2006-04-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1246</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12685</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12685</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1246/kroh_marcel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

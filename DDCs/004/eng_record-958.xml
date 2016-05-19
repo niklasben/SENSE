@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:958">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:958</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Holonbasierte Kongruenz : ein Konzept zur semantischen und syntaktischen Integration organisatorischer und softwaretechnischer Modellbildung</dc:title>
+          <dc:title xml:lang="eng">Holon-based Congruence</dc:title>
+          <dc:creator>Stemmer, Michael</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die organisatorische Gestaltung von Unternehmen und die softwaretechnische Gestaltung der in den Unternehmen eingesetzten Informations- und Kommunikationstechnologien erfolgt in der betrieblichen Praxis noch weitgehend getrennt, von unterschiedlichen Personengruppen, zu unterschiedlichen Zeitpunkten und nach unterschiedlichen Methoden. Es existiert zwar eine Reihe von Konzepten, die zur Integration organisatorischer und softwaretechnischer Modellbildung genutzt werden können, diese weisen aber noch erhebliche Defizite auf. Ein Kernproblem besteht in der Formulierung eines geeigneten Betrachtungsgegenstands, dessen Gestaltung, Lenkung, Bewertung und Verbesserung für moderne, wissensintensive Organisationsstrukturen bestimmend ist. Ausgehend von einer vormals vorherrschenden Strukturierung von Organisationen nach betrieblichen Einzelfunktionen und von Software nach technischen Einzelfunktionen, setzt sich mittlerweile immer stärker eine prozess- und wissensorientierte Strukturierung von Organisationen und eine objekt- und komponentenorientierte Strukturierung von Software durch. In dieser Arbeit wird ein Konzept entwickelt, das diese Entwicklungen weiterführt und zu einem integrierten Gestaltungsansatz für wissensintensive Organisationssysteme verbindet. Dieser ermöglicht es, Tätigkeiten organisatorischer Arbeit und Tätigkeiten zur Entwicklung und zum Einsatz von Softwaresystemen auf der Grundlage einer gemeinsamen konzeptuellen Basis in integrierter Weise durchzuführen. Ziel dieses ganzheitlichen Systemgestaltungsansatzes ist es, die Organisations- und Softwarestrukturen von Unternehmen gleichberechtigt und über lange Zeiträume hinweg kongruent fortentwickeln zu können. Zu diesem Zweck werden die Basiskonzepte einer integrativen, holonbasierten Modellbildung erarbeitet, konkrete Diagramm- und Spezifikationstechniken entwickelt und Auswirkungen auf die Entwicklung und das Management organisatorischer und softwaretechnischer Systeme skizziert. Im Zentrum der Arbeiten stehen eine Ontologie und ein zugehöriges Referenz-Metamodell für die holonbasierte Modellierung und Spezifikation (RM-HMS), welche einen gemeinsamen semantischen Kern definieren, der je nach Bedarf für die unterschiedlichen organisatorischen und softwaretechnischen Domänen durch geeignete Sprachprofile spezialisiert werden kann. Da die hierbei entstehenden Sprachen auf einer gemeinsamen semantischen Grundlage stehen, kann auch sprachübergreifend eine durchgängige und kongruente Modellbildung gewährleistet werden.</dc:description>
+          <dc:description xml:lang="eng">In todays business practice, the organizational engineering of enterprises and the software-technological engineering of the deployed information and communication technologies in these enterprises are still separated and largely conducted by different teams at different points in time and by different means and methods. There are of course a lot of concepts, which can be used for the integration of building organizational and software-technological models, but they still contain serious deficiencies with respect to this goal. A key issue is the definition of an appropriate entity, which design, control, evaluation and improvement of is decisive for modern, knowledge-intensive organizational structures. Starting from former prevailing organizations structured by business functions and software structured by technical functions nowadays more and more a process and knowledge oriented manner of structuring organizations and an object- and component oriented manner of structuring software becomes reality. In this thesis a concept is been worked out, that carries these developments further and connects them towards an integrated design and engineering approach for knowledge-intensive organizational systems. This new approach enables to perform the activities of organizational work and the activities of the development and deployment of software systems in an integrated manner and on the foundation of a common conceptual basis. The main objective of this holistic systems engineering approach is to enable the continuous and congruent development of the organization and software structures of enterprises over a long period of time. For this purpose basic concepts of an integrative, holon-based model-building philosophy are introduced, concrete diagram and specification techniques are been developed and effects on the development and management of integrated knowledge-intensive organization and software systems are outlined. In the centre of this thesis stands an ontology and a related reference meta-model for the holon-based modeling and specification (RM-HMS), which define a common semantic kernel, that could be specialized as needed for the different organizational and software-technological domains by appropriate language profiles. Because the individually created languages are based on a common semantic foundation also a continuous and congruent language-embracing model-building could be achieved.</dc:description>
+          <dc:date>2005-05-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/958</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9518</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9518</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/958/stemmer_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

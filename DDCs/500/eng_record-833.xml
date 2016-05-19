@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:833">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:833</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Auf Satellitendaten basierende Ableitungen von Parametern zur Beschreibung terrestrischer Ökosysteme : Methodische Untersuchung zur Ableitung der Chlorophyll(a+b) Konzentration und des Blattflächenindexes aus Fernerkundungsdaten</dc:title>
+          <dc:title xml:lang="eng">Retrieval of the Parameters to the Description of Terrestrial Ecological Systems from Remote Sensing Data</dc:title>
+          <dc:creator>Oehmichen, Grit</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Für die Aufstellung der Kohlenstoffbilanz der terrestrischen Biosphäre benötigt man die Kohlenstoffflüsse und die Kohlenstoffvorräte, die man über dynamische Modelle der globalen Vegetation ermittelt. Die Vegetationsmodelle benötigen als Eingabeparameter verschiedene biophysikalische und biochemische Größen, so zum Beispiel die Chlorophyll(a+b)-Konzentration im Blatt und den Blattflächenindex (LAI). Diese müssen mit einer vorgegebenen zeitlichen und räumlichen Auflösung als auch mit einer bestimmten Genauigkeit vorliegen. Besonders aus den geforderten flächenhaften Mittelwerten leitet sich die Bestrebung ab, einige Parameter aus Fernerkundungsdaten abzuleiten. Die Ableitung biophysikalischer und biochemischer Parameter beruht meist auf der Inversion von Strahlungstransportmodellen, wofür man validierte Strahlungstransportmodelle benötigt. Derzeit beruhen die zur Lösung der Inversionsproblematik entwickelten Algorithmen auf neuronalen Netzen, look-up-Tables oder Vegetationsindizes. In der Dissertation wurde ein neuer Ansatz zur Ableitung der Chlorophyll(a+b)-Konzentration und des LAI aus Fernerkundungsdaten auf der Grundlage des Bayes-Theorem untersucht. Das Bayes-Theorem kann als allgemeine Theorie für Inversionsprobleme angesehen werden und bildet die theoretische Grundlage zur Erstellung von look up Tables in den beobachteten Observabelen. Hervorzuheben sind die folgenden Vorteile des wahrscheinlichkeitstheoretischen Ansatzes: Für die Invertierung eines Modells über das Bayes-Theorem werden nicht die zugrunde liegenden Gleichungen selbst invertiert, sondern man benötigt dafür die Vorwärtsrechnungen des Modells. In den Ansatz fließen neben dem Wissen über das betrachtete Objekt auch die Fehler in den gemessenen Daten ein. Weil man über das Bayes-Theorem eine Wahrscheinlichkeitsdichte für die interessierenden Parameter erhält, kann man Schätzwerte und Konfidenzregionen, die eine Aussage über die Genauigkeit der Schätzung erlauben, angeben. Die Methode wurde auf die gemessen Daten des Sensors HyMAPTM angewendet. Die Ergebnisse für die Ableitung der Chlorophyll(a+b)-Konzentration im Blatt und des LAI zeigen die Anwendbarkeit des Bayes-Theorems zur Ableitung biophysikalischer und biochemischer Vegetationsparameter sowie deren Schwierigkeiten.</dc:description>
+          <dc:description xml:lang="eng">For the carbon balance of the terrestrial biosphere one determines the carbon fluxes and carbon sources or sinks by means of dynamic models of the global vegetation. The vegetation models need different biophysical and biochemical parameters as input-data. A lot of models need the chlorophyll(a+b) content in the leaf and the leaf area index (LAI) as input parameters. These must be present with a given temporal and spatial resolution as well as with a certain accuracy. Because of the spatial average values required one endeavours to derive the parameters from remote sensing data. Estimation of the canopy biophysical and biochemical parameters was investigated using radiative transfer model inversion. Up to now the most algorithms to solve the inverse problem are the neuronal networks and look up tables or vegetation indices. The study is focused on the use of the Bayesian Statistics to the derivation of the chlorophyll(a+b) content and LAI and an associated estimation of the accuracy. For this approach validated canopy radiative transfer models are required. The Bayesian Statistics can be regarded as the general theory for inversion problems and provide a theoretical basis for look up tables in the observed reflectances. The following major advantages of this approach are: equations of the radiative transfer model do not need to be inverted and only straight forward calculations are applied. The Bayesian Statistics pays attention to the knowledge about the considered object and uncertainties in the measured reflectance values. The method is applied to observations from the sensor HyMAPTM. Examples of the retrieval of the LAI and the chlorophyll(a+b) content of the leaves are presented. The results demonstrate the applicability of the Bayesian Statistics for inversion problems in remote sensing of biophysical and biochemical parameters as well as the difficulties.</dc:description>
+          <dc:date>2004-11-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/833</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8268</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8268</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/833/oehmichen_grit.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

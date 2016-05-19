@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4693">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4693</identifier>
+        <datestamp>2014-02-06</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:55</setSpec>
+        <setSpec>ddc:62</setSpec>
+        <setSpec>ddc:91</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Modeling the distribution of organic carbon stocks in a Central European floodplain with VHR remote sensing data and multiple geodata</dc:title>
+          <dc:title xml:lang="deu">Modellierung der Verteilung von organischem Kohlenstoff in einem mitteleuropäischen Auengebiet mittels sehr hochauflösender Fernerkundungsdaten und Multipler Geodaten</dc:title>
+          <dc:creator>Suchenwirth, Leonhard</dc:creator>
+          <dc:subject>ddc:55</dc:subject>
+          <dc:subject>ddc:62</dc:subject>
+          <dc:subject>ddc:91</dc:subject>
+          <dc:description xml:lang="eng">In the wake of climate change, the release of CO2 into the atmosphere caused by deforestation and destruction of natural ecosystems is predominantly in the focus of research. In particular, the determination of the carbon content and its monitoring by remote sensing and Geographic Information Systems (GIS) has been pushed forward in recent years, mainly in tropical areas, and on a small scale. For floodplains and wetlands, which have a very high content of carbon in soil and vegetation, also in temperate climates, the methods for large-scale mapping of carbon have yet been scarce. The main goal of this thesis was to determine the carbon content of a Central European floodplain, using very high resolution satellite data and additional spatial information (digital elevation model, topographic and historic maps, ground water model). Parameters were derived from the different datasets, and used for spatial modeling and compared in their significance. In particular, the remote sensing parameters, but also the additional data were to be analyzed for their importance to the modeling process. Three different approaches were used for modeling and mapping. In a first approach, vegetation types were classified with object-based image analysis, using varying classification rules. To each class, a specific value in vegetation and soil carbon content was assigned; hence, the carbon content of the study area was calculated. In a second approach, quantile classes with high, medium and low carbon content in vegetation, soil and in total were defined. A combined method of object-based image processing and machine learning techniques were used to generate rule sets; the individual parameters were compared and assessed in their importance for the carbon estimation. In a third approach, the performance of two machine-learning approaches (self-organising maps, and k-nearest-neighbor algorithm) with two different data combinations was evaluated. The various approaches differ in their methods, but they are all feasible for carbon assessment in a Central European floodplain. The use of additional spatial information improved the results compared to a pure remote sensing analysis. The methods are applicable for other areas on a comparable data basis and have potential for future applications. The work represents a contribution to the evaluation of floodplain systems and wetland systems in general.</dc:description>
+          <dc:description xml:lang="deu">Im Zuge des Klimawandels ist die Freisetzung von CO2 in die Atmosphäre durch Abholzung und Zerstörung natürlicher Ökosysteme verstärkt in den Fokus der Forschung geraten. Insbesondere die Bestimmung des Kohlenstoffgehalts und dessen Überwachung mittels Geoinformationssystemen (GIS) und Fernerkundung wurde in den letzten Jahren verstärkt vorangetrieben, jedoch meist für tropische Ökosysteme, und im kleinen Maßstab. Für Augebiete und Feuchtgebiete generell, die auch in gemäßigten Klimazonen einen sehr hohen Kohlenstoffgehalt in Boden und Vegetation aufweisen, fehlten bisher die Methoden für großmaßstäbige Bestimmungen und Kartierungen des Kohlenstoffs. Ziel dieser Dissertation war die Bestimmung des Kohlenstoffgehalts eines mitteleuropäischen Augebietes mit Hilfe von sehr hochauflösenden Satellitendaten und zusätzlichen Geodaten (Digitales Geländemodell, topographische und historische Karten, Grundwassermodell). Aus den verschiedenen Datensätzen wurden Parameter abgeleitet, zur räumlichen Modellbildung verwendet und in ihrer Bedeutung verglichen. Besonders die Parameter der Fernerkundung, aber auch der Zusatzinformationen sollten dabei auf ihre Wichtigkeit für den Modellbildungsprozess analysiert werden. Dabei wurden drei verschiedene Ansätze zur Modellierung und Kartierung verwendet. Im ersten Ansatz wurden mittels objektbasierter Bildanalyse Vegetationstypen mit variierenden Klassifikationsregeln klassifiziert. Den Klassen wurden bestimmte Kohlenstoffwerte in Vegetation und Boden zugewiesen, und der entsprechende Kohlenstoffgehalt des Gebietes errechnet. Im zweiten Ansatz wurden Quantilsklassen mit hohem, mittlerem und niedrigem Kohlenstoffgehalt in Vegetation, Boden und in der Gesamtmenge gebildet. Ein kombiniertes Verfahren aus objektbasierter Bildverarbeitung und maschinellen Lernen wurde verwendet; anschließend wurden die einzelnen Parameter in ihrer Bedeutung miteinander verglichen. Im dritten Ansatz wurde die Leistung von zwei Ansätzen maschinellen Lernens (Self-Organising-Maps und k-Nearest-Neighbour), mit zwei verschiedenen Datensatzkombinationen evaluiert. Die einzelnen Ansätze unterscheiden sich in ihrem Vorgehen, jedoch eignen sie sich alle für die Kohlenstoffabschätzung in einem mitteleuropäischen Augebiet. Die Verwendung zusätzlicher Geodaten hat die Ergebnisse im Vergleich zu einer reinen Fernerkundungsanalyse verbessert. Die Methoden sind übertragbar bei einer vergleichbaren Datengrundlage und haben Potential für zukünftige Anwendungen. Die Arbeit stellt einen Beitrag zur Bewertung von Ausystemen dar. </dc:description>
+          <dc:date>2014-01-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4693</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46931</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46931</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4693/Suchenwirth_Leonhard.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

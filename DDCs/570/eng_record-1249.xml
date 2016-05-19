@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1249">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1249</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung von Real-Time PCR Nachweissystemen für getränkerelevante Hefen</dc:title>
+          <dc:title xml:lang="eng">Development of Real-Time PCR detection systems for beverage-relevant yeasts</dc:title>
+          <dc:creator>Dörries, Hans-Henno</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden zwei Real-Time PCR-Systeme zum Nachweis von getränkerelevanten Hefen auf Basis der LightCycler® Technologie mit Hybridisierungssonden entwickelt. Für beide Systeme wurden interne Amplifikationskontrollen und Positivkontrollen hergestellt und zwei DNA-Extraktionssysteme bereitgestellt. Ein hoch spezifischer und sensitiver Einzelnachweis für die wichtigste, bierschädliche Saccharomyces Fremdhefe, S. cerevisiae var. diastaticus, wurde entwickelt, indem die sequenziellen Unterschiede zwischen den Glucoamylase kodierenden Genen von S. cerevisiae var. diastaticus (STA1-3) und S. cerevisiae (SGA1) ausgenutzt wurden. Die hohe Nachweisempfindlichkeit des PCR-Systems von 5 bis 10 Genomäquivalenten pro Reaktion ermöglichte in Kombination mit einer schnellen, mechanisch/thermischen Probenaufarbeitung den Nachweis von 1,0E+02 bis 1,0E+03 S. cerevisiae var. diastaticus Zellen/ml bei einer Hintergrundpopulation von 1,0E+08 Zellen/ml S. cerevisiae. Die Robustheit des Systems wurde durch Testung von 66 unterschiedlichen Probenmatrices, von denen sich nur eine als ungeeignet für das Real-Time PCR-System herausstellte, gezeigt und die Praxistauglichkeit wurde direkt bei vier Brauereien verifiziert. Der gesamte Assay mit Probenaufarbeitung und PCR ist innerhalb von 2,5 Stunden durchführbar und damit signifikant schneller als kultivierungsabhängige Methoden. Die Sequenzierung eines Abschnitts des Gens des Elongationsfaktors 3 (EF-3) von 93 Hefestämmen lieferte die Grundlage für die Entwicklung einer Real-Time Consensus-PCR zum Nachweis von getränkerelevanten Hefen. Der Nachweis von allen 252 getesteten Hefestämmen wurde bei dem Assay durch degenerierte Primer und Hybridisierungssonden ermöglicht, ohne dass mit DNA von einer der 71 getesteten Bakterien falsch-positive Ergebnisse auftraten. Der Nachweis konnte nicht zur Identifizierung der Hefearten oder -gattungen eingesetzt werden und die Abgrenzung zu den Schimmelpilzen, die ebenfalls das EF-3 Gen enthalten, ließ sich nicht zu 100 % erreichen. Die Sensitivität des Systems lag in Abhängigkeit von der Hefeart zwischen 10 und 250 GÄ pro Reaktion und in Kombination mit einer Erweiterung der mechanisch/thermischen Probenaufarbeitung bei 1,0E+03 bis 1,0E+04 Zellen/ml. Ein Nachweis von 1 bis 100 Zellen/ml war nach zwei bis drei Tagen Flüssiganreicherung in YM-Medium möglich.</dc:description>
+          <dc:description xml:lang="eng">Within the scope of this work two real-time PCR systems were developed for the detection of beverage-relevant yeasts on basis of the LightCycler® technology with hybridization probes. For both systems internal amplification controls and positive controls were established and two DNA extraction systems were prepared. A highly specific and sensitive detection system for the most important, beer-spoilage Saccharomyces wild yeast, S. cerevisiae var. diastaticus, were developed, as the sequential differences between the glucoamylase coding genes of S. cerevisiae var. diastaticus (STA1-3) and S. cerevisiae (SGA1) were used. The high detector response of the PCR system from 5 to 10 genome equivalent per reaction made in combination with a fast, mechanical/thermal sample processing the detection of 1.0E+02 to 1.0E+03 S. cerevisiae var. diastaticus cells/ml possible at a background population of 1.0E+08 cells/ml S. cerevisiae. The robustness of the system was shown by testing of 66 different sample matrices, of which only one turned out to be unsuitable for the real-time PCR system, and the suitability for daily use was verified directly by four breweries. The entire assay with sample processing and PCR is feasible within 2.5 hours and thus significantly faster than cultivation dependent methods. The sequencing of a section of the elongation factor 3 gene (EF-3) of 93 yeast strains supplied the basis for the development of a real-time consensus PCR for the detection of beverage-relevant yeasts. The detection of all 252 tested yeast strains with the assay was made possible by implementation of degenerated primers and hybridization probes. False positive results were not generated with DNA of one of the 71 tested bacteria. The assay could not be applied to identify yeast to the species or genera level and the demarcation to the moulds, which likewise contain the EF-3 gene, could not be reached to 100 %. The sensitivity of the system was between 10 and 250 genome equivalents per reaction depending on the yeast species and 1.0E+03 to 1.0E+04 cells/ml were detectable in combination with an extension of the mechanical/thermal sample preparation method. The detection of 1 to 100 cells/ml was possible after two to three days enrichment in YM medium.</dc:description>
+          <dc:date>2006-04-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1249</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12641</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12641</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1249/doerries_hans_henno.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1249/doerries_hanshenno.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

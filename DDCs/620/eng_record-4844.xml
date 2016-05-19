@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4844">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4844</identifier>
+        <datestamp>2014-04-25</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Messung und Schätzung akustischer Signale im Kraftfahrzeug über ein Array aus frei platzierbaren Mikrofonen</dc:title>
+          <dc:title xml:lang="eng">Measurement and estimation of acoustical signals within the cabin of a automobile by using a randomly arranged microphone array</dc:title>
+          <dc:creator>Vicinus, Patrick</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Es wird ein neuartiges Konzept zur Erfassung akustischer Signale im Kraftfahrzeug mittels eines Mikrofon-Arrays vorgestellt, welches die Extraktion von Sprachanteilen, die von Sprechern innerhalb des Fahrzeugs stammen, optimiert. Das Konzept ist auf Anwendungen wie Sprachbedienung, Freisprechtelefonie oder Insassenkommunikation ausgerichtet, denen die Sprachsignale aller Fahrzeuginsassen zur Verfügung gestellt werden müssen. Es stellt weder an die Mikrofonanordnung, noch an die Mikrofontechnologie harte Anforderungen. Eine wesentliche Voraussetzung ist lediglich, dass die Sprecher sich im akustischen Nahfeld des Mikrofon-Arrays befinden. Es wird ein Bewertungskriterium entwickelt, das eine Überprüfung dieser Voraussetzung erlaubt. &#13;
+Für die Sprachsignalschätzung wird ein neuartiges blindes Nahfeld-Beamformingverfahren vorgestellt. Die Schätzung der Sprache gelingt dabei selbst bei unbekannten Mikrofonpositionen. Im Fokus der Entwicklung stehen die Robustheit der Sprecherfokussierung in verschiedenen Hall-Situationen, die Störgeräuschreduktion, die Fähigkeit zur Enthallung der Signale sowie die Adaptionsgeschwindigkeit. Die Adaptionssteuerung stützt sich auf eine eigens entwickelte Nahfeld-Sprachaktivitätserkennung. Diese ist in der Lage, die Fokussierung auf sprachähnliche Signale außerhalb des Fahrzeuges zu unterbinden.&#13;
+Im Ergebnis gelingt der Entwurf eines asymptotisch effizienten Schätzverfahrens, welches das Sprachsignal eines beliebigen Sprechers im Nahfeld des Arrays unabhängig von Raumhall und Array-Geometrie schätzt. Im Gegensatz zu anderen Arbeiten werden dabei weder Fernfeld- noch Freifeldannahmen herangezogen, die Sprecherpositionen sind weitgehend unbekannt und es existieren auch keine Anforderungen an die räumliche Charakteristik des Störfeldes. Des Weiteren werden keine gängigen Lokalisierungsverfahren für die Sprecherfokussierung herangezogen, da diese zum einen in Anbetracht der akustischen Gegebenheiten des Fahrzeuginnenraums keine konsistenten Schätzungen liefern und zum anderen eine bekannte Mikrofon-Anordnung voraus setzen. In der Arbeit wird durch Modifikation solcher Verfahren deren Schätzgenauigkeit erhöht und ein Nahfeld-Detektor eingeführt. Im Zusammenspiel mit dem entwickelten Nahfeld-Beamforming-Verfahren werden bei unbekannter Array-Geometrie stationäre und auch transiente Störer bestmöglich reduziert, die Sprecher fokussiert und das Sprachsignal enthallt. In den abschließenden Untersuchungen werden die theoretischen Ergebnisse und die Simulationen experimentell verifiziert.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">A new concept of capturing and processing acoustic signals within an automobile's passenger cabin utilizing a microphone array which optimizes the extraction of speech signals originating from different passengers within a vehicle is presented. The concept is aimed at applications such as voice control and handsfree telephony or in-vehicle-communication, which must acquire speech from all passengers. It places no strict demands on the positions of the microphones, nor on the microphone technology in use. The speakers are required only to be within the acoustic near-field of the microphone array. An evaluation criterion has been designed in order to allow the verification of this requirement.&#13;
+For the speech signal estimation, a novel blind near-field beamforming method is presented.It enables the estimation of the speech signals even if the microphone positions are unknown. The central aims of the research are the robustness of speaker-focusing in car cabins with differing reverberation characteristics, the noise reduction, the ability to dereverberate the speech signals and the adaptation speed. The adaptation control is based on a specially developed near-field voice activity detection with the ability to exclude speech-like signals originating from outside of the vehicle.&#13;
+The result of the investigation is the successful design of an asymptotically efficient method which estimates the speech signal of any speaker in the near-field of the array, regardless of room reverberation and array geometry. In contrast to other publications, neither far-field or free-field assumptions are used, the speaker positions are largely unknown and there are no requirements on the spatial characteristics of the noise. Moreover, no well-known methods for locating the speakers are used as these methods, in view of the acoustic characteristics of the passenger compartment, do not provide consistent location estimates and require a known microphone arrangement. In this thesis, by modification of such techniques, the estimation accuracy is increased and a near-field detector is developed. In interaction with the developed near-field beamforming method, stationary and transient interferences are optimally reduced, the speakers are focused and the speech signals are dereverberated, while the array geometry remains unknown. In the concluding investigations, the theoretical results and simulations are verified experimentally.&#13;
+</dc:description>
+          <dc:date>2014-03-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4844</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-48440</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-48440</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4844/vicinus_patrick.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

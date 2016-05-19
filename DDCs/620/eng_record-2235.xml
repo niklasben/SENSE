@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2235">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2235</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modellbasierte Arbeitskräfteplanung für stochastische Instandhaltungsereignisse in der zivilen Luftfahrt</dc:title>
+          <dc:title xml:lang="eng">Model-based manpower planning for stochastic maintenance events in civil aviation</dc:title>
+          <dc:creator>Wagner, Martin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der weltweite Luftverkehr erf¨ahrt starke Schwankungen mit hohen Wachstumsraten aber auch Stilllegung von Flugzeugen und Insolvenzen. Der Kostendruck auf die Marktteilnehmer steigt. Während bei Luftverkehrsgesellschaften die Kostensenkung teilweise durch Reduktion der Leistung realisiert wird, können Unternehmen der Luftfahrtinstandhaltung ihre Leistungen nicht problemlos reduzieren. Der Leistungsumfang ist über das Instandhaltungsprogramm der Flugzeuge vorgeschrieben. Die einzige Möglichkeit ist die kostengünstigere Erbringung der Leistung. Durch die Prognose des Arbeitskräftebedarfs für ungeplante Arbeiten in der Nachtschicht könnte die heutige fixe Planung, die teilweise zu Überkapazitäten führt, durch eine bedarfsorientierte Arbeitskräfteplanung ersetzt werden. Vor diesem Hintergrund wird in der vorliegenden Arbeit untersucht, ob es möglich ist, den täglichen Arbeitskräftebedarf für eine Nachtschicht in der Flugzeugwartung zu prognostizieren. Das Problem der Arbeitskräfteplanung wird dabei auf die Prognose ihrer Ursache, den Fehler zurückgeführt. Unter Annahme einer mittleren Bearbeitungszeit je Fehler wird so die Ermittlung der notwendigen Arbeitskräfte möglich. In der vorliegenden Untersuchung werden Daten über den Fehlerauftritt, Flugstunden, Alter und Instandhaltungszustand von über 60 Flugzeugen gleichen Typs und einer Aufzeichnungsdauer von drei Jahren aus der Instandhaltung der zivilen Luftfahrt zur Verfügung gestellt. Geeignete statistische Methoden zur Modellierung des Problems werden aus der angestrebten Verwendung des Modells zur kontinuierlichen Prognose sowie des Datenniveaus der verfübaren Informationen abgeleitet. Vier statistische Modelle zur Fehlerprognose werden entwickelt: Ein Zeitreihenmodell, ein Modell auf Basis eines nichthomogenen Poisson-Prozesses, ein Regressionsmodell und ein Bayes-Netz. Durch die vier verschiedenen Modelle werden ähnliche Prognoseergebnisse erreicht. Die einzelnen Modelle unterscheiden sich jedoch hinsichtlich Komplexität, Anwendbarkeit und Gültigkeit. Beim Ansatz des nichthomogenen Poisson-Prozesses sowie des Bayes-Netzes erfüllt die Residuenstruktur nicht in allen Bereichen die Anforderungen an ein allgemein gültiges Modell. Der Regressionsansatz und die Zeitreihe, die ähnliche Strukturen haben, können als gültige Modelle validiert werden. Insbesondere die einfache Erweiterbarkeit und die geringe Komplexität führen letztlich zur Wahl des Zeitreihenmodells als am besten geeignet zur Fehlerprognose. Die Verwendung des Zeitreihenmodells zur modellbasierten Arbeitskräfteplanung ermöglicht gegenüber dem heutigen System der fixen Arbeitskräfteplanung Einsparungen von ca. 40.000€ bis 150.000€ pro Flugzeug und Jahr, was einer Reduktion der Kosten von ca. 35 bis 70 % entspricht.</dc:description>
+          <dc:description xml:lang="eng">Global air traffic often faces growth followed by recession with fleet groundings as well as insolvence of airlines. The pressure on the market increases. Thus airlines cut costs by reducing their services. Companies in the maintenance, repair and overhaul of aircraft have to work according aircraft’s maitenance programs and strict regulations. Their only possiblity to cope with the cost pressure is a less expensive production of services. Location-based services like line maintenance cannot be transfered into cheaper markets. Especially for non routine work in night shifts great benefit could be a rather demandbased man hour planning to ensure only a minimum of necessary manpower. Thus today’s fixed man hour planning system with occasional overcapacities might be substituted. Therefore the aim of this work is to analyse whether it is possible to predict daily man hour demands for non routine work in night shift of aircraft line maintenance. The major drive into such prediction is knowledge about the failures to be fixed. Under the assumption of a mean time for rectification of each failure the necessary man hour demand can afterwards be determined easily. The study is based on complete data of failure occurrences, flight hours, age and information about maintenance checks from more than 60 aircraft of a homogeneous fleet. The data are recorded for three subsequent years and were made accessible by a civil maintenance company. Like every statistical modelling, the planned application of the model and the data format being used is a decisive clue to the deduction of an appropriate statistical method. Thus for the intended man hour prediction model for continuous data four different models are developed: A time series model, a non-homogeneous poisson process model, a regression model and a bayes-net. All four models lead to comparable prediction accuracies. Their complexity and their validity differ. The non-homogeneous poisson process and the bayes-net have a residual structure that does not completely fulfill the requirement of an applicable model. The time series and regression model which have similar structurescan be validated properly. For reasons of simplicity, the time series model is selected to be the best prediction model for the intended purpose. Applying the time series model for a model-based man hour prediction in comparison to today’s ’fixed man hour planning’ annual savings of 40.000€ up to 150.000€ per aircraft can be achieved. This equals a cost reduction of 35 to 70 %.</dc:description>
+          <dc:date>2009-09-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2235</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23270</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23270</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2235/original_martin_wagner_latex_mit_bildern.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2235/wagner_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

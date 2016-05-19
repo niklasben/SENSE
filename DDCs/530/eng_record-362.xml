@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:362">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:362</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Modellierung des Umschlags von gerichteter zu ungerichteter Erstarrung in Fe-C-Legierungen</dc:title>
+          <dc:title xml:lang="eng">Numerical modeling of the columnar-to-equiaxed transition in iron-carbon alloys</dc:title>
+          <dc:creator>Gnauk, Joachim</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Bei den meisten legierten Metallen ist eine dendritische Mikrostruktur zu finden. Für gewöhnlich koexistieren zwei unterschiedliche Dendritenmorphologien, die aus gerichteter bzw. ungerichteter Erstarrung hervorgehen. Ziel dieser Arbeit war die Entwicklung eines numerischen Modells der Mikrostrukturbildung beim Stranggießen von Stahl, des heutzutage überwiegend angewendeten Gießverfahrens in der Massenproduktion. Insbesondere wird die Abfolge in der Phasenbildung während des Erstarrungsprozesses und gleichzeitig die Bildung der entsprechenden morphologischen Strukturen, speziell die Position des Umschlags von gerichteter zu ungerichteter Erstarrung bestimmt. Das hier entwickelte Modell basiert auf der verallgemeinerten Enthalpiemethode von Tacke und Mackenbrock, und wurde um Nichtgleichgewichtsbedingungen bei der Phasenbildung erweitert. Der bei Kohlenstoffgehalten von 0,09 bis 0,5 Gewichtsprozent auftretende peritektische dreiphasige Bereich mit seiner austenitischen und ferritischen Phase sowie dessen Auswirkung auf die Mikrostrukturbildung wurden ebenfalls berücksichtigt. Verifiziert wurde das Modell mit Messungen zum Umschlag an Proben aus einer industriellen Senkrechtanlage mit Biegen und Richten im Festen der Dillinger Hüttenwerke.</dc:description>
+          <dc:description xml:lang="eng">In the majority of alloyed metals, a dendritic microstructure can be found. Normally, two different dendrite morphologies are coexisting, formed by directional respectively non-directional solidification. Aim of this work was the development of a numerical model of microstructure forming in continuous casting of steel, the predominantly used casting technique for mass production. Especially the order of phase formation during the solidification process and the forming of the corresponding morphologies is determined, in particular the position of the columnar-to-equiaxed transition. The developed model is based on the generalized enthalpy method of Tacke and Mackenbrock, and is extended to non-equilibrium conditions. At carbon contents from 0.09 up to 0.5 weight percent, the peritectic three-phase range, with its austenitic and ferritic solid phases, as well as its influence on microstructure formation, was taken into account. The verification of the model was performed with casting samples of an industrial vertical bending machine for continuous casting of the Dillinger Hüttenwerke.</dc:description>
+          <dc:date>2002-05-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/362</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3579</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3579</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/362/gnauk_joachim.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

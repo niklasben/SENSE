@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1084">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1084</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Teilchenbeschleunigung durch ultraintensive Laserimpulse in sphärischen Targetsystemen</dc:title>
+          <dc:title xml:lang="eng">Particle acceleration in spherical targetsystems using ultraintensive laser pulses</dc:title>
+          <dc:creator>Busch, Stephan</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit war es zu untersuchen, welcher Prozess für eine effektive Beschleunigung von Ionen und Protonen, in einem sphärischen Target verantwortlich ist und ob die Targetgeometrie einen Einfluß auf die räumliche Ausbreitungscharakteristik der beschleunigten Teilchen besitzt. In der Arbeit wurden neue Resultate vorgestellt und diskutiert, die in die derzeitig intensiv betriebene Forschung zur Erzeugung von energetischen Partikeln aus dem heißen und dichten Laserplasma, das mittels ultraintensiver Laserpulse erzeugt wird, einzubetten sind. Dazu wurden detaillierte Wechselwirkungsexperimente mit ultrakurzen und hochintensiven Laserimpulsen (~ 40fs/I&gt; 10^19 W/cm^2) an isolierten H2O- sowie D2O-Tröpfchen durchgeführt. Von besonderem Interesse war die Erzeugung und die Untersuchung von energetischen Ionen bzw. deren Energiespektren. Dabei konnte eine starke Modulierung (mehrere Dips) in den Energiespektren der Ionen nachgewiesen werden. Wesentlich dafür war die Entwicklung spezieller Diagnostik auf der Basis von Thomsonspektrometern, die es erlaubten, mit hoher energetischer Auflösung die räumliche Ausbreitungscharakteristik der Ionenspektren in vier Raumrichtungen zur Laserausbreitungs- richtung zu untersuchen. Der verwendete Ti:Sa–Laser arbeitet mit einer Repetitionsrate bis zu 10Hz. Das entwickelte Detektionssystem für die Untersuchung der Ionenspektren erlaubte erstmals bei dieser relativ hohen Repetitionsrate die Energieverteilungen von Einzelionenspektren zu detektieren. Zum besseren Verständnis der räumlichen Ausbreitungscharakteristika und Beschleunigungsmechanismen der Deuteronen innerhalb des Plasmas, sowie den Temperaturverteilungen der Ionen im Plasma, wurden Neutronenexperimente durchgeführt, bei denen in vier Raumrichtungen die Verteilung der Neutronen untersucht wurde. Ein weiterer wichtiger Aspekt dieser Arbeit war die Simulation der Ionenspektren mit Hilfe eines vorhandenen 1D3V Particle in Cell Codes (LPIC++). Mit diesen Simulationen war es möglich Ionenspektren zu simulieren, welche wie in den Experimenten verifiziert, mehrere Dips zeigen. Diese Ergebnisse wurden mit einem von Wickens und Allen entwickelten analytischen hydrodynamischen Modell verglichen, welches mit Hilfe einer zweikomponentigen Dichte– und Temperaturverteilung lediglich einen Dip erklären kann. Weitere experimentelle Untersuchungen von Elektronenspektren ergaben aber, daß bei den hier vorgestellten Experimenten mehr als zwei Elektronenkomponenten vorliegen können. Das legt den Schluß nahe, daß das Modell von Wickens und Allen erweitert werden muß. Abschließend wird in dieser Arbeit ein Vorschlag einer Modellerweiterung vorgestellt. Dabei wird mit gedämpften Oszillationen der erzeugten hochenergetischen Elektronen das Beschleunigungpotential so modifiziert, daß Modulationen in Protonenspektren auftreten.</dc:description>
+          <dc:description xml:lang="eng">The main goal of this work was the understanding of the dominant process in the acceleration of ions and protons in spherical target systems and whether the target geometry influences the spatial propagation characteristic of the accelerated particles. The experiments were performed with ultra short high intensity laser pulses (~ 40fs/I&gt; 10^19 W/cm^2) on isolated H2O and D2O droplets. In particular, we have focused our interest on the generation of highly energetic ions and their energy spectra. Essential for the experiments was the development of special diagnostics on the basis of Thomson spectrometers. It was possible, then, to investigate the ion spatial propagation by the acquisition of the ion spectra under four angles of incidence in respect with the laser propagation direction. Because the laser system is a Ti:Sa – Laser with 10 Hz repetition rate, such detection system made it possible for the first time to investigate ion spatial distribution at such relative high repetition rates. For a better understanding of the spatial propagation and the acceleration mechanism for deuterons and the temperature distribution of the ions inside the plasma, neutron experiments were performed. Furthermore, in the ion energy spectra strong modulations (several dips) could be observed. A further major aspect of this work was to simulate the ion spectra with an 1D3V Particle in Cell Codes (LPIC++). With such simulations it was possible to reproduce ion spectra which have shown multi dips. These results were compared with an analytical model developed by Wickens and Allen. However, with this model it is possible to explain the occurrence of only one dip by a two temperature density distributions. Other experimental investigations of electron spectra have shown that more than two electron temperature distributions can exist. This leads to the conclusion that the model of Wickens and Allen has to be extended. Finally an extended model was proposed. This model uses damped oscillations of high energetic electrons which build up the acceleration potential, thus that several modulations occur in proton energy spectra.</dc:description>
+          <dc:date>2005-08-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1084</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10815</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10815</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1084/busch_stephan.PDF</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

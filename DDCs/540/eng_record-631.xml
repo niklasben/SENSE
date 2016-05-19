@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:631">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:631</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Cofactors on the Donor Side of Photosystem II Investigated with EPR Techniques</dc:title>
+          <dc:title xml:lang="deu">Kofaktoren auf der Donatorseite des Photosystem II untersucht mit EPR-Techniken</dc:title>
+          <dc:creator>Kammel, Michael</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Cofactors on the Donor Side of Photosystem II Investigated with EPR Techniques. Dem Photosystem II, mit dessen Hilfe es höheren Pflanzen und Cyanobakterien gelingt, Wasser zu oxidieren, wird seit Jahrzehnten die Aufmerksamkeit der Forscher vieler Fachgebiete zuteil. Die Kofaktoren im Photosystem II durchlaufen im Rahmen der lichtinduzierten Ladungstrennung paramagnetische Zustände. Diese können mit den Techniken der Elektronenparamagnetischen Resonanz erfasst werden. Dies erlaubt Aussagen über Kinetik und Mechanismen der Ladungstrennungsreaktionen, sowie über Ort und Orientierung der daran beteiligten Kofaktoren. Der erste Teil der Arbeit befasst sich mit dem Beginn der lichtinduzierten Ladungstrennung. Durch eine Blockade des primären Elektronentransfers war es möglich, eine Rekombination am Ort der ursprünglichen Ladungstrennung zu induzieren. Es entsteht ein Triplettzustand, welcher sich mit zeitaufgelöster EPR detektieren lässt. Durch die Verwendung von Kristallen des PS II und der orientierungsabhängigen Messung des EPR-Signals konnte der Ort der Rekombination ermittelt werden und Aussagen über die Ladungstrennung gemacht werden. Der zweite Teil ist der redoxaktiven Aminosäure YD des die Kofaktoren umgebenden Proteingerüstes gewidmet. Sie liegt im Photosytem als metastabiles Radikal vor. Die magnetischen Hyperfeinwechselwirkungen innerhalb dieses Moleküls wurden mit HYSCORE und 1H-ENDOR untersucht. Durch die Kombination dieser beiden Techniken gelang eine vollständige Bestimmung und Zuordnung der Hyperfeinkopplungsparameter der Wasserstoffatome des Moleküls. Der dritte Teil untersucht die Umgebung des wasserspaltenden Kofaktors, dessen Herzstück ein vierkerniger Mangankomplex ist. An zwei paramagnetischen Oxidationszuständen, dem S2 und dem S-2-Zustand, wurden 1h-ENDOR-Messungen durchgeführt. Dadurch konnten Hyperfeinkopplungen von Protonen in der Nähe des Mangankomplexes ermittelt werden. Für die Koordination an den Mangankomplex erwiesen sich protonierte mu-oxo-Brücken als wahrscheinlich. Im folgenden Teil war der Mangankomplex selbst anhand von 55Mn-ENDOR-Messungen Gegenstand der Untersuchung. Im Kontrast zu den Ergebnissen einer anderen Forschungsgruppe wurden hier Signale gefunden, die auf eine andere Zusammensetzung des Mangankomplexes als dort angegeben schließen lassen. Im letzten Teil wurde das primäre Amin Methylamin als Inhibitor der enzymatischen Aktivität des PS II verwendet. Durch begleitende EPR-Messungen des S2-Zustandes am nativen wie auch am inhibierten System konnte festgestellt werde, dass Methylamin wahrscheinlich nicht mit dem Kofaktor Chlorid um eine Bindungsstelle konkurriert, sondern möglicherweise mit Wasser.</dc:description>
+          <dc:date>2003-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/631</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6259</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6259</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/631/kammel_michael.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

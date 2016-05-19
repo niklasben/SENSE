@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2062">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2062</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Metabolic Modelling: Vergleichende Regulationsanalyse der Sterolbiosynthese</dc:title>
+          <dc:title xml:lang="eng">Metabolic Modelling: Comparative analysis of the sterol biosynthesis</dc:title>
+          <dc:creator>Maczek, Judith</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ergosterol ist das Endprodukt der Sterolbiosynthese in Hefen und Pilzen. Als Membrankomponente ist es für diese Organismen essentiell. Wirtschaftlich ist Ergosterol als Ausgangstoff für die Vitamin D2 Synthese und als Precursormolekül in der pharmazeutischen Industrie interessant. Seine Synthese ist streng reguliert und an Sauerstoffverfügbarkeit gebunden; sie lässt sich in den sog. Prä- und Post-Squalensyntheseweg unterteilen. Während im Prä-Squalenweg die Synthese der Sterolvorstufe Squalen stattfindet, erfolgt im Post-Squalensyntheseweg die Bildung des Sterols Lanosterol aus Squalen und dessen Umwandlung über Sterolzwischenstufen in das Endprodukt Ergosterol. In Säugetierzellen ist das Endprodukt der Sterolbiosynthese Cholesterol. Beide Reaktionswege sind entschlüsselt. Die meisten der an der Sterolbiosynthese beteiligten Enzyme wurden in der Vergangenheit identifiziert und ihre Funktion (z.B. in Genexpressionsstudien) bestimmt. Dennoch ist bisher die Regulation der Sterolbiosynthese nicht vollständig aufgeklärt. Ziel dieser Arbeit war es, vergleichende Stoffflussanalysen innerhalb des Post-Squalensyntheseweges durchzuführen, um Kontrollmechanismen der Sterolbiosynthese zu untersuchen. Hierfür wurden Stimulus-Response-Experimente etabliert, in denen die Sterolsynthese durch veränderte Umgebungsbedingungen beeinflusst wurde. Die dynamischen Änderungen der intrazellulären Sterolkonzentrationen wurden gemessen und für die Stoffflussberechnung verwendet. So wurden Batch-Kultivierungen der Hefe S.cerevisiae mit einem Wechsel von anaeroben zu aeroben Bedingungen durchgeführt. Hierbei wurden sehr hohe Bildungsraten der Sterole induziert, die sich durch eine Sterolsupplementierung des Kulturmediums noch verstärken ließen. Bei der Auswertung der Stoffflussanalyse konnte festgestellt werden, dass z.B. die Esterbildung des Intermediates Zymosterol den Stofffluss in Richtung des Endproduktes Ergosterol maßgeblich beeinflusst. Die Erkenntnisse der Stoffflussanalyse wurden für den Entwurf eines strukturierten Modells genutzt, das die Ergosterolbildung beschreibt. Die aus den Stoffflussberechnungen hervorgehenden Bildungsraten wurden verwendet, um die Sterolbildung in mathematischen Ansätze abzubilden. Durch die Etablierung einer Stoffflussanalyse der Cholesterolbiosynthese in humanen Fibroblastenzellen wurde geprüft, inwieweit sich die Methode zur Untersuchung der Sterolbildung in humanen Zellen eignet und ob sich die Erkenntnisse aus dem Hefesystem auch auf die humane Sterolbiosynthese übertragen lassen. Beim Vergleich beider Systeme wurde festgestellt, dass bei den Fibroblasten - im Gegensatz zur Hefe - kaum eine Veresterung oder Zwischenspeicherung von Sterolintermediaten stattfand. Abschließend wird daher diskutiert, inwiefern sich die Hefe S.cerevisiae als Modellorganismus zur Untersuchung der Sterolbiosynthese eignet.</dc:description>
+          <dc:description xml:lang="eng">Ergosterol is the final product of the sterol biosynthesis in yeast and fungi. As membrane component, it is an essential compound of these organisms. Ergosterol is of economic interest because it is used as raw material for the vitamin D2 synthesis and as a precursor molecule in the pharmaceutical industry. Its synthesis is highly regulated and requires the availability of oxygen; it can be divided in the pre- and post-squalene pathway. While the synthesis of the precursor squalene occurs in the pre-squalene pathway, the first sterol lanosterol, several intermediates and the final product ergosterol are biochemically converted in the post-squalene pathway. The final product of the sterol biosynthesis in mammalian cells is cholesterol. Both reaction pathways are well known. Most enzymes of the sterol biosynthesis are identified and their functions have been evaluated (e.g. in gene expression studies). However, the detailed regulation of the sterol biosynthesis is not completely understood. The aim of this work was to conduct a metabolic flux analysis within the post-squalene pathway to investigate the underlying control mechanisms of the sterol biosynthesis. Therefore stimulus-response-experiments were performed to influence the sterol biosynthesis by changing the environmental conditions. The dynamic changes of the intracellular sterol concentrations were measured and used for the calculation of the metabolic fluxes. For this purpose, the yeast Saccharomyces cerevisiae was cultivated in a batch process including a switch from anaerobic to aerobic growth conditions. In these experiments, high sterol fluxes were initiated, which could be even increased by sterol supplementation to the cultivation media. The analysis of the metabolic fluxes revealed a significant influence of the ester formation of the intermediate zymosterol on the flux to the final product ergosterol. The results of the metabolic flux analysis were used to design a concept of a structured model, which describes the ergosterol formation. The sterol reaction rates obtained from the flux analysis were used to describe the sterol formation with mathematical equations. The application of a metabolic flux analysis for the investigation of the cholesterol biosynthesis in human fibroblasts was evaluated. It was determined, if the results from the investigations with the yeast could be transferred to the human sterol biosynthesis. When comparing both systems with each other, it was observed, that fibroblasts do neither synthesize esters nor accumulate sterol intermediates as the yeast does. Therefore it was discussed, if the yeast S.cerevisiae can serve as a general model organism for the investigation of the sterol biosynthesis.</dc:description>
+          <dc:date>2009-02-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2062</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21484</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21484</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2062/original_maczek_judith_orig1.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2062/original_maczek_judith_orig2.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2062/maczek_judith.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

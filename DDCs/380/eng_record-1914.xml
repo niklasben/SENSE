@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1914">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1914</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Wissensmodell für den Wirtschaftsverkehr</dc:title>
+          <dc:creator>Arndt, Wulf-Holger</dc:creator>
+          <dc:creator>Deiber, Benjamin</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">Unsere Gesellschaft entwickelt sich immer mehr zu einer Informations- bzw. Wissensgesellschaft. Informationen und Wissen werden in immer größerem Maße Komplexität und Schnelligkeit angehäuft. Diese Informationsflut in den Zeiterfordernissen moderner Gesellschaften zu erfassen und zu verarbeiten ist eine Herausforderung. Viele Informationen bleiben bislang ungenutzt oder gehen gar verloren, weil auf sie nicht zur richtigen Zeit zugegriffen werden kann. Insbesondere in großen Unternehmen oder Institutionen mit zahlreichen Mitarbeitern, komplexen Geschäftsprozessen und vielen externen als auch internen Interaktionen geht viel Zeit und Geld für Informationsbeschaffung verloren. Dies ist umso unnötiger, wenn das Wissen bereits im Unternehmen vorhanden ist, aber darauf nicht zugegriffen werden kann. Das Problem besteht nicht nur in Unternehmen und Institutionen sondern ebenso für andere eigentlich frei zugängliche Informationen, z.B. im Internet. Insbesondere bei neuen Wissensgebieten wie dem Wirtschaftsverkehr stellen sich solche Probleme. Wie sollen die angehäuften Informationen effizient geordnet und ausgetauscht werden, um sie zu Wissen zu verknüpfen, insbesondere wenn (noch) wenig Systematisierungen in diesem (neuen) Begriffsbereich bestehen? Zur Lösung dieses Problems können moderne, onlinefähige Ordnungs- und Austauschsysteme für Informationen und Wissen beitragen. Ein solches effizientes weltweites Austauschsystem sind z.B. Wikis. Benutzer stellen online ihr Wissen ins Internet, lassen andere daran teilhaben und ergänzen. Als ordnende Wissenssysteme bieten sich Ontologien an. In einem Projekt am Fachgebiet Integrierte Verkehrsplanung wurde ein Ordnungs- und Austauschsystem für das Wissensgebiet des Wirtschaftsverkehrs erarbeitet. Nach einer kurzen Darstellung des Wissensgebietes des Wirtschaftsverkehrs werden Ontologien vorgestellt und nach der Anwendbarkeit für ein Wiki für den Wirtschaftsverkehr (WIV-Wiki) hin untersucht.</dc:description>
+          <dc:date>2008-09-05</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1914</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20169</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20169</dc:identifier>
+          <dc:identifier>1613-1258</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1914/IVP_12.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

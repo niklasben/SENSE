@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3223">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3223</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">An approach to Mechanism Recognition for model based analysis of Biological Systems</dc:title>
+          <dc:title xml:lang="deu">Ansatz zur Mechanismen Erkennung für die Modelbasierte Analyse bilogischer Systeme</dc:title>
+          <dc:creator>Cruz Bournazou, Mariano Nicolás</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This work aims at finding new manners to accurately describe complex processes based on simple models. Furthermore, the approach to Mechanism Recognition proposes to exploit the description limitations of these submodels and to use them as indicators of non-measurable variables. Empirical knowledge, analogies to other models from literature, methods to analyze the state of information of the system and model reduction techniques are brought together in an effort to create an adequate set of accurate models with a significantly larger tractability. It is worth stressing the approach to Mechanism Recognition does not intend to substitute human reasoning or make up for lack of process knowledge. On the contrary, this method is merely a tool to efficiently apply the knowledge obtained from basic research to gain a better insight of the industrial process. The approach to Mechanism Recognition finds an important field of application in biological processes. In this work two case studies are presented to manifest the advantages and applicability of this method. It is shown how the correct analysis of the process, the state of information, and the models applied to describe the process results in new methods to describe and monitor the process with higher efficiency. The first case study presented is the monitoring of the Active Sludge Process in Sequencing Batch Reactors. For this, the state of the art model ASM3 extended for two step nitrification-denitrification is reduced to create a simple model which can easily describe the process in a defined range and detect depletion of carbonate matter. The second case study is Escherichia coli batch and fed-batch cultivations. A model obtained from literature is analyzed and reduced. The methodology of Mechanism Recognition allows creating a set of three submodels able to describe batch cultivations with simple systems of Ordinary Differential Equations. Furthermore, the restrictions of the complex model are set under scrutiny to understand its dynamics and limitations. Finally, special attention is paid to the capability of Mechanism Recognition as a tool to enhance collaboration between basic research and industry.</dc:description>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit ist die Entwicklung innovativer Ansätze zur Beschreibung komplexer Prozesse mit Hilfe von reduzierten Modellen. Die resultierenden Beschränkungen für die Vorhersage des Prozessverhaltens auf Basis von reduzierten Modellen werden durch den Einsatz von Methoden zur Mechanismenerkennung genutzt, um Indikatoren für relevante Änderungen im Prozessgeschehen zu erzeugen. Empirische Kenntnisse, Analogien zu anderen Modellen aus der Literatur, Methoden zur Bewertung des Zustand eines Systems und Ansätze zur Modellreduktion werden kombiniert, in einem Versuch ein Set exakter Teilmodelle mit einer großen Robustheit und Identifizierbarkeit zu generieren. Der Ansatz zur Mechanismenerkennung ist ein Werkzeug zur effizienten Nutzung von Kenntnissen aus der Grundlagenforschung und der Modellierung und ermöglicht ein tieferes Verständnis für den gesamten Prozess. Biologische Prozesse stellen ein wichtiges Anwendungsgebiet für die Mechanismenerkennung dar. Im Rahmen dieser Arbeit werden zwei Fallstudien vorgestellt, für die sowohl die Anwendbarkeit als auch die Vorteile dieser Methode nachgewiesen werden. Es wird gezeigt, dass die systematische Analyse des Prozesses und seiner gemessenen sowie auf Basis von Modellen vorausberechneten Zustände, die Beschreibung und Überwachung des Prozesses mit einer höheren Effizienz erlaubt. Die erste Fallstudie beschreibt die Überwachung des Belebtschlammverfahrens in Sequencing Batch Reaktoren. Dazu wird das dem aktuellen Forschungsstand entsprechende Modell (ASM3 erweitert für die zweistufige Nitrifikation und Denitrifikation) auf ein einfaches Teilmodell reduziert. Das resultierende Modell ist effizient anzuwenden, liefert eine exakte Beschreibung des Prozesses in einem wohldefinierten Bereich und erlaubt die Erkennung des Abbaus organischer Stoffe. Die zweite Fallstudie ist die Kultivierung von Escherichia coli im Batch-Prozess. Ein erfolgreich validiertes Modell wird analysiert und reduziert. Die Methodik der Mechanismenerkennung ermöglicht die Erzeugung von drei Teilmodellen, die in der Lage sind, Batch-Kultivierungen mit einfachen ODE-Systemen zu beschreiben. Abschließend wird die Fähigkeit der Mechanismen Erkennung als Unterstützungswerkzeug für die Zusammenarbeit zwischen Grundlagenforschung und Industrie analysiert.</dc:description>
+          <dc:date>2012-02-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3223</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34163</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34163</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3223/cruzbournazou_mariano.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

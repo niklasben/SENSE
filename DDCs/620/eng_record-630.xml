@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:630">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:630</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung des Setzungsverhaltens von Bahnschotter und der Hohllagenentwicklung auf Schotterfahrbahnen</dc:title>
+          <dc:title xml:lang="eng">Investigation of the settlement behaviour of railway ballast and the void forming on railway tracks</dc:title>
+          <dc:creator>Holtzendorff, Kira</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird zunächst das Verformungsverhalten des Bahnschotters anhand von bisherigen Untersuchungsergebnissen anderer Autoren sowie eigenen numerischen Finite-Element-Simulationen mit dem Stoffmodell der Hypoplastizität studiert, um Setzungsvorgänge im Schottergleis während des Zugbetriebes besser verstehen zu können. Aus den Ergebnissen können die wichtigsten Einflussfaktoren der Schottersetzung abgeschätzt werden; Inhomogenitäten im Schottergleis, Belastungsniveau, Erschütterungen, Untergrundsteifigkeit und Schotterverschmutzung. Die Einflussfaktoren "Belastungsniveau" und "Erschütterungen" werden anhand von vorhandenen und weiterentwickelten kurzzeitdynamischen Rechenmodellen der Fahrzeug-Fahrweg-Interaktion im Frequenz- und Zeitbereich abgeschätzt. Schließlich wird - unter Berücksichtigung der zuvor genannten Einflussfaktoren - eine qualitative, langzeitdynamische Setzungsprognose zur Entwicklung von Hohllagen vorgenommen. Der vorgeschlagene Ansatz einer phänomenologischen Setzungsformel basiert auf einer Idee von R. D. Fröhling. Es wird besonderes Augenmerk auf die Kopplung zwischen Kurzzeit- und Langzeitdynamik bei der Entstehung von Hohllagen aufgrund von Schottersetzung gelegt. Aufgrund von fehlenden Messdaten kann das Prognosemodell zunächst nicht kalibriert werden.</dc:description>
+          <dc:description xml:lang="eng">In this work the deformation behaviour of railway ballast is investigated based on past research works as well as on conducted Finite Element simulations with the constitutive model of hypoplasticity in order to better understand the settlement mechanism within the ballasted track due to train passages. The predominant influencing parameters can be identified; track irregularities, load level, vibrations, subgrade stiffness and ballast degradation. The influencing factors "load level" and "vibrations" are assessed by existing and extended short-term dynamic models of vehicle-track-interaction in the frequency and time domain. Finally a qualitative, long-term dynamic settlement prediction on the development of voids between sleeper and ballast is conducted taking the before mentioned influencing parameters into account. The proposed formula of a phenomenological settlement equation is based on an idea of R. D. Fröhling. The coupling between short-term and long-term dynamics with respect to the forming of voids due to ballast settlement is especially acknowledged. Due to missing measurement data the prediction model cannot yet be calibrated.</dc:description>
+          <dc:date>2003-09-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/630</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6249</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6249</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/630/holtzendorff_kira.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

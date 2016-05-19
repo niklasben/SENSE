@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:588">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:588</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Rekombination und Relaxation in nulldimensionalen Strukturen</dc:title>
+          <dc:creator>Born, Harald</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die elektronische Zustandsdichte von Quantenpunkten (QP) ist diskret. Auf dieser Grundlage ist die Entwicklung neuartiger optoelektronischer Bauelemente möglich. Im Rahmen der vorliegenden Arbeit werden Photolumineszenzmessungen an In(Ga)As/GaAs QP vorgestellt, die in weiten Teilen unter Verwendung von Berechnungen im Rahmen der k*p Theorie erklärt werden. Die Gültigkeit des Modells der starken Lokalisierung für die Beschreibung von Exzitonen in In(Ga)As/GaAs QP und der dominierende Einfluß der Strukturen auf die Ausdehnung und Symmetrie der Wellenfunktionen wird in Messungen mit angelegtem äußeren Magnetfeld gezeigt. Schwerpunkt der Untersuchungen bilden zeitaufgelöste Photolumineszenzmessungen, die einen detaillierten Einblick in die dominierenden Prozesse bei Relaxation und Rekombination von Exzitonen liefern. Die Untersuchung systematisch variierender Strukturen zeigt die Korrelation zwischen der Lebensdauer des Exzitons im Grundzustand und der Form der QP, die den Überlapp der Aufenthaltswahrscheinlichkeiten der Ladungsträger bestimmt. Die Modifikation der Lebensdauer durch Diffusion wird vorgestellt. Die Relaxation des Exzitons als ein Quasiteilchen innerhalb eines QP wird gezeigt. Eine schwache Kopplung zwischen Exzitonen und Phononen wird zur Beschreibung der Relaxation vorgestellt. In Abhängigkeit von der Form der QP wird bei tiefen Temperaturen eine Relaxationszeit von ~ 150 - 7000 ps festgestellt, die sich in relaxations- beziehungsweise rekombinationslimitierten Strukturen niederschlägt. Für flache QP wird erstmalig von der unterdrückten Relaxation von Exzitonen in QP berichtet. Gleichzeitig wird der untergeordnete Einfluß der Größe der QP und des kontrovers diskutierten Confinements von Photonen für die Energierelaxation in QP belegt. Der Ladungsträgereinfang in QP wird diskutiert, die Umgehung des "Phononbottlenecks" für Exzitonen in diesem Fall gezeigt und erklärt. Weiterführende Untersuchungen zu kohärenten Phänomenen werden vorgestellt und Vorschläge zum Verständnis der beobachteten Phänomene unterbreitet.</dc:description>
+          <dc:date>2003-09-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/588</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5829</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5829</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/588/born_harald.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

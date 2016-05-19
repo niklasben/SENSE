@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2122">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2122</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Service Request Oriented Architecture</dc:title>
+          <dc:title xml:lang="deu">Anfragenorientierte Dienstarchitektur</dc:title>
+          <dc:creator>Radusch, Ilja</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The vision of Ambient Intelligent Systems describes human-centric environments that are able to adapt intelligently to the user situation. However, the growing complexity of implementing such Ambient Intelligent Systems has now outpaced even the most ambitious research efforts due to the ever increasing number of communication devices and the corresponding increase in the number of difficult choices each user is faced with. Implementing this vision of Ambient Intelligent Systems in a world of heterogeneous devices, networks, and services available to, and required by, users has thus proved harder than was previously expected. Against this backdrop, this thesis presents a novel approach that introduces a non-disruptive, scalable architecture for Ambient Intelligent Systems. In line with recent research projects, this thesis starts by analyzing typical single and multi-user scenarios in varying environments, deriving the requirements for an appropriate architecture on an abstract level. This requirements analysis gives a novel layer model for Ambient Intelligent Systems that decouples the interpreting and processing of user needs from service interaction, and loosely coupled service execution from low-level information access across varying networks and devices. This layer model is then further extended to the service request oriented architecture by identifying service requests as connecting entities between the layers. Thus service request orientation can be seen to offer a convenient abstraction for translating abstract user requests to specific service calls in an extendable and loosely coupled manner that allows for integration not only of existing context-agnostic services but also of a wide range of devices, from small, resource-bounded sensor nodes to mobile devices or high-end computers. As work on this Service Request Oriented Architecture was a joint effort between the TU Berlin and Fraunhofer FOKUS, the findings of this thesis have been fed into a number of national and international projects such as Autarke Verteilte Mikrosysteme (AVM) funded by the German Federal Ministry for Education and Research (BMBF) and e-Sense, funded by the European Commission.</dc:description>
+          <dc:description xml:lang="deu">Die Vision von Ambient Intelligent Systems beschreibt Systeme, die sich unsichtbar und eingebettet in der Benutzerumgebung auf intelligente Weise der aktuellen Situation des Benutzers anpassen können. Leider wuchs die Komplexität bei der Umsetzung dieser Vision durch die rasche Einführung neuer Kommunikationsgeräte schneller als die Forschung in diesem Bereich bewältigen konnte. Die Vergangenheit zeigte, dass in dieser wachsenden Welt von unterschiedlichen Geräten, Netzwerken und Diensten, deren Möglichkeiten nur teilweise von den Benutzern verstanden und angenommen werden, neuartige Systeme, die nicht bestehende Infrastrukturen nutzen können, nicht durchzusetzen sind. Diese Arbeit beschreibt daher einen neuen Ansatz einer skalierbaren Architektur für Ambient Intelligent Systems, die ausdrücklich bestehende Infrastrukturen nutzt und existierende Dienste einbindet. Analog zu aktuellen Forschungsprojekten beginnt die Arbeit mit der Beschreibung von Szenarien mit einzelnen und mehreren Benutzern, die in der folgenden Analyse genutzt werden, um die notwendigen Anforderung zu ermitteln. Aus diesen Anforderungen wird dann ein neuartiges Schichtenmodell für Ambient Intelligent Systems entwickelt, welches die Interpretation und Bearbeitung von Benutzerbedürfnissen von der Interaktion der Dienste und die lose gekoppelte Dienstausführung vom allgemeinen Informationszugriff auf verschiedenste Geräte und Netzwerke trennt. Dieses Schichtenmodell wird im weiteren Verlauf zu einer vollständigen Referenzarchitektur ausgebaut, bei der Dienstanfragen (Service Requests) als Bindeglied für die Kommunikationseinheiten der verschiedenen Schichten fungiert. Die Ausrichtung auf Dienstanfragen (Service Request Orientation) hat sich als eine adäquate Abstraktion für die Umwandlung von generischen Benutzeranfragen (user requests) in spezifische Dienstaufrufe bewährt. Diese erweiterbare lose Koppelung von Diensten erlaubt es existierende Dienste auf einfache Weise zu integrieren sowie Informationen von einer großen Breite von Geräten abzufragen und in das System einzubeziehen, angefangen von kleinsten Sensorknoten über mobile Geräte bis hin zu hochwertigen Computern. Die Arbeit an dieser Dienstanfrage orientierten Architektur (Service Request Oriented Architecture) sind das Ergebnis gemeinsamer Forschungen von der TU Berlin und Fraunhofer FOKUS. Die Ergebnisse dieser Arbeit sind in eine Reihe von nationalen und internationalen Forschungsprojekte eingeflossen wie z.B. Autarke Verteilte Mikrosysteme (AVM) gefördert vom BMBF sowie e Sense, welches von der Europäischen Union gefördert wurde.</dc:description>
+          <dc:date>2009-05-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2122</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22290</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22290</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2122/original_radusch_ilja.docx</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2122/radusch_ilja.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

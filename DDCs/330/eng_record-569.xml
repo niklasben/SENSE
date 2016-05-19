@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:569">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:569</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Auswirkungen der Akkreditierung von Prüflaboratorien und Zertifizierungsstellen von Produkten in Deutschland</dc:title>
+          <dc:creator>Schüttpelz, Katrin</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Das Akkreditierungssystem in Europa entstand auf der Basis des Globalen Konzeptes für Zertifizierung und Prüfwesen. Das Ziel dieses Konzeptes war die Erleichterung der gegenseitigen Anerkennungen von Prüfungen und Zertifizierungen. In Deutschland wurde 1989 der Aufbau eines nationalen Akkreditierungssystems vorgenommen. Gegenwärtig sind in Deutschland mehr als 1400 Prüflaboratorien und über 100 Zertifizierungsstellen für Produkte akkreditiert. Seit Bestehen dieses Systems wurden u.a. die Fragen gestellt, ob die Erwartungen der Prüflaboratorien und Zertifizierungsstellen für Produkte mit dem eingetretenen Nutzen der Akkreditierung übereinstimmen und in welchem Verhältnis Aufwand und Nutzen der Akkreditierung zueinander stehen. Die vorliegende Dissertation untersucht eingehend die Aspekte und Auswirkungen der Akkreditierung am Beispiel der in Deutschland akkreditierten Prüflaboratorien und Zertifizierungsstellen für Produkte. Zur Erfassung dieser Aspekte und Auswirkungen einer Akkreditierung wurden 1073 akkreditierte Prüflaboratorien und 60 akkreditierte Zertifizierungsstellen anhand von Fragebögen in Deutschland interviewt. Im Anschluss daran wurden die Akkreditierungsstellen und Kunden akkreditierter Stellen befragt. Die Rücklaufquote betrug für die Prüflaboratorien 26,54%, für die Zertifizierungsstellen 20%, für die Akkreditierungsstellen 44% und für die Kunden 5,1%. Die Fragebögen waren jeweils ähnlich aufgebaut, so dass eine Vergleichbarkeit in der Auswertung möglich ist. Das Ergebnis ist eine auf fundiertem Ausgangsmaterial basierende Auswertung, die Rückschlüsse auf die derzeitige Situation der Akkreditierung und Tendenzen in Deutschland und Europa zulässt. Es werden Schlussfolgerungen über den Nutzen und die Wirkung, die Kosten und den Aufwand der Akkreditierung getroffen, sowie eine Bewertung des Akkreditierungsverfahrens und des Akkreditierungssystems in Deutschland vorgenommen.</dc:description>
+          <dc:date>2003-09-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/569</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5648</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5648</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/569/schuettpelz_katrin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

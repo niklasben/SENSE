@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2609">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2609</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The Self-Assembly of Surfactants in Ordered Mesoporous Silica Studied by Neutron Scattering</dc:title>
+          <dc:title xml:lang="deu">Strukturuntersuchungen von Tensidaggregaten in den Poren von mesoporösen SBA-15 Materialien mittels SANS</dc:title>
+          <dc:creator>Shin, Tae Gyu</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">In this work the structure and the shape of the aggregates of nonionic and cationic surfactants in the pores of mesoporous silica SBA-15 were investigated by neutron scattering. Due to the different strengths of interaction of the head groups with the pore wall and the hydrophobic attraction between the alkyl chains, different scattering curves for the respective SBA-15 samples which were adsorbed with various types of surfactants and at different loadings were observed. SBA-15 materials show 2D hexagonal arrangement of cylindrical pores, where the pore size, the specific surface, the pore volume and the lattice constant were characterized by N2-adsorption and SAXS. For some surfactants, adsorption measurements were required prior to the neutron scattering measurement. The neutron scattering curves of the strongly adsorbing nonionic surfactants C10E5 and C12E5 show a superposition of diffuse small-angle scattering with Bragg reflections and could be fitted using a suitable model function (modified Teubner-Strey function). The results of this analysis provide the mean distance between surfactant aggregates d, the correlation length ξ, and the average thickness of the surfactant layer t. With increasing surfactant loading, d becomes smaller, while ξ and t become greater. This says that at small loading the surfactant molecules aggregate at first in a larger distance (isolated surface micelles), with increasing surfactant amount the distances between the aggregates become small and these aggregates are then interconnected to a patch-like surfactant layer at the highest loading. For the SBA-15 samples adsorbed by weakly adsorbing C10G2 the form factor of spherical micelles was applied in order to fit the scattering data. On the other hand, the SBA-15 sample with adsorbed C10G1 shows a superposition of a scattering curve of the cylindrical micelles and (10) Bragg peak of the 2D hexagonal arrangement of the mesopores. The scattering curves of SBA-15 samples with adsorbed cationic surfactants could not be analyzed with the modified Teubner-Strey model function. The reason is that the scattering curves show only the two highest loadings leading four Bragg peaks, making the Fit-analysis very limited. The results of the TGA measurements could be used to compare the plateau values of the adsorption measurements, which allow qualitative check of the actual plateau values of adsorption in the present work.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wurden die Struktur und die Gestalt der Aggregaten von nicht-ionischen und kationischen Tensiden in den Poren vom mesoporösen Silikat SBA-15 durch Neutronen Kleinwinkelstreuung untersucht. Aufgrund der unterschiedlichen Wechselwirkungsstärken von Kopfgruppen mit der Porenwand und von der hydrophoben Anziehung der Alkylketten untereinander, wurden unterschiedliche Streukurven für jeweiligen SBA-15 Proben beobachtet, die mit verschiedenen Typen von Tensiden und bei verschiedenen Beladungen adsorbiert waren. SBA-15 Materialien weisen 2D hexagonale Anordnung von zylindrischen Poren auf, wobei die Porenweite, die spezifische Oberfläche, das Porenvolumen und die Gitterkonstante mittels N2-adsorption und SAXS charakterisiert werden. Für einige Tenside waren vor der Neutronstreumessung Adsorptionsmessung erforderlich. Die Neutron-Streukurven von den stark adsorbierenden nicht-ionischen Tensiden C10E5 und C12E5 weisen eine Überlagerung von diffuser Kleinwinkelstreuung mit Bragg-Reflexen auf und konnten mittels einer passenden Modellfunktion (modifizierte Teubner-Strey Funktion) gefittet werden. Die Ergebnisse dieser Analyse liefern den mittleren Abstand zwischen Tensidaggregaten d, die Korrelationslänge ξ, und die mittlere Dicke der Tensidschicht t. Bei zunehmender Beladung von Tensid wird d kleiner, wobei ξ und t größer werden. Dies besagt, dass die Tensidmoleküle bei der kleinen Beladung zunächst in einem größeren Abstand isoliert aggregieren (Oberflächenmizelle), mit zunehmender Beladung die Abstände zwischen den Aggregaten kleiner und diese Aggregate dann bei der höchsten Beladung zu einer Tensidschicht vernetzt werden. Für die SBA-15 Proben mit dem schwach adsorbierenden C10G2 wurde der Formfaktor der Kugelmizellen angewendet, um die Streudaten zu fitten. Die mit C10G1 adsorbierte SBA-15 Probe zeigt jedoch eine Überlagerung von einer Streukurve der zylindrischen Mizellen und (10) Bragg-Peak der 2D hexagonalen Anordnung von Mesoporen. Die Streukurven von den mit kationischen Tensiden adsorbierten SBA-15 Proben konnten mit der modifizierten Teubner-Strey Modellfunktion nicht analysiert werden. Der Grund dafür besteht darin, dass die Streukurven nur bei den höchsten zwei Beladungen 4 führende Bragg-Peaks zeigen, wodurch die Fit-Analyse sehr eingeschränkt möglich ist. Die Ergebnisse der TGA Messungen konnten dazu verwendet werden, um die Plateauwerte der Adsorptionsmessungen zu vergleichen, so dass tatsächliche Plateauwerte der Adsorption in der vorliegenden Arbeit qualitativ überprüft werden konnten.</dc:description>
+          <dc:date>2010-09-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2609</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27557</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27557</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2609/shin_taegyu.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

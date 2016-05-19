@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1693">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1693</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Functional Analysis of MOSFETs and HEMTs with Laser Stimulation and Photonemission</dc:title>
+          <dc:title xml:lang="deu">Funkstionsanalyse von MOSFETs und HEMTs mittels Laser Stimulation und Photonemission</dc:title>
+          <dc:creator>Brahma, Sanjib Kumar</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die moderne Mikroelektronikindustrie ist an der Verfügbarkeit effektiver Verfahren zur Lokalisierung von Fehlern in Schaltkreisen und/oder einzelnen Bauelementen stark interessiert. In den letzten Jahren diesbezüglich entwickelte Analyseverfahren wie Laserstimulationstechniken und Photonemissionsmikroskopie (PEM) gelten mittlerweile als hocheffektive, nichtdestruktive und zeitsparende Verfahrenstechniken bei der Fehleranalyse mikroelektronischer Bauelemente und Schaltkreise. In dieser Arbeit werden Untersuchungen vorgestellt, die einen Beitrag zum Verständnis und der Charakterisierung verschiedener Effekte sowohl bei der Wechsel-wirkung von Laserstrahlung mit MOS Transistoren als auch der Photonemission von AlGaN/GaN HEMTs liefern sollen. Thermische Laser Stimulationseffekte (TLS) sind untersucht und mit den Temperaturabhängigkeit der Transistor Parametern korreliert. Die Stimulationsergebnisse bestätigt die Tatsache, dass die thermische Effekte an MOSFET infolge der Absorption sowohl in dem hoch dotierten Silizium als auch in Metall Regionen in Erscheinung treten. Indirekte Erwärmung des Transistorkanals mittels Wärmediffusion über die in der Umgebung liegende metallische Strukturen scheint als der dominante TLS-Effekt der MOSFET. Außer der Untersuchungen der thermischen Effekte sind auch photo-elektrische Effekte an dem MOSFET charakterisiert. Die Stimulationsergebnisse werden bestätigen, dass die Anwendung einer 1064 nm Laser in dem Bauelementen nicht nur photoelektrische Effekte mittels Elektron-Loch Paar Generation induzieren kann sondern auch in der Lage ist, laserleistungsabhängige thermische Effekte zu erzeugen. Dieser Arbeit wendet ein Verfahren an, um die thermische und die photoelektrische Effekte zu unterscheiden und den somit extrahierten rein photoelektrischen Anteil des 1064 nm Laser induzierten Signals mittels 2D Bauelementesimulation überprüft. In dieser Arbeit ist die Photonemission der AlGaN/GaN HEMTs mit der PEM Technik charakterisiert und eine Korrelation der detektierten Photonemission mit dem Gate und Drain-Strom ermittelt, die auf eine Ionizationseigenschaften des Bauelements zurückzuführen ist. Diese Ergebnisse der Verbindungshalbleiter mit großen Bandlückenenergien öffnen neue Anwendungsbereiche der PEM Technik, die immer mehr Bedeutung haben werden, da die neuartige Bauelemente im Hochleistungs- und Höchstfrequenzbereich immer mehr mit dieser Technologie angefertigt werden.</dc:description>
+          <dc:description xml:lang="eng">Failure localization on integrated circuits using optical imaging tools like laser stimulation techniques and photon emission microscopy have gained enormous potential in the recent microelectronics industry because of their capability of localizing failures both in interconnect and device level within a very short time duration and in a non invasive manner. Although these techniques add a lot of value to identify performance problems in circuit and technology development, the full potential is not lifted yet as the signatures of the stimulated circuits are often not well understood. This work broadens considerably the basis of understanding and characterizes the various effects occurring during the laser and the device interaction on MOS transistor, and the photon emission of the AlGaN/GaN HEMTs. Thermal laser stimulation (TLS) effects have been investigated and correlated quantitatively to the temperature dependent MOSFET parameters. The experimental results confirm that the induced thermal effects on MOSFET occur due to absorption in both highly doped silicon and metallic regions of the device. Indirect heating of the transistor channel via heat diffusion from surrounding metallic elements has turned out to be the dominant TLS effect on a MOSFET. Apart from the thermal laser stimulation experiments on the MOSFET photoelectric laser stimulation investigations have been performed. It has been shown that the stimulation with a 1064nm laser induces not only photoelectric effects via generation of e-h pairs but also produces significant thermal effects depending on the applied laser power into the device. This work presents a methodology to distinguish the thermal and the photoelectric effects and verifies the experimentally extracted pure photoelectric stimulated signal of the 1064 nm laser stimulation by a 2D device simulation study. This work also characterizes the photon emission of AlGaN/GaN HEMTs and determines a correlation of the photon emission with the gate and the drain current based on ionization-related device properties. These results of compound wide band gap semiconductors open up a new application field of photon emission microscopy that will see a growing importance as devices for high power and high frequency domains will be based more and more on this technology.</dc:description>
+          <dc:date>2008-02-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1693</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17432</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17432</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1693/brahma_sanjib.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

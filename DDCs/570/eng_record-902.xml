@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:902">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:902</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Struktur und Entwicklung benthischer Biofilme in Fließgewässern - Messungen und Simulation</dc:title>
+          <dc:creator>Eitner, Annett</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Der benthische Biofilm nimmt eine Schlüsselposition bei den Selbstreinigungsprozessen von Fließgewässern ein. Über seine Entwicklung und Zusammensetzung liegen jedoch nur wenige Daten vor. Aus diesem Grund wird der benthische Biofilm bei der Modellierung von Stoffumwandlungsprozessen in Fließgewässern oft nicht berücksichtigt, obwohl ihm hierbei vor allem in kleinen Fließgewässern die größte Bedeutung zukommt. Das Ziel der Arbeit war es deshalb, die Entwicklung des benthischen Biofilms in Fließgewässern im Verlauf eines Jahres zu untersuchen sowie den Einfluss verschiedener Umweltfaktoren zu erfassen. Die Untersuchungen wurden in der Ehle, einem kleinen Fließgewässer in Sachsen-Anhalt (Deutschland), im South-Saskatchewan-River in Saskatoon (Kanada) sowie in Biofilmreaktoren durchgeführt. Mit Hilfe der konfokalen Laser Scanning Mikroskopie (CLSM) und der Verwendung von Fluoreszenzfarbstoffen wurde die Struktur und Zusammensetzung des benthischen Biofilms untersucht. Besonders berücksichtigt wurden dabei die Bakterien, die Algen, die Cyanobakterien und die extrazellulären Glykokonjugate. Die digitalen Bilddaten ermöglichten eine drei-dimensionale Rekonstruktion des Biofilms sowie eine qualitative und quantitative Auswertung der Struktur und Zusammensetzung. Hierfür wurden verschiedene Bildanalyseprogramme auf ihre Eignung zur Analyse von Fließgewässerbiofilmen getestet. Die Untersuchungen zeigten eine starke jahreszeitliche Abhängigkeit der Biofilmdicke sowie der Zusammensetzung. Diese wurde vor allem durch die Populationsdynamik des Makrozoobenthos hervorgerufen. Weiterhin wurde der Einfluss der Aufwuchsoberfläche, der hydrodynamischen Bedingungen sowie der Ammoniumkonzentration auf die Entwicklung, die Struktur und den Sauerstoffhaushalt des Biofilms untersucht. Zur Messung von Sauerstoffkonzentrationsprofilen und der photosynthetischen Aktivität wurden Sauerstoff-Mikroelektroden eingesetzt. Die gewonnenen Ergebnisse wurden in ein Biofilmmodell integriert, um die Entwicklung des benthischen Biofilms in Fließgewässern zu simulieren. Dafür wurde das Simulationsprogramm AQUASIM genutzt, sowie die Prozesse in Anlehnung an das IWA River Water Quality Model No.1 formuliert. Das Model wurde durch eine Abtragsfunktion erweitert, welche das Grazing des Makrozoobenthos in Abhängigkeit von der Temperatur und einem gewässerspezifischen Faktor berücksichtigt. Damit konnte die Änderung der Biofilmdicke während des Jahres sehr gut simuliert werden. Ein zweites Biofilmmodell integriert die gewonnenen CLSM-Daten zur vertikalen Verteilung der Biofilmkomponenten und simuliert auf dieser Grundlage die Sauerstoffkonzentrationen sowie die photosynthetische Aktivität in jeder Schicht des Biofilms. Die simulierten Werte konnten durch die experimentell ermittelten Daten aus den Sauerstoff-Mikroelektroden-Versuchen bestätigt werden. Somit liefert diese Arbeit 2 Biofilmmodelle zum besseren Verständnis von Fließgewässerbiofilmen sowie zur Verbesserung von bestehenden Fließgewässermodellen.</dc:description>
+          <dc:date>2004-09-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/902</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8951</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8951</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/902/eitner_annett.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

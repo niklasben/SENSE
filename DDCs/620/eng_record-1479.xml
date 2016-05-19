@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1479">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1479</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein neuartiges 3D-mikrostrukturiertes Durchflusszytometer</dc:title>
+          <dc:title xml:lang="eng">A new type of 3D-microstructured flow cytometer</dc:title>
+          <dc:creator>Theisen, Janko</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Durchflusszytometrie wird seit vielen Jahren als wichtiges Analyseverfahren in der medizinischen Diagnostik eingesetzt. Neue Einsatzgebiete lassen sich mit miniaturisierten Einweg-Analysechips erschließen. In der vorliegenden Dissertation werden 3D-mikrostrukturierte Durchflusszytometer entwickelt, bei denen typische Komponenten wie die Probenzuführung, die optische und elektrische Detektion (Extinktion, Streulicht, Fluoreszenz und Impedanz) in einen Kunststoffchip integriert sind. Die aufgebaute mikro- und feinwerktechnische Fertigungsprozesskette (Ultrapräzisions-Fräsen, Heißprägen und Laserdurchstrahlschweißen) erlaubt eine Fertigung auch potentiell hoher Stückzahlen. Erste durchflusszytometrische Untersuchungen an Vollblut sind mit Labormustern verschiedener Versionen erfolgreich durchgeführt worden.</dc:description>
+          <dc:description xml:lang="eng">Since many years flow cytometry is used as important analytic method for medical diagnostics. Disposable microchips open up new applications. Within the framework of this thesis 3D-micro-structured flow cytometers have been develloped. Components, typical for conventional flow cytometers, such as the hydrodynamic focussing, optical and electric detection (extinction, light scatter, fluorescence and impedance) have been integrated in a plastic microchip. The established microfabrication (ultra-precision milling, hot embossing and laser welding) allows a production even in potential high quantities. First flow cytometeric measurements with human blood were realized successfully.</dc:description>
+          <dc:date>2007-04-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1479</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15467</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15467</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1479/theisen_janko.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

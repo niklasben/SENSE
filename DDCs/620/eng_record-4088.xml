@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4088">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4088</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR IX: MDB Test Procedure: Initial Protocol</dc:title>
+          <dc:creator>Uittenbogaard, Jeroen</dc:creator>
+          <dc:creator>Versmissen, Ton</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This protocol describes the Mobile Progressive Deformable Barrier test. The MPDB protocol is derived from the PDB test protocol developed by UTAC [Edwards 2006/1], the FWDB test and assessment protocol developed by TRL [Edwards 2006/2], the Euro NCAP frontal impact testing protocol [Euro NCAP 2009] and ECE regulation No. 94 [ECE 2009]. The protocol describes a test between the test car and a 1500 kg moving trolley with a closing speed of 100 km/h. The off-set for the test car is 50% of the vehicle width. The trolley is equipped with a PDB deformable barrier face. Especially trolley weight and closing speed are subject to further analysis in order to define the test severity at an appropriate level for the existing range of vehicles. The objective of the test procedure is to assess the self- and partner protection, also known as compatibility.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4088</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40880</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40880</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4088/FIMCAR_IX_mdb_protocol.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

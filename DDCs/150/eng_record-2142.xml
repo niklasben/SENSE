@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2142">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2142</identifier>
+        <datestamp>2014-04-29</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein komplexes Modell der Arbeitszufriedenheit : theoretische Grundlagen unter Berücksichtigung wichtiger Ergebnisse der Zufriedenheitsforschung und Darstellung eines ersten dynamisch-programmierten Operationalisierungsansatzes</dc:title>
+          <dc:title xml:lang="eng">A complex model of job satisfaction : fundamental theoretical discussion in regard to important findings as well as a first demonstration on how to dynamically measure it</dc:title>
+          <dc:creator>Roedenbeck, Marc R. H.</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="deu">Grundlegende Kritik kann bei nahezu allen bisherigen Erhebungsinstrumente und theoretischen Modellen zur Erklärung der Arbeitszufriedenheit dahingehend geübt werden, dass die Subjektivität des Individuums, dessen Komplexität und die dynamische Komplexität der Situation nicht hinreichend beachtet wird. Es wurde ein neues komplexes Modell der Arbeitszufriedenheit (KMA) entwickelt, welches diese Kritik als Kernpunkt umschließt und so für die Forschung einen detaillierten und dynamischen Ansatz zur Diskussion und Erklärung der Arbeitszufriedenheit offeriert. Es werden nicht nur der Grad und die Qualität des aspektbezogenen emotionalen Zustandes erfasst, sondern auch die Präferenz und die motivationale und differenzierte Folgehandlung in die Erklärung integriert. Besondere Auswirkungen hatten dabei die Ansätze von Lawler (1968), Smith &amp; Hulin (1969), Neuberger (1976) und Bruggemann et al. (1975), sowie die richtungsweisenden Arbeiten von Gebert (1979), Borg (1986, 1988), Büssing (1991), Judge et al. (1997) und Jiménez (2000a, b). Auch wurde ein Erhebungsinstrument zum KMA (E-KMA) als ein Onlinefragebogen vorgestellt, welcher durch seine programmierte Dynamik - mittels Datenbankanwendung im Internet - der theoretisch entwickelten Dynamik der Arbeitszufriedenheit gerecht wird. Empirische Ergebnisse können nun weltweit ‚Online’ mit dem E-KMA erhoben werden und müssen nun anschließend in einem ersten Ansatz nach quantitativ-qualitativer Forschungsmethodik zusammen mit den Forschungssubjekten validiert werden.</dc:description>
+          <dc:description xml:lang="eng">The main criticism for the old models and survey methods that try to explain and measure the phenomenon job satisfaction is simply based on the missing subjectivism and the missing complexity of the individual and the situation. A new complex and theoretical model of job satisfaction (CMJS/KMA) was developed which is focused on the main criticism to solve this problem and where all important research is integrated. In the model the facts of quality, scale, preference and varying actions with their motivation of job satisfaction are explained. The important work of Lawler (1968), Smith &amp; Hulin (1969), Neuberger (1976), and Bruggemann et al. (1975) is included as well as the leading works of Gebert (1979), Borg (1986; 1988), Büssing (1991), Judge et al. (1997), and Jiménez (2000a, b). Finally a new, complex and also dynamic on-line survey method was developed with database programming so that empirical research can be done all over the world at any place with a connected internet PC or a prepared laptop. The validation of the model is suggested to be done with a quantitative-qualitative methodology.</dc:description>
+          <dc:date>2009-06-09</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2142</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22541</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22541</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2142/roedenbeck_marc.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

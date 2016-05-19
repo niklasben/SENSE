@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4885">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4885</identifier>
+        <datestamp>2014-04-08</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">RF-MEMS Switch Module in a 0.25 µm SiGe:C BiCMOS Process</dc:title>
+          <dc:creator>Kaynak, Mehmet</dc:creator>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="eng">Wireless communication technologies have continuously advanced for both performance and frequency aspects, mainly for the frequencies up to 6 GHz. The results of Moore’s law now also give the opportunity to design mm-wave circuits using advanced CMOS technologies. The introduction of SiGe into CMOS, providing high performance BiCMOS, has also enhanced both the frequency and the power performance figures. The current situation is that the active devices of both CMOS and BiCMOS technologies can provide performance figures competitive with III-V technologies while having still the advantage of low cost. However, similar competition cannot be pronounced for the passive components considering the low-resistive substrates of BiCMOS technologies. Moreover, both III-V and BiCMOS technologies have the lack of low-loss and low-power consumption, as well as highly linear switching and tuning components at mm-wave frequencies. &#13;
+RF-MEMS switch technologies have been well-known with excellent RF- performance figures. The power consumption of electrostatic RF-MEMS switches is negligible and they can handle higher power levels compared to their semiconductor counterparts. However, RF-MEMS switches have been mostly demonstrated as standalone processes and have started to be used as commercial off-the-shelf (COTS) devices recently. The full system integration is typically done by a System-in-Package (SiP) approach. Although SiP is suitable for lower frequencies, the packaging parasitics limit the use of this approach for the mm-wave frequencies. &#13;
+In this thesis, a fully BiCMOS embedded RF-MEMS switch for mm-wave applications is proposed. The design, the implementation and the experimental results of the switch are provided. The developed RF-MEMS switch is packaged using different packaging approaches. To actuate the RF-MEMS switch, an on-chip high voltage generation circuit is designed and characterized. The robustness and the reliability performance of the switch are also presented. Finally, the developed RF-MEMS switch is successfully demonstrated in re-configurable mm-wave circuits.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Drahtlose Kommunikationstechnologien im Frequenzbereich bis 6 GHz wurden in der Vergangenheit in Bezug auf Leistungsfaehigkeit und Frequenzbereich kontinuierlich verbessert. Aufgrund der Skalierung nach dem Mooreschen Gesetz koennen heutzutage mm-Wellen Schaltkreise in CMOS-Technologien hergestellt werden. Durch die Einfuehrung von SiGe zur Realisierung einer leistungsfaehigen BiCMOS-Technologie wurde ebenfalls eine Verbesserung der Frequenzeigenschaften und Ausgangsleistungen erreicht, wodurch aktive CMOS- oder BiCMOS-Bauelemente vergleichbare Leistungsparameter zu III-V Technologien bei geringeren Kosten bereitstellen koennen. Bedingt durch das niederohmige Silizium-Substrat der BiCMOS-Technologie weisen vor allem passive Komponenten hoehere Verluste auf und weder III-V- noch BiCMOS-Technologien bieten hochlineare Schaltkomponenten mit geringen Verlusten und geringen Leistungsaufnahmen im mm-Wellen Bereich.&#13;
+RF-MEMS Schalter sind bekannt fuer ihre ausgezeichneten HF-Eigenschaften. Die Leistungsaufnahme von elektrostatisch angetriebenen RF-MEMS Schaltern ist vernachlaessigbar und es koennen im Vergleich zu halbleiter-basierten Schaltern hoehere Leistungen verarbeitet werden. Nichtsdestotrotz wurden RF-MEMS Schalter hauptsaechlich als eigenstaendige Komponenten entwickelt. Zur Systemintegration wird meist ein System-in-Package (SiP) Ansatz angewandt, der fuer niedrige Frequenzen geeignet ist, aber bei mm-Wellenanwendungen durch parasitaere Verluste an seine Grenzen stoesst.&#13;
+In dieser Arbeit wird ein in eine BiCMOS-Technologie integrierter RF-MEMS Schalter fuer mm-Wellen Anwendungen gezeigt. Das Design, die Integration und die experimentellen Ergebnisse sowie verschiedene Packaging-Konzepte werden beschrieben  Zur Bereitstellung der hohen Auslenkungs-Spannungen wurde eine Ladungspumpe auf dem Chip integriert. Zum Schluss werden verschiedene, rekonfigurierbare mm-Wellen Schaltkreise zur Demonstration der Leistungsfaehigkeit des Schalters gezeigt.&#13;
+</dc:description>
+          <dc:date>2014-03-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4885</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-48850</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-48850</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4885/kaynak_mehmet.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

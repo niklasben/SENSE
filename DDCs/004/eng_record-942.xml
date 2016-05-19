@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:942">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:942</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Non-Metric Pairwise Proximity Data</dc:title>
+          <dc:title xml:lang="deu">Nicht metrische paarweise Ähnlichkeitsdaten</dc:title>
+          <dc:creator>Laub, Julian</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In intelligenter Datenanalyse gibt es zwei gängige Datenrepräsentationen, nämlich die vektorielle Repräsentation und die paarweise Repräsentation. Die Übersetzung der letzteren in die erstgenannte nennt man Einbettung, eine nicht triviale Problematik von stetem, wissenschaftlichen Interesse. Während die paarweise Repräsentation den Daten weniger Einschränkungen auferlegt und so potentiell fähig ist, reichere Struktur festzuhalten, wartet die vektorielle Repräsentation mit vielen mächtigen datenanalytische Werkzeugen auf, da man in solchen Räumen über probabilistische Modelle für die Daten verfügt. Paarweise Daten, die restriktive Bedingungen erfüllen, können getreu in eine vektorielle Repräsentation abgebildet werden. Paarweise Daten, für die dies nicht möglich ist, werden nicht metrisch genannt. Diese Doktorarbeit betrifft nicht-metrische, paarweise Daten. Es ist eine investigative und explorative Studie nicht metrischer, paarweiser Daten, gestützt auf theoretische und konzeptuelle, sowie auf empirische Betrachtungen. Zuerst wird der Leser mit den beiden Datenrepräsentationen vertraut gemacht. Paarweise Daten werden illustriert und die ersten Problematiken angesprochen. Gängige Einbettungsmethoden werden dargestellt. Dann wird gezeigt, dass diese beiden Datenrepräsentationen für eine gewisse Klasse von Lernalgorithmen übereinstimmen, sogar wenn die paarweisen Daten nicht metrisch sind, und traditionelle Techniken nur zu approximativen Vektorrepräsentation führen. Die neuentwickelte Einbettung ist exakt in Bezug auf Struktur. Das Hauptgewicht liegt im Erfassen der Natur und der Folgen von metrischen Verletzungen. Obwohl die wissenschaftliche Gemeinschaft die Problematik wahrzuhaben scheint, wurde diese nach des Autors bestem Wissen nie klar formuliert. Metrische Verletzungen wurden gemeinhin als zufälliges Nebenprodukt von Rauschen betrachtet und wurden mathematisch dementsprechend behandelt. Eine einfache Modellierung metrischer Verletzungen zeigt, dass diese Annahme falsch ist. Eine spezielle Einbettung wird benutzt um den Informationsgehalt metrischer Störungen zu visualisieren und interpretieren. Schliesslich wird gezeigt, dass ein einfacher Algorithmus, der die Struktur über einen Stabilitätsindex auswertet, effizient die Struktur, die von metrischen Verletzungen kodiert wird, extrahieren kann.</dc:description>
+          <dc:description xml:lang="eng">There are two common data representations in intelligent data analysis, namely the vectorial representation and the pairwise representation. The translation of latter into the former is called embedding. This is a non-trivial issue of ongoing scientific interest. While the pairwise representation imposes less restriction on the data and is thus potentially able to capture richer structure, the vectorial representation has the advantage to offer many powerful data analytical tools, in particular as a consequence of the existence of probabilistic data models in such spaces. Pairwise data satisfying restrictive conditions can be faithfully translated into a vectorial representation. Pairwise data, for which this is not possible are called non-metric pairwise data. This thesis is about non-metric pairwise data. It is an investigative and explorative study of non-metric pairwise data, based on theoretical and conceptual as well as empirical considerations. The reader is first made familiar with the two data representations. Pairwise data are illustrated and first issues raised. Common embedding strategies are developed. It is then shown that these two data representations coincide for a certain class of learning algorithms, even when the pairwise data is non-metric and traditional techniques only obtain approximate vector representations. The new embedding developed is exact with respect to structure. The major focus lies on apprehending the nature and consequences of metric violations. While the scientific community seems aware of such an issue, it has never been clearly formulated to the best of the authors knowledge. Metric violations have commonly been considered an accidental byproduct of noise and have received corresponding mathematical treatment. It is shown by simple modeling of metric violations that this assumption is wrong. A particular embedding method is used to visualize and interpret the information coded by metric violations. Finally the structure coded by metric violations is shown to be efficiently extracted by a simple algorithm which evaluates structure based on a stability index.</dc:description>
+          <dc:date>2004-12-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/942</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9353</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9353</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/942/laub_julian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

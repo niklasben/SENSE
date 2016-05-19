@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3214">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3214</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Adaption des Trockenbohrens über thermomechanische Modellierung zur Erhöhung der Fertigungsgenauigkeit</dc:title>
+          <dc:title xml:lang="eng">The adaptation of dry drilling using thermo-mechanical modeling to increase production accuracy </dc:title>
+          <dc:creator>Al Jourdi, Anas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird ein nummerischer Ansatz für die Prognose des thermischen Wachstums und der zu erwartenden Deformationen von Werkstücken beim Bohren entwickelt. Bereits während der Fertigungsplanung wird die Kompensation des thermischen Wachstums und der Deformation durch die Steuerung ermöglicht. Hierdurch erfolgt ein großer Schritt in Richtung höherer geometrischer Genauigkeit des thermisch stark belasteten Bohrprozesses. Für die Untersuchung der Deformation waren die thermischen und die thermomechanischen Vorgänge zu analysieren. Die Modellierung der thermischen Beanspruchungen ist mittels der FE-Simulation durchgeführt und validiert worden. Hierbei stand die Optimierung des Rechenaufwandes bei großer Robustheit des FE-Modells im Vordergrund. Die thermomechanische Modellierung erfolgte unter der Maßgabe, ein komplexes Bauteil thermisch planbar zu machen. Die im Vorfeld ermittelten thermischen Parameter dienten der Simulation und Validierung der Lagetoleranzen. Auf deren Basis ist eine Kompensationsstrategie, bestehend aus einer den Prozessparametern angepassten Prozessfolge, entwickelt worden. Anhand von experimentellen Untersuchungen konnte die entwickelte Methodik verifiziert werden.</dc:description>
+          <dc:description xml:lang="eng">In the present work, a numerical approach is developed to predict the thermal expansion and the expected deformation in workpieces as a result of drilling. The compensation of the thermal expansion and the deformation through the control is enabled during the production planning, which signifies a big step towards geometrical precision of the thermally heavy-loaded drilling process. Thermal and thermo-mechanical processes were analyzed in order to study the distortion. FE simulation was used to model and verify the thermal load. Here, optimization of the time required for computing with great robustness of the FE model took priority. Thermo-mechanical modeling was conducted to make the thermal design of a complex workpiece possible. The previously calculated thermal parameter was used to simulate and validate the positional tolerance, which was then used to develop a compensation strategy. This strategy consists of one of the process parameters of the adapted process sequences. The method so developed was verifiable through experiments.</dc:description>
+          <dc:date>2012-01-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3214</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33968</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33968</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3214/aljourdi_anas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

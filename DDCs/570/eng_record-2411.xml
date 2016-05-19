@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2411">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2411</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Role of TLR-MyD88 signalling in B cells during Salmonella infection</dc:title>
+          <dc:title xml:lang="deu">Die Rolle der TLR-MyD88 Signalwegs in B-Zellen während der Salmonellen-Infektion</dc:title>
+          <dc:creator>Neves, Patricia</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="eng">The work here presented addressed the role of MyD88-signalling in B cells upon Salmonella infection. MyD88 is the major adaptor protein involved in the signalling pathway of the Toll-like receptors upon pathogen recognition. This activation in some innate immune cells can potentiate inflammatory response, but on the other hand can drive suppression by the provision of IL-10 by B cells. The major aim of this thesis was the analysis of this inhibitory circuit and their consequences in the immune response during Salmonella infection. In the first part of this study in vitro data with Heat-killed Salmonella (HKS) revealed production of high amounts of IL-10 by B cells through TLR2/4-MyD88 dependent manner. On the contrary, HKS-activated DC and macrophages produced big amounts of pro-inflammatory cytokines upon. Importantly mice with IL10-deficient B cells showed an increased inflammatory response by T cells upon Salmonella infection. In the second part it was demonstrated that MyD88-signalling in B cells inhibits the innate immunity and adaptive T cell immunity in response to Salmonella typhimurium infection. In particular, MyD88-signalling in B cells impairs survival of the mice exposed to a primary as well as to secondary infection by virulent Salmonella. This MyD88-mediated suppression was specifically elicited by B cells, as total MyD88-deficient mice show impaired protective immunity against Salmonella. The results of the work showed that the signal transduction through MyD88 exerts opposite effects in distinct cells types. In most cells induces an inflammatory immune response, but on B cells results in the inhibition of the immune response, probably through IL-10 production by B cells.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit behandelt die Rolle von MyD88 in B-Zellen bei der Infektion mit Salmonella Thyphimurium. MyD88 ist ein Adapterprotein mit zentraler Bedeutung bei der Pathogenerkennung durch die Aktivierung von TLR (Toll-like Receptors). Es ist bekannt, dass durch die Aktivierung von TLR immunologische Antworten verstärkt, aber auch geschwächt werden können, wie es z.B bei der Produktion von IL-10 durch B-Zellen der Fall ist. Im Mittelpunkt der Arbeit stand die Untersuchung dieses inhibitorischen Zykluses und der Konsequenzen für die Infektion mit Salmonella Thyphmurium. Im ersten Teil der vorliegenden Arbeit wurde gezeigt, dass mit abgetöteten Salmonella in vitro stimulierte B-Zellen eine große Menge an IL-10 über einen TLR2/4-MyD88 abhängigen Mechanismus produzierten. Auf der anderen Seite produzierten Dendritische Zellen und Makrophagen über das gleiche Adapterprotein proinflammatorische Zytokine. Im zweiten Teil der Arbeit konnte gezeigt werden, dass die Stimulation von MyD88 in B-Zellen die angeborene und Adaptive Immunantwort als Reaktion auf die Infektion mit Salmonella Typhimurium unterdrückt. Dieser Zusammenhang konnte in vivo bestätigt werden. Tieren, deren B-Zellen kein MyD88 exprimierten, überlebten nach primärer und sekundärer Salmonella Infektion länger als Kontrolltiere. Diese Tiere zeigten eine erhöhte TH1 Antwort. Im Gegensatz dazu zeigten Tiere, bei denen MyD88 in allen Zellen fehlte, eine geschächte Immunantwort. Die Ergebnisse der Arbeit zeigten, dass die Signaltransduktion via MyD88 in die meisten Zellen stimulatorisch, in B-Zellen jedoch über eine IL-10 Produktion suppressiv wirkt.</dc:description>
+          <dc:date>2010-01-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2411</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25257</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25257</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2411/original_neves_patricia.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2411/neves_patricia.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

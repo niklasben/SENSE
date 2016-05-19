@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1847">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1847</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modellierung von Wärmeübertragern in den Gaswechselsystemen von Verbrennungsmotoren</dc:title>
+          <dc:title xml:lang="eng">Modelling of Heat Exchangers in Gas-Exchange Systems of Internal Combustion Engines</dc:title>
+          <dc:creator>Lechmann, Achim</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In modernen Fahrzeugen finden sich zahlreiche Wärmeübertrager unterschiedlicher Bauform und für unterschiedliche Medien. Im Rahmen von Konstruktion und Entwicklung ist für eine differenziertere Bewertung, als es die Betrachtung des Gesamtsystems ermöglicht, die Kenntnis der Wärmeübergangskoeffizienten der jeweiligen Wärmeübertragerflächen vorteilhaft. Auch bei Berechnungen, wie beispielsweise der Simulation von Wärmeübertragern, können mit Hilfe der Wärmeübergangskoeffizienten Vorteile erzielt werden. Die Datenbasis für diese Arbeit bilden die Messwerte von 14 Ladeluftkühler-Prototypen, die an dem Wärmetauscherprüfstand der Forschungsstelle im Rahmen eines Industrieauftrags vermessen wurden. Es werden die messtechnischen Grundlagen und der Aufbau des entwickelten Prüfstands beschrieben. Im Rahmen der Motorprozesssimulation werden Wärmeübertrager üblicherweise durch Kennfelder abgebildet, welche die spezifische Kühlleistung in Abhängigkeit von den Massenströmen des kühlenden und des zu kühlenden Mediums enthalten. Physikalisch basierte Ansätze, die neben dem stationären Wärmedurchgang auch die thermische Trägheit im dynamischen Betrieb von Wärmeübertragern berücksichtigen können, setzen die Kenntnis der jeweiligen Wärmeübergangskoeffizienten voraus. In dieser Dissertation wurden verschiedene Modelle für Wärmeübertrager programmtechnisch umgesetzt und in ein Fahrer-/Fahrzeugmodell der nulldimensionalen Motorprozess-Simulationsumgebung THEMOS® implementiert. Anhand verschiedener Testzyklen wurden Rechnungs-/Rechnungs- und Rechnungs-/Messungs-Vergleiche durchgeführt, das Verbesserungspotenzial physikalisch basierter Ansätze gegenüber der Kennfeldabbildung aufgezeigt und dieses jeweils bewertet. Weiter werden in dieser Arbeit Verfahren beschrieben, die mithilfe der nichtlinearen globalen Optimierung die sonst nur schwer erfassbaren Wärmeübergangskoeffizienten aus Messwerten extrahieren. Dazu wird das systemspezifische Wärmeübertragungsverhalten in dimensionsloser Form über die Colburn-Zahl j als Funktion der jeweiligen Reynoldszahl Re abgebildet, wobei die Zahl der freien Parameter in diesen Gleichungen und damit die Dimension des Optimierungsraumes von dem gewählten Modellansatz abhängt. Von den vier verschiedenen, in dieser Arbeit untersuchten Optimierungsverfahren haben sich für derartige vielparamtrige, nichtlineare Optimierungsprobleme Genetische Algorithmen als besonders geeignet erwiesen.</dc:description>
+          <dc:description xml:lang="eng">Modern vehicles are equipped with numerous heat exchangers of different design and for different media. A detailed approach during construction and development phase requires the knowledge of heat transfer coefficients of the inner and outer heat transfer surfaces rather than one overall heat transfer coefficient. In computations, as for example the simulation of heat exchangers, advantages can be obtained with the help of detailed heat transfer coefficients too. A measurement campaign over 14 intercooler prototypes conducted at the heat exchanger test stand of the research site in context of an industrial order, delivered the data base for this thesis. The instrumentation bases and the structure of the developed test stand are described. In engine-process-simulation heat exchangers are usually modelled by characteristic maps, which contain the specific cooling performance as a function of mass flows of cooling fluid and the fluid which is to be cooled. Physically based approaches, which consider, apart from the stationary heat transfer, the thermal inertia in dynamic operation of heat exchangers too, need the knowledge of the respective heat transfer coefficients. In this thesis different models for heat exchangers were developed and implemented into a driver-/vehicle-model build in the zero-dimensional engine process simulation environment THEMOS®. Based on different test cycles, calculation-/calculation- and calculation-/measurement-comparisons were carried out. Room for improvement of physically based approaches compared to characteristic maps were shown and the results evaluated. Furthermore procedures using nonlinear global optimization are shown to extract the otherwise difficultly detectable heat transfer coefficients from measured data. For this purpose the system specific heat transfer characteristic is mapped in terms of the dimensionless Colburn number j as function of the corresponding Reynolds number Re. Depending on the description of the system the number of free parameters and hence the dimension of the optimization space varies. From the four different optimization procedures, examined in this paper, genetic algorithms exposed as particularly suitably for such multi-parametric, nonlinear optimization problem.</dc:description>
+          <dc:date>2008-08-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1847</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19558</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19558</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1847/original_lechmann_achim.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1847/lechmann_achim.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

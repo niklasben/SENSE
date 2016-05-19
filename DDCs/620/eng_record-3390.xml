@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3390">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3390</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Integrale Verfahren der aktiven Infrarotthermografie</dc:title>
+          <dc:title xml:lang="eng">Integral Techniques of Active Infrared Thermography</dc:title>
+          <dc:creator>Schlichting, Joachim</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die zerstörungsfreie Prüfung ist eine Aufgabe von großer Bedeutung, sowohl aus wirtschaftlicher Perspektive, als auch um die notwendige Sicherheit technischer Systeme gewährleisten zu können. Mit der Thermografie steht eine schnelle und berührungslose Prüftechnik zur Verfügung, die nicht zuletzt wegen der rapiden Entwicklung auf dem Gebiet der Infrarotkameras in letzter Zeit große Aufmerksamkeit erfährt. Typischerweise werden thermografisch oberflächennahe, parallel zur Oberfläche ausgedehnte Defekte nachgewiesen. In dieser Arbeit werden zwei untypische Prüfprobleme gelöst. An Punktschweißverbindungen wird mit der Linsengröße eine Struktur in der Mitte der Probe mittels Blitzlichtthermografie indirekt vermessen. Hier können typische Fehlerbilder wie Klebverbindungen und Spritzer sicher erkannt werden, was statistisch abgesichert durch eine Serienmessung und den Vergleich mit zerstörender Prüfung gezeigt wird. Ein Beispiel für orthogonal zur Oberfläche orientierte Fehlstellen stellen Risse dar, wie sie beispielsweise in Schweißnähten häufig auftreten. Neben der Entwicklung eines Verfahrens zur Detektion von Rissen, welches auf kommerziell erhältlichen Geräten aufbaut, wurde in Experimenten und Finite-Elemente-Simulationen untersucht, inwieweit sich auch die geometrischen Eigenschaften bestimmen lassen. Mit einem Verfahren, das ebenso wie die Methode zur Prüfung der Schweißpunkte auf der Analyse zeitlich und räumlich integraler Größen basiert, die vom thermischen Widerstand abhängen, ist die gleichzeitige Bestimmung von Winkel und Tiefe möglich.</dc:description>
+          <dc:description xml:lang="eng">Non-destructive evaluation is a task of utmost importance for both, the economic point of view and to guarantee the required safety and reliability of technical systems. Thermography is a fast and contactless technique which received continued attention not least through the significant price drop at the infrared camera market. It is typically used to detect near-surface defects which are expanded parallel to the surface. This thesis deals with two non-standard inspection tasks. With the weld lens diameter of spot welds, a feature in the sample's geometrical center is indirectly sized by flash thermography. The presented method is suitable to distinguish typical error classes like stick welds or expulsions. This fact is validated by statistical evaluations of thermographic and destructive test series. As an example for perpendicularly oriented imperfections, surface cracks are investigated, which can be a major problem at welding seams. A technique for detecting cracks entirely based on commercially available equipment is developed. In addition, the accessibility of geometric characteristics of cracks was examined by experiments and FEM-simulations. Similar to the method developed for assessing spot welds, an approach based on the analysis of spatial and temporal integral quantities which depend on the thermal resistance is used. In doing so, the simultaneous determination of crack angle and depth is possible.</dc:description>
+          <dc:date>2012-07-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3390</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35499</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35499</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3390/schlichting_joachim.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

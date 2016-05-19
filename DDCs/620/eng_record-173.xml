@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:173">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:173</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Grouping wireless Picocells to build a local area wireless infrastructure : fast and efficient local mobility management and range extension</dc:title>
+          <dc:title xml:lang="deu">Gruppieren drahtloser Picozellen um eine lokale drahtlose Infrastructur zu errichten</dc:title>
+          <dc:creator>Weinmiller, Jost</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Diese Dissertation stellt eine systematische Untersuchung vor von Lösungen für effizienten Handover in einer drahtlosen, LAN-basierten Kommunikationsumgebung innerhalb von Gebäuden. Die gewählte Umgebung besteht aus mehreren drahtlosen Zellen die mittels einer zweiten Netzwerkinfrastruktur verbunden werden Die Funkzellen werden dadurch zu einer grösseren Einheit zusammengebunden, die den gängigen Dimensionen eines lokalen Netzes entsprechen. Diese Architektur wurde gewählt da die Reichweite zukünftiger Funkzellen sehr klein sein wird (~10 Meter) was zu sehr häufigem Handover führen wird. Um die aufwändigen Handover auf der Netzwerkschicht bei dieser hohen Rate zu vermeiden wird ein einzelnes lokales Netz bestehend aus mehreren Zellen aufgebaut, was ein Mobilitätsmanagement im lokalen Rahmen erlaubt und das dadurch effizienter und schneller ist als Lösungen auf Netzwerkschicht. Hinsichtlich der steigenden Nachfrage nach Unterstützung für Echtzeitkommunikation in Kommunikationsnetzen, werden die offenen Fragen und diesbezüglichen Eigenschaften in solch einem System weitergehend diskutiert und betrachtet. Die Dissertation untersucht den Raum für hier anwendbare Strategien und identifiziert die Grundmechanismen, die ihnen zugrunde liegen. Für die Lösungen werden Spezifikationen erarbeitet. Die spezifizierten Schemata wurden mittels simulativer Verfahren bezüglich ihrer Leistung verglichen und bewertet im Hinblick auf ihre unterschiedlichen Funktionalitäten. Die Dissertation schliesst mit abschliessenden Bemerkungen ab.</dc:description>
+          <dc:description xml:lang="eng">The thesis presents a systematic investigation of solutions to provide efficient handover in a wireless-based LAN-type communication infrastructure in an indoor environment. The chosen architecture builds upon several wireless islands and interconnects them via a second networking infrastructure of a different type. Through this several cells are grouped together into a larger administrative unit of the dimensions of a common LAN. This architecture is advised since the coverage area of future cells will be very small (~10 meter) causing very frequent handover. In order to avoid the "expensive" handover on the network layer at such high frequency a single network with multiple cells is built up, allowing for a local area mobility management that can be more efficient and faster than network layer based solutions. With respect to the increasing demand for support for traffic with real-time requirements in communication networks, the capabilities and the issues arising with real-time communication in the system in question are furthermore discussed. The thesis investigates the space for applicable strategies and identifies distinctive basic solutions. Specifications for those solutions are developed. The specified approaches have been compared and evaluated regarding their performance and their different functional properties, with the help of simulation. The thesis finishes with conclusive remarks.</dc:description>
+          <dc:date>2000-08-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/173</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1687</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1687</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/173/weinmiller_jost.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

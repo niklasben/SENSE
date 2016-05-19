@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3055">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3055</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Asymptotic properties of the parabolic Anderson model</dc:title>
+          <dc:title xml:lang="deu">Asymptotische Eigenschaften des parabolischen Anderson-Modells</dc:title>
+          <dc:creator>Schnitzler, Adrian</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">The parabolic Anderson model is the heat equation on the lattice with a random potential. A characteristic feature of the large time asymptotics of the solution is the occurrence of small islands where almost all mass is concentrated. This effect is called intermittency. There are basically two ways of looking at the long time behaviour of the solution. On the one hand one can consider the almost sure asymptotics after one realisation of the potential is fixed (the quenched setting). On the other hand one can consider he asymptotics after taking expectation with respect to the potential (the annealed setting). One possible characterisation of intermittency is to compare the asymptotics of different moments of the solution. We derive asymptotic formulas for time correlations of regularly varying functions of the solution in the case of a homogeneous initial condition and an appropriate time-independent potential. These formulas can be used, for instance, to calculate moments of the solution of all orders up to asymptotic equivalence. Furthermore, we show what the geometry of the intermittency peaks that determine the annealed behaviour looks like. More precisely, we show what the height, the size and the frequency of the relevant peaks are. We also investigate ageing properties of the model under different definitions. In particular, we examine for how long intermittency peaks remain relevant. Another characterisation of intermittency is to compare the quenched asymptotics of the solution with the annealed asymptotics. If one considers the averaged solution to the parabolic Anderson model with homogeneous initial condition in a growing box that is time-dependent, then one observes different regimes. If the growth rate of the box is small, then one observes quenched behaviour, whereas if the box grows fast one observes annealed behaviour. We derive stable limit theorems for the averaged solution depending on the growth rate of the box and the potential tails for suitable potentials to describe the transition from quenched to annealed behaviour. Furthermore, we give sufficient conditions on the growth of the box for a strong law of large numbers to hold. Finally, we derive asymptotic formulas for time and spatial correlations in the parabolic Anderson model with a (time-dependent) white-noise potential.</dc:description>
+          <dc:description xml:lang="deu">Das parabolische Anderson-Modell ist die Wärmeleitungsgleichung auf dem Z^d mit zufälligem Potential. Charakteristisch für die Langzeitasymptotik der Lösung ist das Auftreten von sich immer weiter voneinander entfernenden Inseln, in denen fast alle Masse konzentriert ist. Dieser Effekt wird als Intermittenz bezeichnet. Es gibt im Wesentlichen zwei Möglichkeiten, das Verhalten der Lösung zu betrachten. Einerseits kann man die fast sichere (quenched) Asymptotik betrachten, nachdem eine Realisierung des Potentials fixiert wurde. Andererseits kann man die (annealed) Asymptotik betrachten, nachdem der Erwartungswert über das Potential genommen wurde. Eine mögliche Charakterisierung der Intermittenz erfolgt über den Vergleich des asymptotischen Wachstums verschiedener Momente der Lösung. Wir leiten asymptotische Formeln her für die zeitliche Korrelation von regulär variierenden Funktionen der Lösung für den Fall einer homogenen Anfangsbedingung und eines geeigneten zeitunabhängigen Potentials. Mit Hilfe dieser Formeln lassen sich unter anderem alle Momente der Lösung bis auf asymptotische Äquivalenz genau bestimmen. Weiterhin beschreiben wir die Geometrie der Intermittenzpeaks, die das gemittelte Verhalten der Lösung bestimmen, insbesondere die Höhe, die Größe und die relative Häufigkeit der Peaks. Darüber hinaus untersuchen wir die Alterungseigenschaften des Modells anhand verschiedener Definitionen. Im Besonderen bestimmen wir, wie lange einzelne Intermittenzpeaks relevant bleiben. Eine weitere Charakterisierung der Intermittenz erfolgt über den Vergleich der Quenched-Asymptotik mit der Annealed-Asymptotik. Betrachtet man bei homogener Anfangsbedingung eine mit der Zeit wachsende Teilbox des Z^d und mittelt die Lösung in dieser, so erhält man bei langsamem Wachstum der Box dieselbe Asymptotik wie im Quenched-Fall, wohingegen bei schnellem Wachstum dasselbe Verhalten eintritt wie im Annealed-Fall. Wir geben für geeignete Potentialklassen stabile Grenzwertsätze für die in der Box gemittelte Lösung in Abhängigkeit vom Potential und der Wachstumsrate der Box an, um den Übergang zwischen dem Quenched- und dem Annealed-Regime zu beschreiben. Desweitern leiten wir hinreichende Bedingungen an das Wachstum der Box her für ein starkes Gesetz der großen Zahlen. Abschließend leiten wir asymptotische Formeln her für die räumliche und die zeitliche Korrelation im parabolischen Anderson-Modell mit (zeitabhängigem) weißem Rauschen als Potential.</dc:description>
+          <dc:date>2011-10-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3055</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32412</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32412</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3055/schnitzler_adrian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

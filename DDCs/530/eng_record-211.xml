@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:211">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:211</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Successive laser crystallization of doped and undoped a-Si:H</dc:title>
+          <dc:title xml:lang="deu">Sukzessive Laserkristallisierung von dotiertem und undotiertem amorphen Silizium  a-Si:H</dc:title>
+          <dc:creator>Lengsfeld, Philipp</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">In this work the successive crystallization of undoped and doped amorphous silicon on glass substrates and the properties of the resulting films are investigated. The most im-portant results are the following. · In the course of successive crystallization a two-layer system is formed. At the surface a crystallized layer is created which extends into the film. The crystallinity of this top layer exhibits a strong depth dependence. Close to the substrate a resid-ual amorphous layer remains. · The successive crystallization is accompanied by a dehydrogenation of the sam-ples. In the course of this dehydrogenation the dissociation of Si-H is enhanced compared to the dissociation of differently bonded hydrogen, which manifest itself in the mode at 2100 cm-1. Fully crystallized samples can still contain a residual H concentration of up to 4 at. %. · The enhanced dissociation of Si-H can be explained by the assumption that in the case of standard amorphous silicon the hydrogen mode at 2100 cm-1 is caused by platelet-like hydrogen clusters. In these clusters most of the hydrogen is more tightly bonded than Si-H. · Undoped polycrystalline silicon (poly-Si) samples prepared by successive crystal-lization in the super lateral growth (SLG) regime have a grain size in the range of 3-4 µm and small roughness. Most grains possess a small dislocation density. The grains exhibit a {111}-preferential orientation in the direction of the substrate normal. Poly-Si samples crystallized outside the SLG regime do not show a pref-erential orientation of the grains. The texture formation is explained using a model previously developed for solid phase crystallization. According to Raman meas-urements a considerable amount of stress is incorporated in all the laser crystallized films originating from the glass substrates. · Doping has a significant influence on the crystallization process. Heavy P and B doping lead to a decrease and an increase of the two characteristic crystallization parameters ET and ESLG, respectively. The influence of heavy doping on the two characteristic crystallization parameters is assumed to be mainly caused by a change of the thermal properties of the material. · Heavily doped poly-Si samples crystallized in the SLG regime exhibit a {111}-texture of the grains similar to the undoped samples. The free carrier con-centration in heavily doped films exceeds 5 ´ 1020 cm-3 for P and B doping. · The high free carrier concentrations have a strong impact on the Raman spectra of the poly-Si, leading to asymmetric broadenings of the LO-TO phonon lines caused by the Fano effect. · The Raman spectra of heavily B doped as-deposited µc-Si:H films do not show the type of Fano broadening which occurs in heavily B doped c-Si and poly-Si.</dc:description>
+          <dc:date>2001-05-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/211</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2064</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2064</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/211/lengsfeld_philipp.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3309">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3309</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Social Club Brandenburg : innovative Orte des Lernens für Jugendliche auf dem Lande</dc:title>
+          <dc:creator>Hofmann, Susanne</dc:creator>
+          <dc:creator>Walter, Urs</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">SOCIAL CLUB Brandenburg beschäftigt sich mit innovativen Formen des Lernens und Lebens von Jugendlichen auf dem Lande. Ort der Untersuchung ist das ehemaligen (former) landwirtschaftlichen (agricultural) Mustergut Blumberg bei Casekow in der Uckermark / Brandenburg. In der Auseinandersetzung mit dem Ort Blumberg, dem Gutshaus und seiner Wirtschaftsbauten entwickeln Studierende im Bachelorstudiengang Architektur der TU Berlin Konzepte für eine Jugendschule als bauliche Erweiterung der Anlage. Im Sinne eines SOCIAL CLUB wird gezeigt, wie die Schule als soziales und wirtschaftliches Zentrum, auch den Ort Blumberg zu neuem Leben erwecken könnte. </dc:description>
+          <dc:description xml:lang="eng">The design studio ‘Social club Brandenburg’ is exploring innovative ways that young people from rural areas live and learn. The site is the former archetypal estate of Blumberg in Casekow, Uckermark/Brandenburg. Architecture Students from the TU Berlin will consider how the place of Blumberg, its main house and associated agricultural buildings, can be expanded and converted into a Youth School. The aim of the school is to transform the former estate into a social and economic centre, breathing new life into Blumberg. </dc:description>
+          <dc:date>2012-04-27</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3309</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35220</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35220</dc:identifier>
+          <dc:identifier>978-3-7983-2399-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3309/2399_ask_III_inhalt.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3309/2399_ask_III_umschlag.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

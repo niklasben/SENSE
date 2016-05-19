@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:752">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:752</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Improving Congestion Control in IP-based Networks by Information Sharing</dc:title>
+          <dc:title xml:lang="deu">Verbesserung der Überlastkontrolle in IP-basierten Netzen durch Teilen von Informationen</dc:title>
+          <dc:creator>Savoric, Michael</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im heutigen Internet basiert die Überlastkontrolle hauptsächlich auf den Überlastkontrollfähigkeiten des Transmission Control Protocol (TCP). Die TCP-Überlastkontrolle ist Fenster-orientiert (Überlastkontrollfenster) und arbeitet nach dem Schema, durch ein auf Versuch und Irrtum basiertes Testen die momentane Kapazität des Netzwerks zu bestimmen und das Überlastkontrollfenster entsprechend anzupassen. Dabei sammelt jeder einzelne TCP-Sender separat Daten über das Netzwerk und wird dabei auch nicht bzw. nur rudimentär von den Routern des Netzwerks unterstützt. Als Ergebnis kann man eine in ihrer Leistung eingeschränkte Überlastkontrolle beobachten. Da aber nützliche Informationen in den TCP-Sendern (die gesammelten Daten) und in den Routern (die (potentiell) meßbare Last) verfügbar sind, bietet es sich an, diese Informationen im Netzwerk zu (ver)teilen, um dadurch die Überlastkontrolle des Internets insgesamt zu verbessern. Dieses (Ver-)Teilen von Netzwerkinformationen (Network-Information Sharing (NIS)) kann auf zwei Arten geschehen: Netzwerkinformationen können (1) zwischen TCP-Sendern eines Endsystems (Common Congestion Control (CCC)) oder (2) zwischen Routern und TCP-Sendern von Endsystemen (Router Congestion Feedback (RCF)) ausgetauscht werden. Beide Arten der Informations(ver)teilung lassen erwarten, daß die TCP-Sender mehr bzw. adäquatere Informationen über das Netzwerk erhalten. Die vorliegende Dissertation beschäftigt sich eingehend mit beiden Arten von NIS-Verfahren. In der Dissertation werden bestehende NIS-Verfahren klassifiziert und hinsichtlich ihrer Leistungsfähigkeit qualitativ bewertet. Darüberhinaus werden neue NIS-Verfahren entwickelt, die sowohl analytisch, durch Simulationen und teilweise auch durch Messungen in ihrer Leistungsfähigkeit untersucht werden. Das erste wichtige Resultat der Dissertation beruht auf der Entwicklung des neuen CCC-Verfahrens Ensemble Flow Congestion Management (EFCM), das deutliche Leistungsgewinne im Vergleich zu Standard TCP erzielt, ohne sich - verglichen mit Standard TCP - zu aggressiv gegenüber dem Netzwerk zu verhalten. Das zweite wichtige Ergebnis der Dissertation ist verbunden mit der Entwicklung zweier neuer RCF-Verfahren, Fuzzy Explicit Window Adaptation (FEWA) und Enhanced TCP (ETCP), die beide in der Lage sind, bestehende RCF-Verfahren als auch Standard TCP in der Leistung (deutlich) zu übertreffen. Insbesondere sind diese neuen RCF-Verfahren in der Lage, insgesamt die Leistung der Überlastkontrolle sowohl im heutigen Internet als auch in zukünftigen IP-basierten Netzen bestehend aus drahtgebundenen und drahtlosen Netzbereichen (deutlich) zu steigern.</dc:description>
+          <dc:description xml:lang="eng">Congestion control in the current Internet is mostly based on the congestion-control capabilities of the Transmission Control Protocol (TCP). The TCP congestion control is window-based (congestion window). It tries to adapt the congestion window to the network capacity by probing the network capacity using a trial-and-error scheme. To reach this, every TCP sender separately collects information about the network status without or only rudimentary being assisted by the routers of the network. In the end, a congestion control with a limited performance can be observed. Since useful information in the TCP senders (the collected network information) and in the routers (the (potentially) measurable load) is available, it is desirable to share them in the network to improve the overall performance of the Internet congestion control. This network-information sharing (NIS) can be done in two ways: network information can be shared (1) between TCP senders in a single end system, also called common congestion control (CCC), or (2) between routers and TCP senders in end systems, also called router congestion feedback (RCF). With both NIS mechanisms more (adequate) network information in the TCP senders can be expected. This dissertation considers both types of NIS approaches in detail. In this dissertation existing NIS approaches are classified and qualitatively evaluated. In addition, new NIS approaches are developed. Their performance is investigated by analysis, by simulations, and partly by measurements. The first important result of the dissertation is the development of the new common congestion controller Ensemble Flow Congestion Management (EFCM) that largely outperforms standard TCP. This is reached by following new control algorithms that guarantee a similar aggressiveness to the network compared to standard TCP. The second important result of the dissertation is the development of two new RCF approaches, Fuzzy Explicit Window Adaptation (FEWA) and Enhanced TCP (ETCP), which are able to (largely) outperform existing RCF approaches and standard TCP. Particularly with these new RCF approaches a (largely) improved congestion control in the current Internet as well as in future IP-based networks consisting of wired and wireless network parts can be reached.</dc:description>
+          <dc:date>2004-11-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/752</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7465</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7465</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/752/savoric_michael.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

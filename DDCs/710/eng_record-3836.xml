@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3836">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3836</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Hashtgerd Actor Analysis : Analysis of Relevant Actors in the Planning and Development Process of Hashtgerd New Town</dc:title>
+          <dc:creator>Farshad, Farnaz</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="eng">The Hashtgerd actor analysis takes a closer look at the actions, goals and capacities of private and public actors, from individuals to institutions and organisations, in the urban planning, housing and transport sectors of Hashtgerd. The actor analysis gives an overview over governmental entities (New Town Development Corporation as the responsible institution for the development of New Towns in Iran, the Islamic Council and mayor as elected government body and the Mayor’s Young Consultants, which serve as a link between the residents and the municipality), civil society organisations and the structure of the residents in the different building phases of Hashtgerd New Town.</dc:description>
+          <dc:date>2013-06-05</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3836</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40207</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40207</dc:identifier>
+          <dc:identifier>978-3-7983-2562-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3836/No08_Hashtgerd%20Actor%20Analysis.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

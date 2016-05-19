@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:02Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3198">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3198</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Green IT bei Bayer Business Services </dc:title>
+          <dc:title xml:lang="eng">Green IT at Bayer Business Services</dc:title>
+          <dc:creator>Erek, Koray</dc:creator>
+          <dc:creator>Schmidt, Nils-Holger</dc:creator>
+          <dc:creator>Schilling, Thomas</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Bayer Business Services ist das globale Kompetenz-Zentrum des Bayer-Konzerns für IT- und Business Services. Das Angebot konzentriert sich auf Dienstleistungen in den Kernbereichen IT-Infrastruktur und -Anwendungen, Einkauf und Logistik, Personal- und Managementdienste sowie Finanz- und Rechnungswesen. Die Leistungsstufen reichen von der Beratung über die Entwicklung und den Betrieb von Systemlösungen bis hin zum Business Process Outsourcing, der Übernahme vollständiger Geschäftsprozesse. Mit weltweit 6.457 Mitarbeitern erwirtschaftete Bayer Business Services im Geschäftsjahr 2010 einen Umsatz von 1.091 Millionen Euro. Der Hauptsitz des Unternehmens ist in Leverkusen. Wichtige internationale Standorte sind Pittsburgh, São Paulo, Hongkong, Newbury, Mumbai, Barcelona, Singapur und Berlin. </dc:description>
+          <dc:date>2012-01-12</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3198</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33661</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33661</dc:identifier>
+          <dc:identifier>978-3-7983-2401-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3198/RPiISM_5_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3198/RPiISM_5_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

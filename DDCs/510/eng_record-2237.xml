@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2237">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2237</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Loop Spaces of Riemannian Manifolds</dc:title>
+          <dc:title xml:lang="deu">Schleifenräume Riemannscher Mannigfaltigkeiten</dc:title>
+          <dc:creator>Henrich, Falk-Florian</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">The present thesis approaches the loop space of a Riemannian 3-manifold from a geometric point of view. Loops are immersed circles represented by immersions modulo reparametrizations. In this setup, the loop space appears as the base of an infinite dimensional principal bundle. The tangent space at a loop may be identified with the space of smooth sections of the loop's normal bundle. Affine connections on the loop space are constructed. Firstly, the Levi-Civita connection belonging to the Kähler structure whose metric is the L2 product of normal fields and whose almost complex structure is given by 90-degree left rotation in the normal bundle. Its curvature and topological properties of the induced distance function are analyzed. Secondly, a previously unknown complex linear connection on the loop space is described, which depends only on the conformal class of the 3-manifold. The introduction of a conformally invariant harmonic mean permits the characterization of conformal geodesis as critical points of the corresponding length functional. It is shown that immersed cylinders are geodesics of the conformal connection if and only if they are -- as surfaces -- isothermic and their curvature lines enclose an angle of 45 degrees with the individual loops. The whole construction is then applied to the space of immersed hypersurfaces. Here, geodesics of the conformal connection correspond to critical points of the length functional of an adapted harmonic mean. Moreover, an immersive variation is geodesic if and only if it consists -- up to a conformal change of the metric on the ambient space -- of parallel minimal hypersurfaces. As an example of a special class of loops, conformal circles are discussed. In the three dimensional case, it is shown that they are precisely the critical points of the parallel transport in the normal bundle.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Dissertation nähert sich dem Schleifenraum einer Riemannschen 3-Mannigfaltigkeit vom geometrischen Standpunkt aus: Schleifen sind immersierte Kreise, die durch Immersionen modulo Umparametrisierung dargestellt werden. Der Schleifenraum ist die Basis eines unendlich-dimensionalen Hauptfaserbündels. Der Tangentialraum an einer Schleife wird mit dem Raum der glatten Schnitte des Normalenbündels identifiziert. Es werden affine Zusammenhänge auf dem Schleifenraum konstruiert. Einerseits der Levi-Civita-Zusammenhang, welcher zu einer Kählerstruktur aus L2-Skalarprodukt von Normalenfeldern und einer durch 90-Grad-Linksdrehung im Normalenbündel erklärten fast-komplexen Struktur gehört. Die Krümmung sowie topologische Eigenschaften der zum L2-Produkt gehörenden Abstandsfunktion werden analysiert. Weiterhin wird ein bisher unbekannter komplex linearer Zusammenhang auf dem Schleifenraum eingeführt, welcher nur von der konformen Klasse der 3-Mannigfaltigkeit abhängt. Die Definition eines konform invarianten harmonischen Mittels ermöglicht dann die Charakterisierung konformer Geodätischer als kritische Punkte des zugehörigen Längenfunktionals. Es wird gezeigt, daß immersierte Zylinder genau dann Geodätische des konformen Zusammenhangs sind, wenn sie -- als Fläche betrachtet -- isotherm sind und ihre Krümmungslinien mit den einzelnen Kreisen einen Winkel von 45 Grad einschließen. Die gesamte Konstruktion wird dann auf den Raum der immersierten Hyperflächen angewandt. Die Geodätischen des konformen Zusammenhangs entsprechen hier den kritischen Punkten des Längenfunktionals eines angepaßten harmonischen Mittels. Eine immersive Variation ist genau dann geodätisch, wenn sie -- bis auf eine konforme Änderung der Metrik des umgebenden Raumes -- aus parallelen Minimalflächen besteht. Als Beispiel einer speziellen Klasse von Schleifen werden konforme Kreise betrachtet. Im dreidimensionalen Fall wird gezeigt, daß sie genau die kritischen Punkte des Paralleltransports im Normalenbündel sind.</dc:description>
+          <dc:date>2009-09-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2237</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23199</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23199</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2237/henrich_falk.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

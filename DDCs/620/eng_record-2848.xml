@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2848">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2848</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Micro Perspectives for Decentralized Energy Supply, Proceedings of the International Conference, Technische Universität Berlin, 7th-8th of April 2011</dc:title>
+          <dc:creator>Schäfer, Martina</dc:creator>
+          <dc:creator>Kebir, Noara</dc:creator>
+          <dc:creator>Philipp, Daniel</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This publication presents the papers of the International Conference "Micro Perspectives for Decentralized Energy Supply" on 7th and 8th of April, Technische Universität Berlin. Printed Version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de), ISBN 978-3-7983-2319-3</dc:description>
+          <dc:description xml:lang="deu">Diese Publikation enthält die eingereichten Veröffentlichungen für die Internationale Konferenz "Micro Perspektives for Decentralized Energy Supply" am 7. und 8. April 2011 an der Technischen Universität Berlin. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen, ISBN 3-978-7983-2319-3</dc:description>
+          <dc:date>2011-04-05</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2848</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30142</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30142</dc:identifier>
+          <dc:identifier>978-3-7983-2320-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2848/MPDES_Tagungsband_Onlineversion.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

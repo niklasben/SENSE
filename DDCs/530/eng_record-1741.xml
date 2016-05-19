@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1741">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1741</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Optical Dynamics in Low-Dimensional Semiconductor Heterostructures. Quantum Dots and Quantum Cascade Lasers</dc:title>
+          <dc:title xml:lang="deu">Optische Dynamik in Niederdimensionalen Halbleiterheterostrukturen. Quantenpunkte und Quantenkaskadenlaser</dc:title>
+          <dc:creator>Weber, Carsten</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">This work is focused on the optical dynamics of mesoscopic semiconductor heterostructures, using as prototypes zero-dimensional quantum dots and quantum cascade lasers which consist of quasi-two-dimensional quantum wells. Within a density matrix theory, a microscopic many-particle theory is applied to study scattering effects in these structures: the coupling to external as well as local fields, electron-phonon coupling, coupling to impurities, and Coulomb coupling. For both systems, the investigated effects are compared to experimentally observed results obtained during the past years. In quantum dots, the three-dimensional spatial confinement leads to the necessity to consider a quantum kinetic description of the dynamics, resulting in non-Markovian electron-phonon effects. This can be seen in the spectral phonon sidebands due to interaction with acoustic phonons as well as a damping of nonlinear Rabi oscillations which shows a nonmonotonous intensity and pulse duration dependence. An analysis of the inclusion of the self-interaction of the quantum dot shows that no dynamical local field terms appear for the simple two-level model. Considering local fields which have their origin in many quantum dots, consequences for a two-level quantum dot such as a zero-phonon line broadening and an increasing signal in photon echo experiments are found. For the use of quantum dots in an optical spin control scheme, it is found that the dephasing due to the electron-phonon interaction can be dominant in certain regimes. Furthermore, soliton and breather solutions are studied analytically in nonlinear quantum dot ensembles. Generalizing to quasi-two-dimensional structures, the intersubband dynamics of quantum cascade laser structures is investigated. A dynamical theory is considered in which the temporal evolution of the subband populations and the current density as well as the influence of scattering effects is studied. In the nonlinear regime, the scattering dependence and the importance of coherence for Rabi oscillations is investigated. The optically induced charge dynamics is discussed with respect to coherent effects. Calculations of the electronic density and pump-probe signals within a microscopic theory of dephasing show coherent transport effects such as gain oscillations, in agreement with recent experimental results.</dc:description>
+          <dc:description xml:lang="deu">Das Thema dieser Arbeit ist die optische Dynamik von mesoskopischen Halbleiter-Heterostrukturen. Als Prototypen werden null-dimensionale Quantenpunkte und Quantenkaskadenlaser, welche aus quasi-zwei-dimensionalen Quantenfilmen bestehen, betrachtet. Innerhalb einer Dichtematrixtheorie wird eine mikroskopische Vielteilchentheorie entwickelt, um unterschiedliche Streumechanismen in diesen Strukturen zu untersuchen. Diese beinhalten die Wechselwirkung mit externen sowie lokalen Feldern, Elektron-Phonon-Wechselwirkung, Wechselwirkung mit Dotierungen und Coulomb-Wechselwirkung. Die berechneten Effekte beider Systeme werden mit experimentellen Ergebnissen verglichen, welche in den letzten Jahren gemessen wurden. Die drei-dimensionale räumliche Einschränkung der Ladungsträger in Quantenpunkten und somit die diskreten elektronischen Energiezustände machen eine quantenkinetische Beschreibung notwendig. Dies führt zu nichtmarkovschen Elektron-Phononeffekten. Im Rahmen einer nichtmarkovschen Theorie werden durch akustische Phononen verursachte Seitenbänder in optischen Spektren beschrieben, wie auch eine Dämpfung der Rabi-Oszillationen mit einer komplizierten Abhängigkeit von Anregungsstärke und Pulsdauer. Eine Analyse der Selbstwechselwirkung des Quantenpunkts zeigt, dass im Falle des einfachen Zwei-Niveau-Systems keine dynamischen lokalen Feld-Terme auftreten. Ausgehend von lokalen Feldeffekten, welche ihre Herkunft in Vielelektronensystemen haben, findet man als Konsequenz für das Zwei-Niveau-System eine Verbreiterung der Nullphononenlinie sowie ein ansteigendes Signal in Photonecho-Experimenten. In der Anwendung von Quantenpunkten in einem optischen Spinkontrollschema wird gezeigt, dass die Dephasierung durch die Elektron-Phonon-Wechselwirkung in einem begrenzten Bereich der dominante Effekt sein kann. Darüber hinaus werden analytische Solitonen- und Breatherlösungen in nichtlinearen Quantenpunktensembles untersucht. In Verallgemeinerung auf quasi-zwei-dimensionale Systeme wird die Intersubbanddynamik von Quantenkaskadenlasern untersucht. Innerhalb einer dynamischen Theorie wird sowohl die zeitliche Entwicklung der Subbandbesetzungen und der Stromdichte berechnet als auch der Einfluss der Streuung. Im nichtlinearen Bereich werden der Einfluss der Streuung und die Wichtigkeit der Kohärenz auf Rabi-Oszillationen diskutiert. Die optisch induzierte Ladungsdynamik wird in Bezug auf kohärente Effekte untersucht. Berechnungen der elektronischen Dichte und von Pump-Probe-Signalen innerhalb einer mikroskopischen Streutheorie zeigen kohärente Transportphänomene wie Verstärkungsoszillationen in Einklang mit aktuellen experimentellen Ergebnissen.</dc:description>
+          <dc:date>2008-04-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/plain</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1741</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17869</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17869</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1741/original_noOrig.txt</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1741/weber_carsten.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

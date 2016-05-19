@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1597">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1597</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Konvergenzanalyse von algebraischen Mehr-Gitter-Verfahren für M-Matrizen</dc:title>
+          <dc:title xml:lang="eng">Convergence analysis of algebraic multigrid methods for M-matrices</dc:title>
+          <dc:creator>Mense, Christian</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In dieser Dissertation werden verschiedene theoretische Aussagen über algebraische Mehr-Gitter-Verfahren zur Lösung eines Gleichungssystems aufgestellt. Dabei wird bezüglich der Matrix des Systems nur angenommen, dass sie eine M-Matrix ist. Somit sind die gewonnenen Ergebnisse auch im Falle einer unsymmetrischen oder nicht definiten M-Matrix gültig. Bis auf wenige spezielle Ausnahmen sind für diesen Fall in der Literatur keine Resultate bekannt. Um Ergebnisse für eine große Gruppe von algebraischen Mehr-Gitter-Verfahren zu erhalten, wird zunächst ein allgemeines algebraisches Mehr-Gitter-Verfahren aufgestellt. Auf die Form dieses allgemeinen algebraischen Mehr-Gitter-Verfahrens lassen sich eine Vielzahl von den in der Literatur bekannten Mehr-Gitter-Verfahren bringen. Somit können diese bekannten Verfahren als Spezialfälle des allgemeinen algebraischen Mehr-Gitter-Verfahrens aufgefasst werden. Dies ermöglicht die gewonnenen Ergebnisse für das allgemeine algebraische Mehr-Gitter-Verfahren auch auf diese bekannten Verfahren zu übertragen. Dieses wird exemplarisch für das AMLI- und das MAMLI-Verfahren vorgeführt. Mit Hilfe der so genannten Splittingtheorie wird für das allgemeine algebraische Mehr-Gitter-Verfahren und damit auch für das AMLI- und das MAMLI-Verfahren - die Konvergenz gezeigt, - Abschätzungen der Konvergenzrate entwickelt, - der Einfluss der verwendeten Approximationen und Grob-Gitter-Matrizen untersucht.</dc:description>
+          <dc:description xml:lang="eng">In this dissertation we introduce some new theorems for algebraic multigrid (AMG) methods to solve a linear system of equations. We just assume that the matrix of this system is an M-matrix. Therefore, the results from our analysis are also valid for non-symmetric or even non-definite M-matrices. Especially for non-symmetric and non-definite M-matrices only limited theoretical results exist in the literature so far. To develop results for a wide class of AMG methods, we first introduce a general form of AMG methods. Many existing AMG methods can then be transformed into this general AMG form. These existing methods can now be considered as a special case of the general AMG form. This allow us to derive general theoretical results for the general AMG. For particular method the associated results can be derived by using special constraints in the general AMG form. This is demonstrated for the AMLI- and the MAMLI-method in this dissertation. With the help of the splitting theory we present theorems for the general AMG method and subsequently also for the AMLI- and MAMLI-method - to prove the convergence, - to develop a bound for the convergence rate, and - to study the influence of some ingredients associated with the methods and as well coarse-grid matrices.</dc:description>
+          <dc:date>2007-10-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1597</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16581</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16581</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1597/mense_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

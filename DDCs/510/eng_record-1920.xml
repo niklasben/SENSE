@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1920">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1920</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Survival, complete convergence and decay of correlations for a spatial branching system with local regulation</dc:title>
+          <dc:title xml:lang="deu">Überleben, Konvergenz und Korrelationsabfall für ein räumliches verzweigendes System mit lokaler Regulierung </dc:title>
+          <dc:creator>Depperschmidt, Andrej</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">We consider a spatial branching particle system with locally regulated mean of the offspring distribution. The regulation at one site is of logistic type and depends on a weighted average of the population density in the neighbourhood of that site. Due to the local regulation particles reproduce sub-critically in overcrowded regions and super-critically in sparsely populated regions. We choose Poisson distribution as the offspring distribution. The model describes in discrete time the evolution of a population on $\Z^d$ in which individuals compete for some resources. The generations are non-overlapping, i.e. each individual dies after one unit of time and leaves behind a random number of offspring according to the offspring distribution. The offspring move instantaneously to a new location chosen according to a random walk kernel. After that individuals do not move until the next reproduction step. The local regulation is not only plausible from the ecological point of view. It also endows the system with stability, which is lacking in the case of branching random walks in dimension smaller than or equal to two. It is known that in these dimensions branching random walks die out locally or grow beyond all bounds. We show that for certain parameters the locally regulated system has positive survival probability starting from any non-trivial initial conditions. Here we call initial conditions trivial if, starting with these conditions the population dies out almost surely within one step. Furthermore, using a coupling argument we prove existence and uniqueness of a non-trivial extremal invariant distribution. As the zero-configuration is absorbing, the Dirac measure in that configuration is trivially invariant. The proofs use comparison of suitable events with oriented percolation. For the non-trivial invariant distributions of the oriented percolation and of the locally regulated model we prove exponential decay of the space and time correlations. If in the locally regulated model we replace Poisson random variables by their means, then we obtain deterministic spatial dynamical system. As a by-product of the proof of the coupling result we classify the equilibria and their domain of attraction of that deterministic system.</dc:description>
+          <dc:description xml:lang="deu">Wir betrachten ein räumliches verzweigendes Teilchensystem mit lokal reguliertem Mittelwert der Nachkommensverteilung. Die Regulierung an einem Ort ist vom logistischem Typ und hängt von einem gewichteten Mittelwert der Populationsgrößen in der Nachbarschaft des Ortes ab. Sie bewirkt, dass sich Teilchen in überfüllten Regionen subkritisch und in dünnbesetzten Regionen superkritisch vermehren. Als Nachkommensverteilung wählen wir hier die Poissonverteilung. Das Modell beschreibt in diskreter Zeit die Evolution einer Population auf $\Z^d$, in der Individuen untereinander um Ressourcen irgendeiner Art konkurrieren. Die Generationen sind nicht überlappend, d.h. jedes Individuum stirbt nach einer Zeiteinheit und hinterlässt Nachkommen gemäß der Nachkommensverteilung. Die Nachkommen machen instantan einen Schritt gemäß einem Irrfahrtskern und bewegen sich nicht mehr bis zum nächsten Reproduktionsschritt. Die lokale Regulierung des Erwartungswertes der Nachkommensverteilung ist nicht nur plausibel für ein ökologisches Modell. Sie verleiht dem System auch Stabilität, die beispielsweise verzweigenden Irrfahrten auf $\Z^2$ fehlt. In Dimensionen kleiner oder gleich zwei sterben Verzweigende Irrfahrten lokal aus oder wachsen über alle Schranken. Wir zeigen, dass in bestimmten Parameterbereichen für nicht-triviale Anfangsbedingungen die Population positive Überlebenswahscheinlichkeit hat. Dabei nennen wir eine Anfangsbedingung trivial, falls die Population mit Wahrscheinlichkeit eins sofort ausstirbt startend mit dieser Bedingung. Ferner beweisen wir durch ein Kopplungsargument, dass im weiter eingeschränktem Parameterbereich das System genau zwei extremale invariante Maße besitzt, wobei das Dirac Maß in der Nullkonfiguration trivialerweise invariant ist, weil diese Konfiguration für das System absorbierend ist. Die Beweise der obigen Resultate basieren auf Vergleichen mit gerichteter Perkolation. Für die nicht-trivialen invarianten Maße der gerichteten Perkolation und des lokal regulierten Systems zeigen wir, dass sie exponentiell abfallende räumliche und zeitliche Korrelationen haben. Als Nebenprodukt des Kopplungsbeweises klassifizieren wir die Fixpunkte und Anziehungsbereiche des räumlichen dynamischen Systems, das man erhält, wenn man in der Definition des ursprünglichen Systems die Poisson verteilten Zufallsvariablen durch die Erwartungswerte ersetzt.</dc:description>
+          <dc:date>2008-09-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-gzip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1920</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19743</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19743</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1920/original_depperschmidt_andrej.tar.gz</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1920/depperschmidt_andrej.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

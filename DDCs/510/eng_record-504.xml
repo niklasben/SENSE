@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:504">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:504</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Spectral properties of a class of analytic operator functions and their linearizations</dc:title>
+          <dc:title xml:lang="deu">Spektrale Eigenschaften einer Klasse analytischer Operatorfunktionen und ihrer Linearisierungen</dc:title>
+          <dc:creator>Trunk, Carsten</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit untersuchen wir eine Operatorfunktion T in einem Kreinraum, welche formal geschrieben werden kann als T(z) = z -A + B+(D-z)-1B, wobei anstelle des letzten Terms auf der rechten Seite eine bezüglich A relativ formkompakte Störung ähnlicher Gestalt steht. Die Operatorfunktion -T-1 kann dann mittels der Resolvente eines in einem Kreinraum selbstadjungierten Operators M, der eine relativ formkompakte Störung von A × D ist, dargestellt werden. Wir beschreiben die Beziehungen zwischen der Operatorfunktion T und dem Operator M, insbesondere untersuchen wir das Spektrum, das Punktspektrum und das Spektrum positiven bzw. negativen Typs. Unter bestimmten Voraussetzungen an die Operatoren A, B und D ist M ein definisierbarer Operator und -T-1 eine definisierbare Operatorfunktion. In diesem Fall beschreiben wir die Beziehungen zwischen dem Spektrum positiven bzw. negativen Typs, einschließlich der entsprechenden Vielfachheiten, von M und -T-1. Die dabei gewonnenen Ergebnisse werden auf ein Sturm-Liouville-Problem angewandt, bei dem die Koeffizienten rational vom Eigenwertparameter abhängen. In diesem Fall entspricht die Operatorfunktion T dem Differentialausdruck py'' +z y + q1,+(u1,+ - z)-1 y + ... + qn+,+(un+,+ - z)-1 y + q1,-(u1,- - z)-1 y + ... + qn-,-(un-,- - z)-1 y auf dem Interval I := [-1,1]. Dabei ist z eine komplexe Zahl, p ein einfaches indefinites Gewicht, und qj,±, uj,± sind reellwertige meßbare Funktionen, die bestimmten Voraussetzungen genügen. Weiterhin betrachten wir den Fall, daß der obige Differentialausdruck auf der Halbachse I=[0,infty) mit p = 1 erklärt ist.</dc:description>
+          <dc:description xml:lang="eng">We consider an operator function T in a Krein space which can formally be written as T(z) = z -A + B+(D-z)-1B, but the last term on the right is replaced by a relatively form-compact perturbation of a similar form. The operator function -T-1 can be represented via the resolvent of a selfadjoint operator M in some Krein space. The operator M is a relatively form-compact perturbation of the operator A × D. We study relations between the operator function T and the operator M. In particular we consider the spectrum, the point spectrum and the spectrum of positive or negative type. Under some assumptions on the operators A, B and D the operator M is a definitizable operator and -T-1 is a definitizable operator function. In this case we describe the relation between the spectrum of positive or negative type of M and -T-1, including multiplicities. The results are applied to a Sturm-Liouville problem with a coefficient depending rationally on the eigenvalue parameter. In particular, the operator function T is given by the expression py'' +z y + q1,+(u1,+ - z)-1 y + ... + qn+,+(un+,+ - z)-1 y + q1,-(u1,- - z)-1 y + ... + qn-,-(un-,- - z)-1 y on the interval I := [-1,1]. Here z is a complex number, p a simple indefinite weight and qj,±, uj,± are real valued measurable functions satisfying some further assumptions. Moreover, we consider the case of the half-axis I = [0,infty) with p=1.</dc:description>
+          <dc:date>2003-01-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/504</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4994</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4994</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/504/trunk_carsten.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

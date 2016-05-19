@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1329">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1329</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zur nichtlinearen Simulation der Wärmeentwicklung in Elastomer-Kupplungen infolge schwingender Beanspruchung</dc:title>
+          <dc:title xml:lang="eng">To nonlinear simulation of the temperature development in elastomer couplings through oscillating loading</dc:title>
+          <dc:creator>Öztürk, Kemal</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Durch den Einsatz drehelastischer Kupplungen kann das Schwingungsverhalten von Antriebssträngen in erheblichem Umfang beeinflusst werden. Zur Vorhersage dieses Drehschwingungsverhaltens mit Simulationsprogrammen werden ausreichend genaue Kupplungswirkmodelle benötigt, die sowohl das Steifigkeits- und Dämpfungsverhalten als auch das Temperaturverhalten der Kupplungen für alle relevanten Betriebszustände beschreiben können. Ein wichtiger Schritt zur Kennzeichnung des Kupplungsverhaltens für stationären und instationären Betrieb gelang in vorlaufenden Forschungsvorhaben mit sog. Kupplungswirkmodellen, die durch Zusammenschalten verschiedener rheologischer Elemente für Federn und Dämpfer, ergänzt um Kontakt- und Spielelemente, aufgebaut werden können. Der Einsatz solcher Kupplungswirkmodelle wurde in der Industrie vielfach erfolgreich erprobt. Ein Nachteil dieser Kupplungswirkmodelle ist allerdings, dass die kennzeichnenden Modellparameter für jede Kupplung vorab mittels harmonischer Torsionsversuche bei unterschiedlichen Frequenzen und Amplituden bestimmt werden müssen und selbst für ähnliche Kupplungen kein ausreichend genaues Verfahren zur Umrechnung der Kupplungs-Modellparameter auf andere Kupplungsgrößen existiert. Eine Einschränkung der Anwendbarkeit bisheriger Kupplungswirkmodelle ergibt sich weiter aus der Tatsache, dass die Kupplungsparameter auch vom aktuellen Betriebszustand, speziell der zeitlich veränderlichen Temperaturverteilung und der Alterung, abhängen. Mit den Kupplungswirkmodellen können jedoch keine mehrachsigen Beanspruchungszustände aus komplexen Belastungen, die zur Lebensdauervorhersage benötigtnötigt werden, bestimmt werden, sofern sich keine geschlossenen Hystereseschleifen einstellen. Zur Bestimmung solcher Beanspruchungszustände sind höherwertige Simulationsberechnungen erforderlich, die auf einer genaueren Beschreibung des Materialverhaltens gefüllter Elastomere aufsetzen. In der vorliegenden Arbeit wurde angestrebt, eine solche höherwertige Berechnungsmethode zu entwickeln und zu erproben. Hierzu wurden verschiedene Materialmodelle mit temperaturabhängigen Materialparametern, u. a. das Kilian- und das Ogden-Modell für das Elastomerverhalten und das Pirscher-Modell für gefüllte Elastomere analysiert. Zur Simulation des Steifigkeits- und Dämpfungsverhaltens und der Wärmeentwicklung in einer Standard-Prüfkupplung wurde ein FEM/FVM-Programmsystem entwickelt und getestet. Weiter wurden zur Bestimmung der Modellparameter Torsionsschwingungsversuche durchgeführt. Bei der Bestimmung der Materialparameter ergaben sich infolge der langsamen Drift der Steifigkeits- und Dämpfungskennwerte wegen der beim Prüfbetrieb auftretenden inhomogenen Wärmeentwicklung in der Prüfkupplung erhebliche Ungenauigkeiten. Es zeigte sich, dass auf ergänzende Schwingversuche mit dominanten Normalspannungsanteilen nicht verzichtet werden kann. Zusätzlich ergab sich, dass bei ungünstig gewählten Modellparametern das Kilian-Modell zu numerischen Problemen neigt, was die Parameteroptimierung zusätzlich erschwerte. Vom Ogden-Modell werden günstigere numerische Eigenschaften erwartet. Vor dem Einbau der Materialgesetze in ein kommerzielles FEM-Programmsystem sind ergänzende Untersuchungen, die in der Arbeit angeregt werden, durchzuführen.</dc:description>
+          <dc:description xml:lang="eng">The application of torsionally flexible Couplings can influence the vibration behaviour of power trains in a strong manner. It is necessary to have exact models for the Forecasting of this vibration behaviour through Simulations. These models should be able to describe the stiffness, damping and temperature characteristics of the coupling. An important step to characterize the behaviour of the coupling for stationary and in-stationary running has been investigated in previous research projects. Rheological models consisting of spring and damper have been used an these models were validated in many industrial applications. Nevertheless rhelogical models have the great handicap´, that many measurements are necessary for the system identifica-tion. It is also not possible to calculate the parameters for different coupling sizes. Another constriction for the use of these parameters is their dependence on the temperature state of the coupling. With an rheological substitute model for the coupling It is not possible to analyse the multiaxial stress state resulting from am complex loading. It is necessary to describe the behaviour of the filled elastomere with the help of constitutive models. It was the aim of this work to develope und test such a constitutive model for the vi-brational behaviour of the coupling.</dc:description>
+          <dc:date>2006-08-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1329</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13622</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13622</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1329/oeztuerk_kemal.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1417">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1417</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung von Melodiesuchsystemen sowie Verfahren zu ihrer Funktionsprüfung</dc:title>
+          <dc:title xml:lang="eng"> Analysis of systems for melody search and methods for functional testing</dc:title>
+          <dc:creator>Batke, Johann-Markus</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Durch die Flut von digitalen Musikstücken im Internet und auf Datenspeichern gewinnt die Suche nach einzelnen Musikstücken gegenwärtig stark an Bedeutung. So ermöglicht etwa ein mobiles Wiedergabegerät wie der Apple iPod ohne weiteres die Speicherung von 5.000 Titeln. Bislang können einzelne Musikstücke aus einer solchen Datenmenge nur durch die Eingabe von Titel oder Interpret ausgewählt werden. Ein typisches Problem ist es aber, dass dem Musiksuchenden diese Informationen nicht gegenwärtig sind, sondern er sich lediglich an die Melodie erinnern kann. Technisch gesehen handelt es sich beim Auffinden einzelner Musikstücke aus einer großen Menge von Titeln um die Suche in einer Musikdatenbank. Wenn dem Suchenden nur die Melodie bekannt ist, muss folglich deren unmittelbare Eingabe in das Suchsystem möglich sein. Diese Anforderung wird von einem Query-by-Humming-System (QBH-System) erfüllt: Die Melodie kann dem System vorgesummt werden und eine Anzahl ähnlicher Melodien der Musikdatenbank werden als Suchergebnis präsentiert. Diese Dissertation erläutert Funktionsprinzipien von QBH-Systemen und untersucht, wie eine Funktionsprüfung der einzelnen Systemteile erfolgen kann. Zur fundierten Bewertung der Funktionen werden die wichtigsten Grundlagen dargelegt. Ein Kapitel zu Musik und Melodie erläutert den Melodiebegriff und Möglichkeiten der Melodiebeschreibung. Eine Übersicht zu bestehenden Melodie- und Musiksuchmaschinen wird anschließend gegeben. In einem speziellen Kapitel werden geeignete Multimedia-Standards betrachtet. Die Aufgaben der Signalverarbeitung werden in den Kapiteln zur monophonen und polyphonen Transkription ausführlich dargestellt. Verfahren zum Melodievergleich werden im anschließenden Kapitel behandelt. Ein besonderes Merkmal der vorliegenden Arbeit ist die ausführliche Untersuchung der statistischen Eigenschaften der in QBH-Systemen verwendeten Melodiedatenbanken.</dc:description>
+          <dc:description xml:lang="eng">Since plenty of digital files of music are available in the world wide web the search for melodies gains more and more importance. A mobile playback device like Apple's iPod is capable to store 5,000 titles easily. Up to now single pieces of music are only found in such a volume knowing the title or interpret of a tune. However, it is a typical problem that someone searching a tune is not aware of this information and knows only the melody. Technically speaking this problem is a search in a music database. If the user only knows the melody, the melody should be provided to the search system. A query-by-humming system (QBH-system) provides this possibility: the melody is hummed and the system presents a number of similar melodies as a result of this query. The thesis explains the principles of QBH-systems and evaluates methods to test the functionallity of all single system parts. All important fundamentals regarding to the functions are explained. The chapter music and melody explains the meaning of the term melody and possible melody descriptions. An overview of existing melody and music search engines is given subsequenctly. A special chapter deals with multimedia standards for use with such systems. The role of signal processing for melody transcription is described in the monophonic and polyphonic case detailly. Measurements of melody similarity are shown in the following chapter. In the last chapter this thesis features especially the statitics of melody databases inside search engines.</dc:description>
+          <dc:date>2007-01-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1417</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14521</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14521</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1417/batke_jahann.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

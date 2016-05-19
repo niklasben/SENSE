@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1106">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1106</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Computational Methods for Riemann Surfaces and Helicoids with Handles</dc:title>
+          <dc:title xml:lang="deu">Numerische Methoden für Riemannsche Flächen und Helikoide mit Henkeln</dc:title>
+          <dc:creator>Schmies, Markus</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">We develop methods for the numerical treatment of Riemann surfaces and apply them to the problem of computing and visualizing helicoids with handles. Using Schottky uniformization to represent Riemann surfaces, we explicitly express differentials and integrals of the Riemann surfaces as series, and we find a priori criteria for their convergence that can be evaluated efficiently. We also develop algorithms for the evaluation of these series within prescribed error bounds and study their efficiency. Riemann theta functions are a basic technical tool for the description of finite gap solutions of integrable systems. We give a survey of computational methods for their evaluation and present new implementations as well as new algorithms and compare them with current methods. As an application we perform numerical experiments resulting in images of helicoids with up to six handles. Our numerical experiments strongly suggest that there exists exactly one embedded helicoid of a given genus. We also obtain immersed examples of genus-one helicoids with less symmetry than previously known examples. We close with a description of the software libraries that have been created in the context of this thesis.</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden Methoden für die numerische Behandlung von Riemannschen Flächen entwickelt und auf das Problem der Berechnung und Visualisierung von Helikoiden mit Henkeln angewandt. Als Darstellungsform der Riemannschen Flächen wird die Uniformisierung durch Schottky Gruppen benutzt. Die Schottky Uniformisierung ermöglicht eine geschlossene Darstellung von Differentialen und Integralen in Form bestimmter Reihen, falls diese konvergieren. Für die wichtigsten dieser Reihen werden Apriori-Konvergenzkriterien bewiesen, die effizient durch einen Computer auswertbar sind. Weiter werden Algorithmen zur Auswertung dieser Reihen innerhalb vorgegebener Fehlertoleranzen entwickelt und deren Effizienz anhand von Beispielen untersucht. Des Weiteren wird ein Überblick über die numerische Behandlung von Riemannschen Theta Funktionen gegeben. Es werden neue Vorschläge für die algorithmische Umsetzung gegeben und ihr Verhalten anhand von Beispielen untersucht und mit den gebräuchlichen Methoden verglichen. Nach einer kurzen Einführung in die Theorie der Helikoide mit Henkeln werden die zur numerischen Behandlung notwendigen Größen in das Schottky Uniformisierungsbild übersetzt. Anschließend werden die für die Berechnung und Visualisierung der Helikoide notwendigen numerischen Methoden, die über das vorangestellte hinausgehen, erörtert. Dabei werden insbesondere verschiedenen Integrationsverfahren und Methoden zur Lösung von nichtlinearen Gleichung mehrerer Veränderlichen verglichen und die Stabilität ihrer Lösungen untersucht. Daran schließt sich eine Beschreibung der numerischen Experimente und deren Ergebnisse, einschließlich der gefundenen Flächen, an. Abschließend werden die in diesem Zusammenhang entstandenen Software-Bibliotheken beschrieben.</dc:description>
+          <dc:date>2005-09-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1106</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11051</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11051</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1106/schmies_markus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

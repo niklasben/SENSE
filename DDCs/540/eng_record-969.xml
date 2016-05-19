@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:969">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:969</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Herstellung molekular geprägter Polymere (MIPs) unter Einsatz chiraler und nicht-chiraler Template und Anwendung dieser MIPs in Separation und Katalyse</dc:title>
+          <dc:title xml:lang="eng">Preparation of molecularly imprinted polymers (MIPs) using chiral and non-chiral templates and the application of these MIPs in separation and catalysis</dc:title>
+          <dc:creator>Visnjevski, Aleksandra</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der modernen Reaktionstechnik werden hohe Anforderungen insbesondere an katalytisch aktive Materialien hinsichtlich Selektivität und Effizienz, aber auch Stabilität und Langlebigkeit gestellt. Derzeit werden entweder teure Edelmetallkatalysatoren eingesetzt oder es wird vielfach mit biologischen Katalysatoren gearbeitet, hauptsächlich mit immobilisierten Enzymen, deren Haltbarkeiten in der Regel nur kurz sind. Als Alternative bieten sich biomimetische Katalysatoren an, wie z.B. molekular geprägte Polymere. Unter molekularem Prägen ("molecular imprinting") versteht man die Erzeugung künstlicher Rezeptoren bzw. Antikörper ("plastibodies") durch die Polymerisation von funktionellen Monomeren und Quervernetzern in Anwesenheit von Templatmolekülen. Nach dem Eluieren des Templats entstehen spezifische molekulare Abdrücke so genannte MIPs ("molecularly imprinted polymers"), die in der Lage sind, das Templat auf molekularer Ebene zu erkennen, und somit zur Separation des Templats aus Analytgemischen verwendet werden können. Wählt man das Templat nach besti ten Kriterien, so können die Abdrücke als katalytisch aktive Zentren agieren ("plastizymes"). Ziel dieser Arbeit war es, molekular geprägte Polymere zu generieren und deren Verwendbarkeit in der Separation und Katalyse zu untersuchen. Dazu wurden MIPs in der Chromatographie auf ihre Affinität zum verwendeten Templat getestet und in Reaktoren hinsichtlich ihrer katalytischen Aktivitäten und ihres Materialverhaltens charakterisiert. Ein weiterer Schwerpunkt wurde in die Herstellung und Anwendung enantioselektiver MIPs gesetzt.</dc:description>
+          <dc:date>2005-05-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/969</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9625</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9625</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/969/visnjevski_aleksandra.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

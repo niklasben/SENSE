@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3563">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3563</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">An Agent-Based Approach to Service-Oriented Architectures</dc:title>
+          <dc:title xml:lang="deu">Ein agentenbasierter Ansatz für dienstorientierte Architekturen</dc:title>
+          <dc:creator>Konnerth, Thomas</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">A prominent approach in modern software development is to reuse existing code and functionality by wrapping them with service descriptions. These services are then made available to other applications via the Internet. As this service-based approach to software engineering is influencing all areas of information technology, agent-oriented technologies are also being refined with this paradigm. To achieve the combination of service-oriented architectures (SOA) and multi-agent systems, we describe an agent architecture named JIAC V that follows the defining principles of service-oriented architectures. This means that the traditional strengths of agent technology, namely coordination, cooperation, and intelligent behavior, are employed to realize and augment the vision of a flexible service-oriented architecture. Our architecture features three types of agents that follow the SOA principles. These range from agents that simply provide basic services up to agents that are able to compose the services and reason about their objectives. In detail, we describe a simple reactive agent type, a BDI-based agent type, and last but not least an agent that supports learning, reasoning, and other advanced AI-techniques. All of these coexist within the same architecture and consequently within the same applications, as we regard an architecture with only a single agent model as too static for real world applications. The objective of this approach is to create an agent framework for the development of various applications that provides appropriate tools for different tasks. For example, simple tasks within an application can be solved by simple agents, while the more complex and powerful agent types are employed for the real challenges. The core components and concepts of the JIAC V architecture have been tested and evaluated within proof-of-concept implementations and application projects. We describe our experience with these projects and give an analysis of the performance of the architecture in different applications.</dc:description>
+          <dc:description xml:lang="deu">Ein weit verbreiteter Ansatz zur Wiederverwendung in der modernen Softwareentwicklung besteht darin, Funktionalitäten mit Hilfe von Dienstbeschreibungen zu entkoppeln und somit für andere Anwendungen zur Verfügung zu stellen. Dieser dienstorientierte Ansatz hat inzwischen alle Bereiche der Informatik beeinflusst, so dass sich konsequenterweise auch die agentenorientierte Softwareentwicklung in diese Richtung entwickelt. Um diese Vereinigung von Agentenorientierung und Dienstorientierung gemäß dem Service-Oriented Architecture (SOA) Modell zu realisieren, wird in dieser Arbeit eine Agentenarchitektur namens JIAC V vorgestellt, welche die entscheidenden Konzepte und Eigenschaften des SOA-Modells umsetzt. Dabei sollen die bekannten Stärken der Agententechnologie, wie Koordination, Kooperation und intelligentes Problemlösen, eingesetzt werden, um das SOA-Paradigma zu ergänzen. Die Agentenarchitektur beinhaltet drei verschiedene Typen von Agenten, welche unterschiedliche Aufgaben in einer Anwendung wahrnehmen können. Im Einzelnen sind das ein simpler reaktiver Agententyp, ein BDI-basierter Agent und ein Agentenmodell, welches die Agenten um Lernfähigkeiten und andere KI-Verfahren erweitert. All diese Agententypen können innerhalb derselben Anwendung verwendet werden, um sicherzustellen, dass für jede Aufgabe ein passender Agententyp bereitsteht. Einfache Aufgaben können mit reaktiven Agenten realisiert werden, während für komplexere Aufgaben wie Dienstkomposition oder zielorientiertes Handeln BDI-Agenten verfügbar sind. Damit sollen das Design und die Entwicklungsarbeit von verteilten Agentensystemen vereinfacht werden. Die Kernkomponenten sowie die Konzepte der beschriebenen Architektur wurden bereits in mehreren Anwendungsprojekten eingesetzt. Die Erfahrungen und Ergebnisse aus diesen Projekten werden am Ende der Arbeit vorgestellt und analysiert, um die Leistungsfähigkeit der Architektur zu evaluieren.</dc:description>
+          <dc:date>2012-12-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3563</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37906</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37906</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3563/konnerth_thomas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

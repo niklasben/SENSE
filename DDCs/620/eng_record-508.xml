@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:508">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:508</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung der Datenübertragung mit oberflächenemittierenden Laserdioden (VCSELs) in kurzen optischen Datenübertragungsstrecken</dc:title>
+          <dc:creator>Zei, Li-Gao</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden Übertragungseigenschaften von VCSELs für die Datenübertragung in kurzen Verbindungsstrecken untersucht, wobei selektiv-oxidierte VCSELs mit Emissionswellenlängen um 850nm als Untersuchungsobjekte dienten. Aufgrund der extrem kurzen Resonatorlänge kann im VCSEL zwar nur ein longitudinaler Mode anschwingen, die relativ große laterale Dimension erlaubt jedoch die Anregung von mehreren transversalen Moden. Ziel der Arbeit war die Erstellung von einfachen mathematischen Modellen, die zur Aufklärung der komplexen Zusammenhänge in VCSELs beitragen sollten. Mit einem einfachen 2-Polarisationen-Modell wurden die Eigenschaften von transversal einmodigen VCSELs untersucht. Besonderes Augenmerk bei der Untersuchung galt dem Betrieb mit Vorstrom unterhalb der Schwelle. Ein solcher Betrieb würde zwar den elektrischen Schaltkreis erheblich vereinfachen, ist aber zwangsweise mit einer längeren Einschaltverzögerung und dem Bitmuster-Effekt verknüpft. Mit einem hergeleiteten analytischen Ausdruck für die zeitliche Fluktuation der gesamten Einschaltverzögerung unter Berücksichtigung des spontanen Emissionsrauschens und des Bitmuster-Effekts war es möglich, die BER in Abhängigkeit vom Modulationsstrom zu schätzen und den Arbeitsbereich bei einer vordefinierten BER zu bestimmen. Kommerziell erhältliche VCSELs für Gigabit-Ethernet Anwendungen sind i. Allg. transversal mehrmodig. Das Modenverhalten in einem mehrmodigen VCSEL ist aufgrund der unterschiedlichen Feldverteilungen der Moden sehr komplex. Mit einem einfachen 2-Moden-Modell wurde das Konkurrenzverhalten zwischen zwei transversalen Moden untersucht. Aufgrund des unterschiedlichen optischen Gewinns oder der Verluste besitzen die Moden unterschiedliche Schwellenströme und schwingen bei einer Strommodulation zu unterschiedlichen Zeitpunkten an. Nach anfänglichen Relaxationsschwingungen mit der Relaxations-Resonanzfrequenz erreichen die Moden infolge einer negativen Korrelation ihre stationären Werte. Diese negative Korrelation stellt eine langsame Modulation mit der Mode-Partition-Frequenz dar und äußert sich in Form einer zusätzlichen Rauscherhöhung in niederfrequenten Rausch-Spektren der einzelnen Moden, während das Rauschspektrum der Gesamtleistung kaum beeinträchtigt wird. Mit Hilfe der aus einer Kleinsignal-Analyse hergeleiteten analytischen Formeln wurde festgestellt, dass die Größe der Mode-Partition-Frequenz von der Feldüberlappung der Moden abhängt. Um Wechselwirkungen zwischen mehreren transversalen Moden zu untersuchen, wurde im Rahmen der Arbeit ein erweitertes Mehrmoden-Modell entwickelt. Das Modell berücksichtigt alle im Resonator geführten Moden durch Aufstellung von Ratengleichungen für jeden einzelnen Mode und das Spatial Hole Burning sowie die Ladungsträgerdiffusion durch Aufteilung der aktiven Zone in mehrere Bereiche. Anhand des Modells lassen sich die Einflussgröße identifizieren und den Aufbau von VCSELs nach Bedarf optimieren. Das Modenverhalten und dessen Einfluss auf die Übertragungsgüte der VCSELs bildeten den Schwerpunkt der Untersuchung, die durch Veränderung der internen und externen Einflussfaktoren vorgenommen wurde. Im Hinblick auf die zukünfige 10-Gigabit-Ethernet Anwendung muss die gesamte spektrale Bandbreite der Lichtemission wegen der chromatischen Dispersion in der Faser gering sein. Eine externe Moden- bzw. Wellenlängenfilterung zur Reduktion der spektralen Bandbreite würde das Intensitätsrauschen um mehrere 10dB erhöhen und die Pulsform der übertragenen Bits stark verzerren. Wenn die externe Modenfilterung aber allein durch unbeabsichtigen Faserversatz bei der Faser-Chip-Kopplung entsteht, die i. Allg. nicht größer als 10µm sein dürfte, so wird die Übertragungs-performance kaum beeinträchtigt, solange Multimodefaser (MMF) als Übertragungsmedium verwendet wird.</dc:description>
+          <dc:date>2002-07-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/508</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5033</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5033</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/508/zei_li.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

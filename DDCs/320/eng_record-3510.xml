@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3510">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3510</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:320</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Netze als Rückgrat der Energiewende – Hemmnisse für die Integration erneuerbarer Energien in Strom-, Gas- und Wärmenetze</dc:title>
+          <dc:title xml:lang="eng">Energy Grids as Backbone of the Energy Transition – Impediments for the Integration of Renewable Energy into Electricity Networks, Gas Distribution Systems and District Heating</dc:title>
+          <dc:creator>Bruns, Elke</dc:creator>
+          <dc:creator>Futterlieb, Matthias</dc:creator>
+          <dc:creator>Ohlhorst, Dörte</dc:creator>
+          <dc:creator>Wenzel, Bernd</dc:creator>
+          <dc:subject>ddc:320</dc:subject>
+          <dc:description xml:lang="deu">Der Anteil erneuerbarer Energien (EE) an der Energieversorgung in Deutschland wächst kontinuierlich und soll bis zum Jahr 2050 mindestens 60 % am Endenergiebedarf decken. Im Stromsektor stellen die Netze einen Flaschenhals für die Energiewende dar. Das Vorhaben fragt nach den ökonomischen, technischen, rechtlichen, administrativen und gesellschaftlichen Restriktionen, die es für die Integration erneuerbarer Energien nicht nur im Stromsektor, sondern auch in Gas- und Wärmenetzen zu überwinden gilt. Ziel ist es, das Problemfeld der Integration erneuerbarer Energien in den drei Versorgungssektoren in einer Gesamtschau zu strukturieren, offene Forschungsfragen zu verdeutlichen und Ansatzpunkte zur Überwindung der Restriktionen zu liefern. Mit Hilfe von Konstellationsanalysen wird der komplexe Untersuchungsgegenstand strukturiert; sie fassen das Ergebnis der Analyse grafisch zusammen. Ausgangspunkt der Analyse sind die notwendigen Ausbau- und Modernisierungsmaßnahmen an den technischen Infrastrukturen, d. h. den Transportleitungen und ihren Nebenanlagen sowie die zur Aufrechterhaltung der Versorgungssicherheit notwendige Steuerung. Die größten Herausforderungen stellen sich bei der Integration hoher EE-Anteile in das Stromnetz. Auch wenn in der Gas- und Wärmeversorgung kein vergleichbarer Integrationsdruck besteht, sind diese beiden Anwendungsbereiche für erneuerbare Energien nicht zuletzt wegen der sich abzeichnenden Schnittstellen zwischen den Sektoren von Bedeutung. Das Vorhaben zeigt die zunehmenden Interdependenzen zwischen Erzeugung, Transport und Speicherung auf und erfasst auch die zukünftigen Schnittstellen zwischen den Sektoren. Indem zersplittertes Wissen zusammengeführt und transparent gemacht wird, verbessern sich die Voraussetzungen für zukünftige Steuerungsentscheidungen. Online-Version, im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen</dc:description>
+          <dc:description xml:lang="eng">The share of renewable energy in the German energy supply is growing steadily. It is expected to contribute at least 60 % to the final energy demand by 2050. In the electricity sector, the power grids constitute a bottleneck for the energy transition. The project explores the economic, technical, legal, administrative and social impediments that have to be resolved in order to integrate renewable energy not only in the electricity grids but into the gas distribution systems and district heating networks as well. The aim is to structure the problem area from a holistic perspective, to clarify open research questions and to provide starting points to overcome these impediments. The methodology of constellation analysis, an interdisciplinary bridging concept, was applied to structure the complex object of investigation and to summarize the findings graphically in constellations. Starting point of the analysis is the need for expansion and modernization of the technical infrastructure, comprising the transmission lines, its ancillary facilities and the control systems to safeguard voltage stability and security of supply. The integration of high shares of renewable energy into the electricity grid poses the biggest challenge amongst the three sectors. Even though the pressure for integrating renewable energy is lower in the gas and district heating supply, these areas assume increasing significance not least due to the apparent need for future interlinkages between the supply sectors. Besides outlining the growing interdependencies between energy generation, transport, and storage, the project also covers the future interconnections between sectors. Consolidating the fragmented knowledge and enhancing its transparency will improve the preconditions for future political steering decisions. Online-Version, published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de)</dc:description>
+          <dc:date>2012-10-31</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3510</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37305</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37305</dc:identifier>
+          <dc:identifier>978-3-7983-2471-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3510/netze_rueckgrat_energiewende.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

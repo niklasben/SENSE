@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:146">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:146</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mathematische Modellierung und Lösung von Optimierungsproblemen bei der Planung von Telefonnetzen</dc:title>
+          <dc:title xml:lang="eng">Mathematical modeling and solution of optimization problems arising in telephone network planning</dc:title>
+          <dc:creator>Stolle, Hermann</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Diese Doktorarbeit behandelt praktische Probleme, die mit der Planung von Telefonnetzwerken zusammenhängen. In einem speziellen Fall in der Arbeit sollen Endverteiler eines Stadtbereichs an Bereichsverteiler mit Kabeln und weiteren Verteiler angeschlossen werden. Die Kabel sind in Tiefbau zu verlegen. Die Länge der Kabelverbindung ist beschränkt. Gesucht ist ein Netzwerkentwurf, der alle diese Nebenbedingungen erfüllt und dessen Kosten minimal sind. Die Modellierung dieses praktischen Prolems wird ausführlich diskutiert. Ein mathematisches Optimierungsproblem in gerichteten Graphen, das Kabelproblem, wird für dessen Lösung vorgeschlagen. Das Kabelproblem ist ein NP-schweres Optimierungsproblem. Es enthält das Steinerbaum-Problem in gerichteten Graphen als Spezialfall. Wir untersuchen eine Generalisierung des Kabelproblems, das Netzproblem, um Resultate zu erzielen, die auch für Modifikationen des Kabelproblems genutzt werden können. Wir beschreiben Problemreduzierungen und -transformationen und führen ein ganzzahliges lineares Programm für das Netzproblem ein. Verschiedene LP-Relaxierungen dieses ganzzahligen Programms werden verglichen in Bezug auf ihre Performance in einem Branch-and-Cut-and-Price-Verfahren für das Netzproblem. Die polyedrische Untersuchung des Netzproblems wird in Bezug gesetzt zu den praktischen Erfordernissen des Branch-and-Cut-and-Price-Verfahrens. Schließlich werden verschiedene ganzzahlige und lineare Programme für das Netzproblem in Bezug gesetzt und so verglichen. Die Verfahren zur Lösung des Kabelproblems bestehen aus Problemreduktionen, primalen und dualen Verbesserungsheuristiken und exakten Branch-and-Cut-and-Price-Verfahren. Die Verfahren werden auf Instanzen des realen Planungsproblems für Telefonnetzwerke angewandt. Die Resultate für diese Instanzen sind sehr erfreulich. Eine zweite Anwendung sind Steinerbaum-Probleme in Graphen, die bei dem Entwurf von elektronischen Schaltkreisen (VLSI-Design) auftreten. Für viele Instanzen einer Steinerbaum-Benchmark ist die Performance unserer Verfahren besser als die der besten in der Literatur beschriebenen Verfahren. Dies zeigt, daß unserer genereller Ansatz für Kabelprobleme auch auf praktische Probleme dieses spezifischeren Typs anwendbar sind.</dc:description>
+          <dc:description xml:lang="eng">This thesis addresses practicle problems that are related to the planning of telephone networks. In a specific case investigated in the thesis, end distribution points (located in a district of a town) are to be connected to remote distribution points by cables and further distributors. The cables have to be placed in trenches. The length of the cable connections is limited. A design has to be found that satisfies all side constraints and minimizes the costs involved. The modeling procedure of this practicle problem is discussed in depth. A mathematical optimization problem in directed graphs, the cable problem, is proposed for its solution. The cable problem is an NP-hard optimization problem. It contains the Steiner tree problem in directed graph as a special case. We investigate a generalization of the cable problem, the net problem, with the aim to obtain results that can also be utilized for modifications of the cable problem. We describe problem reductions and transformations and introduce an integer linear program formulation for the net problem. Several LP-relaxations of this integer program are compared with respect to their performance in a branch-and-cut-and-price-procedure to solve the net problem. The polyhedral investigation of the net problem is also related to the practicle requirements in a branch-and-cut-and-price-procedure. Finally different integer and linear programs for the net problem are related to each other and thus compared. The algorithms for solving the cable problem consist of problem reductions, primal and dual improvement heuristics, a Lagrangian heuristic and exact branch-and-cut-and-price-procedures. The algorithms are applied to instances of real world planning problems of telephone networks. The results for these instances are very encouraging. A second application are Steiner tree problems in graphs arising in the design of electronic circuits (VLSI-design). For many instances of a Steiner tree benchmark suite, our algorithms perform better than the best known algorithms discussed in the literature. This shows that our general framework for cable problems is applicable to practicle problems of this more specific type as well.</dc:description>
+          <dc:date>2000-09-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/146</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1419</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1419</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/146/stolle_hermann.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

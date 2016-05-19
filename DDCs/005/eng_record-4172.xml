@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4172">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4172</identifier>
+        <datestamp>2013-09-25</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Multi-scale optimization for heterologous biosynthesis of the nonribosomal peptide antibiotic valinomycin in Escherichia coli : from strain to bioprocess engineering</dc:title>
+          <dc:title xml:lang="deu">Mehrstufige Optimierung der heterologen Biosynthese des Nichtribosomalen Peptid-Antibiotika’s Valinomycin in Escherichia coli : von der Stamm- zur Bioprozessentwicklung</dc:title>
+          <dc:creator>Li, Jian</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">Nonribosomal peptides (NRPs), belonging to a large family of natural products, are assembled by multimodular nonribosomal peptide synthetases (NRPSs) from various microorganisms like bacteria and fungi. These naturally originated compounds are of great interest since they possess numerous crucial bioactivities such as antiviral, antimicrobial and anticancer activity. However, pharmaceutical applications of these products are often impeded because many native producers are difficult to cultivate or show a low productivity. The recombinant production of natural products in a surrogate host like Escherichia coli has emerged as a strategy to overcome these limitations. Although a few NRPs have been produced heterologously in E. coli, the yields were mostly unsatisfactory. In this study, based on the NRP valinomycin production platform in E. coli, multiple strategies from strain improvement to bioprocess optimization were employed to investigate the production conditions and increase the productivity.&#13;
+Nine compatible expression vectors for coexpression of valinomycin synthetase, Vlm1 and Vlm2, were constructed, followed by a production screening. Batch and enzyme-based fed-batch cultivations were compared for valinomycin production, indicating the fed-batch mode can easily reach high cell densities and significantly improve volumetric valinomycin titers up to mg per liter levels compared to the low levels (μg per liter) obtained in batch cultivations. A design of experiments (DoE) driven optimization revealed that the following parameters had a significant positive impact on the volumetric yield of valinomycin: (i) the addition of nutrients to the medium, (ii) a higher enzyme concentration relating to faster glucose feeding and (iii) a lower culture volume allowing better oxygen supply. Repeated glucose polymer feeding to the culture dramatically increased cell densities and valinomycin titers. Coexpression of the repairing enzyme type II thioesterase (TEII) together with the valinomycin synthetase further improved valinomycin titers. The maximum titer of valinomycin obtained in this study was 13 mg L-1. Fed-batch cultivation in lab-scale bioreactors confirmed that the valinomycin production in the mg per liter range is also possible in pure glucose based mineral salt medium and that this process reacts robust to nutrient oscillations. This might suggest that a scaling of the process to large industrial scale should be possible.&#13;
+This study provides a feasible approach and example to optimize and enhance heterologous biosynthesis of valinomycin, which may be generally applicable for the development and production of other complex natural products in E. coli.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Nichtribosomale Peptide (NRPs) gehören zu einer großen Familie von Naturstoffen und werden von multimodularen Nichtribosomalen Peptidsynthetasen (NRPSs) in verschiedenen Mikroorganismen wie Bakterien und Pilzen synthetisiert. Diese natürlich vorkommenden Verbindungen sind von großem Interesse, da sie zahlreiche bedeutende antivirale, antimikrobielle und tumor-inhibierende Bioaktiviäten besitzen. Die pharmazeutische Anwendung dieser Produkte wird dadurch erschwert, dass viele der natürlichen Produzenten schwer zu kultivieren sind oder eine geringe Produktivität aufweisen. Die rekombinante Produktion derartiger Naturstoffen in einem Ersatzorganismus wie Escherichia coli ist eine mögliche Strategie, diese Probleme zu umgehen. Obwohl bereits einige NRP in E. coli produziert wurden, sind die Ausbeuten generell unbefriedigend. In der vorliegenden Studie wurden am Beispiel der Produktion von Valinomycin in E. coli verschiedene molekularbiologische und bioverfahrenstechnische Strategien getestet, und die Produktivität zu steigern.&#13;
+Neun kompatible Expressionsvektoren wurden zur Koexpression der Valinomycinsynthetasegene Vlm1 und Vlm2 konstruiert, und in einem Screeningansatz paralleleingessetzt. Batch- und enzymbasierte Fed-Batch-Kultivierungen wurden im Hinblick auf die Valinomycinproduktion verglichen. Hierbei zeigte es sich, dass unter Fed-Batch-Bedingungen höhere Zelldichten und damit eine signifikant erhöhte volumetrische Valinomycinkonzentration im Milligramm pro Liter Bereich erzielt werden kann, verglichen mit den niedrigen Ausbeuten (µg pro Liter) in den Batch-Kultivierungen. Eine auf statistischer Versuchsplanung beruhende Optimierung führte zu der Erkenntnis, dass die volumetrische Valinomycinausbeute durch folgende Faktoren positiv beeinflusst wird: (i) Zusatz komplexer Nährstoffe zum Kulturmedium, (ii) eine höhere Enzymkonzentration und dadurch höhere Glukose-Fütterungsrate, (iii) ein geringeres Kulturvolumen und damit eine bessere Sauerstoffversorgung. Eine Verlängerung der Produktionsphase durch wiederholte Zugabe von Glukosepolymer bei der EnBase-Kultivierung führte zu einer weiteren Steigerung der Zelldichte um einen Faktor von zwei und erhöhte auch die Valinomycin-Produktion um denselben Faktor. Koexpression des Korrekturenzyms Typ II Thioesterase (TEII) zusammen mit der Valinomycinsynthetase verbesserte die Valinomycinausbeute weiter. Als maximale Valinomycinkonzentration wurden 13 mg L-1 in dieser Arbeit erreicht. Fed-Batch-Fermentationen im Bioreaktor im Labormaßstab zeigten, dass eine Valinomycinausbeute im mg pro Liter-Bereich prinzipiell auch im Mineralsalzmedium möglich ist und ein derartiger Prozess robust auf Nährstoffoszillationen reagiert, d.h. in den industriellen Maßstab skalierbar sein sollte.&#13;
+Diese Studie bietet einen anwendbaren Ansatz und ein Beispiel dafür, wie die heterologe Biosynthese von Valinomycin optimiert und erhöht werden kann, und lässt sich auf die Entwicklung und die heterologe Produktion anderer komplexer Naturstoffe in E. coli übertragen.&#13;
+</dc:description>
+          <dc:date>2013-09-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4172</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41728</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41728</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4172/li_jian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

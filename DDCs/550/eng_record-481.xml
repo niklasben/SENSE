@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:481">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:481</identifier>
+        <datestamp>2014-08-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Integrated application of the geographic information system and remote sensing in solving hydrogeological and environmental problems in the central part of Ethiopia and its possible extensive future use</dc:title>
+          <dc:title xml:lang="deu">Integrierte Anwendung vom geographischen Informationssystem und Geofernerkundung zur Lösung von hydrogeologischen und umweltbezogenen Aufgabenstellungen am Beispiel Äthiopiens und deren zukünftigen Nutzungsmöglichkeit</dc:title>
+          <dc:creator>Wagaw, Mezemir Fikre-Mariam</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit hat die Zielsetzung, den strukturellen Aufbau und die Hydrogeologie des westlichen Steilhanges (escarpment) sowie das äthiopische Hauptgrabensystem auf der Grundlage digitaler Satellitenbilder und unter Anwendung der GIS-Technologie zu untersuchen und deren Nutzungsmöglichkeit für die Bewohner zu erkunden. Dafür wurden die Landsat TM, MSS sowie die SPOT-panchromatischen digitalen Daten, topographische Karten 1:50000 und historische analoge Luftbilder für kleinere ausgewählte Gebiete verwendet. Diese Daten wurden erfasst, digital bearbeitet, georeferenziert und in eine einheitliche GIS-Datenbank integriert. Die so erstellte einheitliche Datenbank ermöglichte unterschiedliche neue Wege der Betrachtung und Analyse in verschiedensten Kombinationsformen und Überlagerungen. Die meteorologischen Daten von drei verschiedenen Stationen wurden ausgewertet. Diese Arbeit hat gezeigt, dass Fernerkundungs- und GIS-Technologien wichtige Mittel für die Kartierung der tektonischen Liniamente sind sowie besseres Verständnis des geologischen Aufbaues und der Verfügbarkeit des Untergrundwassers ermöglichen. Es wurden auch Ergebnisse über die Siedlungsstruktur, die Geomorphologie und den Forstbestandsschwund erzielt. Außerdem, in dieser Klimazone soll die Suche und Nutzung des Grundwasser-Vorkommens nicht als eine in sich geschlossene und unabhängige Arbeit gesehen werden, sondern vielmehr als ein integraler Teil der gesamten Umweltplanung und der ausgeglichenen Entwicklung des Gebietes. Die Vorteile der Nutzung von Fernerkundungsdaten als eine schnelle flexible Datenquelle wurden erörtert. Die Vorzüge und die Notwendigkeit der GIS- Einführung als ein gemeinsames Informationsverarbeitungs- und Verwaltungssystem für verschiedene Fachdisziplinen und Aufgabenstellungen wurden dargestellt und darüber hinaus Lösungswege für weitere Untersuchungen vorgeschlagen. Gedruckte Version im Universitätsverlag der TU Berlin Band 47 Berliner Geographische Studien [http://www.ub.tu-berlin.de/index.php?id=1581] erschienen.</dc:description>
+          <dc:description xml:lang="eng">This research is conducted with the aim of studying the structural setup, geology and hydrogeology of the western escarpment of the main Ethiopian rift valley by using remote sensing data and GIS technology and its possible use for the dwellers of the area. A Landsat TM, MSS, SPOT panchromatic image, different topographic maps of 1:50000 scale as well as analog historical aerial photos of selected areas were used for the study. These data were processed and integrated into a single GIS database. The meteorological data from the three different stations were also processed and compiled to the database. The input and integration of all available results to a single reliable and robust database created a virtually new way for studying and analyzing a multitude of overlays and their combination. The analysis had demonstrated that remote sensing and GIS technologies are relevant and vital instruments in mapping the main lineaments as well as better understanding of the ground water availability. Results about the village distribution, geomorphology and the continuous natural forest diminishing were also obtained. Further, it was shown that in this climate zone, the search and exploitation of groundwater should not be considered as an independent work and as a closed entity in itself. It should rather be the integral part of an overall balanced environmental management and social development of the area. The viability of using remote sensing as a fast, timely and reliable information source was discussed. The benefit and usefulness of introducing the GIS as an interdisciplinary collective tool for tackling the diverse needs and problems was articulated in detail and further study was recommended. Printed version available from Universitätsverlag der TU Berlin Band 47 Berliner Geographische Studien: [http://www.ub.tu-berlin.de/index.php?id=1581]</dc:description>
+          <dc:date>2003-04-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/481</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4765</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4765</dc:identifier>
+          <dc:identifier>3-7983-1739-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/481/wagaw_mezemir.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

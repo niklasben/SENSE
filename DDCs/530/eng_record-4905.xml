@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4905">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4905</identifier>
+        <datestamp>2014-03-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Microwave heating and diagnostic of suprathermal electrons in an overdense stellarator plasma</dc:title>
+          <dc:title xml:lang="deu">Mikrowellenheizung und Diagnostik von überthermischen Elektronen in einem überdichten Stellarator-Plasma</dc:title>
+          <dc:creator>Stange, Torsten</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The resonant coupling of microwaves into a magnetically confined plasma is one of the fundamental methods for the heating of such plasmas. Identifying and understanding the processes of the heating of overdense plasmas, in which the wave propagation is generally not possible because the wave frequency is below the plasma frequency, is becoming increasingly important for high density fusion plasmas. This work focuses on the heating of overdense plasmas in the WEGA stellarator. The excitation of electron Bernstein waves, utilizing the OXB-conversion process, provides a mechanism for the wave to reach the otherwise not accessible resonant absorption layer.&#13;
+In WEGA these OXB-heated plasmas exhibit a suprathermal electron component with energies up to 80 keV. The fast electrons are located in the plasma center and have a Maxwellian energy distribution function within the soft X-ray related energy range. The corresponding averaged energy is a few keV.&#13;
+The OXB-discharges are accompanied by a broadband microwave radiation spectrum with radiation temperatures of the order of keV. Its source was identified as a parametric decay of&#13;
+the heating wave and has no connection to the suprathermal electron component. For the detailed investigation of the microwave emission, a quasioptical mirror system, optimized for the OX-conversion, has been installed. Based on the measurement of the broadband microwave stray radiation of the decay process, the OX-conversion efficiency has been determined to 0.56 being in good agreement with full-wave calculations.&#13;
+In plasmas without an electron cyclotron resonance, corresponding to the wave frequency used, non-resonant heating mechanisms have been identified in the overdense plasma regions. Whistler waves or R-like waves are the only propagable wave types within the overdense plasmas. The analysis of the heating efficiency in dependence on the magnetic flux density leads to tunneling as the most probable coupling mechanism.&#13;
+For the determination of the heating efficiencies of the different heating scenarios (overdense&#13;
+non-resonant heating, underdense and overdense resonant heating) a variety of diagnostic methods have been used. Based on heat wave experiments and measuring the response of the total plasma radiation, an estimate of the absorbed heating power and the energy confinement time has been achieved with an accuracy of ±10% dependent on the measurement accuracy of the radiated power.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Eine der Hauptmethoden zur Heizung eines magnetisch eingeschlossenen Plasmas basiert auf der resonanten Einkopplung von Mikrowellen. Von wachsender Bedeutung für Fusionsplasmen hoher Dichte ist die Identifizierung und das Verständnis der Mechanismen zur Heizung von überdichten Plasmen, in denen eine Wellenpropagation im Allgemeinen nicht möglich ist, da die Plasmafrequenz höher als die Heizfrequenz ist. Das Hauptthema in der vorliegenden Arbeit ist die Heizung von überdichten Plasmen am Stellarator WEGA. Die Anregung von Elektron-Bernsteinwellen über den OXB-Konversionsprozess bietet eine Möglichkeit die andernfalls nicht zugängliche resonante Absorptionsschicht im Plasma zu erreichen.&#13;
+Im speziellen Fall von WEGA wird während der OXB-Heizung eine überthermische Elektronenkomponente mit Energien bis zu 80 keV erzeugt. Die schnellen Elektronen sind im&#13;
+Plasmazentrum lokalisiert und weisen innerhalb des weichen Röntgenbereiches eine Maxwellsche Verteilung auf. Die entsprechende mittlere Energie liegt im Bereich von einigen&#13;
+keV.&#13;
+Die OXB-Entladungen sind zusätzlich begleitet von einem breitbandigen Mikrowellenspektrum mit Strahlungstemperaturen von ebenfalls einigen keV. Die Quelle der Strahlung konnte als parametrischer Zerfall der Heizwelle identifiziert werden ohne eine Verbindung zur überthermischen Elektronenkomponente. Zur detailierten Untersuchung der Mikrowellenemission wurde ein quasioptisches Spiegelsystem aufgebaut, das auf die OX-Konversion optimiert ist. Mit Hilfe der breitbandigen Streustrahlung des Zerfallsprozess konnte die OX-Konversionseffizienz mit 0.56 bestimmt werden, das in guter Übereinstimmung mit dem theoretischen Wert ist.&#13;
+Darüber hinaus wurde bei Plasmen ohne eine Elektronen-Zyklotron-Resonanz bezüglich der Heizwelle ein überdichter nicht-resonanter Heizprozess untersucht. Whistler-Wellen oder allgemeiner Wellen mit einer rechtsdrehenden Polarisation sind die einzigen ausbreitungsfähigen Wellen innerhalb der untersuchten stark überdichten Plasmen. Durch Analyse der Heizeffizienz in Abhängigkeit von der magnetischen Flussdichte in der Umgebung der Reflexionsschicht lässt sich auf die Tunnelung als wahrscheinlichster Kopplungsmechanismus schließen.&#13;
+Zur Bestimmung der Heizeffizienz für die verschiedenen Heizszenarien (überdichte nichtresonante Heizung sowie underdichte und überdichte resonante Heizung) wurde eine Vielzahl von Diagnostik-Methoden angewendet. Im Fall von Wärmewellenexperimenten wurden unter anderem die Zeitabhängigkeit der Plasmastrahlung genutzt um zu einer Abschätzung der Heizleistung sowie der Energieeinschlusszeit zu kommen. Die Genauigkeit der Methode kann auf ±10% abgeschätzt werden abhängig von der Messgenauigkeit der Strahlungsmessung.&#13;
+</dc:description>
+          <dc:date>2014-03-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4905</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49052</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49052</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4905/Stange_Torsten.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

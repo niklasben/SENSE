@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3257">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3257</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Applied Methods for the Vehicle Positioning Problem</dc:title>
+          <dc:title xml:lang="deu">Angewandte Methoden für das Vehicle Positioning Problem</dc:title>
+          <dc:creator>Cardonha, Carlos</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This dissertation is dedicated to the Vehicle Positioning Problem (VPP), a classical combinatorial optimization problem in public transport in which vehicles should be assigned to parking positions in a depot in such a way that shunting moves are minimized. We investigate several models and solution methods to solve the VPP and the VPPp, a multi-periodic extension of the problem which was not previously studied. In the first part of the thesis, the basic version of the problem is introduced and several formulations, theoretical properties, and concepts are investigated. In particular, we propose a mixed integer quadratic constrained formulation of the VPP whose QP relaxation produces the first known nontrivial lower bound on the number of shunting moves. The second part of our work describes two advanced solution methods. In the first approach, a set partitioning formulation is solved by a branch-and-price framework. We present efficient algorithms for the pricing problem and in order to improve the performance of the framework, we introduce heuristics and discuss strategies to reduce symmetry. The second approach consists of an iterative technique in which we try to optimize an ILP by solving some of its projections, which are smaller and therefore easier to compute. Both techniques are able to produce satisfactory solutions for large-scale instances of the VPPp. In the third part, advanced aspects of the problem are investigated. We propose and analyze several solution methods for the VPP+ and for the VPPp+, which are extended and more challenging versions of the VPP and of the VPPp, respectively. Finally, the role of uncertainty in the problem is discussed. In particular, we introduce a new criteria to evaluate the robustness of assignment plans, a formulation based on this concept, and a new online algorithm for the VPP.</dc:description>
+          <dc:description xml:lang="deu">Diese Dissertation beschäftigt sich mit dem Vehicle Positioning Problem (VPP), ein klassisches Problem der Kombinatorischen Optimierung, das sich mit den optimalen Zuweisungen von Fahrzeugen öffentlicher Verkehrsunternehmen zu Umläufe und zu Stellplätzen befasst. Wenn ein nicht zielorientierter Plan verwendet wird, sind häufig Umpositionierungen von Fahrzeugen erforderlich. Ziel des Optimierungsansatzes ist es, diese zu minimieren. In dieser Arbeit werden mehrere Modelle und Methoden vorgestellt, um das VPP und das Multi-Periodic Vehicle Positioning Problem (VPPp), eine bisher nicht untersuchte multiperiodische Erweiterung des VPP, zu lösen. Im ersten Teil der Arbeit werden das Problem aufgeführt sowie mehrere Formulierungen, theoretische Eigenschaften und Konzepte untersucht. Es wird eine gemischtganzzahlige quadratische Formulierung des Problems vorgestellt, deren QP Relaxierung nicht-triviale untere Schranken für das VPP erzeugen kann. Der zweite Teil der Arbeit beschreibt zwei spezielle Verfahren. In dem ersten Ansatz wird eine Set Partitioning Formulierung mit einem Branch-and-Price Verfahren gelöst. Für die Pricing Probleme werden effiziente Algorithmen beschrieben. Um die Leistung des Verfahrens zu verbessern, wurden Heuristiken entwickelt und Strategien zur Reduktion der Symmetrie des Problems analysiert. Der zweite Ansatz ist eine iterative Technik, die ein gemischt-ganzzahliges Problem durch die Lösung einiger ihrer Projektionen optimiert. Beide Techniken sind in der Lage, Lösungen für große Instanzen vom VPPp zu erzeugen, die wenige Umpositionierungen benötigen. Im dritten Teil werden vertiefende Aspekte des Problems untersucht. Vorgestellt werden die Analyse verschiedener Lösungswege für das VPP+ und für das VPPp+, die erweiterte und schwierigere Versionen des VPP bzw. VPPp sind. Abschließend wird ein neues Konzept diskutiert, mit dem die Robustheit eines Planes ausgewertet wird. Es werden eine auf diesem Konzept basierende robuste Formulierung vorgestellt, und zuletzt ein neuer Online-Algorithmus für das VPP.</dc:description>
+          <dc:date>2012-03-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3257</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34211</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34211</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3257/cardonha_carlos.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

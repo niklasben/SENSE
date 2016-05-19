@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:405">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:405</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dynamic Plowing Lithography und Kraft-Abstands-Kurven Indentation als lithographische Methoden für die Modifizierung von Polymeroberflächen</dc:title>
+          <dc:title xml:lang="eng">Dynamic plowing lithography and force-distance-curves indentation as lithographic methods for the modification of polymer surfaces</dc:title>
+          <dc:creator>Cappella, Brunero</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird eine auf Rasterkraftmikroskopie basierende lithographische Methode, die Dynamic Plowing Lithography (DPL), entwickelt und charakterisiert. Diese Methode ermöglicht es, Modifizierungen der Oberfläche von weichen Proben mit hoher Ortsauflösung durchzuführen. Die Abhängigkeit der geometrischen Eigenschaften der eingedrückten Strukturen von mehreren experimentellen Parametern wird untersucht, um die Leistungsfähigkeit der Methode zu verbessern und den Vergleich mit anderen Techniken zu ermöglichen. Die DPL wird mit einer besser bekannten lithographischen Technik, nämlich der Kraft-Abstands-Kurven Indentation (FDI), verglichen. Der wichtigste Unterschied zwischen den zwei Lithographien ist, dass das Volumen der mit der DPL eingedrückten Strukturen sehr viel kleiner ist als das Volumen der Randwälle, die sie umgeben. Solch eine Volumenzunahme findet nur bei der DPL statt und nicht bei der FDI. Die Erklärung des unterschiedlichen Verhaltens des Polymers in den beiden Fällen liegt an der Frequenz der Zwangskraft, welche die Modifizierung verursacht und die in der DPL einige 100 kHz, aber in der FDI nur einige Hz beträgt. Demzufolge wirken bei dem Eindrücken in der DPL starke Scherkräfte, die in der FDI nicht vorhanden sind. Die Randwälle, die beim Eindrücken von breiten Flächen in der DPL entstehen, werden mit verschiedenen Techniken untersucht, um ihre physikalischen und chemischen Eigenschaften zu bestimmen. Die Steifigkeit der in der DPL entstandenen Randwälle ist kleiner als die des unmodifizierten Polymers, sie können mit kleineren Kräften und tiefer indentiert werden, und sie können mit einem selektiven Lösungsmittel entfernt werden. Die durch Kraft-Abstands-Kurven in Wasser gemessene Adhäsion lässt darauf schließen, dass das lithographierte Polystyrol hydrophiler ist als das unmodifizierte Polymer. Die DPL ändert also nicht nur die Packungsdichte, sondern durch Kettenbruch und darauf folgende Reaktionen der Kettenenden auch die chemische Zusammensetzung des Polymers. Die Bestimmung der von der Spitze dissipierten Energie und Messungen der Molmassenverteilung mittels Gelpermeationschromatographie bestätigen diese Hypothese. In der Literatur wurden für die Erklärung der bei anderen lithographischen Methoden beobachteten Volumenzunahmen drei Modelle vorgeschlagen. Die Charakterisierung der bei der DPL entstehenden Randwälle ermöglicht es, eines der drei Modelle zu bestätigen: Während der DPL werden Kettenagglomerate aufgrund der starken Scherkräfte aus dem bulk-Polymer herausgezogen und die Verschlaufungen mit anderen Polymerketten partiell verstreckt. Bei diesem Prozess ist es einfacher, während der DPL durch Kettenbruch kreierte kürzere Ketten herauszuziehen. Das herausgezogene Material erzeugt durch Einschluss von Gasmolekülen während der Relaxation einen nanoskaligen Schaum, der ein größeres Volumen besitzt und eine kleinere Steifigkeit aufweist als das unmodifizierte Polymer. Die DPL wird schließlich auch für das Eindrücken von dünnen Metallschichten auf Polymeren, für die Verschiebung von Antimon-clustern auf Graphitoberflächen und für die Mikrodissektion von Chromosomen angewendet.</dc:description>
+          <dc:date>2002-09-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/405</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4009</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4009</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/405/cappella_brunero.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

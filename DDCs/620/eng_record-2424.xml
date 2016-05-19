@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2424">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2424</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Assistenzsystem für die einzeitige, alloplastische Tumorbehandlung in der Kopfchirurgie</dc:title>
+          <dc:title xml:lang="eng">Development of a computer assistance system for one-stage tumor treatment and alloplastic reconstruction in craniofacial surgery</dc:title>
+          <dc:creator>Rose, Andreas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit befasst sich mit der Entwicklung eines Unterstützungssystems zur einzeitigen Tumorbehandlung bei denen das entfernte pathologische Knochengewebe durch alloplastische Materialen ersetzt wird. Ziel der einzeitigen Therapiemethode ist die Entfernung des erkrankten Gewebeareals und die Rekonstruktion der knöchernen Struktur in einer Operation durchzuführen. Das Ziel dieser Arbeit war die Entwicklung eines Unterstützungssystems mit dem der Chirurg die Planung der Operation, die Konstruktion der Implantatform sowie die Übertragung der Planung auf das Operationsgebiet vornehmen kann. Schwerpunkt dieser Arbeit war die Entwicklung der Benutzerinteraktion mit der ein Chirurg die Imp-lantatkonstruktion und die anschließende exakte Übertragung der Operationsplanung auf den Situs vornehmen kann. Insgesamt konnte im Implantatherstellungsprozess eine Verringerung des Kommuni-kationsaufwandes zwischen Chirurg und technischer Fertigung nachgewiesen wer-den. Zudem kann die Planung mit höherer Präzision intraoperativ umgesetzt werden. Gedruckte Version im Verlag erschienen: VDI Verlag GmbH (Fortschritt-Berichte)</dc:description>
+          <dc:description xml:lang="eng">This thesis presents the development of a computer assistance system for the one stage tumor treatment at the craniofacial bone. The approach based on the assumption that the removed pathological bone tissue is replaced by an alloplastic implant. The purpose of the one stage therapy is to remove and reconstruct the tumor tissue with respect to functional and aesthetic aspects in one surgical therapy session. The goal of the thesis was the development of an assistance system, which enables the surgeon to perform the operation planning and the implant construction. Furthermore the surgeon is supported regarding the transfer of the preoperative planning to the situs with minimal restrictions in the existing workflow by means of guided instruments based on optical navigation. The thesis is focused on the combination of the planning and construction processes regarding to a simplified user interaction as well as on the support of the exact intra operative realization of the operation planning. The realized assistance system was evaluated regarding the accordance of the medical requirements. It was shown that a surgeon is able to use the system in common clinical cases. Furthermore the intraoperative accuracy of the planning realization is increased. This makes it possible for the surgeon to be more independent from technicians, to have direct influence on the constructed implant shape, to reduce the treatment time, and to increase patient safety. Printed version available: VDI Verlag GmbH (Fortschritt-Berichte)</dc:description>
+          <dc:date>2010-02-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2424</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25401</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25401</dc:identifier>
+          <dc:identifier>978-3-18-327717-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2424/rose_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

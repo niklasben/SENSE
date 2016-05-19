@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:730">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:730</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Methoden zur Detektion von Betriebsstörungen an unterirdischen Pipelinesystemen verschiedener Transportfraktionen mit Hilfe der Fernerkundung</dc:title>
+          <dc:title xml:lang="eng">Methods to detect subsurface pipeline leaks of different flowing substances with the help of remote sensing devices</dc:title>
+          <dc:creator>Brüggemann, Helge</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit werden potenzielle Fernerkundungsverfahren vorgestellt, um ein spezielles Problem im Betrieb von unterirdischen Versorgungsröhren zu lösen. Das Hauptproblem besteht in der Undichtigkeit der Röhren. Die Methoden und Vorgehensweisen erlauben eine luftgestützte Pipelineinspektion an Versorgungsröhren. Primär erfolgt eine komplexe Darstellung an wasserführenden Druckleitungen. Das Ziel ist es hierbei, während nichtinnerstädtischen Befliegungen Leckagen am System sicher zu detektieren. Das im wesentlichen diskutierte Verfahren beruht auf dem Ansatz der aktiven bispektralen Reflexionsmessung. Aufgrund der hohen spektralen Korrelation der Wasserabsorptionsbande der Böden und der Atmosphäre kann die Messaufgabe nicht mit Hilfe solarer Einstrahlung durchgeführt werden. In der Arbeit werden nun Temperaturstrahler und selektive Strahler (Laser) auf ihre Einsatztauglichkeit untersucht und verglichen, um eine aktive Beleuchtung sicher stellen zu können. Der Hauptvorteil der Temperaturstrahler liegt in der unkomplizierten Handhabung, den geringen Beschaffungs- und Betriebskosten sowie in der großen spektralen Breite (2 x ~30 nm). Der Hauptnachteil ist in der schlechten Fokussierbarkeit begründet. Der Einsatz von Laserstrahlern umgeht gänzlich das Problem der Fokussierbarkeit, stellt jedoch sehr hohe Anforderungen an Beschaffung und Betrieb einer solchen Apparatur. Erforderliche Berechnungen zur Signalerfassung und -verarbeitung sind aufgeführt, weiterhin wurden zu erwartende Probleme der Ergebnismehrdeutigkeit diskutiert. Ausführlich behandelte Probleme sind unterschiedliche Bodentexturen, meteorologische und klimatische Bedingungen sowie Sensorvergleiche. Eine Demonstration der realen Detektionsmöglichkeit steht aus. Es konnten keine Publikationen mit vergleichbarem Inhalt aufgetan werden.</dc:description>
+          <dc:date>2005-02-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/730</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7248</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7248</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/730/brueggemann_helge.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

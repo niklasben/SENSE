@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3834">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3834</identifier>
+        <datestamp>2014-04-29</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Export subsidies in a strategic trade policy approach under asymmetric competition with reference to agricultural trade</dc:title>
+          <dc:title xml:lang="deu">Exportsubventionen in einem Ansatz strategischer Außenhandelspolitik bei asymmetrischem Wettbewerb mit Bezug auf den Agrarhandel</dc:title>
+          <dc:creator>Ansari, Dawud</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">This dissertation does take a look at the frequently discussed issue of export subsidies. It reviews them in the classical situation of perfect competition and analyses thereupon possible situations in which export subsidies are beneficial for domestic welfare, based on the imperfect competition framework of Brander-Spencer model. After replicating their original results, this dissertation shows that the assumptions of increasing returns to scale and risk aversion in the presence of random supply shocks enhance the government’s incentive to subsidise the domestic exporting industry. The solely algebraic analysis focuses mostly on methods of comparative statics and examines the effects of a subsidisation on various variables.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit befasst sich mit dem vielfach diskutierten Thema der Exportsubventionen. Sie gibt einen Überblick über die klassische Sicht der vollständigen Konkurrenz auf sie und analysiert mögliche Situationen, in denen Exportsubventionen, basierend auf dem Brander-Spencer-Modell, vorteilhaft sind. Nach der Replikation ihrer ursprünglichen Ergebnisse wird gezeigt, dass steigende Skalenerträge und Risikoaversionen in der Gegenwart von Angebotsschocks den Anreiz für Regierungen erhöhen, den inländischen Export zu subventionieren. Die rein algebraische Analyse basiert größtenteils auf Methoden der komparativen Statik und untersucht den Einfluss der Subvention auf verschiedene Variablen.</dc:description>
+          <dc:date>2013-06-27</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3834</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40740</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40740</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3834/ansari_dawud.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

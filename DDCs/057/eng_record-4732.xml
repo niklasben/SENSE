@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4732">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4732</identifier>
+        <datestamp>2014-02-19</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:57</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Creating artificial sugar isomerases on the scaffold of a monomeric triosephosphate isomerase (A�?TIM) by protein engineering</dc:title>
+          <dc:title xml:lang="deu">Erstellen von künstlichen Zuckerisomerasen basierend auf dem Proteingerüst einer monomeren Triosephosphat-Isomerase (A-TIM) mittels Protein-Engineering </dc:title>
+          <dc:creator>Krause, Mirja</dc:creator>
+          <dc:subject>ddc:57</dc:subject>
+          <dc:description xml:lang="eng">Biocatalysts are nowadays commonly applied in many industrial production processes. Most biocatalysts however, are not adapted to the extreme conditions present in industrial processes. Therefore, protein engineering makes use of the tools available in molecular biology to design tailor-made non-natural biocatalysts optimized for the application in industry. Of special industrial interest is the production of chiral molecules, e.g. a-hydroxyaldehydes such as monosaccharides which serve as a feasible starting point. Enzymes converting them can be targeted easily by protein engineering. This work aimed to transfer an existing enzyme activity onto a known common enzyme fold. Specifically, the activity of three different sugar isomerases (D-ribose-5-phosphate isomerase A, D-xylose isomerase A, L-arabinose isomerase A) was to be transplanted onto the TIM-barrel scaffold of a monomeric triosephosphate isomerase (A-TIM). We hypothesize that that since this protein fold exhibits vast diversity in functionality in nature it could be rather straightforward to change the substrate specificity. For this a suitable in vivo selection system was developed including specific E.coli knockout strains. 16 different gene libraries of the target gene (A-TIM) were created via a directed evolution and a structure-based rational design approach. Several positive hits were found displaying L-arabinose isomerase activity; not for any other activity though. The found variants were analyzed by sequencing, biochemical and biophysical methods and finally protein crystallography. Mutations of found variants were mainly found at the C-terminal end of the TIM-barrel which corresponds to the catalytic end of the enzyme while the N-terminal end responsible for the protein stability did not show mutations. It was found that the secondary structure changes were minimal and the putative reaction mechanism would be the same as for TIM using the E167 as the critical base. The catalytic activity was successfully transferred from one isomerase to another while the dependency on any cofactors was lost.</dc:description>
+          <dc:description xml:lang="deu">Biokatalysatoren werden heutzutage verbreitet in einer Vielfalt von industriellen Prozessen eingesetzt. Die meisten Biokatalysatoren sind jedoch nicht an die extremen Bedingungen in industriellen Prozessen angepasst. Deshalb, nutzt das sogenannte Protein-Engineering die Techniken der Molekularbiologie, um maßgeschneiderte künstliche Biokatalysatoren zu entwerfen, die für Anwendung in der Industrie optimiert sind. Von besonderem Interesse für die Industrie ist hier die Produktion von chiralen Molekülen, z.B. a-Hydroxyaldehyden wie Monosacchariden, die sich daher als mögliche Ausgangspunkte eignen. Enzyme, die Monosaccharide umsetzen eignen sich sehr gut für einen Protein-Engineering-Ansatz. Das Projektziel der vorliegenden Arbeit war der Transfer einer in der Natur vorkommenden Enzymaktivität auf eine bekannte, häufig vorkommende Proteinstruktur. Genauer gesagt, sollte die Aktivität von drei verschiedenen Zuckerisomerasen (D-Ribose-5-Phosphat Isomerase A, DXylose Isomerase A, L-Arabinose Isomerase A) je auf die TIM-Fassstruktur einer monomeren Variante der Triosephosphat-Isomerase (A-TIM) übertragen werden. Wir vermuten, dass sich die Substratspezifität sehr leicht verändern lässt, da die TIM-Fassstruktur eine große Vielfalt in ihrer Funktionalität aufweist. Dafür wurde ein passendes in vivo Selektionssystem entwickelt, einschliesslich spezifischer E.coli Knockoutstämme. 16 verschiedene Genbibliotheken des Zielgens (A-TIM) wurden mittels eines gerichteten Evolutionsansatzes und eines strukturbasiertem rationalen Design-Ansatzes. Es wurden einige positive Klone mit L-arabinose Isomerase Aktivität gefunden. Jedoch keine für andere Aktivitäten. Diese Varianten wurden durch Sequenzieren, biochemische und –physikalische sowie anschließende Proteinkristallisation analysiert. Mutationen fanden sich hauptsächlich am C-terminalen Ende der TIM-Fassstruktur, welches dem katalytischen Ende des Enzyms entspricht, befinden, nicht aber am N-terminale Ende der TIM-Fassstruktur, welches dem Stabilitätsende des Enzyms entspricht. Die Sekundärstrukturveränderungen waren minimal und der vermeintliche Reaktionsmechanism scheint gleich dem von TIM zu sein, mit einem Glutamat, welches als Base fungiert. Die katalytische Aktivität einer Isomerase konnte erfolgreich auf eine andere Isomerase übertragen werden. Dies geschah unter Verlust der Kofaktor-Abhängigkeit.</dc:description>
+          <dc:date>2014-02-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4732</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47329</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47329</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4732/krause_mirja.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

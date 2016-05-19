@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:83">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:83</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Herstellung ultradünner Polymerfilme und Untersuchung ihrer Gastreneigenschaften</dc:title>
+          <dc:title xml:lang="eng">Ultrathin Polymer Films and their Gas Separation Properties</dc:title>
+          <dc:creator>Macht, Christian</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="deu">Bei der Methode der spontanen Filmbildung spreitet eine Polymerlösung auf einer Wasserfläche, wo das Lösemittel verdampft und sich ein fester Polymerfilm bildet. Durch Aufwickeln lassen sich Polymerfilme einer Dicke von 10 bis 1000 nm mit einer Geschwindigkeit von 0,5 bis 15 m/min herstellen. Proben wurden aus Polyetherimid (PEI), Polysulfon (PSU) und Polycarbonat (PC) hergestellt. Die Untersuchung von Kettenorientierungen mit den Verfahren der Doppelbrechung, des thermischen Schrumpfes und des IR-Dichroismus ergab an allen Polymeren eine Orientierung der Makromoleküle senkrecht zur Filmabzugsrichtung. Da sich während der Filmbildung auf der Wasseroberfläche senkrecht zur Filmrichtung Wellen bilden, ordnen sich vermutlich die Moleküle zu Beginn des Spreitprozesses, wenn sie noch eine hohe Beweglichkeit besitzen, parallel zu diesen Wellen an. Durch Vergleich der IR-Spektren von ultradünnen PC-Filmen mit denen einer lösungsgegossenen dicken Folie konnte die bekannte planare Anordnung der aromatischen Strukrurelemente bei den ultradünnen Filmen bestätigt werden. Die Glasübergangstemperatur von PSU verändert sich nicht mit der Filmdicke. Dies widerspricht der erwarteten Abnahme und ist darauf zurückzuführen, daß sich bei den untersuchten viellagigen Filmproben Molekülverschlaufungen auch über die Grenzflächen hinweg bilden, so daß die glastemperaturerniedrigende Wirkung der freien Oberflächen aufgehoben wird. Der Hauptkettenabstand von PSU nimmt bei Filmdicken unterhalb des Trägheitsradius geringfügig zu. Als Grund wird eine bei dünnen Filmen geringere Anzahl von Verschlaufungen und damit eine Zunahme der Beweglichkeit angenommen. Der E-Modul der ultradünnen Filme liegt über dem von spritzgegossenen Prüfstäben, die Fließspannung der dünnen Filme liegt unter dem Vergleichswert. Dies ist auf die durch den Filmherstellungsprozeß erzwungene planare Orientierung der Moleküle zurückzuführen, die einer Biaxialität in der Filmebene gleichkommt. Es wurden die Einzelgaspermeabilitäten von N2, O2 und CO2 an allen drei Polymeren gemessen und die Trennfaktoren rechnerisch ermittelt. An Membranen aus PSU wurde durch aufeinanderfolgende Belastungszyklen die Alterung der Filme untersucht. Die Ergebnisse der Permeabilitätsmessungen zeigen, daß sich mit der spontanen Filmbildung für die Gastrennung verwendbare Membranen herstellen lassen. Wegen ihrer geringen Dicke lassen sich hohe Gasflüsse realisieren. Durch höhere Meßdrücke oder mehrere Belastungszyklen nimmt jedoch die Zahl der Fehlstellen in der Membran zu.</dc:description>
+          <dc:date>2001-01-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/83</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-780</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-780</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/83/macht_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

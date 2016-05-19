@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:747">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:747</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Process Considerations on the Application of High Pressure Treatment at Elevated Temperature Levels for Food Preservation</dc:title>
+          <dc:title xml:lang="deu">Prozessbetrachtungen zur Anwendung einer Hochdruckbehandlung bei erhoehter Behandlungstemperatur fuer die Lebensmittelkonservierung</dc:title>
+          <dc:creator>Ardia, Adriano</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Unter den neuartigen, nicht-thermischen Verfahren stellt vor allem die Anwendung von hohem hydrostatischem Druck (HPP) eine effektive und erfolgversprechende Alternative zu konventionellen industriellen Prozessen der Lebensmittelverarbeitung dar, um Lebensmittel mit verlängerter Haltbarkeit bei hoher Produktqualität und sicherheit zu erzeugen. Ziel dieser Arbeit ist die Bewertung des Potentials einer Hochdruckanwendung zur Sterilisation auch von widerstandsfähigen Mikroorganismen in Lebensmitteln, bei denen thermische Verfahren nicht geeignet sind, hochqualitative Produkte zu erzeugen. Um dieser Anforderung gerecht zu werden, wurde, unter Berücksichtigung der physikalischen Grundlagen während der Druckaufbauphase die Anwendung von Hochdruck untersucht sowie Möglichkeiten zur Optimierung des Verfahrens entwickelt. Die adiabate Erwärmung während der Kompression von Modellfluiden sowie die Inaktivierung von vegetativen Zellen und sporenbildenden Bakterien in unterschiedlichen Medien bei niedrigem Druckniveau (700 MPa) und schnellem Druckaufbau wurde untersucht und mathematisch modelliert. Um das Vorliegen eines Temperaturgradienten nachzuweisen, der zu einer inhomogenen Verteilung der Behandlungsintensität führt, wurde eine mathematische Modellierung des Temperaturverlaufs während des Druckaufbaus in flüssigen Systemen durchgeführt. Durch Implementation in eine selbst entwickelte Software konnte die resultierende Inaktivierung von vegetativen Zellen sowie Sporenbildnern vorhergesagt werden. Basierend auf den bei niedrigem Druckniveau (700 MPa) erhaltenen Ergebnissen wurde eine neuartige, innovative Anlage zur Anwendung hoher hydrostatischer Drücke entwickelt, die das Erreichen eines höheren Drucks (1400 MPa) innerhalb sehr kurzer Zeit (kleiner als 20 s) unter adiabaten Bedingungen ermöglicht. Durch den Bau dieser Ultra-Hochdruckanlage konnten Untersuchungen zur adiabaten Erwärmung während der Kompression unterschiedlicher Fluide in einem weiten Druckbereich durchgeführt werden. Darüber hinaus wurde die Inaktivierungskinetik bakterieller Sporen bei höheren Drücken untersucht, um die zugrunde liegenden Mechanismen der Inaktivierung extrem resistenter Organismen aufzuklären. In einem weiteren Teil der Arbeit werden Vorschläge zur Optimierung des Prozesses sowie technische Lösungsansätze für entsprechende Anlagen vorgestellt.</dc:description>
+          <dc:description xml:lang="eng">Among the new emerging technologies which are proposed to allow quality retention or minor quality damages in food products, High Hydrostatic Pressure (HPP) is considered to be a real and efficient alternative process to the most used and common industrial techniques for food preservation since it offers a chance of producing food of high quality, greater safety and increased shelf-life. It is the aim of this work to explore ways in which high pressure can be used to achieve sterilization of most resistant microbial species in foods in which conventional thermal processing fails to obtain competitive high-quality products. In order to match these requirements, considerations on the process itself and on possible process improvements have been developed which take into account for the physics of the pressure build-up phase. Studies on modelling the adiabatic heat of compression of basic fluids and on the inactivation of vegetative cells and sporeforming bacteria in different media at low pressure levels (700 MPa) and within short compression times have been done. In order to proof that a gradient of temperature may result in a non-uniform spatial inactivation in the product sample, a mathematical model, which was developed to follow the thermal increase during the build-up phase of fluid systems, was implemented into a self-made software which was performed to predict the microbial inactivation of vegetative cells and spore-forming bacteria as function of the spatial temperature distribution in the product during the whole pressure treatment. On the base of results which were obtained at low pressure conditions (700 MPa), an innovative high pressure unit was designed which allowed the generation of higher pressure levels (1400MPa) in short times (less than 20 s) and in adiabatic conditions. The set-up of the ultra-high pressure unit was performed, by which it was possible to carry out investigations on the adiabatic heat of compression of different fluids, in a wide range of pressure and temperature, and it was possible to perform studies on the inactivation kinetics of bacterial spores at higher processing conditions, in order to clarify the mechanism of inactivation of highly resistant organisms. In addition, a separate section for process optimization and suggestions on technical solutions is presented.</dc:description>
+          <dc:date>2004-06-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/747</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7410</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7410</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/747/ardia_adriano.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

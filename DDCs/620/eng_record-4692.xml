@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:02Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4692">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4692</identifier>
+        <datestamp>2014-03-19</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung von hocheffizienten Berechnungsmethoden zur Beschreibung des Beul- und Nachbeulverhaltens von versteiften und unversteiften Flächentragwerken aus Faserverbundwerkstoffen</dc:title>
+          <dc:title xml:lang="eng">Development of highly efficient analysis methods describing the buckling and postbuckling behavior of stiffened and unstiffened fiber-reinforced composite plates and shells</dc:title>
+          <dc:creator>Beerhorst, Matthias</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Innerhalb der letzten Jahrzehnte hat die Bedeutung der Faserverbundwerkstoffe im Leichtbau aufgrund ihrer hervorragenden spezifischen Eigenschaften kontinuierlich zugenommen. Die Forderung nach geringem Strukturgewicht, z.B. in der Luft- und Raumfahrt, führt häufig zu unversteiften oder versteiften dünnwandigen Flächenstrukturen. Bei diesen ist das Stabilitätsverhalten unter Druck- und Schubbelastung ein wichtiges Auslegungskriterium. Für eine detaillierte Berechnung wird meist auf die universell einsetzbare Finite-Elemente-Methode (FEM) zurückgegriffen. So kann das Strukturverhalten mit hoher Genauigkeit abgebildet werden. Um schon möglichst früh während des Entwurfsprozesses die Auswirkungen diverser Variablen, wie Geometrieabmessungen und Laminataufbauten abschätzen zu können, bedarf es deutlich schnellerer Berechnungsmethoden.&#13;
+Aus diesem Grund werden in der vorliegenden Arbeit Methoden entwickelt, welche das lokale Beul- und Nachbeulverhalten von idealisierten Flächentragwerken aus Faserverbundstrukturen effizient beschreiben. Durch eine phänomenologische Betrachtungsweise lassen sich dabei oftmals die dimensionierenden Einflussgrößen herausarbeiten. Als Strukturen werden unversteifte Platten und Schalen sowie längsversteifte Platten unter verschiedenen Belastungen, wie Längsdruck, Schub und teilweise auch Querdruck, behandelt.&#13;
+Der Weg zu den neuen Methoden führt bei der linearen Beulanalyse über die Minimierung des Gesamtpotentials oder die Regression von Ergebnissen der exakten, transzendenten Lösung. Im Fall der Nachbeulanalyse sind die Erfüllung der Kompatibilitätsbedingung der ebenen Verzerrungen mittels Airy'scher Spannungsfunktion sowie die näherungsweise Erfüllung der Gleichgewichtsbedingung durch das Galerkin-Verfahren maßgeblich.&#13;
+Für einige der betrachteten Fälle können zur Verifikation die exakten Lösungen genutzt werden. Außerdem erfolgt eine Beurteilung anhand detaillierter FE-Berechnungen.&#13;
+Während bei der schwach gekrümmten Schale die Anwendbarkeit der entwickelten Lösung eingeschränkt ist, ergeben sich für die aus Platten und Balken bestehenden Strukturmodelle weitestgehend gute oder sehr gute Übereinstimmungen mit den Vergleichsrechnungen. Die Berechnungszeit auf einem Standard-PC liegt bei allen neu entwickelten Algorithmen unter einer Sekunde.</dc:description>
+          <dc:description xml:lang="eng">Over the last decades the importance of fibre-reinforced plastics in lightweight design has been continuously increasing due to their outstanding specific properties. The demand for low structural weight, for example in aerospace, often leads to unstiffened or stiffened thin-walled structures. The stability behavior under compressive and shear load is an important design criterion for these structures. Detailed analyses are often performed using the universally applicable finite element method (FEM) to describe the structural behavior with high accuracy. In order to estimate the influence of several variables, such as geometric dimensions and lay-ups of laminates, however, in early stages of the design process considerably faster analysis methods are needed.&#13;
+Therefore the present work aims at developing methods which efficiently describe the local buckling and postbuckling behavior of idealized shell structures composed of fibre-reinforced plastics. Employing a phenomenological approach often allows for an identification of the dimensioning parameters. As structural elements unstiffened plates and shells as well as longitudinally stiffened plates are examined under several loading conditions like longitudinal compression, shear and partially also transversal compression.&#13;
+The development of new methods for linear buckling analysis is based on the minimization of the total potential energy or regression of results obtained from the exact, transcendent solution. For postbuckling analysis, the fulfillment of the compatibility condition of in-plane strains through the Airy stress function as well as an approximate satisfaction of the equilibrium condition through the Galerkin procedure are important.&#13;
+For some of the cases considered, exact solutions can be applied for verification. Furthermore, detailed FE analyses are used for evaluation.&#13;
+While the application of the newly derived solutions for shallow shells is limited, the agreement with comparative analyses for structures consisting of plates and beams is mostly good or very good. Calculation times for all new algorithms are less than one second on a standard PC.</dc:description>
+          <dc:date>2014-02-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4692</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46921</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46921</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4692/Beerhorst_Matthias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

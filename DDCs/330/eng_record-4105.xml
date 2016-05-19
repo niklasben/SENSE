@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4105">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4105</identifier>
+        <datestamp>2013-08-28</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Evolutionary production planning and scheduling</dc:title>
+          <dc:title xml:lang="deu">Evolutorische Produktions- und Ablaufplanung</dc:title>
+          <dc:creator>Andreas, Schöpperl</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">Nowadays, companies in many industries are faced with increasing product variety&#13;
+and the requirement to quickly respond to short-term customer orders. Hence a specific&#13;
+challenge is the continuous adaption of production schedules in a cost-efficient way when&#13;
+new customer orders arrive or existing order information changes. Evolutionary production planning is proposed as a general concept supporting the continuous development of&#13;
+production schedules. It aims at a balanced planning which considers direct production&#13;
+costs as well as consequential costs of renewed planning efforts and secondary planning&#13;
+activities. Furthermore, a framework supporting the development, implementation and&#13;
+simulation of evolutionary production planning systems is presented. As a first case&#13;
+study, the bottling of beverage products is considered. A second case study is concerned&#13;
+with the production of chemical commodities, exhibiting sequence-dependent as well as&#13;
+limited product changeovers. The block planning principle is adopted as a practical tool&#13;
+for scheduling product variants in a predetermined sequence. Finally, results of conducted numerical experiments, evaluating a variety of scheduling strategies in terms of&#13;
+an evolutionary planning, are presented.</dc:description>
+          <dc:description xml:lang="deu">Unternehmen in vielen Branchen sind heutzutage mit wachsender Produktvielfalt und&#13;
+der Anforderung, schnell auf kurzfristige Kundenaufträge reagieren zu müssen, konfrontiert. Daher ist eine besondere Herausforderung die kontinuierliche Anpassung der Produktionspläne in einer kosteneffizienten Weise, wenn neue Kundenaufträge eintreffen oder&#13;
+bestehende sich ändern. Die evolutorische Produktionsplanung wird vorgeschlagen als&#13;
+allgemeines Konzept zur Unterstützung einer kontinuierliche Entwicklung von Produktionsplänen, im Sinne einer ausgewogenen Berücksichtigung direkter Produktionskosten&#13;
+sowie Folgekosten erneuerter Planungsbemühungen und sekundärer Planungsaktivitäten.&#13;
+Weiterhin wird ein Rahmenwerk, welches die Entwicklung, Implementierung und Simulation von evolutorischen Produktionsplanungssystemen unterstützt, vorgestellt. Als&#13;
+eine erste Fallstudie wird die Abfüllung von Getränkeprodukten betrachtet. Eine zweite&#13;
+Fallstudie befasst sich mit der Herstellung chemischer Grundstoffe, unter Beachtung&#13;
+sequenzabhängiger sowie nur eingeschränkt möglicher Produktwechsel. Das Blockplanungsprinzip, als ein praktisches Instrument zur Losgrößen- und Ablaufplanung von&#13;
+Produktvarianten in einer vorgegebenen Reihenfolge, wird im Rahmen der Fallstudien&#13;
+adaptiert. Die Vorstellung der Fallstudien schließt mit Ergebnissen durchgeführter numerischer Experimente, welche eine Vielzahl von Planungsstrategien im Sinne einer evolutorischen Produktionsplanung evaluieren.</dc:description>
+          <dc:date>2013-08-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4105</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41056</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41056</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4105/schoepperl_andreas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

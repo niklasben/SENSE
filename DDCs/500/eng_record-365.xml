@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:365">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:365</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Tribologische Charakterisierung von Hochtemperaturgleitpaarungen unter Wasserdampfeinfluss</dc:title>
+          <dc:title xml:lang="eng">Tribological Characterisation of High Temperature Materials under Steam Conditions</dc:title>
+          <dc:creator>Kleemann, Jens</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Das tribologische Verhalten von Gleitpaarungen unter Trockenreibungsbedingungen bis 500°C unter H2O wurde bestimmt und optimiert. Vorzugsweise wurde der erste Gleitpartner aus einem Werkstoff mit selbstschmierenden Eigenschaften gewählt. Als zweiter Gleitpartner wurde ein Hochtemperaturwerkstoff auf metallischer oder keramischer Basis gewählt. Minimalste Verschleißkoeffizienten von 3,5x10-8 mm³/Nm bei Reibungszahlen von µ= 0,008 wurden erarbeitet. Der Verschleißmechanismus wurde mit den oberflächenanalytischen Verfahren LM, REM, AFM, Laser Raman, XRD-Röntgen und ESCA-XPS charakterisiert.</dc:description>
+          <dc:description xml:lang="eng">The tribological behaviour of high temperature materials during dry friction under steam conditions up to 500 °C was optimized. Steam resistant couples of carbon/ceramic materials were tested. Ultra low friction and wear rates were reached in the millirange. Stable lowest wear coefficients up to 3,5x10-8 mm³/Nm and coefficients of friction around µ= 0,008 have been achieved. The origin of this effect has been analyzed by means LM, REM, AFM, Micro Laser Raman Small, XRD and Small Spot ESCA.</dc:description>
+          <dc:date>2003-06-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/365</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3600</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3600</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/365/kleemann_jens.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

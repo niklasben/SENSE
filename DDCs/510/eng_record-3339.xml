@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3339">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3339</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Surfaces associated to a space curve. A new proof of Fabricius-Bjerre's Formula</dc:title>
+          <dc:title xml:lang="deu">Zu einer Raumkurve assoziierte Flächen. Ein neuer Beweis der Fabricius-Bjerre-Formel</dc:title>
+          <dc:creator>Jablonska, Barbara</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">In 1962 Fabricius-Bjerre found a formula relating certain geometric features of generic closed plane curves. Among bitangent lines, i.e., lines that are tangent to a curve at two points, distinguish two types: external - if the arcs of tangency lie on the same side of the line - and internal otherwise. Then, there is the following equality: the number of external bitangent lines equals the sum of the number of internal bitangent lines, the number of crossings and half of the number of inflection points of the plane curve. Two different proofs of the formula followed, by Halpern in 1970 and Banchoff in 1974, as well as many generalizations. Halpern's approach is used here to provide a generalization from bitangent lines to parallel tangents pairs. The main result of this thesis is a new proof of Fabricius-Bjerre's Theorem, which uses new methods. The idea is to view a plane curve as a projection of a space curve. The proof establishes a connection between the generic plane curves and the projections of a certain class of generic closed space curves. For a closed space curve three surfaces are constructed with maps to the sphere of projection directions. These maps encode the information of the variables appearing in the Fabricius-Bjerre formula for each projection. The surfaces are glued together to form a closed surface with a naturally defined continuous map to the sphere. The degree of that map turns out to be equal to the expression arising when all variables of the Fabricius-Bjerre formula (for a plane curve which is a projection of the space curve) are put on one side of the equality. Using methods similar to those of V.I. Arnold (used to define J and St invariants), it is proved that the degree of the constructed map is zero for any generic space curve. An equivalence between the latter and Fabricius-Bjerre's Theorem is established. This gives a new proof of the theorem. The methods developed in this thesis have numerous possible applications. First, the integral version of the Fabricius-Bjerre formula is obtained which states that the average bitangency number equals the sum of the average crossing number and the average absolute torsion of a generic space curve. Another application is a new proof of the formula of Banchoff and Aicardi that expresses the self-linking number of a closed space curve as a sum of the writhe of a diagram and half of the signs of torsion at points of the space curve that project to inflection points in the diagram. It seems that using the methods of this work, nearly any formula relating some geometric features of a plane curve, as for example, the generalization to parallel tangents pairs, can be proved. Also, the generalization of the formula by Fabricius-Bjerre to curves with cusps finds a new geometric interpretation with the new approach.</dc:description>
+          <dc:description xml:lang="deu">Fabricius-Bjerre fand eine sehr elegante Formel, die eine Relation zwischen geometrischen Eigenschaften von generischen geschlossenen ebenen Kurven darstellt. Unter bitangentialen Geraden, d.h. Geraden, die eine Kurve an zwei Punkten berühren, werden zwei Typen unterschieden: externe, wenn die Kurve lokal auf einer Seite der Geraden liegt und interne andernfalls. Die Fabricius-Bjerre Formel besagt: Die Anzahl von externen bitangentialen Geraden ist gleich der Summe von der Anzahl von internen bitangentialen Geraden, der Anzahl der Doppelpunkte und der Hälfte von der Anzahl von Wendepunkten der ebenen Kurve. In dieser Dissertation, wird die Formel von bitangentialen Geraden zu Paaren von parallelen Tangenten generalisiert. Das Hauptresultat ist allerdings ein neuer Beweis der Fabricius-Bjerre Formel, der neue Methoden verwendet. Die Idee ist eine ebene Kurve als Projektion einer Raumkurve zu betrachten. Es wird ein Zusammenhang entwickelt zwischen generischen ebenen Kurven und Projektionen von einer Klasse der generischen Raumkurven in Euklidischen 3-Raum. Zu einer Raumkurve werden jeweils drei Flächen konstruiert, mit einer Abbildung zu der 2-Sphäre. Diese Objekte enthalten Informationen über die Variablen aus der Fabricius-Bjerre Formel für alle Projektionen der Raumkurve. Es wird gezeigt, dass sich diese drei Flächen durch vorherige geeignete Umstrukturierung zusammenkleben lassen. Als Resultat entsteht eine geschlossene Fläche mit einer natürlichen Abbildung zu der Sphäre, deren Grad in engem Zusammenhang zu der Fabricius-Bjerre Formel steht. Auf diese Weise wird eine Äquivalenz zwischen der Fabricius-Bjerre Formel und der Tatsache, dass der Grad der konstruierten Abbildung für jede Raumkurve verschwindet, entwickelt. Das letztere wird dann mit Methoden von Arnold bewiesen. Eine Anwendung des neuen Ansatzes ist die integrale Version der Fabricius-Bjerre Formel. Die hier entwickelten Methoden liefern außerdem einen neuen Beweis einer Formel von Banchoff und Aicardi für die Selbstverschlingungszahl einer geschlossenen Raumkurve. Es scheint, dass viele ähnliche Formeln für die ebenen Kurven sich mit analogen Methoden beweisen lassen.</dc:description>
+          <dc:date>2012-06-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3339</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35559</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35559</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3339/jablonska_barbara.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

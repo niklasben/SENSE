@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1854">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1854</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Three Dimensional Boundary Conforming Delaunay Mesh Generation</dc:title>
+          <dc:title xml:lang="deu">Dreidimensionale randkonforme Delaunay-Gitter Generierung </dc:title>
+          <dc:creator>Si, Hang</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This work is motivated by the aim to support numerical methods to solve partial differential equations. Among them are finite element and finite volume methods. For these, a given domain must first be subdivided into many simple cells. The quality of the subdivision will tremendously affect the accuracy and convergence of the method. A {\it boundary conforming Delaunay mesh} is a partition of a polyhedral domain into Delaunay simplices and all boundary simplices satisfy the Gabriel property. It is important in {\it Voronoi-box based finite volume schemes}. It allows to carry important qualitative properties from the continuous to the discrete level. In this work, we study meshing problems for the generation of three-dimensional good quality boundary conforming Delaunay meshes. A simple and efficient algorithm to generate boundary conforming Delaunay meshes is Delaunay refinement. Shewchuk's algorithm is reanalyzed, achieving new results on the termination (angle) condition, on the bounds on characteristics of the tetrahedral shape and on the mesh size distribution. In practice, it is observed that this algorithm usually greatly outperforms the proven estimates. Next we propose an adaptive Delaunay refinement algorithm which guarantees the termination for all valid inputs. It is known that not all polyhedra can be tetrahedralized without using additional points (so-called {\it Steiner points}). The three-dimensional boundary conforming Delaunay mesh generation problem has many difficulties. An algorithm to construct {\it constrained Delaunay tetrahedralizations} is presented. This algorithm adds few Steiner points on the domain boundary. The correctness is proven for an arbitrary valid polyhedral domain. The complexity issues are discussed. It is practically efficient.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit wird durch das Ziel motiviert, numerische Methoden f\"ur die L\"osung partieller Differentialgleichungen zu unterst\"utzen. Zu diesen Methoden z\"ahlen das Finite-Elemente- und das Finite-Volumen-Verfahren. Um diese zu nutzen, muss ein gegebenes Gebiet zun\"achst in viele einfache Zellen unterteilt werden. Die Genauigkeit und Konvergenz der Methode wird von der Qualit\"at der Unterteilung stark beeinflusst. Ein {\it randkonformes Delaunay-Gitter} ist eine Unterteilung eines polyedrischen Gebiets in Delaunay-Simplices, soda{\ss} alle Randsimplices die verallgemeinerte Gabriel-Eigenschaft haben. Diese Bedingungen sind f\"ur das {\it Voronoi-box basierte Finite-Volumen-Verfahren} wichtig, um wesentliche, qualitative Eigenschaften vom stetigen auf das diskrete Problem zu \"ubertragen. In dieser Arbeit untersuchen wir das Problem der Erzeugung dreidimensionaler randkonformer Delaunay-Gitter mit guter Qualit\"at. Ein einfacher und effizienter Algorithmus, um randkonforme Delaunay-Gitter zu erzeugen, ist die Delaunay-Verfeinerung. Der Algorithmus von Shewchuk wird neu analysiert. Neue Ergebnisse f\"ur den Abschlu{\ss} des Verfahrens in endliche vielen Schritten in Abh\"angigkeit vom Winkel der Ausgangsgeometrie, f\"ur die Grenzen geometrischer Kenngr\"o{\ss}en der erzeugten Tetrader und f\"ur die Verteilung der Gittergr\"o{\ss}e werden erzielt. In der Praxis ist festzustellen, dass dieser Algorithmus gew\"ohnlich schneller als die bewiesenen Absch\"atzungen terminiert. Weiterhin schlagen wir einen adaptiven Algorithmus f\"ur die Delaunay-Verfeinerung vor, welcher die Terminierung f\"ur alle g\"ultigen Eingabegitter garantiert. Es ist bekannt, dass nicht alle Polyeder tetraedrisiert werden k\"onnen, ohne zus\"atzliche Punkte (so genannte {\it Steiner-Punkte}) einzuf\"uhren. Die Erzeugung dreidimensionaler randkonformer Delaunay-Gitter ist mit vielen Schwierigkeiten verbunden. Ein Algorithmus zur Erzeugung {\it eingeschr\"ankter Delaunay-Tetraedrisierungen} wird vorgestellt. Dieser Algorithmus f\"ugt wenige Steiner-Punkte am Gebietsrand hinzu. Die Korrektheit wird f\"ur ein beliebiges, g\"ultiges polyedrisches Gebiet bewiesen. Fragen der Komplexit\"at werden diskutiert. Der Algorithmus ist praktisch effizient.</dc:description>
+          <dc:date>2008-08-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-gzip</dc:format>
+          <dc:format>application/x-gzip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1854</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19667</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19667</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1854/original_figs.tar.gz</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1854/original_src.tar.gz</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1854/si_hang.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

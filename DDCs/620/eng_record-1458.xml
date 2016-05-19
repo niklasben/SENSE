@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1458">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1458</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dynamische Simulation von Abwasserteichen zur Beurteilung des Einflusses schwankender Umweltbedingungen auf die Reinigungsleistung</dc:title>
+          <dc:title xml:lang="eng">Dynamic Simulation of wastewater treatment ponds for the evaluation of the influence of fluctuating environmental conditions on the purifications capacity </dc:title>
+          <dc:creator>Hobus, Inka</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit werden Untersuchungen an natürlich belüfteten, diskontinuierlich, kontinuierlich und partiell belüfteten Abwasserteichen durchgeführt, mit dem Ziel den Einfluss wechselnder Milieubedingungen auf die Abbauleistung von Teichanlagen zu beurteilen. Anhand der aufgenommen Messdaten wird ein dynamisches Simulationsmodell entwickelt. Das Simulationsmodell ist zur Beschreibung der unterschiedlichen Milieubedingungen über die Teichtiefe in drei Zonen, einer euphotischen, einer aphotischen Schicht und dem Detritus, aufgeteilt. Zur Beschreibung der simultanen Nitrifikation und Denitrifikation wurde im Modell eine sessile autotrophe Biomasse sowie die Rücklösung von leicht abbaubaren Kohlenstoffverbindungen aus der Detritusschicht berücksichtigt. Weiterhin ist die Berechnung der Sedimenthöhe implementiert, um das Langzeitverhalten von Teichanlagen zu beschreiben und Schlammräumungsintervalle festzulegen. Zur Abbildung belüfteter Teichanlagen ist der Sauerstoffeintrag über ein Belüftungsaggregat im Modell eingebunden. Die Energiebereitstellung für das Belüftungsaggregat kann sowohl über ein regeneratives Energiesystem als auch über einen Netzanschluss erfolgen. Das entwickelte dynamische Simulationsmodell kann sowohl für die Neuauslegung als auch für die Beurteilung und Betriebsoptimierung bestehender Teichanlagen eingesetzt werden. Der Vorteil des dynamischen Simulationsmodells gegenüber der statischen Bemessung ist die Beschreibung des dynamischen Verlaufs der Ablaufkonzentration über das Jahr. Der Einfluss der stark schwankenden Umweltfaktoren auf die Reinigungsleistung wie Temperatur und Einstrahlung lässt sich abbilden. Die Simulation zeigt, dass bei einer Auslegung nach [DWA201 2005] und bei einem geringen spezifischen Schmutzwasseranteil die CSB-Überwachungswerte überschritten werden. Die Ursache für die Überschreitung der Überwachungswerte bei geringem spezifischem Schmutzwasseranfall ist der hohe inerte CSB-Anteil im Zulauf. Die Ablauffrachten sind jedoch geringer als bei einem höheren Fremdwassseranteil, so dass für die Beurteilung der Reinigungsleistung die Frachten herangezogen werden sollten. Bei unbelüfteten Teichanlagen konnte analog zum [DWA201 2005] gezeigt werden, dass eine Teilnitrifikation ab eine Fläche von 15 m²/EW erreicht werden kann. Das entwickelte Modell bietet zur Auslegung von Teichanlagen eine detaillierte Lösung angepasst an den jeweiligen Standort unter Berücksichtigung der wirtschaftlichen Aspekte an.</dc:description>
+          <dc:description xml:lang="eng">Subject of this PhD Thesis is to examine facultative and aerated wastewater treatment ponds which are continuously, discontinuously and partially aerated. Based on measurements, a dynamic simulation model on the influence of the varying conditions of the environment onto the degradation rate of the microorganism in wastewater treatment ponds was developed. The dynamic simulation model can be used for the design and construction of new waste water ponds as well as for upgrading of overloaded ponds. The advantage of the dynamic simulation model vs. static methods is the detailed description of the time course. The pond is described in three different zones: the euphotic layer, the aphotic layer and the detritus. Simultaneous nitrification and denitrification can be described by the implementation of a sessile autotrophic bacterial layer and the resolution of easy degradable organic carbon from the detritus. The model can simulate the sludge accumulation; therefore the long term behaviour of the pond as well as intervals for sludge clearance can be calculated. The technical aeration and oxygen transfer via aeration modules is implemented. The energy supply for the aerator can be simulated with a renewable energy system or constant power via the electric grid. Simulation shows that the design of ponds according to [DWA201 2005] can lead to an exceedance of the monitoring values at low specific wastewater amount. The reason for this overstepping is the high concentration of inert substances at the influent. The effluent load still is lower compared to a bigger amount of infiltration water. In consequence, monitoring values should not be based only on the effluent concentration; an assessment of the load should be taken into account. Furthermore it could be proved in the simulation model conform to [DWA201 2005] that specific areas of 15m² per inhabitant is sufficient for partial nitrification in facultative ponds. The developed model offers a detailed solution for the design of waste water treatment ponds adapted to the specific location and considering also economic aspects.</dc:description>
+          <dc:date>2007-03-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1458</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14958</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14958</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1458/hobus_inka.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

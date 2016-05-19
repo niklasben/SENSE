@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3588">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3588</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Bord-Boden-Kommunikation im Multi-Flugplatz-Betrieb</dc:title>
+          <dc:title xml:lang="eng">Controller Pilot Communication for Multi Airport Control</dc:title>
+          <dc:creator>Wittbrodt, Nora</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im zukünftigen Multi-Flugplatz-Betrieb ist ein Fluglotse während verkehrsarmer Zeiten gleichzeitig für die Überwachung mehrerer kleiner (Regional-)Flugplätze verantwortlich. Die gesteigerte Komplexität dieser neuen Kontrollsituation erfordert nicht nur massive Änderungen am bisherigen Fluglotsenarbeitsplatz, sondern wirkt sich auch auf das Arbeitsumfeld der Piloten aus. Anlass zur Diskussion liefert in diesem Zusammenhang vor allem die Frage nach der optimalen Gestaltung der Bord-Boden-Kommunikation. Derzeit erfolgt der Austausch von Informationen zwischen Piloten und Fluglotsen in der Regel über eine gemeinsame Sprechfunkfrequenz. Diese sogenannte „Party Line“ ermöglicht es den Piloten, innerhalb eines Kontrollsektors sowohl ihre eigenen Funksprüche als auch die Nachrichten anderer Luftfahrzeugführer zu empfangen. Im Multi-Flugplatz-Betrieb kann die Fortsetzung dieser Verfahrensweise jedoch sowohl aus Fluglotsen- als auch aus Pilotensicht zu Schwierigkeiten führen. Um diese Problemstellung zu untersuchen, wurden im Rahmen der Arbeit zwei experimentelle Simulationsstudien durchgeführt. Wie die Ergebnisse der ersten Studie zeigen, bietet die Nutzung einer globalen Funkfrequenz, deren Sende- und Empfangsbereich alle parallel kontrollierten Flugplätze gleichermaßen abdeckt, aus Fluglotsensicht die meisten Vorteile. Allerdings besteht beim Einsatz dieser Designoption Grund zur Annahme, dass die Übertragung von Party Line Informationen verschiedener Flugplätze zu einer Verschlechterung des Situationsbewusstseins der Piloten und damit zu einer Minderung der Flugleistung führt. Diese Hypothese wurde im Rahmen der zweiten Studie untersucht. Wie die Ergebnisse zeigen, treten durch die Nutzung einer globalen Party Line tatsächlich vereinzelt Verwechslungen auf, die sich im Rahmen der Untersuchung jedoch nicht negativ auf den Flugbetrieb auswirkten. Um diese potenzielle Risikoquelle im Realbetrieb dennoch zu minimieren, werden abschließend verschiedene Möglichkeiten diskutiert, wie unter Berücksichtigung der Anforderungen der Fluglotsen die Gefahren von Verwechslungen minimiert werden können.</dc:description>
+          <dc:description xml:lang="eng">In the future, a single air traffic controller will be responsible for the simultaneous management of several small airports during times of low traffic volume. The increased complexity of such a multiple-airport-control scenario certainly requires major changes on the part of the air traffic controller and other traffic participants like pilots and ground handling staff. One major concern involves the controller-pilot communication via voice radio. Today, controllers and pilots within a given sector exchange information over a shared radio frequency. This so-called ‘party line‘ allows pilots to overhear both their own conversations as well as those of the other aircraft tuned to the same frequency. In a multiple-airport-control situation, this practice may lead to problems for both controllers and pilots. To explore these issues, two empirical studies were conducted focusing on the controllers’ perspective and the pilots’ point of view respectively. Results of the first study indicate that, from the controllers’ perspective, using a single global party line for all simultaneously controlled airports would be the preferred choice. However, there is concern that implementing this design option might impede the pilots’ ability to develop an accurate situational picture of the surrounding traffic situation hence leading to degradation in flight performance. To test this assumption, a second empirical study focusing on the pilots’ perspective was conducted. Results show that receiving party line information from other airports may indeed lead to confusion, although no impact on flight performance was observed. Nevertheless, a high safety level in field operations is still demanded. Further discussion generated several alternatives in minimising the risk of confusion errors while taking the controllers’ requirements into account.</dc:description>
+          <dc:date>2013-01-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3588</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37926</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37926</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3588/B.10%20Video%20Beispielflug%20EDDG.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3588/B.11%20Video%20Beispielflug%20EDLW.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3588/B.9%20Video%20Beispielflug%20EDDC.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3588/wittbrodt_nora.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3588/wittbrodt_nora_Anhang_A.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3588/wittbrodt_nora_Anhang_B_ohne_Videos.zip</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

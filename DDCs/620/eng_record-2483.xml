@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2483">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2483</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The influence and significance of cross-order terms in interface mobilities for structure-borne sound source characterization</dc:title>
+          <dc:title xml:lang="deu">Der Einfluss und die Signifikanz von Kreuzordnungstermen in Interface Mobilitäten für die Charakterisierung von Körperschallquellen</dc:title>
+          <dc:creator>Bonhoff, Hannes</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The lack of a widely accepted approach for structure-borne sound source characterization in contrast to air-borne and liquid-borne sound sources causes substantial problems in a vast majority of cases in engineering practice. Planning and low-noise design especially at early design stages is severely hampered, thereby effectively preventing lead-time reductions. Thus, a top priority research task is the development of a proper method for the characterization of vibrational sources which would provide the engineer with absolute source data and physical insight. For this task, the approach employing the concept of interface mobilities appears suitable, where the physical installation is subdivided into a series of theoretical orders. The applicability of the interface mobility approach critically depends on the admissibility of neglecting the coupling between different orders which is described by the cross-order terms. Although the cross-order terms can be of importance at certain frequencies, they are found to be insignificant on average and can be neglected with good approximation. The general applicability of interface mobilities for structure-borne sound source characterization thereby is confirmed. A complete set of equations is presented for the calculation of the transmitted power, the vibration amplitude along the interface and the source descriptor and coupling function in terms of interface mobilities. Printed version available: Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de)</dc:description>
+          <dc:description xml:lang="deu">Das Fehlen einer allgemein anerkannten Methode zur Charakterisierung von Körperschallquellen, im Gegensatz zu Luft- und Fluidschallquellen, verursacht beträchtliche Schwierigkeiten in einem Großteil von technischen Anwendungen. Planung und Lärmminderung besonders in frühen Entwicklungsstadien ist bedeutend eingeschränkt, wodurch eine Verkürzung der Vorlaufzeit wirksam verhindert wird. Deshalb hat die Entwicklung einer geeigneten Methode zur Beschreibung von Körperschallquellen, welche dem Ingenieur absolute Quellendaten und physikalische Einsicht liefert, hohe Priorität. Für diese Aufgabe erscheint der Ansatz der Interface Mobilitäten geeignet, bei welchem die physikalische Installation in eine Reihe theoretischer Ordnungen unterteilt wird. Die Anwendbarkeit des Ansatzes der Interface Mobilitäten hängt von der Vernachlässigbarkeit einer Kopplung zwischen unterschiedlichen Ordnungen ab. Diese Kopplung wird durch die Kreuzordnungsterme beschrieben, welche bei bestimmten Frequenzen von Bedeutung sein können. Im Durchschnitt sind die Kreuzordnungsterme aber unbedeutend und können mit guter Näherung vernachlässigt werden. Die generelle Anwendbarkeit der Interface Mobilitäten zur Beschreibung von Körperschallquellen ist hiermit bestätigt. Ein kompletter Formelapparat für die Berechnung der übertragenen Leistung, die Schwingungsamplitude am Interface und den Quellendeskriptor mit der Kopplungsfunktion anhand der Interface Mobilitäten ist präsentiert. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2010-05-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2483</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26157</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26157</dc:identifier>
+          <dc:identifier>978-3-7983-2225-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2483/TU_Berlin_2226_Bonhoff.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2483/US_TU_Berlin_2226_Bonhoff.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:191">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:191</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Discrete artificial boundary conditions</dc:title>
+          <dc:title xml:lang="deu">Diskrete künstliche Randbedingungen</dc:title>
+          <dc:creator>Ehrhardt, Matthias</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Bei der numerischen Berechnung der Lösung einer partiellen Differentialgleichung auf einem unbeschränkten Gebiet werden gewöhnlich künstliche Ränder eingeführt, um das Rechengebiet zu beschränken. Spezielle Randbedingungen werden an diesen künstlichen Rändern hergeleitet, um die exakte Ganzraumlösung zu approximieren. Falls die Lösung des Problems auf dem beschränkten Gebiet mit der Ganzraumlösung (eingeschränkt auf das Rechengebiet)identisch ist, werden diese Randbedingungen als transparente Randbedingungen (TRB) bezeichnet. Die vorliegende Doktorarbeit befaßt sich mit transparenten Randbedingungen für Konvektions-Diffusionsgleichungen und allgemeine Pseudodifferentialgleichungen vom Schrödingertyp. Diese sogenannten "Parabolischen" Gleichungen finden weit verbreitete Anwendung bei 1-Weg-Wellenausbreitungsproblemen in vielen Bereichen, z.B. Seismologie, Optik und Plasmaphysik. Als Spezialfall ist die Schrödinger Gleichung der Quantenmechanik enthalten. Existierende Diskretisierungen dieser TRB führen zu numerischen Reflektionen an den künstlichen Rändern und zerstören häufig die Stabilität der zugrundeliegenden finite Differenzen Methode. Um beide Probleme zu lösen, führen wir eine neue diskrete TRB ein, die direkt vom diskretisierten Ganzraumproblem hergeleitet wird. Diese diskrete TRB ist reflektionsfrei und erhält die Stabilitätseigenschaften des Ganzraumschemas. Während wir eine uniforme Diskretisierung in der Zeit voraussetzen müssen, kann die innere Diskretisierung nichtuniform im Ort sein. Die Überlegenheit der neuen diskreten TRB gegenüber anderen existierenden Diskretisierungen von TRBen wird anhand von mehreren Beispielen illustriert. Gedruckte Version auf dissertation.de - Verlag im Internet GmbH [http://www.dissertation.de/"&gt;dissertation.de] erschienen.</dc:description>
+          <dc:description xml:lang="eng">When computing numerically the solution of a partial differential equation in an unbounded domain usually artificial boundaries are introduced to limit the computational domain. Special boundary conditions are derived at this artificialboundaries to approximate the exact whole-space solution. If the solution of the problem on the bounded domain is equal to the whole-space solution (restricted to the computational domain) these boundary conditions are called transparent boundary conditions(TBCs). This dissertation is concerned with transparent boundary conditions for convection-diffusion equations and general Schrödinger-type pseudo-differential equations arising from "parabolic" equation (PE) models which have been widely used for one-way wave propagation problems in various application areas, e.g. seismology, optics and plasma physics. As a special case the Schrödinger equation of quantum mechanics is included. Existing discretizations of these TBCs induce numerical reflections at this artificial boundary and also may destroy the stability of the used finite difference method. To overcome both problems we propose a new discrete TBC which is derived from the fully discretized whole-space problem. This discrete TBC is reflection-free and conserves the stability properties of the whole-space scheme. While we shall assume a uniform discretization in time, the interior spatial discretization may be nonuniform. The superiority of the new discrete TBC over existing discretizations is illustrated on several benchmark problems. Printed version available on dissertation.de - Verlag im Internet GmbH [http://www.dissertation.de].</dc:description>
+          <dc:date>2002-08-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/191</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1862</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1862</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/191/ehrhardt_matthias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

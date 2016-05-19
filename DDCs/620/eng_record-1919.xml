@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1919">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1919</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zur vereinfachten Bemessung von stabilitätsgefährdeten Stahlstäben mit offenen Profilen unter Quer- und Torsionsbelastung</dc:title>
+          <dc:title xml:lang="eng">Simplified design of thin walled steel girders with open cross sections prone to stability risks under lateral and torsional loading</dc:title>
+          <dc:creator>Glitsch, Torsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit befasst sich mit der vereinfachten Bemessung von Stäben aus Stahl mit offnen Profilen. Hierbei wird das Tragverhalten bei Doppelbiegung und zusätzlicher Torsionsbelastung anhand experimenteller und numerischer Untersuchungen analysiert. Unter Einbeziehung von plastischen Traglastreserven für die Wölbkrafttorsion wird eine Nachweisgleichung abgeleitet, welche die in DIN EN 1993-1-1:2005 vorgesehenen Ersatzstabverfahren für stabilitätsgefährdete und verdrehweiche Bauteile ergänzen kann. Dadurch wird für einen Großteil der Anwendungsfälle eine wirtschaftlichere Bemessung als bisher ermöglicht. Weitere Beiwerte beschreiben den Einfluss von Theorie II. Ordnung – Effekten, sowie der Interaktion mit den anderen Biegeschnittgrößen. Abgedeckt sind hierbei doppeltsymmetrische und einfachsymmetrischen Walz – und Schweißprofile mit ausreichender Duktilität.</dc:description>
+          <dc:description xml:lang="eng">The present thesis concerns the simplified design of steel beams with open cross sections. Here the load bearing behaviour of biaxial bending and additional torsional loading is analysed on the basis of experimental and numeric verifications. Taking into account the plastic load bearing reserve for warping torsion a design formula is developed, which is able to complete the provided equivalent member methods in DIN EN 1993-1-1:2005 for members which are prone to stability risks and susceptible to torsional deformations. In this way a more economic design as usual is enabled for most of the applications. Factors describe the influence of theory second order-effects, as well as interaction with the other bending moments. In this case hot rolled and welded beams with double- and mono symmetric cross sections which show sufficient ductility are investigated.</dc:description>
+          <dc:date>2008-09-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1919</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19798</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19798</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1919/original_glitsch_torsten_diss_doc.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1919/glitsch_torsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

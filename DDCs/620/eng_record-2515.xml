@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2515">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2515</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Lebensdauerprognostik unter Berücksichtigung realer Belastungen am Beispiel von Bondverbindungen bei thermomechanischen Wechselbeanspruchungen</dc:title>
+          <dc:title xml:lang="eng">Lifetime Estimation Considering Realistic Load of Wirebond Interconnection at Thermo-Mechanical Cycling </dc:title>
+          <dc:creator>Middendorf, Andreas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ausgehend von der Prämisse, dass eine gut hergestellte Bondverbindung durch Ermüdung aufgrund von thermischen Wechselbelastungen zerstört wird, ist ein geeignetes Modell zur Prognose der Lebensdauer von Drahtbondverbindungen für Leistungstransistoren entwickelt worden. Temperaturwechsel führen zu unterschiedlichen Dehnungen der Materialien, und diese bewirken mechanische Spannungen in einem Aufbau. Diese Spannungen verursachen eine Materialermüdung und letztendlich den Bruch in der Verbindungsstelle. Die etablierte Schadensakkumulationsrechnung wird auf Bonddrahtverbindungen aus Aluminium angewendet. Ein geeignetes Modell wurde entwickelt und experimentell überprüft. Die Auswertung erfolgt dabei mit als Life Cycle Unit (LCU) bezeichneten Lebensdatenschreibern online und in-situ. Somit sind bei der Modellbildung insbesondere Rechnerarchitektur, Speicherbedarf, Taktzeiten, Busbreiten und Signalaufbereitung - auch vor dem Hintergrund einer geringen Leistungsaufnahme - zu berücksichtigen. Die Anforderungen an einen thermischen Versuchsstand wurden formuliert und im Anschluss durch thermische Simulationen validiert. Ein geeigneter Versuchsstand zur Durchführung der experimentellen Arbeiten wurde konzipiert, aufgebaut und in Betrieb genommen. Die zur Verfügung stehenden ungehäusten Leistungstransistoren wurden auf speziell entwickelte keramische Testaufbauten geklebt und anschließend die Bondverbindungen aus Aluminiumdraht erstellt. Die Aufbauten wurden aktiv gezykelt; mit Methoden des Design-of-Experiment wurden geeignete Routinen identifiziert. Die Auswertung erfolgte durch Schertests an den thermisch belasteten und damit gealterten Bondverbindungen und zum Vergleich ebenfalls an ungezykelten Aufbauten. Die Geometrie und Oberflächenbeschaffenheit der verbliebenen Anschlussflächen wurden in die Auswertung mit einbezogen. Als Ergebnis konnten die auch schon aus der Literatur bekannten Zyklenzahlen bestätigt und ein in die LCU integrierbares Lebensdauermodell für die Bondver-bindung von 400 µm starken Aluminiumdrähten entwickelt werden.</dc:description>
+          <dc:description xml:lang="eng">Based on the assumption that even properly manufactured bond interconnections are getting destroyed through fatigue as a result of alternating thermal load, an appropriate model for the forecast of the lifetime of wire bonds of power transistors has been developed. Alternating temperature is leading to different strain of materials. And this results in mechanical stress in the assembly. The stress is causing material fatigue and finally a fracture of the interconnection. An established calculation for failure accumulation has been applied to aluminum wire bond interconnection. A respective model was developed and tested by experiment. In this case the data analysis was conducted online and in-situ by applying a data logger or so called Life Cycle Unit (LCU). Due to this approach the concept of the model has to reflect the computing architecture, memory capacity, clock speed, bus bandwidth and signal processing. Finally the power consumption is a critical aspect as well. The requirements on the thermal test configuration have been defined and vali-dated by simulation afterwards. An appropriate test bed was developed, con-structed and put into operation in order to conduct the experiments. Bare die power transistors were glued to a specially designed ceramic test assembly. Af-terwards the aluminium wire bonds were made. These test assemblies were ac-tively cycled. Routines have been identified with methods of Design-of-Experiment. The analysis was carried out based on shear tests of the thermally stressed and therefore aged bonds and as comparison of not-cycled test assem-blies. Geometry and surface condition of the contact surface was taken into ac-count for the analysis. As a result, the from literature already known number of cycles could be confirmed and a life-span model for bonds of 400 µm aluminium wires could be developed which can be integrated in LCU.</dc:description>
+          <dc:date>2010-05-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2515</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26490</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26490</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2515/middendorf_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

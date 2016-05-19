@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:28">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:28</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Struktur-Aktivitäts-Verhältnis von rutheniumausgetauschten NaY-Zeolithen : eine IR-spektroskopische Untersuchung bei tiefer Temperatur</dc:title>
+          <dc:title xml:lang="eng">Structure Activity Relationship of Ru-Exchanged NaY Zeolite</dc:title>
+          <dc:creator>Wrabetz, Sabine</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Die Struktur der katalytisch wirksamen Ruthenium-Partikel läßt sich mittels der Tieftemperatur-Infrarot-Spektroskopie unter Verwendung von CO als Sondenmolekül genauer als bisher beschreiben. Die dazu erstmalig zum Einsatz kommende Tieftemperatur-Infrarot-Zelle erweist sich nach einer Phase der Anpassung und Erprobung als geeignet. Über die Adsorptionsbedingungen wird der CO-Adsorptionprozeß gesteuert. Bei einer Adsorptionstemperatur von 110 K wird die hohe Reaktivität des Rutheniums gegenüber dem CO minimiert. Die schrittweise Erhöhung des CO-Partialdrucks führt zu der gewünschten selektiven Adsorption des CO an den Ruthenium-Zentren. Das CO adsorbiert molekular. Die Tieftemperatur-IR-spektroskopischen Untersuchungen werden an verschieden präparierten und reduzierten RuNaHY-Zeolithen durchgeführt. Die Interpretation der IR-Spektren der CO-Adsorption und CO-Desorption sowie die Bewertung der Adsorptionsisothermen erfolgten durch Vergleiche unter Berücksichtigung der charakteristischen Merkmale jedes RuNaHY-Zeolithen aus TEM, XRD, FTIR und CO-TPD-MS sowie der Daten aus der Literatur. Grundsätzlich liegen heterogene Ru-Partikel vor, die entweder im Inneren des nicht inerten Trägermaterials oder an seiner externen Oberfläche lokalisiert sind. Die im Innern befindlichen Partikel sind meist größer als der Durchmesser des Hohlraumes größter Aufenthaltswahrscheinlichkeit. Das Modell des rein metallischen Ru-Partikels eingebettet in einen intakten Superkäfig entfällt damit. Es werden fünf Typen von Ru-Partikeln unterschieden: Sehr kleine Ru-Partikel, nahe dem atomar verteilten Ruthenium. Ru-Partikel mit einem Durchmesser von ca. 2,5 nm, die einen metallisch / quasi metallischen Charakter besitzen oder als Rutheniumoxid der Form [Ruxm+Oyn-] vorliegen. Größere Ru-Partikel mit &gt;2,5 bis 4 nm, für die bevorzugt die Form des Rutheniumoxids nachgewiesen wird. Große Ru-Partikel mit &gt; 4 nm, für die bevorzugt ein metallischer / quasi metallischer Charakter gefunden wird. Der Verlauf der Reduktion ist stark abhängig von der Alterung der [Ru(NH3)6]NaHY-Zeolithe. Gealterte Proben lassen sich schwerer reduzieren und enthalten nach der Reduktion Fragmente von unvollständig reduzierten Ruthenium-Komplexen. Referenzmethoden sind die Raumtemperatur-IR- und die EXAFS-Spektroskopie. Das Struktur-Aktivitäts-Verhältnis wird dahingehend geklärt, daß die aktive Ruthenium-Spezies und die hemmenden Komponenten in der NH3-Synthese beschrieben werden. Die aktiven Zentren werden von metallisch / quasi metallischen Ru-Partikeln der Größe 1 bis 2,5 nm getragen. Die nach der Reduktion verbliebenen Ruthenium-Komplexe wirken als Katalysator-Gift.</dc:description>
+          <dc:date>2000-05-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/28</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-252</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-252</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/28/wrabetz_sabine.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

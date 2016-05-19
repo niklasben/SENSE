@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2065">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2065</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Application of Statistical Estimation Theory, Adaptive Sensory Systems and Time Series Processing to Reinforcement Learning</dc:title>
+          <dc:title xml:lang="deu">Anwendung von statistischer Schätztheorie, adaptiven sensorischen Systemenund Zeitreihen Analyse Methoden auf Reinforcement Learning</dc:title>
+          <dc:creator>Grünewälder, Steffen</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">In this thesis three major topics of Reinforcement Learning (RL) are addressed: (1) The classical control and estimation problem, (2) the control task for the case that only sensory information are available and no state space representation and (3) a special non-Markov control problem, where the system needs to memorize important events. These three topics address main parts of a robotic control system. In a robotic setting no state space is available, but only sensory information and a control system needs to be able to deal with these (point 2). Furthermore, in real world setting the sensory information alone are not enough. The system needs to identify and memorize important information and actions. For example, a robot that works in a household and uses a camera for navigation will be unable to derive the state of the house'' out of the current image. He needs to remember what he did and what he observed before (point 3). Based on the sensory processing and possibly memorized information the system needs to derive a reasonable control (point 1). I address all three topics in the simplest setting, where the topic makes sense''. I use finite state space Markov Decision Processes (MDPs) for topic 1, a camera based robotic task where the system is Markovian and the sensory information are sufficient for topic 2 and finite state space Partially Observable Markov Decision Processes (POMDPs) for topic 3.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit behandelt drei Hauptthemen aus dem Reinforcement Learning (RL): (1) Das klassische Kontroll- und Schätzproblem, (2) das Kontrollproblem für den Fall das kein Zustandsraum gegeben ist, sonder nur sensorische Daten verfügbar sind und (3) ein spezielles nicht-Markov Kontrollproblem, in dem das System lernen muss wichtige Beobachtungen zu speichern. Die drei Themen adressieren Hauptaufgaben einer Robotersteuerung. Bei der Roboternavigation ist typischerweise kein Zustandsraum verfügbar, sondern nur sensorische Daten (Punkt 2). Weiterhin sind in realen Umgebungen sensorische Daten alleine oft nicht ausreichend. Das System muss auch wichtige Beobachtungen oder Aktionen speichern. Ein Haushaltsroboter zum Beispiel wird nicht auf Grund des aktuellen Kamerabildes den Zustand des Hauses'' bestimmen können. Er muss dazu auch alte Beobachtungen und seine Handlungen berücksichtigen (Punkt 3). Basierend auf den sensorischen und den gespeicherten Informationen muss dann eine gute Kontrollstrategie gelernt werden (Punkt 1). Ich gehe alle drei Themen in dem einfachsten Szenario an, in dem die jeweiligen Fragestellungen Sinn machen: Ich benutze MDPs mit endlichen Zustandsräumen für Punkt 1, einen Roboter der mit einer Kamera ausgerüstet ist und eine Markov Umgebung für Punkt 2 und einen POMDP mit endlichem Zustandsraum für Punkt 3.</dc:description>
+          <dc:date>2009-02-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/postscript</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2065</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21508</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21508</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2065/original_gruenewaelder_steffen.ps</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2065/gruenewaelder_steffen.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

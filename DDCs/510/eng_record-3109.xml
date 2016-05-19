@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3109">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3109</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Shape derivatives for diffraction by non-smooth periodic interfaces</dc:title>
+          <dc:title xml:lang="deu">Formableitungen für die Diffraktion an nichtglatten periodischen Grenzflächen</dc:title>
+          <dc:creator>Kleemann, Norbert</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">In this thesis conical diffraction problems with non-smooth diffraction gratings are investigated. The goal is the calculation of shape derivatives, which can be used to reconstruct the scattering structure. As a first step, a priori estimates in weighted Sobolev spaces of Kondratiev type are proven. Afterwards, results on existence and uniqueness of solutions in these spaces are stated. Based on this, the existence and uniqueness of shape derivatives is shown using non-local perturbation theory for elliptic boundary value problems. The shape derivatives are subsequently characterized as solutions of diffraction problems with the same operator but modified right-hand sides. Since the shape derivatives have low regularity near corners of the interface, an ansatz that consists in cutting off the corner singularities using smooth cut-off functions is proposed. Then a boundary integral formulation of the diffraction problem characterizing the shape derivatives is derived. Finally, some examples for numerical computations of shape derivatives are shown.</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden konische Diffraktionsprobleme bei nichtglatten Diffraktionsgittern untersucht. Ziel ist die Berechnung von Formableitungen, welche zur Rekonstruktion der streuenden Struktur genutzt werden können. Dazu werden zunächst A-priori-Abschätzungen in gewichteten Sobolevräumen vom Kondratiev-Typ bewiesen. Anschließend werden Aussagen zu Existenz und Eindeutigkeit von Lösungen in diesen Räumen getroffen. Darauf aufbauend wird dann mit Hilfe der Theorie nichtlokaler Störungen elliptischer Randwertprobleme die Existenz und Eindeutigkeit von Formableitungen gezeigt. Die Formableitungen werden anschließend charakterisiert als Lösungen von Diffraktionsproblemen mit gleichem Operator, aber modifizierten rechten Seiten. Da die Formableitungen bei Anwesenheit von Ecken im Diffraktionsgitter eine niedrige Regularität aufweisen, wird zur numerischen Berechnung ein Ansatz vorgeschlagen, der darin besteht, die Singularitäten an den Ecken mit Hilfe glatter Funktionen abzuschneiden. Dann wird eine Randintegralformulierung für das modifizierte Problem, welches die Formableitungen charakterisiert, hergeleitet. Abschließend werden für einige Beispiele numerische Resultate vorgestellt.</dc:description>
+          <dc:date>2011-10-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3109</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32540</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32540</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3109/kleemann_norbert.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

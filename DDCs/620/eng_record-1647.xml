@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1647">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1647</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Metalloxid-Gassensoren mit Siliziumcarbid Micro-Hotplate</dc:title>
+          <dc:title xml:lang="eng">Metal oxide gas sensors with silicon carbide micro-hotplate</dc:title>
+          <dc:creator>Wiche, Gregor</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ziel der Arbeit ist die Entwicklung Gassensoren auf Basis von Micro-Hotplates und unterschiedlichen Metalloxid-Dünnschichten. Mit Hilfe von FEM-Simulationen wird ein Micro-Hotplate-Design entworfen, das eine möglichst uniforme Temperaturverteilung im Bereich der Metalloxidschicht gewährleistet. Auf der Hotplate befinden sich ein Heizwiderstand, ein Temperaturmesswiderstand und eine IDE (Interdigital-Elektroden)-Struktur aus Platin. Die optimierte Micro-Hotplate besteht aus einer quadratischen 2 µm dicken Siliziumcarbid-Membran mit einer Kantenlänge von 1000 µm. Zur Minimierung der Leistungsaufnahme ist die Membran an vier 210 µm langen und 74 µm breiten Stege frei aufgehängt. Der Herstellungsprozess umfasst sieben Lithografieschritte. Auf (100)-Siliziumwafer wird bei 900 °C einseitig eine 2 µm SiC-Schicht mittels LPCVD abgeschieden. Es schließt sich die Metallisierung mit Platin und dessen Strukturierung an, wobei die Platinschicht zwischen zwei Schichten aus PECVD-SiO2 vom SiC isoliert bzw. passiviert wird. Die Bondpads werden galvanisch mittels Au auf 1µm verstärkt und die Passivierung im Bereich der IDE geöffnet. Die Membran wird von der Waferrückseite durch anisotropes Ätzen in KOH/H2O freigelegt. Schwerpunkt der Micro-Hotplate-Charakterisierung ist die Bestimmung der absoluten Membrantemperatur und der Temperaturverteilung auf der Membran. Neben dem integrierten Temperaturmesswiderstand werden anorganische Schmelzkreiden, Infrarotthermografie und Micro-Thermoelemente zur Temperaturmessung herangezogen und mit Simulationen abgeglichen. Bei einer Heizleistung von 300 mW (600 mW) beträgt die mittlere Membrantemperatur 500 °C (700 °C). Um den Einsatz der Micro-Hotplates als Metalloxid-Gassensoren zu testen, werden Gasmessungen mit fünf Metalloxiden (Indiumoxid (InxOyNz) mit/ohne Ta (Tantal)-Promotor, Molybdäntrioxid (MoO3) mit/ohne Ta-Promotor, Zinnoxid (SnO2)) durchgeführt. Die notwendige Temperung der Metalloxidschichten geschieht unter Verwendung des on-chip-Heizers. Die Messungen mit den Testgasen NH3, CH4, NO2, CO und H2 bestätigen überzeugend die Einsatzfähigkeit der entwickelten Micro-Hotplates als MOX-Gassensoren.</dc:description>
+          <dc:description xml:lang="eng">Goal of this thesis is the development of gas sensors based on micro-hotplates and various metal-oxide thin films. The micro-hotplate design developed and simulated meets the requirements of an almost uniform temperature distribution across the metal-oxide layer. The optimized micro-hotplate consists of a squared 2 µm thick silicon carbide membrane with an edge length of 1000 µm. There is a heating resistor, a temperature sensor and an IDE (interdigital electrode) made of platinum on the hotplate. To keep power consumption as low as possible the membrane is suspended on four 210 µm long and 74 µm wide legs. The fabrication process includes seven lithography steps. At 900 °C a 2 µm thick SiC-layer is deposited on (100) silicon wafers by LPCVD. Following the platinum layer is deposited and structured, whereas the platinum layer is sandwiched between two PECVD-SiO2 layers. On the one hand those layers isolate the platin from the SiC on the other hand the SiO2 serves as a passivation layer. The bondpads are reenforced by electroplating and the SiO2 passivation layer is opend in the area of the IDE. The membrane is being structured using anisotropic KOH-etching. A major part of the micro-hotplate-charcterization is the measurement of the membrane temperature and the temperature distribution across the membrane. Besides the on chip temperature sensor, inorganic melt crayons, infrared-thermography and mirco-thermocouples were used to measure the temperature of the membrane. The results were scaled using FEM-simulations. With a heating power of 300 mW (600 mW) an average membrane temperature of 500 °C (700 °C) is reached. The micro-hotplates are tested as metal-oxide-gas sensors using five different metal oxides (indium oxide (InxOyNz) with/without Ta (Tantal)-promotor, molybdenum trioxide (MoO3) with/without Ta-promotor, tin oxide (SnO2)). To anneal the metal oxides the on-chip heating resistor was used. The gas measurement tests using NH3, CH4, NO2, CO and H2 are demonstrating convincingly that the micro-hotplates developed can be used as metal-oxide-gas sensors.</dc:description>
+          <dc:date>2008-01-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1647</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17172</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17172</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1647/original_wiche_gregor.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1647/wiche_gregor.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

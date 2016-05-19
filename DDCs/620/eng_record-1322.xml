@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1322">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1322</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mikromaterialbearbeitung mit gepulsten Festkörperlasern</dc:title>
+          <dc:title xml:lang="eng">Micromachining with pulsed laser solid state lasers</dc:title>
+          <dc:creator>Binder, Alexander</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Streben nach kleiner werdenden Bauteilen in allen Bereichen der Unterhaltungs-, Infor-mations- und Medizintechnik erfordert zu deren Fertigung Werkzeuge höchster Präzision. Gepulste Lasersysteme eignen sich aufgrund der geringen thermischen Belastung der Bauteile und der berührungslosen Wechselwirkung zwischen Werkzeug und Werkstück besonders gut zur Mikrostrukturierung sowohl empfindlicher als auch harter Werkstoffe. Das in dieser Arbeit vorgestellte Nd:YAG Oszillator-Verstärker-Lasersystem (MOPA-System) stellt ein hochflexibles Werkzeug für die Mikrosystemtechnik dar, bei dem die Leistung eines 10 W Grundmodelasers durch zwei weitere Laserkavitäten um eine Größenordnung verstärkt wird, wobei die hervorragende Strahlqualität des Grundmodelasers erhalten bleibt. In der Grund-wellenlänge 1064 nm erreicht dieser Laser 100 W Ausgangsleistung und ist in der Lage, bei einer Repetitionsrate von 100 Hz eine Energie von 500 mJ zu emittieren. Durch die hohe Lei-stungsdichte eignet sich das System besonders gut zur Frequenzkonversion. So lassen sich durch Frequenzverdopplung bei 532 nm über 40 W erreichen, so dass z. B. sehr hohe Vor-schubgeschwindigkeiten beim Trennen von Glas möglich sind. Durch die ausgezeichnete Strahlqualität des Oszillator-Verstärkersystems lassen sich Fokus-durchmesser im Bereich weniger Mikrometer erzielen, so dass hochpräzise Mikrostrukturen herstellbar sind. Bei einer Pulsdauer zwischen 26 ns und 230 ns sowie Repetitionsraten zwi-schen 100 Hz und 7 kHz kann man Einzelpulsenergien im Bereich von wenigen µJ bis zu einigen 100 mJ flexibel einstellen. Somit werden auch bei konventionell nur sehr schwer bearbeitbaren Werkstoffen, wie z.B. Wolfram oder Keramik, sehr hohe Abtragraten erreicht. Durch die kurze Pulsdauer verdampft das Material größtenteils und es entsteht nur wenig stö-rende Schmelze. Ein wesentlicher Aspekt des Systems ist die hohe Flexibilität hinsichtlich Pulsdauer, Pulsenergie und Wellenlänge, die es ermöglicht, ein breites Feld an Applikationen abzudecken. Zur Verdeutlichung des Leistungsspektrums seien zwei Extrembeispiele ange-führt: Für die Galvanotechnik wurden in eine 50 µm dicke Stahlfolie über 1000 Bohrungen mit je 12 µm Durchmesser auf der Fläche eines Quadratmillimeters eingebracht. Ein Weltre-kord-Schachtverhältnis (Tiefe/mittlerer Durchmesser) von 200 gelang in 20 mm dickem Edel-stahl.</dc:description>
+          <dc:description xml:lang="eng">The drive towards smaller components in all areas of communication, information and medi-cal technology demands fabrication tools of high precision. Pulsed laser systems are particu-larly suitable for micro-structuring of both sensitive and hard materials because of the low thermal loading of the components and the contactless nature of the process. In this work a Nd:YAG MOPA-Laser (Master-Oscillator Power-Amplifier) is introduced which is a flexible tool for microsystem technology. The MOPA is based on a single mode laser (the master oscillator) which emits a laser beam of low average power but excellent beam quality. This is amplified in order of a magnitude by two downstream cavities which form the power ampli-fier whilst almost maintaining the beam quality. The MOPA laser provides excellent beam quality (M² = 2.3) at high average power level (100 W). As a result of the high power density the MOPA system is also particularly well suited to frequency conversion up to the ultraviolet wavelength regime. In this manner more than 40 W has been achieved at 532 nm and glass cutting at high feed rates have been performed. As a result of the excellent beam quality of the MOPA system it is possible to achieve focus diameters of the order of a few micrometers which allows the production of high precision microstructures. With a pulse duration between 26 ns and 230 ns the single pulse energy level can be as much as 500 mJ. Thus high surface removal rates are being achieved on materials such as, for example, ceramic or tungsten that both can be machined conventionally only with great difficulty. As a result of the short pulse duration the material is for the most part vaporised, only a small amount of undesired melt occurs. An important feature of the system is its high flexibility with regard to pulse duration, pulse energy and wavelength that enables it to cover a broad range of applications. Two extreme examples will help to make clear the spectrum of MOPA applications: For use in electroplating more then 1000 drillings each of 12 µm in diameter have been produced on the surface of a square millimeter in a 50 µm thick stainless steel foil. A world record aspect ratio of 200 has been achieved in 20 mm thick stainless steel with an average diameter of only a tenth of a millimeter.</dc:description>
+          <dc:date>2006-08-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1322</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13561</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13561</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1322/binder_alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

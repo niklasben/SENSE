@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4467">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4467</identifier>
+        <datestamp>2013-12-16</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">On layer-wise representations in deep neural networks</dc:title>
+          <dc:title xml:lang="deu">Schichtweise Repräsentationen in Tiefen Neuronalen Netzen</dc:title>
+          <dc:creator>Montavon, Grégoire</dc:creator>
+          <dc:subject>ddc:0</dc:subject>
+          <dc:description xml:lang="eng">It is well-known that deep neural networks are forming an efficient internal representation of the learning problem. However, it is unclear how this efficient representation is distributed layer-wise, and how it arises from learning. In this thesis, we develop a kernel-based analysis for deep networks that quantifies the representation at each layer in terms of noise and dimensionality. The analysis is applied to backpropagation networks and deep Boltzmann machines, and is able to capture the layer-wise reduction of noise and dimensionality. The analysis also reveals the disrupting effect of learning noise, and how it prevents the emergence of highly sophisticated deep models.</dc:description>
+          <dc:description xml:lang="deu">Es ist bekannt, dass tiefe neuronale Netze eine effiziente interne Repräsentation des Lernproblems bilden. Es ist jedoch unklar, wie sich diese effiziente Repräsentation über die Schichten verteilt und wie sie beim Lernen entsteht. In dieser Arbeit entwickeln wir eine Kernel-basierte Analyse für tiefe Netze. Diese Analyse quantifiziert die Repräsentation in jeder Schicht in Bezug auf Rauschen und Dimensionalität. Wir wenden die Analyse auf Backpropagation-Netze und tiefe Boltzmann-Maschinen an und messen die schichtweise Reduzierung von Rauschen und Dimensionalität. Die Analyse zeigt auch den störenden Einfluss des Lernrauschens: Dieses verhindert die Entstehung komplexer Strukturen in tiefen Modellen.</dc:description>
+          <dc:date>2013-12-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4467</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44675</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44675</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4467/montavon_gregoire.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

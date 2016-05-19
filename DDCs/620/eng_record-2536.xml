@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:02Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2536">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2536</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung neuartiger Konzepte zur geregelten Ansteuerung von IGBTs</dc:title>
+          <dc:title xml:lang="eng">Investigation of novel control-concepts for IGBTs</dc:title>
+          <dc:creator>Fink, Karsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Einsatz von schnellschaltenden IGBTs in Niederspannungs- und Mittelspannungsanwendungen sowie Energieübertragungssystemen stellt an die Zuverlässigkeit der eingesetzten Halbleiter, der Isolationssysteme und die elektromagnetische Umgebung hohe Anforderungen. Daher ist eine aktive Beeinflussung der Schalteigenschaften des IGBTs von großem Interesse. Die Dissertation behandelt die Untersuchung neuartiger Ansteuerverfahren zur Regelung der Kollektorstromänderungsgeschwindigkeit während des Einschaltvorganges und der Kollektor-Emitter-Spannungsänderungsgeschwindigkeit während des Ausschaltvorganges. Weiterhin wird ein neues Verfahren zur Überspannungsbegrenzung beim Ausschalten des IGBTs vorgestellt und untersucht. Basierend auf einer Beschreibung der Funktionsweise und der verfügbaren Bauformen des IGBTs wird seine Anwendung in verbreiteten Wechselrichtertopologien erläutert. Ausgehend von einer Übersicht der in der Literatur verfügbaren Modellierungen des Schaltverhaltens des IGBTs und des Standes der Technik bei IGBT-Ansteuerungen werden neuartige geregelte IGBT-Ansteuerkonzepte zur di/dt-Regelung, du/dt-Regelung und zum Active Clamping (Aktive Überspannungsbegrenzung) vorgestellt. Experimentell werden diese Konzepte mit umfangreichen Einzelpulsmessungen an einem 1700V/2400A-IGBT verifiziert. Mit den im Rahmen dieser Arbeit durchgeführten Untersuchungen kann gezeigt werden, dass die neuartigen Konzepte eine geschlossene Regelung der Kollektorstromänderungsgeschwindigkeit und der Kollektor-Emitter-Spannungsänderungsgeschwindigkeit sowie ein Active Clamping für Multichip-Module auf Basis einer einheitlichen und einfach zu parametrierenden Schaltungsarchitektur möglich macht.</dc:description>
+          <dc:description xml:lang="eng">The use of fast switching IGBTs in low voltage and medium voltage applications as well as energy transmission systems has to meet high requirements concerning the reliability of semiconductors, isolation systems and EMC. Thus the active control of the switching characteristic of IGBTs is a matter of large interest. The scope of this thesis is the investigation of novel control-techniques for the collector current slope during turn-on and the collector-emitter voltage slope during turn-off. Furthermore a new active clamping method during IGBT’s turn-off is presented and analysed. Based on a description of the operating mode and the available designs of IGBTs its application in common inverter topologies is explained. On the basis of an overview of IGBT’s switching behaviour modelling methods and the state-of-the-art of gate drive techniques novel control schemes for di/dt-control, dv/dt-control and active clamping are introduced. These concepts are experimentally verified by extend single-shot measurements with a 1700V/2400A-IGBT. The experimental results and their analysis show, that these novel concepts make a closed-loop control of the collector current slope and the collector-emitter voltage slope as well as an active clamping for multi-chip-IGBTs possible. They are implemented by an uniform and easy to parametrise circuit architecture.</dc:description>
+          <dc:date>2010-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2536</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26828</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26828</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2536/fink_karsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

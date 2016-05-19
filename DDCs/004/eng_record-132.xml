@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:132">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:132</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Intensional Equality for Process Calculi based on Epsilon-Structures</dc:title>
+          <dc:title xml:lang="deu">Intensionale Gleichheit für Prozeßkalküle basiert auf Epsilon-Strukturen</dc:title>
+          <dc:creator>Pooyan-Weihs, Ladan</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand der Arbeit ist zum einen eine Vertiefung des Verständnisses des Begriffs intensionaler Gleichheit im Bereich von Prozeßkalkülen, der komplementär zum Begriff der extensionalen Gleichheit ist, und zum zweiten die Definition einer denotationellen Semantik für Prozesse in Epsilon-Strukturen, die nicht wohlfundierte Mengen zur Modellierung von Selbstbezüglichkeit zulassen. Die intensionale Gleichheit erlaubt Prozesse aufgrund ihrer (syntaktischen) Definition zu unterscheiden, selbst wenn ihr beobachtbares Verhalten, d.h. ihre Extension, gleich ist. Dadurch kann z.B. erfolgreiches Terminieren von blockierendem Verhalten unterschieden werden. Intensionale Aspekte können durch zusätzliche Sortierung von Prozessen kodiert werden. Die operationelle Semantik von sortierten Prozessen wird dann durch sortierte LTS (Labelled Transition Systems) dargestellt. Die abstrakte denotationelle Semantik ist durch eine Interpretation von LTS in Epsilon-Strukturen definiert, die einerseits die Sortierung aufheben und andererseits rekursive Prozesse ohne zusätzliche topologische Konstruktionen modellieren können. Als exemplarische Anwendung wird die allgemeine Semantikdefinition von LTS in Epsilonstrukturen für dyadischen Interaktionskalkül nach Honda und Abramskys lazy Lambda-Theorie vorgestellt und dadurch in einen einheitlichen Rahmen gebracht.</dc:description>
+          <dc:date>2001-11-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/132</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1279</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1279</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/132/pooyan_ladan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

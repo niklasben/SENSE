@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1251">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1251</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Extensions to Kernel Dependency Estimation - with Applications to Robotics</dc:title>
+          <dc:title xml:lang="deu">Erweiterungen zur Methode der Kernel Dependency Estimation und deren Anwendungen in der Robotik</dc:title>
+          <dc:creator>Bakir, Gökhan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This dissertation contributes several algorithmic extensions to the method of Kernel Dependency Estimation and explores its applications in robotic imitation learning. Kernel Dependency Estimation is a novel learning algorithm that can learn between sets. In contrast to existing algorithms there are no assumptions on the nature of the input and output set elements due to the use of kernel functions. The original learning problem is then solved by KDE via a high dimensional multivariate regression problem.</dc:description>
+          <dc:description xml:lang="deu">Diese Dissertation behandelt algorithmische Erweiterungen der Kernel Depency Estimation (KDE) und deren Anwendungen auf das Problem des Imitationslernens. KDE ist eine neues Lernverfahren, mit dem sich Abbildungen zwischen Mengen lernen lassen. Hierbei werden, im Gegensatz zu existierenden Lernverfahren, keinerlei Annahmen über den Typ der Mengenelemente gemacht. Die Unabhängigkeit vom jeweiligen Datentyp wird durch den Einsatz von Kernfuntionen erreicht, mit denen sich aufgabenspezifische Informationen Datentypen kapseln lassen. Das originale Lernproblem kann dann in einem Merkmalsraum als hochdimensionales multivariates lineares Regressionsproblem gelöst werden.</dc:description>
+          <dc:date>2006-04-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1251</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12564</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12564</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1251/bakir_goekhan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

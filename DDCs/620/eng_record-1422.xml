@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1422">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1422</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Wechselwirkungen von Schwingungen zwischen Motor-Getriebe-Verbund und Kurbeltrieb als Grundlage für Körperschallanalysen</dc:title>
+          <dc:title xml:lang="eng">Interaction of mechanical vibrations of the engine gearbox assembly and the crankshaft drive as basis for structureborne noise analyses</dc:title>
+          <dc:creator>Bohn, Peter</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden die Eigenschwingungsformen der beiden Teilsysteme Kurbeltrieb und Motor-Getriebe-Verbund in einem einzigen Verfahren zur Körperschallberechnung mit gekoppelten Teilsystemen untersucht. Der Schwerpunkt liegt dabei auf der Identifikation der Zusammenhänge der Schwingungsformen beider Teilsysteme und der wesentlichen Einflussparameter unter besonderer Berücksichtigung der Koordinatentransformation beim Übergang vom rotierenden Koordinatensystem der Kurbelwelle auf das ortsfeste Koordinatensystem des Motor-Getriebe-Verbundes und umgekehrt. Dabei wird nicht nur die Elastizität des Kurbelgehäuses berücksichtigt, sondern der Einfluss der Betriebsschwingungen des gesamten Motor-Getriebe-Verbundes auf die Kurbeltriebschwingungen besonders intensiv untersucht. Basierend auf diesen Erkenntnissen wurden in dieser Arbeit neue Auswerteverfahren entwickelt, mit denen die Analyse der Wechselwirkungen zwischen Motor-Getriebe-Verbund und Kurbeltrieb auf einfache Weise möglich ist, um gezielt Maßnahmen zur Verbesserung des Körperschalls ableiten zu können. Dazu wird die aus der Koordinatentransformation resultierende Modulation von Schwingungen eingehend betrachtet. Die Abhängigkeit der Modulation von den beiden Parametern Drehzahl und Zapfenverlagerungsbahn und die Auswirkungen der Modulation auf den Körperschall wird in den Auswerteverfahren besonders berücksichtigt. Sämtliche Berechnungsschritte wurden von geeigneten Messungen an einzelnen Bauteilen bis hin zum Vollmotor begleitet, um die Realitätsnähe der gewonnenen Erkenntnisse gewährleisten zu können. Als Ergebnis der Arbeit konnte ein für die Körperschallanalyse relevanter Einfluss der Motorstruktur auf die Schwingungen des Kurbeltriebs nachgewiesen werden. Die Eigenschwingungen des Motor-Getriebe-Verbundes können beim Übergang auf den Kurbeltrieb und zurück auf die Motorstruktur moduliert werden, wodurch sie sich über die oberen und unteren Seitenfrequenzen in einem deutlich vergrößerten Frequenzspektrum auswirken. Diese Eigenschaft konnte mit den bisherigen Berechnungs- und Auswerteverfahren nicht erfasst werden.</dc:description>
+          <dc:description xml:lang="eng">In the present essay the eigen modes of the two subsystems crankshaft drive and engine gearbox assembly are examined in a single step calculation for the structureborne noise with coupled subsystems. The emphasis is thereby on the identification of the correlation of the modes of motion of both subsystems and the substantial influence parameters under special consideration of the coordinate transformation with the transition of the rotary coordinate system of the crankshaft to the stationary coordinate system of the engine gearbox assembly and in reverse. Thereby not only the elasticity of the crank case is taken into account, but also the influence of the operating vibrations of the entire engine gearbox assembly on the crankshaft drive vibrations are examined intensively. Based on these realizations new evaluation procedures were developed in this essay, with which the analysis of the interactions between the engine gearbox assembly and the crankshaft drive is possible in a simple manner, in order to be able to take specific measures for the improvement of the structureborne noise. For that purpose the modulation of vibrations resulting from the coordinate transformation is regarded in detail. The dependence of the modulation on two parameters namely the rotation speed and the crank pin shifting path as well as the effects of the modulation on the structureborne noise is particularly considered in the evaluation procedures. All computation steps were accompanied by suitable measurements of individual construction units up to the complete engine, in order to guarantee the reality proximity of the discovered realizations. As result of this essay an influence of the engine structure on the vibrations of the crankshaft drive, relevant for the structureborne noise analysis, could be proven. The eigen vibrations of the engine gearbox assembly can be modulated by the transition to the crankshaft drive and back to the engine structure, whereby they result in the upper and lower side frequencies in a clearly enlarged frequency spectrum. This characteristic could not be described with the hitherto existing computation and evaluation procedures.</dc:description>
+          <dc:date>2007-01-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1422</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14628</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14628</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1422/original_bohn_peter.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1422/bohn_peter.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

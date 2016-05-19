@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1408">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1408</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Experimentelle Untersuchung und numerische Simulation der Flüssigkeits-Feststoff-Strömung im Strahlschlaufenapparat</dc:title>
+          <dc:title xml:lang="eng">Experimental Investigation and Numerical Simulation of the Solid-Liquid Flow in Jet-Loop Reactors</dc:title>
+          <dc:creator>Mier, Patrick</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit werden die Flüssigkeits- und die Flüssigkeits-Feststoff-Strömung in Strahlschlaufenapparaten experimentell und mittels numerischer Strömungssimulation untersucht. Die experimentelle Untersuchung erfolgt durch Bestimmung der Axialgeschwindigkeit und des Turbulenzgrades der Axialgeschwindigkeit der kontinuierlichen flüssigen Phase mit Hilfe der Laser-DOPPLER-Anemometrie (LDA) bis zu einem Dispersphasenanteil von 15 Vol. %. Bei der Flüssigkeits-Strömung bestätigen die LDA-Messungen weitgehend bekannte Daten aus früheren Untersuchungen. In der Flüssigkeits-Feststoff-Strömung zeigt sich neben dem erwarteten Rückgang der Umwälzung im Strahlschlaufenapparat mit zunehmendem Dispersphasenanteil ein deutlicher Anstieg des Turbulenzgrades in der kontinuierlichen flüssigen Phase. Da die verwendeten Partikeln wesentlich größer als die KOLMOGOROFF-Länge der kleinsten turbulenten Wirbel im untersuchten System sind, wird der Anstieg des Turbulenzgrades auf die im Bereich der Partikelumströmung und des Partikelnachlaufes erzeugten Wirbel zurückgeführt. Zur numerische Strömungssimulation werden die zwei kommerziell verfügbaren Simulationsprogramme STAR-CD 3.05A und CFX 4.3 eingesetzt. Bei der Simulation der Flüssigkeits-Strömung zeigt sich eine sehr gute Übereinstimmung mit Literaturdaten und eigenen experimentellen Daten. Mit dem validierten Modell für die Flüssigkeits-Strömung wird eine evolutionsstrategische geometrische Optimierung des Strahlschlaufenapparates durchgeführt. Bei der Simulation der Flüssigkeits-Feststoff-Strömung im Strahlschlaufenapparat mit dem EULER-EULER-Verfahren erweist sich eine Begrenzung des maximalen Dispersphasenanteils sowie eine Berücksichtigung des Einflusses der dispersen festen Phase auf die Turbulenz in der flüssigen Phase als erforderlich. Zur Begrenzung des maximalen Dispersphasenanteils wird das „Solids Pressure Model“ eingesetzt. Zur Beschreibung des Einflusses der dispersen festen Phase auf die Turbulenz in der flüssigen Phase wird ein Quellterm für die Transportgleichung der turbulenten kinetische Energie entwickelt und die Parameter dieses Quellterms an experimentelle Daten angepasst. Die Simulationsdaten werden mit den eigenen experimentellen Daten validiert. Die durch Reduzierung der Treibstrahlgeschwindigkeit ermittelte minimale Treibstrahlgeschwindigkeit zur Umwälzung der dispersen festen Phase kann durch die Simulation exakt bestimmt werden. Mit dem validierten Modell wird die Dispersphasenverteilung betrachtet und der Einfluss der dispersen festen Phase auf die Umwälzung und den Widerstandsbeiwert im Strahlschlaufenapparat ermittelt und diskutiert.</dc:description>
+          <dc:description xml:lang="eng">In this work liquid and solid-liquid flows in jet-loop reactors are investigated experimentally and by application of computational fluid dynamics (CFD). Using Laser-DOPPLER-Anemometry (LDA) the axial velocity and the turbulence intensity of the axial velocity of the continuous liquid phase are measured up to dispersed phase volume fraction of 15 % by volume. LDA measurements of the single phase liquid flow widely confirm results of former investigations. In solid-liquid flow beside the expected decrease of internal circulation with increasing volume fraction of the dispersed solid phase, a remarkable increase of turbulence intensity in the liquid phase can be observed. As the solid particles are significantly larger than the KOLMOGOROFF length scale in this particular system, the increase of the turbulence intensity is traced back to eddies generated in the particle near region and the particle wake. Numerical investigations are carried out using two commercially available CFD-codes (Star-CD 3.05A and CFX 4.3). Simulations of the single phase liquid flow can by validated by data from literature and own experimental investigations. The validated model for the single phase liquid flow in jet-loop reactors is used to apply an evolution-strategic optimization of the reactor geometry. CFD simulations of the solid-liquid two phase flow in jet-loop reactor using the EULERIAN-EULERIAN approach show, that limitation on the dispersed phase volume fraction and the consideration of the influence of dispersed solid phase on the turbulence of the continuous liquid phase is necessary to obtain reasonable results. The dispersed phase volume fraction is limited by the application of the “Solids Pressure Model�?. To describe the influence of the dispersed solid phase on the turbulence of the continuous liquid phase a source term for the transport equation of the turbulent kinetic energy is developed and the parameters of this source term are fitted to own experimental data. Simulations are validated by own experimental data. The minimum nozzle velocity to suspend a given dispersed phase volume fraction can accurately be determined by CFD. The validated CFD model for solid-liquid flow in jet-loop reactors is applied to determine and discuss the local dispersed phase distribution and the influence of the disperse solid phase on the internal circulation and the friction factor in jet-loop reactors.</dc:description>
+          <dc:date>2007-01-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1408</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14612</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14612</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1408/mier_patrick.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2491">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2491</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung mehrphasiger Filmströmungen unter Verwendung einer Volume-Of-Fluid-ähnlichen Methode</dc:title>
+          <dc:title xml:lang="eng">Investigation on Multi-Phase Film Flows Using a Volume-of-Fluid-Like Method</dc:title>
+          <dc:creator>Hoffmann, Andreas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Filmströmungen zeichnen sich durch eine große Oberfläche im Verhältnis zu ihrem Volumen aus, was für Wärmeübertragung und Stoffaustausch vorteilhaft ist. Aus diesem Grund sind sie für die chemische Industrie gerade für Verdampfungs-, Kondensations- und Destillationsprozesse von besonderer Bedeutung. Folglich sind Filmströmungen Untersuchungsgegenstand vieler Arbeiten. Durch steigende Rechnerkapazitäten haben in den letzten Jahren vor allem die numerischen Verfahren an Bedeutung gewonnen. Die vorhandenen Modelle zur Beschreibung von Filmströmungen basieren auf verschiedenen Annahmen, so dass es unerlässlich ist, die Ergebnisse aus diesen Untersuchungen mit Messdaten zu validieren. Die vorliegende Forschungsarbeit widmet sich der Simulation von Film- und Rinnsalströmungen auf geneigten Platten, wofür die entsprechende Anwendung in dem Finite-Volumen-Programm CFX 5 implementiert wird. Dazu wird ein Volume-of-Fluid-ähnlicher Euler-Ansatz verwendet. Die Oberflächenspannung wird mit einem Continuous-Surface-Force-Modell berücksichtigt. Besonderes Gewicht wird bei diesen Untersuchungen auf die Validierung der gewonnen Ergebnisse gelegt. Hierzu werden theoretische und experimentelle Ergebnisse aus der Literatur, hauptsächlich Messergebnisse aus einem Parallelprojekt, herangezogen. Zudem unternimmt die vorliegende Forschungsarbeit einen ersten Schritt, die Lücke zu füllen, die im Bereich der Simulation von mehrphasigen Flüssigkeitsfilmströmungen vorliegt. Das Strömungsverhalten von zwei oder mehr nicht-mischbaren Flüssigkeiten unterscheidet sich deutlich von dem einphasiger Filmströmungen. Die beiden flüssigen Phasen treten dabei als Film- und Rinnsal- oder Tropfenströmung auf. Dabei beeinflussen sich die beiden Phasen gegenseitig stark. Die in den Simulationen gewonnenen Ergebnisse werden wiederum mit Messdaten validiert. Zusätzlich werden ein- und zweiphase Flüssigkeitsströmungen in Destillations-Packungskolonnen untersucht, wobei die Gasgegenströmung vernachlässigt wird. Die Simulationsergebnisse liegen je nach Komplexität des Untersuchungsgegenstandes in befriedigender bis guter Übereinstimmung mit den Messdaten und zeigen, dass die korrekte Erfassung der Geometrie und weiterer entscheidender Parameter, wie Kontaktwinkel und Flüssigkeitsbelastung, von bedeutendem Einfluss auf die Qualität der Ergebnisse ist, so dass theoretische Ansätze eher für einfache Geometrien der Oberflächen und allgemeine Betrachtungen geeignet scheinen. Zudem werden Aussagen über die Strömung in Packungskolonnen getroffen, welche die Dimensionierung solcher Apparate betreffen.</dc:description>
+          <dc:description xml:lang="eng">Liquid film flows qualify for heat and mass transfer applications due to their high surface area compared to their volume. Therefore, they are of special interest for the chemical industry in the areas of boiling, condensation and distillation. Due to their high importance liquid film flows are subject to various research studies. Thanks to increasing computational capacity over the last years, numerical investigations have gained in importance. However, since the existing models are based on various assumptions it is necessary to validate these solutions with experimental data. The present research study focuses on the simulation of liquid film and rivulet flows on inclines. Therefore, the corresponding application is implemented in the commercial finite volume programme CFX 5. A volume-of-fluid like Eulerian model is used for the free surface flow in combination with a continuous-surface-force model for the surface tension. Special attention is paid to the validation of the simulation results with various theoretical and experimental data from literature, mainly with experimental data of a partner project. Furthermore, the present study takes first steps in closing the gap left in the area of simulating multiphase free surface flows. The flow behaviour of two or more immiscible liquids differs considerably from the flow behaviour of a single liquid phase. The two liquids develop film and rivulet (or droplet) flow, respectively, significantly effecting each other. Again, simulation results are compared to experimental data. Additionally, single and two phase free surface flows in structured column packings are simulated, neglecting the counter current of the gas phase. It is shown that, depending on the complexicity of the problem, the simulation results are in good to sufficient agreement with the experimental data. However, the accurate implementation of geometry and important parameters, as contact angle and liquid load, is essential for the quality of the results, leaving theoretical models to simple surface geometries and general considerations. Additionally, indications are given concerning the dimensioning of packed columns.</dc:description>
+          <dc:date>2010-04-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2491</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26172</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26172</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2491/hoffmann_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

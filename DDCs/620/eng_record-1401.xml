@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1401">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1401</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Automated Target Cascade</dc:title>
+          <dc:title xml:lang="deu">Automatisierte Zielkaskadierung</dc:title>
+          <dc:creator>Taboada Di Losa, Martín Oscar</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">During the development of a suspension assembly for a road vehicle, often conflicting targets must be satisfied. Components, assemblies and, in the end, products are becoming increasingly complex, so-phisticated and perfect. Cost, weight, reliability, safety, environment and even style constrain and put new challenges on the engineers. In particular, when focusing on the design of a suspension compo-nent, one of the most important factors is its weight. For passenger cars, reducing the mass improves the acceleration of the vehicle and returns lower fuel consumption. At the same time, lighter components means less raw material used during production and eventually, depending on the processes involved, less waste. Therefore, when a suspension com-ponent that is already designed and in production goes through an optimisation process, if the design space and the hardpoints are kept, any mass that can be taken out of it without worsening its perform-ance or changing to more expensive materials, methods, etc, can usually be translated to lower product cost. Bearing this in mind, it looks appealing to try to optimise a suspension assembly by finding a way to reduce the weight of the components without falling in problems such as increased compliances that could affect the handling characteristics of the vehicle. The aim of this thesis is, then, to design and develop an optimisation method able to cope with existent suspension assemblies, their requirements and targets both at assembly and component level, and systematically look for the best way to weaken and lighten the components without compromising suspension performance. The thesis focuses on a new approach based on the stiffness properties of each component by looking at its mathematical representation, the stiffness matrix. Once this entity is parameterised, a set of modifications is found by means of a genetic algorithm optimisation process. These modifications are tested on a virtual model and, if satisfactory from the suspensions performance point of view, used to guide the engineer in the redesign of lighter, more efficient components.</dc:description>
+          <dc:description xml:lang="deu">Bei der Entwicklung einer Radaufhängung für ein Straßenfahrzeug müssen häufig widersprüchliche Ziele erreicht werden. Komponenten, Baugruppen und schließlich Produkte sind immer komplexer, höher entwickelt und vollkommener. Kosten, Gewicht, Zuverlässigkeit, Sicherheit, Umweltschutz und sogar stilistische Aspekte stellen die Ingenieure vor neue Herausforderungen. Insbesondere bei der Konstruktion einer Aufhängungskomponente ist einer der wichtigsten Faktoren ihr Gewicht. Bei Personenkraftwagen führt eine Gewichtsreduzierung zu einer Verbesserung der Fahrzeugbeschleunigung und zu einem geringeren Kraftstoffverbrauch. Gleichzeitig werden für leichtere Komponenten in der Produktion weniger Rohstoffe verwendet und gegebenenfalls wird, je nach Prozess, weniger Müll produziert. Wenn nun eine bereits konstruierte und produzierte Aufhängungskomponente einen Optimierungsprozess durchläuft, kann, unter Beibehaltung des Konstruktionsraums und der Kinematikpunkte, Gewicht eingespart werden, ohne dass die Leistung der Komponente herabgesetzt und auf teurere Werkstoffe, Verfahren usw. zurückgegriffen werden muss. Ein Ergebnis dieser Optimierung sind in der Regel niedrigere Produktkosten. Es scheint also interessant, eine Radaufhängung zu optimieren, indem eine Möglichkeit gefunden wird, das Gewicht der Komponenten zu reduzieren, ohne dass Probleme wie eine höhere Nachgiebigkeit auftreten, die das Fahrverhalten des Fahrzeugs beeinträchtigen können. Ziel dieser Dissertation ist es also, eine Optimierungsmethode zu entwerfen und zu entwickeln, die auf vorhandene Radaufhängungen, ihre Anforderungen und Ziele in Bezug auf die Baugruppe selbst und ihre Komponenten anwendbar ist, und systematisch nach der besten Möglichkeit zu suchen, die Komponenten leichter zu machen, ohne die Leistung der Radaufhängung herabzusetzen. Schwerpunkt dieser Dissertation ist ein neuer Ansatz, der auf den Steifigkeitseigenschaften jeder Komponente beruht. Dabei wird ihre mathematische Darstellung, die Steifigkeitsmatrix, untersucht. Nach der Parametrisierung wird in einem Optimierungsprozess mit genetischen Algorithmen eine Reihe von Modifizierungen ermittelt. Diese Modifizierungen werden an einem virtuellen Modell getestet und, wenn die Leistung der Radaufhängung zufrieden stellend ist, verwendet, um den Konstrukteur bei der Neukonstruktion von leichteren und effizienteren Komponenten zu unterstützen.</dc:description>
+          <dc:date>2006-12-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1401</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14359</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14359</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1401/taboada_martin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

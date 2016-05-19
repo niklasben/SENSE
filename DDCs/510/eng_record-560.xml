@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:560">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:560</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Möbius Invariant Flows of Tori in S4</dc:title>
+          <dc:title xml:lang="deu">Möbius invariante Flüsse von Tori in S4</dc:title>
+          <dc:creator>Bohle, Christoph</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit beschreibt, wie Bäcklund- und Darbouxtransformationen sowie Solitonenflüsse für allgemeine konforme Immersionen von Riemannschen Flächen in die 4-Sphäre definiert werden können. Dabei wird detailliert auf den Zusammenhang zu den klassischen Transformationstheorien für Isotherm- und Willmoreflächen eingegangen, die als Spezialfälle in der neuen Theorie enthalten sind. Das Hauptinteresse dieser Arbeit gilt den globalen Eigenschaften der Transformationen im Fall konformer Immersionen von Riemannschen Flächen des Geschlechts 1. Es wird gezeigt, dass im Fall konformer Immersionen eines Torus mit Normalbündel vom Grad 0 sowohl Bäcklund- als auch Darbouxtransformationen das Willmorefunktional und das sogenannte Spektrum erhalten. Für diese Immersionen wird eine Spektralkurve definiert, welche die Menge der Darbouxtransformationen der Immersion parametrisiert und eine natürliche Interpretation als holomorphe Kurve in $CP^3$ erlaubt. Die Solitonenflüsse werden als spezielle Deformationen quaternionisch projektiver Strukturen eingeführt. Es werden Evolutionsgleichungen für die Invarianten hergeleitet, die nach dem Fundamentalsatz der Flächentheorie in der 4--dimensionalen Möbiusgeometrie eine konforme Immersion bis auf Möbiustransformation eindeutig beschreiben. Als Beispiel wird gezeigt, dass der Davey--Stewartson--Fluss für Flächen, im Fall von Zylindern, Rotationsflächen und Kegeln über Kurven in 3--dimensionalen Raumformen, den bekannten Rauch--Ring--Fluss für Raumkurven ergibt und dass analog der Novikov--Veselov--Fluss dem mKdV--Fluss für Raumkurven entspricht. Abschließend werden die beiden folgenden Sätze bewiesen: der erste Satz besagt, dass ein Torus in der 4--Sphäre, der in einer 3--Sphäre enthalten ist, genau dann unter dem Davey--Stewartson--Fluss stationär ist, wenn er isotherm und constrained Willmore ist. Der zweite Satz zeigt, dass man den Davey--Stewartson--Fluss unter bestimmten Annahmen als Grenzwert von Darbouxtransformationen erhält.</dc:description>
+          <dc:description xml:lang="eng">This thesis describes, how Bäcklund and Darboux transformations as well as soliton flows can be defined for general conformal immersions of Riemann surfaces into the 4-sphere. This generalizes the classical transformation theories für isothermic und Willmore surfaces. The emphasis is on the global theory for conformal immersions of tori.</dc:description>
+          <dc:date>2003-09-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/560</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5555</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5555</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/560/bohle_christoph.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

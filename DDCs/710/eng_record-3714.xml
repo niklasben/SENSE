@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3714">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3714</identifier>
+        <datestamp>2014-06-30</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">New Towns - Promises Towards Sustainable Urban Form : from "Shushtar-No" to "Shahre Javan Community" </dc:title>
+          <dc:creator>Shirazi, Mohammad Reza</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="eng">This book presents a comparative study between Shahre Javan Community Pilot Project and Shushtar-No, the latter a residential complex designed and partly realized 35 years ago in the southern part of Iran, the former a residential quarter in Hashtgerd New Town in the west of Tehran as the Pilot Project of the "Young Cities Research Project", which has been conducted by a multidisciplinary research group at Technische Universität Berlin in cooperation with the Building and Housing Research Center (BHRC) of Iran. This comparative study shows how these two projects have planned to meet the place-specific and time-related prerequisites expected from an optimal residential community.</dc:description>
+          <dc:date>2013-05-24</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3714</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39119</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39119</dc:identifier>
+          <dc:identifier>978-3-7983-2513-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3714/9783798325128_content_u_cover.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

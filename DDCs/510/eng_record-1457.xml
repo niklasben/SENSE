@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1457">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1457</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">High resolution coding of point processes and the Boolean model</dc:title>
+          <dc:title xml:lang="deu">Kodierung von Punktprozessen und des Booleschen Modells</dc:title>
+          <dc:creator>Vormoor, Christian</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">The thesis "High resolution coding of point processes and the Boolean model" is a contribution to the field of coding theory, with a special focus on the problem of quantization, entropy constrained coding and random coding. We provide an asymptotic upper bound for the quantization error of point processes on bounded metric spaces with finite upper Minkowski-dimension. Therefore we consider the point process conditioned upon the number of points and construct specific code- books for these conditional processes. Via the cardinality of these codebooks we get a relation between the quantization error and the given rate. As a special case, we establish upper and lower bounds for the quantization error asymptotics of a stationary Poisson point process on a compact subset of R^d under Hausdorff-distance. For the lower bound we use the relation between the quantization error and the so called small ball probabilities. Furthermore we compute an asymptotic upper bound of the entropy constrained error and compare the results with the Gaussian case. In the case of one dimension we introduce a D([0,a],{w1,...,wq})-valued random element induced by a point process on the compact interval [0,a] satisfying a certain growth condition and provide an asymptotic upper bound of the quan- tization error under L1-distance. For a D([0,1],{0,1})-valued random element induced by a stationary Poisson point process on [0,1] we give asymptotic upper and lower bounds of the quantization error and compare these to the asymptotics of the random coding error and the entropy constrained error. We further discuss the Boolean model, where a random set is constructed as the Minkowski sum of the points of a Poisson point process and a given random set, e.g. a ball with random radius. For an asymptotic upper bound of the quantiza- tion error under Hausdorff-distance we consider the corresponding Poisson point process conditioned upon the number of points in a compact set. We use one part of the given rate to code the number and the position of these points and the rest of the rate to code the random compact sets. For the lower bound we use again the relation between the quantization error and the small ball probabilities. Therewith we provide asymptotic upper and lower bounds for the quantization error under Hausdorff-distance and compare these with the asymptotics of the quantization error of the Boolean model under the L1-distance.</dc:description>
+          <dc:description xml:lang="deu">Die Arbeit "High resolution coding of point processes and the Boolean model" be- schaeftigt sich mit der Kodierungstheorie, wobei ein besonderes Augenmerk auf das Problem der Quantisierung, der Entropie beschraenkten Kodierung und der zufaelligen Kodierung gelegt wird. Wir berechnen unter anderem asymptotische obere Schranken des Quantisierungsfehlers eines Punkt Prozesses, dessen Ver- teilung der Punktanzahl eine bestimmte Wachstumsbedingung erfuellt, auf einem beschraenkten metrischen Raum mit endlicher oberer Minkowski-Dimension. Dazu betrachten wir den Prozess bedingt auf die Anzahl seiner Punkte und konstruieren fuer diese bedingten Prozesse spezielle Kodebuecher. Mit Hilfe der Maechtigkeit der Kodebuecher erhalten wir Beziehungen zwischen dem Fehler und der vorgegebenen Rate. Insbesondere geben wir obere und untere Schranken fuer die Asymptotik des Quantisierungsfehlers eines stationaeren Poisson Punkt Prozesses auf einer kom- pakten Teilmenge des R^d unter Hausdorff-Abstand an. Fuer die untere Schranke benutzen wir den Zusammenhang zwischen dem Quantisierungsfehler und der Wahrscheinlichkeit kleiner Epsilon-Umgebungen um gegebene beliebige Kodebuchele- mente. Ausserdem berechnen wir die Asymptotik des Entropie beschraenkten Fehlers und vergleichen die Ergebnisse mit dem Gaussschen Fall. Im eindimensionalen Fall fuehren wir ein D([0,a],{w1,...,wq})-wertiges Zufallse- lement ein, dessen Spruenge durch einen Punkt Prozess auf dem kompakten Inter- vall [0,a] erzeugt werden, der eine bestimmte Wachstumsbedingung erfuellt. Fuer dieses berechnen wir eine obere asymptotische Schranke des Quantisierungs- fehlers unter L1-Abstand. Fuer ein D([0,1],{0,1})-wertiges Zufallselement, dessen Spruenge durch einen stationaeren Poisson Punkt Prozess auf [0,1] erzeugt werden, geben wir asymptotische obere und untere Schranken des Quantisierungsfehlers an und vergleichen diese mit der Asymptotik des zufaelligen Kodierungsfehlers und der des Entropie beschraenkten Fehlers. Ausserdem betrachten wir das Boolesche Modell, bei dem eine zufaellige Menge durch die Minkowski-Summe der Punkte eines Poisson Punkt Prozesses und einer gegebenen zufaelligen kompakten Menge, zum Beispiel ein Ball mit zufaelligem Radius, konstruiert wird. Fuer eine asymptotische obere Schranke des Quan- tisierungsfehlers unter Hausdorff-Abstand betrachten wir erneut den zugrunde- liegenden Punkt Prozess bedingt auf die Anzahl der Punkte in der kompak- ten Menge. Wir benutzen einen Teil der zur Verfuegung stehenden Rate fuer die Kodierung dieser Punkte und den restlichen Teil fuer die Kodierung der zufaelligen kompakten Mengen, die zu den Poisson Punkten addiert werden. Fuer die un- tere Schranke benutzen wir wieder den Zusammenhang zwischen dem Quan- tisierungsfehler und der Wahrscheinlichkeit kleiner Epsilon-Umgebungen um gegebene beliebige Kodebuchelemente. Damit erhalten wir obere und untere asymptotische Schranken fuer den Quantisierungsfehler des Booleschen Modells unter Hausdorff- Abstand und vergleichen diese mit der Asymptotik des Quantisierungsfehlers unter L1-Abstand.</dc:description>
+          <dc:date>2007-03-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/postscript</dc:format>
+          <dc:format>application/postscript</dc:format>
+          <dc:format>application/postscript</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1457</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15026</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15026</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_Abstract.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_BM2.eps</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_Booleanmodel.eps</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_PPP.eps</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_Zusammenfassung.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_anhang.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_christian_vormoor.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_intro.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap0.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap1.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap10.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap11.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap12a.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap12b.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap2a.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap2b.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap3.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap4.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap5.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap6.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap7.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap8.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_kap9.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/original_ref.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1457/christian_vormoor.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

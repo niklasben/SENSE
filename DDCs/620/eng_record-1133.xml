@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1133">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1133</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modelle und Methoden zur Abwendung von Kollisionen von Asteroiden und Kometen mit der Erde</dc:title>
+          <dc:title xml:lang="eng">Models and methods for avoidance of collisions of asteroids and comets with the Earth</dc:title>
+          <dc:creator>Kahle, Ralph</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der Arbeit werden verschiedene Aspekte der Abwendung der Kollision eines Asteroiden oder Kometen mit der Erde untersucht. Hierzu wird zunächst eine künstliche Popu­lation von Kollisions­objekten definiert, welche die gegenwärtig bekannten physikalischen und dyna­mischen Objekteigen­schaften repräsentiert. Ausgehend von der numerischen Modellierung der interplanetaren Objekt­bahnen unter Berücksichtigung der Störeinflüsse der Planeten und von Modellrechnungen zum atmosphärischen Eintritt wird das Schadenspotential einer Kollision quantifiziert. Für die Kollisions­abwendung werden primär die Objekt­bahn­beein­flus­sung unter Einsatz eines neuen Verfahrens zur Bestimmung der optimalen Bahn­änderungs­geschwindigkeit in einer N-Körperumgebung und sekundär die Objekt­zer­störung analysiert. Als Ergebnis von Systemstudien zu diversen Technologien eignen sich besonders der Projektil­beschuss und die nukleare Sprengung zur Bahnbeeinflussung von Asteroiden mit einem Durchmesser D &lt; 500 m und &lt; 8 km, respektive. Der Einsatz von Antriebs­techno­lo­gien oder eines Sonnen­spiegels verspricht ein geringeres Antriebsvermögen und bein­haltet erheb­liche technologische Schwierigkeiten. Kometen können aufgrund der Bahn­un­sicher­heit infolge der nicht-gravitativen Kraft nicht ausreichend abgelenkt werden. Sie können jedoch für D &lt; 2 km durch eine nukleare Explosion zerstört werden. Die Anwen­dung numerischer Methoden zur impulsiven Gravity-Assist- sowie kontinuierlichen direkten Trans­fer­bahn­be­stim­mung zeigt die generelle Erreich­bar­keit der Modellobjekte durch konven­tio­nelle Raum­fahr­zeuge sowie die Durchführ­barkeit der Kollisions­abwendung bei einer Vor­warn­zeit von 10 bis 30 Jahren. Diese ist jedoch mit den heutigen Such­programmen besonders für Objekte mit D &lt; 250 m noch nicht gegeben, so dass trotz verfügbarer Techno­lo­gien zur Kolli­sions­abwendung kein sicherer Schutz vor einer Asteroiden- oder Kometen­kollision existiert.</dc:description>
+          <dc:description xml:lang="eng">The work analyses various aspects on preventing the collision of an asteroid or comet with the Earth. For this purpose an artificial population of colliding objects is defined, which reflects current knowledge on their physical and dynamical properties. Based on numerical models describing interplanetary trajectory and atmospheric entry of an object the damage potential by a collision is evaluated. Collision avoidance is investigated primary in terms of orbit deflection, where a novel method for the determination of optimal change of orbital velocity within an n-body environment is applied, and secondary in terms of object destruction. From system analysis of different technologies it is found that spacecraft projectile and nuclear explosion are suitable for deflecting the orbit of asteroids with diameters D &lt; 500 m and &lt; 8 km, respectively. The application of propulsion systems and solar collectors results in a smaller deflection capability and further leads to significant technological problems. The sufficient orbital deflection of comets is hampered by orbital uncertainties caused by the non-gravitational force. Instead, comets with D &lt; 2 km can be destroyed by means of nuclear explosion. The application of numerical methods for trajectory computation by means of impulsive gravity-assist as well as continous direct transfers reveals that the model objects can generally be reached by conventional space­craft technology, and collision avoidance is feasible if 10 to 30 years of warning time apply. But, the latter can not be guaranteed by current search programmes especially for objects with D &lt; 250 m. Thus, although technology for collision avoidance is available, a sufficient protection from asteroid or comet collision does not exist.</dc:description>
+          <dc:date>2005-11-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1133</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11273</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11273</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1133/kahle_ralph.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

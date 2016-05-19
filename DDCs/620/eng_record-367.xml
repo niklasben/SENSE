@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:367">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:367</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Integrated Optical Switching Matrices Constructed from Digital Optical Switches Based on Polymeric Rib Waveguides</dc:title>
+          <dc:title xml:lang="deu">Integriert optische Schaltmatrizen aufgebaut aus digital optischen Schaltern basierend auf Rippenwellenleitern in Polymeren</dc:title>
+          <dc:creator>Hauffe, Ralf</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit beschäftigt sich mit dem Design und der Realisierung von photonischen Schaltmatrizen für "Optical Cross Connects", die in optisch transparenten Telekommunikationsnetzen benötigt werden, um eine dynamische Umkonfiguration der Netze bei gleichzeitiger Erhaltung von Bitraten-, Wellenlängen- und Protokoll-Transparenz zu ermöglichen. Insbesondere wurden 4x4 Schaltmatrizen basierend auf polymeren Wellenleiterstrukturen untersucht und deren Nebensprechen minimiert. Das Hauptergebnis dieser Arbeit ist eine im Nebensprechen minimierte 4x4 Schaltmatrix basierend auf digital optischen Schaltern (DOS) realisiert in Polymeren. Das Maximale Nebensprechen vermessener Schaltmatrizen beträgt -30dB im Vergleich zu früheren Arbeiten, in denen nur -22dB erreicht wurden. Das mittlere Nebensprechen kann sogar von -29dB auf -42dB verringert werden. Zusätzlich werden die geometrischen Abmessungen und die Pfadlängen minimiert und somit auch die Einfügeverluste. Optimierte Schaltzustände für Matrizen, die unterschiedliche Arten von digitalen Schaltern enthalten (mit niedrigem und hohem Nebensprechen) werden hergeleitet. Schließlich werden die Anforderungen für die Nebensprechunterdrückung an Wellenleiterkreuzungen und einzelnen 1x2 Schaltern für eine gewünschte Nebensprechunterdrückung der Gesamtschaltmatrix bestimmt. Mehrere Schritte sind nötig, um das Nebensprechen einer Schaltmatrix zu minimieren. Zunächst werden an allen Wellenleiterkreuzungen die Wellenleiter über eine Länge von 2mm auf 20µm Breite aufgeweitet, wodurch sich das Nebensprechen an diesen Kreuzungen für Winkel über 15° auf unter -45dB verringert. Dies entspricht einer Verbesserung um 20dB im Vergleich zu nicht aufgeweiteten Kreuzungen. Dies wird sowohl experimentell als auch durch Simulationen gezeigt. Weiterhin wird ein einfacher Algorithmus entwickelt, der die optimalen Schaltzustände redundanter Schalter für den Fall bestimmt, dass einige Schalter, bedingt durch Abweichungen bei der Prozessierung ein relativ hohes Nebensprechen aufweisen. Es wird gezeigt, dass nur 8 von 24 Schaltern eine hohe Nebensprechunterdrückung aufweisen müssen. Fehlerhafte Schalter innerhalb der Matrix können durch automatisierte Messungen aufgefunden werden. Der Einsatz dieses Verfahrens verbessert die Nebensprechunterdrückung in einer realisierten Schaltmatrix um 5dB. Als nächster Schritt werden gebogene Rippenwellenleiter mit Strahlungsbarrieren versehen, um Strahlungs- und Koppelverluste im Bogenbereich zu verringern. Diese Barrieren ermöglichen es, den minimal zulässigen Krümmungsradius für vernachlässigbare Zusatzverluste durch den Bogen von 10mm auf 5mm herabzusetzen. Hierdurch kann der Schalter um 1cm verkürzt werden, was die Einfügeverluste deutlich verringert. Alternativ kann der gewonnene Raum auch für weiterentwickelte digital optische Schalter verwendet werden, die im allgemeinen mehr Platz benötigen, aber geringeres Nebensprechen aufweisen (z.B. DOS Kaskaden oder DOS Komponenten mit integriertem Abschwächer). Um das Nebensprechen noch weiter zu verringern, wird der digital optische 1x2 Schalter modifiziert. Eine Kaskade von zwei Schaltstufen wird vorgestellt, die soweit wie möglich ineinander verschachtelt sind um das Bauteil zu verkürzen, und die Leistungsaufnahme zu minimieren, ohne aber die verdoppelte Nebensprechunterdrückung (in dB) der Kaskade gegenüber dem einfachen DOS nennenswert zu verschlechtern. Das neue Bauteil wird DDOS genannt und realisierte Schalter dieser Art erreichen Nebensprechunterdrückungen zwischen -30 dB und -40dB, was einer Verdopplung (in dB) gegenüber einfachen DOS Schaltern auf dem gleichen Substrat entspricht. Schließlich werden noch grundsätzliche Untersuchungen zum Rippenwellenleiter durchgeführt. Für Rippenwellenleiter wird eine modifizierte Einmodigkeitsbedingung hergeleitet, welche die langsame Divergenz von Strahlungsmoden vom Wellenleiterkern berücksichtigt. Als Faustformel kann die Wellenleiterbreite als die 0.8-fache Cutoff-Wellenlänge des zweiten Modes gewählt werden. Diese modifizierte Betrachtung ist von Interesse, da diese Strahlungsmoden die Funktionsweise nachfolgender auf Einmodigkeit basierender Bauelemente beeinträchtigen kann. Ein ausreichender Abstand dieser Bauelemente zu Störstellen im Wellenleiter, an denen Strahlung generiert wird, muss sichergestellt sein. Dieser Abstand kann aus den Ergebnissen abgeleitet werden.</dc:description>
+          <dc:date>2002-06-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/367</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3626</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3626</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/367/hauffe_ralf.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

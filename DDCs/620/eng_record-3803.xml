@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3803">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3803</identifier>
+        <datestamp>2013-10-31</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Eine Immersed Boundary Methode zur Simulation von Strömungen in komplexen und bewegten Geometrien</dc:title>
+          <dc:title xml:lang="eng">An Immersed Boundary Method for Fluid Flow Simulation of Complex and Moving Geometries</dc:title>
+          <dc:creator>Hylla, Eike Alexander</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Zur Beantwortung strömungsmechanischer Fragestellungen, bei denen komplexe und bewegte Geometrien eine wesentliche Rolle spielen, bietet sich ein numerisches Verfahren an, welches als Immersed Boundary Methode (IBM) bezeichnet wird. Dabei werden die Navier-Stokes Gleichungen auf einem Hintergrundgitter diskretisiert, in welches die zu berücksichtigende Oberflächengeometrie eingetaucht (engl. to immerse ) und an dessen Position die Randbedingungen erfüllt werden. Die vorliegende Arbeit beschreibt die Umsetzung, Validierung und Anwendung einer IBM auf Basis eines bestehenden Finite-Volumen Strömungslösers. Die Bereitstellung der Randbedingungen, zu der ein s. g. Ghost-Cell Ansatz verwendet wird, stellt die Zentrale Aufgabe dar. Hinzu kommen erforderliche Mechanismen zum schnellen Auffinden geschnittener Zellen, Techniken zur dynamischen Adaption des kartesischen Rechengitters sowie die Umsetzung numerischer Algorithmen zur Speicherung und Lösung der auftretenden Gleichungssysteme. Um diese Methode auch für Problemstellungen der Fluid-Struktur-Interaktion (FSI) nutzbar zu machen, wurde ein auf Schalenelementen beruhendes FEM Verfahren zur Struktursimulation implementiert und validiert. Dieses ist über eine lose Kopplung mit dem CFD-Verfahren verbunden, wobei die vom Fluid hervorgerufenen Kräfte und die Geometrie des zeitlich veränderlichen Körpers zwischen beiden Verfahren ausgetauscht werden. Das entwickelte Verfahren findet erfolgreich Anwendung in zwei Bereichen, bei denen sich der Einsatz einer IBM als besonders vorteilhaft erwiesen hat. Die erste Anwendung ist die Strömungsvorhersage in den zentralen Atemwegen verschiedener Lungengeometrien. Bei einem einfachen generischen Modell der oberen Atemwege nach Weibel entstehen an den Verzweigungen deutlich sekundäre Strömungsstrukturen in Form s. g. Deanwirbel, die jedoch bedingt durch die Geometrie symmetrisch und sehr regelmäßig ausfallen. Im komplexesten Fall, dem dynamischen Tracheobronchialbaum eines Schweins zeigt sich zudem der Einfluss der Oberflächenbewegung. Während der Ein- und Ausatmungsphasen zeigen sich asymmetrische Paare gegensinnig rotierender Wirbel, deren Drehsinn über den Atemzyklus erhalten bleibt. Den zweiten Anwendungsfall aus dem Bereich der Fluid-Struktur- Interaktion stellt die quasi-stationäre Strömung um eine elastische Zylinderhülle dar. Schon nach wenigen Kopplungsiterationen stellt sich ein Gleichgewicht zwischen der deformierten Geometrie und der umgebenden Strömung, die im Wesentlichen Druckkräfte verursacht, ein. Die Abflachung und Verbreiterung des Körpers führt zu einer Vergrößerung der Reynoldszahl. Die im Nachlauf des Zylinders auftretende stationäre Rückströmung vergrößert sich dadurch. Die Länge der Ablösung stimmt etwa mit der zu erwartenden Ablöselänge eines Kreizylinders bei der entsprechend vergrößerten Reynoldszahl überein.</dc:description>
+          <dc:description xml:lang="eng">The Immersed Boundary Method (IBM) is a numerical approch in the field of computational fluid dynamics well suited if complex and dynamic geometries are considered. The geometry is immersed into an underlying computational grid. The Navier-Stokes equations are solved fulfilling the boundary conditions at the intersections between the surface discretization and the grid cells. Based on an existing finite-volume flow solver, the present work describes the implementation, validation, and application of such an IBM approach. A central role plays the providing of the boundary conditions employing a so-called Ghost-Cell approach. In addition, mechanisms for fast detection of cell intersections, techniques for grid adaptation, and numerical algorithms for storing and solving the arising equation systems are provided. The developed methodology is further enhanced in order to solve problems of Fluid-Structure-Interaction (FSI). Therefore, a Finite-Element based structural solver is implemented and validated. The CFD and FEM solvers are loosely coupled by exchanging the fluid forces and the actual geometry of the elastic body. The developedmethods are successfully applied to two different fields favorable for the use of an IBM solver. First, the physics of the flow through different geometries of the central airways are investigated. Smooth and symmetrical secondary flow structures and Dean vortices are observed downstream the bifurcations of a simple generic lungmodel byWeibel. For themost complex case, the dynamic tracheobronchial tree of a pork, the influence of the surface motion is important. During in- and exspiration, asymmetrical pairs of counter rotating vortices occur, maintaining their rotating sense during the respiratory cycle. Secondly, a Fluid-Structure-Interaction is considered by means of a quasi steady flow past an elastic cylinder shell. After a small number of coupling iterations, the deformed geometry and the surrounding flow, mainly imposing pressure forces, reach a state of equilibrium. The front of the cylinder shell flattens while its width increases which leads to a higher Reynolds number. Accordingly, the steady wake downstream of the cylinder enlarges. The recirculation length now corresponds to the estimation of the one for a circular cylinder under the raised Reynolds number.</dc:description>
+          <dc:date>2013-04-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3803</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39323</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39323</dc:identifier>
+          <dc:identifier>978-3-7983-2531-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3803/9783798325302_cover.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3803/9783798325302_content.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

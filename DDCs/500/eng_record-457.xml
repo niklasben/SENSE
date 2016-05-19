@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:457">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:457</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Adsorption und Phasentrennung binärer flüssiger Mischungen in Porensystemen</dc:title>
+          <dc:title xml:lang="eng">Adsorption and phase separation of liquid mixtures in mesopores</dc:title>
+          <dc:creator>Rother, Gernot</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Adsorption aus flüssigen Mischungen an mesoporöses Silika Die präferentielle Adsorption aus wäßrigen Lösungen nichtionischer Amphiphile an mesoporöse Silikatgläser vom Typ CPG-10 wurde mit einem selbstgebauten Differentialrefraktometer im Batchexperiment untersucht. Die flüssigen Mischungen n-Butoxyethanol + Wasser und Hexyltrioxyethylen + Wasser weisen eine obere Mischungslücke auf, in deren Nähe starke Adsorptionseffekte auftreten. Im System von n-Butoxyethanol + Wasser findet aus n-Butoxyethanol -reichen Mischungen starke präferentielle Adsorption von Wasser an das hydrophile Adsorbens statt, die in der Nähe der Phasenkoexistenz stark zunimmt. In Messungen mit Adsorbaten verschiedener Porenweite wurde ein signifikanter Einfluß der räumlichen Beschränkung auf die Amphiphilkonzentration, an der die Adsorptionseffekte einsetzen, den Grenzflächenüberschuß und die mittlere Zusammensetzung der Porenflüssigkeit gefunden. Im System Hexyltrioxyethylen + Wasser findet eine Amphiphilaggregation statt (Mizellbildung), die zur Ausbildung eines Oberflächenazeotrops führt. So wird aus wasserreichen Mischungen das Amphiphil präferentiell adsorbiert, aus amphiphilreichen Mischungen erfolgt hingegen (wie im System n-Butoxyethanol + Wasser) präferentielle Adsorption von Wasser. Die Adsorptionseffekte weisen eine definierte Temperatur- und Porenweitenabhängigkeit auf. Strukturuntersuchungen zur Phasentrennung flüssiger Mischungen in Silika-Mesoporen Mit der Neutronenkleinwinkelstreuung wurde eine Charakterisierung der inneren Struktur der CPG-Materialien verschiedener Porenweiten vorgenommen. An einem chemisch modifiziertem CPG-Material wurde der Einfluß einer an die Porenwand adsorbierten Schicht auf das Streuverhalten in verschiedenen Kontrastsituationen studiert. In Temperaturscan-Messungen wurde die Phasentrennung verschiedener Mischungen von iso-Buttersäure + Wasser (iBA + W) mit Bulk- Reservoir der flüssigen Mischung in mesoporösem CPG-Material studiert. In der Probe mit hohem iBA-Anteil wurden ein einphasiger Temperaturbereich der Porenflüssigkeit, ein breiter Phasenumwandlungsbereich und ein zweiphasiger Zustandsbereich identifiziert. Die Streukurven werden mit einem Modell kritischer Fluktuationen beschrieben. Ein komplett anderes Streuverhalten liefert eine Probe mit niedrigem iBA-Anteil in der Porenflüssigkeit, in der über Schichtwachstum bei Annäherung an die Phasenkoexistenz die eine koexistierende Phase vollständig aus dem Porenraum verdrängt wird. Die Ergebnisse sind in Übereinstimmung mit Messungen von Cannell et und dem Einzelporenmodell.</dc:description>
+          <dc:date>2003-04-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/457</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4525</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4525</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/457/rother_gernot.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

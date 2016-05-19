@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3327">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3327</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Nonlinear Gain Dynamics of Quantum Dot Semiconductor Optical Amplifiers</dc:title>
+          <dc:title xml:lang="deu">Nichtlineare Gewinndynamik von quantenpunktbasierten Halbleiterverstärkern</dc:title>
+          <dc:creator>Majer, Niels</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">In this work the nonlinear gain dynamics of electrically injected quantum dot semiconductor optical amplifiers is investigated. At first the semiclassical modeling ansatz on the basis of Maxwell-Bloch equations is presented. An important aspect are here the carrier scattering processes between the confined quantum dot states and the surrounding quasi-2D carrier reservoir states. Based on a detailed microscopic description of the Coulomb scattering processes density and temperature dependent scattering rates for the quantum dot-quantum well Auger scattering processes are calculated. In the next part of this work the dynamic properties of quantum dot semiconductor optical amplifiers are investigated. The impact of the different scattering channels on the gain recovery of the device is investigated. As a main result it is shown that a cascading relaxation scattering channel drives the ultrafast gain recovery dynamics associated with quantum dot amplifiers. Furthermore, comparisons with gain recovery measurements suggest that carrier heating significantly enhances the gain recovery dynamics. The stability properties of lasers are closely related to the linewidth enhancement factor. In the next part of this work the impact of the coherent interaction of the quantum dot states and the 2D reservoir states on the static linewidth enhancement factor is investigated. As a main result it is shown, that the linewidth enhancement factor of quantum dot based devices is largely determined by the coherent interaction of the reservoir. Furthermore, it is shown that the coherent interaction of the reservoir states also has a huge impact on the phase dynamics and the chirp of ultrashort input pulses. The last part of this work deals with nonlinear wavelength conversion using non-degenerate four-wave mixing. Based on the results on Coulomb scattering, it can be shown that the high bandwidth of nonlinear wavelength conversion in quantum dot semiconductor optical amplifiers is linked to the efficient scattering mechanisms between the reservoir and the quantum dot states.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die nichtlineare raum-zeitliche Dynamik von quantenpunktbasierten Halbleiterverstärkern untersucht. Im ersten Teil der Arbeit wird das zur Beschreibung und Vorhersage der Dynamik von Quantenpunktverstärkern entwickelte semiklassische Modell auf Basis von Maxwell-Bloch Gleichungen vorgestellt. Ein wichtiger Aspekt hierbei beinhaltet die Beschreibung des Ladungsträgeraustauschs zwischen den gebundenen Quantenpunktzuständen und dem umgebenden Ladungsträgerreservoir. Auf Grundlage einer detaillierten mikroskopischen Beschreibung der verschiedenen Coulomb-Streuprozesse werden dichte- und temperaturabhängige Coulomb-Streuraten für direkte Einfangprozesse vom Reservoir in den Quantenpunkt sowie für Relaxationsprozesse innerhalb der gebundenen Quantenpunktzustände berechnet. Im zweiten Teil der Arbeit wird die Dynamik des Quantenpunktverstärkers untersucht. Hier wird zunächst der Einfluss der einzelnen Streukanäle auf die Gewinnerholungsdynamik des Bauteils analysiert. Als Hauptergebnis wird gezeigt, dass ein kaskadenartiger Relaxationsprozess maßgeblich die ultraschnelle Gewinndynamik von Quantenpunktverstärkern bestimmt. Durch Vergleiche mit experimentellen Daten zur Gewinnerholungsdynamik wird desweiteren gezeigt, dass eine Aufheizung des Bauteils die Gewinnerholungsdynamik wesentlich beschleunigt. Die Stabilitätseigenschaften von Lasern sind eng mit dem linienverbreiternden Faktor verknüpft. Es wird der Einfluss der kohärenten Wechselwirkung der Quantenpunkte und des Ladungsträgerreservoirs auf den linienverbreiternden Faktor untersucht und als Hauptresultat wird gezeigt, dass der linienverbreiternde Faktor von quantenpunktbasierten Bauteilen maßgeblich durch die kohärente Wechselwirkung des Reservoirs bestimmt wird. Weiterhin wird anhand der raum-zeitlichen Dynamik von ultrakurzen Eingangspulsen gezeigt, dass die kohärente Wechselwirkung im Reservoir auch hier einen erheblichen Einfluss auf das Phasenverhalten und insbesondere den Chirp der Signale hat. Im letzten Teil der Arbeit zur nichtlineare Wellenlängenkonversion mittels Vierwellenmischung kann, basierend auf den Ergebnissen zur Ladungsträgerstreuung, bestätigt werden, dass die hohe Bandbreite der nichtlinearen Wellenlängenkonversion in Quantenpunktverstärkern auf die effiziente Coulomb-Streuung in Quantenpunktsystemen zurückzuführen ist.</dc:description>
+          <dc:date>2012-05-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3327</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35353</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35353</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3327/majer_niels.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

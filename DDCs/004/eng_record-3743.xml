@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3743">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3743</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Service Delivery Platform basierend auf Grid und Agenten Technologien</dc:title>
+          <dc:title xml:lang="eng">Service Delivery Platform based on Grid and Agent Technologies</dc:title>
+          <dc:creator>Kaiser, Silvan</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Virtuelle Organisationen (VOs) sind ein Modell für die Strukturierung dy- namischer Zusammenschlüsse von Unternehmen oder anderen Organisationen in stark veränderlichen Umfeldern und Märkten. VOs erfordern eine gewisse Integration der beteiligten Partner, was sich vor allem in den jeweiligen IT Infrastrukturen widerspiegelt. Ein wichtiges Konzept für die Umsetzung dieser Infrastrukturen ist das Grid Computing, mit dem IT Ressourcen der VO Partner gemeinsam genutzt werden können. Die Entwicklung zu einer Grid Infrastruktur ist dabei mit einem aufwändigen Technologiesprung verbunden. Diese Arbeit zeigt hierfür einen alternativen Ansatz, der darauf abzielt den Sprung in Richtung eines kleineren, evolutionsartigen, Schrittes zu vereinfachen. Dafür wird die Service Delivery Plattform (SDP) eines VO Partners betrachtet, deren Agententechnologie Grundlage die fließende Integration in eine Grid Infrastruktur ermöglicht. Dieser Ansatz gestattet es einem Betreiber dieser SDP VO Integrationen zu betreiben, ohne den Betrieb seiner SDP einschränken zu müssen. Das dafür verwendete Multi-Agenten System bildet die Brückentechnologie, durch deren Flexibilität und Dynamik die Anbindung realisiert wird und dass zusätzliche Mechanismen zum Umgang mit dem neuen Anforderungsspektrum umsetzt. Diese Konzentrieren sich auf den Umgang mit der, durch zusätzliche Dienstausführungen der VO Partner potentiell stark steigenden, Ressourcennutzung auf der SDP. Hauptarbeitsfelder bei dieser Umsetzung sind die Integration der SDP mit dem Globus Toolkit als wichtigstem Standard für Grid Systeme und die Lastverteilung innerhalb der SDP. Dafür beginnt Teil 1 mit der Beschreibung der Problemstellung und der Zielsetzung in größerer Detailtiefe. Teil 2 setzt dann fort mit einer umfangreichen Betrachtung der in den verschiedenen Themenfeldern verwendeten Technologien und deren Kontext zum vorgestellten Ansatz. In Teil 3 wird dann die verwendete Architektur mit einigen Umsetzungsdetails vorgestellt, der die Konzepte zur Lastmessung, Lastverteilung und Grid Integration beschreibt und diskutiert. Abschließend folgen die Ergebnisanalyse, eine Zusammenfassung und die nachgeordneten Anhänge.</dc:description>
+          <dc:description xml:lang="eng">Virtual Organisations (VOs) are a model for structuring dynamic federations of enterprises and other organisations in highly fluctuating domains and mar- kets.VOs require a certain integration between the partners involved, a fact that is reflected primarily in the IT systems of the respective partners. An important concept for the realization of these structures is Grid Computing, which allows sharing of IT resources between the VO partners. Developing ones systems to join a Grid infrastructure can become a costly technology leap, which may cause a major hurdle in developing the desired VO struc- tures. This work shows an alternative approach that aims at simplifying the technology leap to a smaller evolutionary step. A VO partners software agents based Service Delivery Platform (SDP) is examined, where the agent technology provides the base for an easier Grid Integration. This approach allows for a Grid integration without major SDP servicing interruptions. The Multi-Agent System foundation constitutes the bridging technology that provides the flexibility to realize a dynamic linking between SDP and Grid. Furthermore additional mechanisms are supplied, that provide handling for the potentially increased resource demands on the SDP, due to possibly high service usage by other VO partners. Major topics of this approach are the integration of the SDP with the Globus Toolkit, the most important standard for Grid systems, and the load distribution on the SDP. Therefore Part 1 of this work starts by describing the main problem area and goals in more detail. Part 2 continues with a broad overview of the systems provided by the three technology domains involved and their respective contexts. In part 3 the resulting architecture and some implementations details are presented, discussing concepts for load measurement, load distribution and the Grid integration. Finally result anal- ysis, roundup and the supplemental addendum follow.</dc:description>
+          <dc:date>2013-05-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3743</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39842</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39842</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3743/kaiser_silvan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1095">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1095</identifier>
+        <datestamp>2014-04-29</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Vor- und Nachteile einer Systemverknüpfung von S-, U-Bahn und Straßenbahn in Berlin</dc:title>
+          <dc:creator>Hertel, Stephan</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">Die Untersuchung der Möglichkeiten für Systemverknüpfungen von Straßenbahn, U-Bahn und SBahn zeigt, daß durch gezielte Verknüpfungsmaßnahmen ein Nutzen erzielt werden kann. Ideal stellt sich die Systemverknüpfung von Tram und Kleinprofil-U-Bahn in Berlin dar. Die wenigen technischen Systemunterschiede erlauben eine besonders kostengünstige Form des Mischbetriebs, was die Entwicklungschancen für beide Verkehrsmittel deutlich verbessert. Insbesondere die perspektivische Zusammenführung beider Teilsysteme zu einem Stadtbahnsystem - hier UTram genannt - ist ohne große Schwierigkeiten möglich. Resultierend daraus eröffnen sich Rationalisierungsmöglichkeiten besonders im Bereich des Betriebshofmanagements und es entsteht die Möglichkeit, deutlich kostensparender Streckenausbau zu betreiben als bisher. Durch Anwendung des UTram-Standards für Streckenverlängerungen des derzeitigen Kleinprofil-U-Bahnnetzes können in großem Umfang neue Fahrgastpotentiale für den SPNV erschlossen werden. Eine Systemverknüpfung von Großprofil-U-Bahn bzw. S-Bahn und Tram erscheint ebenfalls für ausgewählte Strecken zukunftsträchtig, hierbei ist jedoch durch die Unterschiedlichkeit der Systeme noch sorgfältig zu prüfen, in welchem Verhältnis Kosten und Nutzen zueinander stehen werden. Die durch Systemverknüpfungen erforderlichen neuen Fahrzeugkonzepte stärken außerdem den Standort Berlin als Innovations- und Verkehrskompetenzzentrum und könnte auf diese Art die wirtschaftliche Entwicklung der Region positiv beeinflussen.</dc:description>
+          <dc:date>2005-09-15</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1095</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11006</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11006</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1095/hertel_stephan.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1095/hertel_stephan_anlagen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

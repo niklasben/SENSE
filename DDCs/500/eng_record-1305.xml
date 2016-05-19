@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1305">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1305</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einfluss von Cadmiumverbindungen auf die Struktur und die Funktion des Tumorsuppressorproteins p53</dc:title>
+          <dc:title xml:lang="eng">Modulation of structure and function of the tumorsuppressorproteins p53 by different Cadmium compounds</dc:title>
+          <dc:creator>Thuy, Christina</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Cadmium ist ein weit verbreitetes Humankanzerogen, zeigt jedoch nur eine geringe Mutagenität. Das kanzerogene Potenzial ist daher eher auf indirekt genotoxische Effekte zurückzuführen. Bei der Aufrechterhaltung der genomischen Stabilität spielt das Tumorsuppressorprotein p53 eine große Rolle. Es ist zum einen an der Zellzykluskontrolle beteiligt, indem es als Transkriptionsfaktor die Induktion von mehreren für einen Zellzyklusarrest verantwortlichen Proteinen bewirkt. Zum anderen spielt p53 auch direkt bei der Reparatur von DNA-Schäden eine Rolle, indem es u.a. die Transkription von p48, einem Protein, das in der Schadenserkennung der Nukleotid-Exzisions-Reparatur (NER) involviert ist, reguliert. Um abzuklären welchen Einfluss Cadmiumverbindungen auf den p53 Gehalt in der Zelle haben, wurden menschliche Lungenkrebszellen (A549) jeweils 24 h mit partikulärem CdO und löslichem CdCl2 inkubiert, anschließend die Proteine isoliert und der p53 Proteingehalt nach SDS-Gelelektrophorese und anschließender Westernblotanalyse mit einem spezifischen Antikörper bestimmt. Beide Cadmiumverbindungen führten zu einer Zunahme des p53 Gehaltes. Um eine Aussage über die Konformation und damit verbunden auch die Funktion des induzierten p53 treffen zu können, wurde eine Immunpräzipitation mit konformationsspezifischen p53 Antikörpern durchgeführt. Diese Untersuchungen zeigten, dass sowohl CdCl2 als auch das partikuläre CdO den Anteil der mutanten p53 Konformation erhöhen. Ob der Einfluss auf die Tertiärstruktur von p53 mit einem Funktionsverlust einhergeht, wurde durch Bestimmung der p48 Genexpression mittels Real-Time RT-PCR untersucht. Sowohl CdO als auch CdCl2 zeigten einen Rückgang des p48 mRNA Gehaltes im Vergleich zu unbehandelten Zellen, was mit der Bildung der mutanten Konformation in Einklang ist. Dagegen führte eine Bestrahlung der Zellen mit 5 J/m2 UVC-Licht zu einer Induktion von p48; Kombinationsuntersuchungen zeigten, dass Cadmium diese UVC induzierte p48 Genexpression inhibiert. p53 spielt bei der Aufrechterhaltung der genomischen Stabilität eine große Rolle. Die Beeinflussung seiner Funktion und die damit verbundene Hemmung der Expression seines Zielgens p48 könnte einen Mechanismus darstellen, der zur DNA-Reparaturhemmung und damit zur kanzerogenen Wirkung von Cadmium beiträgt.</dc:description>
+          <dc:description xml:lang="eng">The carcinogenic potential of cadmium is well known; however cadmium is not mutagenic in bacterial test systems and only weakly mutagenic in mammalian cells. Nevertheless, several mechanisms of indirect genotoxicity are known, e.g. the inhibition of different DNA repair pathways. p53 plays an important role in cell cycle control and DNA repair; among other functions it serves as a transcription factor for p48, a protein involved in DNA damage recognition of nucleotide excision repair (NER). In order to investigate the effect of cadmium compounds on the content of p53, human lung cancer cells (A549) were incubated for 24 h with soluble (CdCl2) or particulate (CdO) cadmium compounds. Afterwards, the proteins were isolated and p53 was quantified by SDS gel electrophoresis and westernblot analysis, applying a specific antibody. Both compounds lead to an increased p53 content. To clarify whether cadmium affects the conformation of p53 and/or its function, an immunoprecipitation with conformation specific p53 antibodies was carried out. The results show that CdCl2, as well as the particulate compound CdO lead to an increased amount of the so called “mutant�?, unfolded conformation p53. To find out whether the changes in tertiary protein structure leads to a loss of function of p53, gene expression of p48 was analyzed by Real-Time RT-PCR. CdO as well as CdCl2 lead to a reduction of p48 mRNA as compared to untreated cells, indicating a diminished function of p53 as transcription factor. In contrast, irradiation of cells with 5 J/m2 UVC lead to an increased amount of p48 due to the stabilisation of wild type p53; this UVC-induced gene expression was inhibited by cadmium p53 plays an important role in the maintenance of genomic stability; therefore, the modulation of its function and thus an inhibition of gene expression of one of its target genes, p48, may contribute to DNA repair inhibition and thus to the carcinogenic effect of cadmium compounds.</dc:description>
+          <dc:date>2006-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1305</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13367</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13367</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1305/thuy_christina.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

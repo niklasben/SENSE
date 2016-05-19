@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:612">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:612</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Discrete surfaces and coordinate systems : approximation theorems and computation</dc:title>
+          <dc:title xml:lang="deu">Diskrete Flächen und Koordinatensysteme : Approximationssätze und Berechnung</dc:title>
+          <dc:creator>Matthes, Daniel</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Konvergenzeigenschaften ausgewählter Modelle aus der diskreten Differentialgeometrie werden untersucht. Als Hauptergebnis wird bewiesen, daß Flächen konstanter negativer Krümmung, konjugierte Netze, orthogonale Koordinatensysteme und holomorphe Abbildungen lokal durch ihre entsprechenden Diskretisierungen approximiert werden. Aus Daten einer gegebenen glatten Immersion wird eine Folge von Gitter-Abbildungen mit bestimmten geometrischen Eigenschaften konstruiert. Die Konstruktion geschieht durch Lösen eines Systems von partiellen Differenzengleichungen. Die Folge konvergiert lokal gleichmäßig mit allen Ableitungen (also in $C^infty$). Die Konvergenzraten werden abgeschätzt. Das zugrundeliegende numerische Schema ist leicht praktisch umzusetzen, und zahlreiche Bilder illustrieren die Güte der Approximation. Das Ergebnis läßt sich in natürlicher Weise auf die simultane Approximation der sogenannten Bäcklund-Darboux-Transformationen erweitern. Dazu wird ein höherdimensionalen Gitters betrachtet, bei dem man nur in bestimmten Koordinaten zum kontinuierlichen Limes übergeht. Die diskret verbleibenden Richtungen entsprechen den Transformationen. Als unmittelbare Anwendung wird der klassische Vertauschungssatz von Bianchi aus dem diskreten Satz abgeleitet (der leichter zu beweisen ist). Grundlage für die geometrisch formulierten Approximationsresultate sind analytische Konvergenzsätze. Es werden Cauchy-Probleme für hyperbolische und elliptische Differenzengleichungen untersucht, und es wird bewiesen, daß deren diskrete Lösungen unter sehr natürlichen Bedingungen gegen glatte Lösungen entsprechender partieller Differentialgleichungen konvergieren. Die analytischen Resultate sind von eigenem Interesse. Man erhält man z.B. Aussagen über die diskrete Approximation der Sinus-Gordon-Gleichung oder des Lame-Systems.</dc:description>
+          <dc:description xml:lang="eng">The convergence of selected models in discrete differential geometry is investigated. As the main result, it is proven that surfaces of constant negative curvature, conjugate nets, orthogonal systems and holomorphic maps can be locally approximated by their respective discrete counterparts. From data read off from a given continuous immersion, a sequence of lattices with certain geometric properties is constructed. The lattices are given as solutions to a system of partial difference equations. The sequence converges locally uniformly with all derivatives ($C^infty$-convergence). The rates of convergence are estimated. The underlying numerical scheme is easily put into practice, and a variety of pictures illustrates the approximation. The result naturally carries over to simultaneous approximation of the so-called Bäcklund-Darboux transformations. One considers higher-dimensional lattices, and passes to the limit only for selected coordinates. Thus, some directions remain discrete and eventually correspond to transformations. As an immediate application, the classical Bianchi permutability theorem is derived from the discrete one (which is easier to prove). Analytical convergence theorems form the basis for the geometric approximation results. Cauchy problems for hyperbolic and elliptic difference equations are investigated, and it is proven that their discrete solutions converge to a smooth solution of a related partial differential equation, under mild hypothesis. The analytical part of the thesis is of interest of its own. For instance, one obtains results about discrete approximation of the sine-Gordon-equation and the Lame system.</dc:description>
+          <dc:date>2004-01-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/612</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6061</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6061</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/612/matthes_daniel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

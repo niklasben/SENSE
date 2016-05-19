@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:222">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:222</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Modeling Spatial and Temporal Data in an Object-Oriented Constraint Database Framework</dc:title>
+          <dc:title xml:lang="deu">Raum-Zeitliches Datenmodell in objektorientierten Constraint Datenbanken</dc:title>
+          <dc:creator>Di Deo, Annalisa</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Constraints erlauben eine flexible und einheitliche Loesung, um verschiedene Datentypen zu verarbeiten. Constraints koennen Raum-zeitliches Verhalten, komplexe Anforderung fuer Modellierungen, partielle und unvollstaendige Information und vieles mehr erfassen und wurden bereits in vielen verschiedenen Anwendungen benutzt. Constraint-Datenbanken haben in letzter Zeit erwiesen, dass sie sehr weitgehend die Daten integrieren koennen, die mit Contraints in Datenbanken gewonnen wurden. Ziel der vorliegenden Arbeit ist, ein neues Constraint-Datenmodell zu definieren. Es soll in der Lage sein, sowohl raeumliche und zeitliche Information gleichzeitig darzustellen, als auch die bereits existierenden Werkzeuge zur raeumlichen und zeitlichen Datenverarbeitung wie zum Beispiel die von Oracle8 zu nutzen. Ausserdem soll die Deklarativitaet der Sprachen erster Ordnung erhalten bleiben. Im einzelnen wird ein objektorientiertes Modell praesentiert, um die Constraint-Datenbanken darzustellen. Constraints sind die grundlegenden Datentypen (Klassen) des Modells. Sie werden unter Ausnutzen von algebraischen Strukturen wie Monoiden und Semiringen definiert. Die Instanzen von Constraint-Klassen sind lineare Constraints und raeumliche und zeitliche Praedikate. Der zentrale Punkt der Arbeit ist, die richtige Balance zwischen Ausdruckskraft und Komplexitaet zu finden. Das soll erreicht werden, indem das Modell so allgemein wie moeglich gehalten wird und die Eigenschaften existierender Werkzeuge nutzen kann. Um die Brauchbarkeit des Rahmens zu unterstreichen, wird die Realisierbarkeit von zwei moeglichen Anwendungen untersucht. Die erste Anwendung besteht aus zwei Teilen, die zeigen, wie mit diesem Rahmen zwei verschiedene Darstellungen raeumlicher Daten modelliert werden. Im ersten Teil wird der Modell auf Oracle8 Spatial Cartridge aufgesetzt. Im zweiten Teil wird die Darstellung linearer Constraints beschrieben. Mit der zweiten Anwendung wird es gezeigt, wie das Modell zeitliche und Raum-zeitliche Information abbilden kann. Zuerst werden zeitliche Daten als Zeitintervalle abgebildet. Als zweites wird das Schema des Modells erweitert so, dass auch Raum-zeitliche Objekte abgebildet und verarbeitet werden koennen. Auf diese Weise wird die Moeglichkeiten von Spatial Cartridge erweitert, das bis jetzt ausschliesslich mit raeumlichen Daten umgehen kann.</dc:description>
+          <dc:date>2002-11-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/222</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2179</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2179</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/222/dideo_annalisa.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

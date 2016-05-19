@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4579">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4579</identifier>
+        <datestamp>2014-02-12</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Automatische Unterstützungsanpassung in der Schlaganfallrehabilitation</dc:title>
+          <dc:title xml:lang="eng">Automatic support adaptation in stroke rehabilitation</dc:title>
+          <dc:creator>Steingräber, Robert</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Dissertation betrachtet Algorithmen für die haptische Interaktion von Rehabilitationsgeräten und Schlaganfallpatienten. Es wurden Experimente mit dem Arm-Rehabilitations-Gerät Bi-Manu-Track durchgeführt, mit deren Hilfe die gerätebasierte Patientenbeurteilung, die Therapie über eine Telehaptik-Verbindung und vor allem die an den Patienten individuell angepasste Unterstützung verbessert werden können. Ein Überblick über Therapiemethoden, Modelle der Neuro- und Kognistionswissenschaften und den Methoden der Rehabilitationsrobotik und Reglungstechnik zeigt, dass die größer werdende Gruppe neurologisch Erkrankter vor allem von einer Weiterentwicklung der iterativ lernenden Gerätereglung (ILR) profitieren kann, die durch automatisierte Einstufungsverfahren und Telehaptik-Verbindungen für die häusliche Therapie ergänzt wird. In den Experimenten wurden die ILR mit konstanter Lernrate und Polynominterpolation oder radialen Basisfunktionen, eine ILR mit optimierter Lernrate und eine ILR mit frequenzabhängiger Lernrate für die bimanuelle Aufgabe angepasst und verglichen. Aus ausführlichen Simulationen und ersten Versuchen in der Klinik kann die Empfehlung abgeleitet werden, die frequenabhängige ILR zusammen mit einer nichtlinearen Steifigkeitsanpassung für die Unterstützung von bilateralen Bewegungsaufgaben zu verwenden.</dc:description>
+          <dc:description xml:lang="eng">This dissertation concentrates on algorithms for the haptic interaction of rehabilitation devices and stroke patients. It presents experiments with the arm rehabilitation device Bi-Manu-Track. They can help to improve automatic patient assessment, therapy via a telehaptic connection and especially the individual adaptation of support. An overview of rehabilitation methods, models in neuroscience, cognitive science, methods of rehabilitation robotics and control theory shows, that the growing number of neurologically injured persons can benefit from enhancements in iterative learning device controllers (ILC) with automatic patient assessment and telerehabilitation for home-based therapy. The experiments compare an ILC with constant learning rate or radial basis functions, an ILC with optimal learning rate and and ILC with frequency-dependent learning rate, all adapted to bimanual tasks. Extensive simulations and first clinical results indicate, that the frequency-dependent ILC combined with nonlinear stiffness adaptation is best suited for the assistance of bilateral movement tasks.</dc:description>
+          <dc:date>2013-12-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4579</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-45794</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-45794</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4579/steingraeber_robert.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

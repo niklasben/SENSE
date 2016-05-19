@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4173">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4173</identifier>
+        <datestamp>2013-10-23</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Resonatorkonzepte für Hochleistungs-Diodenlaser mit ausgedehnten lateralen Dimensionen</dc:title>
+          <dc:title xml:lang="eng">High-power diode laser resonators with extended lateral dimensions</dc:title>
+          <dc:creator>Spreemann, Martin</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit behandelt Resonatorkonzepte für Hochleistungsdiodenlaser mit ausgedehnten lateralen Dimensionen im Wellenlängenbereich um 1060nm.  Im ersten Teil der Arbeit werden gewinngeführte Laser-Arrays mit 400µm lateraler Aperturbreite und Ausgangsleistungen von über 50W im Quasi-CW Betrieb untersucht. Es wird gezeigt, dass mit steigender Ausgangsleistung die Kopplung der einzelnen Emitter durch die thermische Brechzahlerhöhung abnimmt. Bei hohen Leistungen ist das vom Array abgestrahlte Licht die inkohärente Überlagerung der Abstrahlungen der einzelnen Emitter, wobei die lateralen Obermoden der einzelnen Streifen die Abstrahlcharakteristik des Arrays maßgeblich verschlechtern.  Im zweiten Teil der Arbeit wird ein vollkommen neuer Ansatz zur Verringerung der Strahldegeneration bei lateraler Skalierung entwickelt und experimentell erprobt. Er basiert auf einer instabilen Resonatorkonfiguration, welche durch Bragg-Reflektoren im Laserchip erzeugt wird. Für Resonatorgeometrien mit einer äquivalenten Fresnelzahl von Neq≈1 wird in Simulationen eine Diskriminierung höherer Moden und experimentell eine minimale Beugungsmaßzahl des abgestrahlten Lichts nachgewiesen. Mit steigender Ausgangsleistung bewirkt die stark inhomogene laterale Intensitätsverteilung im Resonator jedoch räumliches Lochbrennen in der Ladungsträgerverteilung und eine Selbstfokussierung des Lichts. Dieser Effekt führt geometrieunabhängig zur Degradation der Beugungsmaßzahl mit steigender Ausgangsleistung.</dc:description>
+          <dc:description xml:lang="eng">This work investigates resonator designs for high-power diode-lasers with very large lateral dimensions that emit in the spectral range around 1060nm.&#13;
+In the first part of the work, gain-guided laser arrays with 400µm total aperture width are investigated from threshold to high-optical output power levels of P&gt;50W. It is shown that the lateral coupling of the single emitters within the array is reducesd with increasing power by thermal rise of the refractive index.&#13;
+At sufficiently high power levels, the single emitters within the array become de-coupled and the emitted light is the incoherent superposition of the single emitters individual emission, whereas the overall beam properties are noticeable degraded by higher order lateral modes of the single emitters.&#13;
+In the second part of the work, a novel approach on unstable resonator configurations, formed by Bragg-reflectors of finite width, is developed and experimentally approved.&#13;
+Configurations with a geometry-dependent equivalent Fresnel-number Neq≈1 show in simulations an increased discrimination of higher order resonator modes and in experimental measurements a minimal beam parameter M². The optical intensity distribution inside the unstable resonator is inhomogeneous which leads, with increasing power levels, to spatial hole-burning in the carrier density distribution and to self-focussing of the light. These effects are shown to lead to a geometry-independent degradation of the beam parameter M² at higher power levels.</dc:description>
+          <dc:date>2013-09-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4173</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41736</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41736</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4173/spreemann_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

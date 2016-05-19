@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3540">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3540</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">In-situ investigation of metal nanoparticle stability during electrocatalysis</dc:title>
+          <dc:title xml:lang="deu">In-situ Untersuchungen der Stabilitäten von Metal-Nanopartikeln während Elektrokatalyse</dc:title>
+          <dc:creator>Erler, Xenia</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">Renewable energy conversion and storage using chemistry has become a pivotal issue in solving the global energy challenge. In particular fuel cells, owing to their high efficiency and fuel flexibility, will play a critically important part to use electrochemical energy for storage in molecular bonds. However, high catalyst cost and limited catalyst durability at the fuel cell electrodes have long hampered a broader technology deployment of fuel cells, in particular of low temperature Polymer Electrolyte Membrane Fuel Cells (PEMFC). Typically, nanoscale materials such as nanoparticles are employed as catalytically active electrode components. This is because nanoparticles offer a large electrochemical surface area (ECSA), which is indispensable for useful electrochemical power densities. However, the large surface area of the nanoparticles also tends to be unstable due to their high surface energy. The proper mechanism of catalyst performance loss is poorly understood. The overall objective of this thesis was to determine the parameters, which control the activity and the durability of such fuel cell catalysts. To achieve that different strategies were developed: The structural dynamics and growth of particles with different shapes on a variety of carbon supports were compared and catalyst/support couples that exhibited improved structural stability were identified. Moreover the composition of the NP catalyst was modified by adding a less noble metal in the particle structure. The mechanism of intra particle dynamics was investigated in situ to obtain more information on the dramatically enhanced electrochemical catalyst performance. Additionally, an advanced approach of particle stability improvement by modification of the support structure with additional electron donor functional groups was developed. In summary, this work has determined the dominant degradation mechanisms of metal nanoparticles during electrocatalysis and identified novel catalyst/support materials with improved stability and activity.</dc:description>
+          <dc:description xml:lang="deu">Für den erfolgreichen globalen Energiewandel sind die Umrüstung auf erneuerbare Energien und ihre Speicherung in chemischen Bindungen stetig an Bedeutung gewinnende Kriterien. Hier zeichnen sich insbesondere Brennstoffzellen mit ihrer hohen Effizienz und flexiblen Betrieb im praktischen Einsatz aus, da die derartig genutzte Umwandlung der in chemischen Bindungen gespeicherten Energie in nutzbare Elektrizität eine Schlüsselrolle im globalen Energiewandel einnimmt. Allerdings erschweren die Kosten und Lebensdauer der in den Zellen verwendeten Katalysatoren eine übergreifende industrielle Implementierung dieser Technologie, speziell der Polymer-Elektrolyt-Membran Brennstoffzellen (PEMFC). Die Implementierung von katalytisch aktiven Nanopartikeln an den Elektroden einer PEM\-FC erhöht erheblich die elektrochemisch nutzbare Oberfläche und liefert einen unverzichtbaren Beitrag zu hohen elektrochemischen Stromdichten. Diese große Oberfläche scheint jedoch auf Grund der ebenfalls hohen Oberflächenspannung der Nanopartikel nicht stabil zu sein, was durch einen Verlust der katalytischen Leistung bemerkbar wird. Die genauen Abläufe dieses Leistungsabbaus sind nur in Ansätzen verstanden. Diese Doktorarbeit beschäftigt sich hauptsächlich mit dem Bestimmen der relevanten Parameter, welche die Aktivität und die Langlebigkeit solcher Katalysatoren in Brennstoffzellen bedingen. Hierfür wurden mehrere Strategien verfolgt: Es wurden strukturelle Dynamiken und Wachstumsprozesse verschieden geformter Partikel auf einer gewissen Typenauswahl von Kohlenstoffträgern verglichen und Paare von Katalysator-Träger mit nachgewiesener hohen Langlebigkeit identifiziert. Außerdem wurde durch das Hinzufügen von weniger edlen Metallen zum Katalysator die chemische Zusammensetzung der Nanopartikel verändert. Die daraus resultierende deutlich gesteigerte elektrochemische katalytische Leistung wurde in situ untersucht, um die innerpartikulären dynamischen Abläufe aufzuklären. Zusätzlich wurde für eine verbesserte Katalysatorstabilität eine Methode zur Modifikation der Partikelträgerstrukturen mit erweiterten Elektronen-Donor funktionellen Gruppen entwickelt. Zusammengefasst hat diese Arbeit die dominierenden Abläufe des elektrokatalytischen Leistungsabbaus von metallischen Nanopartikeln bestimmt und neuartige Katalysator-Träger-Kombinationen für eine mögliche Steigerung der Stabilität und Aktivität von Brennstoffzellen identifiziert.</dc:description>
+          <dc:date>2012-12-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3540</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37538</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37538</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3540/erler_xenia.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

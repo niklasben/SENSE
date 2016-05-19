@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4046">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4046</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Grundlagen des Cloud Computing : Anforderungen an einen Cloud-Dienst</dc:title>
+          <dc:creator>Labes, Stine</dc:creator>
+          <dc:subject>ddc:0</dc:subject>
+          <dc:description xml:lang="deu">Der Hype um Cloud Computing schreitet weiter voran und immer mehr Unternehmen folgen dem Trend und integrieren das Cloud Konzept in ihr Geschäftsmodell. Dementsprechend ist das Wachstum auf dem Cloud-Markt enorm und resultiert in heterogene und größtenteils intransparente Produktportfolios. Unzureichende Auswahlkriterien für die Evaluation eines Dienstes behindern die Akzeptanz unter den Anwendern der Dienste. &#13;
+Das vorliegende Manuskript begegnet diesem Problem mit der Erstellung eines Kriterienkatalogs für die Auswahl eines Cloud-Dienstes. Die Erhebung der Anforderungskriterien erfolgte in Abstimmung mit Cloud-Dienstleistern und –Anwendern und wurde mit Hilfe einer Umfrage und eines Workshops mit öffentlich-rechtlichen IT-Dienstleistern für den Öffentlichen Sektor bewertet. Der Katalog gibt Auskunft über eine konkrete Operationalisierung der Kriterien in sechs Anforderungsdimensionen. Damit können verschiedene Dienste miteinander verglichen werden, um die Transparenz und das Verständnis auf der Kundenseite zu fördern. Cloud-Anbieter werden hingegen in der Konzeption ihres Cloud-Dienstes unterstützt. &#13;
+Aus der Untersuchung resultieren zwei Arten von Anforderungen, welche die Grundlage für weiterführende Kriterienkataloge im Projekt GGC-Lab stellen: produkt- und anbieterbezogene Anforderungen. Die produktbezogenen Kriterien werden verwendet, um Fachanwendungen für den Betrieb in der Community Cloud auszuwählen. Für die Bewertung potentieller Beitrittskandidaten unter IT-Dienstleistern werden die anbieterbezogenen Kriterien weiterentwickelt.</dc:description>
+          <dc:date>2013-08-08</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4046</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40460</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40460</dc:identifier>
+          <dc:identifier>978-3-7983-2613-2</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4046/projektberichte_IKM_09.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

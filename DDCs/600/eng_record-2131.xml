@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2131">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2131</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung der Parallelschaltung von Integrierten Gate-Kommutierten Thyristoren und Dioden für Hochstromanwendungen</dc:title>
+          <dc:title xml:lang="eng">Investigation of the parallel connection of Integrated Gate Commutated Thyristors and diodes für high current converters</dc:title>
+          <dc:creator>Hermann, Robert</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die Parallelschaltung von IGCTs (Integrated Gate Commutated Thyristor) und Dioden bzw. von Phasenzweigen für den Einsatz in einer neuartigen 30 kA-Hochstromumrichtertopologie untersucht.  Bei der Betrachtung des stationären Durchlassverhaltens ergibt sich bei der harten Parallelschaltung von Bauelementen mit unterschiedlichen Durchlasskennlinienparametern (Durchlasswiderstand und Schleusenspannung) eine erhebliche Stromabweichung. Diese Abweichung erhöht sich mit der Anzahl der parallel geschalteten Halbleiter und verhindert durch das erforderliche hohe Derating eine erfolgreiche direkte Parallelschaltung von mehr als zwei Halbleitern. Eine geringe Streuung der Durchlasskennlinienparameter kann nur durch Einzelmessungen und einer Selektion garantiert werden.  Bei der Untersuchung des Einflusses der Sperrschichttemperaturen auf die Stromsymmetrie im Durchlassbereich kommt es auch bei negativen Temperaturkoeffizienten der Halbleiter unter den gegebenen Randbedingungen zu keinem thermisch instabilen Betriebspunkt.  Ein weiterer signifikanter Einflussfaktor auf die Stromsymmetrie ist die unterschiedliche Ausschaltverzögerung zwischen den IGCTs. Besonders bei geringen Sperrschichttemperaturen ergibt sich durch das schnellere Schaltverhalten eine sehr hohe Stromabweichungen, welche nur durch eine Selektion der IGCTs bezüglich der Ausschaltverzögerung oder durch den Einsatz von Entkopplungsinduktivitäten verringert werden kann. Dabei ist eine Platzierung der Entkopplungsinduktivitäten zwischen den einzelnen Phasenzweigen, sodass diese sowohl für die Dioden als auch die IGCTs wirksam sind, von Vorteil.  Auch die aus der Symmetrie des Aufbaus resultierende Verteilung der Streuinduktivitäten in den einzelnen Strompfaden ist von großer Bedeutung. Insbesondere eine unsymmetrische Kontaktierung des Beschaltungsnetzwerkes, des Zwischenkreises und der Last an der Diodenparallelschaltung kann zu einem Betrieb der Leistungshalbleiter außerhalb des SOAs führen. Zudem sollten magnetische Kopplungen zwischen benachbarten Strompfaden durch eine möglichst orthogonale Anordnung der Leiter vermieden werden. Für das vorgeschlagene Schaltungskonzept wird an Stelle einer 2-Level eine 3-Level Tiefsetzstellertopologie eingesetzt, welche einige Vorteile wie eine reduzierte Welligkeit des Laststromes und kleinere Filterkomponenten, eine geringere Spannungsbelastung der Bauelemente und verringerte Verluste pro Halbleiter aufweist.  Ein Vergleich unterschiedlicher Beschaltungsnetzwerke zeigt, dass durch die große Streuinduktivität zwischen den Stacks und dem Zwischenkreis, sowie der geringen Zwischenkreisspannung von 1,25 kV der di/dt-Clamp durch ein einfacheres RC-Beschaltungsnetzwerk ersetzt werden kann.  Aus den erzielten Ergebnissen wird ein 3-Level 5-kA-PEBB (Power Electronic Building Block) hergeleitet, welcher aus 2x2 IGCTs und 2x4 hart parallel geschalteten Dioden mit RC-Snubbern besteht. Abschließend wird ein Gesamtkonzept für einen 30-kA-Hochstromumrichter vorgestellt, welcher aus sechs parallelen 5-kA-PEBBs mit verteilten Zwischenkreisen besteht.</dc:description>
+          <dc:description xml:lang="eng">This work describes the parallel connection of Integrated Gate Commutated Thyristors (IGCTs) and diodes.  Different device characteristics cause a significant current deviation during the on-state, which increases with the number of parallel devices. Only a selection of the devices can reduce the necessary high current derating and enable an economic attractive parallel connection. The investigation of the impact of junction temperatures on the current symmetry during the on-state shows that a thermal runaway does not occur in the considered case. A limitation of the delay times is important for IGCT turn-off transients to operate the IGCTs inside their safe operating area. Especially at low junction temperatures a significant current deviation can be expected due to the faster switching devices. Only a strict selection of the devices according to their switching delay time deviations or the implementation of additional decoupling inductors can minimize these current deviations. In the latter case, it is advantageous to place the decoupling inductors between the phase legs in such a way that both, diodes and IGCTs, benefit from the decoupling inductors. Also symmetrically distributed stray inductances are very essential. In particular an unsymmetrical connection of the clamp circuit, the dc-link and the load to the diodes can result in an operation outside the safe operating area. In addition, any magnetic coupling between different current paths should be avoided. For the proposed circuit concept, a 3-level buck converter is introduced. Compared to the 2-level topology, the 3-level design enables a reduced load current ripple, smaller filter components and a lower voltage stress of diodes and IGCTs. Due to the low dc-link voltage of 1.25kV and the big leakage inductance between the dc-link and the phase legs, the di/dt-clamp can be replaced by an RC-snubber. Consequently a 3-level 5-kA-PEBB (Power Electronic Building Block), consisting of 2x2 IGCTs and 2x4 hard parallel connected diodes with RC-snubber, is introduced. Finally a 30 kA high current converter with six parallel 5-kA-PEBBs and distributed dc-links is presented.</dc:description>
+          <dc:date>2009-05-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2131</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22209</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22209</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2131/original_hermann_robert.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2131/hermann_robert.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

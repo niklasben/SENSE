@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4368">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4368</identifier>
+        <datestamp>2013-11-25</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:62</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Research on heat transfer in geothermal wellbore and surroundings</dc:title>
+          <dc:title xml:lang="deu">Untersuchungen für Wärmeübertragung in Geothermie Produktionsbohrungen und deren Umfeld </dc:title>
+          <dc:creator>Zhou, Fuzong</dc:creator>
+          <dc:subject>ddc:62</dc:subject>
+          <dc:description xml:lang="eng">This thesis aims to improve the wellhead temperature of the heat flow for the production process of open system deep geothermal wells. It discusses the heat transfer in: the tubing, the annulus, the casing, the cement, and the formation.&#13;
+As a thermophysical parameter, Initial Formation Temperature (IFT) plays an essential role in deep well engineering. However, it is not easy to predict the IFT accurately before drilling. This thesis uses an inverse technique to analyze factors affecting the underground temperature field, and assumes an artificial surface to eliminate the disturbance of the human errors and equipment errors on the surface temperature and thermal conductivity. Considering different distributions of the formation thermal conductivity and the rock radiogenic heat production, an optimized model was established. &#13;
+In order to describe the heat transfer in an aquifer, a notion of overall thermal conductivity was proposed, which includes the thermal conduction of the soil/rock and the advection of groundwater. This thesis adopts the Fractal theory to establish a geometric model of the aquifer, which helps with the analysis of the heat transfer mechanism in an irregular configuration, and derives a correlation of the overall thermal conductivity from the thermal resistance structure. The overall thermal conductivity of typical aquifers indicates that the advection in the aquifer cannot be ignored even if the Reynolds number (Re) of the groundwater is less than 1. However, when the velocity and temperature of groundwater are determinate, the advection does not depend on the porosity of aquifer, and therefore can be regarded as a constant. &#13;
+This thesis discusses the possible means of heat transfer in the annulus, and develops a piecewise equation for estimating the convective heat transfer coefficient with a wider valid condition of 0 &lt; Ra &lt; 7.17 × 108. By converting the radiation and natural convection into equivalent thermal conduction, their sum was defined as a total thermal conductivity to describe the heat transfer in the annulus. The results indicate that the annulus filled with gas functions as a good thermal barrier for the heat flow in the wellbore. Additionally, the radiation can be negligible when the tubing and casing are made of low emissivity materials. However, the contribution of radiation will increase in the total thermal conductivity when the annular size increases and the materials have high emissivity.&#13;
+Improvements in predicting the IFT and the heat transfer in an aquifer and in an annulus between the tubing and the casing, permit a mathematical model of the whole heat transfer system to be established in two parts: the heat transfer in the surroundings and the heat transfer in the wellbore. Different analytical solutions of the heat flow temperature are derived for each homogeneous layer. The types of heat flow include single-phase water flow, single-phase steam flow and two-phase flow. &#13;
+</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit zielt auf die Erhöhung der Bohrlochkopftemperatur beim Produktionsprozess tiefer offener Geothermiesysteme. &#13;
+Die initiale Formationstemperatur (IFT) spielt als thermophysikalische Größe eine essentielle Rolle in der Tiefbohrtechnik, insbesondere im Zusammenhang mit der Geothermie. Die genaue Vorhersage der IFT im Vorfeld einer Bohrung ist mitunter schwierig. Die vorliegende Arbeit stellt eine inverse Methode zur Analyse der Faktoren vor, welche das Temperaturfeld im Untergrund beeinflussen. Dabei werden die Bedingungen an der Oberfläche zunächst modellhaft definiert, um die störenden Einflüsse menschlicher Aktivitäten bzw. die Einflüsse der eingesetzten Gerätetechnik zu eliminieren. Ausgehend von verschiedenen Verteilungen der Wärmeleitfähigkeit in der Formation und unter Einbeziehung unterschiedlicher Annahmen für die radiogene Wärmeproduktion wurde im Rahmen dieser Arbeit ein optimiertes Rechenmodell entwickelt. &#13;
+Unter Berücksichtigung der Wärmetransportprozesse innerhalb eines Aquifers wurde ein Gesamtwärmeübertragungskoeffizient (GWK) unterstellt, der sowohl die Wärmeleitung innerhalb des festen Materials als auch die Wärmeübertragung durch und während der Strömung des Grundwassers berücksichtigt. Diese Arbeit nutzt das Werkzeug der Fraktalanalyse des Wärmetransportmechanismus‘ in unregelmäßiger Konfiguration und leitet eine Korrelation des GWK aus der Struktur der thermischen Widerstände ab. Das Verhalten der Wärmeleitfähigkeit typischer Aquifere zeigt, dass die Strömungsprozesse innerhalb der Formation selbst bei Reynoldszahlen (Re) kleiner 1 nicht vernachlässigt werden dürfen. Unter Berücksichtigung von Temperatur und Strömungsgeschwindigkeit des Grundwassers hängt der advektorische Anteil des Wärmetransports nicht von der Porosität des Aquifers ab und kann daher für den jeweiligen Fall als konstant angenommen werden. &#13;
+Diese Arbeit diskutiert die möglichen Wärmeübertragungsprozesse in den Ringräumen und entwickelt eine abschnittsweise Gleichung zur Ermittlung des konvektiven Wärmetransportkoeffizienten innerhalb des relativ großen Gültigkeitsbereiches 0 &lt; Ra &lt; 7.17 × 108. Die Übertragung der Anteile der Wärmestrahlung und der natürlichen Konvektion in einen äquivalenten Wärmeübergang durch Wärmeleitung ermöglicht die Angabe der Summe der Anteile dieser Prozesse als Gesamt-Wärmeleitung und damit die mathematische Beschreibung und Quantifizierung des Wärmeübergangs im Ringraum. Die Ergebnisse zeigen, dass ein gasgefüllter Ringraum als gute Barriere gegen den Verlust aus dem Untergrund produzierter Wärme fungiert. Zudem kann der Einfluss der Wärmestrahlung vernachlässigt werden, wenn für die Rohrtouren Material mit geringer Emissivität verwendet wird. Andererseits vergrößert der Einfluss der Wärmestrahlung die Gesamt-Wärmeleitung für den Fall, dass der Ringraum vergrößert wird und das Material relativ hohe Emissivität aufweist.&#13;
+Die Verbesserungen in der Vorhersage der IFT und des Wärmetransports im Aquifer sowie in den Ringräumen der Bohrung erlauben die Entwicklung eines zweigeteilten mathematischen Modells für den gesamten Wärmetransport. Dieses verbindet die Bestimmung des Wärmeübergangs im Gebirge sowie dessen Berechnung innerhalb der Förderbohrung. Verschiedene analytische Lösungen für den Wärmefluss und die Temperatur werden für die jeweils homogenen Schichten abgeleitet. Die berücksichtigten Transportmechanismen sind: Einphasenströmung des Wassers, Einphasenströmung von Dampf und Zwei-Phasen-Strömung (Wasser und Dampf). &#13;
+</dc:description>
+          <dc:date>2013-11-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4368</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43685</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43685</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4368/zhou_fuzong.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

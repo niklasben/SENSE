@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:869">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:869</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Statistical Learning with Similarity and Dissimilarity Functions</dc:title>
+          <dc:creator>von Luxburg, Ulrike</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In dieser Dissertation werden statistische Eigenschaften von Lernalgorithmen untersucht. Die Arbeit ist in drei Hauptteile gegliedert. Der erste Teil untersucht die Konvergenz von Spektral-Clustering-Algorithmen auf zufälligen Daten. Wir unterscheiden zwischen zwei Varianten des Algorithmus, die entweder die normalisierte oder die unnormalisierte Graph-Laplace-Matrix benutzen. Wir zeigen, dass die von normalisiertem Spektralclustering erzeugten Partitionen unter Standardvoraussetzungen immer konvergieren, was für die unnormalisierte Version nicht gilt. Für Konvergenz im letzteren Fall werden starke Zusatzvoraussetzungen benötigt, die nicht immer erfüllt sind. Im zweiten Teil der Arbeit werden ''large margin'' Klassifikatoren auf metrischen Räumen konstruiert. Diese Klassifikatoren haben ähnlich schöne Eigenschaften wie Support-Vektor-Maschinen, benutzen aber Distanzfunktionen statt positiv definiten Kernfunktionen. Im letzten Teil wird untersucht, wie man Parameter von Support-Vektor-Maschinen mit Hilfe von Datenkompressionsargumenten bestimmen kann. Für eine gegebene Hyperebene wird ein Code konstruiert, mit dessen Hilfe die Trainingsdaten übermittelt werden können. Dieser Code beruht auf geometrischen Eigenschaften wie der Größe des Klassenabstandes, der Anzahl der Support-Vektoren oder der Lage der Trainingsdaten im Merkmalsraum. Man wählt dann diejenigen Parameter, für die der entsprechende Code am kürzesten ist. Dieses Verfahren kann mit anderen Standardverfahren zur Parameterbestimmung konkurrieren.</dc:description>
+          <dc:description xml:lang="eng">This thesis investigates statistical properties of machine learning algorithms and contains three main topics. The first part deals with the question of the convergence of spectral clustering on randomly drawn sample points for growing sample size. We show that spectral clustering always converges if the normalized graph Laplacian is used. For the unnormalized graph Laplacian, convergence only holds under strong assumptions which are not always satisfied in practice. The second part presents a theoretical framework for large margin classification in metric spaces where we work with distance functions instead of kernel functions. We show that many of the nice features of support vector machines such as the representer theorem and generalization bounds can be carried over to this setting. The last part deals with model selection for support vector machines by compression arguments. We first construct a code which can describe the training data with the help of the separating hyperplane constructed by the support vector machine. This code explicitly uses geometric properties such as the margin, the number of support vectors, or the shape of the data in the feature space. Then we choose the parameters of the support vector machine such that the length of the corresponding code is minimized. This procedure can compete with many other model selection criteria.</dc:description>
+          <dc:date>2004-12-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/869</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8624</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8624</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/869/luxburg_ulrike.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

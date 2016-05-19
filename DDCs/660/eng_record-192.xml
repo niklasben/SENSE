@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:192">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:192</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Erkennung und Charakterisierung gefährlicher selbstzersetzlicher Substanzen</dc:title>
+          <dc:title xml:lang="eng">Identification and Characterisation of Dangerous Self Reactive Substances</dc:title>
+          <dc:creator>Antelmann, Olivia</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Die Handhabung selbstzersetzlicher Stoffe stellt bis heute ein Sicherheitsproblem dar, denn ihre Zersetzung ist meist von einer starken Energie- und Gasfreisetzung begleitet, und die Stoffe weisen oft ein autokatalytisches oder druckabhängiges Zersetzungsverhalten auf. Die sicherheitstechnische Beurteilung selbstzersetzlicher Substanzen ist nach heutigem Stand in zweierlei Hinsicht unbefriedigend: Erstens fehlt ein Verständnis über den kinetischen Schlüsselmechanismus der Selbstzersetzung, insbesondere, wenn diese deflagrativ verläuft, und zweitens muss zur Entscheidung über das Vorliegen eines selbstzersetzlichen Stoffes ein Charakterisierungsverfahren durchlaufen werden, das größtenteils auf empirischen, zeit- und kostenintensiven Tests beruht. Dieses Prüfschema führt zu einer Klassifizierung für den Transport selbstzersetzlicher Substanzen, kann aber als Grundlage einer Charakterisierung für die sichere Handhabung sowohl bei Transport als auch bei Lagerung gelten, da die Transportgebinde häufig als Lagerbehälter genutzt werden. Einfache Methoden zur Vorausberechnung des Transport- oder Lagerverhaltens selbstzersetzlicher Substanzen, z. B. aus Screeningmethoden, fehlen jedoch. Im Rahmen der vorliegenden Arbeit werden erste Schritte zur Bewältigung dieser Schwierigkeiten unternommen. Fünf pulverförmige Stoffe wurden ausgewählt, die den Raum der selbstzersetzlichen Substanzen hinsichtlich des Zersetzungspotentials, der Onsettemperatur, der Phase, aus der sie sich zersetzen, und der Zersetzungskinetik abstecken. Sie wurden systematisch mit mindestens je zwei thermischen Belastungstest, Druck- und Explosionstests untersucht und kinetisch beschrieben. Neben klassischen Prüfverfahren wurden auch umfangreiche Screeningtests (z. B. Differenzthermoanalyse DTA) durchgeführt sowie erstmals die isotherme Mikrokalorimetrie eingesetzt. Das eingesetzte Mikrokalorimeter TAM zeigte sich als zuverlässiges, hochsensitives Messgerät. Mit Hilfe des TAM können stabile Handhabungstemperaturen sogar bei einer einfachen Auswertung für eine Reaktion 0. Ordnung mit guter Genauigkeit vorausgesagt werden. Auch die Zeit bis zum Durchgehen der Reaktion unter Lagerbedingungen lässt sich mit dem TAM in Übereinstimmung mit adiabaten Warmlagerversuchen berechnen. Eine neue, einfache Methode ermöglicht weiterhin eine gute Voraussage stabiler Handhabungstemperaturen für Stoffe mit autokatalytischem Zersetzungsmechanismus aus temperaturprogrammierten DTA-Versuchen. Neben Onsettemperatur und Zersetzungsenthalpie müssen hierfür nur die mit einem geeigneten thermokinetischen Auswertverfahren ermittelten Parameter - Aktivierungsenergien und Autokatalysegrad - in eine Übertragungsformel eingesetzt werden. Abschließend wird ein Vorschlag für ein Ablaufschema präsentiert, nach dem aufgrund der hier gefundenen Zusammenhänge für selbstzersetzliche Substanzen vorab eingeschätzt werden kann, ob ein Stoff das oben angesprochene aufwendige Prüfschema durchlaufen muss oder nicht. Die Anzahl derjenigen Substanzen, für die dies notwendig wird, kann damit verringert werden.</dc:description>
+          <dc:date>2001-11-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/192</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1875</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1875</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/192/antelmann_olivia.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1594">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1594</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Quantum Kolmogorov Complexity and the Quantum Turing Machine</dc:title>
+          <dc:title xml:lang="deu">Quanten-Kolmogorov-Komplexität und die Quanten-Turing-Maschine</dc:title>
+          <dc:creator>Müller, Markus</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">The purpose of this thesis is to give a formal definition of quantum Kolmogorov complexity and rigorous mathematical proofs of its basic properties. Classical Kolmogorov complexity is a well-known and useful measure of randomness for binary strings. In recent years, several different quantum generalizations of Kolmogorov complexity have been proposed. The most natural generalization is due to Berthiaume et al., defining the complexity of a quantum bit (qubit) string as the length of the shortest quantum input for a universal quantum computer that outputs the desired string. Except for slight modifications, it is this definition of quantum Kolmogorov complexity that we study in this thesis. We start by analyzing certain aspects of the underlying quantum Turing machine (QTM) model in a more detailed formal rigour than was done previously. Afterwards, we apply these results to quantum Kolmogorov complexity. Our first result, based on work by Bernstein and Vazirani, is a proof of the existence of a universal QTM which simulates every other QTM for an arbitrary number of time steps and than halts with probability one. In addition, we show that every input that makes a QTM almost halt can be modified to make the universal QTM halt entirely, by adding at most a constant number of qubits. It follows that quantum Kolmogorov complexity has the invariance property, i.e. it depends on the choice of the universal QTM only up to an additive constant. Moreover, the quantum complexity of classical strings agrees with classical complexity, again up to an additive constant. The proofs are based on several analytic estimates. Furthermore, we prove several incompressibility theorems for quantum Kolmogorov complexity. Finally, we show that for ergodic quantum information sources, complexity rate and entropy rate coincide with probability one. The thesis is finished with an outlook on a possible application of quantum Kolmogorov complexity in statistical mechanics.</dc:description>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit ist es, den Begriff der Quanten-Kolmogorov-Komplexität formal zu definieren und seine wichtigsten Eigenschaften rigoros zu beweisen. Die klassische Kolmogorov-Komplexität ist ein bekanntes und nützliches Maß für die Zufälligkeit endlicher Wörter. In den letzten Jahren wurden unterschiedliche Quantenverallgemeinerungen der Kolmogorov-Komplexität vorgeschlagen. Die natürlichste Art der Verallgemeinerung stammt von Berthiaume u.a., die die Komplexität eines Quantenwortes definieren als die Länge der kürzesten Quanteneingabe für einen universellen Quantencomputer, die als Ausgabe das entsprechende Wort produziert. Abgesehen von kleinen Änderungen soll dieser Komplexitätsbegriff in der hier vorliegenden Arbeit untersucht werden. Zunächst untersuchen wir verschiedene Aspekte des zugrunde liegenden Modells der Quantenturingmaschine (QTM), und zwar mit größerer formaler Genauigkeit als in bisherigen Arbeiten. Anschließend wenden wir diese Resultate auf die Quanten-Kolmogorov-Komplexität an. Unser erstes Ergebnis, basierend auf der Arbeit von Bernstein und Vazirani, ist ein Beweis für die Existenz einer universellen QTM, die jede andere QTM für eine beliebige Anzahl von Zeitschritten simulieren kann, und dann selbst mit Wahrscheinlichkeit eins hält. Weiterhin zeigen wir, dass jede Eingabe, die eine QTM beinahe halten lässt, modifiziert werden kann, um eine Eingabe zu erhalten, die die universelle QTM vollständig halten lässt, wobei sich die Eingabelänge höchstens um eine konstante Anzahl von Qubits vergrößert. Daraus folgt, dass die Quanten-Kolmogorov-Komplexität die Invarianzeigenschaft besitzt, d.h. sie ist bis auf eine additive Konstante unabhängig von der Wahl der universellen QTM. Außerdem stimmt die Quantenkomplexität klassischer Wörter mit deren klassischer Komplexität überein, wieder bis auf eine additive Konstante. Die entsprechenden Beweise beruhen auf verschiedenen analytischen Abschätzungen. Weiterhin beweisen wir mehrere Sätze, die zeigen, dass nur wenige Quantenwörter kleine Quantenkomplexität besitzen können. Schließlich zeigen wir, dass bei ergodischen Quantendatenquellen Komplexitätsrate und Entropierate mit Wahrscheinlichkeit eins übereinstimmen. Den Abschluss der Arbeit bildet ein Ausblick auf eine mögliche Anwendung der Quanten-Kolmogorov-Komplexität in der statistischen Mechanik.</dc:description>
+          <dc:date>2007-09-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1594</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16551</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16551</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1594/original_diss.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1594/mueller_markus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

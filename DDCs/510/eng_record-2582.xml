@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2582">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2582</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Renormalized solutions for nonlinear partial differential equations with variable exponents and L1-data</dc:title>
+          <dc:title xml:lang="deu">Renormalisierte Lösungen nichtlinearer partieller Differenzialgleichungen mit variablen exponenten und L^1-daten</dc:title>
+          <dc:creator>Zimmermann, Aleksandra</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">We study an elliptic and a parabolic problem of nonlinear partial differential equations with L^1-data and variable exponent. We present basic definitions and results concerning the Lebesgue and Sobolev spaces with variable exponent and introduce the function spaces for the parabolic problem. We study the existence and uniqueness of the elliptic problem. These results serve us as a basis for the study of the evolution problem associated with the same convection-diffusion operator: More precisely, from these results we deduce that there exists a mild solution of the corresponding abstract Cauchy problem. The mild solution is, roughly speaking, the uniform limit of piecewise constant approximate solutions of time-discretized equations given by an implicit Euler scheme. This result will lead us to the appropriate energy space for weak and renormalized solutions of the parabolic problem with variable exponent. Moreover, we show that the mild solution is a renormalized solution by passage to the limit in the time-discretized equations. Finally we prove a comparison principle and the uniqueness of renormalized solutions.</dc:description>
+          <dc:description xml:lang="deu">Wir studieren ein elliptisches und ein parabolisches Problem nichtlinearer partieller Differentialgleichungen mit L^1-Daten und variablen Exponenten. Wir präsentieren grundlegende Definitionen und Resultate für die Lebesgue- und Sobolevräume mit variablen Exponenten L^p(·)(­\Omega) bzw. W^{1,p(·)}(\Omega­) und führen die für die Bearbeitung der Evolutionsproblems nötigen Funktionenräume ein. Wir untersuchen die Existenz und Eindeutigkeit schwacher und renormalisierter Lösungen des elliptischen Problems. Diese Ergebnisse dienen uns als Grundlage bei der Untersuchung des zum gleichen Diffusions- Konvektionsoperator gehörenden Evolutionsproblems. Aus den Existenz- und Eindeutigkeitsergebnissen Ergebissen für das elliptische Problem k¨onnen wir mit nichtlinearer Halbgruppentheorie die Existenz (und Eindeutigkeit) einer milden L¨osung des zugehörigen abstrakten Cauchy Problems folgern. Die milde Lösung ist, grob geprochen der gleichmäßige Limes stückweise konstanter approximativer Lösungen zeitdiskretisierter Gleichungen, die durch ein implizites Euler Schema gegeben sind. Dieses Ergebnis führt uns zu den geeigneten Energier¨aumen und einer Formel der partiellen Integration f¨ur schwache und renormalisierte Lösungen des parabolischen Problems mit variablen Exponenten. Des Weiteren zeigen wir durch Übergang zum Limes in den zeitdiskretisierten Gleichungen und weitere Approximationsschritte, dass die milde L¨osung im Fall von L^{\infty}-Daten schwache L¨osung und im Fall von L1-Daten renormalisierte L¨osung des Problems ist. Mit Hilfe eines L1- Kontraktionsprinzips zeigen wir Eindeutigkeit der renormalisierten Lösung.</dc:description>
+          <dc:date>2010-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2582</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27155</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27155</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2582/zimmermann_aleksandra.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

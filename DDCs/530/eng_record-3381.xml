@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3381">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3381</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Coherence Effects in the Valence Photoionization of Small Molecules</dc:title>
+          <dc:title xml:lang="deu">Kohärenzeffekte in der Valenz-Photoionisation kleiner Moleküle</dc:title>
+          <dc:creator>Ilchen, Markus</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Coherence Effects in the Valence Photoionization of Small Molecules Coherence effects in the valence photoionization of small molecules deliver insight into molecular structures and dynamics which in turn allow to unravel details of fundamental quantum mechanical processes. The work presented in this dissertation primarily deals with such investigations, using third generation synchrotron radiation. The applied technique is angle resolving photoelectron time-of-flight spectroscopy. It is shown that due to the inversion symmetry of homonuclear diatomic molecules like N2 and O2 an indistinguishability of the electrons and corresponding delocalization leads to interference pattern in the angular distribution anisotropy. Such two center interferences are determined in a wide photon energy range from 20 to 600 eV in the valence photoionization angular distribution anisotropy. The observed oscillations will be discussed in the light of the Cohen-Fano formalism. The relevant photoionization dynamics of the broad photon energy study will be discussed. In this context, a high energy resolution study of N2 and O2 is presented for the low photon energy region from 20 to 50 eV, showing hitherto unexplored resonance phenomena most likely originated by different types of doubly excited states. In order to initialize a discussion about more complex molecular multi-slit systems, an angle resolving study from 20 to 300 eV is presented for the heteronuclear polyatomic molecule CH4.</dc:description>
+          <dc:description xml:lang="deu">Kohärenzeffekte in der Valenz-Photoionisation kleiner Moleküle Die Untersuchung von Kohärenzeffekten in der Valenz-Photoionisation kleiner Moleküle ermöglicht Einblicke in molekulare Strukturen und Dynamiken und gibt dadurch Aufschluss über einige fundamentale quantenmechanische Prozesse. Der Schwerpunkt dieser Arbeit liegt auf derartigen Studien. Mittels Synchrotronstrahlung und der winkeldifferenzierenden Flugzeitanalyse von hierbei emittierten Photoelektronen werden molekulare Zwei-Zentren-Interferenzen für die Valenzelektronen der homonuklearen, diatomaren Moleküle N2 und O2 untersucht. Es wird gezeigt, dass durch die Inversionssymmetrie dieser Moleküle und die resultierende Unbestimmbarkeit des Emissionsortes der Photoelektronen Interferenzen auftreten. Die winkelaufgelöste Photoelektronenstudie in einem sehr großen Photonenenergiebereich von 20 bis 600 eV , die in dieser Arbeit vorgestellt wird, zeigt erstmalig sogenannte 'Cohen-Fano Oszillationen' in der Winkelverteilungsanisotropie. Es werden zudem weitere relevante Effekte der kohärenten Photoelektronenemission vorgestellt und im Lichte der gewonnenen experimentellen Daten analysiert. Eine energetisch hoch auflösende Studie von N2 und O2, besonders im niederenergetischen Photonenenergiebereich von 20 bis 50 eV, zeigt des Weiteren bisher unentdeckte Resonanzphänomene, die höchstwahrscheinlich verschiedenen Arten der Doppelanregung zuzuschreiben sind. Ausblickend wird eine Analyse für das polyatomare heteronukleare Molekül CH4 von 20 bis 300 eV vorgestellt, um eine Diskussion über molekulare Multi-Spalt-Systeme anzustoßen.</dc:description>
+          <dc:date>2012-07-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3381</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35869</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35869</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3381/ilchen_markus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

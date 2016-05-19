@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2652">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2652</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Biographieforschung: Analyse der Berufslaufbahn von Schauspielern</dc:title>
+          <dc:creator>Haack, Imke</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="deu">Die Berufslaufbahn von Schauspielern ist häufig in besonderem Maße von Höhen und Tiefen geprägt. Deshalb eignet sich der Beruf des Schauspielers besonders gut, um berufliche Entscheidungsmomente, Krisen und Wendepunkte biographisch zu untersuchen. Auf die autogenetischen Aspekte im Leben von Schauspielern wurde besonderes Augenmerk gerichtet. Im Zentrum des Interesses standen Themen wie Erfolg und Misserfolg, Zielsetzungen und Entscheidungen, Arbeitseinstellung, das Verhältnis zu Kollegen, Regisseuren und dem Publikum, Arbeitssuche und Arbeitslosigkeit, Arbeitszufriedenheit und Höhe- und Tiefpunkte der Karriere. 16 Theater- und Filmschauspieler wurden nach ihrer Arbeitszufriedenheit unterteilt und anschließend qualitative, halbstrukturierte Interviews mit ihnen durchgeführt. Die Auswertung erfolgte mit Methoden der Komparativen Kasuistik (Jüttemann, 1990) und des Zirkulären Dekonstruierens (Jaeggi &amp; Faas, 1991). Die Ergebnisse sind anschaulich nach Themen wie „Gründe, Schauspieler zu sein“, „Eine Produktion kann die Hölle sein“ und „Ohne Netz und doppelten Boden“ sortiert und mit zahlreichen Beispielen und Interviewzitaten lebendig dargestellt. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2010-10-06</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2652</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27994</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27994</dc:identifier>
+          <dc:identifier>978-3-7983-2222-6</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2652/2222_haack_Gesamt.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

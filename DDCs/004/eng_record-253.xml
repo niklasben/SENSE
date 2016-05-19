@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:253">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:253</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Group membership and communication in highly mobile ad hoc networks</dc:title>
+          <dc:title xml:lang="deu">Gruppenbildung und Kommunikation in hochmobilen Ad-hoc-Netzen</dc:title>
+          <dc:creator>Briesemeister, Linda</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird eine neue Art der Nachrichtenvermittlung für die Kommunikation in hochmobilen Ad-hoc-Netzen vorgestellt. Ad-hoc-Netze arbeiten drahtlos und verwenden keine ausgezeichneten Stationen oder feste Infrastruktur. Aufgrund der Mobilität der Knoten wechselt die Netztopologie ständig und ist nicht vorhersagbar. Diese neuartige Nachrichtenvermittlung wird hier im Kontext einer direkten Kommunikation zwischen Fahrzeugen erforscht. In solchen hochmobilen Ad-hoc-Netzen kennen die Knoten üblicherweise nicht von vornherein die Identität ihrer Kommunikationspartner. Außerdem erschweren die dynamische Netztopologie und die knappe Bandbreite der Kommunikationswege den regelmäßigen Austausch von Informationen über den Netzzustand. Dies macht ein neues Paradigma der Nachrichtenvermittlung erforderlich, in welchem die Nachrichten implizit an ihre Empfänger adressiert werden und der Empfang von der momentanen Situation abhängt. Dabei erreicht der Urheber mit einer Nachricht durch gezieltes und kontrolliertes Fluten des Netzes (flooding) die Bestimmungsorte. Die Empfänger einer solchen Nachricht verwenden ihr Wissen über ihr Umfeld, um zu entscheiden, ob die Nachricht für sie bestimmt ist. Weiterhin wird der Algorithmus zur Nachrichtenvermittlung derart angepasst, dass das Problem zeitweise getrennter Netzkomponenten besser bewältigt wird. Der hier vorgeschlagene Algorithmus zur Nachrichtenvermittlung erfordert den Zusammenschluss mehrerer Knoten zu einer dynamischen Gruppe. Daher wird ein neuartiger, lokaler Gruppenbildungsdienst spezifiziert, der sich an den schwierigen Verhältnisse in Ad-hoc-Netzen orientiert. Bei dieser lokalen Gruppenbildung verfolgen die Knoten lediglich die Mitgliedschaft ihrer unmittelbaren Nachbarn. Um die entwickelten Algorithmen zu bewerten, wird die Anwendung des Ad-hoc-Netzes in einem Autobahnstauszenario simuliert. Es werden verschiedene Metriken eingeführt, die die Leistungsfähigkeit der implementierten Protokollschichten messen. Die Ergebnisse der Simulationen zeigen die beeindruckende Wirkung vergleichsweise einfacher, verteilter Protokolle, die über ein hochmobiles Ad-hoc-Netz kommunizieren und in einer realistischen Umgebung interagieren.</dc:description>
+          <dc:description xml:lang="eng">This thesis proposes the use of a new routing paradigm to enable communication in highly mobile, ad hoc networks, which operate wirelessly in the absence of dedicated master stations or fixed infrastructure. Due to the mobility of the nodes, the network topology changes frequently and unpredictably. We explore the new routing paradigm in the context of inter-vehicle communication. In such highly mobile ad hoc networks, the nodes commonly do not know the identity of their communication partners in advance. Rapid topology changes and scarce bandwidth prevent the nodes from exchanging updates regularly throughout the network. Therefore, we advocate a new routing paradigm that implicitly addresses message destinations based on the current situation of the network. The originator of a message uses scoped and controlled flooding to reach the destinations. The receivers of the flooded message use their knowledge of the local environment to decide whether they match the intended destination of the message. Furthermore, we tailor the routing algorithm to overcome the problem of fragmentation in sparsely connected networks. Our routing algorithm requires the mobile nodes to aggregate into a dynamic group. Being aware of the severe conditions inherent to ad hoc networks, we suggest a new, localized group membership service in which nodes track the membership only of adjacent nodes. To evaluate our communication system, we simulate the mobile ad hoc network applied to a highway traffic jam scenario. We introduce several metrics to measure the performance of each implementation layer. The results of the simulations demonstrate the powerful effect of rather simple, distributed protocols communicating through a mobile ad hoc network and interacting in a realistic environment.</dc:description>
+          <dc:date>2001-11-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/253</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2482</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2482</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/253/briesemeister_linda.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1599">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1599</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Methoden zur Geschwindigkeitsoptimierung von Logiksimulationsverfahren</dc:title>
+          <dc:title xml:lang="eng">Methods for speed optimization of logic simulation</dc:title>
+          <dc:creator>Neunast, Till</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die Verifikation beim digitalen Schaltungsentwurf erfolgt üblicherweise mittels ereignisgesteuerter Simulation des Schaltungsmodells. Der Simulationsaufwand beeinflußt die Entwurfskosten wesentlich und steigt mit der Schaltungskomplexität. Um den Aufwand zu mindern, wurden bisher verschiedene Ansätze verfolgt, insbesondere parallele und verteilte Simulation, kompilierte Simulation und alternative Funktionsdarstellungen wie BDDs. In dieser Arbeit wird ein neuer Ansatz präsentiert, der eine Steigerung der Simulationsgeschwindigkeit durch Reduzierung der Anzahl der während der Simulation zu verarbeitenden Ereignisse erreicht. Diese Reduzierung basiert auf der Zusammenfassung von einerseits räumlich nah beieinander liegenden Schaltungselementen und andererseits zeitlich nah beieinander liegenden Ereignissen. Vorgestellt werden zwei Verfahren. Das erste ist ein Partitionierungsverfahren, das aus Schaltungselementen Blöcke bildet, deren Simulation ein Minimum an Ereignissen produziert. Das zweite ist ein modifiziertes Simulationsverfahren, das eine kombinierte und zeitlich umgeordnete Ereignisverarbeitung ohne Rücksetzmechanismus ermöglicht. Beide Verfahren sind unabhängig von Verzögerungs- und Wertemodellierung und können daher ohne Genauigkeitsverlust auf unterschiedlichen Abstraktionsebenen des Entwurfs eingesetzt werden. Die Effektivität der Verfahren ist experimentell anhand von mehr als 200 Benchmark-Schaltungen nachgewiesen, wobei in Kombination beider Verfahren eine durchschnittliche Geschwindigkeitssteigerung von annähernd 50% erreicht wird.</dc:description>
+          <dc:description xml:lang="eng">Verification in digital system design is usually done by event-driven simulation of a model representing the design. The expense of the simulation task makes up a significant part of the total costs of the design process, and grows with the complexity of the design. Several attempts have been made to reduce simulation cost, in particular parallel and distributed simulation, compiled-code simulation and alternative function representation like decision diagrams. In this thesis a new approach is presented, which achieves an increase in simulation speed by reducing the number of events processed during simulation. The reduction is based on aggregation of neighboring circuit elements in the spacial domain and on combination of closely related events in the time domain. Two techniques are shown. The first one is a partitioning algorithm, that assembles circuit elements into blocks, whose simulation produces a minimum of events. The second one is a modified simulation algorithm, which processes combined and temporally rearranged events, and has no need for any rollback mechanism. Both techniques are independent of the used delay model and logic levels, and therefore can be applied to various design levels without loss of accuracy. Efficacy has been confirmed in experiments for more than 200 benchmark circuits. Combination of both techniques perform an average speedup of nearly 50%.</dc:description>
+          <dc:date>2007-10-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1599</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16600</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16600</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1599/neunast_till.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

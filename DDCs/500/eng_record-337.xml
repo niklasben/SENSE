@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:337">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:337</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Molekulardynamische Simulationen von Sorptions- und Diffusionsvorgängen in Pervaporationsmembranen</dc:title>
+          <dc:title xml:lang="eng">Molecular dynamics simulations of sorption and diffusion processes in pervaporation membranes</dc:title>
+          <dc:creator>Schepers, Claudia</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Theorie-betonten Arbeit war es, durch die Anwendung von "Molecular Modelling"-Techniken einen Beitrag zur Aufklärung von Transportvorgängen in Pervaporationsmembranen zu leisten. Mittels molekulardynamischer (MD) Simulationen wurden 21 Grenzflächenmodelle von modifizierten glasartigen Polymethacrylaten und gummiartigen Polysiloxanen in Kontakt mit dem vorgegebenen Benzol/n-Heptan-Feedgemisch (20:80 Gew.-%) untersucht. Um die Simulationsmodelle quantitativ erfassen zu können, wurden spezielle Programme zur Auswertung entwickelt. Zunächst war die Frage zu klären, ob die Stofftrennung der großen Permeanden Benzol und n-Heptan mit MD-Methoden überhaupt sinnvoll untersucht werden kann. Im Rahmen der in dieser Arbeit durchgeführten MD-Simulationen konnte z.B. in guter Übereinstimmung mit Experimenten das erwartete, nicht-selektive Verhalten von Polydimethylsiloxanmembranen und die ausgeprägte Benzoladsorption an Polymethylmethacrylatoberflächen beobachtet werden. Durch den Vergleich der in dieser Arbeit erzielten Ergebnisse mit den verfügbaren experimentellen Daten konnte damit erstmalig nachgewiesen werden, daß sich MD-Methoden prinzipiell auch zur Vorhersage von Trenneffekten in der organophilen Pervaporation eignen. Ein weiteres Ziel dieser Untersuchungen war es, experimentell angewendete Strategien zur Verbesserung der Trennleistung von Polymethacrylaten bezüglich der genannten Feedlösung mit MD-Methoden zu überprüfen. Dabei haben sich für die Erhöhung der Benzolaffinität bei den untersuchten Modellpolymeren neben einem möglichst hohen Freien Volumen die Einführung von Benzyl- und Carboxylgruppen als vorteilhaft erwiesen. Anhand der Simulationen konnte aber auch festgestellt werden, daß Modifikationen von Modellpolymeren mit benzylischen Gruppen in Kombination mit einer ungünstigen Verteilung des Freien Volumens voraussichtlich eher geringe Permeabilitäten für Benzol und n-Heptan erwarten lassen. Anhand der MD-Simulationen von Polymer/Feed-Systemen konnten zumeist schneller Trendaussagen zur Benzol/n-Heptan-Trennung formuliert werden als mit Referenzmessungen möglich gewesen wäre, da sich der experimentelle Aufwand zur Herstellung der hier simulierten Polymermembranen als wesentlich größer als erwartet herausstellte. Somit konnten mit den hier durchgeführten MD-Simulationen einerseits Vorschläge für möglicherweise geeignete Modifikationen in die Synthesevorhaben eingebracht werden, andererseits konnten Modifikationen verworfen werden, die sich in der Simulation als ungeeignet herausgestellt haben, wodurch der Syntheseaufwand in einigen Fällen reduziert werden konnte. In der Simulation konnte außerdem festgestellt werden, daß die Diffusion von Benzol- und n-Heptanmolekülen in glasigen Polymethacrylaten mit unterschiedlichen Mechanismen erfolgt. Aufgrund der Beobachtung, daß sich die konformationsflexiblen n-Heptanmoleküle offenbar den Diffusionskanälen in der Polymermatrix anpassen können, nutzen diese eine "schlängelnde" Bewegung zum Fortkommen. Dahingegen bevorzugen die starren Benzolmoleküle einen "Loch zu Loch"-Sprungmechanismus. In gummiartigen Polymeren wurde bei Benzolmolekülen ein kombinierter Mechanismus aus Sprüngen und zielgerichtetem Fortkommen gefunden.</dc:description>
+          <dc:date>2001-09-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/337</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3328</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3328</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/337/schepers_claudia.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

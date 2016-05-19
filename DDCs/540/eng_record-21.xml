@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:21">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:21</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Oxygen Electroreduction on Core-Shell Nanoparticle Catalysts Prepared by Selective Electrochemical Metal Dissolution of Pt-Cu and Pt-Co Alloys</dc:title>
+          <dc:title xml:lang="deu">Sauerstoff-Elektroreduktion an Kern-Schale Nanopartikel Katalysatoren hergestellt durch selektive electrochemische Metalauflösung von Pt-Cu und Pt-Co Legierungen</dc:title>
+          <dc:creator>Özaslan, Mehtap</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">The development of novel efficient electrocatalysts for the oxygen reduction reaction (ORR) is necessary to achieve a technical breakthrough of polymer electrolyte fuel cells (PEMFCs). Only a better understanding of the atomic process on the catalytically active surface and the resulting structure – reactivity relation allows the rational design of highly active catalysts. Pt alloy nanoparticle catalysts show clearly improved activities compared to pure Pt catalysts. In particular, the dealloyed Pt bimetallic core-shell nanocatalysts prepared in-situ by electrochemical dissolution of the less noble metal from the surface of alloy particle show considerable ORR performance. The aim of this work is to apply the core-shell catalyst concept for new Pt-Cu and Pt-Co alloy systems and to clarify the critical experimental parameters for an improved ORR activity. Therefore, in-situ high temperature XRD studies are required to understand the dynamic of the alloy formation and particle growth of precursor nanocatalysts. The electrochemical behavior of Pt-Cu and Pt-Co alloy nanocatalysts was subsequently examined in acidic and alkaline environments. A correlation between the structure – composition – ORR activity was uncovered. Only the electrochemical treatment in acid forms the core-shell nanoparticles, which then show increased ORR activity in acidic and alkaline solutions compared to the commercially available Pt catalysts. The microscopic and spectroscopic investigation was performed on highly active dealloyed Pt-Cu and Pt-Co catalysts to examine the active structure. A size-effect of Pt alloy precursor catalysts on the structure and composition was clearly identified. The knowledge of this work provides the design of novel improved catalysts for acidic and alkaline PEMFCs.</dc:description>
+          <dc:description xml:lang="deu">Für einen technologischen Durchbruch der Polymer Elektrolyte Membran Brennstoffzelle (PEMFC) ist die Entwicklung von neuen effizienteren Elektrokatalysatoren für die Sauerstoffreduktionsreaktion (ORR) erforderlich. Erst durch ein besseres Verständnis der atomaren Vorgänge an der katalytischen aktiven metallischen Oberfläche und der daraus resultierenden Struktur – Reaktivität Beziehung wird das rationale Designen von hoch aktiven Katalysatoren ermöglicht. Pt Legierungskatalysatoren zeigen im Vergleich zu reinen Platin Katalysatoren deutlich verbesserte Aktivitäten. Besonders zu nennen, sind hier die entlegierten Pt bimetallische Kern-Schale Nanokatalysatoren, die durch das elektrochemische Auflösen von dem weniger edleren Metall aus der Oberfläche von Legierungspartikeln in-situ erzeugt werden. Ziel dieser Arbeit ist das Kern-Schale Katalysatorkonzept für neue Pt-Cu und Pt-Co Legierungsnanosysteme anzuwenden sowie die kritischen experimentellen Parameter für eine verbesserte Aktivität des Katalysators herauszuarbeiten. Dazu ist es notwendig mehr Erkenntnisse über die Dynamik der Bildung und des Partikel-Wachstums von Legierung-Precursor-Nanokatalysatoren mittels der in-situ Hochtemperatur XRD zu gewinnen. Anschließend wurde das elektrochemische Verhalten der Pt-Cu und Pt-Co Nanopartikel in sauren und alkalischen Elektrolyten untersucht, um später eine Korrelation über die Struktur – Komposition – ORR Aktivität zu entwickeln. Nur die elektrochemische Behandlung im Sauren generierte die Kern-Schale Nanopartikel, die dann eine deutlich erhöhte Aktivität für die Reduktion von Sauerstoff im sauren und alkalischen Medium verglichen mit kommerziellen Pt Standardkatalysatoren aufwiesen. Der hoch aktive entlegierte Pt-Cu und Pt-Co Katalysatoren wurden mikroskopisch und spektroskopisch untersucht, um die Struktur der aktiven Spezies zu klären. Daraus liess sich ein Größen-Effekt der Pt Legierungsprecursorkatalysatoren auf die Struktur und Komposition ermitteln. Die Erkenntnisse aus dieser Arbeit sind von wichtiger Bedeutung für die Herstellung und Entwicklung von neuen verbesserten Katalysatoren für die saure und alkalische PEMFCs.</dc:description>
+          <dc:date>2012-04-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/21</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34839</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34839</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/21/oezaslan_mehtap.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1000">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1000</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:habilitation</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:420</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Synchrone und diachrone Untersuchungen zu den zusammengesetzten Verben im Englischen</dc:title>
+          <dc:title xml:lang="eng">A synchronic and diachronic study of compound verbs in English</dc:title>
+          <dc:creator>Cho, See-Young</dc:creator>
+          <dc:subject>ddc:420</dc:subject>
+          <dc:description xml:lang="deu">Die Habilitationsschrift mit dem Titel Synchrone und diachrone Untersuchungen zu den zusammengesetzten Verben im Englischen liefert eine eingehende und umfassende Aufarbeitung, Auswertung und Beschreibung eines selbsterstellten Korpus von Verben des Typs to babysit, to highlight und to tumble-dry. Daneben zeichnet die Studie den sprachgeschichtlichen Verlauf dieser Erscheinung über etwa 1100 Jahre vom ausgehenden 9. bis zum Ende des 20. Jahrhunderts. Die Untersuchung geht vor dem Hintergrund der eigenen empirischen Untersuchungen auf methodische Fragen, theoretische Annahmen und bisherige Erklärungsversuche der Wortbildung ein, wie sie am Beispiel der Verbkomposita des oben zitierten Typs entwickelt wurden. Materialgrundlage für den synchronen Teil der Arbeit sind rund 27 Millionen Wörter des Amerikanischen Engisch [AmE], die überwiegend aus schriftsprachlichen Quellen stammen, welche verschiedene Grade der Formalität aufweisen. Es handelt sich zum Einen um literarische und (populär)wissenschaftliche Publikationen sowie um Tageszeitungen und Wochen- bzw. Monatszeitschriften; zum Anderen um Transkripte aller Radio- und Fernsehsendungen der vier amerikanischen Stationen ABC, CNN, National Public Radio und PBS für das Jahr 1992. Unter ihnen befinden sich auch Transkripte von Interviews in Sendungen wie Larry King Live des Senders CNN, die als eine Form des gesprochenen AmE gelten können. Teil der Untersuchungen zum gegenwärtigen AmE ist ein Vergleich seines Gebrauchs von Verbkomposita mit dem im heutigen Britischen Englisch [BrE]. Die sprachgeschichtlichen Untersuchungen zu den Verbkomposita basieren auf einer Auswertung der Materialien, welche die elektronische Version der zweiten Auflage des 20-bändigen Oxford English Dictionary zur Verfügung stellt. Eingehend beschäftigen wir uns mit der These von Marchand, dass die zusammengesetzten Verben keine originären Verbkomposita sind, sondern durch Null- und Rückableitung aus nicht-verbalen Komposita entstanden sind. Die im synchronen Korpus ermittelten Verbkomposita werden auf ihre Schreibung, Betonung und Morphologie (Flexion) hin behandelt. Im Rahmen der Versuche, Verbkomposita herzuleiten, gehen wir eingehender auf ihre Interpretation als eines Falles von Nomen-Inkorporation (NI) ein. Analogische Bildungen spielen beim Entstehen von Verbkomposita eine große Rolle. Eine weitere Fragestellung ist die nach der Produktivität von zusammengesetzten Verben im heutigen Englisch. Die elektronische Datenbasis erlaubt eine detaillierte Untersuchung zu ihrer Type- und Token-Häufigkeit.</dc:description>
+          <dc:date>2002-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1000</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9933</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9933</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1000/cho_see.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

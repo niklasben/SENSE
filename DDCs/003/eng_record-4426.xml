@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4426">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4426</identifier>
+        <datestamp>2014-07-14</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Using ATLAS.ti for a discourse analysis study of blogging in an educational context</dc:title>
+          <dc:creator>Paulus, Trena</dc:creator>
+          <dc:creator>Lester, Jessica </dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">While some scholars have claimed that data analysis software tools are not useful for discourse analysis work (Macmillan, 2005), in this presentation we report on our use of ATLAS.ti for conducting a discourse analysis of blog posts and comments made in the context of an undergraduate nutrition course (Lester &amp; Paulus, 2011; Paulus &amp; Lester, 2013). We describe several aspects of our analysis, including: managing the data through document families and quotations, collaborating as a team, engaging in â€œunmotivated lookingâ€? through memos, maintaining a focus on discursive actions through hyperlinking and network views, and narrowing the analytic focus through codes and queries. While we found ATLAS.ti to be extremely useful for documenting our analytic decisions in a transparent and systematic way, we also call for features that would allow the analysis of online interactional data in a more seamless way.</dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4426</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44263</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44263</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4426/13_paulus_lester_4426.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

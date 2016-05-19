@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:907">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:907</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Erhöhung des Energieertrages eines untertägig geschlossenen geothermischen Wärmetauschers durch die Verwendung geeigneter wärmeleitender Zementrezepturen</dc:title>
+          <dc:title xml:lang="eng">Increasing the Energy Yield of a Closed Loop Downhole Heat Exchanger by the Use of Adapted Cementing Materials with High Heat Conductivity</dc:title>
+          <dc:creator>Schmid, Stefan Peter</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Geothermie wird für die Energieversorgung der Zukunft an Bedeutung gewinnen. Die bisherigen Systeme zur Stromerzeugung aus Geothermie weisen jedoch eine hohe Abhängigkeit von günstigen geologischen Standorten auf. Um diesem und wei-teren Nachteilen zu begegnen, wird von der Technischen Universität Berlin ein Untertägig Geschlossener Geothermischer Wärmetauscher, kurz UGGW, vorgeschlagen, bestehend aus zwei vertikalen Bohrungen und einer horizontalen Verbindungsbohrung. Dieses System wird komplett verrohrt, und die Verrohrung wird durch einen Zementmantel mit dem Gebirge verbunden. Entsprechend kommt der Wärmeleitfähigkeit dieses Zementmantels eine hohe Bedeutung zu. Simulationen des Energieertrages für eine angenommene Modellbohrung ergaben, dass durch eine Erhöhung der Wärmeleitfähigkeit des Zementmantels von 1 auf 2 W/mK die Energieausbeute um fast 5 % gesteigert werden kann. Neben der Wärmeleitfähigkeit gilt es beim Entwurf von neuen Zementrezepturen aber auch andere Aspekte zu berücksichtigen: Eine vollständige Verdrängung der Spülung und ein ausreichendes Feststofftragvermögen sind sicherzustellen. Des weiteren muss verhindert werden, dass beim Verpumpen das Gebirge aufreißt und die Zementsuspension in das Gebirge abfließt. Bei diesen Aspekten spielen die Dichte der Bohrspülung, die Dichte der Zementsuspension sowie die Fliesseigenschaften eine zentrale Rolle, wie Literaturstudien sowie Berechnungen mit einem Zementationsprogramm ergaben. Einen weiteren wichtigen Aspekt stellen die Festigkeitseigenschaften des Zementmantels dar, um die Stabilität des Bohrloches langfristig zu gewährleisten. Ein Versuchsprogramm mit mehreren möglichen Zuschlagstoffen zur Erhöhung der Wärmeleitfähigkeit unter atmosphärischen Bedingungen ergab, dass Grafit und Siliziumcarbid die günstigsten Eigenschaften aufweisen. Mit diesen beiden Zuschlag-stoffen wurden weitere Optimierungen sowie Ringraum-Zementationsversuche unter atmosphärischen Bedingungen und Konsistometerversuche unter In-Situ-Druck- und Temperaturbedingungen durchgeführt. Es wurden Probekörper in einen Autoklaven eingebaut, dort unter In-Situ-Druck- und Temperaturbedingungen gelagert und anschließend die Festigkeitseigenschaften sowie die Wärmeleitfähigkeit gemessen. Diese Versuche haben grundsätzlich die Eignung von Grafit und Siliziumcarbid bestätigt, wobei aber auch festgestellt wurde, dass sich die Wärmeleit- und Festigkeitseigenschaften von Grafit als Zuschlagstoff unter In-Situ-Bedingungen verschlechtern, während sie bei Siliziumcarbid in etwa gleich bleiben. Siliziumcarbid weist somit günstigere Festigkeitseigenschaften auf als Grafit, es sind aber auch höhere Dosierungen erforderlich, um die gleiche Wärmeleitfähigkeit zu erzielen. Des weiteren wurde festgestellt, dass Glasfasern eine Verbesserung der Fliesseigenschaften sowie eine erwünschte Reduktion des Elastizitätsmoduls bewirken. Bei der wirtschaftlichen und der energetischen Bewertung schneidet Grafit als Zuschlagstoff deutlich günstiger ab als Siliziumcarbid, einerseits aufgrund der niedrigeren erforderlichen Dosierung und andererseits aufgrund des günstigeren Preises sowie des geringeren Energiebedarfs für die Herstellung. Falls die Festigkeitseigenschaften ausreichend sind, wird somit die Verwendung von Grafit als Zuschlagstoff empfohlen. Wenn jedoch die lokalen geologischen Bedingungen eine höhere Festigkeit erfordern, ist die Verwendung von Siliziumcarbid zu bevorzugen.</dc:description>
+          <dc:date>2005-01-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/907</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9002</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9002</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/907/schmid_stefanpeter.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

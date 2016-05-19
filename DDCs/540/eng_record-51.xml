@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:51">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:51</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Plasmonenanregung von Silber- und Goldteilchen auf Al2O3/NiAl(110) mittels Kathodolumineszenz</dc:title>
+          <dc:creator>Adelt, Maik</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurde die Lichtemission von Nanopartikeln aus Silber und Gold untersucht. Die Teilchen wurden auf einem ultradünnen, geordneten Aluminiumoxidfilm, der auf einem NiAl Einkristall gezüchtet wurde, präpariert. Durch Beschuß mit Elektronen aus einer selbst entworfenen und angefertigten Elektronenquelle wurden die Proben zur Licht-emission angeregt (Kathodolumineszenz). Es konnten die Banden der Inselfilme in den Kathodolumineszenzspektren durch Vergleich mit Vorhersagen aus eigenen Simulationsrechnungen den verschiedenen Moden von Mie Plasmonen zugewiesen werden. Die Bestimmung der Polarisation des Lumineszenzlichts be-stätigte die Zuordnung. Für die Kathodolumineszenz des unbedeckten NiAl Substrats konnte ein einfaches Modell erstellt werden. Eine Interpretation mit Hilfe bekannter Ansätze schlug fehl. Durch Variation der Präparationsbedingungen konnten die Nanopartikel bezüglich ihrer Grö-ße, Anzahl und Form variiert werden. Dies geschah durch Aufdampfen verschiedener Men-gen Silber bzw. Gold und/oder einer tieferen Temperatur des Substrats während der Präpara-tion. Geringe effektive Schichtdicken führten zu kleinen und eher runderen Partikeln, wäh-rend größere und flachere Teilchen aus größeren Mengen Deponat resultierten. Das Absenken der Substrattemperatur führte ebenso zu flacheren Inseln. Die Gestalt und Größe der Teilchen hatte Einfluß auf die Resonanzfrequenz und -breite der Mie Plasmonen. Durch kurzzeitiges Tempern der Silberinselfilme konnten Veränderungen in der Morphologie der Teilchen hervorgerufen werden, die unmittelbar Auswirkungen auf die energetische Lage und Halbwertsbreite der Banden in den Kathodolumineszenzspektren hatten. Die Teilchen bildeten durch die Erwärmung eine mehr rundere Form. Dies führte zu einer Reduzierung der Aufspaltung der Moden des Mie Plasmons in den Silberpartikeln. Gleichzeitig nahm die Grö-ßenverteilung aufgrund von Ostwald Reifung ab und folglich beobachtete man eine Abnahme der Halbwertsbreite der Plasmonenbanden. Die im Vergleich zu den Ergebnissen anderer Autoren und der Simulationsrechnungen hohen energetischen Lagen für die (1,0) Mode verschiedener Silberteilchen konnten durch eine Pha-senverschiebung zwischen oszillierendem Dipol und Bildladungsdipol im NiAl Substrat er-klärt werden. Die Auswirkung der Adsoprtion von Kohlenmonoxid auf den Silberteilchen wurde untersucht und es wurde eine Verbreiterung der Plasmonenresonanzen gefunden.</dc:description>
+          <dc:date>2000-07-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/51</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-484</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-484</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/51/adelt_maik.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2104">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2104</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Energiesparende System- und Schaltungskonzepte für drahtlose Sensornetzwerke</dc:title>
+          <dc:title xml:lang="eng">Concepts for energy efficient systems and circuits for wireless sensor networks</dc:title>
+          <dc:creator>Mark, Stefan von der</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Zum Thema drahtlose Sensornetzwerke existieren zahllose Ideen und Forschungsarbeiten, wie mit dieser neuartigen Technologie verteilt anfallende Messdaten effizient aufgenommen und verarbeitet werden können. Das größte Hindernis auf dem Weg zu einer breiten Anwendung besteht jedoch im Energiebedarf solcher drahtloser Sensoren. Während einerseits Verbesserungen der Batterietechnologie und neue Methoden zur Energiegewinnung erforscht werden, ist andererseits die Einsparung von Energie mindestens ebenso wichtig. Dabei stehen der Sende- und Empfangsteil solcher Sensoren besonders im Vordergrund, da dort der Großteil der Energie verbraucht wird. Die vorliegende Arbeit geht den Energieverbrauch auf drei Ebenen an: Zuerst werden optimierte Abläufe und Kommunikationsstrategien betrachtet. Besonders wird hier die Idee eines zusätzlichen dedizierten so genannten Wakeup-Empfängers untersucht, dessen einzige Aufgabe darin besteht, während der Inaktivitätsphasen mit minimalen Energiebedarf auf Kommunikationsanforderungen anderer Knoten zu warten, um dann den Hauptempfänger zu aktivieren. Die nächste Ebene besteht in der genaueren Struktur der im ersten Schritt definierten Funktionsblöcke. Neben der Konzeption eines CMOS integrierbaren Wakeup-Empfängers wird besonders die Frequenzsynthese betrachtet, welche besonders bei hohen Frequenzen einen wesentlichen Anteil des Energiebedarfs verursacht. Nach Festlegung der Strukturen werden schließlich auch im konkreten Schaltungsentwurf neue Ideen gefunden und anschließend implementiert und optimiert. Die Konzeption und der Aufbau eines Demonstrators für eine stromsparende Datenübertragung bei 24 GHz mit Hilfe eines Direktempfängers runden die Arbeit ab. Gedruckte Version im Pro BUSINESS Verlag [http://www.book-on-demand.de/] erschienen.</dc:description>
+          <dc:description xml:lang="eng">Many Ideas have been presented how Wireless Sensor Networks can fundamentally change the way how distributed measurements can be conducted and the resulting data collected. However, energy consumption has so far prevented this technology from broad application. While improvements of battery technology and new methods of energy generation are one important way towards realization of these ideas, reduction of the energy consumption remains essential. The RF transceivers of such wireless sensors are most important in this regard as the bigger part of energy consumption is caused there. This work approaches the topic at three different levels: First of all, procedures and mechanisms of communication are optimized. The main focus lies on the idea of a dedicated wakeup receiver, whose sole purpose is to monitor the communication channel for incoming requests using minimal energy, while the rest of the sensor is on standby. Next step is the optimization of the detailed structure of the function blocks devised before. In addition to the conception of a CMOS integrable wakeup receiver, ways to structurally reduce energy consumption of frequency synthesizers are found. Especially at high frequencies, frequency synthesizers contribute significantly to the energy consumption of a transceiver. Finally the investigated structures are implemented using novel ideas also in circuit design. Design and implementation of an ultra-low-power 24 GHz data transmission using direct conversion completes this work. Printed version available from Pro BUSINESS Verlag [http://www.book-on-demand.de/].</dc:description>
+          <dc:date>2009-04-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2104</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21166</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21166</dc:identifier>
+          <dc:identifier>978-3-86805-971-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2104/original_von_der_mark_stefan_TEX.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2104/von_der_mark_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

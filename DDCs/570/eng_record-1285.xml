@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1285">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1285</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Partikel-Gel-Immunoassay zum Nachweis humaner leukozytärer Antigene (HLA) und Antikörper</dc:title>
+          <dc:title xml:lang="eng">Particle-Gel-Immunoassay for typing of human leucocyte antigens and antibodies</dc:title>
+          <dc:creator>Abdallah, Ziyad</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">In dieser Doktorarbeit wurde ein neues Testverfahren zum Nachweis von HLA- Antigen bzw. –Antikörper entwickelt. Grundlage des entwickelten Verfahrens ist der Partikel-Gel- Agglutinationstest (PaGIA). Durch die Verwendung superparamagnetischer Polystyrenpartikel, die mit monoklonalen Antikörpern gegen das HLA-B27-Merkmal beladen sind, gelang es, HLA-B27 positive Lymphozyten mit Hilfe eines Magneten aus Vollblut zu isolieren. Wurden diese Lymphozyten dann gemeinsam mit den Polystyrenpartikeln auf eine Gelkarte gegeben und zentrifugiert, so konnte anhand der Agglutination von Partikeln und Lymphozyten sehr einfach das HLA-B27-Merkmal bestimmt werden. Dieser Test erlaubt es, sehr viel einfacher Krankheitsassoziationen des HLA-B27-Merkmals zu diagnostizieren Für den Nachweis von HLA-Antikörpern wurden Polystyrenpartikel, die mit monoklonalen Antikörpern gegen HLA-Klasse I- bzw. gegen HLA-Klasse II-Merkmale beschichtet waren, verwendet. Diese Partikel wurden mit Lymphozytensolubilisaten und dem zu untersuchenden Serum inkubiert, so dass ein glykoproteinspezifischer Nachweis von HLAAntikörpern möglich war. Durch den Einsatz des PaGIA konnten die Nachteile der bisher genutzten Testsysteme zum Nachweis von HLA- Antigenen bzw. Antikörpern (LCT, FACS, PCR), wie z.B. Arbeits-, Zeitaufwand und Komplexität, unter Beibehaltung einer vergleichbaren Sensitivität und Spezifität überwunden werden. Das Testsystem ist einfach und schnell durchführbar, so dass es ohne großen personellen und technischen Aufwand in praktisch jedem Labor durchgeführt werden kann. Das entwickelte Testverfahren stellt eine Grundlage für die Weiterentwicklung von diagnostischen Tests dar, die auf den gleichen Prinzipien beruhen.</dc:description>
+          <dc:description xml:lang="eng">A new method for the detection of HLA-antigens and antibodies is described. The developed method is based on the fundamental principle of the particle gelagglutination assay (PaGIA). Superparamagnetic particles were coated with monoclonal anti-B27 and used for the specific isolation of B27-positive cells from EDTA-blood.The particles agglutinated only after incubation with HLA-27-positive blood samples, using the ID-microtyping system. Positivereactions were clearly distinguishable from negative reactions in all samples tested. The new HLA-B27 PaGIA is suitable for rapid typing of HLA-B27. The assay is simple and easy to perform, and can be implemented in any routine laboratory. In addition, red dyed polystyrene were also used to detect HLA Class I and Class II antibodies . These particles were coated with a monoclonal antibody to HLA Class I and a monoclonal anti-HLA class II antibody in order to detect HLA Class I and HLA Class II antibodies, respectively, the particles were simultaneosly incubated with solubilisates from leucocytes and test sera. The mixture were then pipetted into the chambers of the gel card. The distinction between positive and negative sera were visually confirmed according to the degree of agglutination in the gel. The developed test system is easy to perfom and therefore can be performed in any laboratory or clinical practice. In contrast, the commerical test systems in use such as lymphocytotoxicity assay, enzyme linked immunosorbent assay, FACS, polymerase chain reaction can be performed only in special laboratories. The PaGIA system can be adapted to detect additional HLA-Antigens, platelet antigens, cancer antigens and other cell antigens.</dc:description>
+          <dc:date>2006-06-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1285</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13066</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13066</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1285/abdallah_ziyad.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

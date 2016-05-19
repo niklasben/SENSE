@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2077">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2077</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Entscheidungshilfesystem für die Planung dezentraler Regenwasserbewirtschaftungsmaßnahmen in Siedlungsgebieten Koreas</dc:title>
+          <dc:title xml:lang="eng">A decision support system for planning decentral rain water management measures in urban zones of Korea</dc:title>
+          <dc:creator>Kwon, Kyung-Ho</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ein Entscheidungshilfesystem wurde auf der Basis eines Computerprogrammes für die Planung dezentraler Regenwasserbewirtschaftung(RWB) mit Hilfe der Programmiersprache Visual Basic entwickelt. Dieses Programm „RainCity“ besteht aus zwei Simulationspakete „RainCity-Balance“ und „RainCity-Combi“. Das Simulationspaket “RainCity-Balance�? berücksichtigt die planerischen Handlungskomponenten Verdunstung, Nutzung und Versickerung auf der Grundlage von Tageswerten und Bemessungsregen für regional unterschiedliche Klimabedingungen weltweit. Zur Berechnung einer Wasserbilanz unter Berücksichtigung der Verdunstung wurden, insgesamt 4 Subroutinen nämlich Klimatische Wasserbilanz, Wasserbilanz von Stadtgewässern, Bodenwasserbilanz, Strahlungsenergiebilanz entwickelt. Für Abschätzungen des Speichers in der Regenwassernutzungsanlage werden verschiedene Subroutinen für Zulaufmengen, Betriebswasserverbräuche und -verteilungen sowie für die Darstellung der ermittelten Ergebnisse bereitgestellt. Aus den allgemeinen Bilanzierungsansätzen des Simulationspaketes “RainCity-Balance�? wurde, als regional-spezifische Kombination der Maßnahmen, das Simulationspaket „RainCity-Combi“ für die Bedingungen in Korea entwickelt. Das Simulationspaket berücksichtigt eine Anlagenkombination aus Absetzschacht, Speicher, Tagesbehälter, Drosselablauf, Versickerungsblock und Notpumpe. Die Simulationsdurchführung basiert, im Gegensatz zum “RainCity-Balance�?, auf stündlichen Niederschlagsdaten. Das Paket umfasst zwei Simulationsmodule. „Dimension-Auswirkung-Modul“ ermöglicht eine Lastfallsimulation mit Bemessungsregen sowie eine kontinuierliche Simulation auf der Grundlage stündlicher Niederschlagsdaten und zeigt die hydrologischen und hydraulischen Auswirkungen. Um sich einer geeigneten Dimensionierung der Anlagekomponenten systematisch zu nähern, wurde das „Auswirkung-Dimension-Modul“ entwickelt. Mit Hilfe einer „Kosten-Nutzen-Analyse“ ist dann eine weitere Einschränkung für die günstigste Anlagekombination möglich.</dc:description>
+          <dc:description xml:lang="eng">A decision support system “RainCity�? was developed with the program language “Visual Basic�? consisting of two simulation packages. The first package „RainCity-Balance“ assists in identifying the appropriate water management strategy for a given region under the given natural and infrastructural conditions. The following items are dealt with in this package: climatic, soil water, energy and radiation balances, and quantitative balances of rain water use, of the urban waters and of the infiltration structures as well as the calculation of the peak discharge and of the corresponding dimensions of sewage conduits. The second package „RainCity-Combi“ assists in determining the specific combination of technical measures and in dimensioning the relevant engineering structures for settlements in the different regions of Korea. A combination of the following measures was chosen here: the use as well as the infiltration of water from rains, the retention with a supplemental cistern for water use and buffer capacity, properly timed evacuation of the cisterns with pumps in connection with weather forecasts and provision of energy saving discharge procedures. Two modules for finding the best dimensions and characteristics of the engineering structures are available in the decision support system: with the dimension/effect-module one can simulate the hydrologic effects of engineering structures with predetermined dimensions and characteristics. With the effect/dimension-module one can define the desired objectives and determine those combinations of engineering structures with various properties with which the defined aims can be achieved, evaluated by a cost/benefit analysis.</dc:description>
+          <dc:date>2009-03-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2077</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21916</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21916</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2077/original_kwon_kyungho.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2077/kwon_kyungho.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

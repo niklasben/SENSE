@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4060">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4060</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR I: Summary report</dc:title>
+          <dc:creator>Johannsen, Heiko</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The goal of the FIMCAR (Frontal Impact and Compatibility Assessment Research) project was to propose a frontal impact assessment approach addressing self- and partner protection. Research strategies and priorities were based on earlier research programs and the FIMCAR accident data analysis looking at modern cars. The identified real world safety issues – such as structural interaction (especially under-/override), high acceleration loading of the occupant especially in large overlap accidents and insufficient horizontal and vertical load spreading were used for evaluating the different test candidates. In addition to the issues mentioned above, the FIMCAR accident analysis suggested that frontal force compartment integrity matching is less of an issue as originally expected. FIMCAR developed a car-to-car test program that investigated the performance of vehicle structures. Results of the test program show that the presence of a lower load path contributes to a more robust performance of the vehicle. The rearward offset of a lower load path could be reviewed and used to quantify when a lower structure design can contribute to structural interaction in both frontal and side impact configurations. In addition to the car crash test programme, numerical models of actual cars and barriers were developed and used. As car-to-car simulations with models of different car manufacturers are almost impossible because of confidentiality, Parametric Car Models (PCM) and Generic Car Models (GCM) were developed. Due to the parametric design of the PCMs it is possible to modify the models in an easy and fast way. The GCMs model virtual cars which represent an average real car of the respective category in a comparable way to the OEM models. Within the FIMCAR project, different frontal impact test candidates were analysed regarding their potential for future frontal impact legislation. The research activities focused on car-tocar frontal impact. Test procedures were developed with both a crash test programme and numerical simulations. This analysis resulted in the combination of the Full Width Deformable Barrier test (FWDB) with compatibility metrics and the existing Offset Deformable Barrier (ODB) as described in UN-ECE Regulation 94 with additional cabin integrity requirement as being proposed as the FIMCAR assessment approach. The advantages of the FWDB compared to the rigid wall are the more representative pulse and deformation pattern as well as the better assessment of load paths. The introduction of a (M)PDB without compatibility metrics (that FIMCAR was unable to deliver in time) was considered as not being appropriate. The proposed frontal impact assessment approach addresses many of the issues identified by the FIMCAR consortium (impact alignment, high acceleration pulse loading, maintenance of compartment strength requirements, etc.) but not all frontal impact and compatibility issues could be addressed (load spreading).A benefit analysis estimated the benefit of the following three options: no change, introduction of full width test with compatibility assessment in addition to current ECE R94 and introduction of full width test with compatibility assessment and replacement of current ODB test by PDB test with load spreading metric. The comparison of calculated break even costs for option 2 with estimated costs for achieving the benefit from previous projects suggests a positive cost benefit ratio.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4060</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40604</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40604</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4060/FIMCAR_I_summary_report.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

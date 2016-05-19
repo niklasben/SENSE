@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4336">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4336</identifier>
+        <datestamp>2014-10-13</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Imaging magnetic nanostructures using soft x-ray Fourier transform holography</dc:title>
+          <dc:title xml:lang="deu">Abbildung von magnetischen Nanostrukturen durch weiche Röntgenstrahlung mittels Fourier-Transformationsholografie</dc:title>
+          <dc:creator>Pfau, Bastian</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">This thesis deals with the application of soft x-ray Fourier Transform Holography (FTH) for imaging magnetic samples with nanometer structure size. FTH can be set up as a lensless method by exploiting the coherence properties of the illumination. An image of the sample is obtained by first recording a hologram which is the interference pattern of the light scattered at the sample with light originating from a reference structure. The hologram is then digitally reconstructed by a Fourier transform. The used x-ray probe facilitates nanometer spatial resolution of the images due to the small wavelength of the radiation and delivers magnetic contrast via the x-ray magnetic circular dichroism effect. The first part of the thesis contains a theoretical investigation of the function and properties of soft x-ray FTH. The fundamental image formation process with focus on achieving magnetic contrast is deduced. Furthermore, the impact of the experimental apparatus on the image is studied in a formal way. In particular, the influence of the reference structure, the area detector, and the coherence of the radiation delivered by the x-ray source on the point spread function of the imaging system is considered. Finally, the conclusions of the findings for the actual FTH experiment are discussed. In the second part of the thesis, an experimental application of FTH in the field of magnetic research on the nanometer scale is presented. The switching behavior of magnetic islands of a bit-patterned media (BPM) sample is studied via direct imaging of the islands' magnetic state under an applied magnetic field. The data analysis focuses on the switching field distribution of the island ensemble. The origins for the broadening of this distribution are found in an intrinsic variation, the magnetostatic interaction between the islands and thermal fluctuations. For the latter two effects, models describing the experimental findings were developed. The intrinsic variations were further investigated by structural analysis using transmission electron microscopy.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit befasst sich mit Anwendung von Fourier-Transformationsholographie (FTH) mit weicher Röntgenstrahlung für die Abbildung magnetischer Proben mit Strukturen auf der Nanometer-Längenskala. FTH ist ein linsenloses Abbildungsverfahren, das die Kohärenzeigenschaften der Beleuchtung ausnutzt. Das Bild einer Probe wird gewonnen, indem zuerst ein Hologramm aufgenommen wird, das durch die Interferenz von Strahlung, die an der Probe gestreut wurde, und Strahlung, die von einer Referenzstruktur stammt, entsteht. Das Hologramm wird dann durch eine Fouriertransformation rekonstruiert. Die genutzte Röntgenbeleuchtung erlaubt aufgrund der kleinen Wellenlänge der Strahlung eine Auflösung im Nanometer-Bereich und liefert magnetischen Kontrast über den Röntgenzirkulardichroismus. Der erste Teil der Arbeit enthält eine theoretische Untersuchung der Funktionsweise und der Eigenschaften von FTH mit weicher Röntgenstrahlung. Gezeigt wird der grundlegende Bildentstehungsprozess mit besonderem Fokus auf die Möglichkeit, magnetischen Kontrast zu erreichen. Weiterhin wird die Wirkung der experimentellen Apparatur auf das Bild formal abgeleitet. Insbesondere wird der Einfluss der Referenzstruktur, des Flächendetektors und der Kohärenzeigenschaften der Strahlung der Röntgenquelle auf das Abbildungssystem betrachtet. Zuletzt werden Rückschlüsse der Ergebnisse auf das eigentliche Experiment diskutiert. Im zweiten Teil der Arbeit wird eine experimentelle Anwendung von FTH im Bereich der Magnetismusforschung auf Nanometer-Längenskala präsentiert. Das Schaltverhalten von magnetischen Inseln eines strukturierten Speichermediums wurde durch direktes Abbilden des magnetischen Zustandes der Inseln im äußeren Magnetfeld untersucht. Die Studie beschäftigt sich insbesondere mit der Verteilung der Schaltfelder im Insel-Ensemble. Die Ursachen für die Verbreiterung dieser Verteilung finden sich in intrinsischen Variationen, magnetostatischen Wechselwirkungen zwischen den Inseln und thermischen Fluktuationen. Für die letzten beiden Effekte wurden Modelle zur Beschreibung der experimentellen Befunde entwickelt. Die intrinsischen Variationen wurden zusätzlich durch Strukturuntersuchungen mittels Elektronentransmissionsmikroskopie analysiert.</dc:description>
+          <dc:date>2013-11-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4336</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43363</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43363</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4336/pfau_bastian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-ND: Creative Commons-Lizenz: Namensnennung, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

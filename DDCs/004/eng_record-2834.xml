@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2834">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2834</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Adaptive and Blind Array Processing Techniques for Extracellular Electrode Recordings</dc:title>
+          <dc:title xml:lang="deu">Adaptive und Blinde Matrixverarbeitungstechniken für Extrazelluläre Elektrodenaufzeichnungen</dc:title>
+          <dc:creator>Natora, Michal</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Electrophysiological recordings with electrodes, or more generally, with arrays of multi-electrodes, are key for recording neural activity data from the central nervous system. This technique delivers high temporal and spatial resolution, as well as enables neuron stimulation by current injection. The neuronal activity encoded by action potentials (simply called "spikes") of individual neurons, however, is not recorded directly; rather the measurement contains a mixture of spike trains from several neurons and additional noise. To determine the spiking times of a neuron and to determine a spike's originating neuron, spike detection and spike sorting algorithms are needed. The main focus of this thesis is the development of such algorithms. The system consisting of neurons emitting spike trains, their mixture and corruption by noise, and of the process of recording these data with several electrodes channels, is modelled as a linear time-invariant multiple input, multiple output system. The problem of spike detection/sorting can then be regarded as a blind equalisation and source separation task. We use finite impulse response filters for equalisation and source separation throughout the thesis, and therefore, we first start with analysing some properties of these filters. Amongst others, their performance in terms of detection probability and false alarm probability is studied in the case when the spike waveform is perfectly known, and when it is estimated from the data themselves. The subsequently presented spike detection and sorting algorithms are two stage algorithms, consisting of a system identification phase and the following equalisation/separation. Common to them is that both stages can be performed with minimal human supervision although the spatial mixing and temporal distortion are unknown, and the ability to adapt to changing waveforms during the equalisation/separation stage. As such they can be termed as adaptive and blind array processing techniques. Finally, we also propose an unsupervised control algorithm for electrodes, which allows to move them to favourable recording sites. This closes the loop, as the system can now perform spike detection/sorting at any position and decides by itself whether to move the electrode to a more promising position or whether current quality of data is sufficient.</dc:description>
+          <dc:description xml:lang="deu">Elektrophysiologische Ableitungen mit Elektroden, oder allgemeiner, mit einer ganzen Matrix von Multi-Elektroden, sind eine Schlüsseltechnik um neuronale Aktivitätsdaten aus dem zentralen Nervensystem aufzunehmen. Diese Technik liefert eine hohe zeitliche als auch räumliche Auflösung, und erlaubt sogar Neuronenstimulation mittels Injektion von elektrischem Strom. Die neuronale Aktivität, enkodiert durch Aktionspotentiale (auch genannt �?Spikes�?), von einzelnen Neuronen wird jedoch nicht direkt aufgenommen; vielmehr enthält die Messung eine Mixtur von mehreren Spike Folgen verschiedener Neuronen und zusätzliches Rauschen. Um die einzelnen Spike Zeitpunkte eines Neurons und um das Herkunftsneuron eines Spikes zu bestimmen, sind Spike Detektions und Spike Sortierungs-algorithmen notwendig. Das System bestehend aus Spike Folgen generierenden Neuronen, deren Mixtur und die Korruption durch Rauschen, und aus dem Prozess des Messens dieser Daten mit mehreren Elektrodenkanälen, kann als ein lineares zeitinvariantes Multieingang/Multiausgang-System modelliert werden. Das Problem der Spike Detektion/Sortierung kann dann als ein blindes Entzerrungs- und Quellentrennungsproblem aufgefasst werden. Wir benutzen in dieser Arbeit immer endliche Impulsantwortsfilter für die Entzerrung und Quellentrennung, deshalb beginnen wir mit der Analyse einiger Eigenschaften dieser Filter. Unter anderem, analysieren wir deren Leistungsfähigkeit im Bezug auf die Detektionswahrscheinlichkeit und Falschalarmwahrscheinlichkeit wenn die Spike Funktion bekannt ist, aber auch wenn diese von den Daten geschätzt wird. Die nachfolgend präsentierten Spike Detektion und Sortierungsverfahren sind Zweistufenalgorithmen, bestehend aus einer Systemidentifikationsphase und einer darauffolgenden Entzerrung/Quellentrennung. Beide Verfahren sind sich insofern ähnlich, als dass beide Phasen nur minimalen menschlichen Eingriff verlangen obwohl die räumliche Mixtur und die zeitliche Verzerrung unbekannt sind, und dass beide Verfahren sich ändernden Spike Funktionen anpassen können. Deshalb können diese Verfahren allgemein als adaptive und blinde Matrixverarbeitungstechniken bezeichnet werden. Zuletzt, präsentieren wir auch einen unüberwachten Kontrolalgorithmus für Elektroden, welcher die Elektroden zu günstigen Aufnahmestellen bewegt. Das schliesst den Kreis, da nun das System an jeder beliebigen Position Spike Detektion/Sortierung ausführen kann und selbst entscheidet, ob die Elektrode zu einer vielversprechender Position zu bewegen ist, oder ob die momentane Signalqualität ausreichend ist.</dc:description>
+          <dc:date>2011-03-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2834</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29991</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29991</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2834/natora_michal.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:330">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:330</identifier>
+        <datestamp>2014-07-24</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Model Checking Abstract State Machines</dc:title>
+          <dc:title xml:lang="deu">Modelchecken von Abstract State Machines</dc:title>
+          <dc:creator>Winter, Kirsten</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Abstract State Machines (ASM) ist eine formale Spezifikationssprache, die es erlaubt, auf einem hohen Abstraktionsniveau zu modellieren. Sie ist gut geeignet fuer verschiedenartigste Anwendungen. Computerbasierte Werkzeugunterstuetzung ist in Form von Editoren, Typecheckern und Simulatoren vorhanden. ASM ist ausserdem in die Logiken zweier Theorembeweiser eingebettet worden, die interaktives Beweisen unterstuetzen. Diese Dissertation hat zum Ziel, die vorhandene Werkzeugunterstuetzung um einen vollstaendig automatisierten Ansatz zu erweitern, das sogenannte Modelchecking. Modelchecking ist die vollstaendige Suche im Zustandsraum des zu untersuchenden Systemmodells. Die Algorithmen arbeiten automatisch und beduerfen keiner Interaktion mit dem Benutzer oder der Benutzerin. Als zentrale Werkzeugumgebung wird die ASM Workbench verwendet, in die ein Modelchecker integriert wird. Diese Werkzeugumgebung wird mit einer allgemeinen Schnittstelle in Form einer Zwischensprache versehen. Diese allgemeine Schnittstelle dient als Grundlage zur Anbindung verschiedener Modelchecker, die auf einfachen Transitionssystemen basieren. Mit der Transformation der abstrakten Spezifikationssprache ASM in die sehr einfachen Sprachen von vollautomatischen Werkzeugen schlaegt diese Arbeit eine Bruecke ueber den tiefen Graben zwischen Modellierungssprachen, die auf hohem Niveau beschreiben, und Werkzeugsprachen, die algorithmisch einfach zu behandeln sind. Auf der Basis der allgemeinen Schnittstelle werden im Rahmen dieser Dissertation zwei konkrete Schnittstellen entwickelt: von der ASM Workbench zum Modelchecker SMV und zum MDG-Paket. Ersteres Werkzeug wird haeufig eingesetzt und implementiert symbolisches Modelchecken fuer CTL-Formeln. Die Anbindung zum Modelchecker SMV ist implementiert und zwei Fallstudien wurden mittels der entwickelten Transformation und dem SMV Werkzeug untersucht. Die Ergebnisse zeigen die Anwendbarkeit aber auch die Grenzen dieses Ansatzes auf. Diese Grenzen motivieren die Entwicklung der zweiten Schnittstelle zum MDG-Paket. Dieses Paket umfasst die Basisfunktionalitaet fuer symbolisches Modelchecking auf der Grundlage von Multiway Decision Graphs (MDGs). Diese Graphenstruktur erlaubt die Repraesentation von moeglicherweise unendlichen Transitionssystemen mit Hilfe von abstrakten Sorten und Funktionen. Sie bietet daher ein einfaches Mittel, um die Abstraktion von Modellen zu unterstuetzen.</dc:description>
+          <dc:description xml:lang="eng">Abstract State Machines (ASM) constitute a high-level specification language for a wide range of applications. The existing tool support for ASM includes editors, type-checkers, and simulators. Moreover, ASM are encoded into the logic of two theorem provers that provide support for mechanical interactive proofs. This thesis aims to extend this tool support by means of a fully algorithmic approach, namely model checking. We use the ASM Workbench as a core tool framework for ASM and provide a general interface into an intermediate language. This general interface can be exploited for interfacing various tools that allow the treatment of simple transition systems. With this transformation step we bridge a gap between the high-level modelling language ASM and the low-level input language of model checkers. Based on this general interface, we develop two interfaces: from the ASM Workbench to the model checker SMV and to the MDG-Package. The former is a widely used model checker that implements symbolic model checking for CTL formulas. We implement the interface and investigate two case studies by means of our transformation and the SMV tool. The results illustrate the practicability of this approach as well as its limitations. These limitations motivate the second interface to the MDG-Package. This package comprises the basic functionality for symbolic model checking based on multiway decision graphs (MDGs). This graph structure allows the representation of possibly infinite system through abstract data types and functions. Thus, it provides a simple means for supporting abstraction of complex systems. Moreover, in this framework assumptions on the system environment can be modelled as temporal logic formulas which are conjoined with the system model. This extends the limits of this fully automatic analysis provided by model checking.</dc:description>
+          <dc:date>2001-11-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/330</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3255</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3255</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/330/winter_kirsten2.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1218">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1218</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Transmissionsphasengitter zur adaptiven Dispersionskompensation in hochbitratigen optischen Übertragungssystemen</dc:title>
+          <dc:title xml:lang="eng">Arrayed-Waveguide-Gratings for Adaptive Dispersion Compensation in high-bitrate Optical Transmission Systems</dc:title>
+          <dc:creator>Kerbstadt, Fabian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Thema dieser Arbeit war die Untersuchung einer speziellen Bauform von Transmissionsphasengittern, den ‚arrayed waveguide gratings (AWGs)’, hinsichtlich ihrer Eignung als Komponenten mit einstellbarer chromatischer Dispersion in hochbitratigen optischen Übertragungssystemen. Bei den AWGs handelt es sich um integriert optische Wellenleiterstrukturen, die die Funktion von Beugungsgittern haben. Aufgrund ihrer Bauart können sie in einer hohen Beugungsordnung betrieben werden. Üblicherweise werden AWGs als Multiplexer oder Demultiplexer in WDM-Systemen eingesetzt. Die Arbeit gliedert sich im Wesentlichen in zwei Teile: Im ersten Teil wird dem AWG eine Anordnung zur Steuerung der Phasen in den Gitterwellenleitern hinzugefügt. Wird eine zum Zentralwellenleiter symmetrische über dem Index der Gitterwellenleiter parabolische Phasenverschiebung aufgebracht, kann über diese die chromatische Dispersion der Komponente eingestellt werden. In welcher Weise sich Bandbreite, chromatische Dispersion und Verluste der Komponente in Abhängigkeit von der Phasensteuerung ändern, war der Untersuchungsgegenstand dieses Teiles der Arbeit. Es wurden analytische und numerische Untersuchungen durchgeführt. Das wesentliche Resultat besteht darin, dass für praxisorientierte Werte von Bandbreite und chromatischer Dispersion die unvermeidbaren Verluste der Komponente sehr hoch werden – ca. 11dB für realistische Technologieparameter. Das Konzept wurde daher als ungeeignet eingestuft und eine andere Struktur untersucht. Die im zweiten Teil der Arbeit untersuchte Struktur ist eine Kaskade von zwei AWGs (Doppel-AWG) mit einer gemeinsamen Freistrahlzone, in welcher sich eine Linse mit einstellbarer parabolischer Phasensignatur befindet. Über die Krümmung der Phasensignatur der Linse ist die Dispersion der Komponente einstellbar. Auch für diese Struktur wurden analytische und numerische Untersuchungen durchgeführt, um den Einfluss der Krümmung der Phasensignatur auf Bandbreite, chromatische Dispersion und Verluste zu bestimmen. Hier konnte gezeigt werden, dass die Struktur geeignet ist, die Anforderungen hinsichtlich Bandbreite und Dispersion mit annehmbaren Dämpfungswerten zu erfüllen. Abschließend wurden geeignete Parameter bestimmt, mit denen ein Doppel-AWG als Dispersionskompensator auf der Basis von SOI gefertigt werden kann. Diese Technologie liegt am Institut für Hochfrequenz- und Halbleitersystemtechnologien der Technischen Universität Berlin vor. Die Fertigung und Charakterisierung der Komponente ist der nächste geplante Schritt.</dc:description>
+          <dc:description xml:lang="eng">The topic of this work was the investigation of arrayed-waveguide-gratings (AWGs) and a cascade of two AWGs (double-AWG) regarding their applicability as adaptive dispersion compensators in high-bitrate optical transmission systems. An AWG is an integrated optical waveguide structure, which works as a diffraction grating. Because of their construction the AWGs can operate in high diffraction orders. Typically the AWGs were used as multiplexer or demultiplexer in WDM transmission systems. The work is essentially divided into two parts: In the first part an assembly to control the phases in the array waveguides was added to AWG. By applying a parabolic and with respect to the central waveguide symmetric phase shift to the array waveguides, the chromatic dispersion of the component can be adjusted. The object of investigation in this part of the work was in which way the bandwidth, chromatic dispersion and loss of the component change depending on the phases in the array waveguides. Analytical and numerical calculations were carried out to investigate these properties. The main result was, that for practical values of bandwidth and dispersion the inevitable losses of the component become very large – approximately 11dB for realistic technological parameters. The concept was therefore found to be unsuitable and an other structure was investigated. In the second part of the work the considered structure is a cascade of two AWGs – a double-AWG – with a common free propagation region, in which there is a lens with an adjustable parabolic phase signature. With the curvature of the parabolic phase signature of the lens, the chromatic dispersion of the component can be adjusted. Also for this structure analytical and numerical investigations were carried out to specify the influence of the curvature of the parabolic phase signature on the bandwidth, chromatic dispersion and loss of the component. It was shown, that the structure is well suited to meet the demands on the component regarding bandwidth, chromatic dispersion and loss. Finally there were quantified the necessary parameters to realize an adaptive dispersion compensator as a D-AWG on SOI. This technology is available at the Institut für Hochfrequenz- und Halbleitersystemtechnologien of the Technische Universität Berlin. The realization and characterisation of the component ist the next intended step.</dc:description>
+          <dc:date>2006-03-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1218</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12360</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12360</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1218/kerbstadt_fabian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

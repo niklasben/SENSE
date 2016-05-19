@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2359">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2359</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Experimentelle Ermittlung dominanter Schallquellmechanismen von Radialverdichtern</dc:title>
+          <dc:title xml:lang="eng">Experimental Detection of Dominant Sound Generation Mechanisms of Centrifugal Compressors</dc:title>
+          <dc:creator>Raitor, Till</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Ziele dieser Arbeit sind es, die dominierenden aerodynamischen Entstehungsmechanismen des in die Strömungskanäle emittierten Radialverdichtergeräusches durch profunde Experimente aufzude-cken und die Schallentwicklung verschiedener Radialverdichtertypen mit unterschiedlichen strö-mungstechnischen Eigenschaften zu vergleichen. Des weiteren sollen die Messdaten dazu genutzt werden, um verschiedene Ansätze für prognostische Aussagen zu den zu erwartenden Verdichtergeräuschen auf die Anwendbarkeit auf hochbelastete, transsonische Radialverdichter zu prüfen. Am Ende sollen auf Grundlage dieser Erkenntnisse Vorschläge zu primären Geräuschminderungen durch konstruktive Maßnahmen direkt im Quellbereich erarbeitet werden. Dazu wurden mit ausführlichen Messungen an zwei Laufradtypen, jeweils mit einem beschaufelten und einem unbeschaufelten Diffusor, bei verschiedenen repräsentativen Betriebspunkten die Entstehungs- und Ausbreitungsmechanismen des Schalls durch Analysen der Schallfeldstruktur im Ansaugkanal untersucht. Zusätzlich sind im Ausblaskanal an feststehenden, wandbündigen Messpunkten die Schalldrücke und direkt über den Schaufeloberkanten der beiden Laufräder die instationären Drücke mit im Laufraddeckel montierten Sensoren aufgenommen worden. Es zeigte sich, dass bei hohen Drehzahlen die Schallemissionen in erster Linie durch den Drehklang (Rotordrehfrequenz mal Schaufelanzahl und Vielfache davon) dominiert werden. Bei transsonischer Laufradanströmung treten außerdem Pegelspitzen der Rotordrehfrequenz und ihrer Harmonischen in Erscheinung, die als Buzz-Saw-Noise (Kreissägengeräusch) bezeichnet werden, aber im Vergleich zum Drehklang das Gesamtgeräusch nicht so stark prägen. Ein Vergleich von Ergebnissen zweier CFD-Analysen mit gemessenen instationären Wanddrücken an der Innenseite des Laufraddeckels eines der hier untersuchten Verdichter ergibt, dass stationäre Lö-sungen zur Bestimmung von Schalldrücken bestimmter rotorkohärenter Schallkomponenten im Quell-gebiet und im Nahfeld herangezogen werden können. Darauf aufbauend lassen sich Schlussfolgerun-gen ziehen in Hinsicht auf die Verwendbarkeit stationärer Lösungen für vergleichende Schallprogno-sen tonaler Komponenten bei der Entwicklung von Radialverdichtern im Entwurfsstadium. Für die Schallleistung im Ansaugkanal wird ein empirisches Modell als Funktion der Umfangsmach-zahl des Laufrades vorgestellt. Die Entwicklung eines Skalierungsmodells zur Übertragung der hier gemessenen Schallleistungen auf andere Verdichterbaugrößen auf der Grundlage der akustischen Ähnlichkeitsgesetze zeigte, dass der bei anderen Strömungsmaschinen erfolgreich angewendete Produktansatz von Weidemann [1] hier nicht anwendbar ist. Es werden verschiedene Möglichkeiten der geometrischen Gestaltung im Eingangsbereich des Ver-dichters vorgeschlagen, die hauptsächlich darauf abzielen, bei hohen Drehzahlen den Drehklang bei der Entstehung zu reduzieren.</dc:description>
+          <dc:description xml:lang="eng">The main goal of this work is the detection of the aerodynamic sound generation mechanisms of centrifugal compressors by detailed experiments and the comparison of the sound emission of four compressor variations with different aerodynamic characteristics. Furthermore, the measured data shall be used to verify the practicality of several sound prediction methods applied to highly loaded transonic centrifugal compressors. Based on these results, technical modifications for the noise sources of these compressors should be recommended. The acoustic measurements were taken for two types of impellers, each combined with either a vaneless or a vaned diffuser. The mechanisms of sound generation and propagation are investigated by analysing the spacial structure of the sound field in the inlet flow duct of the compressor. Additionally, measurements of the sound pressure close to the duct wall of the outlet flow channel were performed with fixed microphones and the pressure fluctuations on the inside of the impeller casing were measured. If the rotor speed is high the sound emission is dominated by the blade passage frequency (BPF) and its harmonics. In a transonic flow regime the so-called buzz saw noise appears which can result in an effective noise source but the BPF and its harmonics dominate the over-all sound level. A successful comparison of data from numerical simulations with measuring results shows that stationary solutions could be used for comparative predictions of tonal sound components in the development of radial compressors. In this work an empirical model for the sound power depending on the tip speed Mach number in the inlet duct is introduced. A scaling model based on acoustic similarity laws, developed for subsonic centrifugal fans, could not be applied to transonic radial compressors for transferring the measured sound power to different compressor sizes. Finally, various possibilities for designing the compressor inlet are introduced to reduce the emission at the BPF and its harmonics.</dc:description>
+          <dc:date>2009-11-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2359</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24151</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24151</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2359/original_raitor_till.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2359/raitor_till.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

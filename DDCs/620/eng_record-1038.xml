@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1038">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1038</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zur Tragfähigkeitssteigerung thermoplastischer Zahnräder mit Füllstoffen</dc:title>
+          <dc:creator>Roesler, Jan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Tragfähigkeitskennwerte von Kunststoffzahnrädern werden zurzeit ausschließlich mit standardisierten Laufversuchen bestimmt. Die gemessenen Kennwerte gelten streng nur bei ähnlichen Bedingungen. Eine analytische Berechnung der Tragfähigkeit von Kunststoffzahnrädern ist bei dem heutigen Stand der Forschung mit vielen Unsicherheiten verbunden. Die vorliegende Arbeit liefert eine neue Auswertungsstrategie für solche Versuche sowie weiterführdenes Wissen über bisher als Zahnradwerkstoff nicht eingesetzte Kunststoffe. Durch experimentelle Untersuchungen an trockenlaufenden Kunststoffzahnrädern wurden Möglichkeiten zur Steigerung der Tragfähigkeit (höhere übertragbare Leistung) und des Wirkungsgrades (geringere Übertragungsverluste) sowie zur Reduzierung des Verschleißes aufgezeigt. Dazu wurden Standardkunststoffe mit Trockenschmierstoffen und/oder Fasern modifiziert. Die höchsten Tragfähigkeiten wurden mit aramidfaserverstärktem Polyamid 66 erreicht. Die Belastbarkeit ist deutlich höher als bei POM (dem bisherigen Standardkunststoff für Kunststoffzahnräder) unter gleichen Prüfbedingungen. Weiterhin konnten für ölgeschmierte Kunststoffgetriebe deutlich höhere Tragfähigkeiten gegenüber bisherigen Kunststoffen bei erhöhten Temperaturen (120°C Öltemperatur) durch den Einsatz von Hochtemperaturthermoplasten erreicht werden. Die besten Zeitfestigkeitswerte konnten mit kohlenstofffaserverstärkten PEEK CA30 erreicht werden.</dc:description>
+          <dc:date>2005-07-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1038</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10277</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10277</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1038/roesler_jan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

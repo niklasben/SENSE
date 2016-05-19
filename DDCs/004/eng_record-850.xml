@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:850">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:850</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The Remote Socket Architecture: A proxy based solution for TCP over wireless</dc:title>
+          <dc:title xml:lang="deu">Die "Remote Socket Architecture": Eine auf einem Proxy basierende Lösung für TCP über drahtlose Netze</dc:title>
+          <dc:creator>Schläger, Morten</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Internet-Zugang unabhängig von Ort und Zeit ist, insbesondere auf Grund von Funknetzen, heute fast schon Realität. Andererseits haben gerade Funknetze einige Eigenschaften, wie beispielsweise ein hohe Fehlerrate, mit denen die klassischen Internet-Protokolle, vor allem TCP, nicht effizient umgehen können. Daher wird derzeit diskutiert, ob Proxy-basierte Ansätze, die mit der Ende-zu-Ende Philosophie des Internets brechen, nicht eine Alternative zu dem klassischen Internet-Zugang sind. Beim klassischen Internet-Zugang hat jeder Rechner einen lokalen TCP/IP-Protokollstack und eine eigene IP-Adresse, wohingegen bei Proxy basierten Ansätzen sowohl spezialisierte Protokolle als auch neue Adressierungskonzepte zum Einsatz kommen können. Die 'Remote Socket Architecture (ReSoA)', die im Rahmen dieser Arbeit entwickelt und spezifiziert wurde, realisiert einen Proxy-basierten Ansatz. ReSoA basiert auf der Idee, dass für Applikationen nicht das verwendete Protokoll entscheidend ist, sondern die Schnittstelle zwis- chen Applikation und Protokoll-Stack sowie der zu erwartende Dienst. Konsequenterweise re- alisiert ReSoA eine verteilte Implementierung der weit verbreiteten BSD-Socket-Schnittstelle. Für den Entwurf von ReSoA wurde die Semantik jeder einzelnen Socket-Funktion ana- lysiert und in ReSoA nachgebildet. Um zu überprüfen, ob ReSoA semantisch äquivalent zur BSD-Socket-Schnittstelle ist, wurden zum einen Tests mit existierenden Applikationen durchgeführt und zum anderen eine SDL-Spezifikation entwickelt, die es erlaubt, interessante Fälle unabhängig von einer Implementierung zu untersuchen. Alle Untersuchungen haben gezeigt, dass die Existenz von ReSoA für Applikationen transparent ist. Die Arbeit wird durch eine systematische Leistungsbewertung abgerundet, wobei sowohl Messungen als auch Simulationen zum Einsatz kamen. Gegenstand der Leistungsbewertung ist ein Vergleich zwischen TCP und ReSoA unter unterschiedlichen Netzwerkeigenschaften wie Bitrate, Fehlermodell und Verzögerung, mit dem Ziel, Faustregeln zu finden, unter welchen Umständen der Einsatz eines Proxies besonders lohnend ist. Die Messungen in einer draht- losen LAN-Umgebung (IEEE 802.11b) haben gezeigt, dass ReSoA aufgrund seiner auf den Halbduplex-Kanal angepassten Protokolle selbst dann einen deutlich besseren Durchsatz bietet als TCP, wenn das drahtlose Endgerät an einer guten Position in der Funkzelle steht (Paketver- luste treten nicht auf). Dieser Effekt wird an schlechten Positionen noch gesteigert. Anhand von Simulationen wurde ein großer Parameterraum systematisch untersucht. Die Ergebnisse zeigen, dass ReSoA den Durchsatz von TCP plus einem zuverlässigen Protokoll auf der Ab- schnittssicherungsschicht unter vielen Konfigurationen deutlich verbessert. Insbesondere ist ReSoA von Vorteil, wenn die Übertragungsfehler burst-weise auftreten, die Verzögerung im Zugangsnetzwerk groß ist und wenn Verluste im Internet auftreten.</dc:description>
+          <dc:description xml:lang="eng">As wireless technology evolves, Internet access at any time, at any place today is close to becoming reality. Classic Internet protocols like TCP however cannot ef- ficiently handle certain properties of wireless networks like high bit error rates. This is the cause for an ongoing discussion whether or not proxy based approaches that break the end-to-end philosophy of the Internet are an alternative to the classic In- ternet access, where each computer necessitates a TCP/IP protocol stack and an IP address. The Remote Socket Architecture (ReSoA) that is developed and specified in the scope of this thesis, pursues a proxy based approach. ReSoA was motivated by the observation that it is not the underlying protocol, but rather the interface between application and protocol stack and the expected service that are important from the application point of view. ReSoA is a distributed realization of the widely deployed BSD socket interface. Each BSD socket function was analyzed and emulated for the design of ReSoA. To verify that ReSoA is semantically equivalent to the BSD socket interface, tests with existing applications were performed and an SDL specification was developed. The SDL specification permits the investigation of ReSoA independent of an imple- mentation. All investigations confirmed that the existence of ReSoA is transparent to applications. A systematic performance evaluation, incorporating measurements as well as simulations, is performed as part of this thesis. The goal of this performance eval- uation is the comparison of TCP to ReSoA with different network properties like bitrate, error model, and delay, in order to determine rules of thumb that can help to decide under which circumstances the deployment of a proxy is especially use- ful. The measurements in a wireless LAN environment (IEEE 802.11b) have shown that ReSoA achieves a performance gain over TCP even for good positions due to its protocols especially tailored for half-duplex channels (no packets are lost). This gain even increases for bad positions. The simulations showed that ReSoA is espe- cially beneficial for access networks with long delays, and if packet losses occur in the Internet.</dc:description>
+          <dc:date>2004-09-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/850</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8436</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8436</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/850/schlaeger_morten.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

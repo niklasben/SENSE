@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4440">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4440</identifier>
+        <datestamp>2014-05-23</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mikromechanische Modellierung von Fasergelege-Kunststoff-Verbunden auf Basis von Normprüfungen unter Berücksichtigung der in-situ-Eigenschaften der Matrix</dc:title>
+          <dc:title xml:lang="eng">Micro-mechanical modelling of non-crimp-fabric-polymer-	matrix-composites based on standardized testing under 	consideration of the in-situ-properties of the matrix</dc:title>
+          <dc:creator>Krimmer, Alexander</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Faser-Polymermatrix-Verbunde besitzen anisotrope Materialeigenschaften. Um Faserverbundstrukturen auslegen zu können, ist die Beschreibung der mechanischen Eigenschaften der Materialien notwendig. Zuvor werden diese mechanischen Eigenschaften üblicherweise in mechanischen Prüfungen gemessen. Auf Basis der so ermittelten Prüfergebnisse werden anschließend mechanische Modelle der Faserverbundmaterialien erstellt.&#13;
+Um die mechanischen Eigenschaften der Materialien im quasi-statischen Fall beschreiben zu können, sind aufgrund der Anisotropie in aller Regel mindestens drei Prüfungen an einem Material notwendig. Dabei werden häufig Schwankungen in der Probendicke und damit im Faservolumenanteil beobachtet. Diese Schwankungen ziehen Streuungen in den gemessenen Elastizitäten und Festigkeiten nach sich. Demnach werden Ergebnisse von Prüfungen in einem Materialmodell vereint, die bei unterschiedlichen Faservolumenanteilen ermittelt wurden. Da die mechanischen Eigenschaften von Faserverbunden stark vom Faservolumenanteil abhängig sind, entstehen dabei große Fehler. Dadurch und durch andere Einflüsse wie Porositäten und Winkelabweichungen der Faserhalbzeuge sowie der Einzellagen können deutliche Streuungen in den Messergebnissen entstehen.&#13;
+&#13;
+In dieser Arbeit wird die inverse Laminattheorie (ILT) erweitert und zur inversen Berechnung der mechanischen Eigenschaften von Faserverbundmaterialien eingesetzt. Das so entwickelte Verfahren wird als Erweiterte Inverse Laminattheorie (EILT) bezeichnet. Auf diesem Wege können beispielsweise Unterschiede in den Faservolumenanteilen der unterschiedlichen Prüfkörper berücksichtigt werden. Der Zyklus der Ermittlung von Materialeigenschaften von Faserverbunden wird dadurch in ein geschlossenes analytisch-synthetisches Verfahren überführt, bei dem alle Eingangsparameter durch genormte Prüfungen ermittelbar sind. Die Beschreibung der mechanischen Eigenschaften erfolgt auf Basis dieses Verfahrens in einem generischen Materialmodell, welches vollständig phänomenologisch basiert ist. Einen wesentlichen Schritt bei der Umsetzung dieses Ansatzes stellt die Entwicklung einer Methode dar, welche eine analytische Berechnung der in-situ-Eigenschaften der Polymermatrix ermöglicht. Als in-situ-Eigenschaften der Matrix werden dabei jene mechanischen Eigenschaften bezeichnet, die am reinen Polymer nicht messbar sind und infolge der Querkontraktionsbehinderung der polymeren Matrix durch die in sie eingebetteten Fasern entstehen.&#13;
+&#13;
+Messtechnische Grundlage dieser Vorgehensweise sind mechanische Prüfungen an unterschiedlichen Glasfasergelegeverbunden, die nach gültigen Normen durchgeführt wurden. Das so ermittelte Materialmodell kommt bei der Modellierung und Dimensionierung der Struktur von Rotorblättern für Windenergieanlagen zum Einsatz. Daher wurden zur Prüfung Normen verwendet, welche durch die bei der Zertifizierung dieser Rotorblätter zugrunde gelegten Richtlinie vorgeschrieben werden. Das entwickelte Verfahren der EILT führt auf hohe Genauigkeiten bei der Modellierung von Glasfaserverbunden mit Polymermatrix und ist im Gegensatz zur ILT nur auf Eingangsparameter angewiesen, die Ergebnisse normgerechter Prüfungen sind.</dc:description>
+          <dc:description xml:lang="eng">Fibre-polymer-matrix-composites show anisotropic behaviour. For the prediction of mechanical properties of fibre-reinforced-plastics structures a model of the mechanical properties of the material is required. Prior to modelling these properties are determined by mechanical testing. Based on the results a modell of the mechanical properties of the material is derived.&#13;
+Due to the anisotropic behaviour at least three different mechanical coupon tests have to be carried out to determine the quasi-static behaviour of a fibre-reinforced material. Throughout the manufacturing of the coupons it is impossible to avoid a scatter in the fibre volume content of the coupons. Thus mechanical properties determined at different fibre volume contents are merged within one mechanical model of the material. Due to the fact that the mechanical properties of fibre-reinforced plastics are highly dependent on their fibre volume content a significant deviation of the model from the real mechanical properties can be the result. Further a remarkable scatter can result from additional deviations such as void content and misalignment of either the fibres and the fabric.&#13;
+&#13;
+Within the scope of this research the inverse laminate theory (ILT) is extended to enable the inverse calculation of the mechanical properties of fibre-reinforced plastics. The resulting method is called Extended Inverse Laminate Theory (EILT). Utilising this method the variance of the fibre volume content of the tested laminates can be taken into account. The cycle of determination of mechanical properties can be transferred to a fully analytical-synthetical process. The only input parameters required can be taken from results of coupon testing based on international testing standards. The resulting generic material model is completely phenomenologically based. An important part of this work is the development of an analytical model to describe the in-situ-properties of the polymer-matrix. All mechanical properties that cannot be measured on the pure polymer-matrix but are resulting from the transverse strain-blocking effect of the matrix induced by the incorporated fibres are called in-situ-properties.&#13;
+&#13;
+Mechanical testing carried out on composites made from non-crimped glass-fibre fabrics with epoxy matrix are the experimental basis of this work. All of the testing has been carried out based on international testing standards. The resulting material model is utilised for dimensioning, simulation and design of rotor blades for wind energy converters. Thus the testing has been carried out based on standards recommended by the guideline used for approval of the rotor blades. The resulting method (EILT) leads to a good correlation between measured and calculated mechanical properties of non-crimped glass-fibre-reinforced polymer composites. Further all input parameters can be taken from mechanical testing results based on established international testing standards. This makes it superior compared to the ILT.</dc:description>
+          <dc:date>2014-03-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4440</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44400</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44400</dc:identifier>
+          <dc:identifier>978-3-7983-2654-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4440/Krimmer%20online%20pdfa.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

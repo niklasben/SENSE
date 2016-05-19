@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2821">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2821</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Pile foundations for offshore wind turbines: Numerical and experimental investigations on the behaviour under short-term and long-term cyclic loading</dc:title>
+          <dc:title xml:lang="deu">Pfahlgründungen für Offshore-Windenergieanlagen: Numerische und experimentelle Untersuchungen über das Verhalten unter kurzzeitig und langzeitig zyklischer Belastung</dc:title>
+          <dc:creator>Cuéllar, Pablo</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The behaviour of pile foundations for offshore wind turbines deviates from classical assumptions and accumulated experience mainly due to their large diameter, reduced slenderness and elevated ratio of lateral to vertical loads. The offshore environment poses the additional challenge of large numbers of load cycles from wind and waves and the possible influence of transient changes of pore water pressure around the pile, both of them issues that are still not well understood and also not being contemplated in current design guidelines. In saturated soils, short-term cyclic loading within the extreme regime often involves a pore-pressure build up that eventually can lead to liquefaction phenomena and foundation failure. On the other hand, the effects of the long-term cyclic loading on the foundation's stability and especially on its serviceability must also be studied. The purpose of this work was to gain an insight into both aspects, while developing a practicable numerical tool for a short-term prognosis and deriving useful criteria for design. To achieve such goals, the investigations have been broadly divided into a first part with a theoretical orientation for the analysis of short-term transient effects in the frame of the Finite Element Method, and a second empirical block for the study of long-term phenomena by means of model tests in a reduced scale. The general picture that arises from these investigations is that of a foundation subject to hardening and soil densification in the long term, but also affected by transient episodes of significant softening during the storms as a consequence of pore pressure accumulation. Hence the importance of considering the coupling effects between soil stress and pore water pressure in design, even for those cases where a soil liquefaction could in principle be disregarded on the grounds of a high relative density of the soil. For practical design purposes, it seems sensible to distinguish between piles in fully drained conditions, in partially drained conditions and in undrained conditions, and analyse them correspondingly employing different strategies. Some considerations in this respect have been given in the final sections of this thesis.</dc:description>
+          <dc:description xml:lang="deu">Das Verhalten von Pfahlgründungen für Offshore-Windenergieanlagen weicht von den klassischen Annahmen und gesammelten Erfahrungen vor allem wegen der großen Pfahldurchmesser, geringeren Schlankheit und hohen Verhältnisse von lateralen zu vertikalen Lasten ab. Zudem entsteht im Offshore-Bereich die zusätzliche Herausforderung einer großen Anzahl von Lastwechseln aus Wind und Wellen und des möglichen Einflusses von vorübergehenden Veränderungen des Porenwasserdrucks um den Pfahl. Da in diesem Hinsicht noch viel Unkenntniss herrscht, wurden beide Aspekte in den Bemessungsrichtlinien bisher nicht ausreichend in Betracht gezogen. Es ist aber bekannt, dass wassergesättigte Böden unter zyklischer Belastung oft einen Porenwasserdruckaufbau zeigen, der schließlich bis zur Bodenverflüssigung und einem Gründungsversagen führen kann. Andererseits können grosse Lastspielzahlen erhebliche bleibende Verformungen zur Folge haben, die die Gebrauchstauglichkeit der Gründung progressiv gefährden. Wesentliche Ziele dieser Arbeit waren, einen Einblick in beide Aspekte zu gewinnen, ihre Folgen aufzuzeigen und sinnvolle Kriterien für die Pfahlbemessung herzuleiten. Dabei wurde aber auch ein praktikables numerisches Werkzeug entwickelt, um den Einfluss von Kurzzeit-Sturmereignissen auf die Offshore-Pfähle prognostizieren zu können. Die Untersuchungen wur-den deswegen in zwei Hauptrichtungen gegliedert: ein erster Teil, mit einer theoretischen Orientierung, der der Analyse von kurzzeitigen Ereignisse anhand der Finite-Elemente-Methode gewidmet wurde, und ein zweiter empirischer Teil für die Betrachtung von Langzeitphänomene anhand Modellversuchen in kleinem Maßstab. In diesen Untersuchungen konnte gezeigt werden, wie sich der Boden an der Pfahlgründung langfristig progressiv verfestigt (long-time hardening). Vorübergehend kann es aber auch zu einer Entfestigung während der Sturmereignisse kommen (short-time transient softening). Sowohl die abgeminderte Bettungssteifigkeit während der Entfestigung, als auch ihre kummulativen Effekte im Sinne von bleibenden Verformungen, zeigen die Relevanz und Notwendigkeit der Berücksichtigung der Wechselwirkung zwischen Porenwasserdruck und Bodenverformung in der Pfahlbemessung. In der Summe werden die Phänomene und praktischen Folgen für die Bemessung der Pfähle in dieser Dissertation hergeleitet.</dc:description>
+          <dc:date>2011-03-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2821</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29779</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29779</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2821/cuellar_pablo.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

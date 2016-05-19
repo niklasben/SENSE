@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:841">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:841</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Synthese des geschützten Nonenolids Herbarumin I durch Kreuzmetathese, Darstellung tricyclischer Synthesebausteine durch Metathesekaskaden und Diels-Alder Reaktion</dc:title>
+          <dc:creator>Imhof, Sonja</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Synthese des geschützten Nonenolids Herbarumin I durch Kreuzmetathese Darstellung tricyclischer Synthesebausteine durch Metathesekaskaden und Diels-Alder Reaktion Im ersten Teil der vorliegenden Arbeit wurden zwei neuartige Strategien für den Zugang zum Naturstoff Herbarumin I untersucht. Der ersten Syntheseroute folgend, wurde mittels einer Kreuzmetathese ein trans-selektiver Cyclisierungsvorläufer aufgebaut. Durch eine neuartige Cyclisierungsvariante sollte durch eine SN2-Addition die terminale Säurefunktionalität das enantioselektive Epoxid öffnen und ein Nonenolid ausbilden. Verschiedenste Bedingungen, der Zusatz von unterschiedlichen Auxiliaren, wie auch der Wechsel von der Säurefunktionalität zum nucleophileren Amid oder der Ersatz des Epoxids durch eine effizientere Abgangsgruppe führten nicht zu dem gewünschten Macrolacton. Für den zweiten Zugang wurde analog der Strategie 1 ein Intermediat mit einem enantiomerenreinen Epoxyalkohol aufgebaut. Durch Addition von Phenylisocyanat wurde ein Urethan dargestellt, das unter Oxiranöffnung zum Carbonat cyclisiert wurde. Mit der anschließenden Kreuzmetathese wurde eine trans-Secosäure als Cyclisierungsvorläufer dargestellt, der mittels einer Yamaguchi-Macrocyclisierung erfolgreich zum geschützten Nonenolid Herbarumin I geschlossen werden konnte. Im zweiten Kapitel wurde die Synthesestrategie einer Metathese-Diels-Alder-Kaskade zur Darstellung von Tricyclen vorgestellt. Damit wurde die Möglichkeit eröffnet, ausgehend von einfachen, cyclischen Enonen in Form von Malonat-, Ether- und Aminopropargylderivaten effizient eine große Anzahl an komplexen tricyclischen Synthesebausteine aufzubauen. Acht enantiomerenreine Metathesevorläufer unterschiedlicher Ringgröße wurden in wenigen Schritten und guten bis sehr guten Ausbeuten aus den jeweiligen cis-Cycloalkendiolen aufgebaut und zusammen mit einem Metathesepartner in einer Kreuz-Enin-Ringumlagerungs-Kreuzmetathese eingesetzt, so dass heterocyclische Triene gebildet wurden. Diese Intermediate besaßen eine Butadien-Einheit, die als Dien fungierte und eine Enon-Funktionalität, die als Dienophil agierte und - im Falle von Ethylen als Metathesepartner - direkt eine [4+2]-Cycloaddition eingingen, so dass komplexe tricyclische Systeme aufgebaut werden konnten. Wurden substituierte Olefine als Metathesepartner eingesetzt, erhöhte sich die Stabilität der Trien-Intermediate, was sich positiv auf die Produktausbeuten auswirkte. Trotz der daraus folgenden geringeren Reaktivität fand die [4+2]-Cycloaddition bei 150 °C in guter Ausbeute stereoselektiv statt.</dc:description>
+          <dc:date>2004-12-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/841</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8347</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8347</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/841/imhof_sonja.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

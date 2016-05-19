@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2296">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2296</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:800</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Lesebühne - Zeitgenössische Rezeption der Lustspiele Ludwig Tiecks</dc:title>
+          <dc:title xml:lang="eng">Ludwig Tieck on reading stage</dc:title>
+          <dc:creator>Sommersberg, Beate</dc:creator>
+          <dc:subject>ddc:800</dc:subject>
+          <dc:description xml:lang="deu">Ludwig Tieck ist heute noch berühmt als Übersetzer der Werke von Cervantes, gut bekannt als enger Freund der Brüder Schlegel – seine dramatischen Werke aber sind beinahe vergessen. Zeitgenossen liebten seine Arbeit, aber dennoch dauerte es beinahe vierzig Jahre, bis wenigstens eines seiner Stücke, „Der gestiefelte Kater“, für die Bühne adaptiert wurde. Das völlige Fehlen von Erfolg in Theaterbelangen wurde seiner Unfähigkeit zugeschrieben, bühnentaugliche Stücke zu schreiben. Immerhin wurden seine Stücke im Familienkreis und unter Freunden vorgelesen. Tieck selbst galt als besserer Vorleser als Kean, Wolff oder irgend ein anderer Mime seiner Zeit. Die dieser Arbeit zugrunde liegende These basiert auf der Annahme, dass Tieck niemals vorhatte, für die Bühne zu schreiben, sondern stets einen kleineren und privateren Zuhörerkreis vor Augen hatte. Das Vorlesen stand zu Tiecks Lebzeiten als gleichberechtigte Kunstform neben Poesie, Theater und Musik. Diese These lässt sich durch zahllose Briefe und Lebenserinnerungen stützen.</dc:description>
+          <dc:description xml:lang="eng">Ludwig Tieck ist still popular as the translator of Cervantes, wellknown as a friend of Wilhelm and Friedrich Schlegel – his plays though are almost forgotten. Contemporaries loved his writings, but it took more than forty years, until at least one of his plays, „Der gestiefelte Kater“, was adapted for stage. The lack of success in all theatre-matters was attributed his disability of writing anything convertable for stage. Instead, his plays were read aloud in family-circles and amongst friends. Tieck himself was best known for reading better than Kean, better than Wolff or any other actor of his time. Forming the basis of this work’s thesis is, that Tieck never intended to write for stage, but always had a smaller and rather private circle in mind. Reading aloud was accepted as an independend form of art, with equal rights to poetry, theatre and music. This thesis can be supported by lots of letters and memoirs of contempories.</dc:description>
+          <dc:date>2009-11-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2296</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24025</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24025</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2296/original_sommersberg_beate.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2296/sommersberg_beate.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

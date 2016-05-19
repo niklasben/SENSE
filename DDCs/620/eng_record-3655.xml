@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3655">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3655</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung und Aufbau eines neuartigen Assistenzsystems für die medizinische Endoskopie</dc:title>
+          <dc:title xml:lang="eng">Development and construction of a novel assistance system for medical endoscopy</dc:title>
+          <dc:creator>Oginski, Stefan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Minimal-invasive Eingriffe ermöglichen gegenüber konventionellen Eingriffen die Reduktion von Traumata und Schmerzen, sind jedoch auch mit verschiedenen Nachteilen verbunden. So schränkt der Assistent, der das Endoskop hält, die Bewegungsfreiheit des Chirurgen ein und verwackelt das Kamerabild durch das unwillkürliche Zittern seiner Hand. Um diese und andere Nachteile zu vermeiden, wurden bereits verschiedene Endoskopführungssysteme entwickelt, die meist am Operationstisch befestigt werden. Diese schränken jedoch den Zugang zum OP-Tisch ein, erfordern Rüstzeiten und benötigen zur Energieversorgung Kabel oder Akkumulatoren. Daher wurde im Rahmen dieser Arbeit ein endoskopisches Assistenzsystem entwickelt, das an der Decke des OP-Raums montiert ist. Das System ist dabei an einer Schiene aufgehängt, so dass es über eine große Reichweite verfügt und sich problemlos in den OP-Bereich hinein- bzw. aus diesem herausbewegen lässt. Aus Sicherheits- und Kostengründen ist das System aufgeteilt in eine manuell positionierbare Haltevorrichtung und in einen angetriebenen Endoskopieaufbau, der zur motorischen Verstellung der Blickrichtung dient und von der Haltevorrichtung getragen wird. Die Haltevorrichtung weist Gelenke auf, die durch federbetätigte Reibbremsen arretiert werden und sich mittels pneumatischer Aktoren lösen lassen. Dafür werden unter anderem pneumatische Muskeln verwendet. Der Endoskopieaufbau umfasst ein Schwenkprismenendoskop, das von einem aufgesetzten Antriebsmodul gesteuert wird. Das Antriebsmodul ermöglicht die Drehung des Schwenkprismas sowie die Rotation des Endoskops. Dadurch lässt sich ein Bildbereich von der Größe einer Halbkugel einsehen, ohne dass der Endoskopschaft dafür geschwenkt werden muss. Somit werden die Haut und das Muskelgewebe an der Einstichstelle geschont und Kollisionen des Endoskopschafts mit den chirurgischen Instrumenten vermieden. Diese Arbeit beschreibt die Entwicklung, den Aufbau und die Erprobung des Assistenzsystems und diskutiert weiteres Entwicklungspotential.</dc:description>
+          <dc:description xml:lang="eng">Minimally invasive surgery reduces traumata and pain compared to conventional interventions, but is also associated with several disadvantages. For example, the surgeon’s freedom of movement is restricted by the assistant who holds the endoscope. Furthermore, the camera image is blurred because of involuntary shaking of the assistant’s hand. To avoid these and other disadvantages, several endoscope positioning systems have been developed, most of which are mounted at the operating table. However, these systems restrict access to the operating table, require setup time and need cables or accumulators for power supply. Therefore, for this doctoral thesis, an endoscopic assistance system has been developed, which is mounted at the ceiling of the operating room. Specifically, the system is suspended from a ceiling-mounted rail, so that it has a wide range and may easily be moved into and out of the working area of the operating team. For safety and cost reasons, the system is divided into a manually positioned holding device and a motorized endoscopic unit which serves to vary the angle of view and is mounted to the holding device. The holding device contains joints which are fixed by spring activated friction brakes which are released by pneumatic actuators. Pneumatic muscles are used as actuators, among others. The motorized endoscopic unit comprises a swing prism endoscope which is controlled by a drive unit that is mounted on the endoscope. The drive unit enables adjustment of the swing prism as well as rotation of the endoscope. Thereby, the angle of view can be varied within a hemispherical area, without the need for panning the endoscope shaft. Thus, the skin and muscle tissue at the punctuation site remain largely unscathed and collisions between the endoscope shaft and surgical instruments are prevented. This doctoral thesis describes the development, the construction and the testing of the assistance system and considers further potential for development.</dc:description>
+          <dc:date>2013-03-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3655</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39014</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39014</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3655/oginski_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

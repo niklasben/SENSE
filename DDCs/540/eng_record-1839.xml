@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1839">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1839</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung der Sauerstoffradikalproduktion und Elektronentransfermechanismus der Xanthinoxidoreduktase</dc:title>
+          <dc:title xml:lang="eng">Examination of superoxid radical production and electron transfer mechanism of xanthine oxidoreductase </dc:title>
+          <dc:creator>Möller, Nadine</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Xanthinoxidoreduktase katalysiert den Metabolismus von Purinen unter gleichzeitiger Bildung von Sauerstoffradikalen. Hierbei werden Elektronen vom Elektronendonator Xanthin durch das Enzym hindurch entlang von Eisen-Schwefel-Clustern zu den Elektronenakzeptoren molekularen Sauerstoffs und NAD+ transportiert. Xanthinoxidoreduktase kann in zwei ineinander umwandelbaren Isoformen, XDH und XO vorliegen, je nach Isoform werden die Elektronen bevorzugt auf NAD+ oder ausschließlich auf molekularen Sauerstoff übertragen. Die entstehenden Sauerstoffradikale können auf Grund ihrer radikalischen Eigenschaften und hohen oxidativen Reaktivität im Organismus schwere Schäden anrichten. In dieser Arbeit wurde eine Methode zur Aufreinigung von XOR in unterschiedlichen Reinheitsstufen aus Lebergewebe entwickelt, die sowohl Untersuchungen zur Sauerstoffradikalbildung der beiden Isoformen von XOR aus verschiedenen Organismen und eine schnelle Aktivitätsbestimmung der XOR beinhaltete. Hierdurch konnte gezeigt werden, dass die XO-Isoform mehr Sauerstoffradikale über die Zeit bildet als die XDH-Isoform und ein Vorliegen des Elektronenakzeptors NAD+ zu einem Absinken der gebildeten Sauerstoffradikale der XHD-Form führt, jedoch keinen Einfluß auf die Sauerstoffradikalproduktion der XO-Isoform besitzt. Weiterhin wurde mittels EPR-Spektroskopie der Elektronenfluß entlang der Eisen-Schwefel-Cluster untersucht. Experimente mit Varianten zeigten, dass beide Eisen-Schwefel-Cluster am Elektronentransport beteiligt sind. Hierbei liefert das Eisen-Schwefel-Cluster 1 eine wichtige Rolle zum Erhalt der Konformation, wohingegen das Eisen-Schwefel-Cluster 2 aktivitätsbestimmende Eigenschaften aufweist. In einem zweiten Teil der Arbeit wurde die Aktivität der XOR aus Rattenleber bei krebskranken Tieren im Vergleich zu gesunden Tieren untersucht. Es konnte eine stark erhöhte XOR-Aktivität in der krebskranken Tiergruppe nachgewiesen werden. Eine Behandlung der krebskranken Ratten mit einem XOR-Inhibitor führte zu einem Absinken der XOR-Aktivität und zu einem längeren Überleben der Tiere.</dc:description>
+          <dc:description xml:lang="eng">Xanthinoxidoreductase (XOR) catalyses the metabolism of purines with concomitant production of superoxide radicals. XOR exists as either an oxidase (XO) that transfers reducing equivalents to oxygen, or as dehydrogenase (XDH) that utilizes NAD or oxygen as the final electron acceptor. Both forms contain an internal electron transport system along two iron-sulfur clusters. Produced superoxide radicals have radical attributes and high oxidative reactivity contributing to serious tissue damage. To characterize the production of superoxide radicals of both isoforms of XOR from different organism of a purification method of XOR from liver tissue in different purification grades was developed. It has been shown, that the XO Isoform produced more superoxide radicals than the XDH isoform with xanthine as substrate and superoxide as electron acceptor. The amount of superoxide radicals was decreased of the XDH isoform with xanthine as substrate and NAD as electron acceptor. Presence of NAD has no impact of the amount of produced superoxide radicals of the XO Isoform. Furthermore the electron transfer along the two iron sulfur cluster was examined with EPR spectroscopy. Experiments with variants showed, that both iron sulfur cluster were involved in the electron transport. The iron sulfur cluster 1 has an important role in establishing the conformation of the enzyme, whereas the iron sulfur cluster 2 has high impact in establishing the activity of the enzyme. In a second part the activity of rat liver XOR from cancer sick rats in comparison to healthy rats were analyzed. A strong increased XOR activity was detected in the cancer sick animal group. Treatment of the cancer sick group wit XOR inhibitors lead to a decreasing activity and longer survival time.</dc:description>
+          <dc:date>2008-07-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1839</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19243</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19243</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1839/original_moeller_nadine.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1839/moeller_nadine.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

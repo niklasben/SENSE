@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4225">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4225</identifier>
+        <datestamp>2013-10-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Unterscheidung der Einflussgrößen Temperatur und Dehnung bei Anwendung der verteilten Brillouin-Sensorik in der Bauwerksüberwachung</dc:title>
+          <dc:title xml:lang="eng">Studies to distinguish the parameters temperature and strain using the distributed brillouin sensors in structural health monitoring</dc:title>
+          <dc:creator>Wosniok, Aleksander</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="deu">Die zunehmend anspruchsvollere Aufgabe der Politik und Wirtschaft zur Sicherstellung der technischen Sicherheit von öffentlichen Einrichtungen, Bauwerken und Großanlagen lässt sich ursprünglich aus dem im Grundgesetz für die Bundesrepublik Deutschland verankerten Recht aller Bürger auf Leben und körperliche Unversehrtheit ableiten.&#13;
+Durch die in der vorliegenden Arbeit dargestellten Entwicklungsarbeiten zur Herstellung neuartiger faseroptischer Sensorstrukturen zum großflächigen, ortsaufgelösten und vor allem simultanen Erfassen von mechanischen Deformationen und kritischen Temperaturgradienten wird dementsprechend ein Beitrag zur Steigerung der zivilen Sicherheit geleistet. Die messtechnische Grundlage ist durch die nichtlineare stimulierte Brillouin-Streuung (SBS) unter Nutzung des hier angewendeten und weiterentwickelten Messverfahrens der faseroptischen Brillouin-Frequenzbereichsanalyse (BOFDA) gegeben.&#13;
+Zu Beginn werden theoretisch die physikalischen Eigenschaften der SBS-Spektren in Glasfasern analysiert und die Erweiterung dieser Spektren um weitere Nebenpeaks auf Basis der Modalanalyse in optischen Fasern mit modifizierten Brechzahlprofilen aufgezeigt. Die Auswertung der temperatur- und dehnungsbedingten Brillouin-Frequenzverschiebung zweier geeigneter Peaks solcher Multipeakstrukturen in SBS-Spektren bietet eine sensortechnische Innovation auf dem Weg zur Unterscheidung der Einflussgrößen Temperatur und Dehnung mittels nur einer einzelnen Sensorfaser. Parallel dazu wird auch die Einbeziehung der weiteren spektralen Parameter der lorentzförmigen SBS-Verstärkung (Amplitude und Halbwertsbreite) zur Problemlösung vorgestellt.&#13;
+Auf Basis von Labortests wird die sensorische Realisierbarkeit beider Lösungswege detailliert dargelegt. Im Ergebnis der Arbeit stehen neue kosteneffiziente Sensorfasern sowie Auswerteroutinen zur Trennung der Temperatur- und Dehnungsanteile im Messsignal. Unter Aspekten der hier erreichten Genauigkeiten bei der Bestimmung der ortsaufgelösten Temperatur- und Dehnungsverläufe können die neuen faseroptischen Sensoren unabhängig vom gewählten Messverfahren zum Aufbau von Frühwarnsystemen genutzt werden.&#13;
+Die zwei abschließenden Abschnitte der Arbeit befassen sich mit der anwendungsrelevanten Sensorimplementierung in Bauwerken. Dank der Umsetzung der neusten Integrations-technologien der faseroptischen Kabel in geosynthetische Bewehrungsmaterialien können als sensorisches Endprodukt neue innovative Geokunststoffmatten zum großflächigen Monitoring hergestellt werden.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">The increasingly challenging duty of politics and economy for ensuring technical safety of public facilities, structure works and large-scale constructions can be derived originally from the rights of all citizens to life und physical integrity fixed in the Basic Law for the Federal Republic of Germany.&#13;
+Therefore, the research described in the presented work on the fabrication of novel fiber optic sensor structures for large-scale, distributed and especially simultaneous detection of mechanical deformations and critical temperature gradients contributes to increase civil safety. The technical measurement principles are given by the nonlinear stimulated Brillouin scattering (SBS) using the measurement technique of the fiber optic Brillouin frequency domain analysis (BOFDA) that is here employed and advanced within the thesis. &#13;
+First, the physical nature of SBS spectra in glass fibers is theoretically analyzed and the extension of these spectra to further secondary peaks is demonstrated on the basis of modal analysis in optical fibers with modified refractive index profiles. The analysis of the temperature- and strain-induced Brillouin frequency shift of two suitable peaks of such multi-peak structures in SBS spectra provides a sensory innovation on the way to differentiate the influencing variables temperature and strain by means of only one single sensor fiber.In parallel to this, the involvement of other spectral parameters of the Lorentz-shaped SBS gain (amplitude and FWHM) is presented for problem solving.&#13;
+On the basis of laboratory tests the feasibility in sensing applications of both approaches is explained in detail. As a result of the thesis, cost-efficient sensor fibers and evaluation routines for separation of the temperature and strain ratio in the measuring signal are developed. Under aspects of the accuracies achieved in determining the spatially resolved temperature and strain distribution, the new fiber optic sensors can be used for the construction of early warning systems regardless of the selected measurement method.&#13;
+The final two sections of the thesis deal with the application relevant implementation of sensors into the structure works. Due to the transfer of the latest integration technologies of fiber optic cables in geosynthetic reinforcement materials, new innovative geosynthetic mats as sensory final products can be fabricated for large-scale monitoring. &#13;
+</dc:description>
+          <dc:date>2013-10-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4225</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-42251</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-42251</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4225/wosniok_aleksander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

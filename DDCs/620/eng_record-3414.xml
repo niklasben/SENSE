@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3414">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3414</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mathematische Modellierung von Flaschenentleerungsprozessen</dc:title>
+          <dc:title xml:lang="eng">Mathematical modeling of bottle emptying processes</dc:title>
+          <dc:creator>Geiger, Friedrich</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Durch den großen Erfolg von PET als Material für Getränkeverpackungen in den letzten Jahren, was nicht zuletzt der leichten Formbarkeit des Materials zu verdanken ist, sind viele neue Flaschengeometrien entstanden. Jede dieser neuen Flaschengeometrien muss vor ihrem Einsatz in der Produktion auf ihre Verwendbarkeit geprüft werden, und der Produktionsprozess sollte, entsprechend der Eigenarten einer jeden Flaschenform, optimiert werden. Bisher ist zur Untersuchung neuer Flaschengeometrien eine Vielzahl von realen Experimenten nötig. Diese Experimente geben aber nur einen sehr groben Überblick über das auftretende Strömungsregime. Die genaue Geschwindigkeit für das gesamte Feld lässt sich nicht messen und die Struktur der Wirbel ist kaum quantifizierbar. Aufgrund der wachsenden Rechenleistung der letzten Jahrzehnte bietet sich Computational Fluid Dynamics (CFD) als adäquates Werkzeug für die Untersuchung derartiger Prozesse an, die bisher nicht ausreichend analysiert werden konnten. In der Arbeit wird belegt, dass durch die Wahl eines entsprechenden Modells der Prozess der Flaschenentleerung akkurat simuliert werden kann und bisher verwendete empirische Modelle im Vergleich zum verwendeten Modell sehr limitiert sind. Der Nachteil eines CFD- Modells ist der hohe Berechnungsaufwand. In der Arbeit werden zur Bewältigung dieses Problems die Methoden der Versuchsplanung und der Response Surface genutzt, welche die Anzahl der durchzuführenden Simulationen erheblich reduzieren und die Optimierung der Flaschenform erleichtern. Nach der erfolgreichen Validierung des Modells anhand von Daten aus eigenen Experimenten wurde das gefundene Modell zudem genutzt, um den Flaschenentleerungsprozess in zwei Studien genauer zu untersuchen. Erwartungsgemäß konnte der Mündungsdurchmesser als wichtigster Parameter für die Entleerungszeit einer Flasche identifiziert werden. Zudem wurde bewiesen, dass zwischen allen untersuchten Parametern, Oberflächenspannung der Fluide, Neigung der Flasche, Form des Flaschenhalses, Tiefe der Einbuchtung und Mündungsdurchmesser starke Interaktionen herrschen, die zum Teil die Dauer des Leerungsprozesses erheblich beeinflussen und eine individuelle Untersuchung jeder Flasche erfordern.</dc:description>
+          <dc:description xml:lang="eng">PET has been used very successfully as material for bottles in the past years, since it is easily mouldable into many different forms. But every newly introduced bottle shape must be tested in advance of the large-scale production to avoid problems during the process and to optimize the amount of required energy. Until now the testing has to be done in long lasting experimental studies, which require prototypes and deliver only basic information about the emptying times and the flow regime in the bottles. The experiments give almost no information about the local velocity in the flow field and the turbulent eddies. Hence, new methods to study the process are required. This study shows that Computational Fluid Dynamics (CFD) is a powerful tool, which is well suited to approach the process of bottle emptying. In comparison with experimental results, the CFD- model developed in this study performs better than the existing empirical models in terms of accuracy and flexibility. The CFD model allows the analysis of many important factors relating to the bottle and to the fluids within the bottle. To reduce the computational costs of the CFD simulations, the setup of the simulations was optimized using an appropriate design of experiment. It turned out that the „Box- Behnken- Design“ implied a 50% reduction of the number of required runs, while the design allowed well to detect interaction effects. To support the postprocessing and make effects as well as interactions between different factors understandable response surface methods were used. In two studies, the effects of the fluids and of bottle geometry parameters were investigated. In detail, the effects of surface tension, inclination of the bottle, outlet diameter, shape of the bottle neck and indentation are studied. The most important factor is the outlet diameter, since it not only determines the amount of fluid leaving the bottle but also influences the occurring flow schemes.</dc:description>
+          <dc:date>2012-08-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3414</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36129</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36129</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3414/geiger_friedrich.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

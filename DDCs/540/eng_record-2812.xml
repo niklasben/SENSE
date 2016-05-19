@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2812">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2812</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Isolierung, Charakterisierung und Stabilisierung der Chloroperoxidase aus Caldariomyces fumago für den synthetisch- technischeN Einsatz</dc:title>
+          <dc:title xml:lang="eng">Isolation, characterization and stabilization of chloroperoxidase from Caldariomyces fumago for the synthetic-technical application</dc:title>
+          <dc:creator>Yazbik, Valantina</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Die Chloroperoxidase aus Caldariomyces fumago (CPO) ist industriell ein sehr interessantes und vielseitiges Enzym dank ihres bereiten Spektrums an Reaktionen, die für technische Anwendungen von Bedeutung sind. Jedoch ist der technische Einsatz der CPO weiterhin begrenzt. Gründe dafür sind zum einen die hohen Kosten des gereinigten Enzympräparats, die die Folge der der zweitaufwendigen Isolierung wegen des schwer zu entfernenden Pilzpigments sind, und zum anderen die geringe Stabilität der CPO. Zudem zeigen viele Substrate, die für synthetische Aspekte von Bedeutung sind, eine geringe Löslichkeit in wässrigen Reaktionsmedien. Aus diesen Gründen wurde im Rahmen dieser Arbeit zunächst basierend auf der Extraktion im wässrigen Zweiphasensystem eine neue Isolierungsmethode entwickelt, die schnell durchführbar ist und hohe Aktivitätsausbeute sowie eine ausreichende Reinheit für den Einsatz des Enzyms in technischen Anwendungen liefert. Zudem wurde die CPO bezüglich ihrer Halogenase-, Peroxidase- und Monooxygenase-Aktivität umfangreich charakterisiert. Dazu wurde die Aktivität und Stabilität der CPO in Abhängigkeit verschiedener isolierter Einflussgrößen untersucht. Darüber hinaus wurde die gegenseitige Beeinflussung verschiedener Faktoren sowohl auf die Aktivität als auch auf die Stabilität der CPO mittels des „Design of Experiments“ untersucht und die optimalen Bedingungen für eine maximale Aktivität und Stabilität ermittelt. Basierend auf dieser Charakterisierung wurde die CPO gegenüber hohen Temperaturen und der Anwesenheit von organischen wassermischbaren Lösungsmitteln stabilisiert. Das durch die chemische Modifizierung der CPO mittels Methoxypolyethylenglykols.</dc:description>
+          <dc:description xml:lang="eng">Chloroperoxidase (CPO) from Caldariomyces fumago is an interest and versatile enzyme in industrial applications because of its broad spectrum of reactions. These reactions are useful for technical applications. However, its practical application is still limited. This limitation is due to on one hand, the high costs for the sufficient purified enzyme referred to the laborious and time-consuming isolation as the result of difficult removing of the black gelatinous pigment. On the other hand, CPO stability is poor and the solubility of its substrates is low in aqueous media. Therefore, a new method for the purification of the CPO was developed. This method based on the extraction in aqueous biphasic system. It is more accessible, providing high yields of activity and sufficient purity of the enzyme for using in technical applications. The CPO was extensively characterized regarding to its halogenation-, peroxidase- and Cytochrome P450-activity. For this purpose, the activity and stability of CPO was investigated with various isolated parameters. Moreover, the opposite influence between the diverse factors (pH, temperature and organic solvent) on activity and stability of enzyme was analyzed using the “Design of Experiments�?. Furthermore, the optimal conditions for maximal activity and stability were identified. Finally, based on the results of characterization the CPO was stabilized against a high temperature and the organic water-soluble solvent. The stabilization was performed by means of chemical modification of CPO with methoxy polyethylene glycol.</dc:description>
+          <dc:date>2011-02-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2812</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29752</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29752</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2812/yazbik_valantina.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

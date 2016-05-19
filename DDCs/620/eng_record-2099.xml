@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2099">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2099</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Evolution of Metal Foams during Solidification</dc:title>
+          <dc:title xml:lang="deu">Entwicklung Metallischer Schäume während der Erstarrung</dc:title>
+          <dc:creator>Mukherjee, Manas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The evolution of metal foams during solidification (cooling) was studied in-situ by means of X-ray radioscopy. Foams were processed by mixing metal powders (Al, Al-alloy and Zn) with TiH2 powders and foaming the compact of this mixture inside X-ray transparent furnaces while foam evolution was continuously monitored. Foam expansion was quantified by analysing the radioscopic image sequence. The main finding of this study is a hitherto unknown expansion stage during solidification of metal foams. This expansion stage has been referred as extra expansion or EE. Measurements were carried out by varying alloy composition, holding time (HT), cooling rate, gas atmosphere and pressure in order to understand the mechanisms responsible for EE. In binary and ternary alloys EE stage can be subdivided into two parts (EE1 and EE2). It was observed that as HT increases, EE1 initially increases, then becomes nearly constant and finally decreases to zero. In contrast, EE2 was observed for all HT and even in foams free of blowing agent. While EE1 is mainly caused by the production of hydrogen from blowing agent, EE2 is a result of precipitation of dissolved hydrogen from the metallic melt during solidification. Cooling rate has significance influence on EE1: increases with decreasing cooling rate. Beside HT and cooling rate, EE is also influenced by the alloy composition. The kinetic interplay of shrinkage of the hydrogen gas present inside the foam, the out-diffusion of hydrogen to the surrounding space and the production of hydrogen from the blowing agent was identified as the main reason of EE. It was observed that higher EE induces defects in the foam structure which is caused by EE-induced ruptures during solidification.</dc:description>
+          <dc:description xml:lang="deu">Die Entwicklung metallischer Schäume während der Erstarrung (Abkühlen) wurde in-situ mittels Röntgenradioskopie untersucht. Die Schäume wurden durch das Mischen von Metallpulvern (Al, Al-Legierungen und Zn) und TiH2 und das Aufschäumen von Presslingen dieser Mischungen in einem röntgentransparenten Ofen hergestellt. Dabei wurde die Entwicklung des Schaums kontinuierlich überwacht. Die Schaumexpansion wurde durch die Analyse der radioskopischen Bildsequenzen quantifiziert. Die Haupterkenntnis dieser Studie ist ein bisher unbekannter Expansionsschritt während der Erstarrung metallischer Schäume. Diese Expansionsstufe ist als Extraexpansion (EE, extra expansion) bezeichnet worden. Die Messungen wurden mit variierter Legierungszusammensetzung, Haltezeit (HT, holding time), Abkühlrate, Atmosphärenzusammensetzung und mit variiertem Atmosphärendruck durchgeführt, um die für die EE verantwortlichen Mechanismen zu verstehen. In binären und ternären Legierungen kann die EE in zwei Schritte unterteilt werden (EE1 und EE2). Es wurde beobachtet, dass mit steigender HT die EE1 zunächst ansteigt, dann beinahe konstant verläuft und schließlich auf null absinkt. Im Kontrast dazu wurde die EE2 bei allen Werten der HT und sogar in treibmittelfreien Schäumen beobachtet. Während die EE1 hauptsächlich durch die Freisetzung von Wasserstoff aus dem Treibmittel verursacht wird, resultiert die EE2 aus der Ausscheidung des gelösten Wasserstoffs aus der Schmelze während der Erstarrung. Die Abkühlrate hat einen signifikanten Einfluss auf die EE1. Diese steigt mit sinkender Abkühlrate. Neben der HT und der Abkühlrate beeinflusst die Legierungszusammensetzung die EE auch. Das kinetische Wechselspiel aus der Volumenkontraktion des Wasserstoffs innerhalb des Schaums, der Diffusion des Wasserstoffs aus dem Schaum in die Umgebung und der Freisetzung von Wasserstoff aus dem Treibmittel wurden als die Hauptursachen der EE identifiziert. Es wurde beobachtet, dass eine hohe EE zu Rissen führt, und somit zu Defekten in der Schaumstruktur.</dc:description>
+          <dc:date>2009-03-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2099</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22001</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22001</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2099/mukherjee_manas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

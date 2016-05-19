@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:93">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:93</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Chancen und Hemmnisse des EDV-Einsatzes in der Raumplanung</dc:title>
+          <dc:creator>Krause, Kai-Uwe</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit untersucht die inhaltlichen Zielvorstellungen bzw. organisatorischen Rahmenbedingungen des EDV-Einsatzes in der Raumplanung in unterschiedlichen Verwaltungs- bzw. Gebietskörperschaften. Als Rahmenbedingungen eines EDV-Einsatzes in der Raumplanung werden historische Aspekte, fachspezifische raumplanerische Leitlinien, Determinanten aus sektoralen Fachplanungsdisziplinen, verwaltungswissenschaftliche Modernisierungsbestrebungen der öffentlichen Verwaltung, der rechtliche Rahmen eines EDV-Einsatzes, Datenschutzbestimmungen sowie die Entwicklung der Informations- und Kommunikationstechnologie und ihre vielfältigen interdependenten gesellschaftlichen Transformationen und Rückwirkungen auf die auf die unterschiedlichen Ebenen der räumlichen Planung untersucht. Im empirischen Teil der Arbeit wurden Experteninterviews über den jeweiligen EDV-Einsatz in der raumbezogenen Planung mit Angehörigen unterschiedlicher Gebietskörperschaften, Planungsverbänden bzw. staatlicher Ministerien geführt. Auf Grund heterogener Systemlandschaften, eingeschränktem Zugang zu fachfremden Systemen, mangelnden Informationen über vorhandene Datenbestände und unkomfortablen Datenaustausch, stellt die Nutzung raumbezogener Daten technisch zum heutigen Zeitpunkt (2001) immer noch ein großes Problem dar. Die Nutzung neutraler Schnittstellen, die Beschreibung neuer Standards (OpenGIS, ALKIS) bzw. die Entwicklung von Internetstandards (XML, GML) bietet in Zukunft die Chance, diese technologischen Barrieren zu überwinden. Die Gesetzgebung des Bundes und der Länder (z.B. Datenschutzgesetzte) sowie die Rechtssprechung (Volkszählungsurteil von 1983) können noch immer zu erheblichen gesetzlichen Vorbehalten der Führung integrierter kommunaler raumbezogener Informationssysteme führen, wobei allerdings die Gültigkeit der damals formulierten Grundsätze aktuell hinterfragt werden muss. Eine weitgehende Nutzung und Verknüpfung raumbezogener Daten durch private Institutionen, kann zu einer Beeinträchtigung der informationellen Gleichberechtigung führen. Die Renaissance der strategischen Planung in der allgemeinen Planungsdiskussion seit Anfang der 90er Jahre bietet einen Anknüpfungspunkt für den Einsatz raumbezogener Informationssysteme, um die Vielzahl der Ziele und Gegenziele, Probleme und Potentiale in den Planungsprozessen zu erfassen und problembezogen analysieren zu können. Diese Sichtweise wird durch die Verwaltungsmodernisierungskonzeption des Neuen Steuerungsmodells gestützt. Die Raumplanung könnte die Chance wahrnehmen, die Aufgaben einer Aufbereitung problemorientierter, führungsrelevanter Informationen im Rahmen einer Politikberatung als strategisches Controlling zu gestalten. Es besteht die Chance, an historische EDV-Konzeptionen der 70er Jahre unter veränderten inhaltlichen, organisatorischen und technischen Rahmenbedingungen anzuknüpfen. Die Raumplanung darf dabei diesmal nicht das Ziel verfolgen, eigenständige Informationssysteme aufzubauen, sondern muss eher die Diskussion um die Konzeption integrierter raumbezogener Informationssysteme gestaltend moderieren. Z.Z. wird diese Diskussion in der Kommune eher federführend von Vertretern der Vermessungsämter oder der statistischen Ämter geführt. Der Einsatz von Informations- und Kommunikationstechnik in der Kommunalverwaltung darf in Zukunft nicht mehr länger ausschließlich dem Ziel der internen Verwaltungsbeschleunigung und -vereinfachung dienen. Die Verwaltung muss in Zukunft in eine "rückkanalfähige" Kommunikationsbeziehung mit Bürgern bzw. Planungsbetroffenen treten.</dc:description>
+          <dc:date>2001-06-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/93</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-885</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-885</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/93/krause_kai.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

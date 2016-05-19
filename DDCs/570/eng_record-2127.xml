@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2127">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2127</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Transkriptomanalysen und Modifizierung von Genen des Valinstoffwechsels zur Optimierung von Brauhefen </dc:title>
+          <dc:title xml:lang="eng">Transcriptome analyses and modification of genes of the valine biosynthesis for optimization of brewer´s yeasts</dc:title>
+          <dc:creator>Strack, Lysann</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Ziel der vorliegenden Arbeit war die Optimierung von Brauhefen mit Hilfe des Inverse Metabolic Engineering. Im Vordergrund stand die Frage, ob physiologische Differenzen von verschiedenen Brauhefen mit dem Expressionslevel der am jeweiligen Stoffwechsel beteiligten Gene korreliert werden können. Weiterhin sollte geklärt werden, ob das gewonnene Wissen auf einen Brauhefestamm übertragen werden kann. Das proof of concept sollte am Beispiel der Diacetylproduktion erbracht werden, da die Senkung des Diacetylgehalts im Jungbier von großem Interesse ist. Zunächst wurden verschiedene Brauhefestämme auf ihre brauereirelevanten Merkmale untersucht. Nach Aufzeigen der entsprechenden genetischen Basis der jeweiligen Hefen konnten Kandidatengene identifiziert werden, die anschließend den Ausgangspunkt für genetische Veränderungen bezüglich der Diacetylreduktion darstellten. Diese Gene waren ILV3, ILV6, BAT1 und BAT2 des Valinstoffwechsels. Nachdem die beiden letztgenannten Gene zusätzlich in eine brauereirelevante Hefe und die ΔΔilv6-Mutante, der bereits die ILV6-Gene fehlten, eingebracht wurden, folgten wiederum Nebenproduktanalysen, um eventuelle, messbare Konzentrationsunterschiede bezüglich des Diacetyls festzustellen. Durch die Modifizierungen konnte die Diacetylproduktion um 14% (Überexpression des BAT1 in einer brauereirelevanten Hefe) bzw. um ca. 40% (Überexpression des BAT1 in der ΔΔilv6-Mutante) am Ende der Fermentation im Vergleich zum Wildtyp reduziert werden. Dabei wurden aber keine Unterschiede im Gärverhalten bezüglich des Wachstums, der Fermentationsdauer oder anderer Nebenprodukte festgestellt, die ebenfalls zum Geschmack des Bieres beitragen. Diese Senkung des im Bier am meisten störenden Nebenprodukts macht es damit Brauereien möglich, ihre eigenen Produktionsstämme mit positiven Eigenschaften anderer Stämme „nachzurüsten“. Der große praktische Nutzen liegt darin, dass der zeitliche Aufwand, um das Diacetyl in Nachgärungen abzubauen, nun wegfällt. Die gewonnene Kenntnis von Genen, deren Aktivität mit der erwünschten Gäreigenschaft korreliert, erlaubt es außerdem, im Rahmen der klassischen Stammoptimierung aufwändige Versuchsgärungen durch ein einfaches Screening der Kandidatengene zu ersetzen.</dc:description>
+          <dc:description xml:lang="eng">Aim of work was the optimization of brewer´s yeasts with aid of Inverse Metabolic Engineering. The question to be answered was whether physiological differences of brewer´s yeasts can be correlated with the expression level of particular genes. Furthermore, the obtained knowledge concerning the genetic basis of the phenotypic differences should be transferred on a brewer´s yeast strain. Proof of concept was the diacetyl production because the reduction of such unwanted by-product in beer is of great value for the brewing industry. First brewing yeast strains were selected with interesting fermentation behaviour and different diacetyl production levels. Transcriptome analyses were carried out in order to find the genetic basis for these differences and beyond that target genes which may have an impact on the diacetyl formation. These genes were specifically ILV3, ILV6, BAT1 and BAT2 of the valine biosynthesis as a starting point for genetic manipulation. The genes BAT1 and BAT2 were overexpressed in an industrial relevant yeast strain as well as in a ΔΔilv6-mutant strain which had a loss of both Saccharomyces cerevisiae gene copies of ILV6. Subsequently by-product analyses followed to measure the diacetyl levels of created strains. By overexpressing the BAT1 gene it was possible to reduce the diacetyl production about 14% at the end of the fermentation. The largest effect on the diacetyl reduction was obtained with the BAT1 overexpressing ΔΔilv6-mutant strain up to less 40% diacetyl at the end of the fermentation compared to the wildtype yeast strain. So as to determine whether other physiological traits have been affected by the modifications by-products such as esters and higher alcohols were measured. Moreover, sensory tests were performed. It can be concluded that there were no significant effects on the by-product profile or the taste of the beer. With the aid of IME it was possible to screen yeast strains which showed different diacetyl profiles and to find the genetic basis for these differences. The usage of such yeasts makes it possible to save maturation capacities for the brewery without having any influences on the taste of the beer.</dc:description>
+          <dc:date>2009-05-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/vnd.ms-office</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2127</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22371</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22371</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2127/original_Strack_Lysann.doc.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2127/strack_lysann.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

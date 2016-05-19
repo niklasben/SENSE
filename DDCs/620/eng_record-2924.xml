@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2924">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2924</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dynamische Modellierung und Regelung des Auftriebs von realen Hochauftriebskonfigurationen mittels Strömungsbeeinflussung auf der Klappe</dc:title>
+          <dc:title xml:lang="eng">Dynamic modeling and control of lift on real high-lift configurations by means of active flow control on the flap</dc:title>
+          <dc:creator>Heinz, Notger</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Aktive Strömungskontrolle unter Verwendung von ausblasenden Ventilen ist eine etablierte Methode zur Beeinflussung von Strömungen. Nach zahlreichen Grundlagenuntersuchungen, besonders zur Wirkung der Ausblasung an der Hinterkantenklappe, werden zunehmend Untersuchungen der Anwendbarkeit auf flugrelevante Konfigurationen durchgeführt. Hier versucht man, den Auftrieb in bestimmten Flugsituationen zu erhöhen, mit dem Fernziel eines gewichts- und wartungsreduzierten Flügels. Die vorliegende Arbeit beschäftigt sich mit der Regelung des Auftriebs an solchen Konfigurationen. Dies würde zum einen ein bestimmtes gewünschtes Auftriebsniveau sichern helfen und zum anderen den Auftrieb innerhalb physikalisch begründeter Grenzen willkürlich einstellbar machen. Hierzu werden drei Konfigurationen mit zunehmender Realitäts- bzw. Einsatznähe vorgestellt: Beginnend mit einem Windkanalmodell in annähernd zweidimensionaler Strömung und Spaltklappe über ein Modell eines realen Flügels mit Spaltklappe und schließlich einem entsprechend ausgerüsteten Versuchsflugzeug wurde untersucht, welche Dynamik das Anlegen bzw. Ablösen der Strömung hat und wie sich dieses in einem Regelungskonzept auswirkt. Die Modelle, die den Vorgang in guter Näherung beschreiben, sind von niedriger Ordnung und es wird gezeigt, dass eine höhere Ordnung keinen für regelungstechnische Zwecke bedeutsamen Zugewinn an Information liefert. Die Verwendbarkeit von linearen robusten Reglern zur Strömungsregelung wird nachgewiesen und auf Fragen der Sensorik bzw. Messgrößenwahl zur Auftriebsschätzung eingegangen. Ein adaptives Regelungsverfahren basierend auf einem ARMA-Modell und Markovparametern wird eingesetzt und bewertet. Abschließend wird aus einer Analyse der oben skizzierten Experimente ein vereinfachtes Reglerentwurfsverfahren vorgestellt und getestet, das es auch Anwendern mit geringen regelungstechnischen Vorkenntnissen ermöglicht, schnell einen funktionierenden Regler zu entwerfen. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen. Format A5, ISBN 978-3-7983-2337-7</dc:description>
+          <dc:description xml:lang="eng">Active flow control by means of blowing valves is an established method to beneficially influence air flows. Based on numerous investigations of the effect of blowing at trailing edge flaps, investigations of flight-relevant configurations become more interesting. The aim of these is to improve the lift in certain flight situations, with the vision of a lighter and less maintenance-intensive wing. This work investigates the closed-loop control of lift at these configurations. This could help maintaining a desired level of lift or even set an -- within physical boundaries -- arbitrary level of lift. Three experiments with rising complexity are reported here: Beginning with a wind-tunnel model with roughly two-dimensional flow and a single-slotted flap, followed by a model of a real wing with single-slotted flap and eventually a test-plane, the dynamics of separation and reattachment were investigated and it is shown how this affects control concepts. The models to describe these processes are of low order and higher order models did not yield any benefits control-wise. The usability of linear robust controllers is demonstrated and topics of sensors and choice of control variables are discussed. An adaptive control algorithm based on an ARMA-model with Markov-parameters, will be tried and evaluated in a flight test. Finally, based on an analysis of the experiments outlined above, an easy-to-implement controller synthesis algorithm will be given and tested. This will enable users with only little knowledge in the field of control theory to synthesise a working controller. Printed Version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de), DIN A5, ISBN 978-3-7983-2337-7</dc:description>
+          <dc:date>2011-06-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2924</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30577</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30577</dc:identifier>
+          <dc:identifier>978-3-7983-2338-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2924/heinz_notger.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2924/heinz_notger_umschlag.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

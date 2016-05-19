@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1697">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1697</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Control of noise-induced spatio-temporal dynamics in superlattices</dc:title>
+          <dc:title xml:lang="deu">Kontrolle rauschinduzierter raumzeitlicher Dynamik in Übergittern</dc:title>
+          <dc:creator>Chitzanidi, Ioanna</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The effect of random fluctuations and time-delayed feedback control on nonlinear transport in a semiconductor superlattice is studied. The system's parameters are fixed in the two different dynamical regimes where the transition from stationary to moving electron charge density fronts takes place either through a Hopf bifurcation or a global bifurcation, namely a saddle-node bifurcation on a limit cycle. It is shown that noise can induce current density oscillations which are associated with localized front motion around the stable fixed point below the Hopf bifurcation. The regularity of the noise-induced motion decreases with increasing noise level, while the deterministic time scales of the system are robust against the noise. In the vicinity of the global bifurcation noise has a dramatic effect inducing a global change in the dynamics of the system forcing stationary fronts to move through the entire device. In this regime, the system is excitable and we are therefore able to demonstrate the effect of coherence resonance in our model, i. e. there is an optimal level of noise at which the regularity of front motion is enhanced. The characteristic time scales of the system show a strong dependence on the noise level reflecting the underlying deterministic configuration. Furthermore, we apply a time-delayed feedback control scheme that was previously used to control purely temporal oscillations induced by noise. We show that control can not only enhance or deteriorate the regularity of stochastic spatio-temporal patterns but also allows for the manipulation of the system's time scales with varying time delay, in both dynamical regimes. Moreover, the effect of control on the pure deterministic model uncovers delay-induced bifurcation scenarios which result in the birth of oscillations that are mediated by the addition of noise. Finally, we employ a prototype (generic) model for a saddle-node bifurcation on a limit cycle and compare the qualitative behaviour under noise and delay to the superlattice model. We manage to verify the basic delay-induced dynamics in both systems. By further investigation of the controlled generic model we are able to reveal delay-induced multistability of periodic orbits and the fixed point. Homoclinic bifurcations, period-doubling and saddle-node bifurcations of limit cycles are found in accordance with Shilnikov's theorems.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit behandelt den Einfluß von Gauß'schem weißen Rauschen und zeitverzögerter Rückkopplungskontrolle auf den nichtlinearen Transport in einem Halbleiterübergitter. Die Systemparameter sind auf zwei verschiedene dynamische Bereiche beschränkt, wobei der Übergang von stationären zu laufenden Fronten der Elektronendichte entweder durch eine Hopf-Bifurkation oder eine globale Sattel-Knoten-Bifurkation auf einem Grenzzyklus stattfindet. Wir zeigen, dass Rauschen Schwingungen der Stromdichte induziert, die mit Frontenbewegungen in der Umgebung um den Fixpunkt unterhalb der Hopf-Bifurkation einhergehen. Während die deterministischen Zeitskalen nur gering vom Rauschen beeinflußt werden, nimmt die Regularität dieser Oszillationen mit steigender Rauschintensität ab. Dicht unterhalb der globalen Bifurkation wird die Dynamik des Systems hingegen stark durch das Rauschen beeinflußt. Es findet eine globale Änderung statt, die bewirkt, dass Ladungsträgerfronten durch das gesamte Bauteil laufen. In diesem Bereich ist das System anregbar. Wir bestätigen das Auftreten von Kohärenzresonanz, d. h. bei optimaler Wahl der Rauschintensität wird die Regularität maximal. Die charakteristischen Zeitskalen des Systems zeigen eine starke Abhängigkeit vom Rauschen, was die zugrunde liegende deterministische Konstellation widerspiegelt. Des Weiteren wenden wir eine zeitverzögerte Rückkopplungskontrolle an, die bisher hauptsächlich für die Kontrolle von rein zeitlichen, rauschinduzierten Oszillationen genutzt wurde. Wir zeigen, dass Kontrolle die Regularität von raumzeitlichen Mustern nicht nur verstärken oder abschwächen kann, sondern mit variierender Verzögerungszeit auch die Manipulation der Zeitskalen in beiden untersuchten Parameterbereichen ermöglicht. Durch die Wirkung der Kontrolle im rein deterministischen Modell ergeben sich Bifurkationen, die allein von der Zeitverzögerung induziert werden. Schließlich verwenden wir ein generisches Modell für eine Sattel-Knoten-Bifurkation, um dessen qualitatives Verhalten unter dem Einfluss von Rauschen und zeitverzögerter Rückkopplung mit dem des Übergittermodells zu vergleichen. Wir bestätigen das Auftreten der grundlegenden kontrollinduzierten Dynamik in beiden Systemen. Weitere Untersuchungen des kontrollierten generischen Modells offenbaren die Multistabilität zwischen unterschiedlichen periodischen Orbits und dem Fixpunkt. Entsprechend Shilnikovs Theorie treten homokline Bifurkationen, Periodenverdopplung und Sattel-Knotten-Bifurkation von Grenzzyklen auf.</dc:description>
+          <dc:date>2008-02-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1697</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17749</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17749</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1697/chitzanidi_ioanna.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

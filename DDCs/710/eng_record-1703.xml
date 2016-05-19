@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1703">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1703</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Mokotow - meeting point of culture and nature ; Urban Design Workshop 2007</dc:title>
+          <dc:creator>Roskamm, Nikolai</dc:creator>
+          <dc:creator>Pluta, Katarzyna</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Mokotow ist der Name eines Bezirks in Warschau. In Mokotow, an der Abbruchkante des Urstromtals der Weichsel, liegt das Gebiet des städtebaulichen Workshops 2007. Der Workshop wird einmal im Jahr im Rahmen der Kooperation zwischen dem Institut für Stadt- und Regionalplanung der Technischen Universität Berlin und der Architekturfakultät der Politechnika Warschau veranstaltet wird. Zum zweiten Mal in Folge werden hier die Ergebnisse des Workshops in der grauen Reihe des Institutes für Stadt- und Regionalplanung dokumentiert. Die Arbeiten zeigen eine kreative und intensive Annäherung und Auseinandersetzung mit den Realitäten und Potenzialen dieses exponierten Gebietes der polnischen Hauptstadt. Online im Universitätsverlag der TU Berlin erschienen</dc:description>
+          <dc:date>2008-03-05</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1703</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17255</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17255</dc:identifier>
+          <dc:identifier>978-3-7983-2071-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1703/Graue_Reihe_Heft_8_Urban_Design_Workshop_2007.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

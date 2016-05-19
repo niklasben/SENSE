@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:354">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:354</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Domain engineering and generic programming for parallel scientific computing</dc:title>
+          <dc:creator>Gerlach, Jens</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die Entwicklung von Software für wissenschaftliche Anwendungen, die auf dynamischen oder irregulären Gittern beruhen, ist mit vielen Problemen verbunden, da hier so unterschiedliche Ziele wie hohe Leistung und Flexibilität miteinander vereinbart werden müssen. Die vorliegende Dissertation geht diese Probleme folgendermaßen an: Zunächst werden die Ideen des domain engineering auf das Gebiet daten-paralleler Anwendungen angewandt, um wiederverwendbare Softwareprodukte zu entwerfen, deren Benutzung die Entwicklung konkreter Softwaresysteme auf diesem Gebiet beschleunigt. Hierbei wird eine umfassende Analyse datenparalleler Anwendungen durchgeführt und es werden allgemeine Anforderungen an zu entwickelnde Komponenten formuliert. In einem zweiten Schritt wird auf der Grundlage der gewonnen Kenntnisse und unter Benutzung der Ideen des generischen Programmierens die Janus Softwarearchitektur entworfen und implementiert. Das sich daraus ergebende konzeptionelle Gerüst und die C++-template Bibliothek Janus stellt eine flexible und erweiterbare Sammlung effizienter Datenstrukturen und Algorithmen für eine umfassende Klasse datenparalleler Anwendungen dar. Insbesondere werden finite Differenz- und finite Elementverfahren sowie datenparallele Graphalgorithmen unterstützt. Ein herausragender Vorteil einer generischen C++ Bibliothek wie Janus ist, dass ihre anwendungsorientierten Abstraktionen eine hohe Leistung liefern und dabei weder von Spracherweiterungen noch von nicht allgemein verfügbaren Kompilationstechniken abhängen. Die Benutzung von C++-Templates bei der Implementierung von Janus macht es sehr einfach, nutzerdefinierte Datentypen in die Komponenten von Janus zu integrieren, ohne dass dabei die Effizienz leidet. Ein weiterer Vorteil von Janus ist, dass es sehr einfach mit bereits existierenden Softwarepaketen kooperieren kann. Diese Dissertation beschreibt eine portable Implementierung von Janus für Architekturen mit verteiltem Speicher, die auf der standardisierten Kommunikationsbibliothek MPI beruht. Die Ausdruckskraft von Janus wird an Hand der Implementierung typischer Anwendungen aus dem Bereich des datenparallelen wissenschaftlichen Rechnens nachgewiesen. Die Leistungsfähigkeit der Komponenten von Janus wird bewertet, indem Janus-Applikationen mit vergleichbaren Implementierungen, die auf anderen Ansätzen beruhen, verglichen werden. Die Untersuchungen zur Skalierbarkeit von Janus-Applikationen auf einem Linux Clustersystem zeigen, dass Janus auch in dieser Hinsicht hohe Anforderungen erfüllt.</dc:description>
+          <dc:date>2002-11-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/354</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3491</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3491</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/354/gerlach_jens.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

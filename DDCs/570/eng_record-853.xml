@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:853">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:853</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Apoptoseinduktion in leukämischen Zellen durch Nucleosidanaloga</dc:title>
+          <dc:title xml:lang="eng">Induction of apoptosis by nucleoside analogues in leukemia cells</dc:title>
+          <dc:creator>Klöpfer, Antje</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Die Nucleosidanaloga Fludarabin (F-Ara-A) und Cladribin (2-CdA) werden zur Therapie von Leukämie-Erkrankungen eingesetzt. Die Substanzen wirken DNA-schädigend, hemmen die DNA-Reparatur und induzieren Apoptose. Obwohl die Substanzen bereits zur Therapie verwendet werden, war über die ausgelösten Apoptosesignalwege bisher wenig bekannt. Mitochondrialer- und Todesrezeptorsignalweg stellen die beiden Hauptapoptosesignalwege dar. Um diese detailliert untersuchen zu können, wurden FADD- und Caspase-8-defiziente, Bcl-2 überexprimierende bzw. Caspase-9 dn (dominant-negative) Zellen verwendet. Die Apoptoseinduktion durch Nucleosidanaloga wurde weder durch die Abwesenheit von FADD oder Caspase-8, noch durch die Blockierung des CD95/ Fas-Rezeptors beeinflusst. Jedoch war der Zelltod in Jurkat Bcl-2 überexprimierenden Zellen sowie Caspase-9 dn Zellen blockiert. Aus diesen Ergebnissen kann geschlussfolgert werden, dass Nucleosidanaloga-induzierte Apoptose unabhängig vom Todesrezeptorsignalweg über den mitochondrialen Signalweg verläuft. Dabei kommt es zur Freisetzung von Cytochrom c aus den Mitochondrien und zur Aktivierung von Caspase-9 und Caspase-3. Bei der Untersuchung des mitochondrialen Signalweges konnte interessanterweise festgestellt werden, dass der Zusammenbruch des mitochondrialen Membranpotentials in Jurkat Caspase-9 dn Zellen und in 3T9 Caspase-9 -/- Mausfibroblasten inhibiert war. Daten aus Experimenten mit 3T9 APAF-1 -/- Mausfibroblasten haben gezeigt, dass die Bildung des Apoptosom-Komplexes für den Zusammenbruch des mitochondrialen Membranpotentials und die Freisetzung von Cytochrom c essentiell ist. Diese Ergebnisse verdeutlichen, dass Caspase-9 an einer Amplifikationsschleife beteiligt ist, die über die Bildung des Apoptosom-Komplexes den Zusammenbruch des mitochondrialen Membranpotentials zur Folge hat. Weiterhin wurde die Position von Caspase-2 im mitochondrialen Signalweg durch die Verwendung von 3T9 Caspase-2 -/- Mausfibroblasten untersucht. Die Analyse der Caspaseaktivierung in 3T9 wt, APAF-1 -/-, Caspase-2 -/-, Caspase-9 -/- Mausfibroblasten zeigte, dass Caspase-2 Aktivierung abhängig von APAF-1/ Caspase-9 erfolgt und umgekehrt. Daher ist Caspase-2 offensichtlich in die in dieser Arbeit vorgestellte Amplifikationsschleife integriert und beeinflusst möglicherweise die Aktivierung von Caspase-9.</dc:description>
+          <dc:description xml:lang="eng">The adenine deoxynucleosides cladribine (2-CdA) and fludarabine (F-Ara-A) are DNA-damaging agents that interfere with DNA repair and induce apoptosis in lymphoid cells. Although both drugs are clinically used for the treatment of indolent lymphoproliferative diseases, the pathways of apoptosis induction remain largely unknown. The mitochondrial and the death receptor pathway are the main apoptosis pathways. To dissect the signaling pathways, Jurkat cells either deficient for FADD or caspase-8 or overexpressing Bcl-2 or a dominant negative (dn) mutant of caspase-9 were employed. Neither the deficiency of FADD or caspase-8 nor the interference with death receptor signaling by neutralizing anti-CD95/Fas antibodies affected cell death. In contrast, apoptosis induced by fludarabine and cladribine was blocked in Jurkat Bcl-2 overexpressing cells and Jurkat caspase-9 dn cells. Thus, it can be concluded that apoptosis induced by nucleoside analogues is independent from death receptor signaling, but rather follows the mitochondrial signaling pathway of cytochrome c release and subsequent processing of caspases-9 and -3. Interestingly, cytochrome c release and breakdown of the mitochondrial membrane potential was inhibited in caspase-9 dn Jurkat cells and in 3T9 caspase-9 -/- murine fibroblasts. Data from experiments with 3T9 APAF-1 -/- murine fibroblasts showed that formation of the apoptosome complex is necessary for breakdown of the mitochondrial membrane potential and cytochrome c release. This delineates a function for caspase-9 in an amplification loop via formation of the apoptosome complex and subsequent breakdown of the mitochondrial membrane potential. Furthermore 3T9 caspase-2 -/- cells were used to analyse the position of caspase-2 in the mitochondrial pathway. Caspase activation assays in 3T9 wt, APAF-1 -/-, caspase-9 -/- and caspase-2 -/- murine fibroblasts showed that activation of caspase-2 occurs in an APAF-1/caspase-9 dependent manner and vice-versa. Based on these results, it can be supposed that caspase-2 is integrated in the amplification loop described here and might influence the regulation of caspase-9.</dc:description>
+          <dc:date>2004-11-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/853</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8461</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8461</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/853/kloepfer_antje.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

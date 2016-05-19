@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:683">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:683</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Verkehrsabhängige Betriebsführung bei Stadtschnellbahnen</dc:title>
+          <dc:title xml:lang="eng">Traffic dependent management of rapid transit systems</dc:title>
+          <dc:creator>Grosse, Christine</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">In der Arbeit wurde ein Verfahren der verkehrsabhängigen Betriebsführung bei Stadtschnellbahnen entwickelt, welches auf wechselnde Fahrgastströme reagiert. Das Angebot der eingesetzten Fahrzeuge zum Transport der Fahrgäste wird hierbei kontinuierlich optimiert. Somit wird im Vergleich zum konventionellen Betrieb eine deutliche Erhöhung des Verkehrswirkungsgrades als Verhältnis der Verkehrsleistung (Personenkilometer pro Zeiteinheit) zur Betriebsleistung (Platzkilometer pro Zeiteinheit) erreicht. Basis des Verfahrens sind eine automatische Betriebsführung und eine permanente Erfassung der Zahl der Fahrgäste, die sich im Schnellverkehrssystem befinden.</dc:description>
+          <dc:date>2003-09-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/683</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6779</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6779</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/683/grosse_christine.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

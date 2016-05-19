@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3718">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3718</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Security Analysis of Femtocell-Enabled Cellular Network Architecture</dc:title>
+          <dc:title xml:lang="deu">Sicherheitsanalyse von Femtozellen-fähigen Mobiltelefonnetzwerk-Architekturen</dc:title>
+          <dc:creator>Borgaonkar, Ravishankar Bhaskarrao</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Consumption of mobile data traffic has been growing exponentially due to the popularity of smartphones and tablets. As a result, mobile network operators have been facing challenges to provide needed capacity expansion in their congested network. Therefore to reduce the load on the network, mobile network operators are adapting and deploying key data offloading technologies such as femtocells not only to boost their network capacity but also to increase indoor cellular coverage. These low cost devices interconnect a new femtocell network architecture to evolving telecommunication core network via standardized interface protocols. However, consequences of such integration of two architectures over the Internet together with an array of security threats that originating through a rogue femtocell have not fully analysed. In this thesis, we investigate security architecture of femtocell-enabled cellular network that facilitate integration of these two architectures by evaluating impact of compromised femtocells on the fundamental security aspects of cellular systems - integrity, confidentiality, authenticity, and availability. The goal of this research work is twofold; first to increase understanding of more feasible and disruptive attacks against both the end-users and the femtocell-enabled cellular communication architecture from a rogue femtocell, such that more efficient detection and mitigation techniques can be developed to improve the overall security architecture; and secondly to identify security weaknesses of the femtocell architecture from a system-design perspective.</dc:description>
+          <dc:description xml:lang="deu">Mobiler Datenverkehr hat aufgrund der Popularität von Smartphones und Tablet-Computern exponentiell zugenommen. Mobilfunknetzbetreiber müssen sich deshalb neuen Herausforderungen stellen, um die Kapazitäten der momentan ausgelasteten Netzwerke zu erweitern. Um die Last auf dem Netzwerk zu reduzieren werden von Netzbetreibern Technologien zum Auslagern von bestimmten Eckpunkten adaptiert und in Betrieb genommen. Dies geschieht in Form von so genannten Femtozellen, wobei diese nicht nur die Netzwerkkapazität, sondern auch die Indoor-Netzabdeckung erhöhen soll. Die kostengünstigen Geräte verbinden eine neue Femtozellennetzwerkarchitektur mit den sich weiterentwickelnden Telekommunikationskernnetzwerken mit Hilfe standardisierter Schnittstellenprotokolle. Die Konsequenzen der Integration dieser beiden Architekturen sowie einer Reihe von Sicherheitsbedrohungen durch bösartige Femtozellen wurden jedoch nicht ausreichend analysiert. In dieser Arbeit untersuchen wir die Sicherheitsarchitektur von Femtozell-fähigen Mobilfunknetzen durch die Evaluierung der Auswirkungen von kompromittierten Femtozellen auf die grundlegenden Sicherheitsaspekte Integrität, Vertraulichkeit, Authentizität und Verfügbarkeit. Das Ziel dieser Arbeit ist zweifältig. Zum einen soll die Arbeit das Verständnis von möglichen und zerstörenden Attacken von bösartigen Femtozellen gegen sowohl den Endbenutzer als auch gegen die Femtozellen-fähige Mobilfunkkommunikationsarchitektur erhöhen, so dass dadurch effizientere Detektierungs- und angriffsmildernde Techniken entwickelt werden können - dies soll die gesamte Sicherheitsarchitektur verbessern. Zum anderen sollen in dieser Arbeit die Sicherheitsschwachstellen der Femtozellenarchitektur aus der Systemdesignperspektive identifiziert werden.</dc:description>
+          <dc:date>2013-05-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3718</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39553</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39553</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3718/borgaonkar_ravishankar.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

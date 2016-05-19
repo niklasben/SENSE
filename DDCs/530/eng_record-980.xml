@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:980">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:980</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A Comparative Study of Source Substitution Methods</dc:title>
+          <dc:title xml:lang="deu">Vergleichende Untersuchungen über Ersatzquellenverfahren</dc:title>
+          <dc:creator>Zeitler, Berndt</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Zur Berechnung der Schallabstrahlung von schwingenden Strukturen dienen Ersatzquellenverfahren. Diese Verfahren platzieren in die Struktur Ersatzquellen von komplexer Quellstärke derart, dass die Normalschnelle auf der Oberfläche der Struktur nachgebildet wird. Vollständige Übereinstimmung der gegebenen mit der nachgebildeten Normalschnelle bedeutet, laut Kirchhoff, dass die Abstrahlung der Struktur und die der Ersatzquellen identisch sind. In dieser Arbeit werden drei Methoden zur Berechnung der Ersatzquellstärken untersucht. Die erste Methode, die analytische, die nur unter bestimmten Voraussetzungen möglich ist, gleicht dann der zweiten Methode, der Methode der kleinsten Fehler Quadrate. Numerisch gelöst, gleicht sie unter speziellen Voraussetzungen, der letzten dritten Methode, der Kollokations Methode. Kriterien werden für die Anzahl und Position der Randpunkte als auch für die Anzahl und Position der Quellpunkte im Inneren der Struktur gefunden, die garantieren, dass ein vorgegebener Fehler der abgestrahlten Leistung nicht überschritten wird. Zwei weitere Methoden, die Rand-Elemente Methode, die sich auch auf das Kirchhoffsche Integral stützt, sowie die Finite-Elemente Method, werden zum Vergleich herangezogen. Als Geometrie wird bei diesen Untersuchungen ein unendlich langer Zylinder mit dem Querschnitt eines Kreis-Segments gewählt. Auf dem Bogen hat es eine beliebige Normalschnellenverteilung, die durch Moden nachgebildet werden kann; seine Schenkel sind als schallhart angenommen. Diese Geometrie wurde gewählt, weil ihre Diskontinuitäten die Methoden fordert und weil sie eine Überprüfung der Resultate sowohl im hohen als auch im niedrigen Frequenzbereich zulässt, wo ihre Abstrahlcharakteristiken, mit den des analytisch lösbaren Zylinders mit Kreisquerschnitt ähnlich sind. Um die physikalischen von den methodischen Einflüssen trennen zu können, wird zuerst eine in eine unendliche Wand eingebaute ebene Platte betrachtet, die dann schrittweise gekrümmt wird bis zum geschlossenen Kreis aus dem letztlich ein Kreissegment herausgeschnitten wird. Es wird gefunden, dass die Krümmung nur eine Änderung der Richtcharakteristik bewirkt und keine der abgestrahlten Leistung. Die Abstrahleigenschaft von Moden mit Bäuchen an den Rändern und einer insgesamt geraden Anzahl von Halbwellen unterscheiden sich drastisch von allen anderen. Die einzelnen Methoden und Techniken werden letztendlich bezüglich der Komplexität (Programmieraufwand und Ansatzfunktionen), Stabilität und Grenzen (Matrizen-Eigenschaften, Frequenzbereich), Rechenzeit und Genauigkeit der Lösungen beurteilt. Die Kollokations Methode ist schnell, relative genau und einfach zu Programmieren, jedoch nicht so stabil wie die Methode der kleinsten Fehler-Quadrate. Letztere erfordert jedoch deutlich längere Rechenzeiten. Die Rand-Elemente Methode, ähnlich stabil und vielleicht etwas schneller, bietet jedoch geringere physikalische Aussagemöglichkeiten. Die längste Zeit beansprucht die Rechnung mit der Finite-Elemente Methode, sie liefert sehr gute Ergebnisse, allerdings nur wenn eine hohe Rechenleistung zur Verfügung steht.</dc:description>
+          <dc:date>2005-05-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/980</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9738</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9738</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/980/zeitler_berndt.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

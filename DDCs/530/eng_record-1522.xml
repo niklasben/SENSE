@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1522">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1522</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung des Interatomaren Coulomb-Zerfalls in schwach gebundenen Systemen</dc:title>
+          <dc:title xml:lang="eng">Investigation of the Interatomic Coulombic Decay in weakly bound systems</dc:title>
+          <dc:creator>Barth, Silko</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit widmet sich der quantitativen Betrachtung des Interatomaren Coulomb-Zerfalls (ICD). ICD ist ein nichtlokaler Autoionisationsprozess eines Innervalenzloches, der nur in schwach gebundenen, ausgedehnten Systemen unter Einbeziehung der Umgebung der ionisierten Stelle möglich ist. Mit der Methode der Photoelektronenspektroskopie ließ sich seine Effizienz in Neon-Clustern größenunabhängig zu 100% ermitteln. In unterschiedlich gemischten Clustern aus Neon und Argon konnte gezeigt werden, dass etwa jedes zweite bis vierte innervalenzionisierte Neonatom über heteroatomaren Ne-Ar-ICD relaxiert. Die charakteristische Schwingungsstruktur des Elektronensignals des Ne-Ar-ICD ermöglichte eine Abschätzung der Cluster-Temperatur auf etwa 40-50 K. In Analogie zum resonanten Auger-Zerfall konnte in großen Neon-Clustern erstmals resonanter ICD bei Anregungsenergien unterhalb der Ne 2s-Schwelle experimentell nachgewiesen werden. Für die Suche nach ICD in H-Brücken-gebundenen Systemen wurde eine Wasser-Cluster-Quelle konstruiert und in die Messapparatur integriert. Anschließend wurden Wasser-Cluster mit den Methoden der Ionen- und Elektronenspektroskopie untersucht und charakterisiert. Absorptionsmessungen an der Sauerstoff-K-Kante geben Hinweise auf eine eisförmige Struktur kleiner Cluster, während größere Cluster spektroskopische Eigenschaften von flüssigem Wasser, bzw. einer Eisoberfläche zeigen. Erstmalig wird die Verschiebung der Bindungsenergie des HOMO in Wasser-Clustern bezüglich des Wassermoleküls größenabhängig angegeben.</dc:description>
+          <dc:description xml:lang="eng">This work focuses on a quantitative description of the Interatomic Coulombic decay (ICD). ICD is a non-local autoionization process of an inner valence hole, which is only possible in weakly bound, extended systems by involving the environment of the ionized site. Photoelectron spectroscopy reveals a size independent ICD efficiency of 100% in neon clusters. In mixed clusters of neon and argon with different mixing ratios it turned out that every second to fourth neon atom decays via the heteroatomic Ne-Ar-ICD. The characteristic vibrational structure of the Ne-Ar-ICD electron signal allows an estimation of the cluster temperature to be 40-50 K. In analogy to resonant Auger decay for the first time the existence of resonant ICD has been shown experimentally in large neon clusters at excitation energies below the Ne 2s threshold. To extend the quest for ICD to H-bridge bonded systems a water cluster source was designed and integrated into the experimental apparatus. The clusters were characterized by means of ion and electron spectroscopy. Absorption measurements across the oxygen K-edge exhibit evidences of an ice-like structure of small water clusters while larger clusters show spectroscopic features of liquid water or an ice surface. For the first time the binding energy shift of the HOMO in water clusters relative to the molecule is reported as a function of cluster size.</dc:description>
+          <dc:date>2007-06-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1522</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15815</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15815</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1522/original_barth_silko_tex.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1522/barth_silko.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

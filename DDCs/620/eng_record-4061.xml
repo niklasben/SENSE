@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4061">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4061</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR II: Accident Analysis</dc:title>
+          <dc:creator>Thompson, Alex</dc:creator>
+          <dc:creator>Edwards, Mervyn</dc:creator>
+          <dc:creator>Wisch, Marcus </dc:creator>
+          <dc:creator>Adolph, Thorsten</dc:creator>
+          <dc:creator>Krusper, Aleksandra</dc:creator>
+          <dc:creator>Thomson, Robert </dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">For the assessment of vehicle safety in frontal collisions compatibility (which consists of self and partner protection) between opponents is crucial. Although compatibility has been analysed worldwide for years, no final assessment approach has been defined to date. Taking into account the European Enhanced Vehicle safety Committee (EEVC) compatibility and frontal impact working group (WG15) and the EC funded FP5 VC-COMPAT project activities, two test approaches have been identified as the most promising candidates for the assessment of compatibility. Both are composed of an off-set and a full overlap test procedure. In addition another procedure (a test with a moving deformable barrier) is getting more attention in today’s research programmes. The overall objective of the FIMCAR project is to complete the development of the candidate test procedures and propose a set of test procedures suitable for regulatory application to assess and control a vehicle’s frontal impact and compatibility crash safety. In addition an associated cost benefit analysis should be performed. The specific objectives of the work reported in this deliverable were: &#13;
+• Determine if previously identified compatibility issues are still relevant in current vehicle fleet &#13;
+o Structural interaction &#13;
+o Frontal force matching &#13;
+o Compartment strength in particular for light cars &#13;
+• Determine nature of injuries and injury mechanisms &#13;
+o Body regions injured o Injury mechanism &#13;
+ Contact with intrusion &#13;
+ Contact &#13;
+ Deceleration / restraint induced &#13;
+The main data sources for this report were the CCIS and Stats 19 databases from Great Britain and the GIDAS database from Germany. The different sampling and reporting schemes for the detailed databases (CCIS &amp; GIDAS) sometimes do not allow for direct comparisons of the results. However the databases are complementary – CCIS captures more severe collisions highlighting structure and injury issues while GIDAS provides detailed data for a broader range of crash severities. The following results represent the critical points for further development of test procedures in FIMCAR.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4061</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40612</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40612</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4061/FIMCAR_II_accident_analysis.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

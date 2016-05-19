@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:117">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:117</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung, technische Realisierung und Test von passiven planaren Höchstfrequenzkomponenten zur Teilchenbeschleunigung</dc:title>
+          <dc:title xml:lang="eng">Development, fabrication and test of planar structures for particle acceleration</dc:title>
+          <dc:creator>Merte, Rolf</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Teilchenbeschleuniger finden heute neben ihren klassischen Einsatzgebieten der Teilchen- und Nuklearphysik, für die sie ursprünglich entwickelt wurden, in vielen Bereichen des alltäglichen Lebens Verwendung. Aufgrund der umfangreichen Anwendungsmöglichkeiten und des damit verbundenen wirtschaftlichen Potentials wird eine neue, wirtschaftlichere Möglichkeit untersucht. Das Ziel dieser Arbeit ist die Entwicklung von kleinen, leichten, kompakten Beschleunigungsstrukturen, die direkt in den typischen Anwendungsgebieten eingesetzt werden können. Um die technologischen Grenzen konventioneller Beschleuniger zu überschreiten, werden für die beschleunigenden elektromagnetischen Felder erstmals Frequenzen gewählt, die im Bereich der Höchstfrequenztechnik bzw. der Mikrowellentechnik zu finden sind und zwar bei 29,986 GHz (R-Band) bzw. bei 91,392 GHz (W-Band). Die daraus resultierenden geringen geometrischen Strukturabmaße erfordern die Anwendung neuer moderner Fertigungstechnologien sowie planare Anordnungen. Es werden zwei Strukturen entwickelt, eine 7-zellige W-Band Struktur sowie eine 37-zellige R-Band Struktur. Neben feldtheoretischen Problemen werden ebenfalls fertigungstechnische und mechanische Fragen beantwortet. Dazu erfolgt eine Untersuchung von Technologien zur Herstellung planarer Strukturen unter dem Aspekt der Verfahrenspräzision, Verfügbarkeit und entstehender Kosten. Die Prototypen werden im meßtechnischen Teil der Arbeit in problemadaptiv entwickelten Meßaufbauten untersucht und so die über numerische Simulationen gefundenen Hochfrequenzparameter verifiziert. Die meßtechnische Seite wird durch ein Hochleistungsexperiment abgerundet, dessen Durchführung im Sommer 1999 im CERN, Genf, stattfand. Dieses Experiment stellt einen Meilenstein in der Entwicklung von planaren Strukturen dar, da zum ersten Male ihre Funktionsweise bewiesen wurde. Wie bei den Messungen mit kleiner Leistung, so wurden auch beim Hochleistungstest die simulierten Ergebnisse und Erwartungen bestätigt.</dc:description>
+          <dc:date>2000-11-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/117</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1124</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1124</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/117/merte_rolf.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

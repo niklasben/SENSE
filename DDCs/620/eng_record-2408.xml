@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2408">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2408</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Liner impedance modeling in the time domain with flow</dc:title>
+          <dc:title xml:lang="deu">Modellierung von überströmten akustischen Auskleidungen im Zeitbereich</dc:title>
+          <dc:creator>Richter, Christoph</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This work gives an introduction to the numerical modeling of locally reacting acoustic treatments. A time-domain impedance model and its implementation with a numerical method for Computational Aeroacoustics are presented. A special emphasis is put on the modeling of the flow effect on the impedance and the treatment of the related flow instability. First, the numerical method is described in detail including a variety of mathematical model equations, which are used in the present work. Boundary conditions and numerical approaches for the handling of arbitrary base flow fields and curvilinear meshes are presented as well. A method for the direct validation of a numerical solution by using the acoustic intensity is developed. It does not require an analytical solution. In a first validation, several benchmark problems from the literature, concerning the sound propagation in lined flow ducts and the radiation from such ducts, are considered. The almost perfect agreement of the current method for a large number of different problems verifies the correct implementation of the impedance model and the numerical method. Modal axisymmetric, two- and three-dimensional examples are covered. The effect of removing the flow instability is studied with these examples. An impedance eduction method is applied, using an optimization to obtain the model parameters of the extended Helmholtz resonator model from in-situ measurements with four different liner samples. All are found to be well described by the extended Helmholtz resonator model. The time-domain impedance eduction provides the whole frequency response of the impedance by one optimization. The impact of the numerical modeling on the resulting impedance is also studied. The results indicate a significant influence of reflections in the experiment on the resulting impedance, when using pressure amplitude data as input for the impedance eduction. Thereafter, reflection independent energy transmission and reflection coefficients are used as input for the impedance eduction. The link between the educed model parameters and the geometry of the liner is pointed out. The connection is used to calculate measurable parameters of the liner from known geometry parameters and the eduction result. The educed geometry is found to be in a reasonable range for most of the examples. An exception is found with few cases, where the resonant frequency of the liner is not covered by the range of frequencies that is considered in the experiment. Finally, the link between geometry and impedance model is used in three different applications. The application of a time-domain impedance model significantly reduces the problem size in these cases. Printed version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de).</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit gibt eine Einführung in die Modellierung von lokal reagierenden Wänden, sogenannten Linern. Ein Impedanzmodell zur Beschreibung eines Liners im Zeitbereich und dessen praktische Anwendung mit einem numerischen Verfahren für die Beschreibung der Schallausbreitung werden präsentiert. Besonderes Augenmerk wird auf die Modellierung von Strömungseinflüssen auf die resultierende Impedanz einer überströmten akustischen Auskleidung und die Vermeidung der mit dem Modell in Verbindung gebrachten Instabilität gelegt. Das numerische Verfahren wird zunächst detailliert beschrieben. Dabei wird auch auf die verschiedenen zur Anwendung gebrachten Modellgleichungen eingegangen. Des Weiteren werden Randbedingungen und numerische Herangehensweisen für die Verwendung von beliebigen mittleren Strömungszuständen und krummlinigen Koordinatensystemen aufgezeigt. Eine Methode zur direkten Überprüfung der numerischen Lösung mittels der akustischen Intensität, die ohne die Kenntnis einer analytischen Lösung auskommt, wird ebenfalls vorgestellt. Zur Überprüfung werden zahlreiche veröffentlichte Lösungen für Fragestellungen zur Schallausbreitung in akustisch ausgekleideten Strömungskanälen und die Abstrahlung von solchen Kanälen herangezogen. Die nahezu perfekte Übereinstimmung für viele der Beispiele verifiziert das Impedanzmodell und die numerischen Methode. Es werden modal axialsymmetrische, zwei- und dreidimensionale Problemstellungen von den Beispielen abgedeckt. Der Einfluss der verschiedenen Ansätze zur Unterdrückung der Strömungsinstabilität wird ebenfalls an diesen Beispielen untersucht. Es wird eine Methode zur Berechnung der Impedanz aus Messungen mit überströmten Dämpfern vorgestellt. Sie basiert auf einer Optimierung der Modellparameter des Impedanzmodells im Zeitbereich. Das Verfahren liefert den gesamten Frequenzgang der Impedanz mit einer Optimierung. Vier verschiedene akustische Auskleidungen werden untersucht. Bei allen wird der Frequenzgang sehr gut durch das verwendete, erweiterte Helmholtz-Resonator-Modell wiedergegeben. Bei einer Untersuchung der notwendigen Modellgenauigkeit für die Berechnung der Impedanz, wird ein relativ großer Einfluss von kleinen Reflexionen auf das Ergebnis bei der Verwendung von Druckamplituden als Vorgabe vom Experiment nachgewiesen. Daher werden in den folgenden Beispielen energetische Reflexions- und Transmissionsfaktoren, welche unabhängig von Reflexionen an den Rohrenden sind, zur Definition der Zielfunktion verwendet. Es werden Verbindungen zwischen den Modellparametern des Impedanzmodells und den spezifischen Abmessungen der akustischen Auskleidung hergestellt. Diese werden verwendet, um einer Messung zugängliche Parameter der Auskleidung aus den optimierten Modellparametern zu berechnen. Diese liegen für die vier Beispiele mit Ausnahme einiger Fälle, bei denen die Resonanzfrequenz des Helmholtz-Resonators nicht innerhalb des vermessenen Frequenzbereichs liegt, im erwarteten Bereich. Zuletzt werden noch Beispiele für die Anwendung der Impedanzmodellierung im Zeitbereich gegeben. Dabei wird Gebrauch von der Verknüpfung der Modellparameter zur Geometrie der Resonatoren gemacht. Das Impedanzmodell verringert die numerische Problemgröße dabei wesentlich. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2010-01-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-gzip</dc:format>
+          <dc:format>application/x-gzip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2408</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24039</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24039</dc:identifier>
+          <dc:identifier>978-3-7983-2185-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2408/original_Richter_Christoph_Cover.tgz</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2408/original_Richter_Christoph_Sources.tgz</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2408/a_richter_christoph_webversion.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2408/richter_christoph_text.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2408/richter_christoph_umschl.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

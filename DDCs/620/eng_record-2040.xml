@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2040">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2040</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwurf und Simulation aktiver EMV-Filter für dreiphasige drehzahlveränderbare Antriebe</dc:title>
+          <dc:title xml:lang="eng">Design and Simulation of Active AC EMI-Filters for Drives</dc:title>
+          <dc:creator>Schinkel, Marcus</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit untersucht, inwieweit durch den Einsatz aktiver EMV-Filter in dreiphasigen drehzahlveränderbaren Antriebssystemen Filtervolumen und damit auch Filterkosten im Vergleich zur etablierten passiven Filterung reduziert werden können. Anhand einer vergleichenden Betrachtung der Einfügedämpfung werden unterschiedliche aktive Filtertopologien bewertet. Im Ergebnis wird eine besonders geeignet erscheinende Topologie entworfen, realisiert und vermessen. Weiterhin werden Modelle aller Baugruppen des aktiven Filters sowie der Filterumgebung für den normativ beschriebenen Frequenzbereich von 10kHz bis 30MHz entwickelt. Mit deren Hilfe ist nicht nur die simulative Vorhersage des Verhaltens aktiver Filter möglich, sie fördern weiterhin auch das Verständnis elektronischer Zusammenhänge innerhalb des Filtersystems. Die Arbeit gliedert sich in vier Themengebiete. Nach einer Einführung der zugrunde gelegten Beeinflussungsmodelle sowie der verwendeten Messtechnik wird auf die von Antriebssystemen emitierten leitungsgeführten Störungen und die damit in Zusammenhang stehenden Problemstellungen eingegangen. Mit diesem Verständnis der Grundlagen werden die Eigenschaften unterschiedlicher Lösungsansätze diskutiert, wobei der Fokus auf dem vergleichsweise jungen Forschungsgebiet der aktiven EMV"=Filterung liegt. Diese Betrachtungen führen zur Auswahl einer aktiven EMV-Filtertopologie, auf die im weiteren Verlauf der Arbeit näher eingegangen wird. Mit der Modellierung der Baugruppen dieser aktiven Filtertopologie und der Filterumgebung wird ein wesentlicher Inhalt der Arbeit vorgestellt. Dabei wird auf die nachvollziehbare Parametrisierung der Ersatzbauteile anhand von Messungen eingegangen. Die somit erlangten Kenntnisse des Verhaltens aller relevanten Baugruppen stellen die Basis für die Betrachtungen zum Filterentwurf dar. Abschließend wird das elektrische Verhalten eines entsprechend ausgelegten aktiven Filters mittels Messung aber auch Simulation charakterisiert und bewertet.</dc:description>
+          <dc:description xml:lang="eng">Active EMI-filters for attenuating radio frequency interferences (RFI) in drives have been discussed for years. Several research projects have shown the potential of active EMI-filters to reduce cost, volume and weight while increasing simultaneously the filter performance. However, the application of active EMI-filters has been limited to a few very specific applications. In this work based on a detailed feasibility study of possible filter configurations a topology called Common-Mode-Voltage-Compensator is analyzed in detail. All components of this topology are modelled in order to perform a circuit simulation in the EMI frequency range. The results of the simulations are confirmed by measurements. Simulation enables a deeper view on the coherences between component and system behavior. With this knowledge it is possible to establish design considerations for all components of the Common-Mode-Voltage-Compensator. Finally the achieved filter-performance of a test setup is characterized by measurements and discussed.</dc:description>
+          <dc:date>2009-02-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2040</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21220</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21220</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2040/schinkel_marcus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

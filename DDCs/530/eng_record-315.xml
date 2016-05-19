@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:315">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:315</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Current filamentation in doped GaAs corbino disks</dc:title>
+          <dc:title xml:lang="deu">Stromfilamente in dotierten GaAs-Corbinoscheiben</dc:title>
+          <dc:creator>Schwarz, Georg</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Diese theoretische Arbeit beschäftigt sich mit der Musterbildung beim Stromtransport in dünnen dotierten GaAs-Filmen mit zwei konzentrischen Ringkontakten, sog. Corbinoscheiben&lt;. Experimentell war es kürzlich gelungen, den Stromfluß in solchen Proben mittels eines neuentwickelten Verfahrens ortsaufgelöst abzubilden. Dabei waren ein oder mehrere Kanäle hoher Stromdichte, Stromfilamente genannt, in dem ansonsten niedrigleitenden Gebiet zwischen den beiden Kontakten gefunden worden. Ein Ziel der vorliegenden Arbeit ist die Untersuchung der Bildungsdynamik dieser Strukturen, die in den Messungen bislang nicht zugänglich war. Dazu werden unter Einbeziehung eines Modells für den Tieftemperatur-Stoßionisationsdurchbruch in GaAs die klassischen Halbleitertransportgleichungen auf einem räumlich zweidimensionalen Grundgebiet numerisch gelöst. Es zeigt sich dass, unabhängig von der Richtung der angelegten Spannung, sich zunächst eine radialsymmetrische Elektronendichtefront vom mittleren Kontakt her ausbreitet, die dann in fingerförmige Strukturen aufbricht. Jeder dieser Streamer bildet nach dem Erreichen der äußeren Elektrode ein Präfilament. Auf Grund der globalen Kopplung über die externe Beschaltung kommt es zu einem Wettbewerb zwischen den Präfilamenten, aus dem eines (oder einige wenige) als vollentwickeltes Filament hervorgeht, während die übrigen rekombinieren. Der Ausbreitungsmechanismus der Front, deren Geschwindigkeit mehr als eine Größenordnung über der Driftgeschwindigkeit der einzelnen Ladungsträger liegt, wird herausgearbeitet. Er beruht wesentlich auf einer Abschirmung des elektrischen Feldes durch mittels Stoßionisation erzeugte freie Elektronen sowie auf der Geometrie der Probe. Es wird gezeigt, daß sich das verwendete Halbleitermodell formal auf das Standard-Streamermodell für Gase reduzieren lässt, was die hohe Ähnlichkeit zu den in diesen Systemen beobachteten Phänomenen erklärt. Beim Anlegen einer Spannungsrampe kommt es zur aufeinanderfolgenden spontanen Entstehung mehrerer Filamente; das System zeigt Multistabilität und Hysterese in der Kennlinie in guter Übereinstimmung zu den experimentellen Ergebnissen. Unter dem Einfluß eines externen senkrechten Magnetfeldes wird eine Verkrümmung der Streamer in Richtung der Lorentzkraft beobachtet.</dc:description>
+          <dc:description xml:lang="eng">This theoretical work deals with pattern formation in charge transport through thin doped GaAs films with two concentric ring contacts, so-called Corbino disks. Recently, the current flow through such samples had been visualized experimentally using a newly developed spatially resolved measurement technique. One or several channels of high current density between the two contacts, known as current filaments, were found embedded in the low-conducting rest of the sample. One aim of this work is the investigation of the nucleation dynamics of those structures, which so far was not accessible experimentally. Making use of a model for the low temperature impact ionization breakdown in GaAs the classical semiconductor transport equations are solved numerically on a two-dimensional spatial domain. An initial radially symmetric electron density front is found to expand from the central contact, regardless of the polarity of the applied bias, and then break up into finger-like structures. Upon reaching the outer electrode, each of those streamers forms a pre-filament. Due to the global coupling via the external circuit a process of competition occurs among the pre-filaments, one (or a small number) of which emerges as a fully developed filament, whereas the remaining ones recombine. The propagation mechanism of the front, whose velocity is more than one order of magnitude higher than the drift velocity of a single carrier, is being resolved. It essentially depends on the screening of the electric field by free electrons produced through impact ionization as well as on the geometry of the sample. It is shown that the semiconductor model can formally be reduced to the standard streamer model in gases, which explains the high similarity to phenomena observed in those systems. Applying a voltage ramp several filaments spontaneously form one after another; the system exhibits multistability and hysteresis in the current-voltage characteristic, in good agreement with experimental results. Under the influence of an external perpendicular magnetic field a twisting of the streamers in the direction of the Lorentz force is observed.</dc:description>
+          <dc:date>2001-02-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/315</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3100</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3100</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/315/schwarz_georg.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

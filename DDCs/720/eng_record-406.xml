@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:406">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:406</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die Zeichnungen im Codex Destailleur D (HDZ 4151) der Kunstbibliothek Berlin - Preußischer Kulturbesitz zm letzten Projekt Antonio da Sangallos des Jüngeren für den Neubau von St. Peter in Rom</dc:title>
+          <dc:title xml:lang="eng">The drawings in the Codex Destailleur D (HDZ 4151) of the Kunstbibliothek Berlin - Preußischer Kulturbesitz regarding the last project of Antonio da Sangallo the Younger for the new construction of St.-Peter's in Rome</dc:title>
+          <dc:creator>Kulawik, Bernd</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">Die Zeichnungen zum letzten Projekt Antonio da Sangallos des Jüngeren für den Neubau von St. Peter in Rom im Codex Destailleur D (HDZ 4151) der Berliner Kunstbibliothek - Preußischer Kulturbesitz erweisen sich als detaillierteste Zeugnisse dieses umfangreichen Bauvorhabens. Sie entstanden überwiegend nach Vorlagen aus dem Umkreis des Architekten Anfang der 1540er Jahre vor Ort im Rahmen eines umfangreicheren Unternehmens zur Dokumentation antiker stadtrömischer Großbauten sowie zeitgenössischer Architektur, dessen Ergebnis der Berliner Codex sowie weitere Blätter in Wien, New York, Stockholm und London sind. Anhand der Zeichnungen zum St.-Peter-Projekt lassen sich nicht nur weit reichende Aufschlüsse über Sangallos Absichten hinsichtlich der Gestaltung und Ausführung selbst kleinster Details gewinnen, sondern ebenso über die Arbeitsteilung während des Planungs- und Ausführungsprozesses innerhalb der Fabbrica di San Pietro, die durch hier erstmals publizierte Bauunterlagen aus dem Archivio storio der Reverendissima Fabbrica di San Pietro in Vaticano bestätigt und ergänzt werden. Sie ermöglichen es auch, eine Identifikation des bisher nur als 'Anonymus Destailleur (D)' bekannten Zeichners vorzuschlagen. Aufgrund ihrer Detailgenauigkeit und ihrer rekonstruierbaren Stellung im Planungs- und Baugeschehen vermitteln die Zeichnungen, welche die Planungen für die tatsächliche Bauausführung und nicht nur für das erhaltene Holzmodell dokumentieren, sowohl Erkenntnisse über eines der bedeutendsten Bauvorhaben der Renaissance selbst, als auch - in wohl einzigartiger Weise - über den weit fortgeschrittenen Entwicklungsstand architektonischer Planungs- und Darstellungsmethodik sowie den Wissenstransfer zwischen Architekt und Ausführenden im Sangallo-Umkreis.</dc:description>
+          <dc:date>2002-08-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/406</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4014</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4014</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/406/kulawik_bernd.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

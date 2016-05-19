@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2722">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2722</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Local Evaluation of Policies for Discounted Markov Decision Problems</dc:title>
+          <dc:title xml:lang="deu">Lokale Evaluierung von Strategien für diskontierte Markov-Entscheidungs-Probleme</dc:title>
+          <dc:creator>Tuchscherer, Andreas</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">Providing realistic performance indicators of online algorithms for a given online optimization problem is a difficult task in general. Due to significant drawbacks of other concepts like competitive analysis, Markov decision problems (MDPs) may yield an attractive alternative whenever reasonable stochastic information about future requests is available. However, the number of states in MDPs emerging from real applications is usually exponential in the original input parameters. Therefore, the standard methods for analyzing policies, i.e., online algorithms in our context, are infeasible. In this thesis we propose a new computational tool to evaluate the behavior of policies for discounted MDPs locally, i.e., depending on a particular initial state. The method is based on a column generation algorithm for approximating the total expected discounted cost of an unknown optimal policy, a concrete policy, or a single action (which assumes actions at other states to be made according to an optimal policy). The algorithm determines an $\varepsilon$-approximation by inspecting only relatively small local parts of the total state space. We prove that the number of states required for providing the approximation is independent of the total number of states, which underlines the practicability of the algorithm. The approximations obtained by our algorithm are typically much better than the theoretical bounds obtained by other approaches. We investigate the pricing problem and the structure of the linear programs encountered in the column generation. Moreover, we propose and analyze different extensions of the basic algorithm in order to achieve good approximations fast. The potential of our analysis tool is exemplified for discounted MDPs emerging from different online optimization problems, namely online bin coloring, online target date assignment, and online elevator control. The results of the experiments are quite encouraging: our method is mostly capable to provide performance indicators for online algorithms that much better reflect observations made in simulations than competitive analysis does. Moreover, the analysis allows to reveal weaknesses of the considered online algorithms. This way, we developed a new online algorithm for the online bin coloring problem that outperforms existing ones in our analyses and simulations.</dc:description>
+          <dc:description xml:lang="deu">Das Bestimmen realistischer Indikatoren für die Güte von Online-Algorithmen für gegebene Online-Optimierungsprobleme ist eine schwierige Aufgabe. Bisher übliche Ansätze, wie die kompetitive Analyse, weisen erhebliche Nachteile auf. Sofern stochastische Informationen über zukünftige Anfragen zur Verfügung stehen, könnten Markov-Entscheidungs-Probleme (MPDs) eine geeignete Alternative darstellen. Da jedoch die Anzahl an Zuständen in MDPs, die aus praktischen Anwendungen hervorgehen, üblicherweise exponentiell in den ursprünglichen Eingabeparametern ist, sind Standardverfahren zur Analyse von Strategien bzw. Online-Algorithmen nicht anwendbar. In dieser Arbeit wird ein neues algorithmisches Verfahren zur lokalen Evaluierung der Güte von Strategien für diskontierte MDPs vorgestellt. Der Ansatz basiert auf einem Spaltengenerierungsalgorithums zur Approximation der gesamten erwarteten diskontierten Kosten einer unbekannten optimalen Strategie, einer gegebenen Strategie oder einer einzelnen Entscheidung. Der Algorithmus bestimmt eine $\varepsilon$-Approximation, indem lediglich ein relativ kleiner lokaler Teil des gesamten Zustandsraumes untersucht wird. Es wird gezeigt, dass die Anzahl der zur Approximation erforderlichen Zustände unabhängig von der Gesamtzahl an Zuständen ist. Die berechneten Approximationen sind normalerweise deutlich besser als die theoretische Schranken, die andere Ansätze liefern. Neben dem Pricing-Problem wird die Struktur der linearen Programme untersucht, die in der Spaltengenerierung auftreten. Darüber hinaus werden verschiedene Erweiterungen des Algorithmus vorgeschlagen und analysiert. Diese zielen darauf ab, gute Approximationen schnell berechnen zu können. Das Potential des Verfahrens wird beispielhaft anhand von diskontierten MDPs untersucht, die aus Online-Optimierungsproblemen hervorgehen. Bei diesen handelt es sich um das Bin-Coloring-Problem, ein Terminvergabe-Problem und ein Aufzugssteuerungs-Problem. Das Verfahren ist zumeist in der Lage, Indikatoren für die Güte von Online-Algorithmen zu bestimmen, die Beobachtungen aus Simulationen deutlich besser widerspiegeln als die kompetitive Analyse. Außerdem lassen sich Schwachstellen der betrachteten Online-Algorithmen aufdecken. Dadurch konnte ein neuer Online-Algorithmus für das Bin-Coloring-Problem entwickelt werden, der auch in Simulationen besser abschneidet als bisher existierende Algorithmen.</dc:description>
+          <dc:date>2010-12-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2722</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28752</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28752</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2722/tuchscherer_andreas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2958">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2958</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Detection of Smartphone Malware</dc:title>
+          <dc:title xml:lang="deu">Erkennung von Schadsoftware für Smartphones</dc:title>
+          <dc:creator>Schmidt, Aubrey-Derrick</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Due to technological progress, mobile phones evolved into technically and functionally sophisticated devices called smartphones. Providing comprehensive capabilities, smartphones are getting increasingly popular not only for the targeted users but all. Since 2004, several malwares appeared targeting these devices. General countermeasures to smartphone malwares are currently limited to signature-based anti-virus scanners which efficiently detect known malwares, but they have serious shortcomings with new and unknown malwares creating a window of opportunity for attackers. As smartphones become a host for sensitive data and applications, extended malware detection mechanisms not basing on signatures are necessary complying with the resource constraints of current mobile devices. In this work, we tackle the field of smartphone malware. We give a clear definition on what a smartphone actually is since an industry standard does not exist. For understanding the threat of malwares targeting smartphones, we present an updated list including all published malwares that were recognized by anti-virus companies until the end of 2010. We introduce the fields of dynamic and static analysis. In the field of dynamic analysis, a monitoring system is introduced gathering behavior and system-based information that are processed by a remote system using machine learning for anomaly detection. Furthermore, a monitoring and detection architecture for linux-based smartphones is presented which is used to trace execution of binaries for extracting invoked system calls. In the field of static analysis, we discuss its applicability to the domain of different smartphone platforms, namely Symbian OS and Android. In both cases, function and system calls are used that are extracted from binaries in a static manner. Results of the analyses are promising and showed competitive character in comparison with standard state-of-the-art learning algorithms, such as Naive Bayes.</dc:description>
+          <dc:description xml:lang="deu">Aufgrund des technologischen Fortschritts haben sich klassische Mobilfunkgeräte zu mobilen Computern entwickelt, welche innovative Techniken und Funktionen aufweisen. Aufgrund dieser Merkmale steigt der Verbreitungsgrad der Smartphone genannten Geräte kontinuierlich, wobei das Interesse nicht nur bei gewünschten Nutzergruppen gestiegen ist; seit dem Jahr 2004 konnte ein starker Anstieg an Schadsoftware für Smartphones identifiziert werden. Aktuelle Gegenmaßnahmen zu Schadsoftware für Smartphones beschränken sich auf Signatur-basierte Verfahren, welche in der Lage sind, bekannte Schadsoftware effizient zu erkennen. Unbekannte Schadsoftware kann aufgrund der fehlenden Signatur aber nicht erkannt werden, was wiederum ein Zeitfenster für schadhafte Aktionen öffnet. Aufgrund der steigenden Bedeutung der Smartphones und der darauf gespeicherten Daten für die jeweiligen Nutzer, ist es erforderlich, die Möglichkeit neuer signaturloser Ansätze, welche unbekannte Schadsoftware für Smartphone-basierte Umgebungen erkennen, zu untersuchen. In dieser Arbeit betrachten wir das Forschungsfeld der Smartphone-basierten Schadsoftware. Wir geben eine klare Definition des Begriffs Smartphone, da es hierzu keine einheitliche Meinung, noch einen gemeinsamen Industriestandard gibt. Um die Gefahr von Schadsoftware für Smartphones besser nachvollziehen zu können, präsentieren wir zudem eine Zusammenstellung aller veröffentlichten Schadsoftware bis zum Ende des Jahres 2010 gefunden wurden. Das Jahr 2008 stellt hierbei die Hochzeit der Smartphone Malware dar. Unsere vorgestellten signaturlosen Ansätze basieren auf Methoden aus dem Feld der statischen und dynamischen Analyse. In dem Feld der dynamischen Analyse stellen wir ein System vor, das Verhaltens- und System-basierte Informationen sammelt, welche auf einem entfernten System mit Hilfe von Verfahren des Maschinellen Lernens im Sinne der Anomalieerkennung verarbeitet werden. Diesem System führte zu einer allgemeineren Architektur zur Überwachung von Linux-basierten Smartphones, welche wir nutzen, um Systemaufrufe aus Binärdateien zu extrahieren. Die Systemaufrufe wiederum werden genutzt, um Schadsoftware von normaler Software zu unterscheiden, welches wir in einem Baum-basierten Ansatz beschreiben. Neben den Ansätzen der dynamischen Analyse diskutieren wir die Anwendbarkeit von statischer Analyse auf das Feld der Schadsoftwareerkennung in Smartphoneumgebungen, wobei Symbian OS und Android als Beispielplattformen dienen. In beiden Fällen extrahieren wir auf statische Art und Weise Funktions- und Systemaufrufe aus ausführbarem Code, um diese zu analysieren. Die Analysen geben Rückschlüsse auf die Absichten der untersuchten Datei, wobei die erzielten Ergebnisse vielversprechend sind.</dc:description>
+          <dc:date>2011-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2958</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31505</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31505</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2958/schmidt_aubrey.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

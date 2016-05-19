@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2044">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2044</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Modeling the European Natural Gas Market - Static and Dynamic Perspectives of an Oligopolistic Market</dc:title>
+          <dc:title xml:lang="deu">Die Modellierung des europäischen Erdgasmarktes - Statische und dynamische Betrachtungen eines oligopolistischen Marktes</dc:title>
+          <dc:creator>Holz, Franziska</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">The European natural gas market is characterized by an oligopolistic supply structure with mostly external suppliers, often combined with oligopolistic wholesale markets in the European countries. Transport infrastructure (pipeline, liquefied natural gas (LNG) facilities) is essential in the determination of trade flows. We use equilibrium modeling in the complementarity format to analyze this market. Two different models with distinct ways of including the transport constraints are presented and used. We first describe the static GASMOD model that represents the European market with a double marginalization structure. Bilateral capacity constraints of transport limit the trade flows between each pair of countries. Simulation runs with the static GASMOD model show that the security of European natural gas supplies can be ensured with a diversified import structure. LNG plays an important role because it increases the number of players in the European market, thereby reducing the market power and potential dominance of other players such as Russia. The static model is then extended to the GASMOD-Dynamic model, where investment in the transport infrastructure is included. The infrastructure is represented by a network graph and is used by both market stages, exports and wholesales. Investments are chosen in a welfare optimal way with a net present value approach. Exemplary model runs with a small data set show that the existing transport capacity between European countries is considerably more constraining than the import links into Europe.</dc:description>
+          <dc:description xml:lang="deu">Der europäische Erdgasmarkt ist durch eine oligopolistische Anbieterstruktur gekennzeichnet. Desweiteren sind viele Großhandelsmärkte in Europa ebenfalls oligpolistisch strukturiert. Die Transportinfrastruktur (Pipelines, Flüssiggasanlagen) bestimmt maßgeblich die Erdgasflüsse. Wir verwenden die Gleichgewichtsmodellierung im Komplementaritätsformat, um diesen Markt zu analysieren. Zwei verschiedene Modelle mit unterschiedlichen Darstellungen der Transportbeschränkungen werden vorgestellt und verwendet. Zunächst beschreiben wir das statische GASMOD-Modell, in dem der europäische Markt mit doppelter Marginalisierung abgebildet wird. Die Transportbeschränkungen auf den Handelsflüssen werden mit bilateralen Kapazitätsgrenzen zwischen jedem Länder- paar eingefügt. Simulationen mit dem GASMOD-Modell zeigen, dass die europäische Versorgungssicherheit durch diversifizierte Importbezüge sichergestellt werden kann. Das zunehmende Angebot von Flüssiggas spielt hierbei eine wichtige Rolle, da es die Anzahl der Anbieter auf dem europäischen Markt erhöht und dadurch die Marktmacht anderer Anbieter, z.B. Russlands, beschränkt. Das statische Modell wird dann erweitert zum dynamischen GASMOD-Dynamic-Modell, welches Investitionen in die Transportinfrastruktur erlaubt. Die Infrastruktur wird in einem Netzgraphen abgebildet und wird von beiden Marktstufen genutzt, den Exporten und den Großhandelsflüssen. Die Investitionen werden wohlfahrtsoptimierend durch die Optimierung des Gegenwartswertes ermittelt (NPV-Ansatz). Beispielhafte Modellsimulationen mit einem kleinen Datensatz zeigen, dass die bestehende Transportkapazität zwischen den europäischen Ländern deutlich beschränkender ist als die Importverbindungen nach Europa.</dc:description>
+          <dc:date>2009-02-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2044</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21490</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21490</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2044/original_holz_franziska.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2044/holz_franziska.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

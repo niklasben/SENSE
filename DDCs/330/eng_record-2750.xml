@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2750">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2750</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Möglichkeiten leistungsorientierter Vergütung von nicht angestellten Ärzten im stationären Sektor : eine Prozesskostenrechnung am Beispiel von Varizenpatienten</dc:title>
+          <dc:title xml:lang="eng">Performance-based payment of contract physicians in hospitals :  an activity-based costing approach using the example of varicose vein patients</dc:title>
+          <dc:creator>Weid, Sabrina</dc:creator>
+          <dc:creator>Geissler, Alexander</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">In welchem Umfang ein Ärztemangel in Deutschland vorliegt ist Gegenstand zahlreicher Diskussionen. Unbestritten ist, dass ländliche Regionen insbesondere in der ambulanten Versorgung einer teilweise dramatischen Unterversorgung gegenüberstehen, während in urbanen Regionen das Kontingent an Praxissitzen ausgeschöpft ist. Ein vergleichbarer Trend lässt sich auch im stationären Sektor erkennen, weswegen Krankenhäuser neben dem klassischen Angestelltenverhältnis neue Beschäftigungs-formen bzw. Kooperationsverhältnisse mit bereits niedergelassenen Fachärzten ausloten, um Nachfragespitzen zu decken und Fachkompetenz einzukaufen. Dabei stellen sich zahlreiche Fragen - von rechtlichen Rahmenbedingungen bis hin zur leistungsorientieren Vergütung - die in der vorliegenden Arbeit aufgegriffen und anhand eines realen Fallbeispiels diskutiert werden. Im Mittelpunkt der Arbeit steht eine exemplarische Prozesskostenrechnung, mit deren Hilfe die Ertragsanteile eines im Krankenhaus tätigen Honorararztes an der DRG-Fallpauschale aufwandsgemäß ermittelt werden können. Dies ist für die Kalkulation einer honorarärztlichen Vergütung unerlässlich. Im Ergebnis zeigt sich, dass Kooperationen auf Honorarbasis sowohl für das Krankenhaus als auch für den niedergelassenen Facharzt als profitabel eingestuft werden können. Vor diesem Hintergrund scheint es möglich, dass Kooperationsverhältnisse zukünftig zunehmen. Dies könnte helfen, die Sektorengrenzen zwischen ambulanter und stationärer Versorgung zu überwinden, indem die doppelte Facharztversorgung in Krankenhäusern und Praxen verringert wird. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen</dc:description>
+          <dc:description xml:lang="eng">A great deal of discussion has taken place about the extent to which Germany is currently experiencing a shortage of physicians. The undersupply of health professionals in rural areas, however, is undisputed and, in some cases, dramatic. This stands in stark contrast to the oversupply of physicians in private practice in urban areas of this country. A similar trend is observable in hospitals across Germany, and has led to the implementation of various models testing new forms of employment and cooperation with contract physicians. Common to all of these models is their aim to purchase medical expertise and cover peaks in demand. This situation raises numerous questions, ranging from the appropriateness of different legal frameworks to the feasibility of introducing performance-based reimbursement. The present paper discusses these questions based on a real case study and employing an activity-based accounting approach. This makes it possible to calculate which share of a given case-fee payment a contract physician should receive to reflect accurately the work he or she has performed. Our findings show that contract-based employment can be profitable for both hospitals and contract physicians. It appears likely that these forms of cooperation will become increasingly common, potentially bridging the gap between ambulatory and hospital care that has characterized the health system in Germany for the better part of a century. Online-Version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de)</dc:description>
+          <dc:date>2011-01-13</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2750</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29220</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29220</dc:identifier>
+          <dc:identifier>978-3-7983-2279-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2750/WPS_Vol5_DRAFT_AG_120110_ag.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

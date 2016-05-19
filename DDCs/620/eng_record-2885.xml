@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2885">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2885</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Instationäre Berechnung der Lachenverdunstung mittels eines Grenzschichtverfahrens</dc:title>
+          <dc:title xml:lang="eng">Transient calculation of the evaporation out of a liquid pool using a boundary layer method</dc:title>
+          <dc:creator>Habib, Abdelkarim</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen von Auswirkungsbetrachtungen, wie sie bei Sicherheitsberichten oder Risikoanalysen erforderlich sind, sind oft Szenarien mit einer Lachenverdunstung von brennbaren und/oder toxischen Flüssigkeiten zu untersuchen. Wesentliche Einflussgrössen für die Konzentrationsverteilung in der Umgebung sind der Verdunstungsmassenstrom, das Lachenwachstum und die Gasausbreitung. Bisher werden für diese Berechnungen mehrere Modelle mit unterschiedlicher Genauigkeit miteinander gekoppelt. In dieser Arbeit wird ein instationäres turbulentes Grenzschichtverfahren vorgestellt, das mit dem Ziel entwickelt wurde, bei relativ geringem Rechenaufwand eine genauere Berechnung des Verdunstungsmassenstromes zu ermöglichen, sowie ausgehend von der Freisetzung aus der Lache direkt die Konzentrationsverteilung in der Umgebung ermitteln zu können. Im Vergleich zu in der Literatur veröffentlichten und eigenen experimentellen Untersuchungen zeigt sich, dass das hier entwickelte Grenzschichtverfahren bei der Berechnung des Verdunstungsmassenstromes mindestens auf dem Niveau der besten empirischen Modelle liegt. Die instationäre Formulierung der Grenzschichtgleichungen ermöglicht zudem eine zeitabhängige Betrachtung der in der Lache herrschenden Temperaturen, des Massenstromes sowie der Konzentrationsverteilung in der Umgebung. Des weiteren ermöglicht das instationäre Grenzschichtverfahren die direkte Bestimmung der explosionsfähigen Masse in der Gaswolke über der Lache und die Berechnung des Massenstromes bei der Verdampfung von siedenden Flüssigkeiten mit anschließender Unterkühlung und Übergang zur Verdunstung.</dc:description>
+          <dc:description xml:lang="eng">Consequence analyses, which are necessary for safety reports or risk analyses often require investigations oft he evaporation of flammable and / or toxic liquids out of a liquid pool. The main parameters influencing the gas concentration in the vicinity of the pool are the evaporation rate, the growth of the pool and the gas dispersion. Up to date, different models of different accuracy are combined to calculate the gas dispersion. The aim of this work is to provide a more precise prediction tool, combining the source term and the dispersion modelling. The boundary layer theory in a transient formulation was combined with a suitable turbulence model to compute the evaporation rate and the concentration profiles above and leeward of the liquid pool. These profiles give information in higher precision about the gas dispersion in the vicinity of the pool. Compared to published experimental data und data obtained from own open air experiments, the boundary layer method presented shows a very good accuracy for the prediction of the evaporating mass flow. Compared to empirical models the more comprehensive modelling leads to results at least as good as those obtained with the best empirical models. In addition the use of a transient boundary layer method allows to calculate the liquid temperature in the pool, the mass flow and the gas concentration in the air as a function of time. Furthermore the mass of explosive atmosphere in the gas cloud can be deducted directly from the concentration profiles above and leeward of the pool resulting from solving the boundary layer equations. The transient character of the presented method enables us to calculate the evaporating mass flow for boiling liquids and for the transition to non boiling liquid due to the time dependent temperature loss.</dc:description>
+          <dc:date>2011-05-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2885</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30507</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30507</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2885/habib_abdelkarim.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

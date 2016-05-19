@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2520">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2520</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Visuelle Beurteilung von kleinen und großen Farbunterschieden und Beschreibung mit Farbabstandsformeln</dc:title>
+          <dc:title xml:lang="eng">Visual Assessment of Small and Large Colour Differences and Description with Colour Difference Formulas</dc:title>
+          <dc:creator>Kittelmann, Philipp</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im experimentellen Teil dieser Arbeit wurden durch 40 Probanden visuelle Farbschwellen ermittelt und große Farbunterschiede bewertet. Die Experimente wurden für Körperfarben bei einer Beleuchtung mit der Normlichtart D65, für die Probengröße von 2° und für aneinander grenzende Farbmuster durchgeführt. Die CIELAB-, die CIEDE2000- und andere Farbabstandsformeln wurden geprüft. Die Farbabmusterungsexperimente unterschieden sich in wichtigen Punkten von anderen Untersuchungen. Durch eine neue optische Farbmischmethode ist eine exakte Bestimmung der Farbschwellen für Körperfarben möglich und nicht nur der Bereich, in dem die Farbschwellen liegen. Eine Verfälschung der Ergebnisse durch die Trennkanten- und Glanz-Effekte von aneinandergrenzenden Farbmustern ist ausgeschlossen. Bei der Untersuchung der großen Farbunterschiede mit einem CIELAB-Farbabstand ΔE*ab &gt; 10 wird durch die Kombination von zwei bekannten Untersuchungsmethoden eine neue Methode entwickelt, die unabhängig von einer Referenz ist, welche die Ergebnisse beeinflusst. Für die Farbschwellen ergeben sich bei den aneinander grenzenden Farbmustern mittlere Farbabstandswerte von 0,417 für CIELAB und von 0,308 für CIEDE2000. Für die Farbschwellen und mit den beiden Farbabstandsformeln ist die Korrelation um etwa den Faktor 2 schlechter als für die großen Farbunterschiede. Daher sind die Farbabstandsformeln CIELAB und CIEDE2000 für die Beschreibung von Farbschwellen nicht geeignet. Jedoch durch Verkleinerung der Parameter für die Rot-Grün-Buntheit a* und die Gelb-Blau-Buntheit b* um etwa den Faktor 2 und 6 gegenüber der Helligkeit können die Farbschwellenergebnisse angenähert beschrieben werden. Für Farbschwellen und einen kleinen geometrischen Abstand (~ 0,5 mm) mit grauer Farbe zwischen den Farbmustern vergrößert sich der CIELAB-Farbabstand um einen Faktor 2,4 bis 3,5 je nach Referenzfarbe. Für einen geometrischen Abstand größer als 2,0 mm erreicht, der CIELAB-Farbabstand einen Sättigungswert, der um den Faktor 2,8 bis 4,0 größer ist. Bei der Untersuchung der großen Farbunterschiede mit einem CIELAB-Farbabstand ΔE*ab &gt; 10 zeigt die CIELAB-Formel eine statistisch insignifikant bessere Korrelation zwischen visueller Bewertung und farbmetrischer Berechnung als die CIEDE2000-Formeln.</dc:description>
+          <dc:description xml:lang="eng">In the experimental part of this work 40 test persons have determined visual colour thresholds and large colour differences. The experiments were done for surface colours with an illumination of the CIE standard illuminant D65, for the 2° CIE standard observer and for adjacent colour samples. The CIELAB, the CIEDE2000 and other colour formulas were tested. The colour assessment experiments differ in important points compared to other experiments. By a new optical colour mixture method an exact determination of the colour threshold was possible, and not only the range in which the colour thresholds are located. A falsification of the results by borderline or gloss effects of the adjacent samples is excluded. For the investigation of the large colour differences with a CIELAB colour difference ΔE*ab &gt; 10 two known research methods are combined to a new one which is independent of a reference, and which may influence the results. For the colour thresholds and for adjacent samples result the average colour difference data are 0.417 for CIELAB and 0.308 for CIEDE2000. For the colour thresholds, and with both colour difference formulas the correlation is by about a factor 2 worse compared to the large colour differences. Therefore the colour difference formulas CIELAB and CIEDE2000 are not applicable to describe colour thresholds. However, by reduction of the parameters for the red-green a* and yellow-blue chroma b* by a factor 2 and 6 compared to the lightness, our threshold results may be described approximately. For the colour thresholds und a small geometric distance (~ 0.5 mm), and a grey colour between the colour samples the CIELAB colour difference increases by a factor 2.4 to 3.5 depending on the reference colour. For a geometric distance larger than 2.0 mm the CIELAB colour difference reaches a saturation value which is by a factor 2.8 to 4.0 larger. For the investigation of the large colour differences with a CIELAB colour difference ΔE*ab &gt; 10 the CIELAB formula shows an insignificant better correlation between the visual assessment and the colorimetric calculation compared to the CIEDE2000 formula.</dc:description>
+          <dc:date>2010-05-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2520</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26340</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26340</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2520/philipp_kittelmann.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2520/philipp_kittelmann.zip</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

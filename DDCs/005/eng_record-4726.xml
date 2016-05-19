@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4726">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4726</identifier>
+        <datestamp>2014-02-27</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">On sequences of integers of quadratic fields and computations</dc:title>
+          <dc:title xml:lang="deu">Über Folgen ganzer Elemente in quadratischen Körpern und Berechnungen</dc:title>
+          <dc:creator>Bircan, Nihal</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">In this thesis, we consider the integers $\alpha$ of the quadratic field $ \mathbb{Q} (\sqrt[]{d})$ where $d\in \Z$ is square-free and $d\equiv 1,2,3 \bmod 4$.&#13;
+Furthermore, let $p$ be an odd prime. &#13;
+Using the embedding into $ \text{GL}(2,\mathbb{R})$ we obtain bounds for the first $\nu\in\N$ such that $\alpha^\nu\equiv 1\bmod p.$ For the &#13;
+conductor $f$, we then study the first integer $n=n(f)$ such that $\alpha^n\in\mathcal{O}_{f}$. We obtain bounds for $n(f)$ and for $n(fp^{k})$. &#13;
+We allow any norm $N(\alpha)\not\eq 0$. A special case is that $\alpha$ is the fundamental unit $\varepsilon$ of the real quadratic field $ \mathbb{Q} (\sqrt[]{d})$.&#13;
+We consider matrices $A\in\text{GL}(2,\mathbb{C})$ and we show how the integers $\alpha$ of any quadratic field $ \mathbb{Q} ( \sqrt[]{d})$ &#13;
+can be embedded in GL$(2,\mathbb{R})$ where  $ d=4q+r\in \mathbb{Z} $. &#13;
+Namely, $A$ is defined by&#13;
+\begin{align*} A= \text{ } \begin{pmatrix} a&amp;b&#13;
+\\ bd&amp;a \end{pmatrix}\ \text{for $ r=2,3$},\ \  A=\begin{pmatrix} \tfrac{1}{2}&#13;
+(a+b)&amp;b \\ qb&amp;\tfrac{1}{2} (a-b) \end{pmatrix}\ \text{for } r=1.&#13;
+\end{align*}&#13;
+We are now interested in the $n$ such that $ A^{n} =I$ or $A^{n} =cI$ in the residue field $ \mathbb{Z}/ p\mathbb{Z} $ where $p$ is an odd prime. &#13;
+As a tool we use adapted Chebyshev polynomials $t_{n} (x;s)$ and $u_{n} (x;s)$, which are monic polynomials &#13;
+with integer coefficients. We can write the powers of an algebraic integer $\alpha$ as&#13;
+\begin{align*} &#13;
+\alpha ^{n} =\begin{cases} \text{ } &#13;
+\tfrac{1}{2} t_{n} (2a)+u_{n-1} (2a)b\sqrt{d} &amp; \text{if } r=2,3\\ &#13;
+\tfrac{1}{2} t_{n} (a)+\tfrac{1}{2} u_{n-1} (a)b\sqrt{d} &amp; \text{if } r=1.&#13;
+\end{cases}\end{align*}&#13;
+ Let $s=$ det $A$ and $x=$ tr $A$. We obtain results about $ A^{n}$ for all $s\neq 0$. We formulate these results in terms of &#13;
+$t_{n} (x;s)=$ tr $A^{n}$. &#13;
+Now we consider again congruences modulo $p$. In the case of the quadratic field we have $s=N(\alpha)$.&#13;
+The Legendre symbol $\ell\coloneqq ((x^2 -4s)/p) $ will play an important role. The values of $n$ with $ A^{n}\equiv I \bmod p$ are connected &#13;
+with $p-1$ if $\ell=+1$ and with $p+1$ if $\ell=-1$. &#13;
+In particular, we prove that if $s=1$ and $x^{2}-4\not\equiv 0\bmod p$ then $ t_{\frac{p-\ell}{2}} (x)\equiv 2((x+2)/p)\bmod p$ and to generalize this &#13;
+we determine the first $ n=(p-\ell)/2^{m}$  with $ t_{n} (x)\equiv 2\bmod p$&#13;
+in terms of a chain of Legendre symbols. We also consider the more complicated case $s=-1$ and prove similar results.&#13;
+In the last chapter we consider the asymptotic behaviour of $n(p)$ by large-scale computations. &#13;
+Our results become easier to state if we consider the quotients $q$ defined by &#13;
+\begin{equation*}&#13;
+q= \left\{\begin{array}{lll}  \frac{p\pm1}{2n(p)}&amp; \text{if }N(\varepsilon)=+1&amp; \text{ where } \left(\frac{d}{p}\right)=\mp1,   \\&#13;
+                                   \frac {p\pm1}{n(p)} &amp;\text{if }  N(\varepsilon)=-1&amp; \text{ where } \left(\frac{d}{p}\right)=\mp1.&#13;
+                                 \end{array}\right.&#13;
+\end{equation*}&#13;
+In the computation of frequencies of $q$ we restrict ourselves to the case that $d\equiv 2,3 \bmod 4$ and we obtain numerical information about &#13;
+ $ n(f)=n(p)=\text{min}\{ \nu\in\N : \varepsilon^{\nu}\in \mathcal{O}_{p}\}$. Our numerical results suggest that the frequencies should have a limit as the &#13;
+ranges of $d$ and $p$ tend simultaneously to infinity.</dc:description>
+          <dc:date>2014-02-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4726</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47264</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47264</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4726/Bircan_nihal.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

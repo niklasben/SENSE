@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:264">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:264</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die übergangsmetallkatalysierte Michael-Reaktion: Enantioselektivität und vinyloge Donoren</dc:title>
+          <dc:title xml:lang="eng">The Transmission Metal-Catalyzed Michael Reaction: Enantioselectivity and Vinylogous Donors</dc:title>
+          <dc:creator>Mann, Alexander</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Im ersten Teil der vorliegenden Arbeit wird die Synthese von potentiell dreizähnigen Oxazolinliganden für asymmetrische übergangsmetallkatalysierte Michael-Reaktionen von b-Ketoestern und Enonen beschrieben. Die Liganden wurden aus natürlichen a-Aminosäuren hergestellt und besitzen neben dem Oxazolinsystem eine Heteroaryl- und eine Thioethereinheit als weitere Donorfunktionalitäten. Die Eignung der Liganden für asymmetrische übergangs-metallkata-lysierte Michael-Reaktionen wurde unter Verwendung einer kombinatorischen Strategie anhand eines Parallel-Screenings untersucht. Dadurch konnte eine Ligand-Metallsalz-Kombination identifiziert werden, die die betrachtete Testreaktion mit deutlicher Stereoselekti-vität katalysierte. Der zweite Teil der Arbeit befaßt sich mit der Entwicklung einer neuen Klasse von chiralen Auxiliaren für asymmetrische übergangsmetallkatalysierte Michael-Reaktionen von 1,3-Dicarbonylverbindungen mit Enonen. Wiederum unter Verwendung kombinatorischer Methoden wurden aus natürlichen a-Aminosäuren Auxiliare synthetisiert, die neben einer primären Aminogruppe ein tertiäres Amin, einen Thioether oder ein Amid als weitere Donoreinheit besitzen. Im Rahmen eines Primärscreenings mit verschiedenen Metallsalzen konnten die a-Aminosäureamide in Gegenwart von Cu(OAc)2 · H2O als Katalysator als außerordentlich effektive Auxiliare für die untersuchte Modellreaktion eines cyclischen b-Ketoesters mit einem Enon identifiziert werden. Nach Optimierung der Reaktionsparameter konnten für eine Reihe von sowohl cyclischen als auch offenkettigen Michael-Donoren bei befriedigenden bis guten Ausbeuten Selektivitäten von 90-99% ee bei Raumtemperatur und unter Vermeidung von Inertbedingungen erzielt werden. Ferner gelang ein Upscaling des Verfahrens unter nahezu vollständiger Reisolierung des Auxiliars. Im letzten Teil der Arbeit wurden Studien zur Synthese von funktionalisierten Biarylverbindungen durch den FeCl3 · 6 H2O-katalysierten sequentiellen Prozeß der vinylogen Michael-Reaktion durchgeführt. Als formal vinyloge Michael-Donoren kamen 2-Akzeptor-substituierte Cycloalkenone und als Michael-Akzeptoren unterschiedliche Chinonderivate zum Einsatz. Während p-Benzochinone und 1,4-Naphthochinone ein außerordentlich komplexes und teilweise unerwartetes Reaktionsverhalten zeigten, konnte durch die Verwendung von 1,2-Naphthochinon ein neues zweistufiges Verfahren zur Synthese von Biarylen entwickelt werden: Zunächst führt eine formal vinyloge Michael-Reaktion zwischen einem 2-Akzeptor-substituierten Cycloalkenon als Donor und dem Chinon als Akzeptor in einer Kaskaden-reaktion zu 1,2-Naphthochinonderivaten, die im zweiten Schritt mit verschiedenen Methoden zu Biarylsystemen reduziert werden können. Die vinyloge Michael-Reaktion läuft unter Fe(III)-Katalyse in Gegenwart von Luftsauerstoff und Wasser ab. Das Verfahren kann daher als attraktive Perspektive zur Synthese von Biarylverbindungen betrachtet werden.</dc:description>
+          <dc:date>2001-03-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/264</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2592</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2592</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/264/mann_alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

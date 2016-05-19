@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1383">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1383</identifier>
+        <datestamp>2014-04-29</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Methodologies for Aviation Emission Calculation : a comparison of alternative approaches towards 4D global inventories</dc:title>
+          <dc:creator>Schaefer, Martin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The thesis deals with the production of emission inventories for global aviation. Results of such calculations, which can be performed at four-dimensional resolution, are typically used in models of the global atmosphere to determine the effects of aviation on climate change. The thesis was composed in cooperation between Berlin University of Technology, Institute of Aeronautics and Astronautics, and the German Aerospace Center (DLR) in Cologne, Section Air Transport and Airport Research. Chapter 1 contains general information on gaseous emissions of modern transport aircraft and their potential effects on global warming. Chapter 2 covers the “state-of-the-art�? in inventory production with an emphasis placed on alternative approaches regarding the following aspects: (1) The processing of flight schedules, flight plans and radar trajectories to create a movements database for global aviation. (2) Methods for aircraft performance calculation to determine the fuel consumption in various flight phases. (3) Correlation methods to calculate in-flight engine emissions and (4) The usage of the above mentioned methods to produce emission inventories of global aviation at three- or four-dimensional resolution. Furthermore, simplifications and sources of errors are identified and assessed both qualitatively and quantitatively on the basis of scientific literature. Based on the interrelations mentioned above, chapter 3 gives an overview on specific inventories produced in recent years. A comparison in terms of methodology and results is performed. The chapter covers inventories for global aviation composed in the 1990s (NASA, DLR-2, ANCAT/EC-2) and – in more detail – inventories from the last 5 years (NASA 1999, AERO2k and SAGE). A comparison of results is performed for aviation fuel-use and emissions of nitric oxides (NOx), carbon monoxide (CO) and unburned hydrocarbons (HC).</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Diplomarbeit behandelt die Erstellung von Emissionskatastern, wie sie zur Ermittlung der Klimawirksamkeit des Luftverkehrs zum Einsatz kommen. Sie entstand in Zusammenarbeit der Technischen Universität Berlin, Fachgebiet Flugführung und Luftverkehr, mit dem Deutschen Zentrum für Luft- und Raumfahrt (DLR) in Köln, Abteilung Flughafenwesen und Luftverkehr. Während in Kapitel 1 grundlegende Informationen zu den gasförmigen Emissionen des Luftverkehrs und deren Klimawirksamkeit vermittelt werden, betrachtet Kapitel 2 den aktuellen Stand des Wissens hinsichtlich der Erstellung von Emissionskatastern. Der Schwerpunkt liegt dabei auf einer überblicksartigen Darstellung der Berechnungsmethodik sowie der Diskussion möglicher Alternativen in der prinzipiellen Vorgehensweise. Dargestellt werden im Einzelnen: (1) Die Bearbeitung von Flugplan- und Radardaten zur Erstellung einer Datenbank globaler Flugbewegungen. (2) Diverse Methoden der Flugleistungsberechnung zur Bestimmung des flugphasenabhängigen Treibstoffverbrauchs. (3) Korrelationsmethoden zur Ermittlung der triebwerkspezifischen Emissionen sowie (4) Die Integration vorstehender Methoden zur Erstellung eines globalen Emissionskatasters mit drei- oder vierdimensionaler Auflösung. Mögliche Fehlerquellen und Vereinfachungen gegenüber der Realität werden qualitativ und quantitativ auf Basis der wissenschaftlichen Literatur bewertet. Aufbauend auf den vorstehenden Zusammenhängen bietet Kapitel 3 einen Überblick über bislang durchgeführte Katasterberechnungen in Form eines Methodik- und Ergebnisvergleichs. Globale Emissionskataster der 1990er Jahre (NASA, DLR-2, ANCAT/EC-2) werden überblicksartig behandelt. Der Schwerpunkt liegt auf kürzlich abgeschlossenen (NASA 1999, AERO2k) oder noch in Entwicklung befindlichen (SAGE) Katasterprojekten. Ein Ergebnisvergleich behandelt Berechnungen des Treibstoffverbrauchs sowie der Emissionen von Stickstoffoxiden (NOx), Kohlenstoffmonoxid (CO) sowie Kohlenwasserstoffen (HC).</dc:description>
+          <dc:date>2006-12-07</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1383</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13765</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13765</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1383/schaefer_martin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

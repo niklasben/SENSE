@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2932">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2932</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">How My Favorite Tool Supporting OCL Must Look Like</dc:title>
+          <dc:creator>Chiorean, Dan Ioan</dc:creator>
+          <dc:creator>Petrascu, Vladiela</dc:creator>
+          <dc:creator>Petrascu, Dragos</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">At this time, to decide on which tool supporting OCL to use, is a difficult task. This is influenced by a number of objective factors, including: the user’s needs, knowledge of existing tools, knowledge of the Object Constraint Language and of the various possibilities of using it. Today, each tool maker states about implementing new features compared with the existent tools; moreover, different tools return different results when evaluating identical OCL specifications in the same context. A reason of this state of facts is due to the concepts which are incomplete or ambiguous specified in the standard. Therefore, before describing the criteria proposed for assessing tools supporting OCL, the following topics are examined: features that distinguish OCL within the modeling languages family, some aspects incomplet or ambiguous described in the OCL specification, main functionalities that a tool supporting OCL should implement, the universe of tools supporting OCL. In the end, five representative tools are characterized with respect to the functionalities proposed to be implemented by an ideal tool.</dc:description>
+          <dc:date>2011-06-21</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2932</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30895</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30895</dc:identifier>
+          <dc:identifier>1863-2122</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2932/ECEASST_Vol_15_2008_05.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

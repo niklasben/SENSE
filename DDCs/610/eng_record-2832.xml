@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2832">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2832</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:610</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">G-IQI  |  German Inpatient Quality Indicators Version 3.1</dc:title>
+          <dc:creator>Mansky, Thomas</dc:creator>
+          <dc:creator>Nimptsch, Ulrike</dc:creator>
+          <dc:creator>Winklmair, Claudia</dc:creator>
+          <dc:creator>Vogel, Klemens</dc:creator>
+          <dc:creator>Hellerhoff, Friedhelm</dc:creator>
+          <dc:subject>ddc:610</dc:subject>
+          <dc:description xml:lang="deu">Mit diesem Definitionshandbuch wird die dritte, umfassende Revision der German Inpatient Quality Indicators (G-IQI) vorgestellt. Diese Indikatoren wurden bewusst für die Messung mittels der sogenannten Routinedaten entwickelt (genauer gesagt für die Datenbestände nach § 21 KHEntgG oder nach § 301 SGB V). Sie sind konzipiert, um soweit wie möglich Behandlungsergebnisse transparent zu machen und Schwachstellen in den Behandlungsabläufen frühzeitig erkennen - und damit auch beseitigen - zu können. Das Handbuch enthält nicht nur die exakte Definition der Indikatoren, sondern auch Erörterungen aller wesentlichen Indikatoren mit zugehörigen Literaturverweisen. Die Version 3.1 der G-IQI enthält wesentliche Erweiterungen gegenüber der zuletzt publizierten Version 2.5. Bereits bewährte Indikatoren wurden beibehalten oder leicht modifiziert und ggf. ergänzt. Es kommt dabei nicht auf die Menge der Indikatoren an, sondern auf die Bedeutung der einbezogen Krankheitsgruppen und Operationen sowie auf die Aussagekraft der jeweils zugehörigen Kennzahlen. Die Indikatoren der G-IQI Version 3.1 decken beispielsweise schon alleine für diejenigen Krankheitsbilder, für die Daten auf Bundesebene verfügbar sind, 36% der Todesfälle in den deutschen Krankenhäusern ab. Da es sich um Krankheitsbilder handelt, bei denen die Sterblichkeit durch Qualitätsverbesserungen in Grenzen beeinflussbar ist, können mit Anwendung der Indikatoren in einem auf zielorientierte Prozessverbesserung ausgerichteten Qualitätsmanagement zum Teil erhebliche Ergebnisverbesserungen erreicht werden. Neben der Sterblichkeit sind wichtige Mengenangaben, Prozess- und Versorgungsindikatoren Gegenstand des neuen Systems. G-IQI 3.1 ist der derzeit umfassendste Qualitätsindikatorensatz für den direkten Einsatz auf der Basis von administrativen Daten. Die Vorgängerversion wird bereits von vielen Krankenhäusern in Deutschland eingesetzt. Für die Schweiz und für Österreich gibt es Versionen, die an die dortigen Datenbestände angepasst sind und einige lokale Modifikationen und Erweiterungen enthalten. Die G-IQI Indikatoren beziehen sich auf die Krankenhausdaten. Erweiterte Auswertungen bezüglich der Langzeitergebnisse sind Gegenstand des QSR-Verfahrens der AOK. Der G-IQI Indikatorensatz unterstützt in die Krankenhausroutine integrierte Verfahren zur kontinuierlichen Verbesserung der Ergebnisqualität. Seine volle Wirksamkeit erreicht er bei Integration in ein darauf abgestimmtes internes Qualitätsmanagement. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen, DIN A4, ISBN 3-978-7983-2315-5</dc:description>
+          <dc:description xml:lang="eng">This book presents the third revision of the German Inpatient Quality Indicators (G-IQI). These indicators have been explicitly designed for the use with existing administrative inpatient data. Their purpose is to improve transparency of medical outcome and to identify possible weaknesses in the treatment processes in order to improve the processes and thereby results. The definition manual does not only contain the exact definitions of the indicators, but also explanations of the intended purpose of the important indicators together with a review of some of the corresponding literature. Version 3.1 of G-IQI presents important extensions when compared to the last published version 2.5. Well established indicators were maintained or slightly modified. The goal was not to develop a high amount of ‘numbers’, but to find meaningfull indicators for important diseases and/or procedures treated in the hospital. German federal data are not available for all indicators. But even for those, which can be analyzed on a federal level, the G-IQI version 3.1 indicators would cover for example already 36% of all in-hospital deaths in Germany. As these are related to diseases, where quality management is well known to influence mortality, the indicators can very well support an outcome-oriented internal quality management and attribute to considerable improvement of hospital performance. Beside mortality the indicators include volume information for many diseases as well as indicators for some processes and the appropriate use of certain services. Currently G-IQI 3.1 is the most extensive indicator set for immediate use with existing administrative inpatient data. The preceding version has been used by almost one quarter of all German hospitals. In Switzerland and Austria there are indicator versions based on G-IQI, which were adopted to the local data and coding systems and contain some local extensions. The G-IQI indicators are designed for the use with inpatient data. An extended indicator version, which refers to administrative data of the insurance companies and thus can evaluate long term results of treatment is developed in separate German projects (see QSR project of the AOK as cited in the manual). The readily available G-IQI indicators support the integration of continous improvement processes into the hospital management. They are most useful if used together with a well adopted outcome-oriented quality management. Printed Version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de), DIN A4, ISBN 978-3-7983-2315-5</dc:description>
+          <dc:contributor>3M Deutschland GmbH </dc:contributor>
+          <dc:date>2011-03-24</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2832</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30042</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30042</dc:identifier>
+          <dc:identifier>978-3-7983-2316-2</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2832/G_IQI_31.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

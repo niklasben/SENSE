@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3762">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3762</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Degrees of Essentiality for Secants of Knots</dc:title>
+          <dc:title xml:lang="deu">Verschiedene Grade von Essenzialität für Sekanten von Knoten</dc:title>
+          <dc:creator>De Toffoli, Silvia</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">Knots are simple closed curves in space. Secants of knots are straight segments intersecting a knot in two points. First, we study essential and strongly essential secants. Essential secants were first introduced by Kuperberg and strongly essential secants by Denne. We introduce another degree of essentiality for secants, that is between the mentioned ones: non-peripherality. Then, we introduce a new and stronger concept: n-essentiality. To define it, we use the theory of n-fold cyclic branched covers of the 3-sphere over a knot, both geometrically and algebraically. We prove that for all n, a n-essential secant is strongly essential and moreover it is kn-essential for all k. We also turn our focus to the diagrammatic level, considering the essentiality of the secants corresponding to the crossings in a knot diagram. This is a new perspective that leads to a combinatorial treatment of secants. Given a knot diagram, to every crossing corresponds a secant, the one perpendicular to the plane of projection connecting the two strands that intersect at the crossing. Our main result is that in a minimal diagram of a alternating knot all crossings are strongly essential. Other results are that in any diagram of a non-trivial knot there must be at least three 2-essential crossings and that all crossings in a minimal diagram of a rational knot are 2-essential.</dc:description>
+          <dc:description xml:lang="deu">Knoten sind geschlossene, einfache Kurven im Raum. Sekanten sind gerade Strecken, die zwei Punkte auf einem Knoten verbinden. Wir untersuchen essenzielle und stark essenzielle Sekanten. Essenzielle Sekanten wurden zuerst von Kuperberg und stark essenzielle Sekanten von Denne eingeführt. Wir führen einen anderen Grad von Essenzialität ein, der zwischen den beiden oben genannten liegt: Nichtperipheralität. Danach führen wir einen neuen und stärkeren Begriff ein: n-Essenzialität. Um ihn zu definieren benutzen wir die Theorie der n-fachen, zyklischen, über dem Knoten verzweigten Überlagerungen der 3-Sphäre, sowohl geometrisch als auch algebraisch. Wir beweisen, dass jede n-essenzielle Sekante stark essenziell ist, und jede n-essenzielle Sekante auch kn-essenziell ist. Wir richten unsere Aufmerksamkeit auch auf die diagrammatische Ebene und betrachten die Essenzialität von Sekanten, die zu Kreuzungen in einem Knotendiagramm gehören. Das ist eine neue Sichtweise, die zu einer kombinatorischen Behandlung von Sekanten führt. In einem Knotendiagramm entspricht jede Kreuzung einer Sekante, und zwar der zur Projektionsebene senkrechten Sekante, die die sich kreuzenden Stränge verbindet. Unser Hauptresultat besagt, dass in einem minimalen Diagramm eines alternierenden Knotens alle Kreuzungen stark essenziell sind. Außerdem zeigen wir, dass in jedem Diagramm eines nicht-essenziellen Knotens mindestens drei 2-essenzielle Kreuzungen existieren müssen und dass alle Kreuzungen eines minimalen Diagrammes eines rationalen Knotens 2-essenziell sind.</dc:description>
+          <dc:date>2013-06-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3762</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40428</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40428</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3762/detoffoli_silvia.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

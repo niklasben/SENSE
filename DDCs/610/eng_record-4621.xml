@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4621">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4621</identifier>
+        <datestamp>2014-01-27</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:610</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Removal of the cardiac cycle artefact and subsequent coupling analysis between cortex and basal ganglia : simultaneous magnetoencephalographic and intracranial local field potential recordings in patients with movement disorders undergoing deep brain stimulation</dc:title>
+          <dc:title xml:lang="deu">Entfernung des kardiozyklischen Artefaktes und anschließende Kopplungsanalysen zwischen Kortex und Basalganglien : gleichzeitige Aufnahme magnetenzephalographischer Signale und intrakranieller lokaler Feldpotentiale von Patienten mit Bewegungsstörungen, die sich einer Tiefenhirnstimulation unterziehen</dc:title>
+          <dc:creator>Bock, Antje</dc:creator>
+          <dc:subject>ddc:610</dc:subject>
+          <dc:description xml:lang="eng">Simultaneous magnetoencephalography (MEG) and intracranial local field potential recordings in patients with severe movement disorders undergoing deep brain stimulation (DBS) treatment are a promising tool both for clinical application and basic research. Recordings can be accomplished during the time interval (two to five days) between electrode insertion and its connection to the subcutaneous pulse generator while electrodes are externalised. Thusly, interactions between the DBS targets and cortical areas can be uncovered to understand physiological and pathophysiological loops. DBS target points are the subthalamic nucleus or the caudal zona incerta for Parkinson’s disease patients and the internal globus pallidus for dystonic patients. Coupling measures such as coherence (coh) and the imaginary part of coherency (icohy) have been applied. However, at lower frequencies below 10 Hz strong cardiac cycle artefacts (CCAs) are observed in the MEG signals around the area of the burr holes in the left hemisphere, where both disposable stainless steel electrodes wires leave the skull. The CCA refers to the remanent magnetic field of those wires underneath the MEG sensors, which are moved by local pulsations of the blood vessels.&#13;
+The present thesis essentially aims at accurately identifying the extent of this artefact and providing and comparing three different methods of its removal from the MEG sensor space: (i) Applying principal component analysis and subsequent signal space projection (SSP) method to the CCA in time space (tCCA); (ii) applying independent component analysis; and (iii) applying SSP to the CCA in frequency space (fCCA). Subsequently, solely the ispilateral coh and icohy between the target points located within the basal ganglia and cortical areas of the right hemisphere, which shows less artefacts, were calculated once more. Based on the a priori assumption that the artefact mainly covers coh and icohy below 10 Hz, preferable removal characteristics would be a strong suppression below 10 Hz while preserving or yet uncover coupling above 10 Hz. In particular after applying the tCCA removal method, typical topographic dipolar and bipolar patterns in the α (8 to 12 Hz) and β (13 to 30 Hz) frequency ranges are well preserved, whereas artefactual patterns below 10 Hz are significantly suppressed. Results of disease-specific coupling differences are mostly in line with previous findings.&#13;
+Consequently, over and above the technical feasibility of this highly challenging set-up, especially the tCCA removal method is an appropriate tool and clears the way for more precise and more extensive coupling analyses using similar data sets.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Die gleichzeitige Erfassung von magnetoenzephalographischen (MEG) Signalen und intrakranialen lokalen Feldpotentialen bei Patienten mit schweren Bewegungsstörungen, die sich einer Operation zur tiefen Hirnstimulation (THS) unterzogen haben, bietet sowohl in der klinischen Anwendung als auch in der Grundlagenforschung vielversprechende Möglichkeiten. Die Ableitungen können innerhalb des Zeitintervalls zwischen der Elektrodenimplantation und ihrer anschließenden Konnexion mit dem subkutanen Stimulationsgerät (zwei bis fünf Tage) erfolgen, während die Elektroden externalisiert sind. Auf diese Weise können Interaktionen zwischen den THS-Zielstrukturen und kortikalen Arealen aufgedeckt werden, um physiologische und pathophysiologische Schleifen nachzuvollziehen. Die THS-Zielstruktur bei an Morbus Parkinson erkrankten Patienten ist der Nucleus subthalamicus oder die kaudale Zona incerta und der Globus pallidus internus bei Dystonie-Patienten. Kopplungsanalysen, wie zum Beispiel die Kohärenz (coh; coherence) und der Imaginärteil des normalisierten Kreuzleistungsspektrums (icohy; coherency) wurden angewendet. Unterhalb von 10 Hz treten jedoch starke kardiozyklische Artefakte (CCA; cardiac cycle artefact) in den MEG-Signalen im Bereich der Trajekte in der linken Hemisphäre auf, dort wo beide Einweg-Elektrodenkabel aus Edelstahl aus dem Schädel austreten. Das Artefakt verweist auf das remanente magnetische Feld derjenigen Kabel unterhalb der MEG-Sensoren, die durch lokale Pulsationen der Blutgefäße bewegt werden. &#13;
+Die vorliegende Arbeit zielt im Wesentlichen darauf ab, das Ausmaß dieses Artefaktes zu identifizieren und drei unterschiedliche Methoden der Bereinigung desselben aus dem MEG-Sensorraum aufzuzeigen und zu vergleichen: (i) Anwendung der Hauptkomponentenanalyse und anschließende Signalvektorraumbegrenzung des CCA im Zeitraum (tCCA); (ii) Anwendung der Unabhängigkeitsanalyse; und (iii) Anwendung der Signalvektorraumbegrenzung auf das CCA im Frequenzraum (fCCA). Im Anschluss daran wurden dann ausschließlich die ipsilateralen coh und icohy zwischen den Zielpunkten in den Basalganglien und den kortikalen Arealen der rechten Hemisphäre von Neuem berechnet, da diese weitaus weniger Artefakte aufwies. Basierend auf der a priori Annahme, dass das Artefakt sich hauptsächlich auf coh und icohy unterhalb von 10 Hz auswirkt, wären die erwünschten Eigenschaften der entsprechenden Beseitigungsmethode ein starke Unterdrückung unterhalb von 10 Hz mit gleichzeitiger Erhaltung oder gar Aufdeckung von Kopplungen oberhalb von 10 Hz. Insbesondere nach Anwendung der tCCA-Methode bleiben typische di- und bipolare Frequenzmuster im α- (8 bis 12 Hz) und β-Frequenzbereich (13 bis 30 Hz) erhalten, wohingegen artefaktische Muster unterhalb von 10 Hz signifikant supprimiert werden. Ergebnisse der krankheitsspezifischen Kopplungsunterschiede stehen größtenteils im Einklang mit vorangegangenen Studienergebnissen.&#13;
+Folglich erweist sich neben der erfolgreichen technischen Durchführbarkeit des herausfordernden Versuchsaufbaus insbesondere die tCCA-Bereinigungsmethode als ein geeignetes Werkzeug und bereitet den Weg für weitere genauere und ausgiebigere Kopplungsanalysen mit entsprechenden Datensets.&#13;
+</dc:description>
+          <dc:date>2014-01-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4621</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46219</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46219</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4621/Bock_Antje.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

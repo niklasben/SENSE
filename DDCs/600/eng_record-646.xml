@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:646">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:646</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Berechnung und Optimierung von passiven permanentmagnetischen Lagern für rotierende Maschinen</dc:title>
+          <dc:title xml:lang="eng">Calculation and optimization of passive permanent-magnet bearings</dc:title>
+          <dc:creator>Lang, Matthias</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit werden analytische Gleichungen vorgestellt, mit denen eine schnelle und zugleich genaue Berechnung aller relevanten Kräfte und Steifigkeiten von passiven permanent-magnetischen Lagern möglich ist. Durch die Beschränkung auf ein rotationssymmetrisches Modell mit axial magnetisierten Ringen wird es möglich, analytische Feldgleichungen zu entwickeln. Diese Gleichungen enthalten elliptische Integrale, deren Lösungsalgorithmen separat angegeben werden. Aus den Feldgleichungen werden nach dem Lorentzgesetz Kräfte und Momente sowie die Steifigkeiten gewonnen. Außer der Axialkraft können aufgrund der Rotationssymmetrie nur folgende vier Steifigkeitszahlen auftreten: Radialsteifigkeit, Axialsteifigkeit, Kippsteifigkeit und Koppelsteifigkeit. Die analytischen Steifigkeitsgleichungen werden nicht nur für das rotationsymmetrische Modell sondern auch für das ebene Feld (2D) entwickelt, ferner wird die Gültigkeit des Earnshaw-Theorems für erstreckte Körper nachgewiesen. Mit Hilfe dieser Gleichungen wird der Einfluss der Bauform auf die Kräfte und Steifigkeiten von Magnetringen systematisch untersucht. Es werden dazu neben den axial magnetisierten Einfachringen auch Doppelringmagnete bzw. Multiringmagnete betrachtet. Doppelringmagnete bestehen aus zwei gegensinnig gepolten Magnetringen, die ineinander gesteckt sind. Aufbauend auf den Skalierungsregeln von Permanentmagneten wird eine normierte Darstellung der Kräfte und Steifigkeiten von Multiringmagneten entwickelt. Durch eine geeignete dimensionslose (d.h. normierte) Darstellung reduziert sich die Zahl der zu betrachtenden Parameter. So genügt es zum Beispiel völlig, die Axialkraft und die Radialsteifigkeit nur als Funktion von zwei Parametern (normierte Polbreite und normierte Magnethöhe) darzustellen. Das wichtigste Ergebnis der normierten Betrachtung sind einfache Regeln, die zu optimalen Magnetgeometrien führen. So ergibt sich bei Multiringlagern ein optimales Verhältnis der Radialsteifigkeit zum Bauvolumen, wenn die Höhe der Magnetringe etwa der Spaltweite entspricht und die Polbreite etwa das Doppelte der Spaltweite besitzt. Die Anwendung dieser Entwurfsregeln führt zu passiven Magnetlagern mit deutlich reduzierten Abmessungen. So zeigt der Entwurf eines optimierten Radiallagers einer Turbomolekularpumpe eine Reduktion auf 26% des ursprünglichen Bauvolumens. Allerdings führen die Auslegungsregeln stets zu sehr schlanken Magnetgeometrien. Die damit verbundenen technologischen Fragen sind noch nicht abschließend geklärt, jedoch zeigen erste Prototypen, dass es möglich ist solche Magnetgeometrien herzustellen.</dc:description>
+          <dc:description xml:lang="eng">This thesis presents analytical equations which facilitate a fast and accurate calculation of all relevant forces and stiffness values of passive permanent-magnet bearings. By limitation to a rotational symmetric model with axial magnetized rings, the development of analytical equations for the magnet field becomes possible. These equations contain elliptic integrals, whose solution algorithms are shown separately. The forces, torques and stiffness values are derived from the magnet field equations according to the Lorentz law. Due to the rotational symmetry only four stiffness values can occur in addition to the axial force. These are the radial stiffness, axial stiffness, tilt stiffness and the coupling stiffness. Analytical equations are developed, not only for the rotational symmetric model, but also for the plain field model (2D). Furthermore the validity of the Earnshaw theorem for bodies is also proved. With these equations, the shapes influence on the forces and stiffness values of the magnets is analyzed. In addition to the axial magnetized single rings, double-ring magnets and multi-ring magnets are examined as well. Double-ring magnets consist of two concentric rings, which are magnetized in opposite directions and interlocked. On the basis of the scaling rules for permanent magnets, a normalized representation of multi-ring magnets forces and stiffness values is developed. Due to a suitable dimensionless, i.e. normalized representation, the number of relevant parameters can be reduced. It is suffcient, for example, to represent the axial force and the radial stiffness simply as a function of two parameters, the normalized pole width and the normalized magnet height. The most important result of the normalized representation are design rules for multi-ring magnets which lead to optimum magnet shapes. For instance, the optimum ratio of radial stiffness to magnet volume of the multi-ring magnets is obtained when the magnet rings height is approximately equal to the gap and when the pole width is twice as wide as the gap. The application of these design rules leads to passive magnetic bearings with considerably reduced dimensions. For example, the design of a turbo molecular pumps optimized radial bearing shows a reduction in volume to 26% of the original bearing. However, these design rules always lead to very slim magnet dimensions. The technological problems involved are not completely solved yet. Nevertheless, first prototyps show that it is possible to produce such slim magnet rings.</dc:description>
+          <dc:date>2003-12-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/646</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6405</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6405</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/646/lang_matthias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

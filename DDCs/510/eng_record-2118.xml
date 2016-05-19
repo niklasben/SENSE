@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2118">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2118</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ueber Korrespondenzen zwischen algebraischen Funktionenkoerpern</dc:title>
+          <dc:title xml:lang="eng">On correspondences between algebraic function fields</dc:title>
+          <dc:creator>Wagner, Markus</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In meiner Dissertation greife ich die Theorie der algebraischen Korrespondenzen von M. Deuring vom algorithmischen Standpunkt auf. Ich zeige, dass es mit denen von mir in meiner Dissertation bewiesenen Saetzen und entwickelten Algorithmen moeglich ist, den Endomorphismenring einer irreduziblen Jacobischen einer algebraischen Kurve C/K ueber einem endlichen Koerper K zu berechnen. Das Verfahren funktioniert fuer jedes Geschlecht g(C/K) und auch dann, wenn der Endomorphismenring der Jacobischen nicht kommutativ ist. Ich nutze die bereits bekannte Tatsache aus, dass alle Endomorphismen der Jacobischen durch Korrespondenzen beschrieben werden koennen. Die Korrespondenzen wiederum koennen durch geeignete Ideale dargestellt werden. Die Kernidee meiner Dissertation ist es, die Norm eines solchen Ideales durch Interpolation zu berechnen, falls es denn existiert. Hat man die Norm berechnet, so weiss man, dass solch ein zu jener Korrespondenz gehoeriger Endomorphismus existiert und man kann den Endomorphismus mit Hilfe der Korrespondenz rekonstruieren. Dann kann man mit den von mir entwickelten Algorithmen berechnen, wie die so rekonstruierte Korrespondenz auf der Jacobischen als Endomorphismus wirkt. Das erste Kapitel befasst sich mit den Grundlagen. Das zweite Kapitel fuehrt in die Theorie der Korrespondenzen sowohl vom algebraischen als auch vom geometrischen Standpunkt aus ein. Im dritten Kapitel werden Algorithmen fuer die Arithmetik der Korrespondenzen vorgestellt. Im vierten Kapitel zeige ich, wie es moeglich ist, mit den von mir entwickelten Algorithmen den vollen Endomorphismenringes der Jacobischen zu berechnen. Das fuenfte und letzte Kapitel zeigt anhand von Beispielen fuer das Geschlecht eins, zwei und drei, wie man Endomorphismenringe der Jacobischen von algebraischen Kurven ueber endlichen Koerpern berechnet. Im Fall, dass die Kurve C/K elliptisch oder hyperelliptisch vom Geschlecht zwei ist, wird der Endomorphismenring jeweils fuer ein kommutatives und nicht-kommutatives Beispiel berechnet. Fuer das Geschlecht drei wird jeweils ein kommutatives Beispiel fuer ein hyperelliptisches und nicht-hyperelliptisches Beispiel berechnet.</dc:description>
+          <dc:description xml:lang="eng">In my thesis I develop algorithms based on the theory of M. Deuring for the computation of endomorphismsrings of irreducible Jacobians of algebraic curves C/K over a finite field K. These algorithms work in every genus of C/K and also in the case that the endomorphismsring is not commutative. In the first chapter I introduce into the basics we need to understand correspondences. In the second chapter I introduce briefly into the theory of correspondences from the point of view of function fields and geometry. In the third chapter I develop basic algorithms for correspondences. In the fourth chapter I develop algorithms by which I was able to compute commutative and non-commutative exmaples in the last chapter for some genus one and two curves C/K. Lastly I computed a commutative example for a hyperelliptic and non-hyperelliptic curve C/K of genus three.</dc:description>
+          <dc:date>2009-05-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2118</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22191</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22191</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2118/wagner_markus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

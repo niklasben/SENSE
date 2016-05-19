@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:9">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:9</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A set-based calculus and its implementation</dc:title>
+          <dc:title xml:lang="deu">Ein mengenbasierter Kalkül und seine Implementierung</dc:title>
+          <dc:creator>Grieskamp, Wolfgang</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit untersucht die Fundierung und Implementierung von Berechnungsmodellen für mengenbasierte Computersprachen. Es wird der micro-Z-Kalkül eingeführt, eine minimale mengenbasierte Sprache, welcher Anwendungssprachen wie die Spezifikationssprache Z oder funktional-logische Programmiersprachen komplett und natürlich einbetten kann. Syntax, Semantik und Gleichungstheorie von MZ werden definiert. Mehrere Berechnungsmodelle werden entwickelt. Das Referenzberechnungsmodell, mit der Technik der natürlicher Semantik definiert, kombiniert funktionale Reduktion und nebenläufige Resolution, und bereitet die Implementierung durch eine abstrakte Maschine vor, welche auf nebenläufigen Resolutionsagenten basiert. Die Resultate der Arbeit sind eingebettet im Kontext des BMBF Forschungsprojekts ESPRESS, und wurden z.B. für die Automatisierung von Softwaretests eingesetzt. Die formalen Anteile dieser Arbeit sind vollständig in syntax- und typgeprüften Z gegeben, so dass die Arbeit auch eine Fallstudie der Anwendbarkeit von Z für anspruchsvolle Probleme der Metamodellierung darstellt.</dc:description>
+          <dc:description xml:lang="eng">This thesis is concerned with the foundation and implementation of a computation models for set-based computer languages. It introduces the micro-Z calculus, a small set-based expression language, which is able to embed languages such as the specification language Z and functional logic programming languages in a complete and natural way. Syntax, semantics and equational theory of micro-Z are defined. Several computation models are developed. The reference computation model, which is based on natural semantics, combines functional reduction and constraint resolution, and leads to an implementation by an abstract machine, which is based on concurrent resolution threads. The results are embedded in the context of the BMBF research project ESPRESS, and have been e.g. applied to the automatization of software tests. All formal material of the thesis is given in type-checked Z, which makes this work also a case study on the usage of Z for problems of meta modeling.</dc:description>
+          <dc:date>2000-07-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/9</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-77</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-77</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/9/grieskamp_wolfgang.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

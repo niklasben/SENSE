@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1791">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1791</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Niederdimensionale Wirbelmodelle zur Regelung von Scher- und Nachlaufströmungen</dc:title>
+          <dc:title xml:lang="eng">Reduced-order vortex models for the control of shear and wake flows</dc:title>
+          <dc:creator>Pastoor, Mark</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Strömungsbeeinflussung mit dem Ziel der Verbesserung der Effizienz von Verbrennungsmaschinen und der aerodynamischen Wirkungsgrade von Fahrzeugen ist vor dem Hintergrund knapper Ressourcen, hoher Energiepreise und dem sich abzeichnenden Klimawandel von sowohl ökonomischem als auch ökologischem Interesse. In dieser Arbeit werden wirbelbasierte Verfahren zur niederdimensionalen Modellierung und zur modellbasierten Strömungsregelung von Scher- und Nachlaufströmungen vorgestellt. Die Modellordnung eines Wirbelverfahrens, welches die Grobstrukturdynamik und die Aktuationseffekte in guter Näherung beschreibt, ist zu hoch für eine praktikable Anwendung regelungstechnischer Verfahren. Daher wird das aus der Analyse der Wirbelverfahren gewonnene Verständnis der Strömungsvorgänge für einen physikalisch motivierten Reglerentwurf verwendet. Für die Strömung über eine rückwärts gewandte Stufe und die Strömung um einen stumpfen Körper werden eine Regelungsstrategien entwickelt und im Experiment getestet. Mit den hier beschriebenen Phasenreglern lassen sich die Strömungsvorgänge effizienter beeinflussen als durch gesteuerte Strömungsbeeinflussung oder als mit bereits bekannten Strömungsreglern auf der Basis von Gradienten- oder Black-Box-Verfahren. So können durch Rückführung der Phasenlage der abschwimmenden Wirbel die Mischungsvorgänge der Stufenströmung bei einer Reynolds-Zahl von 4000 so angefacht werden, dass die mittlere Länge der Ablöseblase gegenüber der gesteuerten Beeinflussung bei gleicher Stellenergie um 10% verringert wird. Hiermit könnte in der technischen Anwendung der Wirkungsgrad einer Verbrennungsmaschine gesteigert werden. Bei der Strömung um einen stumpfen Körper mit einer Reynolds-Zahl von 70000 lässt sich durch Synchronisation der ablösenden Wirbel eine Reduktion des druckinduzierten Windwiderstandes um 15% erzielen. Dies entspricht den Ergebnissen die sich mit anderen Beeinflussungstrategien erzielen lassen. Die notwendige Stellenergie lässt sich jedoch mit dem gewählten Regler gegenüber anderen Verfahren nahezu halbieren. Zudem ist der vorgestellte Regler robust gegenüber Änderungen der Betriebsbedingungen. Ein solcher Regler könnte in der Praxis den Widerstandsbeiwert eines Fahrzeuges absenken und zu einer Reduktion des Treibstoffbedarfs führen. Anhand der Wirbelverfahren werden Streckenmodelle für die Strömung eines Körpers im Nachlauf eines stromauf liegenden Körpers erarbeitet. Diese Modelle ermöglichen über modellgestützte Messverfahren (erweitere und Sigma-Punkt-Kalman-Filter) die Rekonstruktion des Strömungsfeldes (Geschwindigkeit, Wirbelstärke, Druck). Hiermit kann erstmals ein Wirbelverfahren parallel zu einem Experiment gerechnet und zur echtzeitfähigen Vorhersage von Wirbelpositionen und Druckmessungen verwendet werden.</dc:description>
+          <dc:description xml:lang="eng">High energy costs, dwindling resources and the threat of global warming favour the development of energy efficient engines and transport vehicles. As aerodynamic design is technically mature in many cases flow control has the potential to dramatically increase the performance of combustion engines or to decrease the pressure-induced drag of trucks and passenger cars. In this work, vortex-based low-order models are proposed to explain, develop and improve flow control strategies for shear and wake flows. Due to the complexity of vortex-based models, which resolve the coherent structure dynamics and actuations effects, common control theory is practically not applicable for the design of flow controllers. Instead the physical insight obtained by the analysis of the vortex models is utilised to develop physically motivated controllers. For the flows over a backward facing step and past a bluff body a flow control strategy is deduced and tested in experiment. The proposed feedback phase controllers manipulate the coherent structure dynamics more efficiently as open-loop controllers or closed-loop controllers based on black-box models. Feedback of the phasing of shedded vortices increases mixing in the recirculation zone behind the backward facing step at Reynolds number 4000. The average length of the separation bubble is reduced by 10% compared to open-loop forcing operating at the same power level. This strategy can be envisioned to enhance mixing in a real combustion engine. By synchronizing the phasing of vortex shedding in the wake of the bluff body pressure-induced drag decreases by 15% at Reynolds number 70000. This rate was achieved by other control stragegies as well, but the required acuation power can be reduced by almost 50%. Furthermore, the strategy is robust under changing operating conditions. The proposed controller could be implemented at the stern of a ground vehicle in order to reduce the fuel consumption. Reduced-order models of the flow around a bluff body in the wake of a bluff body ahead are derived from vortex methods. These plants are utilised to design dynamical observers (extended and Sigma-Point-Kalman filter) for the reconstruction of the flow field (velocity, vorticity, pressure). This enables a real-time prediction of vortex positions and sensor readings based on a vortex model running in parallel to an experiment.</dc:description>
+          <dc:date>2008-05-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/postscript</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1791</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18775</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18775</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1791/original_mark_pastoor.ps</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1791/pastoor_mark.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

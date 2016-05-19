@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:419">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:419</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Regelung einer drehzahlvariablen Windenergieanlage mit permanenterregtem Synchrongenerator mittels eines Suchverfahrens</dc:title>
+          <dc:title xml:lang="eng">Control of a wind energy converter with a permanent magnet synchronous generator and an optimum searching algorithm</dc:title>
+          <dc:creator>Schiemenz, Irene</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Durch das ansteigende Interesse an Windkraftanlagen sind diese in den letzten Jahren stetig weiterentwickelt worden. Dabei wurde das Augenmerk verstärkt auf eine bessere Leistungsausbeute gelenkt. Diese kann bei Konzepten für drehzahlvariablen Betrieb durch die Anpassung des Arbeitspunktes an die jeweiligen Betriebsbedingungen deutlich verbessert werden. Dabei stellt sich für alle Anlagentypen das Problem der Vorgabe des Drehzahlsollwertes als Eingangsgröße des Drehzahlreglers. Die optimale Drehzahl hängt sowohl von turbinenspezifischen Parametern als auch von der momentanen Windgeschwindigkeit ab. Kennzeichnend ist der Verlauf des Leistungsbeiwertes der Windturbine in Abhängigkeit der Schnellaufzahl. In der vorliegenden Arbeit wird ein Suchverfahren vorgestellt, das den Betrieb der Windkraftanlage auf ihren optimalen Betriebspunkten ermöglicht, ohne detaillierte Kenntnisse über den Verlauf des Leistungsbeiwertes der Windturbine zu benötigen. Dabei wurde eine stallgeregelte, getriebelose Windkraftanlage mit permanenterregtem Synchrongenerator und selbstgeführtem Spannungszwischenkreisumrichter vorausgesetzt. Dieses Konzept verzichtet auf mechanisch stark beanspruchte und wartungsintensive Komponenten wie Schleifringe, ein Getriebe oder eine Blattwinkelverstellung und ist damit mechanisch besonders robust. Da Regeleingriffe über die Erregung des Generators oder über eine Blattwinkelverstellung entfallen, muß die Regelung der Anlage mit Hilfe des selbstgeführten Spannungszwischenkreisumrichters vorgenommen werden. Das entwickelte Suchverfahren benötigt über die für die Regelung der Anlage erfaßten Größen hinaus keine zusätzlichen Meßwerte. Die Regelung erfolgt auf sinusförmige Generator- und Netzströme, wobei auf der Netzseite der cos(phi) nahezu frei einstellbar ist. Die Leistungsfähigkeit des entwickelten Verfahrens wird durch Simulationsergebnisse belegt und experimentell mit der zugehörigen Regelung in einer Laboranlage nachgewiesen. Die Simulation erfolgte mit Hilfe des Programmtools MATLAB/SIMULINK, während der eingesetzte Microcontroller in C programmiert wurde. Die für den Reglerentwurf benötigten Parameter von Generator und Gesamtanlage wurden durch Messungen am Maschinensatz ermittelt. Die Windturbine wurde mit Hilfe einer regelbaren Gleichstrommaschine simuliert. Die Kenngrößen der simulierten Windturbine waren in Simulation und Messung identisch, sie wurden analytisch bestimmt und spiegeln das charakteristische Verhalten einer Windturbine wieder. Da die Umsetzung der Regelung in der Laboranlage auf einem Microcontroller erfolgte, sind alle Regler im zeitdiskreten Zustandsraum entworfen worden. Dabei ist den Stromreglern netzseitig der Zwischenkreisspannungsregler, auf der Generatorseite der Drehzahlregler überlagert. Für alle im Microcontroller umgesetzten Regler kamen PI-Regler zum Einsatz, deren Verstärkungsparameter mit Hilfe der Eigenwertvorgabe festgelegt wurden. Auf Grund der beschränkten Rechenkapazität des eingesetzten Controllers wurde der netzseitige Stromregler in Hardware als Hystereseregler aufgebaut.Im Ganzen ist ein leistungsfähiges Gesamtkonzept für eine Windkraftanlage mit einer neuartigen Zusammenstellung der einzelnen Komponenten entwickelt worden. Durch den Beweis der Funktionstüchtigkeit der Simulation mit Hilfe der Laboranlage kann man das Simulationsmodell auch für andere Anlagen modifizieren und mit seiner Hilfe die Reglerparameter optimieren.</dc:description>
+          <dc:date>2002-10-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/419</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4140</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4140</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/419/schiemenz_irene.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

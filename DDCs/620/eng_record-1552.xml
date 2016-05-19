@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1552">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1552</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analysis and Application of Turbo Coder based Distributed Video Coding</dc:title>
+          <dc:title xml:lang="deu">Analyse und Anwendung von Turbo-Coder-basierter verteilter Videocodierung</dc:title>
+          <dc:creator>Belkoura, Zouhair Minh-Dang</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This work investigates a Distributed Video Coding (DVC) method for single view video sources. DVC is different from hybrid block-based video coding as there is no temporal prediction included in the encoding process. This makes video codecs with low encoder workload possible. DVC in this thesis is an extension of source coding with side information, a subset of Slepian-Wolf coding. The theoretical bounds are given for source coding with systematic side information (SCSSI), a special case using systematic channel codes to perform data compression. Practical SCSSI coding using systematic turbo codes is compared to the theoretical bounds. The Berlin Distributed Video Coder (BDVC) is implemented using turbo coder based SCSSI. Potential limiting factors that bound the BDVC performance away from hybrid coders are summarised. Experimental analyses show the influence of turbo coder variation on compression performance. A review of the error resilience properties of the BDVC is given. Based on the analyses, modifications to the BDVC are proposed to improve the compression performance. Experiments show these modifications to allow rate reductions of up to 60%. Finally, a doubly hybrid video coder (DHVC) combining H.264 and BDVC is proposed. The DHVC allows to allocate workload between coder and decoder depending on the desired operating conditions.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein verteiltes Videocodierverfahren (distributed video coding, DVC) für monoskopische Videosequenzen untersucht. Verteilte Videocodierung unterscheidet sich von hybrider Videocodierung durch die fehlende temporale Prädiktion im Codierprozess. Das ermöglicht Codecs mit niedrigem Rechenaufwand am Codierer. Diese Arbeit betrachtet DVC als Erweiterung von Quellencodierung mit Seiteninformation, welche eine Art von Slepian-Wolf-Codierung ist. Die theoretischen Schranken für Quellencodierung mit systematischer Seiteninformation (SCSSI) werden aufgezeigt. SCSSI ist ein Spezialfall, in dem systematische Kanalcodes zur Kompression benutzt werden. Praktische SCSSI-Codierung, die systematische Turbo Codes benutzt, wird mit den theoretischen Schranken verglichen. Auf Basis dieser wird ein verteiltes Videocodiersystem (Berlin Distributed Video Coder, BDVC) implementiert. Für diese Architektur wird herausgearbeitet, aus welchen Gründen die Kompressionsleistung hinter der eines hybriden Codierers zurückbleibt. Desweiteren zeigen experimentelle Ergebnisse den Einfluss von Eigenschaften des Turbo-Codierers auf die Kompressionsleistung. Ausserdem wird die Fehlerrobustheit der BDVC-Kompression untersucht. Ausgehend von diesen Analysen werden Modifizierungen vorgeschlagen, um die Kompressionsleistung des BDVC zu verbessern. Experimente zeigen, dass diese Verbesserungen eine Ratenreduktion um bis zu 60% ermöglichen. Im Schlussteil der Arbeit wird eine Kombination aus H.264-Codierung und BDVC vorgestellt (doubly hybrid video coder, DHVC). DHVC erlaubt es, den Gesamtrechenaufwand stufenweise auf Codierer und Decodierer zu verteilen.</dc:description>
+          <dc:date>2007-07-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/postscript</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1552</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16189</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16189</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1552/original_belkoura_zouhair.ps</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1552/belkoura_zouhair.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

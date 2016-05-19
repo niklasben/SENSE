@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3799">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3799</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Research in architecture</dc:title>
+          <dc:title xml:lang="deu">Architektonische Forschung</dc:title>
+          <dc:creator>Jessica Bridger</dc:creator>
+          <dc:creator>Johannes Cramer</dc:creator>
+          <dc:creator>Jörg Stollmann</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">What is Research in Architecture? This book is a response to fundamental questions about the rise of research practices in architecture. A range of projects initiated at the School of Architecture at the Technische Universität Berlin demonstrate research trajectories that cumulatively formulate an integrative vision of how knowledge gathering and production can impact our lived-in environments. Four strategic research clusters - City, Energy, Heritage, and Research by Design - provide a framework for both fundamental and applied research. Contributions include the works of teams headed by Raoul Bunschoten, Finn Geipel, Peter Herrle, Susanne Hofmann, Regine Leibinger and many others.</dc:description>
+          <dc:description xml:lang="deu">Was ist architektonische Forschung? Dieses Buch leistet einen Beitrag zu grundlegenden Fragestellungen über die zunehmende Bedeutung der Forschung in der Architektur. Das Institut für Architektur der Technischen Universität Berlin hat eine Vielzahl von Projekten initiiert, deren Forschungsansätze in der Zusammenschau einen Eindruck davon geben, wie Wissensproduktion auf unser Lebensumfeld einwirken kann. Vier strategische Forschungs-Cluster – Stadt, Energie, Kulturerbe und Forschen durch Gestalten – bilden ein Rahmenwerk für Grundlagenforschung und angewandte Forschung. Die Publikation beinhaltet Beiträge von Forschergruppen unter der Leitung von Raoul Bunschoten, Finn Geipel, Peter Herrle, Susanne Hofamnn, Regine Leibinger und vielen anderen.</dc:description>
+          <dc:date>2013-11-29</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3799</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39742</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39742</dc:identifier>
+          <dc:identifier>978-3-7983-2556-2</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3799/research_in_architecture_pdfa.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

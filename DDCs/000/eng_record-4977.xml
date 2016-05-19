@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4977">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4977</identifier>
+        <datestamp>2014-04-09</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Impact of buffering on quality of experience</dc:title>
+          <dc:title xml:lang="deu">Einfluss von Pufferung auf quality of experience</dc:title>
+          <dc:creator>Hohlfeld, Oliver</dc:creator>
+          <dc:subject>ddc:0</dc:subject>
+          <dc:description xml:lang="eng">The Internet has become an essential part of the lives of millions of people and an invaluable asset to businesses. As an emerging trend, data storage and processing is shifting to the Cloud (e.g., Google Apps, or Cloud gaming), making users more and more dependent on the network to perform their daily activities. Despite the crucial importance of Internet services, they remain susceptible to bad service quality. One particular factor influencing service quality is buffering at various layers.&#13;
+This thesis assess the impact of buffering on Quality of Experience (QoE). QoE is an active research area aiming to quantify the users' perception of Internet services. This is challenging since the users' perception is subjective. This thesis tackles this challenge by using a multi-disciplinary approach that combines QoE and networking research to take a cross-layer perspective on network and application buffering.&#13;
+Network buffering occurs in hosts, switches, and routers throughout the Internet. It impacts network performance by contributing delays, jitter, and packet losses. Loss-based degradations of video quality are illustrated in a first evaluation. Motivated by this observation, Scalable Video Coding is discussed to optimize video QoE in phases of congestion. An evaluation of SVC dimensions shows that spatial scalability yields better QoE scores than temporal scalability.&#13;
+Further, QoE impacts of model based packet loss generators---e.g., as used in QoE studies---are evaluated. It is shown that the model choice impacts quality indicators, thus model choice matters.&#13;
+The size of network buffers influences network performance by controlling the level of introduced delay, jitter, and packet loss. The choice of `proper' buffer sizing guidelines remains an unresolved and controversially discussed topic since decades. In this context, this thesis presents the first comprehensive study on the impact of buffer sizes on {\em Quality of Experience}, involving relevant user applications (e.g., voice, video, and web browsing), real hardware, and realistic workload. While bloated buffers {\em can} degrade QoE, buffer sizes that follow standard sizing guidelines significantly impact QoS metrics, but impact QoE metrics only marginally. Limiting congestion, may thus thus yield more immediate QoE improvements than optimal buffer sizes.&#13;
+Application buffering is used to compensate for performance variations, e.g., originating from network buffering. One example is the buffer-based, proprietary retransmission scheme in a major IPTV system. This thesis provides insights into the functioning of this scheme and motivates the extension of QoE metrics to account for client-side error recovery to prevent QoE mispredictions.&#13;
+To optimize Web QoE, a hit rate analysis of caching schemes is performed by focusing on YouTube video popularities. The thesis contributes an optimized caching scheme that offers higher cache hit rates than traditional Least Recently Used caches.&#13;
+Finally, it broadens the view of QoE by discussing spam as major QoE determinant in e-mail. A large-scale study conducted over 3.5 years reveals insights into address harvesting as the origin of spam and proposes mechanisms for spam mitigation that can help to improve e-mail QoE.</dc:description>
+          <dc:description xml:lang="deu">Das Internet hat sich zu einem elementaren Bestandteil im Leben von Millionen von Menschen und Unternehmen entwickelt. Im Zuge dieser Entwicklung verschiebt sich die Datenverarbeitung und -speicherung zunehmend in die Cloud (z.B. Google Apps oder Cloud-Spiele), was die Abhängigkeit vom Internet erhöht. Trotz der elementaren Bedeutung des Internets sind dessen Dienste anfällig für Dienstqualitätsprobleme. Ein Einflussfaktor dabei sind Puffer auf verschiedenen Protokollebenen.&#13;
+Diese Dissertation untersucht den Einfluss dieser Puffer auf die Nutzerzufriedenheit (Quality of Experience, QoE). Dies gestaltet sich als Herausforderung, da die Zufriedenheit ein subjektives Maß ist. Diese Dissertation verfolgt daher einen interdisziplinären Ansatz, der QoE- und Netzwerkforschung zur Untersuchung von Puffern auf der Netzwerk- und Anwendungsebene kombiniert.&#13;
+Auf der Netzwerkebene finden sich Internetweit Puffer in Hosts, Switches und Routern. Sie können die Dienstgüte durch Verzögerungen, Jitter und Paketverluste beeinflussen. Eine erste Untersuchung illustriert die negative Auswirkungen solcher Verluste auf die Video QoE. Qualitätsverbesserungen können hierbei durch den Einsatz von Scalable Video Coding erzielt werden. Eine Untersuchung der SVC-Skalierungsdimensionen zeigt, dass spatial scalability zu besseren QoE Vorhersagen führt, als temporal scalability. Eine weitere Studie untersucht den QoE-Einfluss modellbasierter Paketverlustgeneratoren, die beispielsweise in QoE-Studien Verwendung finden. Es wird gezeigt, dass die Modellwahl die QoE-Ergebnisse beeinflusst.&#13;
+Die Puffergröße beeinflusst die entstehende Verzögerung, Jitter und die Paketverlustrate. Trotz jahrzentelanger Forschung und operativer Erfahrung wird die "richtige" Pufferdimensionierung kontrovers diskutiert. Diese Arbeit präsentiert die erste umfassende Studie über den Einfluss der Pufferdimensionierung auf die QoE von Internetanwendungen wie Telefonie, Videostreaming und Webbrowsing. Während überdimensionierte Puffer die QoE beinträchtigen können, beeinflusst die Dimensionierung nach Standardregeln zwar QoS-Metriken, jedoch QoE nur marginal.&#13;
+Auf der Anwendungsebenen kompensieren zusätzliche Puffer Leistungsschwankungen, die z.B. aus Netzwerkpuffern resultieren. Ein weit verbreiteter IPTV-Dienst nutzt solche Puffer, um Verluste  mittels einem proprietären Retransmissionprotokoll zu kompensieren und die Videoqualität zu steigern. Eine Studie gibt Einblicke in die Funktionsweise dieses Protokolls und motiviert dadurch die Erweiterung von QoE Metriken, die solche Korrekturmaßnahmen üblicherweise nicht vorsehen und daher zu Fehlabschätzungen führen können. Zur Optimierung von Web QoE untersucht eine weitere Studie die Trefferraten von Cachingverfahren unter Berücksichtigung von YouTube Abfragehäufigkeiten. Dabei wird ein optimiertes Verfahren diskutiert, dass höhere Trefferraten ermöglichen kann, als bei herkömmliche LRU-Caches.&#13;
+Abschließend betrachtet die Dissertation E-Mail Spam als einen relevanten QoE Einflussfaktor. In dieser Studie wird Address Harvesting als Ursache von Spam und verschiedene Mechanismen zur Spamvermeidung, mit dem Ziel der E-Mail QoE Optimierung, über einen Zeitraum von 3,5 Jahren untersucht.</dc:description>
+          <dc:date>2013-03-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4977</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49774</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49774</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4977/hohlfeld_oliver.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

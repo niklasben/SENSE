@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:197">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:197</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Kodierung von Gaußmaßen</dc:title>
+          <dc:creator>Fehringer, Franz</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Es sei $gamma$ ein Gaußmaß auf der Borelschen $sigma$-Algebra $mathcal B$ des separablen Banachraums $B$. Für $X:Omega o B$ gelte $P_X=gamma$. Wir untersuchen den mittleren Fehler, der bei Kodierung von $gamma$ respektive $X$ mit $Ninmathbb N$ Punkten entsteht, und bestimmen untere und obere Abschätzungen für die Asymptotik ($N oinfty$) dieses Fehlers. Hierbei betrachten wir zu $r&gt;0$ Gütekriterien wie folgt: Deterministische Kodierung $delta_2(N,r) := inf_{y_1,ldots,y_Nin B}Emin_{k=1,ldots,N}||X-y_k||^r.$ Zufällige Kodierung $delta_3(N,r) := inf_ u Emin_{k=1,ldots,N}||X-Y_k||^r.$ Die $(Y_k)$ seien hierbei i.i.d., unabhängig von $X$, und nach $ u$ verteilt. Das Infimum wird über alle Wahrscheinlichkeitsmaße $ u$ gebildet. Für das Gütekriterium $delta_4(cdot,r)$ wird ausgehend von der Definition von $delta_3(cdot,r)$ $ u$ nicht optimal, sondern $ u=gamma$ gewählt. Das Gütekriterium $delta_1(cdot,r)$ ergibt sich aus der Quellkodierungstheorie nach Shannon. Es gilt $delta_1(cdot,r) le delta_2(cdot,r) le delta_3(cdot,r) le delta_4(cdot,r).$ Wir stellen folgenden Zusammenhang zwischen der Asymptotik von $delta_4(cdot,r)$ und den logarithmischen kleinen Abweichungen von $gamma$ her: Es gebe $kappa,a&gt;0$ und $binR$ mit $psi(varepsilon) := -log P{||X||&lt;varepsilon} sim kappa(frac1varepsilon)^a(logfrac1varepsilon)^b, varepsilondownarrow 0.$ Dann gilt $frac{sqrt{2^r}kappa^{frac ra}(loglog N)^{frac{br}a}} {a^{frac{br}a}(log N)^{frac ra}} simle delta_4(N,r) simle frac{2^r(2kappa)^{frac ra}(loglog N)^{frac{br}a}} {a^{frac{br}a}(log N)^{frac ra}}, N oinfty.$ Für das Wienermaß in $L_2[0,1]$ ist die Asymptotik von $delta_1(N,2)$ schon länger bekannt, es gilt $frac2{pi^2log N} sim delta_1(N,2) le delta_2(N,2) le delta_3(N,2) le delta_4(N,2) simle frac1{log N},q N oinfty$ und damit $limsup_{N oinfty}frac{delta_4(N,2)}{delta_1(N,2)} ge frac{pi^2}8&gt;1$.</dc:description>
+          <dc:description xml:lang="eng">Let $gamma$ be a Gaussian measure on the Borel $sigma$-algebra $mathcal B$ of the separable Banach space $B$. Let $X:Omega o B$ with $P_X=gamma$. We investigate the average error in coding $gamma$ resp. $X$ with $Ninmathbb N$ points and obtain lower and upper bounds for the error asymptotics ($N oinfty$). We consider, given $r&gt;0$, fidelity criterions as follows: Deterministic Coding $delta_2(N,r) := inf_{y_1,ldots,y_Nin B}Emin_{k=1,ldots,N}||X-y_k||^r.$ Random Coding $delta_3(N,r) := inf_ u Emin_{k=1,ldots,N}||X-Y_k||^r.$ The $(Y_k)$ above are i.i.d., independent of $X$, and distributed according to $ u$. The infimum is taken with respect to all probability measures $ u$. For the fidelity criterion $delta_4(cdot,r)$, starting from the definition of $delta_3(cdot,r)$, $ u$ is not chosen optimal, but as $ u=gamma$. The fidelity criterion $delta_1(cdot,r)$ is given according to the source coding theory of Shannon. The fidelity criterions are connected through $delta_1(cdot,r) le delta_2(cdot,r) le delta_3(cdot,r) le delta_4(cdot,r).$ We obtain the following connection between the asymptotics of $delta_4(cdot,r)$ and the den logarithmic small deviations of $gamma$: Let $kappa,a&gt;0$ and $binR$ with $psi(varepsilon) := -log P{||X||&lt;varepsilon} sim kappa(frac1varepsilon)^a(logfrac1varepsilon)^b, varepsilondownarrow 0.$ Then the twosided asymptotic inequality $frac{sqrt{2^r}kappa^{frac ra}(loglog N)^{frac{br}a}} {a^{frac{br}a}(log N)^{frac ra}} simle delta_4(N,r) simle frac{2^r(2kappa)^{frac ra}(loglog N)^{frac{br}a}} {a^{frac{br}a}(log N)^{frac ra}}, N oinfty$ holds. For Wiener measure in $L_2[0,1]$, the asymptotics of $delta_1(N,2)$ is well known: $frac2{pi^2log N}simdelta_1(N,2) le delta_2(N,2) le delta_3(N,2) le delta_4(N,2) simle frac1{log N},q N oinfty$ We conclude $limsup_{N oinfty}frac{delta_4(N,2)}{delta_1(N,2)} ge frac{pi^2}8&gt;1$.</dc:description>
+          <dc:date>2001-10-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/197</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1924</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1924</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/197/fehringer_franz.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

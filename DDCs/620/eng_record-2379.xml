@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2379">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2379</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Der Einfluss der konzentrationsinduzierten Marangonikonvektion auf den instationären Impuls- und Stofftransport an Einzeltropfen</dc:title>
+          <dc:title xml:lang="eng">The impact of the solutal Marangoni convection on the unsteady momentum and mass transfer at single droplets</dc:title>
+          <dc:creator>Wegener, Mirco</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Flüssig/flüssig-Extraktion ist eine häufig verwendete Grundoperation in der Chemieindustrie. Wichtige für die Auslegung benötigte Parameter werden auf Grundlage von Einzeltropfenexperimenten gewonnen. Besondere Bedeutung kommt der Phasengrenze zu, an der die relevanten Transportprozesse stattfinden. Verfügbare Modelle versagen oftmals für Systeme, in denen Marangonikonvektion auftritt. Diese kann den Stofftransport um ein Vielfaches verstärken und die Aufstiegsgeschwindigkeit temporär reduzieren. Marangonikonvektion ist bisher zu komplex für eine analytische Beschreibung. Der Einfluss der Marangonikonvektion auf Impuls- und Stofftransport von Einzeltropfen wird experimentell und numerisch untersucht. Aufstiegsgeschwindigkeit und Konzentration werden in einer Laborkolonne unter Variation von Anfangskonzentration, Stofftransportrichtung und Durchmesser als Funktion der Kontaktzeit ermittelt. Für die Simulationen wird der CFD-Code STAR-CD verwendet. Tropfen und Umgebung werden durch ein 360° 3D-Modell abgebildet, die Marangonikonvektion wird über die Schubspannungsbilanz implementiert. Der Tropfen ist kugelförmig und zu Beginn in Ruhe, Beschleunigungseffekte werden berücksichtigt. Ausgehend vom experimentell verwendeten Stoffsystem werden Parameterstudien durchgeführt. Marangonikonvektion verbessert die radiale Vermischung im Tropfen und verstärkt den Stofftransport im untersuchten Konzentrationsbereich um den Faktor 2-3 gegenüber dem System mit konstanter Grenzflächenspannung in beiden Transportrichtungen. Bereits nach der Tropfenbildung können bis ca. 60% des Stofftransports beendet sein. Das Beschleunigungsverhalten ist ein sensitiver Indikator für Stärke und Dauer der Marangonikonvektion, für die eine graphische Korrelation zur Vorhersage entwickelt werden kann. Formoszillationen verbessern den Stofftransport zusätzlich, der in diesem Regime mit einem modifizierten Modell nach Handlos &amp; Baron beschrieben werden kann. Die Simulationen bestätigen qualitativ die fluiddynamischen Effekte. Der Stofftransport wird auch quantitativ gut beschrieben, im Bereich nicht-oszillierender Tropfen beträgt die Abweichung maximal 20%. Die Variation des Viskositätsverhältnisses zeigt im Gegensatz zur Vorhersage nach Sternling &amp; Scriven immer Marangonikonvektion. Auch eine Reduktion des Grenzflächenspannungsgradienten um den Faktor 100 führt noch zu einer Verbesserung des Stofftransports. Wird dagegen der Verteilungskoeffizient erhöht, schwächt sich Marangonikonvektion ab. Bei Werten um 10 ist praktisch kein Einfluss auf den Stofftransport mehr erkennbar.</dc:description>
+          <dc:description xml:lang="eng">Liquid/liquid extraction is a frequently used unit operation in chemical processes. Some important design parameters can be derived from single drop experiments. The relevant transport phenomena occur at the interface between droplets and the ambient liquid, the interfacial region is thus of particular importance. Available models oftentimes fail for systems where Marangoni convection occur. Marangoni convection can enhance mass transfer severalfold and is able to reduce the drop rise velocity temporarily. Up to now, Marangoni convection is too complex for an analytical description. The influence of Marangoni convection on momentum and mass transfer at single rising droplets is investigated experimentally and numerically. Drop rise velocity and mean concentration are determined under variation of initial solute concentration, mass transfer direction and droplet diameter as a function of contact time in a pilot plant. For the simulations, the CFD-Code STAR-CD is used. Droplet and ambient liquid are represented by a full 360° 3D model, the Marangoni convection is implemented via the shear stress balance. The droplet is spherical and initially at rest, acceleration effects are considered. Based on the experimental system, numerical parameter studies are carried out. Marangoni convection promotes radial mixing inside the droplet and enhances mass transfer in the investigated concentration range by a factor of 2-3 compared to the case with constant interfacial tension in both mass transfer directions. After droplet formation, up to 60% of mass transfer can already be completed. The acceleration behaviour is a sensitive indicator for strength and duration of Marangoni convection, a graphical correlation is derived to predict the reacceleration time. Shape oscillations can enhance mass transfer additionally, in this regime mass transfer is described with a modified Handlos &amp; Baron model. The simulations confirm qualitatively the fluid dynamic effects. Mass transfer is also quantitatively in good agreement with the experiments. In the non-oscillating regime, the deviation does not exceed 20%. The variation of the viscosity ratio shows always Marangoni convection which is in contradiction to the Sternling &amp; Scriven theory. Even a reduction of the interfacial tension gradient by a factor of 100 leads to significant mass transfer enhancement. But if the distribution coefficient is increased, Marangoni convection weakens. For values of the distribution coefficient around 10, practically no influence of Marangoni convection on mass transfer is noticeable.</dc:description>
+          <dc:date>2009-12-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2379</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25070</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25070</dc:identifier>
+          <dc:identifier>978-3-86853-254-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2379/wegener_mirco.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

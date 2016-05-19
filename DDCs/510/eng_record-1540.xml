@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1540">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1540</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Laughlin's wave function, plasma analogies and the fractional quantum Hall effect on infinite cylinders</dc:title>
+          <dc:title xml:lang="deu">Laughlins Wellenfunktion, Plasma-Analogien und der fraktionale Quanten-Hall-Effekt auf unendlich langen Zylindern</dc:title>
+          <dc:creator>Jansen, Sabine</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand dieser Dissertation ist die Untersuchung von Laughlins Wellenfunktion auf einem Zylinder. Die Ergebnisse sind sowohl fuer die Theorie des fraktionalen Quanten-Hall-Effekts als auch fuer die klassische statische Mechanik geladener Teilchen in einem neutralisierenden Hintergrund von Interesse. Wir zeigen, dass Laughlins Wellenfunktion als Quanten-Polymer-System'' dargestellt werden kann. Die L^2-Norm ist die Zustandssumme eines Polymersystems mit translationsinvarianter Aktivitaet. Die Aktivitaet kann zu einer stabilen Aktivitaet reskaliert werden. Das Polymersystem steht wiederum in engem Zusammenhang mit einem Erneuerungsprozess. Unter der Voraussetzung einer endlichen mittleren Wartezeit in diesem Prozess zeigen wir, dass Laughlins Zustand einen wohldefinierten thermodynamischen Limes besitzt. Dabei lassen wir die Laenge des Zylinders bei konstanter Dichte und konstantem Radius gegen unendlich gehen. Der Grenzzustand ist invariant und mischend bzgl. bestimmter Translationen laengs der Zylinderachse. Bei Fuellfaktor 1/p ist die Periode gerade das p-fache der Periode des gefuellten Landaubandes. Fuer hinreichend duenne Zylinder zeigen wir, dass die Wartezeit des Erneuerungsprozesses tatsaechlich endlich ist und die soeben erwaehnte Periode auch die kleinste Periode ist. Weiter definieren wir modifizierte Zylinder- und Torusfunktionen, die ebenfalls in Verbindung zu Polymersystemen stehen. Die Definition verwendet Funktionen mit kompaktem Traeger. Bei hinreichend kleinem Traeger entspricht die Zylinderfunktion einem Monomer-Dimer-System, waehrend die Torusfunktion einem Monomer-Dimer-System auf einem Ring, moeglicherweise noch mit einem zusaetzlichen langen Polymer, entspricht. Dieses Monomer-Dimer-System ist explizit loesbar; Torus- und Zylinder- Monomer-Dimer- Funktionen sind im Limes langer Zylinder aequivalent. Wir gehen auf die Bedeutung unserer Ergebnisse im Sinne von Laughlin's Plasmaanalogie ein. Wir zeigen, dass im Limes duenner Zylinder unsere Ergebnisse bzgl. der Normierungskonstanten bzw. freier Energien und bzgl. der Einteilchendichten konsistent mit bekannten Ergebnissen ueber eindimensionale Plasmasysteme sind. Ferner zeigen wir, dass unsere Schranken ueber Normierungskonstanten gut zu Asymptotiken der freien Energien breiter halbperiodischer Streifen passen. Laughlins Funktion bei Fuellfaktor 1/3 ist der exakte Grundzustand eines geeigneten Hamiltonoperators. Wir weisen nach, dass Grundzustaende dieses Hamiltonoperators mit unendlich vielen Teilchen bei Fuellfaktor 1/3 notwendigerweise eine Symmetriebrechung aufweisen, wenn es eine Spektralluecke ueber dem Grundzustand gibt. Schliesslich betrachten wir ein einfaches Modell fuer Ladungstransport auf Zylindern und untersuchen den Zusammenhang zwischen der Periodizitaet der Einteilchendichte und fraktionalem Ladungstransport.</dc:description>
+          <dc:description xml:lang="eng">We investigate Laughlin's wave function on a cylinder. The results are of interest for the fractional quantum Hall effect and for the classical statistical mechanics of charged particles moving in a neutralizing background. We show that Laughlin's cylinder function is related to a quantum polymer'' system. The L^2-norm squared is a polymer partition function with translationally invariant activity. The activity can be rescaled to a stable activity. The polymer system is related to a renewal process. We show that if the renewal process has finite mean, Laughlin's state on the cylinder has a well-defined thermodynamic limit as the cylinder gets infinitely long, the radius being kept fixed. The limiting state is invariant and mixing with respect to shifts along the axis. At filling factor 1/p, the period is p times the period of the filled Landau band. On sufficiently thin cylinders, we show that the associated renewal process has indeed finite mean and the period mentioned above is the smallest period. We define a class of modified torus and cylinder Laughlin-type wave functions. These are still associated with polymer systems. The definition uses functions of compact support. If the support is small, the cylinder function is associated with a monomer-dimer system, and the torus function with a monomer-dimer system on a ring with possibly one additional long polymer. The monomer-dimer case is solvable, and monomer-dimer cylinder and torus functions are equivalent in the limit of long cylinders. We interpret our result in view of Laughlin's plasma analogy. We show that in the limit of thin cylinders, our results on normalization / free energies and the one-particle density are consistent with existing results on one-dimensional systems. We show that our bounds on normalization constants are consistent with large strip asymptotics of the free energy of a jellium system on a semiperiodic strip. Laughlin's function at filling factor 1/3 is the ground state of a suitable Hamiltonian. We show that, on the cylinder, gapped infinite volume ground states of this Hamiltonian necessarily display a kind of translational symmetry breaking. Finally, we look at a simple model of bulk charge transport on the cylinder and examine the relationship between our symmetry breaking result and fractional charge transport.</dc:description>
+          <dc:date>2007-07-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1540</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16013</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16013</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1540/original_jansen_sabine.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1540/jansen_sabine.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

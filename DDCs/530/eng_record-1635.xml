@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1635">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1635</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Evolutionary Engineering of Complex Functional Networks</dc:title>
+          <dc:title xml:lang="deu">Evolutionäre Entwicklung von komplexen funktionalen Netzwerken</dc:title>
+          <dc:creator>Kaluza, Pablo</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Complex biological networks are responsible for many fundamental processes in living organisms, including signal transduction and genetic expression in biological cells and signal processing in neural networks. These functional networks, a product of the evolution, are characterized by their robustness against damages, mutations and noise. Functionality and robustness are reflected in their architectures which exhibit structures different from random networks and lattices. To design functional networks, robust against local damages and noise, and to study, how the requirements of functionality and robustness are reflected in their architecture, are the objectives of this work. Our studies are performed using a model of flow distribution networks representing a simplification of biological signal transduction systems. In the model, networks process signals (fluxes) passing from input to output nodes, and generate output patterns which define the function of a network. The design of networks with prescribed functions (output patterns) is performed by using an evolutionary process of mutations and selections. Furthermore, not only functionality, but also the requirements of different kinds of robustness are imposed in the network design. Three criteria of robustness are considered: robustness against the deletion of randomly chosen nodes or links and robustness against distributed noise. Remarkable differences between architectures of the designed networks, depending on the criteria of robustness imposed during their construction, are observed. Particularly, motif distributions of these networks are different. Comparing them with real biological networks, we have found that the networks robust against deletion of links show motif distributions which are very similar to those of some neural systems and to the development transcription and signal transduction networks of biological macroorganisms. An evolutionary process, similar to that used to construct robust networks, has been employed in a reverse engineering problem. Using it, we have constructed networks with given Laplacian spectra. We have demostrated that construction of networks with a prescribed Laplacian spectrum is possible. Statistical structural properties of families of cospectral graphs have been analyzed.</dc:description>
+          <dc:description xml:lang="deu">Viele fundamentale Prozesse in lebenden Organismen, darunter Signaltransduktion und Genexpression in biologischen Zellen und Signalverarbeitung in neuronalen Netzen, laufen in komplexen biologischen Netzwerken ab. Charakteristisch für diese funktionalen Netzwerke, die im Laufe der Evolution entstanden sind, ist ihre Robustheit gegen Beschädigungen, Mutationen und Rauschen. Funktionalität und Robustheit spiegeln sich wider in ihren Architekturen, die Strukturen zeigen, welche sich sowohl von zufälligen Netzwerken als auch von (regelmässigen) Gittern unterscheiden. Funktionale Netzwerke zu entwerfen, die robust sind gegen lokale Beschädigungen und Rauschen sowie zu untersuchen, wie die Anforderungen von Robustheit und Funktionalität in ihrer Architektur reflektiert wird, ist das Ziel dieser Arbeit. Dazu wird ein Flussverteilungsnetzwerkmodell betrachtet, das eine Vereinfachung biologischer Signaltransduktionssysteme darstellt. In diesem Modell verarbeiten die Netzwerke von den Eingangs- zu den Ausgangsknoten laufende Signale (Flüsse) und erzeugen Ausgabemuster, die die Funktion eines Netzwerks definieren. Netzwerke mit vorgebenen Funktionen werden durch einen evolutionären Prozess aus Mutationen und Selektionen erzeugt. Bei diesem Prozess wird nicht nur die Funktionalität des Netzwerks vorgegeben, sondern es werden auch die Anforderungen an die verschiedenen Arten von Robustheit definiert. Drei Kriterien für Robustheit werden betrachtet: Robustheit gegen die zufällige Auslassung von Knoten oder Verbindungen und die Robustheit gegenüber verteiltem Rauschen. Abhängig von den Vorgaben für Robustheit während des Erzeugungsprozesses, lassen sich bemerkenswerte Unterschiede in der Architektur der Netzwerke beobachten. Besonders treten diese Unterschiede bei den Motivverteilungen der erzeugten Netzwerke hervor. Im Vergleich mit realen biologischen Netzwerken stellte sich eine starke Ähnlichkeit der Motivverteilungen derjenigen Netzwerke, die robust gegen die Auslassung von Verbindungen sind, zu denen einiger neuronaler Systeme sowie zu Signaltransduktionsnetzwerken und development transcription in biologischen Makroorganismen heraus. Ein evolutionärer Prozess, Ähnlich dem bei der Konstruktion robuster Netzwerke verwendeten, wurde zur Lösung eines Reverse-Engineering-Problems benutzt. Mit seiner Hilfe wurden Netzwerke mit gegebenen Laplace-Spektren erzeugt. Es wurde gezeigt, dass es möglich ist, Netzwerke mit einem vorgegebenen Laplace-Spektrum zu konstruieren. Statistische Struktureigenschaften von Familien kospektraler Graphen wurden analysiert.</dc:description>
+          <dc:date>2007-12-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1635</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17076</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17076</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1635/original_kaluza_pablo.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1635/kaluza_pablo.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

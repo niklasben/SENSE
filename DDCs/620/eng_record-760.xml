@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:760">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:760</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aktiv verbesserte Aufsätze für Schallschutzwände</dc:title>
+          <dc:title xml:lang="eng">Improved shielding effect of noise screens by means of actively controlled headpieces</dc:title>
+          <dc:creator>Koh, Hyo-In</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die frühere theoretische Untersuchung von zylindrischen Aufsätzen an Schallschirmen hat gezeigt, dass für die Abschirmung des Schattenfeldes hinter Schallschirmen die tangentiale Leistungsführung parallel zur Kantenoberfläche ausschlaggebend ist. Eine theoretische und numerische Untersuchung über das Schallfeld im Bereich eines aktiven Aufsatzes wurde durchgeführt, um die Wirkungsweise der aktiven Maßnahme bei einem Schallschirm verstehen und daraus Optimierungsmöglichkeiten ableiten zu können. Die bisherigen Untersuchungen von Lärmschutzwänden mit passiven Maßnahmen haben Erfolge für mittlere und hohe Frequenzen gezeigt. Mittels sekundären Schallfeldes, das durch einen Teil der Aufsatz-Oberfläche erzeugt wird, wurde das primäres Schallfeld auf der Oberfläche des Schallschirmaufsatzes so geregelt, dass die tangential zur Aufsatz-Oberfläche fließende Leistung im Schattengebiet des Schirmes vor allem im tieffrequenten Bereich reduziert wird. Dabei wird das Verbesserungsmaß durch die aktive Regelung im Fernfeld hinter der Schirm bestimmt. Es war möglich, optimale Bedingungen für die lokale Schalldruckminimierung festzustellen, womit das Eindringen des Schallfeldes in den Schallschatten verhindert bzw. vermindert wurde und bis zu einer großen Entfernung vom Schallschirm ein ausgeprägter Schallschatten erzeugt werden konnte. Durch ein Modellexperiment in einem reflexionsarmen Raum wurde die Tendenz der Wirkung der Position der sekundären Schallquelle und die Position der Schalldruckminimierung aus den Berechnungen bestätigt, Faktoren, die unter praxisnahen Bedingungen die aktive Aufsätze beeinflussen wurden untersucht.</dc:description>
+          <dc:description xml:lang="eng">On the basis of theoretical studies on the effect of the cylinders attached to acoustical screens, first a numerical study of actively controlled headpieces of noise screens has been presented. According to the theoretical investigations the tangential sound power-transport parallel to the surface of the attached cylinder is crucial in the shielding effect. On the basis of a two dimensional mathematical model consists of a rigid surfaced cylindrical body attached to a rigid surfaced half plane, the sound pressure on the surface of the cylndrical headpiece is actively minimized to divert the tangential power transport along the surface as much as possible, i.e. the sound field on the surface was locally minimized. The calculation showed that a deflection of the incident sound was possible by means of a secondary sound field. The acoustical shadow region was more pronounced in both near- and far-field compared to the passive case with rigid surface. For a relatively wide frequency range it was also possible to find optimal conditions for the secondary sources and for the error microphones. Through model experiments the physical principle from the theoretical study could be realized practically by means of active control. The optimal configurations, which were found in the numerical analysis were also proven to be effective in the experiment.</dc:description>
+          <dc:date>2004-08-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/760</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7547</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7547</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/760/koh_hyoin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

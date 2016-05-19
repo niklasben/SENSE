@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2370">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2370</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einfluss eines diabaten Turboladermodells auf die Gesamtprozess-Simulation abgasturboaufgeladener PKW-Dieselmotoren</dc:title>
+          <dc:title xml:lang="eng">Influence of a Non-Adiabatic Turbocharger Model on Overall Engine Process Simulation of Turbocharged Passenger Car Diesel Engines</dc:title>
+          <dc:creator>Berndt, René</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Gesamtprozess-Simulation abgasturboaufgeladener Motoren erfolgt unter Zuhilfenahme entsprechender Kennfelder für Verdichter und Turbine. Diese Kennfelder werden im Allgemeinen auf einem Turboladerprüfstand bei definierten Randbedingungen beim Turboladerhersteller gemessen. Die so ermittelten Kennfelder decken jedoch nur einen bestimmten Betriebsbereich des Turboladers ab, der Bereich kleiner Turboladerdrehzahlen, der für den motorischen Teil- und Schwachlastbetrieb relevant ist, wird nicht erfasst. Mathematisch basierte Extrapolationsalgorithmen machen diesen Bereich zwar zugänglich, die Genauigkeit der Ergebnisse ist aber zum Teil unzureichend. Die vorliegende Dissertation befasst sich zunächst mit der Abhängigkeit der allgemein bekannten Verdichter- und Turbinenwirkungsgrade von der Turbineneintrittstemperatur bei derart kleinen Turboladerdrehzahlen. Dazu wurden zu einem Turbolader Versuche auf einem Turboladerprüfstand, insbesondere bei extrem niedrigen Drehzahlen, bei inversen Verdichter-Druckverhältnissen als auch bei verschiedenen Turbineneintrittstemperaturen, durchgeführt. Als wesentliche Ursache der sich ergebenden Abhängigkeiten wurden die inneren Wärmeflüsse des Turboladers identifiziert, so dass zur Berücksichtigung dieser Abhängigkeiten das Diabatverhalten des Turboladers beschrieben werden muss. Die Dissertation greift einen physikalisch basierten, diabaten Modellansatz für den Turbolader auf, der die Turboladeraerodynamik von den Wärmeübertragungseffekten trennt und die bekannten Wirkungsgraddefinitionen für Verdichter und Turbine entsprechend erweitert. Es wird sowohl über die Leistungsfähigkeit einer stand-alone-Version dieser diabaten Turboladermodellierung als auch über das Zusammenwirken mit zwei Programmpaketen zur Motorgesamtprozess-Simulation (THEMOS, PROMO) berichtet. Stationäre Versuche zu einem PKW-Dieselmotor bildeten die Grundlage für eine schrittweise und ausführliche Analyse der Auswirkungen des Diabatansatzes auf die Simulationsergebnisse.</dc:description>
+          <dc:description xml:lang="eng">Overall process simulation of turbocharged engines presently is based on measured turbocharger performance maps, which are typically determined by the turbocharger manufacturer on turbocharger test rigs under steady state conditions. Usually, these maps cover only a limited turbocharger operating range. The range of low turbocharger speeds, which is relevant for the part load engine operation range, is not included. Mathematically based extrapolation algorithms are able to calculate this range, but the results are partly inadequate. This dissertation deals with the dependency of compressor and turbine efficiencies on the turbine inlet temperature at such low turbocharger speeds. Experimental investigations were conducted on a turbocharger test rig especially at extremely low speeds, inverse compressor pressure ratios and different turbine inlet temperatures. The internal heat flow from the turbine to the compressor was detected to be the main cause of these dependencies. In order to consider these influences the non-adiabatic behaviour of the turbocharger should be described. A physically meaningful, non-adiabatic method of turbocharger performance prediction is picked up in this dissertation. This method takes into account the internal heat flow in turbochargers as well as the aerodynamic performance of the compressor and the turbine, respectively. At first it is referred about the capability of a stand-alone program using the turbocharger model proposed above, extending the performance prediction down to zero turbocharger speed. After integration into two program systems simulating the overall engine process this turbocharger model is subsequently verified by calculation/measurement comparisons. Steady state experiments with a passenger car diesel engine were performed for a stepwise and comprehensive impact study of the non-adiabatic turbocharger model on computational results of both, zero-dimensional (THEMOS) and one-dimensional (PROMO) engine process models.</dc:description>
+          <dc:date>2009-12-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2370</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24922</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24922</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2370/berndt_rene.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

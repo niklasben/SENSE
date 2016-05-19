@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4240">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4240</identifier>
+        <datestamp>2013-10-09</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Elektrochemische Aktivierung kleiner Moleküle am Beispiel der CO2 Reduktion und der Methanoxidation</dc:title>
+          <dc:title xml:lang="eng"> Electrochemical activation of small molecules by the example of the CO2 reduction and the methane oxidation</dc:title>
+          <dc:creator>Reske, Rulle</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Die Verwendung von überschüssigem Strom zur Umwandlung von „Niedrig-Energie-Molekülen“, wie Kohlenstoffdioxid (CO2), in nützliche Chemikalien oder Kraftstoffe, wie Kohlenwasserstoffe und Methanol, wird zu einem immer wichtigeren Thema in der Forschung und Industrie. Es ist bekannt, dass CO2 an Kupferkatalysatoren bei guten Stromausbeuten elektrochemisch zu Methan und Ethylen reduziert werden kann. Die zielgerichtete Lenkung der CO2 Reduktion zu diesen gewünschten Produkten bleibt weiterhin eine große Herausforderung. Dazu ist es nötig, den Reaktionsmechanismus und die Kinetik der elektrokatalytischen CO2 Reduktion besser aufzuklären. Die Erforschung und Entwicklung neuer elektrochemischer Katalysatoren und Verfahren sind für eine wirtschaftliche Nutzung nötig.&#13;
+Methanol wird als Ausgangsstoff zur Synthese vieler organischer Verbindungen verwendet. Die großtechnische Herstellung erfolgt aus Methan, welches zu Synthesegas reformiert wird, um es chemisch zu aktivieren. Diese Reformierung erfolgt heutzutage immer noch bei hohen Temperaturen und Drücken, was zu einem enormen Energieverbrauch führt. Die Produktion von Methanol ist in den letzten Jahren stetig angestiegen und auch das Umdenken zu klimafreundlicheren Herstellungsprozessen veranlasst die Forschung und Industrie, neue katalytische Verfahren zu entwickeln, um sich Methan energieeffizienter zu Nutze zu machen.&#13;
+In dieser Doktorarbeit wurde eine Kombination aus Linear Sweep Voltammatrie (LSV), Chronoamperometrie (AMP), DEMS (differentielle elektrochemische Massenspektrometrie) und Gaschromatographie (GC) verwendet. Die Produktverteilung und Selektivität für Methan und Ethylen wurden während der elektrochemischen CO2 Reduktion an polykristallinen Kupferelektroden in Abhängigkeit des Reduktionspotentials, der Temperatur, und der Oberflächenrauigkeit sowie der Einfluss von Halogeniden auf die Reaktion untersucht. Weiterhin wurden katalytische Effekte von nanoskalierten Kupferschichten und Nanopartikeln auf die Selektivität der CO2 Umsetzung aufgedeckt. Intermetallisches Gallium-Palladium wurde als neues Katalysatormaterial für die elektrochemische CO2 Reduktion erforscht und die resultierenden Aktivitäten und Selektivitäten mit anderen polykristallinen Metallen verglichen. Weiterhin ließ sich CO2 an katalytisch aktiven Gold-Platin-Nanopartikeln zu Synthesegas (CO und H2) reduzieren, wobei das H2/CO-Verhältnis über die Variation des Goldanteils einstellbar ist.&#13;
+Die elektrochemische Erzeugung von reaktiven Sauerstoffspezies, wie Superoxide durch Sauerstoffreduktion an Platin und Gold in ionischen Flüssigkeiten und Hydroxylradikale durch Wasseroxidation in wässrigen Elektrolyten an bordotierten Diamantelektroden, wurde für die direkte Oxidation von Methan bei niederen Temperaturen untersucht. Während die Erzeugung von hochreaktiven Sauerstoffspezies gelang, stellt bei den gewählten Versuchsparametern die Methanoxidation noch eine große Herausforderung dar.&#13;
+Die Erkenntnisse dieser Doktorarbeit können genutzt werden, um den Mechanismus und die selektivitätskontrollierenden Parameter der elektrochemischen CO2 Reduktion besser zu verstehen und um Strategien zu entwickeln, die Produktverteilung gezielt zu steuern.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">The utilization of excess electricity for the conversion of "low-energy" molecules, such as carbon dioxide (CO2) into useful chemicals or fuels such as hydrocarbons and methanol, is becoming an increasingly important topic in science and industry. It is well known that CO2 can be electrochemically reduced to methane and ethylene on copper catalysts with good current yields. Controlling the selectivity of the CO2 reduction towards the desired products still remains a major challenge. For this purpose, it is necessary to elucidate the reaction mechanism and kinetics of the electrocatalytic CO2 reduction. To this end, new catalysts and electrochemical methods are developed and tested.&#13;
+Methanol is used as a chemical precursor for the synthesis of numerous organic compounds. The large-scale synthesis of methanol is based on methane which is activated synthesis gas by steam reforming. This reformation process requires high temperatures and pressures, leading to huge consumption of energy. In the recent years, the production of methanol has steadily risen and the rethinking of alternatively climate-friendly production processes has prompted the academia and industry to develop new catalytic processes in order to take advantage of methane much more energy-efficiently.&#13;
+In this thesis, a combination of linear sweep voltammetry (LSV), chrono amperometric measurements (AMP), DEMS (Differential Electrochemical Mass Spectrometer) and gas chromatography (GC) was used. The product distribution and selectivity towards methane and ethylene during the electrochemical reduction of CO2 on polycrystalline copper electrodes were studied depending on the reduction potential, temperature and surface roughness as well as influence of halides on the reaction. Furthermore, the catalytic effects of nanoscaled copper layers and nanoparticles on the selectivity of CO2 conversion were analyzed. In this work, an intermetallic gallium-palladium catalyst was tested as a new material for the electrochemical reduction of CO2 and the resulting activity and selectivity were compared to other polycrystalline metals. As well, the formation of synthesis gas (CO and H2) produced by CO2 reduction on catalytically active gold and platinum nanoparticles is shown in this thesis. Tuning of H2/CO ratio was realized by varying the gold content in bimetallic nanoparticles mixtures.&#13;
+Beside electrochemical CO2 reduction, the electrochemical generation of reactive oxygen-containing species such as super oxides produced by oxygen reduction on platinum and gold in ionic liquids, and hydroxyl radicals formed by oxidation of water in aqueous electrolytes on boron-doped diamond electrodes, were studied for the direct oxidation of methane at low temperatures. However, under the chosen conditions, the detected oxygen-containing species showed no direct oxidation of methane.&#13;
+The new insights, acquired from this research helps to provide a better understanding of the mechanism and the parameters controlling the selectivity of the electrochemical CO2 reduction. They also aid in developing practical strategies into how the product distribution and selectivities can be controlled.&#13;
+</dc:description>
+          <dc:date>2013-07-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4240</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-42402</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-42402</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4240/reske_rulle.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

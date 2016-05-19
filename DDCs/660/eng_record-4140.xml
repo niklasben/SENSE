@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4140">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4140</identifier>
+        <datestamp>2013-11-11</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Fluiddynamik und zum Stofftransport der Filmströmung an senkrechten Drähten</dc:title>
+          <dc:title xml:lang="eng">Investigations on fluid dynamics and mass transfer of film flow at vertical wires</dc:title>
+          <dc:creator>Grünig, Jochen</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Packungskolonnen werden in vielen Destillations- und Absorptionsprozessen in der chemischen Industrie eingesetzt. Ein innovatives Konzept ist die Drahtbündelpackung, bei dieser ist ein vertikales Drahtbündel mit einem Flüssigkeitsverteiler verbunden welcher einen Fallfilm auf den Drähten erzeugt. Im Vergleich zu herkömmlichen strukturierten Packungen verspricht das Konzept Vorteile im Hinblick auf Druckverlust, Belastungsgrenzen und Flüssigkeitsverteilung in der Packung. Bisher wurde die Drahtbündelpackung lediglich im Labormaßstab verwirklicht, eine Eignung unter industriellen Bedingungen muss noch nachgewiesen werden.&#13;
+Um die Fluiddynamik und den Stofftransport der Filmströmung im Detail zu untersuchen, wurden experimentelle Untersuchungen mit Einzeldrähten in einem Testkanal (Abmessungen: 20 mm x 20 mm x 1000 mm) durchgeführt. Die untersuchten Drahtgeometrien waren ein zylindrischer Draht (Durchmesser: 1 mm) sowie unterschiedliche Ketten und ein Bündel aus 16 Drähten. Für verschiedene Flüssigkeiten wurden die Belastungsgrenzen, die lokale Filmdicke, die Perlengeschwindigkeit, der Hold-up der Flüssigkeit, der Druckverlust sowie die gas- und flüssigkeitsseitigen Stofftransportkoeffizienten bei verschiedenen Gas- und Flüssigkeitsbelastungen gemessen. Die Ergebnisse der Einzeldrahtuntersuchungen wurden herangezogen, um das Verhalten einer Drahtbündelpackung vorherzusagen.&#13;
+Der Flüssigkeitsfilm zeigt sich schnell bewegende Flüssigkeitsperlen welche über einen dünnen Basisfilm laufen. Der auslösende Mechanismus der Perlenbildung ist die Rayleigh-Plateau-Instabilität, welche u. a. bei stark gekrümmten Flüssigkeitsfilmen auftritt und die Filmoberfläche verringert. Bei steigender Gasbelastung werden die Perlen zunehmend größer und kompakter bei abnehmender Perlenfrequenz. Der Hold-up der Flüssigkeit und die Perlengeschwindigkeit werden allerdings von der Gasbelastung nicht beeinflusst. Aufgrund ihrer Krümmung wächst die Filmoberfläche mit zunehmender Flüssigkeitsbelastung als Resultat steigender Filmdicken. Der gas- und flüssigkeitsseitige Stofftransport wird durch die Perlenbewegung verbessert und ist annähernd doppelt so hoch wie bei der Filmströmung an ebenen Oberflächen. Einige Ketten unterdrücken die Perlenbewegung, was zu höheren Belastungsgrenzen und schlechteren Stoffübergangskoeffizienten führt.&#13;
+Bei einem Drahtabstand von 5 mm würde eine Drahtbündelpackung aus zylindrischen Drähten (Durchmesser 1 mm) eine trockene Packungsoberfläche von 125 m2/m3 aufweisen, wobei diese bei höherer Flüssigkeitsbelastung auf bis zu 200 m2/m3 ansteigen würde. Die vorausgesagte Trennleistung ist vergleichbar zu herkömmlichen strukturierten Packungen, wobei der spezifische Druckverlust um eine Größenordnung geringer ist und die Belastungsgrenzen deutlich höher sind. Mögliche Anwendungen für die Drahtbündelpackung könnten Absorptionsprozesse wie z. B. die Rauchgasreinigung sein, bei denen sie zu Steigerungen des Gesamtwirkungsgrads beitragen könnte.&#13;
+&#13;
+</dc:description>
+          <dc:description xml:lang="eng">Packed columns are widely used for distillation and absorption processes in the chemical industry. An innovative concept is the wetted wire column, it features a vertical wire bundle that is attached to a liquid distributor which creates a falling film on each wire. It shows promise to have several advantages compared to common structured packings in terms of pressure drop, load limits and liquid distribution in the packing. Since this concept has only been realised on laboratory scale, the feasibility under industrial conditions still has to be proven.&#13;
+To examine the fluid dynamics and mass transfer of the film flow on the wires in a counter current gas flow in detail, experimental studies were performed with single wires in a test channel of 20 mm x 20 mm x 1000 mm. Tested wire geometries were a cylindrical wire with a diameter of 1 mm, different chains and a bundle of 16 cylindrical wires. For different liquids, the load limits, local film thickness, liquid bead velocity, liquid hold-up, pressure drop and the gas and liquid side mass transfer coefficients were measured at different gas and liquid loads. The results of the single wire experiments were used to predict the performance of a wire bundle packing.&#13;
+The liquid film shows fast travelling liquid beads on a thin basis film layer. The initial mechanism for bead formation is the Rayleigh-Plateau instability which occurs at liquid films on strongly curved surfaces and reduces the film surface area. As the gas load increases, the beads are getting bigger and are deformed to a compact shape, but the bead frequency decreases. However, the liquid hold-up and the bead velocity are not depending on gas load. Due to its curvature, the film surface area rises with increasing liquid load as a result of higher film thickness. The gas and liquid side mass transfer is enhanced by the bead movement and is up to two times higher than for planar film flow. It revealed that chains can suppress bead movement resulting in higher load limits but lower mass transfer coefficients.&#13;
+With a wire spacing of 5 mm, a packing of  cylindrical wires (1 mm in diameter) would have a dry packing surface of 125 m2/m3 and at high liquid loads, the effective interfacial area would rise up to 200 m2/m3. The predicted separation efficiency is comparable to common structured packings, but the associated specific pressure drop is one order of magnitude lower and the load limits are significantly higher. Suitable applications for wetted wire columns could be absorption processes like flue gas cleaning at which they could enhance the overall efficiency of the process.</dc:description>
+          <dc:date>2013-11-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4140</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41403</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41403</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4140/gruenig_jochen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

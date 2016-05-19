@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:02Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:410">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:410</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Extremale Steuerstrategien für Sonnensegler am Beispiel von Bahntransferproblemen zum Erdmond</dc:title>
+          <dc:title xml:lang="eng">Extremal Steering Strategies for Solar Sails applied on Orbit Transfer Problems to the Earth-Moon</dc:title>
+          <dc:creator>Pagel, Gajus</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">Diese Forschungsarbeit beschreibt die Möglichkeiten, extremale Steuerstrategien zur Simulation und Optimierung von Sonnensegelbahnen einzusetzen. Die entwickelten Steuerstrategien werden hinsichtlich eines geozentrischen Missionsszenarios, einem Bahntransfer aus dem GTO zum Mond, analysiert. Dabei werden lokalextremale und zeitoptimale Lösungsansätze verfolgt und erfolgreich zur Lösung des Randwertproblems kombiniert. Während die zeitoptimalen Steuerstrategien mit Hilfe des Pontryaginschen Maximumprinzips und der Mittelwertmethode numerisch bestimmt werden, basieren die in dieser Forschungsarbeit entwickelten lokalextremalen Steuerstrategien auf Funktionalen, die gezielt bestimmte Bahnelemente oder Kombinationen verschiedener Bahnelemente extremal anpassen. Die erzielten Ergebnisse belegen den Erfolg der Ansätze. Unter anderem wird erstmals die bahnmechanische Möglichkeit vorgestellt, das Bahntransferproblem zum Mond mit einem Sonnensegler mit Hilfe eines gravitativen Einfangs durch den Mond (Weak stability boundary Transfer) zu unterstützen.</dc:description>
+          <dc:description xml:lang="eng">This research paper summarizes possibilities of applying extremal steering strategies to simulation and optimization of solar sail trajectories. The steering strategies developed are analyzed with regard to a geocentric mission scenario considering orbit transfer problems from GTO to the Moon via a weak stability boundary (WSB) transfer. Within this context local state extremizing and time optimizing solution methods have been looked at and have been combined sucessfully in order to solve five state boundary value problems. Local state extremizing steering strategies are based on functions, which extremize and adjust certain state parameters or their combinations, i. e. to extremize the rate of change of the relative orbit momentum vector. They are applied to adjust the initial GTO to trajectory conditions which can be used effectively by the time optimizing solution procedure as input. The time optimizing steering strategies are found numerically using the maximum principle of Pontryagin and averaging techniques and solve the solar sail transfer problem for geocentric WSB conditions. Geocentric WSB conditions are derived by direct numerical backward integration of the equations of motion starting from a quasi-stable lunar polar orbit (LPO). The quasi-stable LPO parameters are approximated using the Tisserand parameter. The received results verify the success of the methods applied. For the first time an orbit mechanical possibility is presented to support a solar sail mission to the Moon via a WSB transfer trajectory.</dc:description>
+          <dc:date>2002-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/410</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4057</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4057</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/410/pagel_gajus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

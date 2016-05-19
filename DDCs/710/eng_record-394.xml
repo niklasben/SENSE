@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:394">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:394</identifier>
+        <datestamp>2014-08-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Quellenermittlung von Schadstoffen in kommunalen Abwässern und Sedimenten</dc:title>
+          <dc:title xml:lang="eng">Source identification of pollutants in municipal waste water and sediments</dc:title>
+          <dc:creator>Koch, Matthias</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Chemometrische Methoden wurden bereits vielfach zur Quellenidentifizierung in der Luftforschung eingesetzt und mit dieser Arbeit erstmals umfassend auf den Wasserbereich erfolgreich übertragen. Charakteristische Indikatorelemente für Abwassereinleiter wurden identifiziert und Eingreifwerte abgeleitet. Mit Hilfe der isotopenspezifischen Bleianalyse in Sielhäuten konnten deren Herkunftsbereiche ermittelt werden. Die isomerenspezifische Analyse von Dioxinen und Furanen in kommunalen Abwässern ermöglichte die Zuordnung zu wesentlichen PCDD/F-Quellen. In mehreren Sedimentkernen NO-Deutschlands wurde ein umfangreiches Schadstoffspektrum (Dioxine, PCBs, PAKs, Pestizide und Schwermetalle) analysiert, die Faktorenanalyse, Clusteranalyse und Diskriminanzanalyse angewendet und damit ein umfassendes Bild über die Schadstoffeinträge, ihre Muster und wesentliche Quellen der letzten Jahrzehnte gewonnen. Emissionsinventare und Schadstoffeinträge in die Sedimente zeigten weitgehende Übereinstimmungen. Mustererkennungsverfahren stehen mit dieser Arbeit nun einer breiten Anwendung in der Einleiterüberwachung und Umweltforschung zur Verfügung. Gedruckte Version im VDI Verlag [http://www.vdi-verlag.de] erschienen:</dc:description>
+          <dc:description xml:lang="eng">Chemometric methods were earlier applied to identify air pollutant sources and were here transferred to water research aspects. Characteristic indicator elements were identified for sewage discharges and intervention levels were obtained. Lead sources were determined by analysing lead isotopes. The isomer-specific analysis of dioxins and furans in the municipal waste water allowed the attribution to main PCDD/F sources. In several sediment cores of North-East Germany, a wide range of pollutants (dioxins, PCB, PAH, pesticides and heavy metals) were analysed. Factor analysis, cluster analysis and discriminant analysis were applied. A comprehensive overview of the pollutant inflow, their patterns and the main sources of the last decades were obtained. Emission inventories and the pollutant inflow into the sediments showed similar results. With this thesis, pattern recognition techniques are now available for broader application in waste water discharge monitoring and environmental research. Printed version available from VDI Verlag [http://www.vdi-verlag.de].</dc:description>
+          <dc:date>2003-09-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/394</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3893</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3893</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/394/koch_matthias.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/394/koch_matthias.zip</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1501">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1501</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Duplicate-based Schema Matching</dc:title>
+          <dc:title xml:lang="deu">Duplikat-basiertes Schema Matching</dc:title>
+          <dc:creator>Bilke, Alexander</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The integration of independently developed data sources poses many problems, which are the result of several types of heterogeneity. One of the most daunting challenges is schema matching, which is the semi-automatic process of detecting semantic relationships between attributes in heterogeneous schemata. Various solutions that exploit schema information or extract specific features from attribute values have been described. In this thesis we propose novel schema matching algorithms that exploit fuzzy duplicates, i.e., different representations of the same real-world entity. We describe the DUMAS table matcher, whose goal is to establish attribute correspondences between two tables. Finding the duplicates that can be used for schema matching is a challenging task because the semantic relationships between the tables are unknown, and thus, existing duplicate detection solutions cannot be applied. We discuss the novel problem of duplicate detection in unaligned relations and describe an algorithm that is able to detect the top-k duplicates. The attribute correspondences between the two tables are extracted from those duplicates in a subsequent step. The DUMAS schema matcher extends the duplicate-based matching approach to complex schemata consisting of multiple tables. Finding attribute correspondences between complex schemata poses several new challenges that do not occur when single tables are to be matched, and thus, complicate the application of the table matcher. We describe heuristics used to determine if a table matching can be trusted, and develop an algorithm that exploits multi-table duplicates to detect correspondences between complex schemata. The previous two algorithms are restricted to simple (i.e, 1:1) correspondences. Because complex (i.e., 1:n or m:n) do occur in practice, we developed the DUMAS complex matcher. The matcher uses the result of the DUMAS table matcher and improves the matching by merging certain attributes, and thus, detecting complex correspondences. Because the space of possible complex matchings is very large, we devised several heuristics to decrease the number of attribute combinations that have to be considered.</dc:description>
+          <dc:description xml:lang="deu">Die Integration unabhängig voneinander entwickelter Datenquellen stellt uns vor viele Probleme, die das Ergebnis verschiedener Arten von Heterogenität sind. Eine der größten Herausforderungen ist Schema Matching: der halb-automatische Prozess, in dem semantische Beziehungen zwischen Attributen in heterogenen Schemata erkannt werden. Verschiedene Lösungen, die Schemainformationen ausnutzen oder spezifische Eigenschaften aus Attributwerten extrahieren, wurden in der Literatur beschrieben. In dieser Dissertation wird ein neuartiger Schema-Matching-Algorithmus vorgestellt, welcher „unscharfe“ Duplikate, also unterschiedliche Repräsentationen der gleichen Realwelt-Entität, ausnutzt. In dieser Arbeit wird der DUMAS table matcher, welcher Attributkorrespondenzen zwischen zwei Tabellen herstellt, beschrieben. Das Auffinden der Duplikate, die dann für das Schema Matching benutzt werden können, ist eine herausfordernde Aufgabe, weil die semantischen Beziehungen zwischen den Tabellen nicht bekannt sind und somit bekannte Duplikaterkennungsverfahren nicht angewandt werden können. Das neue Problem der Duplikaterkennung zwischen nicht angeglichenen Tabellen und ein Algorithmus, der die Top-k Duplikate findet, wird beschrieben. Die Attributkorrespondenzen zwischen den beiden Tabellen werden in einem folgenden Schritt aus den Duplikaten extrahiert. Der DUMAS schema matcher erweitert den duplikat-basierten Matching-Ansatz auf komplexe Schemata, welche aus mehreren Tabellen bestehen. Das Auffinden von Korrespondenzen zwischen komplexen Schemata wirft neue Probleme auf, die bei einzelnen Tabellen nicht auftreten. Somit ist die direkte Anwendung des DUMAS table matcher nicht möglich. Stattdessen werden Heuristiken benutzt, mit deren Hilfe entschieden werden kann, ob einem Matching zwischen zwei Tabellen vertraut werden kann. Basierend darauf wird ein Algorithmus entwickelt, der Attributkorrespondenzen zwischen komplexen Schemata findet. Die beiden bisher beschriebenen Algorithmen sind auf einfache (1:1) Korrespondenzen beschränkt. Weil komplexe (1:n oder m:n) Korrespondenzen in der Praxis vorkommen, wurde der DUMAS complex matcher entwickelt. Dieser Matcher benutzt das Ergebnis des DUMAS table matcher und verbessert das Ergebnis, indem einzelne Attribute kombiniert werden. Auf diese Weise werden komplexe Korrespondenzen gebildet. Weil der Raum der möglichen komplexen Matchings sehr groß ist, wurden Heuristiken entwickelt, mit deren Hilfe die Anzahl der zu betrachtenden Attributkombinationen eingeschränkt werden.</dc:description>
+          <dc:date>2007-05-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1501</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15585</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15585</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1501/bilke_alexander.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

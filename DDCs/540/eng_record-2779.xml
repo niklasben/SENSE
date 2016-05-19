@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2779">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2779</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beschreibung der Cadmiumsulfid-Abscheidung bei nasschemischen Depositionsprozessen mit einem kinetischen Modell</dc:title>
+          <dc:title xml:lang="eng">Description of cadmium sulfide precipitation in the wet chemical deposition process using a kinetic model</dc:title>
+          <dc:creator>Wilchelmi, Krzysztof</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Bei Dünnschicht-Photovoltaikzellen wird CdS als eine Pufferschicht zwischen der Absorberschicht (hier: Chalkopyrit) und einer Fensterschicht (hier: ZnO) aufgetragen. Die Deposition der CdS-Schicht erfolgt in einem nasschemischen Verfahren. Dieses Verfahren ist seit Jahren bekannt und wird bei der Herstellung von Solarzellen genutzt. Obwohl das Verfahren angewendet wird, ist die Kinetik nicht eindeutig bestimmt und das Modell der CdS-Deposition nicht eindeutig aufgestellt worden. Bisher wird von drei nebeneinander bestehen Modellen ausgegangen. Neben dem heterogenen ion-by-ion Depositionsmodell bestehen die homogenen molecule-by-molecule und cluster-by-cluster Depositionsmodelle. Für die kinetische Untersuchung des Reaktionsnetzwerkes bei der CdS-Bildung wird in dieser Arbeit die Messung der Extinktion, der elektrischen Leitfähigkeit und des Schichtwachstums mit einer Quarzmikrowaage durchgeführt. Auf Grundlage der Ergebnisse werden Gleichungen der Reaktionsgeschwindigkeit für die CdS-Bildung in der Reaktionslösung, sowie für die CdS-Deposition, aufgestellt. Mit diesem kinetischen Verständnis werden gezielt Parametervariationen bei der Deposition von CdS durchgeführt. Durch die Variation der hydrodynamischen Bedingungen und der äußeren Einflüsse werden die Depositionsmodelle ion-by-ion und cluster-by-cluster ausgeschlossen und das molecule-by-molecule Modell als die dominante Deposition angenommen. Vereinfachte Simulationen dieses Depositionsmodells mit dem Programm Berkeley Madonna bestätigen sowohl das molecule-by-molecule Modell als auch das vorliegende Reaktionsnetzwerk. Mit dem aufgestellten kinetischen Ansatz zur CdS-Bildung werden die kontroversen Beobachtungen in früheren Publikationen verglichen. Dabei ist es möglich, die in dieser Arbeit ermittelte Kinetik der CdS-Bildung, mit den Ergebnissen anderer Publikationen zu vergleichen und diese auf das molecule-by-molecule Modell zurückzuführen. Das erworbene Verständnis der Reaktion wird im Anschluss die Selektivität in Bezug auf die CdS-Deposition optimieren. Das Verständnis wird ebenfalls dazu genutzt einen neuen Puffer zu entwickeln, mit dem der Wirkungsgrad der Solarzelle gesteigert wird.</dc:description>
+          <dc:description xml:lang="eng">In manufacturing thin-film photovoltaic cells, CdS is applied as a buffer layer between the absorber layer (here: chalcopyrite) and a window layer (here: ZnO). The deposition of a CdS layer is a liquid-chemical procedure that has been known for years and is commonly used in the production of solar cells. In spite of this, the kinetic of the method has not been conclusively determined, nor has a model of CdS deposition been clearly established. To date, a group of three contending models exists: the heterogeneous ion-by-ion deposition model, the homogeneous molecule-by-molecule deposition model, and the cluster-by-cluster deposition model. In this investigation of the kinetics of the reaction network in CdS formation, optical density and electrical conductivity are measured. Layer growth is measured using a quartz microbalance. The reaction-rate equations for CdS formation in the reaction solution as well as those for CdS deposition are based on these measurements. With this understanding of the kinetics, targeted parameter variations are carried out during CdS deposition. By varying the hydrodynamic conditions and external influences, the ion-by-ion and cluster-by-cluster deposition models are excluded, and the molecule-by-molecule model is presumed to be the dominant deposition model. Simplified simulations of this deposition model in the UC Berkeley Madonna Program confirm the molecule-by-molecule model as well as the reaction network presented here. Controversial observations from earlier publications are compared with the kinetic approach to CdS formation established in this work. By comparing the kinetics of CdS formation reported here with the results of other publications, it is possible to attribute the latter to the molecule-by-molecule model as well. The understanding of the reaction process achieved in this study is being used to optimize CdS-deposition selectivity and to develop a new buffer layer to increase the efficiency of solar cells.</dc:description>
+          <dc:date>2011-02-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2779</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29430</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29430</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2779/wilchelmi_krzysztof.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

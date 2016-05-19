@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:888">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:888</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Photoelektronenspektroskopie laserpolarisierter Eisen-Atome</dc:title>
+          <dc:creator>Mueller, Ralf</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Es wurde die 3p-Photoionisation von atomarem Eisen mit Hilfe von Synchrotronstrahlung untersucht. Durch optisches Pumpen mit Laserstrahlung wurden die Atome zusätzlich polarisiert und dies erstmals im für kontinuierlich strahlende Laser schwer zugänglichen Bereich des nahen Ultravioletts. Dabei wurde sowohl zirkulare Laserpolarisation zur Orientierung als auch linear polarisierte Laserstrahlung zur Ausrichtung der atomaren Drehimpulse verwendet. Im hier untersuchten high-spin Bereich des 3p-Photoelektronenspektrums zeigen sich teilweise sehr ausgeprägte Dichroismusstrukturen, die mit Hilfe von Hartree-Fock-Rechnungen in Form und zum Teil auch Stärke erklärt werden konnten. Diese Arbeit stellt daher die erste Untersuchung des Dichroismus an freien laserpolarisierten Eisen-Atomen dar.</dc:description>
+          <dc:description xml:lang="eng">The 3p photoionisation of free iron atoms was investigated by means of synchrotron radiation. The atoms were additionally polarized by optical pumping with a laser running in the hardly feasible spectral region of near ultraviolet. Both circularly polarised laser radiation for orientation and linearly polarised for alignment of the atomic angular momentum was used. Large dichroism signals were found in the investigated region of the high spin part of the 3p photoionisation spectrum. Very good agreement for the pattern and partly agreement for the intensity was found when those dichroism spectra were compared with calculations using Hartree-Fock´s method. This work represents the first systematic investigation on dichroism of free laser-polarised iron atoms.</dc:description>
+          <dc:date>2004-03-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/888</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8810</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8810</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/888/mueller_ralf.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

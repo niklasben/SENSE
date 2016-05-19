@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1142">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1142</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung von elektromagnetischen Linearantrieben und Autofokusoptiken für endoskopische Systeme</dc:title>
+          <dc:title xml:lang="eng">Development of miniaturized electromagnetic linear motors and optical systems with autofocus for endoscopic systems</dc:title>
+          <dc:creator>Schrader, Stephan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden miniaturisierte Objektive für Videoendoskope beschrieben, die mit einem neuartigen elektromagnetischen Mikro-Linearmotor ausgestattetet sind. Der lineare Direktantrieb dient zur kontinuierlichen Verschiebung und präzisen Positionierung einzelner Linsen, Linsengruppen oder anderer optischer Elemente. Hiermit lässt sich die optische Abbildung beispielsweise bei Endoskopen, Überwachungskameras oder Handys für beliebige Objektabstände fokussieren und vergrößern. Nutzt man die Bildinformation eines CCD- oder CMOS-Chips und wertet sie z. B. mit einem Signalprozessor aus, gelangt man zu einer automatischen Bildschärferegelung (Autofokus) des Systems. Die geometrischen Abmessungen der Objektive liegen im Bereich weniger Millimeter. Der miniaturisierte lineare Wanderfeldmotor ist rotationssymmetrisch aufgebaut und verfügt über einen permanentmagnetischen Läufer mit einem freien Mitteldurchgang, durch den der optische Strahlengang hindurchtritt. Hier lassen sich die zu verschiebenden optischen Elemente einbringen. Der Antrieb zeichnet sich durch selbsthaltende Kräfte aus, die auf den Läufer wirken und seine Position fixieren, wobei ein eindeutiger Zusammenhang zwischen dem Ansteuermodus und der Läuferposition besteht, so dass eine aufwendige sensorische Positionsrücklese entfällt. Darüber hinaus verhindert die Selbsthaltung bei fester Einstellung der optischen Elemente eine Abweichung von der Sollposition, die z. B. durch ruckweise Bewegungen des Objektivs oder infolge der Schwerkraft zustande käme. Im geregelten Betrieb wird eine sehr hohe Positioniergenauigkeit erreicht (&lt; 5 µm). Der Aufbau erlaubt eine beliebig lange Verfahrstrecke bei gleichbleibender Positioniergenauigkeit und die unabhängige Verschiebung mehrerer Läufer innerhalb eines einzigen Statorsystems. Die Verfahrstrecke des Läufers beträgt für Motordurchmesser von 5 bis 10 mm und Motorlängen von 5 bis 15 mm typischerweise 2 bis 10 mm. Bei einer elektrischen Leistung von 0,3 bis 0,7 Watt lassen sich Stellkräfte im Bereich zwischen 50 und 100 mN erreichen. Durch den direkten Antrieb der optischen Komponenten ohne zwischengeschaltete Getriebe wird eine außergewöhnlich kompakte Integration von Optik und Mechanik erreicht, wobei die Stellkräfte aufgrund der kleinen bewegten Masse eine extrem hohe Beschleunigung und ausgezeichnete Dynamik erlauben. Dadurch lässt sich z. B. eine Linse im Autofokusbetrieb so schnell nachführen, dass ein Beobachter bei einer Bewegung des Objektivs immer ein scharfes Abbild des Objekts erhält.</dc:description>
+          <dc:description xml:lang="eng">The present study describes miniaturized lenses for video endoscopes which are equipped with a novel electromagnetic linear micro-motor. This synchronous motor is designed to precisely position lenses or other optical components within endoscopes, surveying systems or mobile phones. It allows objects at varying distances to be focused and their magnification to be changed by an optically or mechanically compensated zoom. When used in conjunction with an electronic sensor such as a CCD or CMOS chip and a signal processor, the contrast of the picture can be evaluated and therefore an indirect autofocus may be implemented. The geometric dimensions of these active lens systems with electromagnetic drive range typically within a few millimeters. The direct drive of the optical components without gears allows an extraordinarily compact integration of optics and mechanics for applications where space is limited and precise positioning is essential. The linear motor is rotationally symmetric and has an armature made of a ring magnet with a central core into which an optical component is placed. Its simple design offers great flexibility in the layout of the system and can easily be adapted to the desired application. A special feature of the drive is that locking forces act on the actuator to provide a stable position. This makes the position of the actuator resistant to external forces such as gravitation or acceleration. Furthermore, there is a defined relation between the electronic excitation and the mechanical position of the armature. Therefore, the motor may be operated in an open loop control. A complex and costly sensor for measuring the actual position is dispensable. In a closed loop operation the motor achieves a very high positional accuracy (&lt; 5 µm). The motor may be designed for any desired stroke length without changing its accuracy. Moreover, two or more actuators may run in a single stator independently of one another. This is relevant especially for lenses with an optical zoom. The typical stroke length of a motor with a diameter of 5 to 10 mm and a length of 5 to 15 mm is 2 to 10 mm. In order to generate an axial driving force of 50 to 100 mN, around 0,3 to 0,7 Watts are necessary. Accelerations of about 20 g are reached due to the small mass of the actuator. These accelerations lead to a fast focusing lens and therefore, a sharp image of the object is always obtained by the operator.</dc:description>
+          <dc:date>2005-11-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1142</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11493</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11493</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1142/schrader_stephan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

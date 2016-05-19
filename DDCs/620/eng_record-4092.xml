@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4092">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4092</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR XIII: Cost Benefit Analysis</dc:title>
+          <dc:creator>Edwards, Mervyn</dc:creator>
+          <dc:creator>Wisch, Marcus</dc:creator>
+          <dc:creator>Pastor, Claus</dc:creator>
+          <dc:creator>Price, Jennifer</dc:creator>
+          <dc:creator>Broughton, Jeremy</dc:creator>
+          <dc:creator>Adolph, Thorsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Although the number of road accident casualties in Europe is falling the problem still remains substantial. In 2011 there were still over 30,000 road accident fatalities [EC 2012]. Approximately half of these were car occupants and about 60 percent of these occurred in frontal impacts. The next stage to improve a car’s safety performance in frontal impacts is to improve its compatibility for car-to-car impacts and for collisions against objects and HGVs. Compatibility consists of improving both a car’s self and partner protection in a manner such that there is good interaction with the collision partner and the impact energy is absorbed in the car’s frontal structures in a controlled way which results in a reduction of injuries. Over the last ten years much research has been performed which has found that there are four main factors related to a car’s compatibility [Edwards 2003, Edwards 2007]. These are structural interaction potential, frontal force matching, compartment strength and the compartment deceleration pulse and related restraint system performance. The objective of the FIMCAR FP7 EC-project was to develop an assessment approach suitable for regulatory application to control a car’s frontal impact and compatibility crash performance and perform an associated cost benefit analysis for its implementation.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4092</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40923</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40923</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4092/FIMCAR_XIII_cost_benefit.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

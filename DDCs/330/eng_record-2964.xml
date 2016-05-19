@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2964">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2964</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Strukturelle und semantische Analyse der SAP-Plankostenrechnung im Rahmen der Transformation in ein INZPLA-Gleichungsmodell</dc:title>
+          <dc:title xml:lang="eng">Structural and semantical analysis of a planned cost calculation by SAP during the transformation into an INZPLA equation system</dc:title>
+          <dc:creator>Brossmann, Felix Werner Ernst</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Das Softwaresystem von SAP, dessen Controlling-Modul für die Planung verwendet werden kann, ist weit verbreitet. Eine weitere Software zur Planung ist der INZPLA-Analyzer, der auf dem Konzept der Integrierten Zielverpflichtungsplanung und -kontrolle von ZWICKER basiert. Beide Systeme besitzen ihre spezifischen Vor- und Nachteile, so dass eine parallele Verwendung erstrebenswert ist. Um eine doppelte Dateneingabe zu vermeiden, wurde mit INZPLA-Connect eine spezielle Software entwickelt. Mit dieser kann die Plankostenrechnung aus einem SAPCO-System extrahiert und nach verschiedenen Transformationsschritten in ein INZPLA-Modell umgewandelt werden. Diese Arbeit beschäftigt sich mit der operativen Plankostenrechnung des SAP-CO-Systems und deren Transformation in ein INZPLA-Modell. Als ein Schwerpunkt werden Verfahren zur Ermittlung und Behebung von Konsistenzfehlern entwickelt. Diese Fehler treten in der Plan-kostenrechnung auf, wenn die Software, mit der die Planung vorgenommen wird, nur unzureichende Modellierungsmöglichkeiten bietet. Dabei werden Probleme untersucht wie die Identifizierung von Deckungen auf Kostenobjekten oder die inkorrekte Verrechnung der Kostenträger. Fehler aus dem Bereich des stategischen Controlling dagegen, wie zum Beispiel unzureichende Prognosen über unternehmensexterne Faktoren und mangelhafte langfristige Strategien, werden nicht behandelt. Der zweite Schwerpunkt der Arbeit betrifft die Weiterentwicklung der verwendeten Software. Einerseits werden die entwickelten Verfahren zur Konsistenzprüfung der ausgelesenen Daten in den Transformationsprozess von INZPLA-Connect integriert. Andererseits muss dieser Prozess selbst stabil und benutzerfreundlich ablaufen. Neben der korrekten Durchführung der Transformationen sollen daher auch Fehlbedienungen durch den Benutzer verhindert werden. Dazu wird u. a. auf ein Testverfahren aus der Softwaretechnik und auf Theorien zur Benutzerfreundlichkeit zurückgegriffen. Wegen der unterschiedlichen Berechnungskonzepte des SAP-CO- und des INZPLA-Systems können kleine Differenzen zwischen korrespondierenden Zahlenwerten auftreten. Größere Abweichungen dagegen deuten auf Fehler im Transformationsprozess oder auf eine inkonsistente Datenbasis hin. In diesem Fall hilft ein automatisierter Abgleich, Differenzen der ein-zelnen Kostenobjekte zu ermitteln und somit potenzielle Fehlerquellen zu identifizieren.</dc:description>
+          <dc:description xml:lang="eng">The software SAP provides an accounting module for planning which is widely used. Another software for planning is the INZPLA-Analyzer which is based on the concept of Integrated Tar-get Commitment Planning and Control (INZPLA) by ZWICKER. Both systems possess their individual advantages and disadvantages and therefore parallel usage is recommended. To avoid double data input, a special software, INZPLA-Connect, has been developed which extracts the planned data from a SAP-CO-system and creates an INZPLA-model after a few transformation steps. This thesis focuses on the identification of errors in the planned cost calculation by the SAP-CO-system and its transformation into an INZPLA-model. Special emphasis is placed on techniques for the identification and correction of consistency errors. They appear in the planned cost calculation, if the planning software does not allow an accurate modelling. This includes problems such as the identification of insufficient coverage of cost objects or the inaccurate accounting of cost units. Errors in the field of strategic management accounting such as insufficient forecasts about company-external factors and deficient long-term strategies are not dealt with. The other main subject of this thesis is the further development of the software. On one hand, the developed checks for consistency will be integrated into the transformation process. On the other hand, this process itself has to run stablely and be user friendly. Beside the correct execution of the transformation, it is intended to prevent operating errors by the user. Therefore, to this aim, a testing procedure from software engineering and several usability theories are used. Due to the different calculation concepts of the SAP-CO- and the INZPLA-system there might be small divergences between the respective numbers. Larger deviations, however, point to errors during the transformation process or to an inconsistent data base. In this case, an automated comparison helps to calculate divergences of particular objects and to identify potential error sources.</dc:description>
+          <dc:date>2011-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2964</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31178</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31178</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2964/brossmann_felix.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

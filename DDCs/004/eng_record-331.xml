@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:331">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:331</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Systeme zur Unterstützung einer zukunftsorientierten und informationsbasierten Intermediärsfunktion</dc:title>
+          <dc:title xml:lang="eng">Systems to Support a Future and Information Based Intermediary Function</dc:title>
+          <dc:creator>Roth, Sven</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Der heutige Konsumgüterhandel zeichnet sich durch komplexe Informations-, Waren- und Finanzströme aus. Bis dem Konsumenten die von ihm gewünschte Ware zur Verfügung steht, durchläuft sie nach dem Produzenten zahlreiche Handelsstufen; zusätzlich sind noch unterstützende Dienstleister wie Marktforschungsinstitute, Spediteure, Lageristen oder Finanzinstitute beteiligt. Diese Ströme sind heute nicht nur hoch komplex, sondern auch zeitaufwendig und mit zahlreichen Informationsverlusten an den Schnittstellen verbunden. Die Arbeit stellt die These auf, daß das Management der Informationen innerhalb der Wertschöpfungskette vom Produzenten bis zum Konsumenten und umgekehrt zukünftig an Bedeutung gewinnen wird und sich somit neben der klassischen, warenorientierten Intermediärsfunktion, dem Handel, eine neue, informationsbasierte Intermediärsfunktion entwickeln kann. Dabei wird davon ausgegangen, daß sich diese neue Intermediärsfunktion auf Informationen zu Angebot und Nachfrage, d.h. auf Informationen zum Markt, konzentriert. Aufgrund der Menge der Informationen im Konsumgüterhandel kann eine solche Funktion nur mit Unterstützung geeigneter Informationssysteme wahrgenommen werden kann. Kern der Arbeit ist daher die Konzeption einer solchen zukunftsorientierten und informationsbasierten Intermediärsfunktion nebst der unterstützenden Systemen. Um die These zu verifizieren, wurde ein Modell des Handels entwickelt, es wurden die Systeme im Handel analysiert, der sich abzeichnende Wandel skizziert und auf dieser Basis die Intermediärsfunktion und die unterstützenden Systeme konzipiert. Die konzipierte Intermediärsfunktion, konzentriert sich auf die Verbesserung des Managements der Marktinformationsströme zwischen den Konsumenten sowie den Händlern und Produzenten und reduziert somit die heutigen Schwachstellen in diesem Bereich. Als Grundlage für die Festlegung von Art und Umfang der Funktion wurde auf ein Strukturmodell, das das Verhalten der Konsumenten im Handel mit Konsumgütern beschreibt, zurückgegriffen. Das Modell besteht aus der Verarbeitung der Stimuli und Informationen vorgelagerter Stufen, dem Gedächtnis der Konsumenten, dem Kaufentscheidungsprozeß der Konsumenten inklusive der Bewertungskriterien sowie Umwelteinflüssen und individueller Unterschieden. Die Intermediärsfunktion unterstützt direkt den Kaufentscheidungsprozeß der Konsumenten und nimmt dabei die Sortiments- und die Beratungsfunktion der Händler wahr. Dabei wird auch die Aufbereitung und Speicherung der Stimuli und Informationen vorgelagerter Stufen übernommen. Bei den vorgelagerten Stufen werden neben den Produzenten sowohl Online- als auch Offline-Händler berücksichtigt. Die Arbeit liefert somit eine informationstechnische Detaillierung und Anwendung der Strukturmodelle, einen Vorschlag zur Erweiterung und Anwendung bestehender Normen (XML/EDI auf Basis EDIFACT/EANCOM) auf die Schnittstelle zum Konsumenten sowie bei Implementierung empirische Informationen über Kaufentscheidungsprozesse zur Validierung und Detaillierung der Strukturmodelle und der stochastischen Modelle zum Kaufverhalten.</dc:description>
+          <dc:date>2001-05-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/331</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3264</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3264</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/331/roth_sven.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

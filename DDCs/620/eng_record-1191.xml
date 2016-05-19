@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1191">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1191</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einflusspotenzial Variabler Ventiltriebe auf die Teillast-Betriebswerte von Saug-Ottomotoren – eine Studie mit der Motorprozess-Simulation</dc:title>
+          <dc:title xml:lang="eng">Effect of Variable Valve Actuation on Part Load Operation of Naturally Aspirated SI Engines – an Engine Cycle Simulation Study</dc:title>
+          <dc:creator>Scharrer, Otmar</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurde eine detaillierte Untersuchung der Wirkmechanismen bei Variablen Ventiltrieben für Saug-Ottomotoren durchgeführt. Im ersten Teil wird eine Berechnungsmethode für die eindimensionale Prozess-Simulation vorgestellt, mit deren Hilfe es möglich ist, anhand von wenigen gemessenen Referenz-Betriebspunkten eine Extrapolation wesentlicher Vorgabewerte der Simulation für andere Randbedingungen vorzunehmen. Beispielsweise wird der verwendete Ersatzbrennverlauf nach einer Rechenvorschrift in Abhängigkeit vom Restgasgehalt und der Steuerbreite der Einlassventilhubkurven angepasst. Das Problem des Auffindens der sogenannten Laufgrenze, also jener Grenze, bei deren Überschreitung eine unzulässig hohe zyklische Variation des indizierten Mitteldruckes auftritt, wird behandelt. Die Bedeutung dieser Laufgrenze für das Auffinden eines Optimums wird anhand von Beispielen gezeigt. Einige Kenngrößen des Ladungswechsels werden untersucht und gemäß ihrer Eignung als Bewertungskriterien für variable Ventiltriebe eingestuft. Schließlich werden die simulierten Ergebnisse mit Messwerten verglichen und daraus die Güte der Methode abgeleitet. Ein Vergleich mit alternativen Methoden aus der Literatur hinsichtlich der Einfachheit der Anwendung und des erforderlichen Abstimmungsaufwandes schließt den ersten Teil ab. Der zweite Teil zeigt am konkreten Beispiel die Anwendung dieser Methode. Durch Erstellen einer Wissensbasis werden grundlegende Eigenschaften Variabler Ventiltriebe im Teillastbetrieb von Saug-Ottomotoren herausgearbeitet. Darauf aufbauend werden Design-Empfehlungen gegeben. Die Verringerung des spezifischen Kraftstoffverbrauchs als Hauptziel bei der Verwirklichung eines Variablen Ventiltriebes und die Quereinflüsse darauf werden umfangreich diskutiert. Neben allgemeingültigen Zusammenhängen werden auch Einspar-Potenziale angegeben, die auf zahlreiche Messungen gestützt sind. Der tolerierbare Restgasgehalt eines Brennverfahrens und dessen Auswirkung auf den Motorprozess wird am Beispiel des 2-stufigen Ventiltriebs diskutiert. Die Sonderstellung dieses Ventiltrieb Typs aufgrund der sehr starken Abhängigkeit zwischen Restgasgehalt und Verbrauchseinsparung wird anhand einiger grundlegender Beispiele erläutert. Abschließend werden Sonderformen variabler Ventiltriebe untersucht. Unterschiedliche Hubkurven für die Einlassventile eines Zylinders bzw. die Auswirkungen ihrer Phasenlage zueinander auf den spezifischen Kraftstoffverbrauch sind Kernpunkt dieser Betrachtungen.</dc:description>
+          <dc:description xml:lang="eng">This work contains a detailed investigation of variable valve actuation effects on naturally aspirated SI engines. In the first part a simulation methodology for one dimensional engine simulation is presented. Key feature of the methodology is the fact, that a very low number of measured engine operation points is necessary to extrapolate important settings of the simulation model for adjacent operation points. To give an example it can be mentioned that the used heat release rate is modified in the model dependant on residual trapped gas content as well as cam duration of the intake valves. A possible rule for the identification of the misfiring limit is explained. The crucial importance of knowing this limit in order to optimise cam timing and valve lift curves is shown by means of examples. Important gas exchange characteristics are investigated in order to rank their influence on design and fuel efficiency effect of variable valve trains. Finally the agreement between simulation and measurement is examined to conclude the quality of the presented methodology. A comparison of alternative methodologies for the posed problem from literature is finishing the first part. The second part shows how the methodology works. The computer models are used to generate a knowledge base of effects of variable valve trains on part load engine behaviour of naturally aspirated SI engines. Based on this simulation knowledge, design recommendations for variable valve actuation are presented. The reduction of specific fuel consumption is discussed in detail since it is a main target for the application of variable valve actuation. Influencing factors on fuel consumption are mentioned as well. Besides generally valid mechanisms the potential of variable valve trains to reduce fuel consumption are shown. Those values refer to test rig results. The residual trapped gas tolerance of an engine and its effect on engine process is presented using the special case of a 2-step valve train. This valve train type is very special because of the strong correlation between residual trapped gas content and fuel saving potential. The connection is explained following some basic examples. Finally special types of variable valve trains are investigated. Different valve lift profile for the intake valves of one cylinder and the phasing of those lift curves are the main focus of these investigations.</dc:description>
+          <dc:date>2006-01-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1191</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12004</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12004</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1191/scharrer_otmar.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

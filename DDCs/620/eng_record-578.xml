@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:578">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:578</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Niederfrequenz-Rauschen und Intermodulationen von resistiven FET-Mischern</dc:title>
+          <dc:title xml:lang="eng">Low-frequency noise and intermodulation distortion in resistive FET mixers</dc:title>
+          <dc:creator>Margraf, Michael</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit berichtet über Eigenschaften von resistiven FET-Mischern. Der erste und umfangreichste Teil behandelt das Niederfrequenz-Rauschen (1/f-Rauschen und Generations-Rekombinations- Rauschen). Hierzu wurde ein neues FET-Rauschmodell entwickelt, das auf fluktuierenden Widerständen basiert. Die anschließend durchgeführten Messungen und Simulationen bewiesen die Existenz von zwei unkorrelierten, niederfrequenten Rauschquellen im linearen Kennlinienbereich eines Feldeffekt-Transistors: Kanal und Gate-Ladewiderstände. Weiterhin konnte erklärt werden, wie der LO-Selbstmischprozeß in symmetrischen und unsymmetrischen resistiven Mischern das Rauschen erzeugt. Der zweite Teil berichtet von Intermodulationen in resistiven MESFET-Mischern. Die Ergebnisse nicht-linearer Schaltungssimulationen zeigten die Abhängigkeiten vom MESFET-Typ, von der Gate-Weite und von der LO-Leistung. Der dritte und letzte Teil berichtet von der Entwicklung und Realisierung eines unsymmetrischen, monolithischen resistiven Mischers und zeigt die Simulations- und Messergebnisse.</dc:description>
+          <dc:description xml:lang="eng">The work presented here reports on properties of resistive FET mixers. The first and most comprehensive part deals with low-frequency noise (flicker noise and generation-recombination noise). A new FET noise model based on fluctuating resistances was developed. The performed measurements and simulations prove the existence of two uncorrelated low-frequency noise sources in field-effect transistors in linear channel bias regime: The channel and the gate charging resistors. Furthermore, the mechanisms of noise creation due to the self-mixing process of the local oscillator are explained for single-ended and for symmetrical mixers. The second part reports on intermodulation distortion in resistive MESFET mixers. The results of nonlinear circuit simulations showed the dependencies on the MESFET type, on the gate width and on the LO power. The third and last part reports on the development and the realization of a single-ended, monolithic resistive mixer. The results of simulations and measurements are also shown.</dc:description>
+          <dc:date>2004-04-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/578</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5723</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5723</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/578/margraf_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

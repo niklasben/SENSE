@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:666">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:666</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Auslegung und Betrieb einer dedizierten low-cost Bodenstation für Fernerkundungsaufgaben</dc:title>
+          <dc:title xml:lang="eng">Design and operation of a fitted low-cost ground station for remote sensing applications</dc:title>
+          <dc:creator>Kayal, Hakan</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Natürliche oder vom Menschen verursachte Umweltereignisse und Naturkatastrophen wie große Waldbrände oder Flutkatastrophen beeinflussen immer stärker unser Leben. Der Umgang mit diesen Ereignissen zur Vermeidung von Schäden am Lebensraum und Gesundheit erfordert zunehmend hoch aktuelle Daten, wie sie z.B. von Fernerkundungssatelliten geliefert werden können. Nützlich sind solche Daten in diesen Fällen vor allem dann, wenn sie hoch aktuell sind. Im Rahmen des Satellitenprojektes BIRD wird in dieser Arbeit eine dedizierte low-cost Bodenstation untersucht, mit der es möglich ist, die vom Satelliten empfangenen Daten in nahezu Echtzeit dem Nutzer zur Verfügung zu stellen. Darüber hinaus wird die Möglichkeit zur Kommandierung mit einer low-cost Bodenstation untersucht. Der Darstellung von wesentlichen Grundlagen zur Auslegung solch einer Bodenstation folgt die Beschreibung der hier benutzten Komponenten und deren Beziehungen zueinander. Abschließend werden die Erfahrungen aus dem Betrieb beschrieben.</dc:description>
+          <dc:description xml:lang="eng">Environmental events, whether natural or caused by humans and natural catastrophes like large wood fires or floods disasters, affect more and more our life. Handling these events in order to avoid damage to the habitats and health requires increasingly highly current data, which can be supplied e.g. by remote sensing satellites. This type of data is, especially useful in the cases given above, if they are highly current. In the context of the satellite project BIRD a dedicated low cost ground station, with which it is possible to give the end-user the satellite data in near real-time after reception from the satellite, is examined in this work. Beyond that, the possibility for commanding the satellite with this low cost ground station examined. The representation of substantial theoretical bases to develop such a ground station is followed by the description of the components used here and their relations. Finally the experiences from the operation of the station are described.</dc:description>
+          <dc:date>2003-06-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/666</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6601</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6601</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/666/kayal_hakan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

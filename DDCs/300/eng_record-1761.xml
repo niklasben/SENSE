@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1761">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1761</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:300</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zur theoriegeleiteten Analyse von Geschichtspolitik</dc:title>
+          <dc:creator>Heinrich, Horst-Alfred</dc:creator>
+          <dc:creator>Kohlstruck, Michael</dc:creator>
+          <dc:subject>ddc:300</dc:subject>
+          <dc:description xml:lang="deu">In der Einleitung zum Sammelband "Geschichtspolitik und sozialwissenschaftliche Theorie" umreißen Horst-Alfred Heinrich und Michael Kohlstruck das Thema des Bandes und stellen die einzelnen Beiträge vor, in denen theoretische Ansätze aus den Sozialwissenschaften auf ihre Erklärungskraft für Geschichtspolitik untersucht werden. Im Einzelnen werden Zusammenfassungen folgender Aufsätze angeboten: Horst-Alfred Heinrich: Erklärung von Geschichtspolitik mittels der Theorie sozialer Identität (17-35) Johannes Marx: Geschichtspolitik und Rational Choice-Theorie. Zur ökonomischen Betrachtung kultureller Phänomene (37-57) Mark Arenhövel: Das Gedächtnis der Systeme (59-74) Harald Schmid: Konstruktion, Bedeutung, Macht. Zum kulturwissenschaftlichen Profil einer Analyse von Geschichtspolitik (75-98) Birgit Schwelling: Politische Erinnerung. Eine akteurs- und handlungsbezogene Perspektive auf den Zusammenhang von Gedächtnis, Erinnerung und Politik (99-121) Claudia Fröhlich und Michael Kohlstruck: "Aus der Geschichte lernen". Zur aktuellen Bedeutung einer Alltagsmaxime (123-142) Die Druckfassung des Aufsatzes ist enthalten in: Horst-Alfred Heinrich und Michael Kohlstruck (Hrsg.): Geschichtspolitik und sozialwissenschaftliche Theorie. Stuttgart: Franz Steiner Verlag 2008, 9–15. (ISBN 978-3-515-09183-1)</dc:description>
+          <dc:date>2008-04-29</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1761</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18507</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18507</dc:identifier>
+          <dc:identifier>978-3-515-09183-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1761/Heinrich_Kohlstruck_Zur_theoriegeleiteten_Analyse_von_Geschichtspolitik.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

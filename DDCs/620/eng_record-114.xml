@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:114">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:114</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einflüsse von Verunreinigungen im Silicium und in der Ätzlösung auf das anisotrope Ätzen von Silicium in wäßrigen KOH-Ätzlösungen</dc:title>
+          <dc:title xml:lang="eng">Effects of impurities in silicon and the etchant on the anisotropical etching of silicon in KOH-solutions</dc:title>
+          <dc:creator>Hein, Aylin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden die Einflüsse herstellungsbedingter Fremdstoffe in KOH-Ätzlösungen und im Siliciumkristall auf das Ätzverhalten untersucht und Reinheitsbedingungen dieser Stoffe für die Mikromechanik definiert. Weitere Experimente wurden durchgeführt, um die Einflußparameter, die durch Oberflächeneffekte wie Passivierung, Streß und Damage Zone induziert werden, eingehend zu studieren. Die Effekte der Kontaminationen in den KOH-Lösungen und dem Siliciumkristall wurden im Hinblick auf die Ätzparameter wie Anisotropieverhältnis, Oberflächenrauhigkeit der {100}- sowie der {111}-Kristallebenen und die freigeätzten konvexen Ecken festgestellt. Mit Hilfe von Ätzversuchen konnte die Veränderung des Ätzverhaltens anhand verschiedener Teststrukturen für unterschiedlichen Kontaminationsgrad im Siliciumkristall und in der Ätzlösung analysiert werden. Die Experimente haben ergeben, daß sich das Anisotropieverhältnis in Gegenwart von Metallen in der Ätzlösung verändert. Bei Zusatz von 500 ppm Kupfer oder Nickel zur Ätzlösung nahm das Anisotropieverhältnis um ca. 25 % ab (von ca. 65 auf ca. 48). Mit Natrium , Eisen, Aluminium, Chrom bzw. Zink hingegen wurde eine Zunahme um bis zu 110% beobachtet (von 65 auf 134). Sauerstoffkontaminationen im CZ-Silicium heben das Anisotropieverhältnis von 35 auf 8 reduziert, wenn die Wafer hochtemperaturbehandelt wurden. Oberflächeneffekte, induziert von der Dicke der Defektzone (Damage Zone), ließen das Anisotropieverhältnis zwischen 5 und 20 variieren. Der Einfluß der Streßeffekte auf das Anisotropieverhältnis, generiert durch eine Si3N4-Maske, betrug zwischen 15 und 30. Für geringe Ätzraten in &lt;111&gt;-Richtung ist es daher empfehlenswert, vor allem den Sauerstoffanteil im Silicium auf höchstens 14 ppm zu begrenzen, wenn prozeßbedingt nicht auf Hochtemperaturschritte von über 1000 °C verzichtet werden kann. Dabei ist darauf zu achten, daß das Material vor der Abscheidung der Passivierung genügend tief poliert wird, um die Defektzone (Damage Zone) weitgehend zu entfernen. Auf hochreine KOH-Sorten als Ätzmedium muß dabei nicht zurückgegriffen werden, weil die Ätzversuche gezeigt haben, daß eine Kontamination der Ätzlösung vor allem Natrium, Zink und Aluminium die Unterätzung verringert. Empfehlenswert in diesem Zusammenhang wäre eine Natrium-reiche, in bezug auf andere Metalle eine kontaminationsarme KOH-Sorte als Ätzmedium zu verwenden.</dc:description>
+          <dc:date>2001-06-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/114</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1095</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1095</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/114/hein_aylin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

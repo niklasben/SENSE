@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:500">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:500</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Charakterisierung der Verteilungen in präparativen chromatographischen Säulen</dc:title>
+          <dc:title xml:lang="eng">Characterization of the distribution in preparative chromatographic columns</dc:title>
+          <dc:creator>Laiblin, Tobias</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit beschäftigt sich mit der Charakterisierung der Verteilungen in chromatographischen Festbetten durch Bestimmung des anlagenspezifischen Anteils der axialen Dispersion als integrales Maß der Verteilung einerseits und durch Messung der Verteilungen von Temperatur und Geschwindigkeit andererseits. Je nach Zielsetzung in der Modellierung von chromatographischen Säulen werden unterschiedliche Ansätze gewählt: Für die grobe Auslegung eines Trennprozesses für bestehende Systeme ist normalerweise eine Lösung der axialen Komponentenbilanz der Säule ausreichend. Eine zwei- oder höherdimensionale Modellierung wird für den Fall einer zusätzlich zu betrachtenden radialen Verteilung, wie z.B. beim Design der gesamten Anlage oder ihrer einzelnen Komponenten (z.B. neuartiger Verteilersysteme), eingesetzt. Für beide Ansätze sind experimentelle Daten zur Auslegung bzw. Überprüfung der Modelle notwendig. Zur Verbesserung der eindimensionalen, axialen Modellierung wird eine Unterteilung der axialen Dispersion in einen Anteil, der durch die stationäre Phase bestimmt wird, und einen anlagenspezifischen Anteil vorgenommen. Diese Unterteilung ermöglicht es, durch Versuche mit einem Referenzsystem in den verschiedenen chromatographischen Anlagen den Anteil der Anlagenkomponenten, wie z.B. der Ventile, Messfühler und Fritten, an der axialen Dispersion zu bestimmen. Mit Hilfe dieses Ansatzes werden in dieser Arbeit Versuche mit verschiedenen stationären Phasen (Glaskugeln, Uetikon, Kromasil) in zwei unterschiedlichen Anlagen durchgeführt. Modellierungen in gPROMS liefern die unterschiedlichen Anteile der axialen Dispersion für beide Anlagen. Es zeigt sich, dass ein anlagenspezifischer Anteil der axialen Dispersion existiert, der innerhalb jeder einzelnen Anlage für ähnliche stationäre Phasen gleich ist. Mit Hilfe dieses Anteils wird die Übertragung von Trennprozessen z.B. aus kleinen Laboranlagen auf präparative Anlagen verbessert, da zusätzlich zum Einfluss der stationären Phase nun auch der Einfluss der Anlagenkomponenten berücksichtigt werden kann. Für den Fall der mehrdimensionalen Modellierung in FLUENT sind in dieser Arbeit als Validierung Methoden zur Messung der radialen Temperatur- und Geschwindigkeits-verteilung in chromatographischen Säulen entwickelt worden. Es wird ein System zur Messung der Temperaturen an verschiedenen radialen Positionen bei gleicher axialer Position aufgebaut. Mit diesem System werden die Temperaturprofile in drei stationären Phasen (Glaskugeln, Uetikon, Kromasil) mit Methanol als Eluent für verschiedene Unterkühlungen des Eluenten gemessen und der Einfluss der Unterkühlung auf das Peakverhalten untersucht. Mit Hilfe dieser Ergebnisse konnte das in FLUENT implementierte Modell erfolgreich validiert werden. Zur Messung der Geschwindig-keiten in der Säule als weitere Validierung wird die Einsatzmöglichkeit eines medizinischen Magnet-Resonanz-Tomographen untersucht. In einer portablen, metall-frei gestalteten HPLC werden die Geschwindigkeiten an verschiedenen radialen Positionen in einer Schicht quer zur Säule bestimmt. Die Ergebnisse stimmen mit den in FLUENT berechneten überein.</dc:description>
+          <dc:date>2002-10-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/500</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4950</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4950</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/500/laiblin_tobias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

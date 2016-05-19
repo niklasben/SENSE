@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1012">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1012</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Generation and Analysis of Harsh Wave Environments</dc:title>
+          <dc:title xml:lang="deu">Generierung und Analyse extremer Seegangsbedingungen</dc:title>
+          <dc:creator>Hennig, Janou</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird eine modifizierte nichtlineare Theorie zur versuchstechnischen Generierung und Analyse extremer Seegangsbedingungen hergeleitet. Das hybride Verfahren basiert auf linearer Wellentheorie nach Airy, ergänzt durch nichtlineare Stokes-Wellentheorie dritter Ordnung. Die Anwendung linearer Wellentheorie erlaubt die Implementierung einer schnellen iterativen Methode und deren praktische Anwendung für Modellversuche. Eine Hauptanwendung des Verfahrens liegt in der Generierung maßgeschneidnichtlinearer Wechselwirkungen zwischen Welle und Struktur wird hierfür ein Zielort definiert, an dem der Wellenzug eine vorgegebene Form aufweisen bzw. definierten Parametern genügen soll. Eine so vorgegebene Zeitreihe wird mithilfe der modifizierten nichtlinearen Theorie auf die Position des Wellenerzeugers umgerechnet. Aus dem am Wellenblatt vorliegenden Wellenzug werden durch Multiplikation mit verschiedenen Übertragungsfunktionen entsprechende Steuersignale für den Wellenerzeuger berechnet. Mit dem hergeleiteten Verfahren können verschiedenste Arten deterministischer Wellensequenzen generiert werden: Transiente Wellenpakete und Riesenwellen, realistische Seegänge mit gezielt eingelagerten gefährlichen Wellensequenzen, sogenannte Three Sisters - eine Wellensequenz mit drei hohen Wellenbergen - in regulären Wellen sowie die maßstabsgetreue Realisierung von in der Natur gemessenen Wellensequenzen im Versuchskanal. Diese Seegangsszenarien finden Anwendung bei vollständig automatisierten deterministischen Kenterversuchen zur Untersuchung von Roll- und Kentermechanismen von Schiffen. Dabei werden parametrisch erregtes Rollen, Resonanz, Stabilitätsverlust auf dem Wellenberg sowie Anregung durch Riesenwellen untersucht. Um diese Mechanismen zu erschließen, wird ein stationär gemessener Wellenzug in das bewegte Bezugssystem des fahrenden Schiffes überführt. Transformationen deterministischer Wellensequenzen werden weiterhin zur Validierung von numerischen Bewegungssimulationsverfahren verwandt, wie sie auf Werften zur Bewertung von Schiffsentwurf und Betrieb eingesetzt werden. Hierbei können erstmals Zeitreihen aus Modellversuchen und numerischen Simulationen direkt quantitativ verglichen werden. Durch validierte und verbesserte Bewertungsmethoden wird ein Beitrag zur effizienten Bewertung der Schiffssicherheit geleistet.</dc:description>
+          <dc:description xml:lang="eng">In this work, a modified non-linear theory for modelling wave propagation is presented. The hybrid model combines linear wave theory with Stokes Third Order wave theory to consider non-linear wave characteristics such as an increase of wave celerity and crest-trough asymmetry with wave steepness. The new approach is fast and precise and applicable in day-to-day use for experimental investigations. The method can be adapted easily for new requirements as the implementation of different wave theories as well as empirical terms is possible. Compared to numerical wave tanks the method is capable of upstream transformation of wave trains and is therefore ideally suited for generating wave board control signals. The potential of the reproducible procedure is demonstrated by generating different kinds of tailored deterministic wave sequences both at Technical University Berlin and Hamburg Ship Model Basin. The following wave sequences are generated in the model basin and applied to the investigation of non-linear wave-structure interaction: Transient wave packets, sea states with deterministically embedded steep wave sequences, regular waves with a superimposed Three Sisters wave, observed wave records (New Year Wave). Deterministic wave sequences are applied to model tests for investigating the wave-ship interaction at extreme sea conditions. The transformation to arbitrary - stationary or moving - positions or models allows a precise relation of cause and effect. With this technique wave scenarios can be analyzed from the point of view of a sailing ship. As an exact and reproducible encounter of ship and wave in the model basin is realized, mechanisms of large rolling and capsizing can be examined deterministically. Both extreme and resonance phenomena possibly leading to ship accidents are investigated: Parametric roll, loss of stability at the wave crest, Impact excitation in combination with the above. Based on these developments methodologies for the quantitative assessment of capsizing risk are validated by direct comparison of time series from numerical and experimental simulations providing a basis for the improvement of current intact stability criteria. In conclusion, ships are designed with improved seakeeping characteristics and an increased safety with respect to the danger of extreme roll angles and capsizing.</dc:description>
+          <dc:date>2005-06-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1012</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10026</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10026</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1012/hennig_janou.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

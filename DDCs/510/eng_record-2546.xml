@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2546">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2546</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Optimization of dynamic consumption streams under uncertainty</dc:title>
+          <dc:title xml:lang="deu">Optimierung von dynamischen Konsumströmen unter Unsicherheit</dc:title>
+          <dc:creator>Wittmüß, Wiebke</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">The thesis deals with the problem of optimal consumption under uncertainty. Here, we distinguish uncertainty and risk. Risk denotes the fact that the future development of the stock market is random but the investor knows which future scenarios are possible and knows their probabilities - the so-called market measure. In contrast to this we denote by uncertainty the fact that market participants usually do not know the market measure or at least not exactly. There exists extensive economic literature on the modeling of such a decision problem. In this thesis the agent optimizes his consumption and investment strategy with respect to a robust utility functional. We investigate the investment problem in a general semimartingale market. The agent can invest an initial capital and a random endowment. To find a solution to the investment problem we use the so-called martingale method. We prove that under appropriate assumptions a unique solution to the investment problem exists and describe it. A further result is that primal and dual problem are convex conjugate functions. Furthermore we consider a diffusion-jump-model where the coefficients depend on the state of a Markov chain and the investor is uncertain about the intensity of the underlying Poisson process. In this model we consider an agent with logarithmic and HARA utility function. For both we can write the solution of the dual problem as the solution of a system of ordinary differential equations. For this we use stochastic control methods in order to derive so-called Hamilton-Jacobi-Bellmann-equations. The solution to these HJB equations can be determined numerically and we show how thereby the optimal investment strategy can be computed.</dc:description>
+          <dc:description xml:lang="deu">Die Arbeit beschäftigt sich mit dem Problem des optimalen Konsums unter Berücksichtigung von Unsicherheit. Dabei unterscheiden wir Unsicherheit und Risiko. Mit Risiko bezeichnen wir die Tatsache, dass die zukünftige Entwicklung des Aktienmarktes zufällig erfolgt, aber gehen davon aus, dass der Investor weiß, welche zukünftigen Szenarien möglich sind und ihre Wahrscheinlichkeit - also das sogenannte Marktmaß - kennt. Im Gegensatz dazu bezeichnen wir mit Unsicherheit die Tatsache, dass Marktteilnehmer normalerweise dieses Marktmaß nicht oder zumindest nicht genau kennen. Zur Modellierung eines solchen Entscheidungsproblems existiert umfangreiche ökonomische Literatur. In dieser Arbeit optimiert der Agent seine Konsum- und Anlagestrategie bezüglich eines robusten Nutzenfunktionals. Wir untersuchen das Investitionsproblem in einem allgemeinen Semimartingalmarkt. Der Agent kann ein Anfangskapital und eine zufällige Zusatzausstattung investieren. Um eine Lösung des Investitionsproblems zu finden, wenden wir die sogenannte Martingalmethode an. Wir beweisen, dass unter geeigneten Voraussetzungen eine eindeutige Lösung des Investitionsproblems existiert und beschreiben diese. Ein weiteres Resultat ist, dass primales und duales Problem konjugiert konvexe Funktionen sind. Weiterhin behandeln wir ein Diffusions-Sprung-Modell, bei dem die Koeffizienten vom Zustand einer Markovkette abhängen und der Investor, sich über die Intensität des zugrunde liegenden Poissonprozesses unsicher ist. In diesem Modell betrachten wir einen Agenten mit logarithmischer und mit HARA Nutzenfunktion. Für beide können wir zunächst die Lösung des dualen Problems als Lösung eines Systems gewöhnlicher Differentialgleichungen darstellen. Dazu nutzen wir stochastische Kontrollmethoden, um sogenannte Hamilton-Jacobi-Bellmann-Gleichungen zu gewinnen. Die Lösung dieser HJB Gleichungen kann numerisch ermittelt werden und wir zeigen, wie man damit die optimale Anlagestrategie berechnen kann.</dc:description>
+          <dc:date>2010-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2546</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26673</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26673</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2546/wittmuess_wiebke.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

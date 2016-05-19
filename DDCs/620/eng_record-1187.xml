@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1187">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1187</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung eines Ultraschallkatheters mit integriertem Mikroantrieb</dc:title>
+          <dc:title xml:lang="eng">Design of an Ultrasonic Catheter System with Micromotor</dc:title>
+          <dc:creator>Ledworuski, Ralf</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der medizinischen Diagnostik werden Ultraschallkatheter häufig eingesetzt, um Gefäße wie z. B. Arterien oder den Gallengang auf Ablagerungen und krankhafte Veränderungen zu untersuchen und diese in einem sehr frühen Stadium zu erkennen. Voraussetzung dafür ist eine kontrastreiche Gefäßdarstellung mit guter Auflösung. Kathetersysteme aus dem Bereich des intravaskulären Ultraschalls (IVUS) und Minisonden des endoskopischen Ultraschalls (EUS) erzeugen zirkuläre Ultraschallbilder mit dem Ultraschallwandler im Zentrum eines 360° radialen Sektorscans. Die Ultraschallwandler senden Ultraschallsignale aus, die am umgebenden Gewebe reflektiert werden. Auf diese Weise lassen sich zweidimensionale Gewebeschnitte darstellen. Der im Rahmen dieser Arbeit beschriebene grundlegend neue Ansatz bei der Entwicklung eines miniaturisierten Ultraschallkatheters für minimal invasive medizinische Untersuchungen sieht die Integration eines Mikroantriebs in die Katheterspitze vor. Hierfür existieren Mikroantriebe mit ausreichendem Drehmoment, die sich in die Katheterspitze integrieren lassen, z. B. ein Synchronmotor mit einem Außendurchmesser von 1,9 mm, kombiniert mit einem mikrotechnisch gefertigten Getriebe. Die Integration des Antriebs erfordert die elektrische Kontaktierung des rotierenden Ultraschallumformers innerhalb der Katheterspitze. Speziell für diese Anwendung entwickelte miniaturisierte Schleifkontakte übertragen die elektrischen Signale für die Anregung des Ultraschallumformers sowie die vom Umformer in elektrische Signale konvertierten Schallimpulse. Hierzu kommen Edelmetallbeschichtungen in Verbindung mit Vieldrahtschleifkontakten aus federnden Kontaktdrähten zum Einsatz, die eine störungsarme Übertragung der Ultraschallsignale mit einer Signalfrequenz von 20 MHz ermöglichen. Ein weiterer Schwerpunkt der Entwicklung betraf den Aufbau des Ultraschallumformers. Durch die Beschichtung keramischer Umformer mit metallbefüllten Polymermaterialien lässt sich eine akustische Anpassung erreichen, die das Senden und Empfangen sehr kurzer Pulse ermöglicht. Die Schichtparameter werden analytisch ermittelt, wobei das elektrische und akustische Verhalten des Transducers anhand von Ersatzschaltbildern modellierbar ist. Experimentelle Untersuchungen an verschieden aufgebauten Ultraschallumformern bestätigten die analytischen Betrachtungen. Sonographische Tests an einer Wasserstrecke zeigen sowohl im A-Betrieb als auch im B-Betrieb die gute Funktionsfähigkeit des Ultraschallumformers sowie des gesamten Kathetersystems.</dc:description>
+          <dc:description xml:lang="eng">Ultrasound imaging techniques play an important role e.g. in early tumour diagnostics of gastrointestinal and urological tracts. High sensitivity systems with good contrast and robust handling are required to characterize the tissue and atherosclerotic plagues. Catheter systems applying intravascular ultrasound (IVUS) are superior to angiography for evaluating the morphology of coronary arteries and very early diagnostics, which cannot otherwise be achieved by X-ray methods. One of the main drawbacks of current systems is the use of a shaft which runs through the long catheter tube to drive transducers to be used as signal transmitters and receivers. Two dimensional images may be obtained in this way. Micromotors with sufficient torque offer the potential of directly driving the transducers at the catheter tip. A new ultrasound catheter system with a total diameter of 2,5 mm has been developed, which makes use of a commercially available micro motor with LIGA gear-boxes to drive a single crystal at the tip of the catheter. The use of micromotors requires a completely new approach to the construction of IVUS catheters and it turned out, that a simple integration of these units into existing systems is not feasible. Sliding contacts are used inside the catheter tip to connect the 20 MHz signals from the generator/amplifier of an ultrasound system to the rotating transducer. These contacts, which also serve as friction bearings for the rotating shaft, consist of electroplated slip rings on an isolating shaft and spring carriers with welded and prestressed spring wires. In addition a ultrasonic transducer based on a commercial PZT ceramic has been designed. The acoustic properties of a mixture of polymer and metal powder material, have been studied at a center frequency of 20 MHz to obtain a well defined US-signal and to reduce the loss during transmission. The good system performance of the ultrasonic transducer as well as of the whole system was demonstrated with the ultrasound imaging of phantoms and the coronary vessels from a pig heart.</dc:description>
+          <dc:date>2006-01-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1187</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11928</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11928</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1187/ledworuski_ralf.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

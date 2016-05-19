@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2259">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2259</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:070</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Medienkonsum und Integration: Türken in Deutschland</dc:title>
+          <dc:creator>Janzen, Karoline</dc:creator>
+          <dc:subject>ddc:070</dc:subject>
+          <dc:description xml:lang="deu">Deutschland ist Einwanderungsland, auch wenn sich Repräsentanten der Regierungsparteien entrüstet gegen diese Einordnung wehren. Obwohl Türken in Deutschland 14,2 Prozent aller Zugewanderten ausmachen und somit die größte Gruppe der Migranten stellen, sind sie noch immer nur „Mitbürger“, scheinen toleriert, doch nicht akzeptiert. Wie steht es um die Integration von Türken in Deutschland? Der vorliegende Text untersucht die Darstellung von türkischen „Ausländern“ in der deutschen Medienberichterstattung. Im Rahmen von Gastarbeiterprogrammen bemühten sich die Medien, die Integration zu fördern. Wie ist der Tenor in Bezug auf das Thema Migranten heute? Inwiefern beschwören die von Medien und Politikern publik gemachten Botschaften zum Thema Migranten Vorurteile herauf und wirken separierend? In diesem Zusammenhang werden die zur Verfügung stehenden türkisch- und deutschsprachigen Medien und deren Nutzung dargestellt und diskutiert, inwieweit Mediennutzung als Indikator für Integration dienen kann. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2009-10-07</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2259</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23538</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23538</dc:identifier>
+          <dc:identifier>978-3-7983-2147-2</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2259/Janzen_Online_Gesamt.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

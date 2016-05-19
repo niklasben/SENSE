@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1546">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1546</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Herstellung und heterologe Expression neukombinierter Gene nichtribosomaler Peptidsynthetasen (NRPS) aus Streptomyces unter Einbeziehung katalytischer Domänen aus Bacillus und funktionelle Charakterisierung ihrer Genprodukte</dc:title>
+          <dc:title xml:lang="eng">Construction and Heterologous Expression of New Recombinant Genes Encoding Nonribosomal Peptide Synthetases (NRPS) from Streptomyces Using Catalytic Domains from Bacillus and Functional Characterization of their Respective Gene Products</dc:title>
+          <dc:creator>Lang, Manuel</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Die Produktbildung an nichtribosomalen Peptidsynthetasen (NRPS) erfolgt durch Aktivierung und Kondensation der Substrataminosäuren an einem Satz spezifischer Module. Die konstituierenden Module eines NRPS-Systems bringen dabei jeweils eine Aminosäure in das Produktmolekül ein, Anzahl und Reihenfolge der Module bestimmen die Sequenz des gebildeten Peptides. Die Neukombination von Modulen bacillärer NRPS durch Fusionierung ihrer kodierenden Gene in Übergangsbereichen zwischen den katalytischen Domänen hatte zur Bildung neuer Peptidprodukte geführt. Zur Untersuchung von Struktur-Aktivitätsbeziehungen in NRPS-Modulen aus G+C-reichen Spezies wie Streptomyces wurden hier bi- und trimodulare NRPS-Gene aus Modulen der Actinomycinsynthetasen (ACMS) von Streptomyces chrysomallus erzeugt. Durch direkte Fusionierung von ACMS I und AcmACP wurde ein Initiationsmodul erhalten, dem ein oder zwei Elongationsmodule aus ACMS II und/oder ACMS III nachgestellt wurden. Durch heterologe Expression der Genkonstrukte in S. lividans wurden funktionell aktive Enzyme erhalten, welche die Bildung kovalent gebundener Aroyl-Mono und –Dipeptide katalysierten. Durch zusätzliches Einbringen von Domänen mit Spezifität zur Produktfreisetzung (Te-Domänen) aus bacillären NRPS-Systemen oder aus dem ACMS-System selbst durch Fusionierung dieser Domänen an den Carboxyterminus der rekombinanten Peptidsynthetasen konnte die Produktfreisetzung massiv erhöht werden, wodurch (bei Zufütterung durch das Initiationsmodul akzeptierter Aryl-Carbonsäuren) Analysen der Produktbildung auch in vivo ermöglicht wurde. Promotoranalysen der ACMS-Gene in Streptomyces chrysomallus ergaben, dass diese wachstumsabhängig exprimiert werden und unter Kontrolle von Promotoren mit sigma70 Konsensus stehen. Die heterologe Expression trimodularer rekombinanter NRPS-Gene unter Kontrolle der acm-Promotoren in S. lividans resultierte in sehr hohen Enzymkonzentrationen und einer starken in vivo-Synthese des Peptidproduktes. Die Daten dieser Arbeit zeigen, dass sich funktionell aktive rekombinante Peptidsynthetasen mit Befähigung zur Bildung neuer Produkte durch Fusionierung von Domänen und Modulen aus Streptomyces-NRPS erzeugen lassen. Die Eignung der acm-Promotoren zur Entwicklung heterologer NRPS-Expressionssysteme in Streptomyces konnte demonstriert werden.</dc:description>
+          <dc:description xml:lang="eng">The mechanism of nonribsomal peptide synthetases (NRPS) implies activation and condensation of specific amino acids in an assembly line-like fashion. NRPS assembly lines consist of modules each recruiting one individual amino acid. The number of modules and their sequential order in a given NRPS system determine the number and sequence of amino acids in the peptide product. New combinations of modules from bacillary NRPS obtained by gene fusions using defined fusion points in the hinge regions between catalytic domains where previously shown to catalyse formation of new compounds in vitro. To address the structure-activity relationships in NRPS modules from high G+C organisms like Streptomyces, bi- and trimodular NRPS genes were constructed from modules of the actinomycin synthetases (ACMS) system from Streptomyces chrysomallus. The directly fused ACMS I and AcmACP served as initiation module, to which downstream one or two elongation modules from the peptide synthetases ACMS II and/or ACMS III were attached. Heterologous expression of the corresponding gene constructs in S. lividans yielded functional active enzymes catalysing formation of covalently bound aroyl-mono and –dipeptids. Additional presence of release domains (Te-domains) taken from a bacillary NRPS system or from the ACMS system at the carboxyterminus of recombinant NRPS greatly stimulated release of peptide products from enzymes which enabled to follow product formation in vivo upon feeding of suitable substrates for the initiation module. Promoter analyses of ACMS genes in Streptomyces chrysomallus revealed that their expression is controlled in a growth-linked manner from promoters with typical sigma70 consensus from E. coli or Streptomyces. Expression of recombinant trimodular NRPS-constructs in a foreign Streptomyces under control of the ACMS promoters gave optimal yields in both enzyme level and peptide product in vivo. The data indicate the feasibility of interdomain gene fusions to obtain active multifunctional hybrid NRPS with the potential to form new compounds. Development of an expression system using the ACMS promoters proved to be highly suitable for heterologous expression of such gene constructs in foreign Streptomyces.</dc:description>
+          <dc:date>2007-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1546</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15906</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15906</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1546/lang_manuel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

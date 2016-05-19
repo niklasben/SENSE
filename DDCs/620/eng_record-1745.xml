@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1745">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1745</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Energy Systems Improvement based on Endogenous and Exogenous Exergy Destruction</dc:title>
+          <dc:title xml:lang="deu">Optimierung von Energieumwandlungsanlagen mit Hilfe von endogene und exogene Energievernichtung </dc:title>
+          <dc:creator>Kelly, Solange</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">One of the roles of Exergoeconomics is to provide energy system designers and operators with the information, necessary for the improvement of energy systems. It employs both economic principles and exergy concepts particularly taking into account the values of individual components’ exergy destruction: the thermodynamic loss due to irreversibilities within a system’s component. The total exergy destruction occurring in a component is not only due exclusively to the component (endogenous exergy destruction) but is also caused by the inefficiencies of the remaining system components (exogenous exergy destruction). Hence care must be taken in using the total exergy destruction of a component when making decisions to optimize the overall energy system. The understanding of Exogenous and Endogenous Exergy Destruction for any given component can further assist the engineer in deciding whether a subsystem or a structural adjustment is required in the optimization of the entire energy system. With emphasis placed on process performance (i.e. the mutual interdependencies of the components within the system) as oppose to the final output, exogenous and endogenous exergy destruction analysis guarantees that the quality of the output is improved without compromising the performance of individual components. Additionally, only a part of the exergy destruction in a component can be avoided (avoidable exergy destruction) since a system component is also imposed by a number of constraints including physical, technological and economical. Knowledge of the Exogenous and Endogenous exergy destruction together with an understanding of the (unavoidable and avoidable exergy destruction) can provide a realistic measure of the potential for optimising any energy system. The thesis deals with the development of a concept for splitting the exergy destruction and the costs associated with the system components. This concept is then applied to improve three energy conversion plants: a simple gas turbine process, a cogeneration and an externally-fired combined cycle power system and the results compared to the improvement of these said plants using a conventional exergoeconomic analysis.</dc:description>
+          <dc:description xml:lang="deu">Die exergoökonomische Analyse liefert Planern und Ingenieuren Informationen, auf deren Grundlage Anlagendesign und Betrieb von Energieumwandlungsanlagen optimiert werden können. Sie setzt ökonomische Prinzipien und das Exergiekonzept ein und berücksichtigt damit in besonderer Weise den ökonomischen Wert der Exergievernichtung (d.h. der thermodynamischen Verluste aufgrund von Irreversibilitäten) innerhalb der einzelnen Anlagenkomponenten. Die Gesamtexergievernichtung, die in einer Anlagenkomponente auftritt, wird nicht ausschließlich durch die Anlagenkomponente selbst verursacht (endogene Exergievernichtung), sondern auch durch die Irreversibilitäten in den restlichen Komponenten des Systems (exogene Exergievernichtung). Daher ist Vorsicht geboten, wenn die Gesamtexergievernichtung einer Komponente herangezogen wird, um Entscheidungen für die Optimierung des Gesamtsystems zu treffen. Das Verständnis der exogenen und endogenen Exergievernichtung für jede Komponente kann den Ingenieur zusätzlich unterstützen bei der Entscheidung, ob ein Teilsystem oder die Anlagenstruktur geändert werden soll, um die Gesamtanlage zu optimieren. Ziel der Optimierung ist die Verbesserung der Effizienz (Kosteneffizienz oder Wirkungsgrad) der Gesamtanlage. Das Konzept der exogenen und endogenen Exergievernichtung ermöglicht eine Analyse der Systemstruktur, d.h. den Wechselwirkungen zwischen den Komponenten innerhalb des Systems, mit deren Hilfe die Effizienz des Gesamtsystems verbessert werden kann, ohne die Effizienz der einzelnen Anlagenkomponenten zu kompromittieren. Von der Exergievernichtung in einer Anlagenkomponente kann immer nur ein Teil vermieden werden (vermeidbare Exergievernichtung), da die Komponente physikalischen, technischen und ökonomischen Limitierungen unterliegt. Kenntnis der exogenen und endogenen Exergievernichtung in Kombination mit einem Verständnis der unvermeidbaren und vermeidbaren Exergievernichtung ermöglicht eine realistische Einschätzung des Optimierungspotenzials von Energieumwandlungsanlagen. In dieser Arbeit wurde ein Konzept entwickelt zur Aufspaltung der Exergievernichtung und den Kosten, die mit den einzelnen Anlagenkomponenten eines Systems verbunden sind. Dieses Konzept wird dann zur Verbesserung von drei Energieumwandlungsanlagen angewandt: eines einfachen Gasturbinenprozesses, einer Kraft-Wärme-Kopplungsanlage und eines extern gefeuerten GuD-Kraftwerks. Die Ergebnisse werden verglichen mit denen, die unter Verwendung einer herkömmlichen exergoökonomischen Analyse für dieselben Anlagen erhalten wurden.</dc:description>
+          <dc:date>2008-04-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1745</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18314</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18314</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1745/kelly_solange.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

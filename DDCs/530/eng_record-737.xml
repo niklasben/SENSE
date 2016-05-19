@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:737">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:737</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">On reduced dynamics of quantum-thermodynamical systems</dc:title>
+          <dc:title xml:lang="deu">Über die reduzierten Dynamiken quantenthermodynamischer Systeme</dc:title>
+          <dc:creator>Kato, Akiko</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Für die Behandlung irreversibler Prozesse diskreter quantenthermodynamischer Systeme eignet sich die reduzierte Beschreibung. Hierfür betrachtet man bezüglich einer gegebenen Beobachtungsebene verschiedene begleitende Prozesse zur quantenmechanischen von Neumann Dynamik. Während die kanonische Dynamik auch unabhängig von einer mikroskopischen Bewegungsgleichung hergeleitet werden kann, wird die von Neumann Dynamik im Rahmen des Projektionsformalismus in einen relevanten und einen irrelevanten Anteil bezüglich der Beobachtungsebene aufgeteilt. Als Beispiel für die Projektionsdynamik geben wir die Robertson Dynamik und die Fick Sauermann Dynamik an und untersuchen deren Eigenschaften sowie geeignete Projektionsoperatoren. Hierbei können wir den Zugang über das Mori Skalarprodukt und dem entsprechenden Kawasaki Gunton Operator über den generalisiert kanonischen Dichteoperator hinaus auf allgemeine begleitende Operatoren erweitern. Unter Verwendung der kanonischen Dynamik wird die Rate der von Neumann Entropie bestimmt und analysiert. In der thermodynamischen Anwendung sind zeitabhängige Observablen, die von Arbeitsvariablen abhängen, von besonderem Interesse. Um den ersten Hauptsatz anwenden zu können, müssen die grundlegenden thermodynamischen Gößen, Arbeits- und Wärmeaustausch, bekannt sein. Deswegen fordern wir, daß begleitende Prozesse hinreichend für die zugehörigen Arbeits- und Flußobservablen sind. Im allgemeinen sind weder die kanonische Dynamik noch die Projektionsdynamiken hinreichend, so daß wir anschließend einen Ansatz für eine hinreichende Dynamik angeben. In Zusammenhang mit der Extended Thermodynamics verallgemeinern wir die Forderung nach der hinreichenden Dynamik auf eine schwächere Formulierung. Anhand des Beispiels der kanonischen Dynamik diskreter Systeme unter thermischem Kontakt analysieren wir die Entropierate und wenden das Konzept der Kontakttemperatur auf die zugehörigen Wärmeübergänge an. In einem anderen Beispiel behandeln wir die Elektron-Phonon-Wechselwirkung im Festkörper. Hier wird die Robertson Projektion durchgeführt, um den Einteilchenanteil vom Korrelationsanteil für Mehrteilchen zu trennen. Beide Anteile sind relevant, um die Elemente der Elektronendichtematrix zu bestimmen. Die Dynamik von Teilsystemen sowie deren begleitende Prozesse werden untersucht, auch im Hinblick auf das Hinreichendsein. Die von Neumann Dynamik eines Teilsystems wird um einen Term ergänzt, der die Entropieproduktion bei innerem Wärmestrom berücksichtigen soll.</dc:description>
+          <dc:description xml:lang="eng">Irreversible processes in quantum-thermodynamical discrete systems can be treated by means of reduced information dynamics. For this, we consider different accompanying processes of the quantum mechanical von Neumann dynamics with respect to a given beobachtungsebene. While canonical dynamics can be derived independently from any quantum mechanical dynamics, projection formalism induces the isolation of the relevant part of the von Neumann dynamics from its irrelevant part according to the beobachtungsebene. We present the Robertson dynamics and the Fick Sauermann dynamics as projection dynamics, their properties and appropriate projectors. We are able to generalise the conventional approach through the Mori product and the according Kawasaki Gunton operator for the generalised canonical density operator to any accompanying operator. Starting from canonical dynamics, it is possible to calculate and analyse the rate of the von Neumann entropy. In thermodynamical applications, observables depending on work variables are of special interest. In order to apply the First Law, the essential thermodynamical quantities of work and heat exchange have to be known. Thus we demand the sufficiency of accompanying processes for the according work and flux observables. In general, neither canonical dynamics nor projected dynamics are sufficient for them, so we give an ansatz to obtain sufficient dynamics. With regard to the Extended Thermodynamics, we generalise the demand of the sufficiency to a weaker formulation. As an example, we consider the canonical dynamics of discrete systems in thermal contact, where we analyse the rate of entropy and apply the concept of contact temperature to the heat exchange. Another example is the electron-phonon interaction in a solid. Here, the Robertson projection is used to divide the von Neumann dynamics into a single particle part and a many particle correlation part, which are both relevant to determine the according electron density matrix elements. Concerning the dynamics of a subsystem, its accompanying processes are investigated, also with regard to the suffuciency. The von Neumann dynamics for a subystem is supplemented with an additional term takig the entropy production by internal heat fluxes into account.</dc:description>
+          <dc:date>2004-12-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/737</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7316</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7316</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/737/kato_akiko.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

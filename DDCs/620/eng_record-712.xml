@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:712">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:712</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Turbulente Wandgrenzschichten mit und ohne negativen Druckgradienten unter dem Einfluss hoher Turbulenzintensität der Außenströmung</dc:title>
+          <dc:title xml:lang="eng">The influence of high free-stream turbulence and a favourable pressure gradient on an incompressible axisymmetric turbulent boundary layer</dc:title>
+          <dc:creator>Stefes, Bruno</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Untersucht wurde der Einfluss hoher Außenturbulenz auf eine stark beschleunigte turbulente Grenzschicht und auf eine Grenzschicht mit Druckgradient null. Zur Erzeugung der hohen Außenturbulenz (Tu ~ 15%) wurden Freistrahlen mit hoher Geschwindigkeit senkrecht zur Hauptströmung in die Mess-Strecke eingeblasen. Diese Art von Außenturbulenz unterscheidet sich von der durch Gitter erzeugten, sowohl durch die Höhe der Turbulenzintensität als auch durch die Turbulenzstruktur, was sich im flacheren Abfall von Tu mit der Lauflänge bemerkbar macht. Die Untersuchungen wurden für vier Testfälle unterschiedlich hoher Außenturbulenz durchgeführt (0.3% &lt; Tu &lt; 13%). Das Verhältnis der Strukturlängen in der Außenströmung zur Grenzschichtdicke ist von O(1). Großer Wert wurde auf die genaue Bestimmung der Wandschubspannung gelegt, wofür zwei vom logarithmischen Wandgesetz unabhängige Messmethoden eingesetzt wurden: Wandhitzdraht und Ölfilminterferometrie. Die Wandschubspannung steigt infolge der hohen Außenturbulenz um bis zu 35% an. Gleichzeitig nimmt der Formparameter H12 mit steigender Außenturbulenz ab. Die mit der Impulsverlustdicke gebildete Reynolds-Zahl für den Fall Druckgradient null lag im Bereich 1000 &lt; Re &lt; 2000. Das logarithmische Wandgesetz bleibt auch bei hoher Außenturbulenz erhalten, jedoch ändert sich die Turbulenzstruktur der Grenzschicht. Die größte Wirkung der Turbulenzintensität ist im Außenbereich der Grenzschicht zu erkennen. Im Innenbereich der Grenzschicht sind die Veränderungen infolge der hohen Außenturbulenz u.a. am Anstieg der Geschwindigkeitsfluktuationen in Längsrichtung und der Strukturlängen Lx und Ly sowie an der Abnahme des Korrelationskoeffizienten auszumachen. Die rotationssymmetrische Strömung wurde mit Hilfe eines Verdrängungskörpers stark beschleunigt, sodass die Grenzschicht für den Fall ohne Außenturbulenz eine Relaminarisierung mit anschließender Retransition durchlief. Die Außenturbulenz nimmt infolge der Beschleunigung schnell ab, und das Verhältnis der Strukturlängen zur Grenzschichtdicke wird von O(10), sodass der unmittelbare Einfluss der Außenturbulenz im Beschleunigungsbereich gering wird. Jedoch hat die Vorgeschichte der Grenzschicht im Beschleunigungsbereich eine starke Wirkung, die dazu führt, dass die Entwicklung der Grenzschicht in Richtung Relaminarisierung bei hoher Außenturbulenz schwächer ausfällt. Sowohl die höheren Werte des Reibungsbeiwertes als auch der geringere Formparameter H12 der Grenzschicht vom Anfang der Mess-Strecke bleiben über den Beschleunigungsbereich erhalten.</dc:description>
+          <dc:date>2003-11-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/712</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7067</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7067</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/712/stefes_bruno.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4065">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4065</identifier>
+        <datestamp>2013-08-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Stability and Controllability of Double Integrator Consensus Systems in Heterogeneous Networks</dc:title>
+          <dc:title xml:lang="deu">Stabilität und Steuerbarkeit von Doppelintegratorkonsenssystemen mit heterogenen Kommunikationsstrukturen</dc:title>
+          <dc:creator>Goldin, Darina</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">A consensus system is a set of communicating agents that agree on a variable of interest using only local communication. Some possible uses for consensus systems include smart grids, wireless sensor networks, social networks and various applications of unmanned aerial vehicles such as surveillance, mapping and environmental monitoring. If the agents have double integrator dynamics, then the consensus system is called a double integrator consensus system.&#13;
+&#13;
+In this thesis a double integrator consensus system in continuous time is studied. The agents are assumed to be communicating their position and velocity information along some possibly different, weigh\-ted directed communication networks that are modeled by weighted directed graphs. The mathematical model of the system has the form \begin{equation}\ddot x(t)=-L_xx(t)-\beta L_{\dot x}\dot x(t),\tag{S1}\label{abs:1}\end{equation} where $x:\mathbb R^+\rightarrow\mathbb R^n$ and $\dot x:\mathbb R^+\rightarrow \mathbb R^n$ are the collected positions and velocities of the agents, $L_x$ and $L_{\dot x}$ are the Laplacians of the communication graphs and $\beta\in\mathbb R^+\setminus\{0\}$ is a gain. A stability concept for such systems is derived in the thesis. The system \ref{abs:1} is said to be consensus stable if all of its velocity differences approach zero in time, and asymptotically consensus stable, if all of its position differences tend to zero. &#13;
+&#13;
+The standard assumption made in the literature, that the communication networks are the same, i.e. homogeneous, for both information, is too strong in many cases. Thus, the algorithm is investigated under the assumption that the communication graphs may be different and possibly even disconnected. Necessary and sufficient conditions for consensus stability and asymptotic consensus stability are presented in the special case that the communication graphs are weighted and undirected. These conditions are subsequently relaxed to some cases of weighted directed graphs. Moreover, we consider the convergence rate of the system and the final convergence value.&#13;
+&#13;
+Following the stability analysis, it is shown how the autonomous consensus system \ref{abs:1} can be transformed into a control system by introducing an external control input to a subset of the agents. The resulting system is given by&#13;
+\begin{equation}&#13;
+ \ddot x(t)=-A_x^fx(t)-A_{\dot x}^f\dot x(t)+Bu(t),\tag{S2}\label{abs:2}&#13;
+\end{equation}&#13;
+where $x:\mathbb R^+\rightarrow \mathbb R^{n_f}$ and $\dot x:\mathbb R^+\rightarrow \mathbb R^{n_f}$ are the states of the controlled, ``follower'' agents,  $u:\mathbb R^+\rightarrow \mathbb R^{n_l}$ is the control input provided by the ``leader'' agents, $n_f+n_l=n$, and the matrices $A_x^f,A_{\dot x}^f\in\mathbb R^{n_f\times n_f}$, $B\in\mathbb R^{n_f\times n_l}$ are obtained from the Laplacian matrices $L_x$, $L_{\dot x}$. This network is called a leader-follower network and its controllability is investigated. Necessary conditions for controllability of the system \ref{abs:2} are given on both algebraic and graph-theoretic levels. It is made apparent that the graph-theoretic conditions are highly dependent on the underlying graph symmetries.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Ein Konsensussystem besteht aus einer Menge von kommunizierenden Agenten, die sich mittels ausschließlich lokaler Kommunikation auf eine Variable einigen. Einige denkbare Anwendungen für Konsensussysteme sind beispielsweise elektrische Netzwerke (so genannte "smart grids"), drahtlose Sensornetzwerke, soziale Netzwerke, und viele Anwendungen aus dem Bereich unbemannte Flugmaschinen, wie etwa Überwachung, Kartographie und Beobachtung von Ökosystemen. Wenn die Agenten, aus denen das Netzwerk besteht, eine Doppelintegratordynamik besitzen, so spricht man vom Doppelintegratorkonsensussystem.&#13;
+&#13;
+Diese Arbeit beschäftigt sich mit einem Doppelintegratorkonsensussystem in kontinuierlicher Zeit. Es wird angenommen, dass die Agenten ihre Position und Geschwindigkeit entlang von gewichteten Kommunikationsnetzwerken übermitteln können, die verschieden sein dürfen und mittels gewichteter gerichteter Graphen modelliert werden. Das mathematische Modell des Systems hat die Form \begin{equation}\ddot x(t)=-L_xx(t)-\beta L_{\dot x}\dot x(t),\tag{S1}\label{abs:3}\end{equation} wobei $x:\mathbb R^+\rightarrow\mathbb R^n$ und $\dot x:\mathbb R^+\rightarrow \mathbb R^n$ die gesammelten Positionen und Geschwindigkeiten der Agenten repräsentieren, $L_x$ und $L_{\dot x}$ die Laplacematrizen der Kommunikationsgraphen sind und  $\beta\in\mathbb R^+\setminus\{0\}$ ein Verstärkungsfaktor ist. Für solche Systeme wird in dieser Arbeit ein Stabilitätskonzept hergeleitet. Das System \ref{abs:3} wird konsensusstabil genannt, wenn alle Geschwindigkeitsunterschiede im System mit laufender Zeit null werden. Es wird asymptotisch konsensusstabil genannt, wenn alle Positionsunterschiede mit laufender Zeit null werden.&#13;
+&#13;
+Die üblicherweise in der Literatur getätigte Annahme, dass die Kommunikationsnetzwerke gleich, also homogen für beide Informationsflüsse sind, ist in vielen Fällen zu stark. Daher wird in dieser Arbeit die Annahme getroffen, dass die Kommunikationsnetzwerke unterschiedlich und unter Umständen sogar nicht verbunden sein können. Notwendige und hinreichende Bedingungen für Konsensusstabilität und asymptotische Konsensusstabilität werden für den Spezialfall hergeleitet, dass die Kommunikationsgraphen gewichtet und ungerichtet sind. Diese Bedingungen werden anschließend auf einige Fälle erweitert, in denen die Graphen gewichtet und gerichtet sind. Zudem betrachten wir die Konvergenzgeschwindigkeit und -wert des Systems.&#13;
+&#13;
+Im Anschluß an die Stabilitätsanalyse wird aufgezeigt, wie das autonome Konsensusystem \ref{abs:3} in ein Regelsystem überführt werden kann, indem ein Teil der Agenten mit einem externen Regler versehen wird. Es ergibt sich das System \begin{equation}&#13;
+ \ddot x(t)=-A_x^fx(t)-A_{\dot x}^f\dot x(t)+Bu(t),\tag{S2}\label{abs:4}&#13;
+\end{equation} wobei $x:\mathbb R^+\rightarrow \mathbb R^{n_f}$ und $\dot x:\mathbb R^+\rightarrow \mathbb R^{n_f}$ die Zustände der zu regelnden, ``folgenden'' Agenten sind,  $u:\mathbb R^+\rightarrow \mathbb R^{n_l}$ die Stellgröße ist, die von den ``führenden'' Agenten übermittelt wird, $n_f+n_l=n$, und die Matrizen $A_x^f,A_{\dot x}^f\in\mathbb R^{n_f\times n_f}$, $B\in\mathbb R^{n_f\times n_l}$ aus den Laplacematrizen $L_x$, $L_{\dot x}$ hergeleitet werden. Dieses Netzwerk wird als ein so genanntes "leader-follower" Netzwerk bezeichnet. Es wird auf Steuerbarkeit hin untersucht. Notwendige Bedingungen für die Steuerbarkeit von \ref{abs:4} werden sowohl auf graphenteoretischer als auch auf algebraischer Ebene hergeleitet. Es wird aufgezeigt, dass die graphtheoretischen Bedingungen stark von den in den Graphen vorhandenen Symmetrien abhängen.&#13;
+</dc:description>
+          <dc:date>2013-08-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4065</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40658</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40658</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4065/goldin_darina.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

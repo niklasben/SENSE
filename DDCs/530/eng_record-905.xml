@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:905">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:905</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Intersubband dynamics in semiconductor quantum wells : linear and nonlinear response of quantum confined electrons</dc:title>
+          <dc:creator>Waldmüller, Inès</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die Antwort von Intersubbandsystemen auf lineare und nichtlineare Ultrakurzzeitanregungen untersucht. Neben einer detaillierten Aufschlüsselung der einzelnen mikroskopischen Vielteilcheneffekte wird dabei auch die Auswirkung makroskopischer Effekte wie der radiativen Kopplung zwischen einzelnen Quantenfilmen in hochdotierten Vielfachquantenfilmstrukturen berücksichtigt. Die mikroskopische Beschreibung ist dabei im Rahmen einer Dichtematrixtheorie anzusiedeln, die makroskopische beruht auf einem Greensfunktions-Formalismus. Eine Kombination beider Ansätze eröffnet eine umfassende Bandbreite möglicher Anwendungsgebiete. So können im Fall lineaer Anregung, d.h. im Fall schwacher externer Anregung, Linienbreiten und Formen von Absorptionsspektren einzelner Quantenfilme oder auch komplexerer Vielfachquantenfilmstrukturen untersucht werden. Dabei ist hervorzuheben, dass es sich um eine mikroskopische, selbst-konsistente Theorie handelt, in die keine Fitparameter eingehen. Die berechneten Absorptionsspektren sind daher vollständig auf die zugrundeliegenden Vielteilcheneffekte zurückzuführen. Im Fall nichtlinearer Anregung, d.h. im Fall starker externer Anregung, liegt das Augenmerk auf der Untersuchungen der auftretenden Dichte-Oszillationen. Es wird gezeigt, unter welchen Umständen eine kohärente Kontrolle von Intersubbandübergängen trotz auftretender Vielteilcheneffekte möglich ist. Ferner wird auch hier die Auswirkung radiativer Kopplung auf die zu untersuchenden Grössen in Betracht gezogen. Zusammenfassend wird eine mikroskopische Vielteilchentheorie vorgestellt, die unter Berücksichtigung sowohl von Elektron-Elektron-Wechselwirkung und Elektron-Phonon-Wechselwirkung als auch radiativer Kopplung in der Lage ist, sowohl im linearen als auch im nichtlinearen Regime zum Verständnis und damit auch zu einer besseren Kontrolle von Intersubbandsystemen beizutragen.</dc:description>
+          <dc:description xml:lang="eng">This work studies the response of intersubband systems to linear and nonlinear excitation with ultra short pulses. A detailled investigation of the individual microscopic many-particle effects is given. Furthermore, the consequences of macroscopic effects such as radiative coupling between individual quantum wells in a highly doped multiple quantum well system are taken into account. Thereby the microscopic treatment is performed in the framework of a density matrix approach; the macroscopic treatment is based on a Greens-function formalism. By combinating both approaches a wide range of possible applications is covered. In the case of linear excitation, i.e., in the case of weak external excitation, linewidhts and lineshapes of absorption spectra of both single quantum wells and complex multiple quantum well systems are investigated. In this context, it is important to stress, that the presented microscopic theory is self-consistent (no fit paramters). Consequently, the calculated absorption spectra are completely determined by the underlying microscopic many particle effects. In the case of nonlinear excitation, i.e., in the case of strong external excitation, the investigation of occurring density oscillations is of special interest. Boundary conditions for possible coherent control of intersubband transitions are examined - with respect to many-particle effects. Additionally, the influence of radiative coupling on the quantities of interest is investigated. In short, we present a microscopic many-particle theory which takes into account not only electron-electron and electron-phonon interaction, but also radiative coupling. As a result, the theory is suited for investigation of both the linear and nonlinear regime and gives insights into the possibilities of coherent control over intersubband transitions.</dc:description>
+          <dc:date>2005-01-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/905</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8984</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8984</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/905/waldmueller_ines.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

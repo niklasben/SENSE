@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:385">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:385</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beiträge zur Weiterentwicklung der Olefinmetathese : Naturstoffsynthese und neue Katalysatoren</dc:title>
+          <dc:creator>Buschmann, Nicole</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Ruthenium-katalysierte Dominoprozesse unterschiedlicher Metathesereaktionen, insbesondere die Kombination aus Ringschluss-/Ringöffnungsmetathese, können als Schlüsselschritt zur flexiblen Darstellung heterocyclischer Ringsysteme genutzt werden. Durch Anwendung einer solchen Ringumlagerungsmetathese (RCM/ROM) wurde eine neue enantioselektive Synthese des polyhydroxylierten Indolizidinalkaloids (-)-Swainsonin, ausgehend von einem enantiomerenreinen Oxazolidinon, in einer Gesamtausbeute von 40 % über zwölf Stufen entwickelt. Das besondere Potential dieser atomökonomischen Umlagerung besteht in der Möglichkeit, stereochemische Information aus dem Carbocyclus in den neu gebildeten Heterocyclus bzw. dessen Seitenkette zu transformieren. Durch Variation eines von Trost et al. beschriebenen Protokolls konnte das enantiomerenreine Oxazolidinon, das als wichtiges Ausgangsmaterial der Synthese diente, im Grammmaßstab zugänglich gemacht werden. Die Totalsynthese wurde durch Funktionalisierung der terminalen Doppelbindung, Umschützung auf die unter besonders milden Bedingungen abspaltbare Alloc-Schutzgruppe, Cyclisierung des zweiten Rings und diastereoselektive Dihydroxylierung vervollständigt. Ruthenium-Komplexe mit N-heterocyclischen (NHC) Liganden haben in letzter Zeit in der Olefinmetathese große Beachtung erfahren. Die vorliegende Arbeit beschreibt die Darstellung neuer Ruthenium-Katalysatoren, die permanent über ihren NHC-Liganden immobilisiert sind. Solche metatheseaktive Komplexe konnten ausgehend von einem geträgerten 1,3-Dimesityl-4,5-dihydroimidazoliumsalz innerhalb weniger Stufen dargestellt werden. Anhand detaillierter Aktivitätsstudien wurde die generelle synthetische Anwendbarkeit dieser Katalysatoren demonstriert. Besondere Beachtung verdient hierbei deren einfache Handhabung. Die Metatheseprodukte können in hoher Reinheit nach einfacher Filtration als dem einzig nötigen Reinigungsschritt isoliert werden. Die hohe Effizienz und Wiederverwendbarkeit der dargestellten Komplexe macht sie besonders als ökonomische Alternativen ihrer homogenen Analoga attraktiv. Die Einführung einer chelatisierenden ortho-Isopropoxy-benzylideneinheit in Ruthenium-Katalysatoren eröffnet die Möglichkeit, Olefinmetathese-Katalysatoren nach beendeter Reaktion durch chromatographische Aufreinigung des Reaktionsgemisches in reiner Form wiederzugewinnen. Diese Stabilisierung geht allerdings mit verlängerten Reaktionszeiten einher. In der vorliegenden Arbeit gelang es, einen neuen, ähnlich stabilen, jedoch wesentlich aktiveren Ruthenium-Initiator in nur drei Syntheseschritten und einer Gesamtausbeute von 53 % darzustellen. Anhand detaillierter Aktivitätsstudien in RCM- und ROM/CM-Reaktionen wurde außerdem die hohe Toleranz dieses Katalysators gegenüber unterschiedlich funktionalisierten Substraten und somit seine generelle synthetische Anwendbarkeit demonstriert. Besondere Beachtung verdienen hierbei die niedrigen Katalysatormengen und kurzen Reaktionszeiten, die zum Umsatz der beschriebenen Substrate bei Raumtemperatur erforderlich sind.</dc:description>
+          <dc:date>2002-11-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/385</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3806</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3806</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/385/buschmann_nicole.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

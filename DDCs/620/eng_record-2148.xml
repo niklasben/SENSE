@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2148">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2148</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Röntgendiffraktometrische Ermittlung tiefenabhängiger Eigenspannungsverteilungen in Dünnschichtsystemen mit komplexem Aufbau</dc:title>
+          <dc:title xml:lang="eng">X-ray Diffraction Analysis of Residual Stress Depth Profiles in Thin Film Systems with Complex Design</dc:title>
+          <dc:creator>Klaus, Manuela</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird ein Formalismus entwickelt, der die tiefenaufgelöste röntgenographische Eigenspannungsanalyse in dünnen Schichten auf den Fall von Multilagenschichtsystemen überträgt und erweitert. Der Grundgedanke der Methode besteht darin, den klassischen Begriff der Informationstiefe, der im Falle von alternierenden Subschichtfolgen seine physikalische Bedeutung verliert, durch ein Äquivalenzdickemodell zu ersetzen, das den Eigenspannungszustand in den jeweils beugenden Schichten in parametrisierter Form beschreibt. Der vorgeschlagene Formalismus ist unabhängig von der Beugungsgeometrie sowie dem zur Datenerfassung gewählten Diffraktionsmodus und besitzt daher universellen Charakter. Das Verfahren wird auf die Eigenspannungsanalyse in CVD-beschichteten Hartmetallwendeschneidplatten angewendet. Neben der winkeldispersiven Beugungsmethode, deren Sensitivität sich für CuKa- und CoKa-Strahlung auf die oberflächennächsten Subschichten der untersuchten Al2O3/TiCN-Multilagenschichten beschränkt, kommt auch die energiedispersive Methode unter Verwendung hochenergetischer weißer Synchrotronstrahlung zum Einsatz. An praxisrelevanten Beispielen wird demonstriert, dass der vorgeschlagene Formalismus geeignet ist, um sowohl ‚intralayer‘ Eigenspannungsgradienten innerhalb einzelner Subschichten als auch ‚interlayer‘ Eigenspannungsgradienten über mehrere Subschichten eines Multilagenschichtsystems zu detektieren. Im Rahmen der Arbeit konnte gezeigt werden, dass sich die Weißstrahlmethode gleichsam für die simultane Analyse des Schicht- als auch des grenzflächennahen Substrateigenspannungszustandes nutzen lässt. Dadurch zeichnet sich die aus herstellungstechnologischer Sicht interessante Möglichkeit ab, die energiedispersive Beugung in der Prozessoptimierung für die Untersuchung größerer Probenserien einzusetzen. Einen zweiten Schwerpunkt der vorliegenden Arbeit stellt die Entwicklung eines MATHEMATICA® Programmpaketes dar, mit dessen Hilfe sich auf Grundlage der kinematischen Beugungstheorie röntgenographische Eigenspannungsanalysen für beliebige Messkonfigurationen und Schichtgeometrien simulieren lassen. Zwei wichtige Anwendungsfelder, die in unmittelbarem Zusammenhang mit den experimentellen Ergebnissen stehen, werden betrachtet. So konnte der kausale Zusammenhang zwischen extrem steilen Eigenspannungsgradienten und asymmetrischer Interferenzlinienprofilverzerrung quantitativ nachgewiesen werden. Ferner wird demonstriert, dass die vollständige Simulation röntgenographischer Eigenspannungsanalysen ein wichtiges Werkzeug darstellt, um Aussagen zur Durchführbarkeit komplexer Messprobleme treffen und optimale Wege für deren Lösung aufzeigen zu können.</dc:description>
+          <dc:description xml:lang="eng">A formalism is developed, which extends the depth resolved X-ray residual stress analysis (XSA) on thin films to the case of multilayer systems. The method is based on the replacement of the classic information depth, which loses its physical meaning in the case of alternating sublayers, by an equivalence thickness model describing the residual stress state in each of the diffracting layers in a parametric form. The proposed formalism is independent from both the diffraction geometry and diffraction mode chosen for data acquisition and hence, exhibits a universal character. The method is applied to residual stress analysis on CVD-coated cemented carbide cutting inserts. Both angle and energy dispersive diffraction using conventional low energy X-ray sources and high energy synchrotron radiation, respectively, were applied to achieve sufficient sensitivity in the near surface region of the investigated Al2O3/TiCN multilayers as well as in the interfacial substrate region. By examples of practical relevance it is demonstrated, that the proposed formalism is suited for detecting both ‚intralayer‘ residual stress gradients within particular sublayers and ‚interlayer‘ residual stress gradients which extend over several sublayers of a multilayer system. It is shown, that the white beam method can be used for simultaneous analysis of the film stress as well as the near interface substrate residual stress state to the same degree. Thus, from the technological point of view the interesting possibility arises to apply energy dispersive diffraction to large sample series being necessary in process control and optimisation. The second focus of the thesis is on the development of a MATHEMATICA® package, by means of which X-ray residual stress analysis for arbitrary measurement set-up and layer geometry can be simulated based on the kinematic theory of diffraction. Two different fields of application, which are related to the experimental results, are examined. Thus, the causal connection between the steep residual stress gradients and asymmetric diffraction line broadening could be proved quantitatively. Further it is demonstrated, that the simulation of XSA-experiments is a valuable tool to study the feasibility of complex measuring problems and to reveal optimal approaches for their solution.</dc:description>
+          <dc:date>2009-06-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2148</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22585</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22585</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2148/original_Dissertation_Klaus.docx</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2148/A_klaus_manuela_webversion.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2148/TU-Berlin-2145-Klaus.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2148/US-TU-Berlin-2145-Klaus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

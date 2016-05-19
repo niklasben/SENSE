@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1375">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1375</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modelluntersuchungen zum Verhalten von Rauch- und Temperaturschichtungen in Räumen unter Berücksichtigung einer Querströmung</dc:title>
+          <dc:title xml:lang="eng">Scale Model investigations on effects of smoke and temperature layers in rooms under the influence of a secondary flow</dc:title>
+          <dc:creator>Knospe, Olaf</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Zur Rauchableitung aus großen Räumen werden natürlich wirkende oder maschinell betriebene Rauchabzugsanlagen eingesetzt, wobei immer Zuluft- oder Nachströmöffnungen erforderlich sind. Diese Öffnungen führen zu einer Querströmung im Raum, mit denen toxische Gase (Rauch) aus der Rauchschicht in den Flucht- oder Aufenthaltsbereich (raucharme Schicht) der Nutzer transportiert werden können. Die vorliegende Arbeit beschäftigt sich mit den Bedingungen, unter denen ein Transport von Rauch erfolgt. Neben den Untersuchungen zur Stabilität einer Rauch- und Temperaturschichtung wird auch der Mischungsvorgang von Rauch/Energie aus der Rauchschicht in die raucharme Schicht analysiert. Die Untersuchungen erfolgten im Wesentlichen an Windkanalmodellen im Maßstab 1:8 qualitativ und an einem Versuchsraum im Maßstab 1:8 quantitativ. Die Ergebnisse zeigen drei markante Strömungsformen der Brandraumströmung: Quellströmung, Übergangsströmung und Mischströmung. Zur quantitativen Bestimmung der Strömungsbereiche wird eine Archimedes-Zahl ArR des Raumes definiert. Der Übergang von der Quellströmung zur Übergangsströmung tritt im Bereich ArR = 2,5…3,2 ein. Bei einer Archimedes-Zahl von ArR = 0,1 herrscht Mischströmung im Raum. Weiterhin konnte jeweils eine allgemeine Beziehung zur Berechung der Rauchschichthöhe und des dimensionslosen Einmischstroms bei Querströmung ermittelt werden. Die gewonnenen empirischen Ergebnisse sind für eine allgemeine Beschreibung des Verhaltens der Rauchsicht bei Querströmung noch zu unvollständig. Die Position und Höhe des Brandherds im Raum, der Einfluss der Flammenstrahlung, die Öffnungsfläche der Nachströmung, der Abstand zwischen den Entrauchungs- und Nachströmöffnungen und der Einfluss von Objekten können die Untersuchungsergebnisse verändern. Neben weiteren Modellversuchen bedarf es Untersuchungen im Originalmaßstab.</dc:description>
+          <dc:description xml:lang="eng">Naturally or mechanically working smoke exhaust systems for assembly rooms or halls also require supply openings or lower vents. These openings lead to a secondary flow within the room through which toxic gases from the smoke layer could penetrate the escape and rescue zone. This thesis is dealing with the conditions und which a transport of smoke is conducted. Apart from the investigation on stability of a smoke and temperatur layer the process of smoke/energy mixing has also been analysed. Qualitative analysis has been carried out in a wind tunnel on scale models 1:30 where as a test room with the scale of 1:8 was used for quantitative analysis. The results reveal three significant flow patterns: source-flow, transition-flow and mixed-flow. In order to specify the flow patterns quantitativly an Archimedes-number ArR for the room has been defined. The transition from the source-flow to the transition-flow appears between ArR = 2.5...3.2. At and below ArR = 0.1 mixed-flow was observed. Moreover a general correlation between the Archimedes-number ArP for the plume and the Richardson-number RiWP for the temperature layer could be found. The non-dimensional entrainment rate of smoke E correlates with the Intergral-Richardson-number RiI under presence of secondary flow. The provided empirical results still lack further investigations in respect to a general description of the behaviour of a smoke an temperature layer und the influence of a secondary flow. The position and height of the fire in the room, the influence of the flame radiation, the opening area of the inlet openings, the distance between the inlet and smoke exhaust openings and the influence of objects could change the results.Among other scale model investigations further tests need to be carried out under original room conditions.</dc:description>
+          <dc:date>2006-11-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1375</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14208</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14208</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1375/knospe_olaf.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

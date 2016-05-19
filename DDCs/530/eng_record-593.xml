@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:593">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:593</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Das Kurzzeit-Spiegelelektronenmikroskop : eine schnelle Sonde zur zeitaufgelösten Darstellung kurzlebiger pulslaserinduzierter Oberflächenprozesse</dc:title>
+          <dc:title xml:lang="eng">The high-speed mirror electron microscope : a fast probe for time-resolved imagery of transient pulse laser-induced surface processes</dc:title>
+          <dc:creator>Kleinschmidt, Harry</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Es wurde ein gepulstes Spiegel-Elektronenmikroskop für die Abbildung kurzlebiger pulslaserinduzierter Oberflächenprozesse mit Nanosekunden-Zeitauflösung entwickelt. Durch Experimente an Metall- und Halbleiterproben wurde die Leistungsfähigkeit als schnelle und empfindliche Oberflächensonde nachgewiesen. Die kurzen Belichtungselektronenpulse (10 ns, 10^-3 rad, 1 mA max.) werden durch Beschuss einer Fotokathode mit UV-Laserpulsen (lambda = 266 nm, 10 ns FWHM) erzeugt. Das Objekt ist die auf negativem Potential liegende Elektrode eines 2-Elektroden-Spiegels. Die zu untersuchenden Prozesse werden durch auf die Objektoberfläche fokussierte Laserpulse (532 nm, 25 ns FWHM) ausgelöst. Beleuchtungs- und Abbildungselektronengänge werden mit einem 90°-Magnetprisma getrennt. Das Schlierenbild des Objektes wird mit einem Leuchtschirm aufgefangen und von diesem über Fiberoptik mit einer verstärkten CCD aufgenommen. Die Orts-/Zeitauflösung ist durch das Schrotrauschen der abbildenden Elektronen und die Beleuchtungsapertur begrenzt und beträgt 1 µm/10 ns. Mit dem Spiegelelektronenmikroskop wurden massive Proben (CrNi-Stahl, Si) und dünne Aufdampfschichten (Al, Bi, Cr, Ni) untersucht. Dabei wurden kurzlebige laserinduzierte Oberflächenprozesse wie die Materialverdampfung und Ausbreitung der Gaswolken, die Entfernung und Neubildung von dünnen Adsorbat- und Oxidschichten (schon ab einer Monolage) und das Aufreißen dünner Aufdampfschichten beobachtet.</dc:description>
+          <dc:description xml:lang="eng">A pulsed mirror electron microscope was developed for imaging pulse laser-induced transient processes in the nanosecond time scale. The required short illuminating electron pulses (10 ns, 10^-3 rad, 1 mA max.) are produced by treating a photocathode with ultraviolet laser pulses (lambda = 266 nm, 10 ns FWHM). The specimen is the negative electrode of a 2-electrode mirror. The processes to be studied are launched by laser pulses (532 nm, 25 ns FWHM) focussed at the surface of the specimen. The illuminating and imaging electron paths are separated by an 90° magnetic prism. The Schlieren image of the specimen is projected to a phosphor screen, which is coupled to an intensified CCD via fiber optics. The space/time resolution limited by electron shot noise and illumination aperture is 1µm/10 ns. Bulk materials (stainless steel, Si) and vapour-deposited films (Al, Bi, Cr, Ni) were investigated by this mirror electron microscope. The transient surface processes observed there, like evaporation and expansion of gas clouds, removal and growth of thin adsorbate and oxide layers (even from one monolayer on), and ripping of films, show its potential as both fast and sensitive surface probe.</dc:description>
+          <dc:date>2003-07-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/593</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5879</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5879</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/593/kleinschmidt_harry.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

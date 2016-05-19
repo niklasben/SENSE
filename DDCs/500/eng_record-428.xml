@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:428">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:428</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Establishment of a baculovirus surface display library using the major envelope protein gp120 from human immuno deficiency virus 1 as a model</dc:title>
+          <dc:title xml:lang="deu">Etablierung einer baculoviralen Oberflächen-Genbank mit dem Haupthüllprotein gp120 des Humanen Immundefizienz Virus 1 als Modell</dc:title>
+          <dc:creator>Töllner, Lars</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Die heterologe Expression von funktionellen Proteinen stellt mitunter hohe Ansprüche an die Translationsmaschinerie der Wirtszelle. Korrekte posttranslationelle Modifikationen und Faltung des Zielproteins werden nur von eukaryontischen Zellen durchgeführt. In den letzten zwanzig Jahren konnte sich das Baculovirus-Expressionssystem als konkurrenzfähige Alternative zur klassischen Säugerzellkultur etablieren. Zahlreiche rekombinante Proteine konnten bereits im Baculovirus-Insektenzellsystem authentisch und funktionell exprimiert werden. Das Ziel der vorgelegten Arbeit war die Etablierung und Evaluierung einer eukaryontischen Oberflächenbibliothek auf infizierten Spodoptera frugiperda (Sf9) Insektenzellen und baculoviralen Partikeln. Das komplexe Glykoprotein gp120 des humanen Immundefizienzvirus (HIV-1) wurde als anspruchsvolles Modellprotein ausgewählt. Verschiedene baculovirale Vektoren wurden konstruiert und auf ihre Oberflächenpräsentation hin untersucht. Darüber hinaus kamen zwei unterschiedliche Strategien zur Generierung der Bibliotheken zur Anwendung. Vier verschiedene monoklonale Antikörper wurden ausgewählt, um mittels des fluoreszenz-aktivierten Zellsorters (FACS) Bindungspartner aus den dargestellten Bibliotheken spezifisch zu selektieren. Die erste Bibliothek wurde mittels stochastischer Fragmentierung des Zielgenes durch DNase-I etabliert. Obwohl eine Präsentation der generierten Peptide auf der Oberfläche von infizierten Insektenzellen und auf baculoviralen Partikel nachgewiesen wurde, konnten keine spezifischen Bindungspartner selektiert werden. Die zweite Bibliothek wurde durch gezielte und gleichmässige Amplifikation von gp120-Fragmenten mittels Polymerase-Kettenreaktion (PCR) erstellt und erwies sich als verlässlich und sehr definiert. Zytometrische Selektion mit allen ausgewählten Antikörpern führte zu einer spezifischen Anreicherung und letztendlich zur Verifizierung der gesuchten Epitope. Ferner konnten für den neutralisierenden Antikörper IAM 120-1B1, der ein unbekanntes, konformationelles Epitop in der CD4-Bindungsstelle des gp120 erkennt, einige interessante, hochaffine Bindungspartner identifiziert werden. Die vorliegende Arbeit demonstriert eindrucksvoll das Potential der etablierten baculoviralen Oberflächenbibliotheken im Hinblick auf Anwendungen wie z.B. Rezeptor-Bindungsstudien oder die Untersuchung von Protein-Protein-Interaktionen und die Identifizierung von Antikörperbindungsstellen.</dc:description>
+          <dc:description xml:lang="eng">Heterologous expression of functionally active protein requires correct posttranslational modifications and folding which can exclusively be accomplished by eukaryotic cells. During the last twenty years, the baculoviral expression system has become a competitive alternative to mammalian expression systems. Numerous heterologous proteins have been expressed successfully with the aid of baculoviruses taking advantage of the mammalian-like postranslational machinery of lepidopteran cell lines. The aim of this work was to establish to evaluate an authentic eukaryotic surface expression library on baculoviral particles and infected Spodoptera frugiperda (Sf9) insect cells for the purpose of epitope mapping. The complex envelope glycoprotein gp120 of human immunodeficiency virus (HIV-1) was chosen as challenging model protein. Different baculoviral expression vectors were tested for their surface display properties in order to select the optimal vehicle for construction of the library. Two different strategies for generation of the library were applied and evaluated. Several monoclonal antibodies were used for specific selection of binding partners from the libraries by means of fluorescence activated cell sorting (FACS). A first library was generated by random fragmentation of the target protein gp120 by DNase digestion. Presentation of desired peptides on baculoviral particles and infected insect cells has been demonstrated, but no selection of binding partners could be achieved by means of FACS. The second library which was generated by specific PCR amplification of gp120 fragments turned out to be very reliable and well-defined. Cytometric sorting with all three chosen antibodies led to specific amplification of binding partners and to verification of their epitopes. Moreover, FACS selection with the CD4 binding site antibody IAM 120-1B1, specific for a conformational epitope, resulted in the identification of several promising gp120 fragments with high binding affinity. The presented work demonstrates the potential of the established libraries to serve as a tool for applications like epitope mapping and receptor binding studies and will be made available for other scientists.</dc:description>
+          <dc:date>2003-01-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/428</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4235</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4235</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/428/toellner_lars.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

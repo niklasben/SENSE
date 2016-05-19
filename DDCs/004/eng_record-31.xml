@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:31">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:31</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Integration of Graph transformation and temporal logic for the specification of distributed systems</dc:title>
+          <dc:title xml:lang="deu">Integration von Graphtransformation und temporaler Logik zur Spezifikation verteilter Systeme</dc:title>
+          <dc:creator>Koch, Manuel</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit stellt eine formale Spezifikationsmethode für verteilte Systeme vor. Ziele der Arbeit sind die komponentenweise Modellierung des Verhaltens verteilter Systeme, die Spezifikation von Eigenschaften verteilter Systeme und die Unterstützung zum (automatischen) Überprüfen dieser Eigenschaften. Um diese Ziele zu erreichen, schlage ich einen integrierten Ansatz zweier formaler Methoden vor: verteilte Graphtransformation und temporale Logik. Verteilte Graphtransformation wird zur Modellierung des Verhaltens verteilter Systeme eingesetzt, Eigenschaften werden mit temporaler Logik spezifiziert. Der kombinierte Ansatz profitiert von den Stärken der einzelnen Ansätze und stellt eine geeignete Methode zur Verfügung, Aspekte verteilter Systeme formal und graphisch zu modellieren. Ich habe einen Single-Pushout (SPO) Ansatz für verteilte Graphtransformation entwickelt, der sowohl die Topologie als auch die lokalen Datenzustände spezifiziert. Dieser Ansatz läßt eine Vielzahl von Spezifikationstechniken für die lokalen Zustände zu. Ein Hauptbeitrag meines Ansatzes ist die kompositionale operationale Semantik, welche auf den von Martin Große-Rhode entwickelten Transformationssystemen basiert. Ich integriere den SPO Ansatz für verteilte Graphtransformation und eine aussagenlogische temporale Logik. Die Integration vollzieht sich über eine Pre-Ordnung (eine reflexive und transitive Relation) über verteilten Graphen und resultiert in graphinterpretierten temporalen Formeln und temporalen Graphmodellen. Graphinterpretierte Formeln erlauben die graphische Spezifikation temporaler Eigenschaften, so dass die Spezifikation des verteilten Systems und die Spezifikation der Systemeigenschaften im selben Formalismus geschieht. Dank der Integration verteilter Graphtransformation und temporaler Logik können vorhandene Konzepte im Bereich der temporalen Logik zum Nachweis graphinterpretierter Formeln bzgl. eines mit verteilter Graphtransformation modellierten Systems genutzt werden. Insbesondere das Konzept des Model-Checkens wird in dieser Arbeit zur automatischen Verifikation von graphinterpretierten Formeln betrachtet. Ich stelle die Konstruktion eines typischen Modells vor, welche ein möglicherweise unendliches temporales Graphmodell (d.h. ein Modell mit unendlich vielen Zuständen) zu einem endlichen Graphmodell zusammenfaßt. Das typische Modell hilft, von lokaler Erfüllbarkeit lokaler Formeln in einem Teilsystem des verteilten Systems auf die globale Erfüllbarkeit globaler Formeln im gesamten verteilten System zu schließen.</dc:description>
+          <dc:description xml:lang="eng">This work provides a methodology for the specification of distributed systems based on formal methods. Major aims are the compositional modeling of the behavior of distributed systems, the specification of distributed system properties and the support of their (automatic) verification. To reach this goal, I propose an integrated approach of two formal methods, namely distributed graph transformation and temporal logic. Distributed graph transformation is intended for modeling the behavior of distributed systems, whereas distributed system properties are specified by temporal logic. The combined approach benefits from the strength of each single approach and provides a suitable methodology to model formally the aspects of distributed systems. I develop a single-pushout approach to distributed graph transformation that specifies the topology of the distributed system as well as its local data states. My approach permits a variety of specification techniques for local data states, where I investigate the requirements for the specification techniques that can be used for the local data. A main contribution of my approach to distributed graph transformation is the compositional operational semantics. This semantic is based on transformation systems introduced by Große-Rhode. I integrate the single-pushout approach to distributed graph transformation and a propositional temporal logic. The integration takes place over a pre-order relation over distributed graphs and results in graph-interpreted temporal formulas and temporal graph models. Graph-interpreted formulas provide a methodology to specify temporal properties graphically, in the same way as the distributed system itself is specified. The integration of distributed graph transformation and temporal logic allows to make use of the variety of verification concepts in the area of temporal logic to check graph-interpreted temporal formulas with respect to a temporal graph model. I focus in this work especially on the concept of model-checking for the automatic verification of graph-interpreted temporal formulas. I provide the construction of a typical graph model that collapses a possibly infinite temporal model to a finite one and that supports the reasoning from the local satisfaction of local formulas in a sub-system of the distributed system to global satisfaction of global formulas in the complete distributed system.</dc:description>
+          <dc:date>2000-06-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/31</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-284</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-284</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/31/koch_manuel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

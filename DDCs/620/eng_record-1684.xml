@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1684">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1684</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Magnetresonanzelastographie - Sequenzentwicklung, quantitative Evaluierung und Anwendung am Gehirn -</dc:title>
+          <dc:title xml:lang="eng">Magnetic resonance elastography - sequence design, quantitative evaluation, and application to the brain -</dc:title>
+          <dc:creator>Hamhaber, Uwe</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die dynamische Magnetresonanzelastographie (MRE) ermöglicht es prinzipiell, viskoelastische Kenngrößen von Weichgeweben in vivo quantitativ zu bestimmen. Im Rahmen dieser Arbeit wurde dieses Verfahren anhand von homogenen und heterogenen Weichgewebephantomen auf seine quantitative Aussagekraft überprüft sowie Untersuchungen zur Auflösungsfähigkeit von Elastizitätsunterschieden und zur Bestimmung nichtlinearer elastischer Eigenschaften durchgeführt. Des Weiteren erfolgte eine Weiterentwicklung des Verfahrens hinsichtlich der Anwendung am menschlichen Gehirn. Hierzu wurden spezielle Anregungseinheiten zur Einkopplung mechanischer Wellen ins Gehirn entwickelt und eine sehr schnelle Magnetresonanz-Bildaufnahmetechnik implementiert, die in-vivo-Messungen an Probanden und Patienten in einer vertretbaren Zeit erlaubt. Die örtliche Auflösungsfähigkeit des Verfahrens war bei heterogenen Gewebephantomen höher als bei in-vivo-Untersuchungen des Gehirns. Mit Hilfe eines selbst entwickelten Algorithmus zur Analyse der dreidimensionalen Wellenausbreitung konnten in Abhängigkeit der Anregungseinheit und der individuellen Wellenausbreitung Bereiche des Gehirns lokalisiert werden, in denen eine zweidimensionale Rekonstruktion eine Abschätzung gemittelter viskoelastischer Parameter innerhalb eines moderaten Fehlerbereichs ermöglicht. Eine im Laufe dieser Dissertation an Probanden durchgeführte Studie von Wiederholungsmessungen zeigte, dass innerhalb dieses Gehirnbereiches räumlich gemittelte viskoelastische Parameter unabhängig von Schichtpositionierung und Untersucher reproduzierbar bestimmt werden können.</dc:description>
+          <dc:description xml:lang="eng">With dynamic magnetic resonance elastography (MRE) it is possible in principle to quantitatively determine viscoelastic parameters of soft tissues in vivo. Within the scope of this thesis this method was tested for its quantitative significance by means of homogeneous and heterogeneous soft tissue phantoms as well as investigated for its differentiation ability of elasticity differences and the ability to determine non-linear elastic properties. Furthermore enhancements of this method for application to the human brain were carried out. For this purpose, particular excitation units for injecting mechanical waves into the brain were developed and a very fast magnetic resonance image acquisition technique was implemented that allows in vivo measurements of volunteers and patients in an acceptable amount of time. The spatial resolution of the method found for heterogeneous tissue phantoms was higher than that for in vivo brain measurements. By means of a proprietarily developed algorithm for analyzing the three-dimensional wave propagation, regions of the brain could be located dependent on the excitation unit and the individual wave propagation, in which a two-dimensional reconstruction permits the estimation of averaged viscoelastic parameters within a moderate error margin. A study on repeated measurements in volunteers performed in the course of this dissertation showed that within this region of the brain spatially averaged viscoelastic parameters can be reproducibly determined independent of slice orientation and examiner.</dc:description>
+          <dc:date>2008-02-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1684</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17577</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17577</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1684/hamhaber_uwe.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:303">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:303</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Verfahren zur simultanen Berechnung gekoppelter transienter Temperaturfelder in Strömungen und Strukturen</dc:title>
+          <dc:title xml:lang="eng">A Procedure for the Simultaneous Computation of Coupled Transient Temperature Fields in Flow and Structure</dc:title>
+          <dc:creator>Reyer, Matthias</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird ein Finite-Volumen-Verfahren für strukturierte Gitter zur gekoppelten und simultanen numerischen Behandlung instationärer Temperaturfelder in Strömungen und Strukturen vorgestellt. Hierzu wurde der Algorithmus zur direkten Kopplung in ein Navier-Stokes-Verfahren zur Berechnung von zweidimensionalen Strömungen implementiert. Am Beispiel typischer aerothermodynamischer Szenarien aus dem Bereich der Luft- und Raumfahrt wurde der Algorithmus erfolgreich verifiziert und validiert. Bei den im Rahmen dieser Arbeit durchgeführten numerischen Simulationen zeigte sich, daß aus der direkten Kopplung der Energiegleichungen von Strömung und Struktur ein sehr robuster und leistungsstarker Algorithmus resultiert.</dc:description>
+          <dc:description xml:lang="eng">The work presents a finite volume method on structured grids for the coupled and simultaneous numerical treatment of transient temperature fields in flow and structure. Therefore the direct coupled algorithm is implemented in a Navier-Stokes solver for the numerical solution of two dimensional flows. The algorithm is verified and validated succesfully by comparing with results of different aerothermodynamic applications. The research shows that the use of the "direct coupled" procedure gives a very robust and effective algorithm.</dc:description>
+          <dc:date>2002-05-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/303</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2983</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2983</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/303/reyer_matthias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

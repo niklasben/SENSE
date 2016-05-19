@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3827">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3827</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Architectural Energy Efficiency</dc:title>
+          <dc:creator>Nasrollahi, Farshad</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">Energy saving in buildings through cost and energy-intensive measures, such as the application of additional building materials and technologies, is only possible with a great consumption of resources and CO2 emissions for their production. For low energy buildings, the investment costs, including user costs and governmental subsidies, are generally high, and construction is not always economically viable in consideration of the national capital in the present economic conditions of most countries. For these reasons, it is first of all necessary to apply cost and resource-efficient measures to save energy in buildings and then make use of additional cost and energy-intensive measures by improving the thermal envelope, the HVAC system or by installing energy generating systems.&#13;
+One of the most cost effective and ecological methods of energy saving in buildings is the reduction of energy requirements through climate responsive architecture. Due to the fact that energy saving through the optimization of architecture is not only cost-neutral, resource-efficient and carbon-neutral but also has a very high energy-saving potential, the first and most important strategy to save energy should be an optimized and climate responsive design. Energy saving through optimized architectural design is economically and ecologically sustainable.&#13;
+The development of building simulation science in the last decades has made it easier to study the energy performance of buildings. Tools have made it possible to predict the complex behavior of buildings regarding the climate. Except for the comparison of different building typologies to find the most efficient, there are no other methods to achieve energy savings through the architectural design, which can be applied by a variety of building types and climates. Therefore, in order to encourage the optimization of architectural design, it is necessary to improve these methods which represent strategies to significantly reduce the energy demand of buildings.&#13;
+Architectural Energy Efficiency is a parametric method which separately studies the effects of various energy-related architectural factors on the energy demand of buildings by using dynamic energy simulations to find the, from an energy efficiency point of view, optimum value for each of these. The architectural factors include orientation, building elongation, building form, opening ratio in different orientations, sun shading, natural ventilation etc. The research process that led to the formulation of the Architectural Energy Efficiency method is based on a series of simulations carried out by a dynamic simulation software tool (DesignBuilder) to calculate the energy demands of a building with different variants for a single architectural feature. The aim of the simulations is to find an optimum set of energy-related variables that result in the best and most efficient energy performance for a specific building type and climate.&#13;
+This method of efficiency illustrates the effects different architectural features have on the various energy demands of buildings. The criteria are derived from the application of this method for a specific building occupation and climate, and can be applied in the design process of buildings, which leads to improvements of the energy performance and a reduction of resource consumption.&#13;
+As the architectural design affects the heating and cooling as well as the lighting energy demands of buildings, the optimum value of each factor must be based on these three aspects. The heating, cooling and lighting energy demands of buildings all behave very differently. Therefore, these three energy demands together (i. e. the sum of heating, cooling and lighting energy) must also be applied as a criterion to study the building energy performance and find the optimum value for each architectural feature. The criteria for selecting the best variant can not only be based on the total energy demand, but should also consider the primary energy demand, the CO2 emissions, energy costs (for heating, cooling and lighting), life cycle costs, etc. The application of these findings to the architectural design of buildings minimizes the energy demand, the CO2 emissions and energy costs of the building, does not, however, affect the initial building costs.&#13;
+The advantages of energy saving through optimizing the architectural design are not only the improvement of the building’s energy performance, but also the fact that the energy saving is cost and resource-efficient. This means that the energy demand of a building will decrease without increasing the investment costs of the building and without consuming any resources and energy for the production of additional building materials. The cost and resource efficiency contributes towards the economic and ecological sustainability of a building during the full life cycle.</dc:description>
+          <dc:contributor>Sponsored by German Federal Ministry of Education and Research (BMBF)</dc:contributor>
+          <dc:date>2013-09-19</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3827</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39729</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39729</dc:identifier>
+          <dc:identifier>978-3-7983-2553-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3827/07_young_cities_research_briefs.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

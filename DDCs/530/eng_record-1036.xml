@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1036">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1036</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Oberflächenemittierende Quantenpunktlaser : Design, Technologie und Charakterisierung</dc:title>
+          <dc:title xml:lang="eng">Quantum dot vertical-cavity surface-emitting laser : design, technology and characterization</dc:title>
+          <dc:creator>Hopfer, Friedhelm</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wurden weltweit erstmalig elektrisch gepumpte MOCVD-basierte oberflächenemittierende InGaAs-Quantenpunkt-Laser (QP-VCSEL) realisiert, die zudem im ungekühlten Dauerstrichbetrieb arbeiten. Die Laser besitzen Oxidspiegel und Intrakavitätskontakte, und emittieren bei 1.1 µm. Die kleinsten gemessenen Schwellströme waren 85 µA. Weiterhin wurden thermisch limitierte optische Ausgangsleistungen von 1.45 mW realisiert. Im Pulsbetrieb waren bei 6 mW nur geringe Anzeichen einer Leistungssättigung erkennbar. Die maximale externe Ausbeute betrug 45 % bei einer gleichzeitigen Konversionseffizienz von 14 %. Dominierender leistungslimitierender Faktor ist die Temperaturabhängigkeit der internen Quantenausbeute. QP-VCSEL mit 9 QP-Schichten waren im Dauerstrichbetrieb nicht durch Gewinnsättigung verbunden mit einem räumlichen und spektralen Lochbrennen begrenzt. Die sehr niedrigen Schwellströme basierten neben den intrinsischen Eigenschaften der QPe auf niedrigsten optischen Verlusten von 0.06 % pro Umlauf in der Kavität. Dieser Wert ist vergleichbar mit den weltweit niedrigsten, an VCSELn jemals gemessenen Verlusten. Weiterhin wurden dynamische Untersuchungen durchgeführt. Diese ergaben eine maximale 3dB Kleinsignal-Modulationsbandbreite von 2 GHz bei einer RC-Grenzfrequenz von 1.1 GHz. Die RC-Bandbreite ist hier noch durch den hohen differentiellen Widerstand auf Grund des geringen Dotierniveaus dominiert. Über die Großsignal-Modulation ergab sich eine durch Gewinnsättigung begrenzte Frequenz der Relaxationsoszillationen von 1.7 GHz. Es konnten weiterhin weltweit erstmalig MBE-basierte QP-VCSEL bei 1.3 µm mit dotierten Halbleiterspiegeln demonstriert werden. Die besten Laser besaßen 17 p-modulationsdotierte QP-Schichten. Es wurden Dauerstrich-Ausgangsleistungen von 1.5 mW sowie gepulste Ausgangsleistungen von 8 mW erzielt. Die p-Modulations-Dotierung erwies sich als Schlüssel, alle QP-Schichten homogen zu pumpen. Zur Realisierung der MOCVD QP-VCSEL wurde ein hochfrequenztaugliches Design entwickelt, welches an die Anforderungen von MOCVD-QPen angepasst ist. Im Verlauf der Arbeiten wurden verschiedene Modellierungswerkzeuge zur Simulation optischer Eigenschaften entwickelt. Das gewählte Konzept mit Oxidspiegeln und Intrakavitätskontakten erfordert eine komplexe Prozessierung. Die VCSEL-Technologie wurde von Grund auf entwickelt. Dieses umfasste die Entwicklung vieler Einzelprozesse, insbesondere der selektiven Nassoxidation, sowie eine umfangreiche Prozess-Integration.</dc:description>
+          <dc:date>2005-06-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1036</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10259</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10259</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1036/hopfer_friedhelm.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

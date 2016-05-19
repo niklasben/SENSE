@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2817">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2817</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:habilitation</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Integration von Satellitenbahnen mittels Liereihen-Entwicklung</dc:title>
+          <dc:title xml:lang="eng">Numerical Satellite Orbit Integration Using Lie Series</dc:title>
+          <dc:creator>Mai, Enrico</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Moderne satellitengestützte Erdbeobachtungsverfahren benötigen Kenntnis über die Position und Geschwindigkeit (und Ausrichtung) der verwendeten Messinstrumente/-plattformen, respektive der sie tragenden Satelliten, mit sehr hoher Präzision. Zur Zeit kann die Genauigkeit aktueller analytischer Bahntheorien mit den erreichten Messgenauigkeiten nicht Schritt halten (nicht mehr bzw.~noch nicht wieder). In den meisten Fällen werden die benötigten Satellitenbahnen heutzutage deshalb numerisch integriert, unter Verwendung von Potenzreihen-Ansätzen. Erkenntnisse über die Satellitenbewegung, die solchen Berechnungen entspringen, sind in Strenge immer nur für den gerade betrachteten Einzelfall gültig. Man erhält (lange) Zahlenkolonnen über die Zustandsänderung des Satelliten. Aus diesem Zahlenwerk, das vollständig im Zeitbereich vorliegt, werden zwar nachträglich durch Frequenzanalyse periodische Effekte sichtbar - deren Interpretation und Rückführung auf physikalische Ursachen bleibt in aller Regel jedoch vage und kann erst recht nicht verallgemeinert werden. Durch die Wahl eines alternativen Ansatzes für die numerische Integration werden möglichst die Vorteile beider Wege zur Bahnberechnung kombiniert. Die Verwendung eines Liereihen-Ansatzes führt zwar immer noch auf eine Potenzreihe bezüglich der Zeit als Lösungsform für das Anfangswertproblem, jedoch sind die Reihenkoeffizienten nunmehr konsequent spektral darstellbar und ermöglichen Einblicke in die physikalischen Ursachen von Bahnstörungen. Man bestimmt die Satellitenbahn, ganz wie bei den gewöhnlichen numerischen Integrationen, schrittweise in der Zeit. Bei Bedarf kann nun allerdings ein vollständig interpretierbarer Formelapparat angegeben werden, der den (langen) Zahlenkolonnen zugrunde liegt. In diesem Sinne könnte man dann von einer semi-analytischen Bahntheorie sprechen. Die vorliegende Arbeit stellt das Konzept theoretisch im Detail und praktisch anhand einiger speziell vereinfachter Kraftmodelle vor. Während der Herleitung des Ansatzes tauchen diverse Nebenfragestellungen auf, die ihrerseits in den beigefügten Anhängen ausführlicher besprochen werden.</dc:description>
+          <dc:description xml:lang="eng">Modern Earth observation techniques based on satellites require very precise knowledge of position and velocity (and attitude) of the on-board instruments/measuring platforms or the satellite body carrying it. Available analytical orbital theories can't keep up with the accuracy level of present-day measurements (no longer and not yet again, respectively). Therefore, in most cases satellite orbits are being integrated numerically today, using a power series approach. Actually, findings about the satellite's motion, resulting from these kind of calculations, are only valid for the very special case just under consideration. It yields (long) columns of numbers representing state changes of the satellite. Out of this numerical huddle, completely related to the time domain, periodical effects might be uncovered by applying spectral analysis techniques afterwards. But its interpretation and connection with physical causes remains rather hazy and can't be generalized at all. By choosing an alternative approach for the numerical integration, the advantages of both ways (analytical and numerical orbit determination, respectively) will be combined. The usage of a Lie series approach still leads to a power series in time form of solution to the initial value problem, but now the series coefficients can strictly be expressed in spectral domain. This enables some insight into the physics of orbital perturbations. As with usual numerical integration techniques, the satellite's orbit will be calculated stepwise in time. However, a completely interpretable set of formulas, which is behind the (long) columns of numbers, can be quoted on demand. As a result, this approach may be qualified as a semi-analytical orbital theory. This present work introduces the whole concept theoretically in detail and shows how to apply it to some special simplified force models. Following the derivation of the main approach, some joint questions show up. These are being treated in-depth within several appendices.</dc:description>
+          <dc:date>2011-03-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2817</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29795</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29795</dc:identifier>
+          <dc:identifier>9783769650716</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2817/mai_enrico.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

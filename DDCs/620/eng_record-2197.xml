@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2197">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2197</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Robust Optimization of Multiple Antenna Systems With Channel Uncertainty</dc:title>
+          <dc:title xml:lang="deu">Robuste Optimierung von Mehrantennensystemen mit imperfekter Kanalkenntnis</dc:title>
+          <dc:creator>Vucic, Nikola</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Exploitation of spatial diversity, as an additional degree of freedom in multiple antenna wireless systems, depends crucially on ability to adapt to channel conditions. The assumption of having perfect knowledge of the channel is, however, often unrealistic in practice. Noise-prone channel estimation, quantization effects, fast varying environment combined with delay requirements, and hardware limitations are some of the most important factors that cause errors. Depending on the primary source of errors in channel state information (CSI), various mathematical models for the uncertainty can be adopted. For example, quantization errors are usually bounded, while estimation errors are often modeled as Gaussian random variables. Modern wireless systems are supposed to include quality-of-service (QoS) based transceiver designs. However, a transceiver design that does not account for the errors in CSI can result in frequent violation of the promised QoS targets. Providing robustness to imperfect CSI is, therefore, a task of significant practical interest. Some QoS targets might be of particular importance and defined as strict. In other cases, the operator will be either willing or forced to allow a certain percentage of outages in the system. These observations naturally lead to two robust philosophies: the worst-case optimization and the probabilistically constrained optimization. In the worst-case approaches, some performance targets must be satisfied for all channels contained in the uncertainty regions. On the other hand, the probabilistically constrained optimization has a goal of satisfying the QoS constraints with certain probabilities. The principal task of this thesis is solving transceiver optimization problems in a robust manner. The accent is put on downlink systems and the critical problem of imperfect CSI at the transmitter. As main tools, extensions of mathematical programming for supporting uncertain problem parameters are employed. The used iterative algorithms benefit from a major recent progress in optimization theory, which was particularly noticeable in the area of convex programming. Robust transceiver optimization problems with strict QoS targets are rewritten as semidefinite programming problems, which have efficient numerical solutions. In the case of probabilistic constraints, the exploitation of specific properties of random variables at hand, such as unimodality, yielded problems solvable by theory of interference functions, or conic quadratic programming. In some special setups, closed-form solutions are derived. The obtained algorithms for the worst-case and probabilistically constrained robust transceiver designs outperform relevant results from the literature in terms of performance or computational complexity.</dc:description>
+          <dc:description xml:lang="deu">Die Anpassung an den Mobilfunk Kanal ist ein kritischer Faktor um die räumliche Diversität als zusätzlichen Freiheitsgrad in Mehrantennensystemen effektiv auszunutzen. Auf Grund fehleranfälliger Kanalschätzung, Quantisierung, schnell wechselnder Umgebung kombiniert mit strikten Forderungen an die Verzögerung und Hardware-Einschränkungen ist die Annahme perfekter Kanalkenntnis in der Praxis nicht realistisch. In Abhängigkeit der Hauptfehlerquellen existieren verschiedene mathematische Modelle um die Unsicherheit zu beschreiben. Hierbei sind die Quantisierungsfehler üblicherweise beschränkt. Im Gegensatz dazu werden die Fehler bei der Kanalschätzung als unbeschränkte, gaußverteilte Zufallsvariablen angenommen. In modernen Mobifunksystemen werden bei der Entwicklung der Send- und Empfangseinheiten bestimmte Qualitätsanforderungen berücksichtigt. Wird die Fehlerbehaftung der Kanalkoeffizienten bei der Systementwicklung nicht mitberücksichtigt kann dies zu einer häufigen Verletzung der Anforderungen führen. Deswegen ist Robustheit bezüglich imperfekter Kanalkenntnis von besonderer, praktischer Bedeutung. Qualitätsanforderungen können strikt sein und haben damit eine besonders hohe Priorität. Für die anderen Anforderungen könnte (oder müßte) der Dienstanbieter eine bestimmte Prozentzahl der Ausfälle erlauben. Dies führt zu zwei unterschiedlichen Philosophien, der worst-case (schlimmster Fall) Optimierung und der probabilistischen Optimierung. Bei worst-case Methoden wird das strenge Einhalten der Performanzziele für alle Kanäle, die in einer bestimmten Unsicherheitsregion enthalten sind, gefordert. Demgegenüber zielt die probabilistische Optimierung darauf ab die Qualitätsanforderungen mit bestimmten Wahrscheinlichkeiten zu erfüllen. In dieser Arbeit werden Transceiver Optimierungsprobleme robust gelöst. Hauptsächlich wird die Abwärtsstrecke (downlink) im Mobilfunk untersucht. Hierbei liegt der Fokus auf imperfekter Kanalkentnis an der Senderseite. Für strikte Qualitätsanforderungen werden die Transceiver Optimierungsprobleme als semidefinite Programme mit effizienten iterativen Lösungen umgeschrieben. Bei probabilistischen Anforderungen werden die speziellen Eigenschaften der vorhandenen Zufallsvariablen (wie zum Beispiel die Unimodalität) genutzt, um Algorithmen abzuleiten, die auf der Interferenzfunktionentheorie oder auf konvexer Optimierung basieren. Für Sonderfälle werden Lösungen in geschlossener Form entwickelt. Im Vergleich zu Methoden aus der Literatur erzielen die in dieser Arbeit entwickelten Algorithmen erhebliche Verbesserungen bezüglich der Performanz oder der Komplexität.</dc:description>
+          <dc:date>2009-07-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2197</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23090</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23090</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2197/original_vucic_nikola.ZIP</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2197/vucic_nikola.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

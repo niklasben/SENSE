@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1262">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1262</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Festigkeits- und Verformungsverhalten von Fugendichtstoffen im Kreuzfugenbereich</dc:title>
+          <dc:title xml:lang="eng">Distortion Behaviour of Joint Sealing Compounds in Cross Joints</dc:title>
+          <dc:creator>Westphal-Kay, Brigitte</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Fugendichtstoffe werden in Fugen, die Bauteile miteinander verbinden, eingebaut. Durch die Bewegungen der angrenzenden Bauteile wird der Fugendichtstoff permanent gedehnt, gestaucht oder geschert. Im Fugendichtstoff entstehen ungleichmäßig verteilte Spannungen. Bei parallelflankigen Fugen sind die Spannungen im Bereich der Fugenflanken größer als in der Fugenmitte. Werden Parallelfugen und T– bzw. Kreuzfugen um den gleichen Wert gedehnt, sind die Spannungen im Bereich der Ecken in T– und Kreuzfugen größer als im Flankenbereich der Parallelfugen. Um welchen Faktor sich die lokal auftretenden Spannungsspitzen unterscheiden, konnte in der Arbeit durch die Verknüpfung von Versuchen und Simulationsrechnungen geklärt werden. Die Beanspruchung, die ein Fugendichtstoff im eingebauten Zustand erfährt, wurde mit einer neuartigen, an der Technischen Universität Berlin gebauten Prüfvorrichtung simuliert. Dazu wurden drei ausgewählte Fugendichtstoffe als Parallel– und Kreuzfuge appliziert und bei –20°C, +20°C sowie +50°C zyklisch gedehnt und gestaucht. Aussagen über das temperaturbedingte Festigkeitsverhalten konnten damit gewonnen werden. Für ein ausgewähltes Material wurden der erste und fünfte Zyklus der Zug– und Druckversuche mit dem FEM–Programm ANSYS nachgerechnet. Das hyperelastische Materialverhalten wurde mit den phänomenologisch motivierten Materialmodellen nach MOONEY–RIVLIN, OGDEN und YEOH erfasst. Unter Berücksichtigung der Kompressibilität des Materials lassen sich die im Versuch erzielten Spannungs–Dehnungs–Kurven mit guter Übereinstimmung berechnen. Die Simulationsrechnungen zeigen, dass sich im Eckbereich und in der Nähe der Fugenflanken Spannungsspitzen ausbilden. Ein Vergleich der lokal maximal auftretenden Hauptspannungen S1 für den Zugversuch zeigt, dass die Parallelfuge 1,5mal bis 2mal so stark gedehnt werden darf wie die Kreuzfuge, um den gleichen Hauptspannungswert S1 zu erreichen. Für den Druckversuch sind für die Parallel– und Kreuzfuge die maximalen Hauptspannungswerte S3 bei gleicher Fugenstauchung gleich groß. In Zusammenarbeit mit dem Institut für Photogrammetrie und Fernerkundung der Technischen Universität Dresden konnte das Verformungsverhalten für die Parallelfugen 3D–photogrammetrisch aufgezeichnet werden. Die Gegenüberstellung von numerisch und photogrammetrisch ermittelten Verformungen zeigte für die x–y–Ebene eine gute Übereinstimmung, für die Verformungen in z–Richtung war die Übereinstimmung weniger gut.</dc:description>
+          <dc:description xml:lang="eng">Joint sealing compounds are used in joints, which connect structural components. Due to the movements of such components, the joint sealing compounds are stretched, compressed and sheared. As a result, unevenly distributed stresses in the sealing compounds arise. In parallel joint, the stresses near the joint flanks are greater than in the centre of the joint. If parallel faced joints and T– or crossed joints are stretched by the same amount, the stresses which will arise at the corners of the T– or crossed joints will be greater than the stresses at the flanks of the parallel faced joints. It was possible to determine the difference of the existing local stress peaks by the combination of tests with FEA. The loading that a joint sealing compound is exposed to was simulated using a new testing device, which was designed at the Technical University of Berlin. Joints with parallel faces and crossed joints made of three joint sealing compounds were examined at –20°C, +20°C and +50°C by cyclic expansion and cyclic compression. These tests resulted in a better understanding of the temperature dependent stress–strain–relationship. For a selected material, the first and fifth cycle of the expansion and compression tests were checked using the FEA–program ANSYS. The phenomenologically based models after Mooney–Rivlin, Yeoh, and Ogden were used for obtaining the hyper–elastic material behaviour. By considering the compressibility, the experimental stress–strain–curves can be predicted by FEA with good correlation. The simulations show that local stress peaks arise near the corners and in direct proximity of the joint flanks. A comparison of the local principle stress S1 for the tensile test shows that, in order to reach the same principle stress S1, deformation of the parallel joint may be 1,5 to 2 times that of the cross joint. Compressing both the parallel joint and the crossed joint by the same amount produces the same principle stress S3 in both joints. In cooperation with the Institute of Photogrammetry and Remote Sensing of the Technical University of Dresden, the distortion of parallel joints was documented using 3D–photogrammetry. The comparison of numerically and photo-grammetically determined distortions showed good correlation for the x–y–plane. However, correlation for the z-direction was significantly less.</dc:description>
+          <dc:date>2006-05-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1262</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12875</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12875</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1262/westphalkay_brigitte.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

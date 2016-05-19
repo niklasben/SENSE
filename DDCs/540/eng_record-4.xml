@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Synthesis and Coordination Chemistry of Triazacyclohexanes and Orthoamides</dc:title>
+          <dc:creator>Seifert, Guido</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">This thesis describes the extension of the coordination chemistry of triazacyclohexanes to new copper complexes and to new ligands with similar coordination geometry, i.e. the orthoamides 13-alkyl-1,5,9-triazatricyclo[7.3.1.05,13]-tridecanes (RTATC) and unsymmetrically substituted triazacyclohexanes. By treatment of the literature known [TATC]+ cation with Li, Na, or K alkylating reagents several new RTATC (R = Ph, Bz, CH2SiMe3, 4tBu-PhCH2) have been prepared and characterized. With these and the previously known ligands HTATC and MeTATC complexes of Cr(III), Fe(III), Cu(II), and Zn(II) have been made and their properties have been compared with those of the analogous 1,3,5-trialkyl-1,3,5-triazacyclohexane (R3TAC) complexes. It shows that the structural, chemical, and physical properties of the RTATC complexes are quite similar to those of the R3TAC complexes. [(R3TAC)Cu(PPh3)]BF4 complexes with R = iPr}, Bz, Cy, and (S)-PhMeCH have been prepared and characterized. The Cu(I) complexes are diamagnetic and therefore ideal for NMR spectroscopical analysis. The eta3-coordination of the ligand can be deduced from the discrimination of the endo- and exo-protons of the TAC-ring, which are in fast exchange in the free ligand. From the form of the ring signals a more symmetrical eta3-coordination for the iPr3TAC complex and a slightly distorted eta3-coordination for the Bz3TAC complex can be expected. This could be verified by x-ray crystal structures of both complexes. A new Cu(II) complex was found when excess Me3TAC was reacted with CuCl2: (Me3TAC)2CuCl2}. The unusual coordination geometry leads to a slow reduction to Cu(I). A crystal structure of the reduction product revealed an unusual [Cu2Cl4]2-. It shows the first Cu-Cu cuprophilic interaction in an anion which must be stronger than the electrostatic repulsion within the dianion. Synthesis of triazacyclohexanes with a mixture of two amines in a suitable solvent such as ethanol or exploitation of equilibria between R3TAC and R'NH2} above 100 degree celsius yields mixtures of unsymmetrically substituted R2R'TAC which could be separated by various methods below 100 degree celsius. The pure and dry unsymmetrical R2R'TAC are stable at room temperature and even at higher temperatures for short periods and can best be identified by their very characteristic 13C NMR signals for the ring carbon atoms. This way a couple of examples for basically three different types of unsymmetrically substituted R2R'TAC could be prepared: simple R2R'TAC with small hydrocarbon substituents (Me2BzTAC, Me2OctTAC), R2(R'X)TAC with a substituent bearing a functional group (Me2(EtOH)TAC, Me2(EtCN)TAC), and two triazacyclohexanes linked by a short bridge R2TAC-R'-R2TAC (Me2TAC-CH2PhCH2-Me2TAC), tBu2TAC-CH2PhCH2-tBu2TAC).</dc:description>
+          <dc:date>2000-05-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-121</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-121</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4/seifert_guido.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

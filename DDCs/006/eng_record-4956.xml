@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4956">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4956</identifier>
+        <datestamp>2014-04-04</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analysis and design of 40 GHz frequency generation circuits in 90 nm CMOS technology</dc:title>
+          <dc:title xml:lang="deu">Analyse und Design von CMOS-Schaltungen in 90 nm Technologie zur Frequenzgeneration bei 40 GHz</dc:title>
+          <dc:creator>Shu, Ran</dc:creator>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="eng">Millimeter-wave (mm-wave) CMOS transceivers have attracted increasingly interest in recent years, especially in the 60 GHz band. The 60 GHz band shows the potential to achieve high-data-rate short-range wireless communication up to multi-Gbps. As indispensable building blocks in a wireless transceiver, frequency generation circuits are confronted by many design challenges. At mm-wave frequencies, the voltage controlled oscillator (VCO) suffers from a poor phase noise and a limited tuning range, while the frequency divider is usually accompanied by a small locking range and high power consumption. As for the complete generation of a LO signal, the design of a mm-wave frequency synthesizer encounters greater difficulties. At such a high frequency, achieving the frequency synthesizer with perfect frequency alignment in a closed-loop is much more challenging than connecting individual blocks.&#13;
+In this dissertation, novel techniques and optimized topologies are proposed to improve the performance of mm-wave frequency generation circuits. Employing a resonated negative-conductance cell, a 40 GHz VCO was designed using 90 nm CMOS technology. It achieves an 8.9 % tuning range and a -96.7 dBc/Hz phase noise at 1 MHz offset, while consuming only 1.65 mW power. Two other designs of the mm-wave frequency divider have also been presented. One design is a Q-band injection locked frequency divider in 90 nm CMOS technology. A 30 % locking range from 36 GHz to 49 GHz has been realized by adopting a transformer-based dual-path injection technique. The other design is an 8:1 static divider with 130 nm CMOS technology. By using a specific design flow, the 8:1 static divider without broadband techniques is capable of operating up to 34 GHz. &#13;
+Eventually, a complete 40 GHz frequency synthesizer is demonstrated in 90 nm CMOS technology. It is targeted at a 60 GHz super-heterodyne transceiver for high-data-rate communication application. Measurement results show that it achieves a 38.7 – 43.3 GHz LO signal with -89 dBc/Hz phase noise at 1 MHz offset, and reference spurs smaller than -50 dBc. This performance compares favorably with the state-of-the-art developments. This wideband and low-noise LO signal satisfies the 60 GHz high-data-rate communication application of IEEE standard 802.15.3c.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Millimeter-Welle CMOS Transceivers haben in den letzten paar Jahren zunehmend Interesse, besonders im 60 GHz Band, auf sich gezogen. Das 60 GHz Band hat das Potenzial, um hohe Datenraten in der Kurzstreckenkommunikation bis hin zu multi-Gbps zu erreichen. Unentbehrlich bei einer solchen Transceiver-Entwicklung bleibt die LO-Frequenzgeneration, die hohen Anforderungen unterliegt. Im Millimeterwellen-Frequenzbereich leidet der Spannungsgesteuerte Oszillator (VCO) unter einem schlechten Phasenrauschen und einem beschränkten Abstimmbereich, während der Frequenzteiler normalerweise durch eine kleine Locking-Range und hohen Stromverbrauch begrenzt wird. Das Design eines Millimeterwellen-Frequenzsynthesizers für die LO-Signalgeneration ist eine größere Herausforderung. Bei einer so hohen Frequenz ist es erheblich schwieriger einen Frequenzsynthesizer mit perfekter Frequenzausrichtung in einem geschlossenen Regelkreis zu realisieren, als mehreren unabhängigen Blöcken zusammen zuschalten.&#13;
+In dieser Doktorarbeit werden neuartige Techniken und optimierte Topologie vorgeschlagen, um die Leistung der Frequenzgenerations-Schaltungen zu verbessern. Mit einem mitschwingenden negativen Leitwert wurde ein 40 GHz VCO in 90 nm CMOS Technologie entworfen. Er erreicht einen 8,9 % Abstimmbereich und ein -96,7 dBc/Hz Phasenrauschen (1 MHz Träger Offset), bei einer Leistungsaufnahme von lediglich 1,65 mW. Des Weiteren wurde ein Q-Band Injection-Locked Frequenzteiler ebenfalls in 90 nm CMOS Technologie entwickelt. Eine 30 % Locking-Range von 36 GHz bis 49 GHz ist durch Dual-Injection Technik erreicht worden. Ein weiteres Beispiel ist ein 8:1 statische Frequenzteiler in 130 nm CMOS Technologie. Durch die Verwendung eines spezifischen Entwurfsablaufs funktioniert dieser Teiler ohne Breitbandtechniken bis zu 34 GHz. &#13;
+Schließlich wird ein kompletter 40 GHz Frequenzsynthesizer in 90 nm CMOS Technologie vorgestellt. Er wird in einem 60 GHz Überlagerungs-Transceiver verwendet. Messergebnisse zeigen, dass der Frequenzsynthesizer ein 38,7 - 43,3 GHz LO-Signal mit -89 dBc/Hz Phasenrauschen (1 MHz Träger Offset) und Referenz Spur kleiner als -50 dBc erreicht. Diese Leistung ist vergleichbar mit den modernsten Entwicklungen. Das breitbandige und rauscharme LO-Signal genügt den Anforderungen des IEEE Standards 802.15.3c für die schnelle 60 GHz Kommunikation.&#13;
+</dc:description>
+          <dc:date>2014-03-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4956</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49567</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49567</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4956/shu_ran.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

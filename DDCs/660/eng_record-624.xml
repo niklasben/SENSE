@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:624">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:624</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Materialwissenschaftliche Untersuchung des Dragierverhaltens von Zuckeralkoholen</dc:title>
+          <dc:creator>Haseleu, Andrea</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Ziel der vorliegenden Arbeit ist die Untersuchung des komplexen und komplizierten Dragierprozesses, um nach der systematischen Analyse des Prozeses einfache und nachvollziehbare Zusammenhänge ableiten zu können. Aus diesem Grund wird der Prozeß in drei Hauptuntersuchungsgebiete aufgeteilt: Beschaffenheit des Kernrohlings; Formulierung des Dragiermediums und Prozeßparameter des Dragierens; und in jedem Gebiet materialwissenschaftliche Kennwerte ermittelt. Darüber hinaus wird ein vierter Bereich, die Qualitätsbeurteilung, geschaffen. Die Ermittlung der materialwissenschaftlichen Kennwerte beinhaltet u.a. die granulometrische Untersuchung von Dragiersuspensionen, die lediglich für Isomalt-Varianten verwendet werden. Die Stabilität der Suspension ist abhängig von der Konzentration der kontinuierlichen Phase und des Feststoffgehalts. Die ausgeprägte Metastabilität einiger Isomalt-Suspensionen führt zu permanenten Änderungen der Kennwerte der Stoffsysteme, was sich technologisch bemerkbar macht. Für das Processing und das Dragierverhalten sind rheologische Untersuchungen von besonderer Bedeutung. Die Versuchsergebnisse der Spannversuche dienen der optimierten Herstellung und Applikation des Coatings. Die durch Oszillationsuntersuchungen gewonnenen Ergebnisse geben direkte Hinweise auf die Systemumwandlungen beim Dragierprozeß. Durch rheologische Untersuchungen in der Mikroebene können Rückschlüsse auf die Dragiergeschwindigkeit gewonnen werden. Die Erfassung der Benetzbarkeit und die Berechnung eines Formfaktors FF von Kaugummikernen sind hilfreiche Charakteristika des Kerns, wodurch im Voraus eine Abschätzung zur Dragierbarkeit des Kerns möglich ist. Nach der Bestimmung von materialwissenschaftlichen Kennwerten werden Dragierungen mit unterschiedlichen Schwerpunkten durchgeführt und untersucht. Von größter Bedeutung für die Dragiertechnologie sind Kern- (Geometrie, Oberfläche) und Rohstoffeinfluß (Zuckeralkohole) sowie Zusätze und Maschinenparameter. Durch die Komplexität und die vielen, teilweise unbekannten Einflüsse und Wechselwirkungen innerhalb des Prozesses ist die statistische Auswertung nur bedingt anzuwenden und berechnet nur für vereinzelte Attribute und Parameter statistisch gesicherte Modelle. Zwischen den sensorisch und instrumentell ermittelten Qualitätsmerkmalen ist derzeit keine Korrelation zu erfassen, wobei für die Merkmale ähnliche Trends zu beobachten sind. Die sensorische Untersuchung gibt gute und verständliche Aussagen über die speziellen, unterschiedlichen Charakteristiken der Dragees wieder.</dc:description>
+          <dc:date>2003-07-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/624</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6187</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6187</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/624/haseleu_andrea.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2393">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2393</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">The Role of Health Shocks in Quitting Smoking</dc:title>
+          <dc:creator>Sundmacher, Leonie</dc:creator>
+          <dc:creator>Rice, Nigel</dc:creator>
+          <dc:creator>Jones, Andrew</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">The European Union has stated interest in assessing the effectiveness and relevance of its messages about the adverse consequences of smoking in the context of its tobacco control policy. In the absence of disaggregated data on the direct relationship between health information and smoking decisions, we follow Clark et al. (2002) and investigate the impact of health shocks on the probability to quit daily smoking using eight waves of the European Union Community Household Panel (ECHP). Our intention is to assess whether individuals learn from changes in health i.e. successfully update new information about the consequences of tobacco consumption. As self assessed health is subjective and prone to reporting bias, we instrument self assessed health using “objective" health indicators and the socio-demographic variable age; the resulting variable is then used to model continuous and discrete changes in health, termed as health shocks. Estimating a discrete time hazard model with gamma distributed frailty, we find evidence that objective discrete health shocks increase the probability to quit daily smoking. Stratifying by gender reveals that in particular men above 55 quit following a negative health shock while the results for women are not statistically significant. Assuming that the increased hazard rate for men is associated with an increased perceived risk of coronary artery disease, we conclude that specific information about smoking related health shocks are the most effective health warnings. Online-Version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de).</dc:description>
+          <dc:date>2010-01-12</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2393</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24981</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24981</dc:identifier>
+          <dc:identifier>978-3-7983-2182-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2393/2182_work.papers_healthpolicy_2.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

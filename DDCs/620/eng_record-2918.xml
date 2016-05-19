@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2918">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2918</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einfluss der Steifigkeit von Baugrund und Gründung auf die Abschirmung von Schienenverkehrserschütterungen mit Elastomermatten</dc:title>
+          <dc:title xml:lang="eng">Underground Stiffness and Foundation Influence on the Shield Effect of Rail Traffic Induced Vibrations by Means of Polyurethane Mats</dc:title>
+          <dc:creator>Appel, Silke</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im innerstädtischen Bauen sind in der Vergangenheit vermehrt Fragestellungen bzgl. der Verminderung von Erschütterungseinwirkungen infolge der Anregung durch Schienenverkehr aufgetreten. Generell besteht die Möglichkeit, die höherfrequenten Schwingungsanteile direkt am Fahrweg, z.B. durch den Einbau von Unterschottermatten oder Masse-Feder-Systemen, zu reduzieren. Ist eine Schwingungsdämmung an der Quelle nicht möglich, müssen die Schwingungsanteile oberhalb von ca. 30 Hz im Bereich des Empfängers, d.h. direkt am Bauwerk reduziert werden. Die elastische Gebäudelagerung stellt hier eine in der letzten Zeit immer häufiger angewendete Konstruktionsform dar. Dabei wird entweder eine elastische Entkoppelung unterhalb der Kellerdecke auf den aufgehenden Wandscheiben und Stützen ausgeführt oder die gesamte Bauwerksgründung auf elastischen Matten gelagert. Aspekte bzgl. der Dimensionierung solche Maßnahmen sind Gegenstand dieser Arbeit. In der Praxis zeigt sich, dass die Dämmwirkung von elastischen Gebäudelagerungen infolge vereinfachter Ansätze (1-Massen-Schwinger-Analogon) oftmals überbewertet wird. Beispielsweise können Resonanzeffekte, die eine Dämmwirkung u.U. gänzlich unwirksam machen, durch derartige pauschale Ansätze nicht erfasst werden. Um die Wirkungsweise und auch die Effektivität von elastischen Gebäudelagerungen besser einschätzen zu können, werden in der vorliegenden Arbeit der Einfluss der Nachgiebigkeit von Baugrund und Fundamentplatte anhand von Freifeldversuchen und unter Anwendung strukturdynamischer Modelle untersucht. Im Zuge der Bestimmung von Schwingungsantworten und Dämmwirkungen der elastischen Systeme wird auf die Modellbildung, insbesondere auf die Berücksichtigung der Boden-Bauwerks-Interaktion, eingegangen. Es wird eine Möglichkeit aber auch deren Grenzen aufgezeigt, Lösungen für auf dem Halbraum gelagerte Fundamentplatten auf ein diskretes Finites-Element-System zu übertragen. Darüber hinaus wird die Auswirkung von Impedanzplatten untersucht. Anhand von Parametervariationen für Baugrund-, Fundament- und Impedanzplattensteifigkeit sowie bzgl. der Anregungsfunktionen wird die zusätzliche schwingungsdämmende Wirkung durch Impedanzplatten qualitativ und quantitativ beurteilt. Messergebnisse eines realen Beispiels aus der Praxis werden zur Überprüfung der gewählten Berechnungsansätze und Aussagen hinsichtlich erzielbarer Dämmwirkungen elastischer Gebäudelagerungen herangezogen.</dc:description>
+          <dc:description xml:lang="eng">Vibration emissions as a result of railway traffic have an impact on numerous new urban buildings. In the past more and more questions that have arisen dealing with the reduction of these effects. Generally the high frequency fraction of vibration immission can be minimised directly at the track system e.g. by using ballast mats or mass-spring-systems. However, if vibration insulation at the source becomes impossible, the influence of secondary airborne noise needs to be reduced at the receiving building. Here the elastic bedding of buildings became more popular in the past few years. The decoupling is either done in the basement at columns and vertical walls or alternatively the entire foundation is put on elastic mats. The dimensioning aspects of these measures are subject of this thesis. Reality shows that the insulation effect of elastic bedding of buildings based on simplified approaches (such as single-DOF-systems) is often overestimated. Resonance effects, for example, cannot be covered at all by this approach. Analysing the influence of flexibilities of the soil and the foundation slab is also part of this dissertation which was verified by in-situ tests and furthermore applied structural dynamic models. Special focus was put on the modelling process itself. The consideration of soil-structure-interaction is essential for the correct prediction of vibration responses and insulation loss. An approach but also its limits are introduced transferring half space solutions to a discrete finite element system. Furthermore the effect of impedance slabs is analysed. Their vibration reduction capabilities are assessed based on parameter studies for stiffness of soil, foundation and impedance slabs as well as for different excitation functions. Finally, a verification of applied calculation approaches and predicted insulation effects is shown presenting results of a real existing project.</dc:description>
+          <dc:date>2011-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2918</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30968</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30968</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2918/appel_silke.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4755">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4755</identifier>
+        <datestamp>2014-05-16</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">An Arbitrary Lagrangian-Eulerian method for penetration into sand at finite deformation</dc:title>
+          <dc:title xml:lang="deu">Eine ALE Methode für die Penetration in Sand unter Berücksichtigung großer Verformungen</dc:title>
+          <dc:creator>Aubram, Daniel</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The penetration into sand is one of the most challenging problems in soil mechanics and its numerical simulation, particularly by the widely-used finite element method (FEM), still poses a great challenge. In order to overcome the problems associated with the classical Lagrangian and Eulerian formulations of FEM, an arbitrary Lagrangian-Eulerian (ALE) method particularly suitable for plane and axisymmetric penetration into sand is developed in this thesis based upon the theoretical foundations. The developed ALE method applies an operator-split which breaks up solution of the governing equations over a time step into a Lagrangian step, a mesh regularization step, and a transport step. The operator-split makes implementation into existing Lagrangian FE codes possible, which is shown using the example of ANSYS. A unique feature of the ALE method is its combination with an advanced hypoplastic rate constitutive equation for sand which enables realistic prediction of stress and density changes within the soil even at large deformations. In addition, an optimization-based algorithm for mesh regularization is developed in order to smooth out the non-convexly distorted mesh regions that occur below a penetrator. The ALE method is verified and validated by benchmarks, basic initial boundary value problems, and by specifically conducted penetration tests in chambers filled with sand.</dc:description>
+          <dc:description xml:lang="deu">Die Penetration in Sand zählt zu den kompliziertesten Problemstellungen in der Bodenmechanik, und ihre numerische Simulation insbesondere mit der weit verbreiteten Finite Elemente Methode (FEM) stellt bis heute eine große Herausforderung dar. Um die Probleme im Zusammenhang mit den klassischen Lagrange und Euler Formulierungen der FEM zu überwinden, wird in der vorliegenden Arbeit eine allgemeine Lagrange-Euler (engl.: arbitrary Lagrangian-Eulerian, kurz: ALE) Methode aus den theoretischen Grundlagen heraus speziell für die ebene und axialsymmetrische Penetration in Sand entwickelt. Die entwickelte ALE Methode basiert auf einer Operator-Spaltung, welche die Lösung der maßgeblichen Gleichungen über ein Zeitinkrement aufteilt in einen Lagrange Schritt, einen Schritt der Netzregularisierung und einen Transportschritt. Die Operator-Spaltung gestattet die Implementierung in bestehende Lagrange FE Programmsysteme, was am Beispiel von ANSYS erläutert wird. Ein Alleinstellungsmerkmal der ALE Methode ist ihre Kombination mit einem hochentwickelten hypoplastischen Materialmodell für Sand, das wirklichkeitsnahe Prognosen der Spannungs- und Dichteänderungen im Boden auch bei großen Verformungen ermöglicht. Ein optimierungsbasierter Algorithmus zur Netzregularisierung wird darüber hinaus entwickelt, um die unterhalb eines Eindringkörpers auftretenden nicht-konvex verzerrten Netzregionen zu glätten. Die ALE Methode wird anhand von Benchmarks, grundlegenden Anfangsrandwertproblemen und eigens durchgeführten Eindringversuchen in sandbefüllten Versuchskammern verifiziert und validiert.</dc:description>
+          <dc:date>2014-02-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4755</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47557</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47557</dc:identifier>
+          <dc:identifier>978-3-8440-2507-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4755/aubram_daniel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

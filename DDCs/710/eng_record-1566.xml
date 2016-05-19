@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1566">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1566</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Freizeit und Kommune : Begriffe, Definitionen, Erläuterungen</dc:title>
+          <dc:title xml:lang="eng">Leisure time and local government  terms : definitions, explanations</dc:title>
+          <dc:creator>Henckel, Dietrich (Prof. Dr.)</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Mit dem Begriff „Freizeit“ verbindet man allgemein Spaß und Aktivitäten wie Reisen, Essen, Einkaufen, Sport treiben und Entspannen. Im Studienprojekt „Freizeit in der Stadt“ ist das Thema neu untersucht und die kommunale Relevanz heraus kristallisiert und bewertet worden. Das dafür erstellte Handbuch folgt dem Prinzip eines Glossars und ist in acht inhaltliche Teile gegliedert. Im ersten Teil werden grundlegende Definitionen und Grundbegriffe erläutert. Im zweiten Kapitel werden die Gliederungen von Zeit dargestellt und auf das Zeitbudget und vorhandene Zeitvorgaben eingegangen. Im Teil drei werden die ökonomischen Zusammenhänge und der Freizeitmarkt dargelegt. Anschließend wird eine Auflistung der unterschiedlichen Nutzer der Freizeiteinrichtungen und deren verschiedenen Aktionsbereiche und Teilhaben gemacht. Auf der anderen Seite stehen die Akteure, die im fünften Teil diskutiert werden. Auch hier gibt es eine Vielzahl unterschiedlicher Träger und Initiatoren mit differenten Interessen und Zielen. Unter sechstens werden Angebotstypen und ihre unterschiedlichen Einzuggebiete betrachtet. In den letzten zwei Kapiteln wird das Thema abgerundet, indem zuerst auf die Auswirkungen von Freizeit und dann auf Planungen, Konzepte und Strategien ein-gegangen wird. Durch ein angehängtes Stichwortverzeichnis, in welchem alle Kapitelüberschriften sowie wichtige Schlagworte alphabetisch aufgelistet sind, kann zudem bei thematischen Suchen und Begriffsklärungen auf genaue Seitenangaben zurückgriffen werden. </dc:description>
+          <dc:date>2007-08-21</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1566</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15495</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15495</dc:identifier>
+          <dc:identifier>978-3-7983-2008-6</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1566/Graue_Reihe_Heft_1_Freizeit_Kommune.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

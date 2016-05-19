@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:26">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:26</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modellierung der regionalen Phosphorverlagerung im Boden und Grundwasser</dc:title>
+          <dc:creator>Pudenz, Stefan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurde ein Kompartimentmodell (MORPHO) zur Simulation der regionalen Phosphor-Verlagerung entwickelt. Neben dem Transport in Boden und Grundwasser wurde dabei auch der Oberflächenabfluß und die Generierung von Niederschlags- und Verdunstungsreihen zur Prognose von Infiltrationsdaten in Szenariorechnungen berücksichtigt. Die Generierung der Zeitreihen erfolgte dabei unter Einsatz sogenannter autoregressiver Modelle, wie sie aus der Zeitreihenanalyse bekannt sind. Die Modelldiskretisierung baut auf eine Rechteckrasterung des Einzugsgebietes auf. Das Modell kann somit in einfacher Weise Daten aus Geologischen Informationssystemen (GIS) verarbeiten. Durch die Berücksichtigung nichtlinearer Sorptionsisothermen sowie kinetischer Sorptionsmodelle ergibt sich ein nichtlineares Differentialgleichungssystem, zu dessen Lösung verschiedene Differenzenschemata und Lösungsverfahren verglichen wurden. Dabei erwies sich die Kombination aus Newton-Raphson-Verfahren und impliziten Differenzenschema als das stabilste und im Vergleich zur analytischen Lösung auch als das genauste Verfahren. Modellvalidierungen haben gezeigt, daß die Wechselwirkung des Phosphors (P) mit dem Sediment im Vergleich zu den Langmuir- und Freundlich-Gleichgewichtsisothermen mit der kinetischen Sorptionsgleichung von Barrow &amp; Shaw am besten simuliert werden kann. Als Alternative zu experimentellen Methoden für die Bestimmung von Sorptionsparametern wird die Parameteridentifikation diskutiert und erfolgreich angewendet. Beispielhaft werden Szenariorechnungen zur P-Verlagerung im Boden für ein Teileinzugsgebiet der Unteren Spree durchgeführt. Dabei konnte gezeigt werden, daß der wassserlösliche P-Gehalt des Bodens eine gute Näherung für die zur Modellierung erforderliche Anfangskonzentration in der Bodenlösung ist. Die berechneten Auswaschungsmengen lassen eine Zusammenhang zwischen P-Löslichkeit und dem P-Gehalt erkennen, was auch von anderen Autoren bestätigt wird. Und zwar nehmen in allen Szenarien die Auswaschungsmengen mit steigendem Anteil wasserlöslichen P's und dem P-Gehalt des Bodens zu. Bilanzen zwischen P-Eintrag, -Entzug und -Auswaschung zeigen, daß die Düngeempfehlungen für Phosphor z.T. zu hoch angesetzt sind.</dc:description>
+          <dc:date>1999-10-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/26</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-235</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-235</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/26/pudenz_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

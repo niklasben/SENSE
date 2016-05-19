@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:718">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:718</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Proteinase A und Schaumstabilität : biochemische Untersuchungen der Wechselwirkungen von Proteinase A aus Saccharomyces cerevisiae und schaumaktivem Lipidtransferprotein</dc:title>
+          <dc:title xml:lang="eng">Proteinase A and foam stability : biochemical investigations on the interactions between Proteinase A from Saccharomyces cerevisiae and foam active lipid transfer protein</dc:title>
+          <dc:creator>Leisegang, Rena</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Proteinasen verschiedener Proteinasefamilien zeigen eine negative Korrelation von Proteinaseaktivität und Abnahme der Schaumstabilität in Bier. Ein eindeutig negativer Einfluß auf die Schaumstabilität wurde sowohl für Proteinasen der Carboxylproteinasefamilie (Proteinase A und Pepsin), als auch der Serinproteinasefamilie (Carboxypeptidase Y) nachgewiesen. Die schaumnegativen Konzentrationen der Hefeproteinasen Proteinase A (PrA) und Carboxypeptidase Y (CPY) waren so gering, daß ein Nachweis mit herkömmlichen Methoden zur Konzentrationsbestimmung nicht möglich war. Von den Proteinhauptkomponenten im Bier unterliegt das schaumpositive Lipidtransferprotein 1 (LTP1) im Gegensatz zum Protein Z einem Abbau durch PrA. Damit wurde LTP1 eindeutig als spezifisches Substrat für PrA identifiziert. Verschiedene LTP1-Formen besitzen gegenüber PrA unterschiedliche Sensitivitäten. Während PrA ein in E. coli exprimiertes rekombinantes LTP1 abbaute, wurde der Abbau eines rekombinanten Histag-LTP1-Fusionsproteins und des nativen Gersten-LTP1 vermutlich konformationsbedingt behindert. Die proteinasesensitive LTP1-Form in Bier entsteht vermutlich durch Modifikationen während des Mälz- und Brauprozesses. Als Grundlage für die Entwicklung eines sensitiven Nachweises für PrA-Konzentrationen in Bier wurden potentielle PrA-Spaltsequenzen im LTP1-Molekül identifiziert. Massenspektrometrische Untersuchungen potentieller LTP1-Abbauprodukte ergaben, daß PrA in LTP1 sowohl Peptidbindungen C-terminal hydrophober (Ala, Ile, Leu) als auch polarer Aminosäuren (Gln, Tyr, Asp, Cys) hydrolysiert.</dc:description>
+          <dc:description xml:lang="eng">Proteinases of different families show a negative correlation between their activity and the reduction of foam stability in beer. For proteinases of the carboxyl proteinase family (e.g. Proteinase A and pepsin) and of the serine proteinase family a negative influence on foam stability has been shown. Conventional quantification methods were not sensitive enough to detect the low concentrations of Proteinase A (PrA) and Carboxypeptidase Y (CPY) that still exerted a foam negative effect. A major protein component in beer, the foam positive lipid transfer protein 1 (LTP1), has been shown to be degraded by PrA whereas another major protein component, the protein Z was not. This clearly identifies LTP1 as a specific substrate for PrA. Different forms of LTP1 possess distinct sensitivities with regard to PrA. While a recombinantly expressed LTP1 was degraded by PrA, the degradation of both a recombinant histag-LTP1 fusion protein and a native barley-LTP1 was presumably inhibited by their conformation. The proteinase sensitive form of LTP1 in beer is probably a result of modifications that occur during the malting and brewing process. Mass-spectroscopic analyses of potential degradation products of LTP1 showed that PrA hydrolyses peptide bonds C-terminal of hydrophobic (Ala, Ile, Leu) as well as of polar amino acids (Gln, Tyr, Asp, Cys). Potential cleavage sites for PrA in the LTP1-molecule were identified as a starting point for the development of a more sensitive quantification method for PrA in beer.</dc:description>
+          <dc:date>2003-11-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/718</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7128</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7128</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/718/leisegang_rena.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

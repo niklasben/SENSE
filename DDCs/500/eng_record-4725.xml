@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4725">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4725</identifier>
+        <datestamp>2014-02-13</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Solid state quantum optics : control of electrons, photons and phonons </dc:title>
+          <dc:title xml:lang="deu">Halbleiterquantenoptik : Kontrolle von Elektronen, Photonen und Phononen</dc:title>
+          <dc:creator>Kabuß, Julia </dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">Technological progress in the manufacturing of solid state based nanostructures, such as photonic devices, quantum phononic structures and coupled electronic and nanomechanical hybrid systems, enables the transfer of quantum optics and vibrational phenomena to systems, that are scalable by design. In contrast to atom physics, these systems often strongly interact with their solid state surroundings, which leads to modified dynamics and optical features. To properly address these features in solid state quantum optics, the applied theoretical methods extent from a quantum mechanical treatment of higher order quantum correlations to effective and semiclassical frameworks, employing Heisenberg's formalism.&#13;
+The first part of this work is focused on interesting effects and possible applications arising from the interaction of a typical semiconductor quantum dot (QD) with acoustic and optical phonons. In the comparably new field of nanophononics, a QD as the active medium, coupled to a high-Q acoustic cavity phonon mode is proposed as a phonon laser. Within a detuned optical excitation scheme, this type of phonon laser exploits an induced Raman process for the generation of coherent and non equilibrium phonons. Besides solving the full quantum correlated dynamics of the phonon laser system, simple semiclassical phonon laser equations are derived, allowing for a straightforward analytical discussion of the operational regimes of the QD-phonon laser. Further, as a possible mean of characterization of a particular nanostructure, the light emission of a QD is investigated. As an addition to the regime of weak excitation and the famous Mollow triplet, the emission spectrum of a semiconductor QD can exhibit a third striking spectral scenario, emerging from the coupling to longitudinal optical (LO) phonons. The spectrum is again dramatically changed, where the electron-phonon coupling strength can be extracted via the spectral positions of the emission peaks.&#13;
+In the second part of this work intrinsic and coherent quantum control is explored. Specifically, a feedback setup that stabilizes a cavity quantum electrodynamics (cQED) is investigated with respect to the quantum limit of single photon feedback. By a particular design of its environment, a typical cQED system exhibits surprising Rabi-oscillations also at weak coupling conditions. In order to implement delayed single photon feedback, the cQED couples to a continuum of distinctively environmentally shaped photon modes. &#13;
+Further, as an example of coherent quantum control in the solid state, the generation of entanglement between radiatively coupled nitrogen-vacancy (NV) centers is proven to be possible, even at strong cavity loss rates. The calculations are based on an effective analytical treatment and also full quantum mechanical description, that involves the cavity mediated interaction between the NV-centers. In contrast to previous models, the calculations here predict a counterintuitive asymmetry towards the detuning of frequencies.</dc:description>
+          <dc:description xml:lang="deu">Der technologische Fortschritt in Bezug auf die Herstellung von Festkörper basierten Nanostrukturen, wie photonische Bauteile, phononische Strukturen oder elektronische und nano-mechanische Hybridsysteme, ermöglichen es, typische Phänomene der Quantenoptik und Nanomechanik auf das Feld dieser baubedingt skalierbaren Systeme auszuweiten. Im Gegensatz zu atomaren Systemen kommt es in Festkörperstrukturen zu verstärkten Wechselwirkungen mit dem umliegenden Material. Diese dadurch bedingten spezifischen Eigenschaften angemessen beschreiben zu können,erfordert oftmals eine voll Quantenmechanische Behandlung der Quantenkorrelationen höherer Ordnung,hier basierend auf der Heisenberg Bewegungsgleichungsmethode, die zusätzlich semiklassische Näherungen ermöglicht. &#13;
+Der erste Teil meiner Arbeit befasst sich mit den interessanten Effekten und möglichen Anwendungen, die aus der Wechselwirkung zwischen einem Halbleiterquantenpunkt (QP) mit akustischen und optischen Phononen hervorgehen. Eingebettet in das vergleichsweise neue Feld der Nanophononik wird ein QP Phononlaser vorgeschlagen, der durch die Kopplung an eine akustische Phononmode mit hohem Q-Faktor realisiert werden kann. Dieser Phononlaser nutzt zur Erzeugung von kohärenten Phononen den induzierten Ramanprozess unter frequenzverstimmter optischer Anregung. Neben einer voll quantenmechanischen Beschreibung der quantenkorrelierten Dynamik und Statistik werden auch einfach semiklassiche Phononlasergleichungen hergeleitet. So kann der stationäre Phononlaser analytisch in einfachen Formeln beschrieben werden.&#13;
+Zusätzlich wird die zur Charakterisierung verwendete Lichtemission eines QP untersucht. Neben der schwachen und starken Anregung mit der berühmten Mollowtriplett-Emission liegt der Fokus hier auf einem dritten Anregungszenario. Dieses stellt sich ein, wenn die Rabi-Frequenz des Lasers mit der optischen Phononfrequenz übereinstimmt. Das Spektrum weist dann eine dramatische Veränderung auf. Mithilfe der ermittelten spektralen Informationen kann die Elektron-Phonon-Kopplung bestimmt werden.&#13;
+Der zweite Teil der Arbeit behandelt die Quantenkontrolle typischer Systeme der Quantenelektrodynamik (QED). Mittels intrinsischer Kontrolle durch ein Quantenfeedback kann ein gekoppeltes Resonator-Emitter-System im Limes der schwachen Kopplung Rabi-Oszillationen aufweisen. Die Beschreibung des Feedbacks fußt auf einer kontinuierlichen Behandlung eines strukturierten photonischen Reservoirs. Als weiteres Beispiel der Quantenkontrolle befasst sich die Arbeit abschließend mit einem kohärenten Besetzungstransfer zwischen zwei radiativ gekoppelten Stickstoffstörstellen in Diamant. Mithilfe eines numerischen und effektiven analytischen Modells kann die Möglichkeit von Grundzustandsverschränkung auch für starke Photonenverluste bestätigt werden. Im Gegensatz zu bisherigen Ergebnissen wird hier eine kontraintuitive Abhängigkeit von den verschiedenen Frequenzverstimmungen vorhergesagt.</dc:description>
+          <dc:date>2014-02-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4725</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47252</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47252</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4725/kabuss_julia.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

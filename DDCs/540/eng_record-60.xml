@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:60">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:60</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Chemische Charakterisierung von Alkylethoxylaten</dc:title>
+          <dc:title xml:lang="eng">Chemical Characterization of Alcohol Ethoxylates</dc:title>
+          <dc:creator>Asmussen, Corinna</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden eine Reihe von analytischen Methoden zur chemischen Charakterisierung von Alkylethoxylaten (AEO) beschrieben. AEO stellen zumeist komplex zusammengesetzte Gemische dar, die eine Vielzahl an homologen und ethoxymeren Komponenten enthalten. Die große Bandbreite der Polarität der Einzelkomponenten bereitet ebenso große Schwierigkeiten wie die fehlende UV-Aktivität der Verbindungen.Zur Aufarbeitung wäßriger Proben wurde neben der Gefriertrocknung und einer Flüssig-Flüssig-Extraktion eine Aufarbeitungsmethode mit Festphasenextraktion an graphitisiertem Kohlenstoff (ENVI-CARB) entwickelt. Die Wiederfindung der Substanzen liegt bei ca. 95%. Zur Aufarbeitung von Waschmittel- und Körperpflegeprodukten wurde diese Aufarbeitungsmethode erweitert, da in diesem Fall die Abtrennung weiterer Probenbestandteile, wie Alkylpolyglucoside (APG) und Alkylethersulfate (AES), dringend erforderlich ist. Die Abtrennung der APG gelingt mittels Kieselgel, die Abtrennung von AES wird mit Hilfe eines Anionenaustauschers erreicht. Die Analyse der komplexen AEO-Gemische gelingt nach Derivatisierung mittels Hochtemperatur-Gaschromatographie (HT-GC), bei der eine Auftrennung sowohl nach der Länge des Alkylrestes als auch nach dem Ethoxylierungsgrad möglich ist. Die HT-GC wurde erfolgreich mit der Atomemissionsdetektion (AED) gekoppelt. Diese Detektionsmethode hat den Vorteil, daß Elemente in homologen Reihen einen Response zeigen, der direkt proportional zu ihrer Stoffmenge ist. So kann über die betreffenden Elementspuren Kohlenstoff oder Sauerstoff eine komponentenunabhängige "universelle" Kalibrierung durchgeführt werden, ohne daß alle Referenzsubstanzen zur Verfügung stehen müssen. Wird eine Derivatisierung durch Silylierung der endständigen Hydroxylgruppe durchgeführt, so wird zusätzlich eine Bestimmung in der selektiven Silizium-Elementspur ermöglicht, wodurch sich mögliche Matrixkomponenten ausblenden lassen.Die Absicherung der gefundenen Alkylkettenlänge der AEO erfolgt durch Umsetzung der aufgearbeiteten Proben mit Bromwasserstoff. Über die Quantifizierung der Alkylbromide mittels GC-MS oder GC-AED wird die Alkylkettenverteilung bestimmt. Höher ethoxylierte Gemische, die zunehmend schwerer verdampfbar werden und sich nicht mehr gaschromatographisch bestimmen lassen, werden nach Derivatisierung mit 3,5-Dinitrobenzoylchlorid durch Hochleistungsflüssigchromatographie (HPLC) mit UV-Detektion bestimmt. Auch mit dieser Detektionsmethode ist eine universelle Kalibrierung möglich. Bei Einsatz einer Umkehrphase und eines Acetonitril-Wasser-Gradienten erfolgt die Trennung der AEO ebenfalls nach der Länge des Alkylrestes und nach dem Ethoxylierungsgrad. Die zusätzliche Auftrennung nach der Länge des Alkylrestes entfällt bei der HPLC-Analyse an einer modifizierten Normalphase mit 3-Aminopropylresten. Die Trennung erfolgt in diesem Fall allein nach dem hydrophilen Teil, also nach der Länge der Ethoxylatkette. Eine sehr schnelle Analyse ohne jegliche Aufarbeitung der Proben ist mit der Fließinjektion in Kopplung mit der Massenspektrometrie und Ionisierung unter Atmosphärendruck möglich. Die AEO können mit dieser Methode ohne Derivatisierung im wäßrigen oder organischen Milieu detektiert werden. Diese Detektion liefert jedoch keine berechenbaren Responsefaktoren. Die Quantifizierung gelingt daher nur über die Kalibrierung mit technischen AEO-Gemischen, die vorerst über andere Methoden wie GC oder HPLC charakterisiert wurden.</dc:description>
+          <dc:date>2000-10-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/60</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-556</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-556</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/60/asmussen_corinna.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

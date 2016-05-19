@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1608">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1608</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Schönste Stadt - Erfolgreichste Stadt - Lebendigste Stadt : Sinn und Unsinn von Städterankings ; eine Untersuchung verschiedener Städtevergleiche unter besonderer Berücksichtigung des Abschneidens Berlins</dc:title>
+          <dc:creator>Besecke, Anja</dc:creator>
+          <dc:creator>Herkommer, Benjamin</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Ob in populären Pressemagazinen, in wissenschaftlichen Fachzeitschriften, in Studien von Unternehmensberatungen oder in den Werbebroschüren der Städte selbst: Städterankings haben Hochkonjunktur und das schon seit Jahren. Jeder neue Städtetest produziert dabei einen beachtlichen medialen Nachhall, der nicht zuletzt von der Reaktion der Städte geprägt wird. Während die Städte auf den oberen Plätzen ausgelassen feiern, werden von den Städten am unteren Ende der Skala Zweifel an der Methodik des jeweiligen Rankings angemeldet und Gegengutachten bestellt. Die große Aufmerksamkeit für Städtevergleiche hat vor allem dann eine problematische Wirkung, wenn sie zur „self-fulfilling prophecy“ werden. Für die Stadtentwicklungspolitik besteht die Gefahr, dass reflexhaftes Nachahmen der Entwicklungsstrategien der „Besten“ an die Stelle langfristiger Entscheidungsprozesse über eigene Strategien tritt. Dabei haben Städterankings die an sich sinnvolle Aufgabe, die Komplexität regionaler Entwicklungsprozesse zu vereinfachen und damit einerseits Hilfestellung zu geben für Unternehmen und Bewohner, die einen neuen Firmen- bzw. Wohnstandort suchen und andererseits Städten mögliche Entwicklungspfade und -strategien aufzuzeigen. Es sollte jedoch nie aus dem Blick geraten, wie stark Städtevergleiche tatsächlich vereinfachen, und dass auch das komplexeste Indikatorensystem die Ursache-Wirkungs-Zusammenhänge von Entwicklungsunterschieden weder angemessen erfassen geschweige denn erklären kann. Das macht Städterankings nicht automatisch zur wertlosen statistischen Spielerei. Es kommt nur darauf an, methodologische Standards zu identifizieren und bei der Interpretation und Verwertung der Ergebnisse umsichtig vorzugehen. Die vorliegende Studie untersucht nationale und internationale Städtevergleiche, darunter auch ein Teil der Global City Literatur, auf ihre methodische Vorgehensweise, ihre Ergebnisse und deren Verwertbarkeit für kommunale Entwicklungsstrategien. Dabei werden die (zum Teil überraschenden) Ergebnisse Berlins einzeln erfasst und in einem gesonderten Kapitel in den Zusammenhang gestellt und auf Ansatzpunkte für Handlungsempfehlungen überprüft. Unabhängig davon werden allen Städten Empfehlungen zum sinnvollen Umgang mit Städterankings gegeben, wobei auf häufige methodische Probleme hingewiesen und ein Raster zur systematischen Erfassung und Qualitätsbeurteilung von Städtevergleichen entwickelt wird. Online im Universitätsverlag der TU Berlin erschienen</dc:description>
+          <dc:date>2007-11-06</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1608</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16367</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16367</dc:identifier>
+          <dc:identifier>978-3-7983-2058-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1608/Graue_Reihe_Heft_5_Staedterankings.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2692">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2692</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">End-to-End Arguments in the Internet: Principles, Practices, and Theory</dc:title>
+          <dc:title xml:lang="deu">End-to-End-Argumente im Internet: Prinzipien, Praktiken und Theorie</dc:title>
+          <dc:creator>Bärwolff, Matthias</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The end-to-end arguments - a founding principle of the Internet - have inspired a world of opinionated interpretations, re-articulations, and comments about their lower-level technical and higher-level normative merit. However, their precise meaning and scope of applicability have remained diffuse - arguably as diffuse as the constituency of stakeholders in the very Internet itself. Our thesis elaborates the end-to-end arguments by putting them into a meaningful context of other principles as well as the current realities of the Internet. Also, it elaborates their normative content in view of a defendable set of purposes. To these ends we have conducted a most thorough study of primary literature going back to the intellectual predecessors of the Internet in the early 1960s, and developed the several notions of this thesis in a largely desk-based research effort. Following a comprehensive discussion of the various different versions of the end-to-end arguments both prior to and subsequent to the seminal Saltzer et al. (1981) formulation we trace the actual manifestations of the end-to-end arguments walking from the Arpanet as developed in the late 1960s to the eventual Internet architecture emerging from the mid-1970s. We find that the descriptive content of the end-to-end arguments is, in fact, broader than their self-contained formulation as a logical argument about application completeness implies. Second, we find that they are best conceived as one principle within a framework of other, no less relevant principles. And, third, we argue for a revised normative take on the end-to-end arguments that emphasizes the importance of edge redundancy as a crucial means of extending their scope beyond the classic considerations of data integrity alone. In all, we add much needed focus and clarity to a notion that has been carried so far away from their original content as to cloud their true relevance in both today's Internet and tomorrow's.</dc:description>
+          <dc:description xml:lang="deu">Seit ihrer ursprünglichen Fassung von Saltzer et al. (1981) wurden die "End-to-End Arguments" - der Kern eines der grundlegenden Prinzipien des Internets - im Hinblick auf ihre technische und normative Bedeutung stetig neu interpretiert und bewertet. Indes, der eigentliche Gehalt und die Grenzen ihrer Gültigkeit sind dabei weitgehend diffus geblieben - ebenso diffus wohl wie das Internet und die Menge derer, die es prägen und nutzen. Diese Arbeit entwickelt die "End-to-End Arguments" weiter, indem sie sie in einen sinnvollen Kontext aus anderen Prinzipien führt und dabei nicht nur den Realitäten des heutigen Internets gerecht wird, sondern zudem eine sorgfältige Zweckbestimmung für deren normativen Gehalt vornimmt. Basierend auf einer ausführlichen Erörterung der verschiedenen Versionen der "End-to-End Arguments" betrachten wir die technischen Artefakte, in denen sich jene von der Entwicklung des Arpanets in den späten 1960er Jahren bis hin zum Internet in den 1970er Jahren spiegeln. Es zeigt sich, dass die "End-to-End Arguments" auf deskriptiver Ebene deutlich weitere Anwendbarkeit finden, als sich dies aus dem logischen Kern der ursprünglichen Formulierung ergibt. Weiterhin zeigt sich, dass der Gehalt der "End-to-End Arguments" sich in einem systematischen Kontext aus weiteren für die Platzierung von Funktionen relevanten Prinzipien am besten fassen lässt. Nicht zuletzt entwickelt die Arbeit eine sinnvolle normative Fassung der "End-to-End Arguments", die die Wichtigkeit von Redundanz an den Rändern des Internets, dort wo die Enden Zugang nehmen, betont. Dadurch verbreitert sich deren Geltungsbereich weit über den klassischen Betrachtungsgegenstand von Datenintegrität hinaus. Insgesamt gewinnen die "End-to-End Arguments" durch die vorliegende Arbeit an Fokus und Klarheit im Hinblick auf deren, auch künftige, Bedeutung.</dc:description>
+          <dc:date>2010-11-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/plain</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2692</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28306</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28306</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2692/original_literature.bib</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2692/baerwolff_matthias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

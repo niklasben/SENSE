@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:279">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:279</identifier>
+        <datestamp>2014-07-24</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Autonomous Dynamic Reconfiguration in Collaborative Problem Solving</dc:title>
+          <dc:title xml:lang="deu">Autonome Dynamische Rekonfiguration im kooperativen Problemlösungsprozeß</dc:title>
+          <dc:creator>Hannebauer, Markus</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Mit dieser Arbeit wird eine ausführliche Untersuchung von kooperativem Problemlösen, seinen Vor- und Nachteilen, vor allem aber seiner Verbesserung durch Autonome Dynamische Rekonfiguration vorgelegt. Autonome Dynamische Rekonfiguration behandelt zwei typische Probleme kooperativen Problemlösens: schlechte Problemlösungsergebnisse und hoher Kommunikationsaufwand. Die Kernidee ist dabei die autonome und dynamische Anpassung der Konfiguration eines Problemlösungsprozesses, d. h. der Verteilung von Wissen, Zielen und Fähigkeiten, an das Problem selbst. Grundlage dafür sind zwei lokale Operationen: Agent Melting und Agent Splitting. Beim Agent Melting werden das Wissen, die Ziele und Fähigkeiten mehrerer Agenten in einem Agenten zusammengeführt, beim Agent Splitting ein Agent in mehrere Agenten zerlegt, wobei möglicherweise neue Agenten entstehen. Dabei wird eine stichhaltige theoretische Grundlage sowohl für kooperatives Problemlösen als auch für Autonome Dynamische Rekonfiguration gelegt. Die Problemstellung, eine gute Konfiguration für ein gegebenes Problem zu finden, weist eine Verbandsstruktur auf und ist nachweislich schwer zu lösen. Durch die Charakterisierung von Agent Melting und Agent Splitting als Operationen auf Äquivalenzrelationen können wichtige Eigenschaften dieser Operationen nachgewiesen werden, wie Strukturerhalt, Wirkung, Hinlänglichkeit und nebenläufiges Verhalten. Im praktischen Teil dieser Arbeit wird eine effiziente und effektive Instanz von kooperativem Problemlösen präsentiert. Alle dargestellten Konzepte, wie das Multi-phase-Agreement-Finding-Protokoll zum externen Problemlösen, die kompositionale Belief-Desire-Intention-Agentenarchitektur und eine spezielle Architektur zur Constraint-Spezifikation beim internen Problemlösen, sind so entworfen, daß sie mit dynamischen Konfigurationsänderungen umgehen können. Alle Konzepte werden durch einen lokalen Steuerungsmechanismus integriert, der durch Beobachtung und Selbstbeobachtung entscheidet, wie die Konfiguration angepaßt werden muß. Sowohl Theorie als auch Praxis werden mithilfe einer Fallstudie aus der medizinischen Terminplanung evaluiert. Die Autonome Dynamische Rekonfiguration liefert dabei überzeugende Ergebnisse - die Lösungsqualität wird um bis zu 20 Prozent gesteigert, während der Kommunikationsaufwand mehr als halbiert wird. Mithilfe dieser Technik erreicht der kooperative Problemlösungsprozeß fast die Qualität eines zentralen Ansatzes, ist aber effizienter.</dc:description>
+          <dc:description xml:lang="eng">This thesis is a comprehensive study of collaborative problem solving, its advantages and pitfalls, but mainly its improvement by autonomous dynamic reconfiguration. Autonomous dynamic reconfiguration deals with two common problems in collaborative problem solving - poor problem solving results and high communication effort. The main idea of autonomous dynamic reconfiguration is to autonomously and dynamically adapt the configuration of a collaborative problem solving effort, i.e. the distribution of knowledge, goals and skills, to the problem itself. This is done by two individual local operations -- agent melting and agent splitting. Agent melting means to unify the knowledge, goals and skills of two or more agents in a single agent, while agent splitting denotes a process in which a single agent is split, possibly resulting in an additional new agent. In this work we lay a sound theoretical foundation for collaborative problem solving itself and for its improvement by autonomous dynamic reconfiguration. The problem of finding a good configuration for a given problem has been proven to feature a lattice structure and to be complex to solve. Based on a characterization of agent melting and agent splitting as equivalence relation manipulators, these two operators show verifiable properties regarding structure retainment, impact, sufficiency and concurrency. On the practical side, collaborative problem solving finds a very flexible and effective instantiation in this work. All presented concepts for collaborative problem solving, such as the multi-phase agreement finding protocol for external problem solving, the composable belief-desire-intention agent achitecture and the distribution-aware constraint specification architecture for internal problem solving, are designed to support a changing configuration. This set of concepts is integrated by the AuReCon controller that decides by observation and self-observation how to locally adjust the configuration. The proposed theory and practice are validated using a case study in medical appointment scheduling. The autonomous dynamic reconfiguration approach shows convincing results in improving the problem solving quality by up to 20 percent and by more than halving the communication effort. Using autonomous dynamic reconfiguration, the collaborative problem solving techniques can match the quality of a central approach and are more efficient.</dc:description>
+          <dc:date>2001-12-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/279</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2749</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2749</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/279/hannebauer_markus1.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

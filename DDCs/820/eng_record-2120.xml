@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2120">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2120</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:820</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The Pirate (The Waverly Novels, Vol. 13)</dc:title>
+          <dc:creator>Scott, Walter</dc:creator>
+          <dc:subject>ddc:820</dc:subject>
+          <dc:description xml:lang="eng">Historical sea novel by Walter Scott, set in a remote part of Shetland. Mertoun turned to piracy, in a spirit of vengeance, because he has been betrayed by his wife. He is filled with remorse for his crimes and lives as a recluse, until he rescues the shipwrecked pirate Cleveland. Cleveland becomes his enemy. Digitized (without OCR). Printed version published 1877 by Black, Edinburgh as volume 13 of "The Waverly Novels" by Sir Walter Scott. Location: Technische Universität Berlin, Universitätsbibliothek Call number: 8Fi3990/13</dc:description>
+          <dc:description xml:lang="deu">Historischer Seefahrer-Roman, der in einem entlegenen Teil der Shetlandinseln spielt. Mertoun wurde zum Pirat, um Rache an seiner treulosen Frau zu nehmen. Er bereut seine Verbrechen und lebt zurückgezogen, bis er den schiffbrüchigen Piraten Cleveland rettet. Dieser wird sein Feind. Digitalisiert (ohne OCR). Gedruckte Version 1877 als Band 13 von Scotts "The Waverly Novels" im Verlag Black, Edinburgh erschienen. Standort: Technische Universität Berlin, Universitätsbibliothek Signatur: 8Fi3990/13</dc:description>
+          <dc:date>2009-05-12</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2120</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22308</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22308</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2120/Scott%20Waverly_I-VII.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2120/Scott%20Waverly_VIII-XVII.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2120/Scott%20Waverly_XVIII-XXIV.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2120/Scott%20Waverly_XXV-XXXIII.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2120/Scott%20Waverly_XXXIV-XLI.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

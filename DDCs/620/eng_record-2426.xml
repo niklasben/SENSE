@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2426">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2426</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung eines Konzepts zur nutzergerechten Produktentwicklung - mit Fokus auf die "Generation Plus"</dc:title>
+          <dc:title xml:lang="eng">Development of a Concept on User-centred Product Design - Focused on Older People</dc:title>
+          <dc:creator>Glende, Sebastian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Technische Alltagsprodukte für die Generation Plus sind oftmals nicht nutzergerecht gestaltet. Dadurch bleiben Potenziale im Absatz und in der Technologienutzung durch Senioren ungenutzt. Ursache der nicht nutzergerechten Produktgestaltung ist das Fehlen von Möglichkeiten zur Integration der Anforderungen älterer Anwender in die Produktentwicklung. Davon ausgehend ist das Ziel vorliegender Arbeit, ein Konzept zur nutzergerechten Produktentwicklung mit Fokus auf die Generation Plus zu entwickeln. Dabei wird ein zirkuläres Vorgehen angewendet, wobei die Konzeptentwicklung Top-down, die Konzeptevaluierung hingegen Bottom-up erfolgt. Kern des Konzepts ist ein Modellprozess, der Module enthält, die eine Nutzerzentrierung ermöglichen. Dieser Modellprozess orientiert sich an bestehenden Produktentwicklungsprozessen und kann einfach in diese integriert werden. Der Modellprozess wird mit 39 Methoden der User Integration verknüpft, die eine bedarfsgerechte Umsetzung der Module erlauben. Darüber hinaus wird ein Werkzeug entwickelt, welches die Auswahl der am besten geeigneten Methoden vereinfacht. Die Evaluierung findet mit Hilfe von 23 Fallstudien statt. Dabei zeigt sich, dass das Konzept eine Integration von Kunden- und Herstellerperspektive ermöglicht. Zur nutzerzentrierten Produktentwicklung und User Integration geben die Ergebnisse einen umfassenden und praktikablen Überblick. Zukünftig ist die Übertragung der Ergebnisse auf weitere Zielgruppen sowie auf die Gestaltungsprozesse von Arbeitssystemen notwendig.</dc:description>
+          <dc:description xml:lang="eng">Technical everyday products for older people are often not designed to users’ needs. Thus, potentials to expand sales and utilization of innovative products amongst seniors remain unused. The lack of user-centred product development is caused by a lack of opportunities to integrate older users into design processes. Hence, the present work aims on the development of a senior-user-centred concept for product design. This is achieved by a circular procedure, combined with a top-down concept development and a bottom-up concept evaluation. Core of this concept is a modular process model that allows user-centred design. This model is aligned to existing product development processes and can be integrated in these with little effort. The process model is enhanced by 39 user integration methods that facilitate implementation of the process modules. Moreover, a tool is developed to enable a choice of those methods that fulfil product developers’ requirements best. The concept is evaluated by means of 23 case studies. These studies prove that the concept allows a matching between perspectives of users and manufacturers. Results of the present work provide an overview on user-centred product development and user integration. In future research, transfer of this concept to further target groups and to the design process of work systems should be considered.</dc:description>
+          <dc:date>2010-02-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2426</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25294</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25294</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2426/glende_sebastian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

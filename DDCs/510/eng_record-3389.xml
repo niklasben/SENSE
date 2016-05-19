@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3389">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3389</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Properties of linear Brownian motion with variable drift</dc:title>
+          <dc:title xml:lang="deu">Eigenschaften der linearen Brownschen Bewegung mit variablem Drift</dc:title>
+          <dc:creator>Ruscher, Julia</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">Path properties of Brownian motion is an important and well studied area of probability theory. In this thesis we want to investigate what happens to path properties of linear Brownian motion if we add a drift function. The path properties we are interested in are the following in this thesis. It is a well known fact that standard one-dimensional Brownian motion B(t) has no isolated zeros almost surely. In chapter II we will address the question whether one can get isolated zeros by adding a function to Brownian motion. In particular, we will show that for any alpha &amp;lt; 1/2 there are alpha-Hölder continuous functions f for which the process B-f has isolated zeros with positive probability. En route we will see that the Cantor function added to one-dimensional Brownian motion has zeros in the middle alpha-Cantor set with positive probability if and only if alpha unequals 1/2. Besides Cantor functions we also take a look at another class of functions that can provide isolated zeros when added to Brownian motion. Motivated by the results of chapter II we take an even closer look at middle 1/2-Cantor functions in chapter III. We will define a generalized class of Cantor functions by allowing the middle 1/2 intervals to vary in size around the value 1/2 at each iteration step. That way we can give a refined picture of the result above. We will see that there is a class of generalized Cantor functions such that if these are added to one-dimensional Brownian motion, there are no zeros that lie in the corresponding Cantor set almost surely. In chapter IV we prove that for any continuous function f, the zero set of B-f has Hausdorff dimension at least 1/2 with positive probability, and 1/2 is an upper bound on the Hausdorff dimension if f is 1/2-Hölder continuous or of bounded variation. A famous result of Orey and Taylor gives the Hausdorff dimension of the set of fast times, that is the set of points where linear Brownian motion moves faster than according to the law of iterated logarithm. In chapter V we examine what happens to the set of fast times if a variable drift is added to linear Brownian motion. In particular, we will show that the Hausdorff dimension of the set of fast times cannot be decreased by adding a function to Brownian motion. Furthermore, we will look at the intersection of the set of fast times and the zero set. Chapters II and IV are joint work with Tonci Antunovic, Kris Burdzy and Yuval Peres.</dc:description>
+          <dc:description xml:lang="deu">Pfadeigenschaften der Brownschen Bewegung ist ein wichtiges und gut erforschtes Gebiet der Wahrscheinlichkeitstheorie. In dieser Arbeit untersuchen wir wie sich Pfadeigenschaften der linearen Brownschen Bewegung verhalten, wenn wir eine Driftfunktion dazu addieren. Folgende Pfadeigenschaften werden wir in dieser Arbeit betrachten: Es ist bekannt, dass die eindimensionale Standard-Brownsche Bewegung B(t) fast sicher keine isolierten Nullstellen hat. Im Kapitel II widmen wir uns der Frage, ob man isolierte Nullstellen erhalten kann, wenn man eine Funktion zur Brownschen Bewegung addiert. Insbesondere zeigen wir, dass für jedes Alpha &amp;lt; 1\2 es eine Alpha-Hölder stetige Funktion f gibt, sodass der Prozess B-f isolierte Nullstellen mit positiver Wahrscheinlichkeit hat. Dabei werden wir sehen, dass mit positiver Wahrscheinlichkeit die Cantor-Funktion, addiert zur Brownschen Bewegung, Nullstellen hat in der Mittel-Alpha-Cantor-Menge genau dann wenn Alpha ungleich 1/2 ist. Neben Cantor-Funktionen schauen wir uns auch noch eine weitere Klasse von Funktionen an, die isolierte Nullstellen liefern kann, falls man sie zur Brownschen Bewegung addiert. Motiviert durch die Ergebnisse vom Kapitel II werden wir uns im Kapitel III die Mittel-1/2-Cantor-Funktion nochmals anschauen. Wir definieren eine verallgemeinerte Klasse von Cantor-Funktionen indem wir zulassen, dass die Längen der Mittel-1/2-Intervalle um den Wert 1/2 schwanken dürfen bei jedem Iterationsschritt. Dadurch erhalten wir ein verfeinertes Bild der obigen Resultate. Wir werden zeigen, dass es eine Klasse von verallgemeinerten Cantor-Funktionen gibt, für die gilt, wenn man sie zur Brownschen Bewegung addiert, liegen fast sicher keine Nullstellen in der Cantor-Menge. Im Kapitel IV werden wir beweisen, dass für jede stetige Funktion f, die Hausdorff Dimension der Nullstellenmenge von B-f mit positiver Wahrscheinlichkeit mindestens 1/2 ist, und 1/2 ist eine obere Schranke der Hausdorff Dimension, falls f 1/2-Hölder stetig oder von beschränkter Variation ist. Ein berühmtes Resultat von Orey und Taylor bestimmt die Hausdorff Dimension der Schnellzeitenmenge - das ist die Menge von Punkten, wo die lineare Brownsche Bewegung sich schneller bewegt als bezüglich des Gesetzes des iterierten Logarithmus. Im Kapitel V untersuchen wir die Schnellzeitenmenge von der linearer Brownscher Bewegung mit variablem Drift. Insbesondere zeigen wir, dass die Hausdorff Dimension der Schnellzeitenmenge nicht kleiner werden kann, wenn man eine Funktion zur Brownschen Bewegung addiert. Des Weiteren werden wir uns die Schnittmenge von Schnellzeiten und Nullstellen anschauen. Kapitel II und IV sind in Zusammenarbeit mit Tonci Antunovic, Kris Burdzy and Yuval Peres entstanden.</dc:description>
+          <dc:date>2012-07-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3389</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36060</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36060</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3389/ruscher_julia.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

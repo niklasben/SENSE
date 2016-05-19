@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2911">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2911</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Engineering production control strategies for complex discrete manufacturing - with a case study in electronics assembly</dc:title>
+          <dc:title xml:lang="deu">Strategien der Fertigungssteuerung in komplexen diskreten Produktionssystemen - mit einer Fallstudie aus der Elektronikfertigung</dc:title>
+          <dc:creator>Karrer, Christoph</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">For many companies with complex and discrete production systems, shopfloor reality shows that finding a good approach to production control is still an important challenge. Therefore, a practically applicable framework to engineer production control strategies (PCS) is developed. It provides an integrated answer to the most prominent questions of PCS engineering: limiting work-in-process (WIP), positioning the order penetration point (OPP), and coping with demand uncertainty upfront the OPP under the optional presence of unreliable forecasts. Starting from a systems engineering perspective on the design drivers, a generic PCS is formulated as queuing network model, whose parameters are optimized to derive a customized PCS. The optimization is performed numerically, leveraging a discrete-event-simulation framework. To explore the large solution space, complexity reduction techniques and a branch-and-bound-like optimization procedure are proposed. The generic PCS enables the construction of new hybrid make-to-forecast/make-to-stock (MTF/MTS) strategies to cope with demand uncertainty. Under certain conditions, the hybrid approach outperforms pure strategies. The mechanics behind it are explored by structured experiments and closed-form solutions for some of its parameters are developed. The framework and especially the hybrid MTF/MTS approach are applied to a real-life case study from electronics assembly, where a significant improvement potential is identified.</dc:description>
+          <dc:description xml:lang="deu">In Unternehmen mit komplexen diskreten Produktionssystemen zeigt die Praxis, dass die Definition einer geeigneten Fertigungssteuerung immer noch eine wichtige Herausforderung darstellt. Im Folgenden wird deshalb ein praktisch anwendbarer Modellierungsansatz und ein darauf basiertes Verfahren zur Herleitung von Strategien der Fertigungssteuerung entwickelt. Dabei wird eine integrierte Perspektive auf die wichtigsten Fragen der Fertigungssteuerung eingenommen: die Größe notwendiger Puffer, die Lage des Entkopplungspunktes und der Umgang mit Nachfrageunsicherheit vor dem Entkopplungspunkt. Ausgehend von einer Systems Engineering Perspektive wird eine generische Steuerungsstrategie als Warteschlangennetzwerk formuliert. Um dann eine für den Einzelfall passende Strategie herzuleiten wird das generische Modell durch numerische Optimierung parametriert. Es wird diskrete Eventsimulation verwendet sowie verschiedene Techniken zur Komplexitätsreduktion um den großen Lösungsraum beherrschbar zu machen. Der verwendete Modellierungsansatz ermöglicht die Konstruktion einer neuen hybriden Make-to-Forecast/Make-to-Stock Strategie. Unter gewissen Rahmenbedingungen schneidet diese hybride Strategie in Bezug auf Bestand und Lieferfähigkeit besser als die reinen Strategien ab. Die Wirkungsweise der hybriden Strategie wird mit Hilfe strukturierter Experimente genauer untersucht und es werden analytische Lösungen für ein Teil der Parameter entwickelt. Das Vorgehen zur Herleitung von Strategien der Fertigungssteuerung sowie die hybride Strategie werden in einer Fallstudie aus der Elektronikfertigung erfolgreich angewendet. Dabei wird ein signifikantes Verbesserungspotential identifiziert.</dc:description>
+          <dc:date>2011-06-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2911</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30767</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30767</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2911/karrer_christoph.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

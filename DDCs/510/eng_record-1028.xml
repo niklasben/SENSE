@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1028">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1028</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Willmore surfaces in S^n : transforms and vanishing theorems</dc:title>
+          <dc:title xml:lang="deu">Willmoreflaechen im n-Sphaere : Transformationen und Verschwindungssaetzen</dc:title>
+          <dc:creator>Ma, Xiang</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Das Hauptinteresse des Autors gilt der Konstruktion neuer Transformationen von Willmoreflaechen und dem Studium ihrer globalen Eigenschaften fuer geschlossene Flaechen. Insbesondere sollen die Konstruktion von dualen Willmoreflaechen und die bekannten Klassifikationsresultate fuer Willmore 2-Sphaeren verallgemeinert werden auf den Fall beliebiger Kodimension. Bei den untersuchten Fragen handelt es sich um Fragen der Moebius-geometrie. Fuer deren Untersuchungen wird das Lichtkegelmodell benutzt und eine Theorie von Paaren konform immersierter Flaechen entwickelt. Als Anwendung dieser wird eine Loesung des Blaschke-Problems im n-dim Raum gegeben, welches Darboux Paare von Isothermflaechen und duale Willmore -flaechen charakterisiert. Diese Diskussion fuehrt in natuerlicher Weise auf die Begriffe ''beruehren'' und ''ko-beruehren'', welche wiederum die Definition der adjungierten Transformation von Willmoreflaechen motivieren. Obwohl diese Transformationen im Allgemeinen nicht eindeutig sind, bleibt die Eigenschaft eine duale Willmoreflaeche zu sein in einem gewissen Sinne erhalten. Insbesondere gibt es gute Verallgemeinerungen der existierenden Dualitaetssaetze. Ein zentrales Ergebnis der Theorie ist, dass adjungierte Willmoreflaechen charakterisiert werden koennen mittels konformer harmonischer Abbildungen. Sehr starke globale Resultate koennen erhalten werden fuer den Fall, dass die zugrundeliegende Flaechen eine Sphaere ist. Wie ueblich muss man dabei im Wesentlichen zwei Faelle unterscheiden: den streng m-isotropen Fall und den total isotropen Fall. In dieser Arbeit wird hauptsaechlich der erste Fall diskutiert und es wird gezeigt, dass fuer solche Willmoreflaechen eine kanonische adjungierte Transformation konstruiert werden kann, welche wieder eine verzweigte immersierte Willmore 2-Sphaere und ausserdem streng (m+1)-isotrop ist. Dieses Resultat wird bewiesen ueber die Konstruktion isotroper Unterbuendel und holomorpher Formen und folgt aus algebraisch -geometrischer Verschwindungssaetzen. Interessanterweise spielt hier auch ein nicht-Verschwindungsresultat eine wichtige Rolle. Dieses Resultat ist moeglicherweise ein Ansatz fuer die Klassifikation aller Willmore 2-Spaehren.</dc:description>
+          <dc:description xml:lang="eng">In this work, the main concern of the author is the construction of new transforms of a given Willmore surface and the global effect when the underlying surface is closed. Especially, we want to generalize the construction of dual Willmore surface and the known classification results on Willmore 2-spheres to arbitrary co-dimensional spaces. Since these objects are Moebius invariant, we adopt the light-cone model, and establish a theory on pairs of conformally immersed surfaces. As an application, Blaschke's Problem in $n$-space is solved, which characterizes Darboux pairs of isothermic surfaces and dual Willmore surfaces. The notion touch and co-touch arise naturally from this discussion. This further inspires the definition of adjoint transforms of a given Willmore surface. Although such transforms are not unique in general, they are also Willmore and dual to the original surface in certain sense. So they are good generalizations of the existing duality theorems. Finally adjoint Willmore surfaces are characterized in terms of conformal harmonic maps, which seems to be the central result in our general theory. When the underlying surface is assumed to be a 2-sphere, very strong global results are obtained. As usual, the discussion should be divided into two cases: the strict $m$-isotropic case and the totally isotropic case. We concentrate on the first case and show, for such a Willmore surface, one can construct a canonical adjoint transform, which is again a branched conformally immersed Willmore 2-sphere, yet is strict $(m!+!1)$-isotropic. This Ascending Theorem is obtained by constructing isotropic sub-bundles and holomorphic forms, then invoking the vanishing theorem. Interestingly not-vanishing result also plays a crucial role at here. This points out a possible way to classify all Willmore 2-spheres.</dc:description>
+          <dc:date>2005-08-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1028</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10170</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10170</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1028/ma_xiang.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

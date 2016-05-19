@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3692">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3692</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Adjoint based jet-noise minimization  </dc:title>
+          <dc:title xml:lang="deu">Adjungierte basierte Minimierung von Freistrahllärm</dc:title>
+          <dc:creator>Schulze, Jan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Jets with complex shock-cell structures appear in numerous technological applications. Most supersonic jets used in aeronautics will be imperfectly adapted in flight, even those from carefully designed convergent–divergent nozzles. The adaption to the ambient pressure takes place in a sequence of oblique shocks which interact with the free shear layers and produce noise. The shock/shear-layer interaction emanates a broadband noise component. This may trigger the thin shear layer at the nozzle exit, forming a feedback loop which results in a discrete noise component called screech. Both components are undesirable from structural and environmental (cabin noise) points of view. Screech tones produce sound pressure levels of 160 dB and beyond. The focus of the present thesis lies in the minimization of supersonic jetnoise and in particular in the minimization of jet-screech. Since screech – a phenomenon which is not yet understood in all details – seems to be affected by the presence of the jet-nozzle, a porous material will be added to the nozzle exit to suppress the feedback mechanism. Thus, to minimize the emanated noise. It is by no means clear how the shape an characteristic properties of the porous material should be. To this end, an optimization technique, based on adjoint methods, will be applied to optimize the material with respect to the emanated noise.</dc:description>
+          <dc:description xml:lang="deu">Freistrahlen (engl. Jets) mit einer komplexen Stoßzellen-Struktur treten in vielen technischen Anwendung auf. Die meisten Überschallfreistrahlen in der Luftfahrt sind nicht perfekt angepasst, auch nicht solche aus sorgfältig gestalteten konvergent-divergenten Düsen. Die Anpassung an den Umgebungsdruck erfolgt in einer Abfolge von schiefen Verdichtungsstößen, die mit den freien Scherschichten interagieren und Lärm erzeugen. Dabei strahlt die Interaktion von Stoß und Scherschicht einen breitbandigen Lärm ab. Dies kann die dünne Scherschicht am Düsenaustritt anregen und eine Rückkopplungsschleife bilden, die einen diskreten Ton namens Screech (dt. Kreischen) hervorruft. Beide Komponenten sind aus strukturellen und umgebungsbedingten Gesichtspunkten unerwünscht (z. B. Kabinenlärm). Screech-Töne erzeugen Schalldruckpegel von 160 dB und darüber hinaus. Der Fokus der vorliegenden Arbeit liegt in der Minimierung von Überschall Jet-Lärm, insbesondere in der Minimierung von Jet-Screech. Da Screech – ein Phänomen, das noch nicht in allen Einzelheiten verstanden ist – durch die Geometrie der Jet-Düse beeinflusst wird, soll ein poröses Material an der Düse angebracht werden, um den Rückkopplungsmechanismus zu unterdrücken. Dadurch wird ebenfalls der Screech-Ton unterdrückt. Es ist keineswegs klar, wie die charakteristischen Eigenschaften des porösen Materials beschaffen sein sollten, um den Lärm zu minimieren. Zu diesem Zweck wird ein Optimierungsverfahren, basierend auf adjungierten Methoden, angewandt, um die Materialeigenschaften in Bezug auf den Lärm zu optimieren.</dc:description>
+          <dc:date>2013-04-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3692</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38719</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38719</dc:identifier>
+          <dc:identifier>978-3-7983-2495-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3692/9783798324947_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3692/9783798324947_cover.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

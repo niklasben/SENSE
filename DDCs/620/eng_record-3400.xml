@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3400">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3400</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung neuer Verfahren der Prozesssteuerung in Co-Vergärungsanlagen der Abfallwirtschaft</dc:title>
+          <dc:title xml:lang="eng">Development of new procedures of process control in waste digesters</dc:title>
+          <dc:creator>Kleyböcker, Anne</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Als Beitrag zur Prozessoptimierung der Co-Vergärung wurden Untersuchungen zur Steigerung der Raum-Zeit-Ausbeute von Biogasreaktoren durchgeführt. Das Ziel hierbei war einen Frühwarnindikator für die Prozessstörung „Übersäuerung“ zu entwickeln, um den Prozess der Biogasbildung gezielt zu steuern. Es wurden verschieden Maßnahmen wie die Reduzierung der Raumbelastung und der Einsatz von Additiven wie Natronlauge (NaOH) und Calciumoxid (CaO) untersucht, um den Prozess der Biogasbildung zu stabilisieren. Hierbei zeigte sich, dass CaO besser als NaOH für die Entsäuerung geeignet war. Insbesondere beim Einsatz von CaO konnte eine Aggregatbildung beobachtet werden. Das Calcium, das durch das CaO zugeführt wurde, verursachte Ausfällungen mit langkettigen organischen Säuren (LCFA) und mit Phosphat, das von phosphatspeichernden Organismen (PAO) rückgelöst wurde. Zusätzlich wurde die Abnahme der organischen Säuren in der flüssigen Phase vermutlich durch Adsorption der organischen Säuren an die Ausfällungen, durch die Säureaufnahme der PAO und durch einen Säureabbau in den Aggregaten aufgrund vorteilhafter Milieubedingungen ermöglicht. Aufgrund der besonderen Rolle des Calciums hinsichtlich der Prozessstabilisierung, wurde es auf die Eignung als Parameter zur Prozesssteuerung untersucht. Hierbei stellte sich heraus, dass der Quotient aus der Konzentration an organischen Säuren zur Calciumkonzentration (FWI) sensitiver hinsichtlich einer Prozessstörung war als die untersuchten typischen Prozessüberwachungsparameter. Experimentelle Untersuchungen zeigten, dass der FWI zwischen 3 und 7 Tagen vor dem Eintreten einer Übersäuerung durch signifikante Änderungen in seinem Verlauf warnte. Dieser Zeitraum war für die Einleitung von Maßnahmen zur Stabilisierung des Biogasprozesses ausreichend. Zur Steigerung der Raum-Zeit-Ausbeute wurde die Raumbelastung über den FWI gesteuert erhöht. Hierbei stellte sich heraus, dass ein Zeitintervall von 8 Tagen zwischen zwei Erhöhungen der Substratfracht nicht unterschritten werden sollte. Der Betrieb bei Raumbelastungen von 6,0 und 9,5 kg oTS m-3 d-1 mit Fettanteilen von bis zu 87 % und bei Methanausbeuten von 0,9 m³ (kg oTS)-1 war mit dem Einsatz von CaO als Additiv erfolgreich.</dc:description>
+          <dc:description xml:lang="eng">As a contribution to the optimization of co-digestion, investigations to increase the space-time-yield of digesters were accomplished. The aim was to develop an early warning indicator in terms of over-acidification to control the process of biogas formation. Different counter measures were undertaken to stabilize the process of biogas formation, including the reduction of the organic loading rate, the addition of sodium hydroxide (NaOH), and the introduction of calcium oxide (CaO). The results showed that CaO was more capable of stabilizing the process than NaOH. The formation of aggregates was observed particularly when CaO was used as the additive. The cal-cium, which was charged by the CaO addition, formed insoluble salts with long chain fatty acids (LCFAs), and caused the precipitation of calcium phosphate compounds. Additionally, the decrease in the amount of accumulated acids in the liquid phase was likely enabled by the adsorption of VFAs by the precipitates, the acid uptake by the PAOs and the degradation of VFAs in the aggregates containing favorable milieu conditions. Due to the special role of calcium in terms of process stabilization, its applicability as control parameter was investigated. The ratio of the concentration of organic acids to the calcium concentration (EWI) was found to be more sensitive in terms of process failures than the investigated typical monitoring parameters. The EWI warned be-tween 3 to 7 days before a process failure took place. Experiments showed that this period was long enough to take action successfully in counter measures to stabilize the process. The EWI was applied to increase the organic loading rate (OLR). The experiments showed that a time interval of 8 days between two increases of the OLR was found to be adequate. At OLRs of 6.0 and 9.5 kg VS m-3 d-1 including up to 87 % of fat, the operation of the biogas formation process with additions of CaO was successful. Although the OLR was as high, the methane yield reached almost its expected range with 0.9 m³ (kg VS)-1.</dc:description>
+          <dc:date>2012-07-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3400</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35915</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35915</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3400/kleyboecker_anne.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

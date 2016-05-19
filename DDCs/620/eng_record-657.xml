@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:657">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:657</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Berechnungsmodell zur Ermittlung von Spannkräften bei Backenfuttern</dc:title>
+          <dc:title xml:lang="eng">Computation Model of Clamping Force for Jaw-Chucks</dc:title>
+          <dc:creator>Feng, Pingfa</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein analytisches Berechnungsmodell zur Ermittlung von Spannkräften bei Backenfuttern in Abhängigkeit von den Prozesskräften entwickelt. Bisherige bestehende Ansätze zur Ermittlung der erforderlichen Spannkraft führen aufgrund ihrer unzureichenden Modellbildung zu fehlerhaften und sehr unterschiedlichen und damit ungenauen Berechnungsergebnissen. Die Berechnung der optimalen Spannkraft ermöglicht neben der Erhöhung der Bearbeitungsgenauigkeit und der Prozesssicherheit, die Effektivität der Drehbearbeitung mit Backenfuttern, insbesondere mit modernen Spannsystemen für hohe Drehzahlen, zu erhöhen. Die notwendige Ausgangsspannkraft bei Außenspannung wird durch die zur Aufnahme der am Werkstück auftretenden Prozesskräfte erforderliche Mindestspannkraft und den dynamischen Spannkraftverlust infolge der Fliehkräfte beschrieben. Als Grundlage wird das Steifigkeitsverhalten von Spannmitteln mit Hilfe von experimentellen Untersuchungen und FEM-Analysen ermittelt. In dem Teilmodel zur Bestimmung des Spannkraftverlustes wird der Einfluss der Werkstück-, Spannfutter- und Spannbackensteifigkeit berücksichtigt. Die Fliehkräfte von verschiedenen Elementen haben unterschiedliche Auswirkungen auf den Spannkraftverlust, die durch verschiedene Kippeinflussfaktoren berücksichtigt werden. Zur Ermittlung der übertragbaren Kippmomente wird die Spannkraftverteilung in den Spannflächen mit Hilfe von FEM-Analysen untersucht und der Begriff der differentiellen Werkstücksteifigkeit eingeführt. Bei der Berechnung der erforderlichen Mindestspannkraft werden alle Belastungen der Werkstückspannung gleichzeitig berücksichtigt. Die Genauigkeit des neu entwickelten Spannkraftberechnungsmodells übersteigt die der bisherigen Berechnungsansätze deutlich. Das Modell besitzt sowohl für herkömmliche Spannfutter als auch für Spannfutter neuer Bauart, wie Keilflächenfutter mit Fliehkraftausgleich oder mit Backenschnellwechselsystem, Gültigkeit. Diese und der Grad der Genauigkeit des Berechnungsmodells werden anhand von experimentellen Untersuchungen und FEM-Analysen validiert. Die gewonnenen Erkenntnisse bilden die Grundlage zur Erstellung einer neuen VDI-Richtlinie, die bei der Ermittlung der zulässigen Drehzahl oder der notwendigen Ausgangsspannkraft von Backenfuttern in der Arbeitsvorbereitung Anwendung finden kann.</dc:description>
+          <dc:description xml:lang="eng">In this thesis a comprehensive and optimized analytic computation model will be developed for the determination of clamping forces for jaw-chucks in dependence of process forces. Due to the inaccuracy of existing models the calculated required clamping forces are characterized by a significant deviation. The computation of optimized clamping forces enables the utilization of the potential of jaw-chucks for higher rotational speeds in order to increase the effectiveness of turning operations. Furthermore, the safety of process within of high speed turning as well as the machining accuracy are increased. The required initial clamping force for external clamping is determined by the required minimum clamping force for absorption of cutting forces, and the dynamic loss of clamping force due to the rotation of the used chuck. As basis for this model the stiffness behaviour of jaw-chucks is studied by means of experimental investigations and FEM analyses. In the sub model for the dynamic loss of clamping force the influence of the stiffnesses of the workpiece, chuck and top jaw on the dynamic clamping force is considered. The centrifugal forces of top jaws, base jaws, chuck body/piston and counterweights have different effects on the loss of clamping force, which are represented by different tilting-influence-factors. For the computation of the transmittable bending moment the distribution of pressure on the clamping surfaces is investigated by means of FEM analyses whereby the differential workpiece stiffness is defined as a new parameter. All loads of workpiece clamping like turning moment, bending moment, axial force and radial force are considered simultaneous while computing the required minimum clamping force. The accuracy of the new developed computation model of clamping force exceeds significant the accuracy of the existing models. This model is valid not only for conventional chucks but also for modern chucks, such as power operated wedge hook chuck with compensation of centrifugal force or with quick jaw change system. The validity and the accuracy of the new computation model are verified by means of numerous experimental investigations and FEM-computations. The obtained results in this thesis build the basis for the development of a new VDI-guideline, which can be applied to determine the allowed rotational speed or the required initial clamping force of jaw-chucks in manufacturing set up.</dc:description>
+          <dc:date>2003-07-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/657</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6511</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6511</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/657/feng_pingfa.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

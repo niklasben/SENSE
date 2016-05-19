@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:694">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:694</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zur voxelbasierten Simulation des fünfachsigen NC-Fräsens</dc:title>
+          <dc:creator>Hou, Zengxuan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Simulationstechnik wird als Hilfsmittel zur Beherrschung der drei- und fünfachsigen NC-Fräsbearbeitung eingesetzt. Gewöhnlich wird die Aktualisierung des simulierten Werkstücks entweder im Bildraum des Werkstücks oder geometrisch im Objektraum durchgeführt. Die vollständige Aktualisierung des simulierten Werkstücks fordert jedoch nur eine geometrische Lösung. Im vorliegenden Forschungsbericht wird der Ansatz der voxelbasierten fünfachsigen NC-Simulation entwickelt. Die Grundlage für den Aufbau des Simulationssystems ist der am IPK Berlin entwickelte 3D-Kernmodellierer des Virtual Clay Modelling Systems. Dieser ermöglicht die Modellierung und die Aktualisierung von komplizierten Werkstücken und Zerspanungsvolumen in der drei- und fünfachsigen NC-Simulation auf Rechenanlagen. Das simulierte Werkstück wird rechnerintern diskret mit einem Voxelmodell dargestellt. Die dadurch eingeführten NC-Simulationsfehler werden unter Berücksichtigung des eingesetzten Fräsers kontrolliert. Eine voxelbasierte Methode zur Gestaltung von Zerspanungsvolumen der diversen Werkzeuge wie zylindrische Fräser, Torus-, zylindrische Gesenk-, Kugelkopf-, Fass-, Kegel- und kegelige Gesenkfräser wurde entwickelt. Der Vorteil dieser Methode liegt darin, dass aufgrund der diskreten Datenstruktur des Voxelmodells und der damit ermöglichten Abbildung von beliebigen Formen keinerlei Einschränkungen zur Modellierung der Zerspanungsvolumen der diversen Fräsertypen gegeben sind. Die Materialverletzungen und verbliebenen Restmaterialien auf dem simulierten Werkstück können im 3D-Raum zur Bewertung der Qualität der NC-Programme ermittelt werden. Eine effektive Optimierung der NC-Programme in der Fertigungsvorbereitung kann durchgeführt werden. Zur Beschleunigung der Werkstückaktualisierung wurden ausgehend von den Eigenschaften des Voxelmodells die entsprechenden Maßnahmen getroffen. Mit der vorgestellten Methode wird ein wichtiger Beitrag zur drei- und fünfachsigen Simulation des NC-Fräsens geleistet. Damit können die NC-Programme für die drei- und fünfachsige NC-Fräsbearbeitung verifiziert, optimiert und die Prozessqualität vorab sichergestellt werden.</dc:description>
+          <dc:date>2003-10-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/694</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6884</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6884</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/694/hou_zengxuan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

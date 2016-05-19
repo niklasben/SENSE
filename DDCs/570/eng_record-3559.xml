@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3559">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3559</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">MicroRNA-221 and the non-Ig-parts of the surrogate light chain as molecular checkpoints in B cell development</dc:title>
+          <dc:title xml:lang="deu">MicroRNA-221 und die nicht-Ig-Teile der Ersatz leichten Kette als molekulare Kontrollpunkte in der B Zell Entwicklung</dc:title>
+          <dc:creator>Knoll, Marko</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="eng">MicroRNAs regulate sets of gene expression programs of cells on posttranscriptional levels. I found miR-128a, 221 and 222 differentially expressed at two closely related stages of B-cell development in the mouse, high in Pax5-/- CD19- pro/preB cells and low in Pax5+/+ CD19+ preB-I cells. Expression of miR-221 and 222, but not of 128a, is controlled by Pax5 expression. Over-expression of either of these miRNAs in wild type preB-I cells by transduction with an LTR-defective SIN-retroviral vector under the control of a tet-inducible promotor does not change their CD19 expression, nor their inability to develop to T cells. However, upon transplantation into immune-deficient Rag1-/- mice preB-I cells transduced with miR-221 and induced with doxycycline, but not those transduced with miR-222, gain the capacity of pro/preB cells to home to the bone marrow. The transplanted, miR-221 expressing cells leave the bone marrow when the expression of miRNA is terminated by the removal of doxycycline. Two migration-related genes, encoding integrin α4 and syndecan 4 are potential direct or indirect targets for the miR-221 dependent regulation of retention of pro/preB cells in bone marrow. The VpreB and λ5 proteins, together with Igμ-H chains form preB cell receptors (preBCRs). In collaboration with Kazuo Ohnishi and Yuki Yanagisawa I established λ5-/- / VpreB1-/- / VpreB2-/- Abelson virus transformed cell lines and reconstituted these cells with λ5 and VpreB in wild type form or with deleted non-Ig parts. Whenever preBCRs had the non-Ig part of λ5 deleted, surface deposition was increased, while deletion of VpreB non-Ig part decreased it. The levels of phosphorylation of Syk, SLP65 or PLC-γ2, and of Ca2+ mobilization from intracellular stores, stimulated by μH chain cross-linking antibody, were dependent on the levels of surface-bound preBCRs. It appears that VpreB probes the fitness of newly generated VH-domains of IgH chains for later pairing with IgL chains and its non-Ig part fixes the preBCRs on the surface. By contrast the non-Ig part of λ5 cross-links preBCRs for down-regulation and stimulation.</dc:description>
+          <dc:description xml:lang="deu">MicroRNAs regulieren komplexe Genexpressions Programme von Zellen auf post-transkriptionaler Ebene. Ich habe gefunden, dass miR-128a, 221 und 222 in zwei nah ver-wandten Stadien der B-Zellentwicklung in der Maus unterschiedlich exprimiert sind: hoch in Pax5-/- CD19- pro/präB Zellen und niedrig in Pax5+/+ CD19+ präB-I Zellen. Die Ex-pression von miR-221 und 222, aber nicht die von 128a, wird durch Pax5 Expression kon-trolliert. Überexpression von diesen miRNAs in Wildtyp präB-I durch Transduktion mit LTR deletierten SIN-retroviralen Vektoren, kontrolliert durch einen tet-induzierbaren Promotor, ändert weder die CD19 Expression noch die Unfähigkeit sich in T Zellen zu entwickeln. Jedoch können, nach Transplantation in Immun-defiziente Rag1-/- Mäuse, miR-221, aber nicht miR-222 transduzierte und induzierte Zellen nun wie pro/präB Zellen ins Knochenmark wandern. Die transplantierten, miR-221 exprimierenden Zellen verlassen das Knochenmark, wenn die Expression durch die Entfernung vom Doxycyclin im Trink-wasser beendet wird. Zwei Gene, Integrin α4 und Syndecan 4, die bei Zelladhäsion und Zellwanderung eine Rolle spielen, konnten als potentielle direkte oder indirekte Ziele für die miR-221 identifiziert werden. Zusammen mit einer Immunglobulin (Ig) schweren μ Kette bilden die Proteine λ5 und VpreB den Prä-B-Zell Rezeptor. In Zusammenarbeit mit Kazuo Ohnishi und Yuki Yana-gisawa habe ich λ5-/- / VpreB1-/- / VpreB2-/- Abelson Virus transformierte präB Zelllinien etabliert und diese mit λ5 und VpreB Genen in Wildtyp form oder mit Nicht-Ig Teil dele-tierten Genen transduziert. Immer, wenn Prä-B-Zell Rezeptoren mit Nicht-Ig deletierten λ5 Genen transduziert wurden, war die Oberflächenablagerung von Prä-B-Zell Rezeptoren erhöht, während das Entfernen der Nicht-Ig Teile von VpreB die Ablagerung verringerten. Die durch anti-μ-schwere Ketten Antikörper stimulierte Phosphorylierung von Syk, SLP65 oder PLC-γ2 und die Calcium Mobilisierung aus intra-zellulären Speichern war abhängig von der Menge an Prä-B-Zell Rezeptoren auf der Oberfläche. Aus diesen Ergebnissen schliesse ich, dass die VpreB Komponente die Fitness von neu generierten schweren V Domänen von Ig-schweren Ketten für das spätere Paaren mit Ig-leichten Ketten sondiert, und der nicht-Ig Teil den Prä-B-Zell Rezeptor auf der Oberfläche der prä-B Zelle fixiert. Im Unterschied dazu vernetzt der Nicht-Ig Teil der λ5 Komponente den Prä-B-Zell Re-zeptor wodurch dieser internalisiert wird, und die Zellen zur Proliferation stimuliert wer-den.</dc:description>
+          <dc:date>2012-12-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3559</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37693</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37693</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3559/knoll_marko.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

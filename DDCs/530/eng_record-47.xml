@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:47">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:47</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Pattern formation at semiconductor interfaces and surfaces</dc:title>
+          <dc:title xml:lang="deu">Musterbildung an Halbleitergrenz- und Oberflächen</dc:title>
+          <dc:creator>Bose, Sumit</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">In this work the pattern forming processes in three different semiconductor systems will be discussed. The first example is the current transport through a semiconductor heterostructure showing an s-shaped current voltage characteristic. The charge transport through the device is modelled by a hydrodynamic approach and the resulting partial differential equations fall into the class of reaction-diffusion systems. Depending on the structure of the contacts the equations may be globally or diffusively coupled. In the globally coupled equations three different types of stationary and a number of oscillating, spatially inhomogenous patterns can be found. In contrast to that the diffusively coupled equations only show three different types of stationary, spatially inhomogenous patterns and in a small regime of parameter space bistability between homogeneous oscillations and stationary stuctures. The second example is the initial stage of growth of self-organised quantum dots which can be observed in hetero-epitaxy of materials with different lattice constants. The strain which is present in this type of systems plays an important role in the formation of quantum dots. To model the initial stage of growth strain effects are included into a standard kinetic Monte Carlo scheme leading to a suppression of Ostwald ripening and to a cooperative growth mode. This growth mode is necessary for a sharp size distribution of quantum dots. It will be shown under what conditions not only good ordering in size but also regular spatial arangement of the quntum dots can be acchieved. The influence of growth temperature, growth rate, coverage and growth interruption on the surface structure and the quality of the quantum dots will be discussed. The third example is the atomic surface structure of InP(001)-(2$ imes$4). For different proposed structural models of the surface the reflectance anisotropy spectrum is calculated. The necessary electronic eigenvalues and eigenstates are calculated within a tight-binding scheme. By comparison to experimental data and other theoretical approaches it will be possible to find out about the atomic surface structure of InP(001)-(2$ imes$4) one can see in experiments. It will also be discussed which optical transitions are responsible for the structures which can be found in experimental reflectance anisotropy spectra of InP(001)-(2$ imes$4). Finally the patterns found in charge tranport and during the formation of quantum dots will be compared. The influence of the underlying atomic structure, e.g., the results of the third example, on pattern forming processes in the first two examples will be discussed.</dc:description>
+          <dc:date>2001-10-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/47</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-440</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-440</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/47/bose_sumit.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

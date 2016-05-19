@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4427">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4427</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Three Methods of Qualitative Data Analysis Using ATLAS.ti: ‘A posse ad esse’</dc:title>
+          <dc:creator>Rambaree, Komalsingh</dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">This article appraises the possibilities, limitations and challenges in undertaking three different methods of qualitative data analysis using ATLAS.ti. The discussion is based on three different research projects carried out from 2004 to 2012. In the first project, a grounded theory analysis of data collected in 2004 was carried out using an inductive approach to make a theoretical proposition on Mauritian early adolescents’ internet-mediated dating pattern. In the second project, an abductive thematic network analysis was carried out using qualitative data collected in 2006 from Kenya and Zambia on adolescent sexual and reproductive health. In the third project, a deductive critical discourse analysis was carried out using an eco-social work research from Mauritius, undertaken in 2012. This article concludes that ATLAS.ti presents numerous possibilities for researchers to carry out different methods of qualitative data analysis. However, there are certain limitations and challenges that need to be considered by the researchers when undertaking computer assisted qualitative data analysis.</dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4427</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44270</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44270</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4427/14_rambaree_4427.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

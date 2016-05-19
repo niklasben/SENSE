@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4704">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4704</identifier>
+        <datestamp>2014-02-06</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Dynamic content delivery infrastructure deployment using network cloud resources</dc:title>
+          <dc:creator>Frank, Benjamin</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Millions of people value the Internet for the content and the applications it makes available. To cope with the increasing end-user demand for popular and often high volume content, e.g., high-definition video or online social networks, massively distributed Content Delivery Infrastructures (CDIs) have been deployed.&#13;
+However, a highly competitive market requires CDIs to constantly investigate new ways to reduce operational costs and improve delivery performance. Today, CDIs mainly suffer from limited agility in server deployment and are largely unaware of network conditions and precise end-user locations, information that improves the efficiency and performance of content delivery. While newly emerging architectures try to address these challenges, none so far considered collaboration, although ISPs have the information readily at hand.&#13;
+In this thesis, we assess the impact of collaboration on content delivery. We first evaluate the design and operating space of todays content delivery landscape and quantify possible benefits of collaboration by analyzing operational traces from an European Tier-1 ISP. We find that collaboration when assigning end-users to servers highly localizes CDI traffic and improves end-user performance. Moreover, we find significant path diversity which enables new mechanisms for traffic management.&#13;
+We propose two key enablers, namely in-network server allocation and informed user-server assignment, to facilitate CDI-ISP collaboration and present our system design, called NetPaaS (Network Platform as a Service), that realizes them. In- network server allocation offers agile server allocation close to the ISPs end-users leveraging virtualization technology and cloud style resources in the network. In- formed user-server assignment enables ISPs to take network bottlenecks and precise end-user locations into account and to recommend the best possible candidate server for individual end-users to CDIs. Therefore, NetPaaS provides an additional degree of freedom to scale-up or shrink the CDI footprint on demand.&#13;
+To quantify the potential of collaboration with NetPaaS, we perform a first-of-its- kind evaluation based on operational traces from the largest commercial CDI and an European Tier-1 ISP. Our findings reveal that dynamic server allocation based on accurate end-user locations and network conditions enables the CDI to better cope with increasing and highly volatile demand for content and improves the end-users performance. Moreover, recommendations from NetPaaS result in better utilization of existing server infrastructure and enables the ISP to better manage traffic flows inside its network.&#13;
+We conclude, that NetPaaS improves the performance and efficiency of content delivery architectures while potentially reducing the required capital investment and operational costs. Moreover, NetPaaS enables the ISP to achieve traffic engineering goals and therefore offers a true win-win situation to both CDIs and ISPs.</dc:description>
+          <dc:description xml:lang="deu">Millionen von Menschen schätzen die Inhalte und Anwendungen, die das Internet zur Verfügung stellt. Um der steigenden Nachfrage an populären Inhalten wie z.B. High-Definition Video oder Online Social Networks nachzukommen, wurden weit verteilte Content Delivery Infrastructures (CDIs) aufgebaut. Damit CDIs im harten Wettbewerbs bestehen können, suchen sie ständig neue Möglichkeiten um laufende Kosten zu senken und Ihre Leistungsfähigkeit zu steigern. Jedoch machen den CDIs eine geringe Agilität bei der Allokation von Servern zu schaffen. Informationen zur Steigerung von Effizienz und Leistungsfähigkeit wie z.B. aktuelle Netzwerkbedingungen und präzise User-Positionen sind den CDIs unbekannt. Obwohl Internet Service Provider (ISPs) diese Informationen besitzen, lassen auch neuere CDI-Architekturen eine mögliche Kollaboration außer Acht. Diese Dissertation untersucht den Einfluss von Kollaboration auf Content Delivery. Zunächst wird das heutige Design- und Betriebsfeld untersucht. Eine Analyse der operativen Daten eines Europäischen Tier-1 ISPs erörtert mögliche Verbesserungen. Erste Ergebnisse zeigen, dass Kollaboration bei der Zuordnung von Usern zu CDI Servern den Netzwerkverkehr lokal begrenzt und die Geschwindigkeit erhöht. Vorhandene Netzwerkpfade eröffnen neue Möglichkeiten der Verkehrssteuerung. Um die Kollaboration zwischen CDIs und ISPs zu ermöglichen, beschreibt diese Arbeit die beiden Key Enabler In-Network Server Allocation und Informed User-Server Assignment. Sie stellt außerdem ein Systemdesign vor, das diese realisiert: NetPaaS (Network Platform as a Service). In-Network Server Allocation nutzt im ISP verteilte Resourcen und aktuelle Virtualisierungstechnologien um eine agile Serverallokation zu ermöglichen. Informed User-Server Assignment erlaubt es ISPs, mögliche Netzwerkengpässe und präzise User-Positionen einzukalkulieren und so CDIs den besten Server für individuelle Nutzer zu empfehlen. Damit bietet NetPaaS einen zusätzlichen Freiheitsgrad zur dynamischen Skalierung von Serverinfrastrukturen. Um das Kollaborationspotential von NetPaaS aufzuzeigen, wird erstmals eine Studie mit operativen Daten des größten kommerziellen CDI und einem Europäischen Tier-1 ISP durchgeführt. Die Ergebniss zeigen, dass eine auf präzisen User-Positionen und aktuellen Netzwerkbedingungen basierende dynamische Serverallokation es dem CDI ermöglicht, besser mit der stark schwankenden Nachfrage nach Inhalten zurecht zu kommen und die Geschwindigkeit der Nutzer zu verbessern. Darüber hinaus führt die Nutzung von NetPaaS zu einer besseren Auslastung vorhandener Serverinfrastrukturen und ermöglicht ein verbessertes Verkehrsmanagement im Netz des ISP. Diese Ergebnisse lassen den Schluss zu, dass NetPaaS die Leistungsfähigkeit und Effizienz von CDIs stark verbessert und unter Umständen laufende Kosten und Investitionen reduziert. NetPaaS verbessert weiterhin das Verkehrsmanagement des ISP und bietet somit eine echte "win-win" Situation fur CDIs und ISPs.&#13;
+</dc:description>
+          <dc:date>2014-04-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4704</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47040</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47040</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4704/frank_benjamin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

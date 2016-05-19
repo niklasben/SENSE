@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:971">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:971</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">MOCVD-ZnSe-Schichten als Puffer in CuInS2-Solarzellen</dc:title>
+          <dc:creator>Papathanasiou, Olga</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Chalkopyrit-Solarzellen mit CuInS2-Absorber, welcher eine Bandlücke von 1.54 eV aufweist, sind eine viel versprechende Alternative zu Cu(In,Ga)Se2-Solarzellen. Es wurden bisher Wirkungsgrade von 11.4 % erzielt [Klaer '98]. Die höchsten Wirkungsgrade werden mit einer nasschemisch abgeschiedenen CdS-Pufferschicht erreicht. Aufgrund der hohen Ansprüche an die Umweltverträglichkeit der Solarzellen, soll das Schwermetall Kadmium durch ein weniger umweltbedenkliches Material ersetzt werden. In der vorliegenden Arbeit wird erstmalig als Alternative zum CdS-Puffer für die CuInS2-Solarzellen ein ZnSe-Puffer untersucht, welcher mittels metallorganischer chemischer Gasphasendeposition (MOCVD) abgeschieden wird. Der MOCVD-Prozess ist ein trockenes Herstellungsverfahren, welches in einen automatisierten, industriellen Prozess integrierbar ist. Hinzu kommt, dass es auf große Flächen hoch skalierbar und daher von wirtschaftlicher Bedeutung ist. Die Verbindung ZnSe lässt aufgrund der größeren Bandlücke von 2.67 eV eine erhöhte Transparenz im kurzwelligen Bereich des Sonnenspektrums erwarten. Messungen des Bandverlaufs zwischen CdS und CuInS2 ergeben einen negativen Bandversatz, der zu erhöhter Rekombination an der Grenzfläche führt. Mittels photoelektronenspektroskopischer Messungen ist erstmalig die Bestimmung der Valenzband- und Leitungsbanddiskontinuität am ZnSe/CuInS2-Heterokontakt gelungen. Die Valenzbanddiskontinuität beträgt ΔEV= -0.4±0.2 eV, und daraus ergibt sich eine Leitungsbanddiskontinuität von ΔEL= 0.8±0.2 eV. Ein solcher Bandverlauf kann eine Inversion der Grenzfläche und damit eine Unterdrückung der Grenzflächenrekombination bewirken. Durch die Untersuchung des Einflusses der Depositionszeit und Depositionstemperatur auf die Wirkungsgrade der Solarzellen erfolgt eine Optimierung der ZnSe-Puffer. Temperaturabhängige Strom- Spannungsmessungen ergeben, dass die Rekombinationsmechanismen sich zwischen optimierten ZnSe- und CdS-Puffer nicht unterschieden. Dabei zeigt sich, dass CuInS2-Absorber mit optimierten ZnSe-Puffer (250 °C / 6min) unvollständig oder sehr dünn (&lt;2 nm) mit ZnSe bedeckt sind. Höhere Depositionstemperaturen und/oder längere Depositionszeiten führen zur Degradation des CuInS2-Absorbers und zur Verschlechterung der Solarzellenparameter. Es kommt zur Diffusion von Kupfer und Indium in die ZnSe-Pufferschicht. Die In-Diffusion wird anhand von ERDA-Messungen nachgewiesen. Dabei ist diese sehr viel schwächer als die Cu-Diffusion, wie die EDX Messungen am Schichtquerschnitt zeigen. Schwefel wird an ausgeheizten 1 µm dicken ZnSe-Schichten in bis zu 150 nm Tiefe mittels XES am Synchrotron detektiert. Die Interdiffusion beeinflusst die Wirkungsweise der CuInS2-Solarzellen mit ZnSe-Puffer. Die Solarzellen mit optimierten, wenn auch unvollständigen ZnSe-Puffer zeigen im Gegensatz zu CdS-Referenzsolarzellen kein Durchbruchverhalten bei negativer Vorspannung. Sie erreichen 82 % des Wirkungsgrads der Referenzsolarzellen mit CdS-Puffer.</dc:description>
+          <dc:date>2005-05-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/971</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9641</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9641</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/971/papathanasiou_olga.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

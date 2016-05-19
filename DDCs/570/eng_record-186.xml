@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:186">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:186</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Klonierung und funktionelle Charakterisierung eines Octopaminrezeptors aus der Honigbiene (Apis mellifera) : vom Gen zur Lokalisation im Gehirn </dc:title>
+          <dc:title xml:lang="eng">Cloning and functional characterisation of an octopamine receptor from honeybee (Apis mellifera)</dc:title>
+          <dc:creator>Grohmann, Lore</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Mit der vorliegenden Arbeit wird das erste Octopamin-Rezeptorgen (Amoct1) aus Apis mellifera beschrieben. Die rezeptorkodierende cDNA wurde funktionell in Ammenzellen (HEK 293) exprimiert und der Rezeptor auf seine funktionelle Kopplung an intrazelluläre Botenstoff-Wege untersucht. Die Aktivierung des Rezeptors mit spezifischen Liganden bewirkt in HEK 293 Zellen eine konzentrationsabhängige Erhöhung der [Ca2+]i und der [cAMP]i. Die Ca2+-Antwort der Zellen erfolgt bereits bei submikromolaren Konzentrationen Octopamin. Die cAMP-Akkumulation setzt erst bei mikromolaren Octopamin-Konzentrationen ein. Das Expressionsmuster der Amoct1-mRNA im Gehirn der Biene wurde durch in situ-Hybridisierungen aufgeklärt. Amoct1-mRNA wurde in den Somata aller Gehirnbereiche nachgewiesen. Besonders starke Markierungen wurden in den Somata der intrinsischen Pilzkörperzellen gefunden. Die zelluläre Lokalisation des Octopamin-Rezeptors, AmOCT1, wurde mit spezifischen polyklonalen Antikörpern an Gehirnschnitten adulter Arbeiterinnen bestimmt. Das Rezeptorprotein ist in den meisten Gehirnregionen vorhanden. Neben den bereits aus Apis mellifera klonierten Tyramin- und Dopamin-Rezeptoren ist mit der Klonierung und funktionellen Charakterisierung des Octopamin-Rezeptors, AmOCT1, nun eine weitere wichtige Grundlage für die Untersuchung der molekularen Mechanismen von Lern- und Gedächtnisprozessen geschaffen worden.</dc:description>
+          <dc:date>2002-02-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/186</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1815</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1815</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/186/grohmann_lore.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

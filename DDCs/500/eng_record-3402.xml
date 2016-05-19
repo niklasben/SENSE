@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3402">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3402</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Tiefenaufgelöste Röntgenabsorptionsspektroskopie</dc:title>
+          <dc:title xml:lang="eng">Depth-resolved X-ray Absorption Spectroscopy</dc:title>
+          <dc:creator>Lühl, Lars</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Röntgenfeinstrukturanalyse (engl.: X-ray absorption fine structure, XAFS) wird zur chemischen Speziation routinemäßig an Synchrotron-basierten Strahlungsquellen durchgeführt. Im Rahmen dieser Arbeit wird XAFS mit dem konfokalen Aufbau kombiniert, um zerstörungsfrei und tiefensensitiv Informationen zu chemischen Bindungszuständen zu erhalten. Für homogene und geschichtete Proben wird ein Rekonstruktionsalgorithmus vorgestellt, der erfolgreich die auftretenden Selbstabsorptionseffekte korrigiert. Da adäquate Referenzproben kommerziell nicht erhältlich sind, wurden die zur Validierung der Methode benutzten Referenzmaterialien extra für diesen Zweck hergestellt. Bei der Rekonstruktion gibt die Schichtdicke im Verhältnis zur Größe des Untersuchungsvolumens vor, wie die Mess- und Rekonstruktionsstrategie angewandt wird. Schichtdicken, die dicker als das Untersuchungsvolumen sind, können einzeln untersucht werden, indem das gesamte Untersuchungsvolumen bei der Messung in der Schicht platziert wird. Zusätzlich wird die Mess- und Rekonstruktionsstrategie für Schichtdicken gegeben, die zwischen der Hälfte und der gesamten Breite des Untersuchungsvolumens liegen. Die Rekonstruktion von allen Schichtsystemen wird sukzessiv, beginnend bei der obersten Schicht, durchgeführt. Für Schichtsysteme mit konstanten Elementverteilungen, aber unterschiedlichen chemischen Verbindungen in den Schichten wird eine Erweiterung der, mit der 3D Mikro-XRF durchgeführten, Rekonstruktion von Schichtsystemen gegeben. Die Erweiterung basiert auf Tiefenscans bei Anregungsenergien, bei denen sich die Intensitäten der beteiligten XAFS-Spektren unterscheiden, den sogenannten Markerenergien. Zudem wird eine Möglichkeit aufgezeigt, wie ein solches Schichtsystem über einen dreidimensionalen Scan bei einer Markerenergie sichtbar gemacht werden kann. Abschließend wird mit der Untersuchung des Eisenoxidationszustandes von attischen Vasen und deren modernen Repliken ein Anwendungsbeispiel gegeben. Dabei wird sich herausstellen, dass 3D Mikro-XAFS auch zur Überprüfung von konventionellen XAFS-Spektren von oberen Schichten benutzt werden kann.</dc:description>
+          <dc:description xml:lang="eng">X-ray absorption fine structure (XAFS) is carried out for chemical speciation on a routine basis at many synchrotron radiation facilities. As part of this work XAFS is combined with the confocal setup in order to obtain non-destructive and depth-resolved information on chemical states. For homogeneous and layered specimen a reconstruction algorithm is presented which successfully corrects the occuring self-absorption effects. As adequate reference samples are not available commercial, the reference materials used for validation were prepared especially for this purpose. The layer thicknesses in relation to the size of the probing volume gives the application of the measurement and reconstruction procedure. Layer thicknesses, which are thicker than the probing volume can be examined individually by placing the entire probing volume inside the investigated layer during measurement. In addition, the measurement and reconstruction strategy for layer thicknesses, which are between the half and the full width of the probing volume, is given. The reconstruction of all layered systems is carried out successively starting at the top layer. For multilayer systems with constant element distributions but different chemical states in layers, an extension of the quantification of 3D Micro-XRF is given. The extension is based on depth scans at certain excitation energies, where the intensities of the involved XAFS spectra differ, the so-called marker energies. In addition, the possibility of an illustration of such layer systems by 3D-scans at marker energies is shown. Finally, the investigation of the iron oxidation state of Attic vases and their modern replicas is given as an application example. It will be proven, that 3D micro-XAFS can be used to check conventional XAFS spectra of top layers.</dc:description>
+          <dc:date>2012-07-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3402</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36040</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36040</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3402/luehl_lars.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4417">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4417</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Decoding Privacy – An Anthropological Study of the Privacy Concept in Mobile Software Development</dc:title>
+          <dc:creator>Kornberger, Tanja </dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">Despite it's ubiquitous social importance, the concept of privacy is challenged in unprecedented ways by the emergence of mobile technologies. Previous research has shed some light onto user concerns regarding privacy in a mobile context, however, only little attention has been paid to the attitudes and practices of mobile developers. To close this gap, this study presents an empirical account for the role of privacy within mobile software development from the perspective of developers. The study is comprised of two samples of unstructured interviews with developers from the United States of America and Germany; it applies an anthropological method in an engineering context and uses ATLAS.ti to implement a grounded theory approach. ATLAS.ti is used to analyze developer’s conceptualization of privacy as well as country specific aspects of user privacy. The code system generated with ATLAS.ti further represents developer's awareness of privacy relevant conflicts, their assessment of the different stakeholders involved in the user privacy debate and their knowledge of and experience with privacy measures. Based upon this code system a framework is derived that structures crucial factors for the understanding and implementation of privacy strategies in mobile software development.</dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4417</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44174</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44174</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4417/05_kornberger_4417.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

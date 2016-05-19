@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2257">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2257</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Functional Significance of Na,K- and H,K-ATPase β-subunits studied by Voltage-Clamp Fluorometry</dc:title>
+          <dc:title xml:lang="deu">Funktionelle Charakterisierung von Na,K- und H,K-ATPase β-Untereinheiten mit Hilfe der Voltage-Clamp-Fluorometrie</dc:title>
+          <dc:creator>Dürr, Katharina Luise</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Die ubiquitär vorkommende Na,K-ATPase und die gastrische H,K-ATPase gehören zu den wenigen Mitgliedern der P-typ-ATPase-Superfamilie, die neben einer katalytischen α-Untereinheit eine β-Untereinheit für ihre Transportaktivität benötigen. Bisher ist jedoch insbesonders für die H,K-ATPase noch unklar, welche Regionen der β-Untereinheit die Transporteigenschaften der Protonenpumpe beeinflussen. Demzufolge ist derzeit unbekannt, ob für die beiden verwandten ATPasen eventuell konservierte molekulare Mechanismen existieren, die für den modulatorischen Einfluss der β-Untereinheiten auf die jeweilige katalytische α-Untereinheit verantwortlich sind. Zur Klärung dieser Frage wurden in der vorliegenden Arbeit gezielt Mutationen in allen drei topogenen Domänen der Na,K- und H,K-ATPase β-Untereinheiten eingeführt und die daraus resultierenden Konsequenzen für den Ionentransport elektrophysiologisch in Xenopus Oozyten untersucht. Aufgrund der elektroneutralen Transport-Stöchiometrie der H,K-ATPase erforderte die Charakterisierung der H,K-ATPase β-Mutanten außerdem zwei weitere biophysikalische Methoden: die sogenannte Voltage-Clamp-Fluorometrie, die eine Bestimmung der Verteilung des E1P/E2P Konformations-Gleichgewichts an fluoreszenzmarkierten H,K-ATPase-Molekülen erlaubt, sowie die Atom-Absorptions-Spektroskopie zur Quantifizierung der ATPase-vermittelten Rubidium-Aufnahme. Während glykosylierungs-defiziente β-Mutanten sowohl bei Na,K- als auch H,K-ATPase keinerlei Abweichungen vom Wildtyp-Verhalten zeigten, führte die Mutation zweier hochkonservierter Tyrosin-Seitenketten in der β-Transmembranregion bei beiden ATPasen zu einer erheblichen Beeinflussung des E1P/E2P Konformations-Gleichgewichts und den Ionen-Transporteigenschaften. Eine Verkürzung des zytoplasmatisch gelegenen β-N-Terminus’ führte hingegen ausschließlich bei der gastrischen H,K-ATPase zu Veränderungen in der spannungsabhängigen Verteilung über die E1P/E2P-Zustände und einer Beeinträchtigung des Ionentransports.</dc:description>
+          <dc:description xml:lang="eng">The Na,K-ATPase and gastric H,K-ATPase belong to the extensive class of P-type ATPases. These ATPases use ATP hydrolysis for active transport of cations. Gastric H,K-ATPase and the ubiquitous Na,K-ATPase share several similarities. The two ion pumps have closely related catalytic α-subunits which have a high sequence homology (approximately 60% sequence identity) and glycosylated β-subunits with lower sequence identity, but similar basic structural features. For example, the membrane topology is identical: all known Na,K-ATPase β-isoforms and the H,K-ATPase β-subunit are type II membrane proteins consisting of a short cytoplasmic N-terminus, a single transmembrane domain and a large extracellullar C-terminal domain with conserved disulfide bridges and N-glycosylation sites. The β-subunits of P2C-type ATPases are essentially required for proper folding, maturation and plasma membrane targeting of the catalytic α-subunits. In addition, it was shown that the β-subunits influence the transport activity of the ion pumps, but the molecular mechanisms underlying this modulation are notwell understood so far, especially for the less extensively studied gastric proton pump. In order to gain better insight into which parts of the β-subunits are responsible for their influence on ion transport of the respective catalytic α-subunits, mutational changes were introduced in all three topogenic domains of the two β-subunits. Furthermore, since recent structural findings on the two ATPases have revealed potential interaction sites between α- and β-subunit, the functional consequences of mutations in the affected regions (including some in the α-subunit) were analyzed.</dc:description>
+          <dc:date>2009-10-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-c</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2257</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23716</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23716</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2257/original_duerr_katharina.lyx</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2257/duerr_katharina.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

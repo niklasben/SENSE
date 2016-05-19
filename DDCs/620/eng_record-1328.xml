@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1328">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1328</identifier>
+        <datestamp>2014-04-30</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Empfindlichkeitseinstellung und Echohöhenbewertung von Prüfköpfen mit schmalen rechteckigen Schwingern</dc:title>
+          <dc:creator>Vierke, Jens</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der Ultraschallprüfung ist nach DIN-EN 583-2 die AVG-Methode ein bewährtes Verfahren zur reproduzierbaren Echohöhenbewertung von Reflektoren. In der Fachliteratur finden sich wissenschaftliche Arbeiten, welche die Anwendung dieser Methode bei Winkelprüfköpfen mit rechteckförmigen Schwingern bis zu einem Seitenverhältnis von a/b ≥ 0,5 absichern. In dieser Diplomarbeit wird gezeigt, dass auch mit sehr schmalen rechteckigen Schwingern, deren Seitenverhältnisse a/b &lt; 0,5 sind, die Echohöhenbewertung nach AVG vorgenommen werden kann. Die dabei zu beachtenden Bedingungen sind durch Messungen und Berechnungen auf der Basis eines halbanalytischen Modells herausgearbeitet worden.</dc:description>
+          <dc:description xml:lang="eng">In ultrasonic testing, the DGS-method, standardized in EN 583-2, is a common procedure for reproducible evaluation of defect echo amplitudes normally referring to rectangular side ratios of a/b &gt; 0.5, in respect to rectangular transducers for angle beam probes. This work provides measurements and computations based on a semi analytical model, which shows under which conditions and limits the DGS-method is still applicable for transducers with a rectangle side ratio of a/b &lt; 0.5.</dc:description>
+          <dc:date>2006-08-24</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1328</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13573</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13573</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1328/vierke_jens.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

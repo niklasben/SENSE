@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1118">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1118</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Code Governance – «Code» as Regulation in a Self-governed Internet Application from a Computer Science Perspective</dc:title>
+          <dc:title xml:lang="deu">Code Governance – «Code» als Regulierung in einer selbst-regulierten Internetanwendung aus informatischer Perspektive</dc:title>
+          <dc:creator>Ishii, Kei</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">&lt;p&gt;The question of how to regulate the Internet still constitutes a grand challenge for society at large. In the context of this debate, the term "governance" has gained acceptance: Instead of presupposing the dominance of law, regulation is understood as a mix of different actors and groups who employ different regulation modalities, both institutionalized as informal ones. For the latter, a regulation model has been suggested which distinguishes between four modalities: Market, law, (social) norms, and «code», the software and hardware.&lt;/p&gt; &lt;p&gt;This work examines the regulation modality of «code». Starting with the assumption that «code» is similar to, but distinct from the legal system, I have chosen an self-organized, self-governed Internet application—the Internet Relay Chat (IRC)—in order to trace governance-relevant structures and dynamics in the source code, and its interdependencies with the social settings. Specifically, I show&lt;/p&gt; &lt;ul&gt; &lt;li&gt;how design and implementation choices are not based solely on technical criteria, but always include important governance-related components;&lt;/li&gt; &lt;li&gt;that recurring «code governance» patterns in implementation (source code) and functionality (commands etc.) can be observed;&lt;/li&gt; &lt;li&gt;that the governance characteristics can be only fully understood when the implementational details are analyzed, whereas standards and protocols can only offer an abstracted framework, whose values and goals are often evaded by the actual implementation; and&lt;/li&gt; &lt;li&gt;that the shape of the source code and the technical environment such as elements of the programming language exhibit distinct «code» governance properties.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The tentative results of this work show the necessity to further examine the notion of «code» governance, but also promise, if systematically incorporated into the technical design and implementation processes, to help create socially and societally more acceptable systems. It also opens the path for substantial contributions of the computer science discipline to the challenge of shaping the future of the Internet and its governance.&lt;/p&gt;</dc:description>
+          <dc:description xml:lang="deu">&lt;p&gt;Die Frage nach der Regulierung des Internets stellt auch heute noch eine große gesellschaftliche Herausforderung dar. In diesem Zusammenhang wurde mit dem Begriff "Governance" der alleinige Regulierungsanspruch des Rechts relativiert zugunsten einer Anerkennung verschiedener Akteure und unterschiedlicher – sowohl institutionalisierter wie informeller – Regulierungsarten. Für letztere hat sich ein Modell etabliert, nach welchem ein Geschehen von vier unterschiedlichen Modalitäten reguliert wird: Markt, Recht, soziale Normen sowie der «Code», die Software und Hardware.&lt;/p&gt; &lt;p&gt;Diese Arbeit untersucht die Regulierungsmodalität «Code». Ausgehend von der These, daß «Code» eine Regulierungsmodalität vergleichbar mit dem System des Rechts darstellt, aber sich von diesem durch eigenständige Regelmechanismen unterscheidet, habe ich eine selbst-organisierende, "self-governed" Internet-Anwendung, das Internet Relay Chat (IRC) gewählt, um in ihrem Quellcode governance-relevante Strukturen und Abläufe zu finden, die mit dem sozialen Setting des IRC interagieren. Es zeigt sich dabei, daß&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Design- und Implementationsentscheidungen nicht nur nach rein technischen Kriterien erfolgen, sondern auch stets governance-relevant sind;&lt;/li&gt; &lt;li&gt;sich idealtypische Governance-Muster in Implementation wie auch Funktionalität erkennen laßen;&lt;/li&gt; &lt;li&gt;sich die endgültigen Governance-Eigenschaften nur in der technischen Umsetzung, in der Implementation festlegen laßen, wohingegen Standards und Protokolle nur einen Rahmen bilden, deßen Werte und Ziele umlaufen werden können;&lt;/li&gt; &lt;li&gt;Quellcodestrukturen wie auch Elemente von Programmiersprachen spezifische Governance-Eigenschaften besitzen.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Neben der Notwendigkeit einer weiteren empirischen und theoretischen Fundierung dieses Ansatzes zeigt die Arbeit, daß sich für die Informatik neue Wege eröffnen, sich in die Governance-Diskußion um das Internet aktiv einzubringen: nicht nur durch die Übertragung exogener Vorschriften in Technik, sondern auch durch aktive Gestaltung der «Code»-Regeln aus ihrem Fach heraus.&lt;/p&gt;</dc:description>
+          <dc:date>2005-10-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1118</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11043</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11043</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1118/ishii_kei.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

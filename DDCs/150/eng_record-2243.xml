@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2243">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2243</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Biografische Aspekte der Entwicklung eines professionalisierten Sexualverhaltens</dc:title>
+          <dc:creator>Dierich, Susanne</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="deu">In einer Untersuchung an der TU Berlin wurde eine spezielle Ausübungsform der Prostitution näher untersucht. Es handelte sich dabei um Dominas bzw. Sklavias, die ein spezielles Dienstleistungsangebot für sadomasochistisch veranlagte Männer bereit halten. Die Untersuchung erfolgte unter dem Gesichtspunkt des Autogenesekonzepts von Jüttemann (1999), Danach strebt der Mensch im wesentlichen nach selbstbestimmten Verhalten. Anhand acht biografischer Interviews wurde ein Vergleich vorgenommen zw. Dominas, die in der Prostitutionssituation sehr selbstbestimmt auftreten und Sklavias, die in dieser Situation extremer Fremdbestimmung unterliegen. Die Forschungsfrage bezog sich darauf, wie sich Selbst- und Fremdbestimmung durch die anderen Lebensbereiche der Frauen fortführen. </dc:description>
+          <dc:date>2009-09-29</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2243</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23555</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23555</dc:identifier>
+          <dc:identifier>978-3-7983-2170-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2243/2170_Dierich_Gesamt.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

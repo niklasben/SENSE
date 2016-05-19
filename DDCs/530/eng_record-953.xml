@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:953">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:953</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Anticrossing-Spektroskopie schnell bewegter Heliumatome nach Elektroneneinfang in 10 bis 50 keV HE+-He-Stößen</dc:title>
+          <dc:title xml:lang="eng">anticrossing spektroskopie of fast helium atoms after electron capture in 10 to 50 keV He+-He collisions</dc:title>
+          <dc:creator>Ludwig, Thorsten</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Es wurde das symmetrische Stoßsystem (He+, He) im Energiebereich von 10 bis 50 keV untersucht. Insbesondere wurde die Stoßanregung nach Elektroneneinfang studiert. Mit einem elektrischen Feld im Stoßraum wurden die Ladungsverteilung von Projektil und Target nach dem Stoß gemessen. Als Ergebnis stellte sich heraus, dass die Atome nach dem Stoß kräftig elektrisch polarisiert sind und dass die Projektile eine zu den Targetatomen entgegengesetzte Ladungsverteilung haben. Der Ladungsschwerpunkt des angeregten Elektrons liegt bei den Projektilen in Richtung der Targetatome, bei den Targetatomen in Richtung der Projektilatome. Zur Bestimmung der Ladungsverteilung wurde das Fluoreszenzlicht der 4D-2P Linie des HI-Triplettsystems (447 nm) in Abhängigkeit von der elektrischen Feldstärke aufgenommen. In dieser Arbeit wird die Anticrossing-Technik und die zur Durchführung benötigten Geräte genau erläutert. Die gemessenen Spektren enthalten deutliche Resonanzen an den Singulett-Triplett-Anticrossings im Bereich von 12-30 kV/cm. Der Vergleich der Spektren mit zuvor genau analysierten Targetspektren legt nahe das auch hier parabolische Zustände mit größtmöglichem Dipolmoment,aber mit entgegengesetztem Vorzeichen, besetzt werden. Im Vergleich der Spektren von schnellen, transferangeregten Projektilen und thermischen Targetatomen treten einige Unterschiede zu Tage, die mit Interferenzen von geraden und ungeraden Zuständen in Verbindung gebracht werden.</dc:description>
+          <dc:description xml:lang="eng">The symmetric (He+, He) collision system is investigated in the 10-50 keV range. In particular, we studied the formation of excited helium atoms by electron capture. By applying electric fileds to the collision volume, the charge distribution of helium atoms immediatly after the collision in a transverse electric filed was measured. The results show that the projectile and target atoms are highly polarised after the collision. The centre of the charge distribution for the projectile atoms after the collision was found to have shifted in the direction of the receding target ion. The projectile atoms have electric dipole moments opposite to the excited target atoms. We measured the intensity of the fluorescence light of the triplet 4D-2P HeI line (447nm) as a function of the strength of the external electric field. The intensity function contain sharp peaks at singlet triplet anticrossings in the region of 12 to 30 kV/cm. In this publication the anticrossing technique and all necessary equipment is discussed in detail. Comparing the anticrossing spectra of the projectiles with target spectra that were analysed in detail previously, suggests that also for the projectiles parabolic states with the largest dipole moment, jet opposite, are populated highly selectively for these projectile velocities. Some difference in projectile and target spectra were found. Interferences of gerade and ungerade states are discussed as a mechanism for these differences between direct and transfer excitation.</dc:description>
+          <dc:date>2005-03-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/953</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9466</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9466</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/953/ludwig_thorsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

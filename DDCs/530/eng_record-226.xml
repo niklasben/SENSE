@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:226">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:226</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Materialbearbeitung schwachabsorbierender Polymere mit NIR-Femtosekunden-Laserpulsen</dc:title>
+          <dc:creator>Baudach, Steffen</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die Bearbeitung von unterschiedlichsten Materialien nimmt seit langem einen wichtigen Platz im industriellen Bereich ein. Dabei ist besonders das berührungslose Arbeiten ohne mechanischen Werkzeugverschleiß hervorzuheben neben einer sehr hohen räumlichen Auflösung der erreichbaren Strukturen. Wurden bisher im technologischen Bereich im wesentlichen Nanosekunden-Laser ver­wendet, so steht nun die Femtosekunden-Technologie auch hier kurz vor ihrem breitgefächerten Einsatz. Polymere stellen eine wichtige Materialklasse dar, die in vielen Bereichen  von der Medizin­technik über die optische Industrie bis hin zu Gebäudekonstruktionen  Anwendung findet. In be­stimmten Fällen ist eine Modifikation oder auch Strukturierung der Polymere erforderlich. Da die Verwendung von ns-Lasern eine hohe Absorption bei der verwendeten Wellenlänge voraussetzt, um eine definierte und reproduzierbare Bearbeitung hoher Auflösung zu erreichen, so ist sein Ein­satz auf wenige Polymere beschränkt bzw. muß das Polymer durch Additive modifiziert werden, um eine hohe Absorption zu erhalten. Die fs-Lasermaterialbearbeitung stellt hier eine Alternative dar. Besonders bei thermische empfindlichen (z.B. in der Biosensorik) oder mechanisch widerstandsfä­higen Materialien birgt der Femtosekunden-Laser ein großes Potential. Es wird hier an unterschied­lichen Polymeren (PI, PET, PC, PMMA) gezeigt, daß mit ultrakurzen Pulsen selbst im nahen In­fraroten bei fast vollständiger Transparenz des Materials eine reproduzierbare Bearbeitung aufgrund von nichtlinearen Prozessen erfolgen kann. Bei der Bestrahlung mit fs-Laserpulsen werden bei kleinen Laserfluenzen zunächst Modifika­tionen beobachtet wie z.B. Aufwölbungen, Verfärbungen und periodische Strukturbildung an der Oberfläche (Ripples). Deutlicher makroskopischer Materialabtrag tritt bei höheren Fluenzen auf, wobei auch in diesen Fällen Ripples-Strukturen im PI auftreten. Wesentliches Merkmal sämtlicher irreversibler Materialmodifikationen ist das Auftreten einer Fluenzschwelle, unterhalb der mit den verwendeten Methoden keine Veränderungen nachweisbar sind. Die Schwelle ist abhängig von der Zahl der pro Loch applizierten Laserpulse und läßt sich mit einem empirischen Akkumulationsmo­dell beschreiben. Für die Schwellbestimmung wurde eine mathematische Auswertung der erzielten Lochdurchmesser unter Annahme eines räumlich gaußförmigen Strahlprofils verwendet. Das ge­messene Strahlprofil im Fokus wurde durch ein berechnetes Profil, basierend auf einer numerischen Lösung des Fresnel-Kirchhoff-Integrals, verifiziert, was eine hohe Genauigkeit der Fluenzangaben gewährleistet. Mit Hilfe einer XPS-Analyse der bestrahlten und unbestrahlten Polymere wurden Hinweise auf die Degenerationsprozesse in den Polymerstrukturen aufgezeigt, die zur Ablation beitragen kön­nen. Einschränkungen müssen allerdings im Hinblick auf Verunreinigungen der kommerziellen Polymere gemacht werden. Wesentliche Erkenntnis ist hier die Bildung gasförmiger Produkte wie CO und CO2 über den Abbau der Ester-Gruppe. Im Fall des PI findet die Degeneration über die Imid-Gruppe statt unter Bildung einer neuen Stickstoffspezies im Material.</dc:description>
+          <dc:date>2001-03-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/226</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2215</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2215</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/226/baudach_steffen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

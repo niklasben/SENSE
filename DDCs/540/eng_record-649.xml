@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:649">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:649</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Präparation von Cu-Zn-Hydroxykarbonaten als Vorläufersubstanzen von Kupferkatalysatoren</dc:title>
+          <dc:title xml:lang="eng">Investigations on Cu-Zn-Hydroxycarbonates as Precursors of Copper Catalysts</dc:title>
+          <dc:creator>Bems, Bettina</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Aktive Kupferkatalysatoren für die Methanolsynthese werden in der Industrie über eine Ko-Fällung hergestellt. Obwohl diese Methode schon lange etabliert ist, gibt es noch unterschiedliche Aussagen über den entscheidenden Präparationsschritt bzw. über die notwendige Phase in den Hydroxykarbonaten, welche zu dem aktivsten Katalysator in der Methanolsynthese führen. Ziel der vorliegenden Arbeit ist, die Präparationsschritte systematisch zu untersuchen, um die ablaufenden Prozesse während der Synthese der Katalysatorvorläufer zu verstehen. Es wird über die Einflüsse der Präparationsparameter während der Synthese von Cu-Zn-Hydroxykarbonaten berichtet. Weiter werden die Einflüsse des Kupfer-Zink-Verhältnisses, der Fällungen bei unterschiedlichen pH-Verläufen, sowie unterschiedliche Alterungsdauern des Präzipitats in der Mutterlauge und die Einflüsse der Waschung auf das entstandene Produkt untersucht. Abschließend werden Voruntersuchungen zur Trocknung und Kalzinierung der entstandenen Hydroxykarbonate durchgeführt. Um die Auswirkungen des pH-Wertes der Fällungslösung auf die ausgefallenen Produkte zu untersuchen, werden exemplarisch Titrationen mit steigenden und fallenden pH-Wert bei zwei verschiedenen Geschwindigkeiten am Kupfer-Karbonat-System durchgeführt. Die Ergebnisse der Titrationsexperimente und die Ergebnisse aus den Untersuchungen zur Alterung führen zu einem Modell für die Präkursorbildung in Lösung während des Fäll- und Alterungsprozesses. Für die Fällung werden die auch technisch angewandten Methoden der constant pH (unter Beibehaltung eines pH-Wertes von 7 während der Fällung) und decreasing pH (Vorlage der alkalischen Sodalösung und Zugabe der Kupfernitratlösung) Methode eingesetzt. Das Kupfer-Zink-Verhältnis wird in 10 mol% Schritten von 0% bis 100% Kupfer variiert. Der Aufbau einer computergesteuerten Laborapparatur zur Steuerung eines konstanten pH-Wertes während der Fällung, zur simultanen Aufzeichnung des pH-Wertes, der Temperatur und der Leitfähigkeit während der Fällung wird beschrieben. Zur Charakterisierung der Festkörper werden Röntgendiffraktometrie, Infrarot-Spektroskopie und thermoanalytische Methoden eingesetzt. Mit der Thermoanalyse kann eine Hochtemperatur-Karbonat Spezies detektiert werden, welche sich bei Temperaturen oberhalb von 300°C zersetzt. Diese hohe Zersetzungstemperatur führt zu einem Restkarbonatgehalt in den kalzinierten Kupfer-Zink-Oxiden und beeinflusst damit die Mikrostruktur der Katalysatoren. Abschließend wird der Zusammenhang zwischen Präparation der Präkursoren und der Aktivität des Katalysators in der Methanolsynthese untersucht. Hierbei werden zwei metallische Kupferspezies identifiziert, die für verschiedene Aktivitäten in der Methanolsynthese verantwortlich sind.</dc:description>
+          <dc:date>2003-12-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/649</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6433</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6433</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/649/bems_bettina.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

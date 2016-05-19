@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:336">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:336</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zum flexiblen Greifen in der Demontage</dc:title>
+          <dc:title xml:lang="eng">Contribution to flexible gripping in disassembly</dc:title>
+          <dc:creator>Stenzel, Alexander</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Demontage ermöglicht das Schließen von Kreisläufen, wodurch Ressourcen länger in Produkt- und Materialkreisläufen verbleiben. Beim Einsatz handelsüblicher Werkzeuge ist die Durchführung von Demontageprozessen aufgrund der vielfältigen Geometrien und Werkstoffe der Produkte sowie der nutzungsbedingten Veränderungen in der Regel zeit- und kostenintensiv. Ständige Werkzeugwechsel, das Bereitstellen zahlreicher Werkzeu-ge sowie wiederholte Erkennungs- und Entscheidungsprozesse haben hohe Personal- und Werkzeugkosten zur Folge. Zur Reduzierung der Kosten werden flexible und robuste Werkzeuge benötigt, die weitgehend unabhängig von Geometrie und Werkstoff Kräfte und Momente zum Greifen und Spannen sowie zum Lösen von Verbindungen einleiten. Der vorliegende Forschungsbericht basiert auf dem Ansatz, neue Wirkflächen für die Kraftübertragung zu erzeugen und zum flexiblen Greifen in der Demontage zu nutzen. Ausgehend von bekannten Fertigungsverfahren wird anhand der Randbedingungen der Demontage das Gewindefurchen zum Erzeugen der Wirkflächen ausgewählt. Dieses Verfahren ist weitgehend unabhängig vom Werkstoff und der Geometrie des Objektes und kann Kräfte und Momente in sechs Freiheitsgraden übertragen. Zur Auslegung der Teilsysteme des Greifers, zur Bestimmung der Reaktionskräfte aber auch zur Prozeßüberwachung werden die übertragbare Normalkraft sowie die Höhe des Eindringmomentes eines gewindefurchenden Endeffektors benötigt. Die Berechnung des Eindringmoments erfolgt mit Hilfe des oberen Schrankenverfahrens, einem analytischen Modell der Plastomechanik. Zur Berechnung der übertragbaren Normalkräfte wird ein vorhandenes Modell zur Berechnung der Abscherkräfte eines Kunststoffgewindes modifiziert. Durch die softwaretechnische Implementierung der Modelle können Ein-dringmoment und übertragbare Normalkräfte schnell und einfach bestimmt werden. Die Ergebnisse der Modellierung werden an einem Versuchsstand zur Messung des Eindringmoments in Abhängigkeit der Eindringtiefe sowie an einer Zug-Druckmaschine mit verschiedenen Kunststoffen und Endeffektoren bestätigt. Die konstruktiven Anforderungen an die Teilsysteme des Greifers werden allgemein definiert und konkret in zwei flexiblen Greifern zum Handhaben von Kunststoffkompo-nenten umgesetzt. Die Auslegung der Teilsysteme erfolgt mit Hilfe der entwickelten Modelle. Die Funktionsfähigkeit der Greifer wird in einem hybriden Demontagesystem nachgewiesen.</dc:description>
+          <dc:date>2001-06-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/336</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3312</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3312</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/336/stenzel_alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:436">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:436</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hochleistungs-Quantenpunkt-Halbleiterlaser</dc:title>
+          <dc:title xml:lang="eng">High power quantum-dot semiconductor lasers</dc:title>
+          <dc:creator>Ribbat, Christian</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurde erstmalig das Potential von selbstorganisierten Quantenpunkten bei 940 nm, 1100 - 1160 nm und 1,3 µm als aktives Medim für Hochleistungsdiodenlaser untersucht. In Breitstreifenlasern bei 1160 nm konnte hierbei im Pulsbetrieb optische Ausgangsleistungen bis 4 W, interne differentielle Quanteneffizienzen nahe 100 % und niedrige interne optische Verluste von 1 - 2 cm-1 demonstriert werden. Die Vorhersage niedriger Schwellenstromdichten in Quantenpunktlasern wurde mit Transparenzstromdichten &lt; 20 A/cm2, d.h. &lt; 7 A/cm2 pro Quantenpunktschicht, bestätigt. Ein wesentlicher Bestandteil dieser Arbeit lag in der Weiterentwicklung der vorhandenen Prozesstechnologie hin zu wellenleiteroptimierten Schmalstreifenlasern. Neben einer modellierung der Wellenleiterführung wurde eine Laserfacetten-Beschichtung und ein p-side down Auflötprozess der Quantenpunktlaser auf Diamant-Wärmespreizer mittels eines Gold-Zinn Hartlotes entwickelt. Im Dauerstrichbetrieb konnten optische Ausgangsleistungen an der Frontfacette von 250 mW eines 6 µm breiten Quantenpunkt-Schmalstreifenlasers demonstriert werden. Aufgrund effektiver Wärmeabfuhr betrug die Erwärmung der aktiven Zone &lt; 10° C. Für 10 µm breite Schmalstreifenlaser konnten laterale Grundmodenemission bis 200 mW gezeigt werden (M2 &lt; 2). Für breitere Streifenbreiten Filamentieren die lateralen Moden in unterschiedliche longitudinale Modengruppen. In einem Vergleich von identischen Quantenpunkt- und Quantenfilmlasern konnte eine intrinsische Strahlfilamentationsunterdrückung der Quantenpunktlaser gezeigt werden. Während für einen 6 µm breiten Quantenfilm-Schmalstreifenlaser die Strahlqualität sich linear mit der optischen Ausgangsleistung verschlechtert (M2 = 2,6 bei 5 mW, M2 = 6,1 bei 60 mW) zeigen vergleichbare Quantenpunktlaser eine vollständige Filamentations-Unterdrückung (M2 &lt; 2 bis 60 mW). Für konstante Ausgangsleistung verschlechtert sich die Strahlqualität In Quantenfilmlasern linear mit der Laser-Streifenbreite, d.h. M2 = 2,6 für 3 µm und M2 = 4,7 für 10 µm Streifenbreite. Quantenpunktlasern zeigen laterale grundmodige Emission (M2 &lt; 2) bis zu einer kritischen Streifenbreite von 7 µm (bei 1,1 µm) bzw. 9 µm (bei 1,3 µm). Da das Einsetzten von Filamentation in gewinngeführten Lasern entscheidend vom Linienverbreiterungs-Faktor (alpha-Faktor) abhängt, konnte aus den Ergebnissen der Strahlqualität der alpha-Faktor in 1,3 µm Quantenpunktlasern unter Hochleistungsbedinungen zu 3,2 ± 0,2 experimentell bestimmt werden. Insgesamt konnten im Vergleich für die Quantenpunktlaser ähnlich gute bis teilweise deutlich bessere Werte als dem derzeitigen Stand der Technik entsprechenden Quantenfilmlasern demonstriert werden. Mit den Untersuchungen und Modellierungen zu der Dynamik des longitudinalen Modenspektrums und der Strahlfilamentation in Quantenpunkt- und Quantenfilmlasern konnte über die rein technische Optimierung der Lasercharakteristika grundlegend neue Effkete in Quantenpunktlasern beobachtet und erklärt werden.</dc:description>
+          <dc:date>2003-02-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/436</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4316</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4316</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/436/ribbat_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

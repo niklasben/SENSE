@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4087">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4087</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR VIII: Full-Width Test Procedure: Updated Protocol</dc:title>
+          <dc:creator>Adolph, Thorsten</dc:creator>
+          <dc:creator>Wisch, Marcus</dc:creator>
+          <dc:creator>Edwards, Mervyn</dc:creator>
+          <dc:creator>Thomson, Robert</dc:creator>
+          <dc:creator>Stein, Mathias</dc:creator>
+          <dc:creator>Puppini, Roberto </dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">For the assessment of vehicle safety in frontal collisions compatibility (which consists of self and partner protection) between opponents is crucial. Although compatibility has been analysed worldwide for over 10 years, no final assessment approach has been defined to date. Taking into account the European Enhanced Vehicle safety Committee (EEVC) compatibility and the final report to the steering committee on frontal impact [Faerber 2007] and the FP5 VC-COMPAT[Edwards 2007] project activities, two test approaches were identified as the most promising candidates for the assessment of compatibility. Both are composed of an off-set and a full overlap test procedure. In addition another procedure (a test with a moving deformable barrier) is getting more attention in current research programmes. The overall objective of the FIMCAR project is to complete the development of the candidate test procedures and propose a set of test procedures suitable for regulatory application to assess and control a vehicle’s frontal impact and compatibility crash safety. In addition an associated cost benefit analysis will be performed. In the FIMCAR Deliverable D 3.1 [Adolph 2013] the development and assessment of criteria and associated performance limits for the full width test procedure were reported. In this Deliverable D3.2 analyses of the test data (full width tests, car-to-car tests and component tests), further development and validation of the full width assessment protocol and development of the load cell and load cell wall specification are reported. The FIMCAR full-width assessment procedure consists of a 50 km/h test against the Full Width Deformable Barrier (FWDB). The  Load Cell Wall behind the deformable element assesses whether or not important Energy Absorbing Structures are within the Common Interaction Zone as defined based on the US part 581 zone. The metric evaluates the row forces and requires that the forces directly above and below the centre line of the Common Interaction Zone exceed a minimum threshold. Analysis of the load spreading showed that metrics that rely on sum forces of rows and columns are within acceptable tolerances. Furthermore it was concluded  that the Repeatability and Reproducibility of the FWDB test is acceptable. The FWDB test was shown to be capable to detect lower load paths that are beneficial in car-to-car impacts.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4087</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40873</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40873</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4087/FIMCAR_VIII_full_width_updated.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

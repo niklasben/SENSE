@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1541">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1541</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Constraint Integer Programming</dc:title>
+          <dc:title xml:lang="deu">Constraint Integer Programming</dc:title>
+          <dc:creator>Achterberg, Tobias</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This thesis introduces the novel paradigm of "constraint integer programming" (CIP), which integrates constraint programming (CP) and mixed integer programming (MIP) modeling and solving techniques. It is supplemented by the software SCIP, which is a solver and framework for constraint integer programming that also features SAT solving techniques. SCIP is freely available in source code for academic and non-commercial purposes. Our constraint integer programming approach is a generalization of MIP that allows for the inclusion of arbitrary constraints, as long as they turn into linear constraints on the continuous variables after all integer variables have been fixed. The constraints, may they be linear or more complex, are treated by any combination of CP and MIP techniques: the propagation of the domains by constraint specific algorithms, the generation of a linear relaxation and its solving by LP methods, and the strengthening of the LP by cutting plane separation. The current version of SCIP comes with all of the necessary components to solve mixed integer programs. In the thesis, we cover most of these ingredients and present extensive computational results to compare different variants for the individual building blocks of a MIP solver. We focus on the algorithms and their impact on the overall performance of the solver. In addition to mixed integer programming, the thesis deals with chip design verification, which is an important topic of electronic design automation. Chip manufacturers have to make sure that the logic design of a circuit conforms to the specification of the chip. Otherwise, the chip would show an erroneous behavior that may cause failures in the device where it is employed. An important subproblem of chip design verification is the property checking problem, which is to verify whether a circuit satisfies a specified property. We show how this problem can be modeled as constraint integer program and provide a number of problem-specific algorithms that exploit the structure of the individual constraints and the circuit as a whole. Another set of extensive computational benchmarks compares our CIP approach to the current state-of-the-art SAT methodology and documents the success of our method.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit stellt einen integrierten Ansatz aus "Constraint Programming" (CP) und Gemischt-Ganzzahliger Programmierung ("Mixed Integer Programming", MIP) vor, den wir "Constraint Integer Programming" (CIP) nennen. Sowohl Modellierungs- als auch Lösungstechniken beider Felder fließen in den neuen integrierten Ansatz ein, um die unterschiedlichen Stärken der beiden Gebiete zu kombinieren. Als weiteren Beitrag stellen wir der wissenschaftlichen Gemeinschaft die Software SCIP zur Verfügung, die ein Framework für Constraint Integer Programming darstellt und zusätzlich Techniken des SAT-Lösens beinhaltet. SCIP ist im Source Code für akademische und nicht-kommerzielle Zwecke frei erhältlich. Unser Ansatz des Constraint Integer Programming ist eine Verallgemeinerung von MIP, die zusätzlich die Verwendung beliebiger Constraints erlaubt, solange sich diese durch lineare Bedingungen ausdrücken lassen falls alle ganzzahligen Variablen auf feste Werte eingestellt sind. Die Constraints werden von einer beliebigen Kombination aus CP- und MIP-Techniken behandelt. Dies beinhaltet insbesondere die "Domain Propagation", die Relaxierung der Constraints durch lineare Ungleichungen, sowie die Verstärkung der Relaxierung durch dynamisch generierte Schnittebenen. Die derzeitige Version von SCIP enthält alle Komponenten, die für das effiziente Lösen von Gemischt-Ganzzahligen Programmen benötigt werden. Die vorliegende Arbeit liefert eine ausführliche Beschreibung dieser Komponenten und bewertet verschiedene Varianten in Hinblick auf ihren Einfluß auf das Gesamt-Lösungsverhalten anhand von aufwendigen praktischen Experimenten. Dabei wird besonders auf die algorithmischen Aspekte eingegangen. Ein weiterer Hauptteil der Arbeit befasst sich mit der Chip-Design-Verifikation, die ein wichtiges Thema innerhalb des Fachgebiets der "Electronic Design Automation" darstellt. Chip-Hersteller müssen sicherstellen, dass der logische Entwurf einer Schaltung der gegebenen Spezifikation entspricht. Andernfalls würde der Chip fehlerhaftes Verhalten aufweisen, dass zu Fehlfunktionen innerhalb des Gerätes führen kann, in dem der Chip verwendet wird. Ein wichtiges Teilproblem in diesem Feld ist das Eigenschafts-Verifikations-Problem, bei dem geprüft wird, ob der gegebene Schaltkreisentwurf eine gewünschte Eigenschaft aufweist. Wir zeigen, wie dieses Problem als Constraint Integer Program modelliert werden kann und geben eine Reihe von problemspezifischen Algorithmen an, die die Struktur der einzelnen Constraints und der Gesamtschaltung ausnutzen. Testrechnungen auf Industrie-Beispielen vergleichen unseren Ansatz mit den bisher verwendeten SAT-Techniken und belegen den Erfolg unserer Methode.</dc:description>
+          <dc:date>2007-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1541</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16117</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16117</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1541/original_achterberg_tobias.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1541/achterberg_tobias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

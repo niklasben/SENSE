@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3038">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3038</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Kriegs-End-Moränen : zum Denkmalwert der Trümmerberge in Berlin</dc:title>
+          <dc:creator>Forßbohm, Ulrike</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Berlin liegt in einer eiszeitlichen Landschaft. Die höchste Erhebung, der Teufelsberg und viele andere ‚Berge‘ der Stadt wurden allerdings nicht von Gletschern geformt, sondern aus Kriegstrümmern aufgehäuft – Kriegs-End-Moränen sozusagen, die die Grünstrukturen der Stadt deutlich prägen. Ihre Künstlichkeit fällt nicht immer ins Auge, denn das landschaftsarchitektonische Konzept für ihre Anlage hatte zum Ziel, die neuen Hügel an die natürliche Topographie anzupassen und diese somit gewissermaßen zu überhöhen. In den ‚natürlich-künstlichen‘ Bergen liegt das historische Baumaterial des Vorkriegs-Berlins. Was wissen wir heute eigentlich noch über die Trümmer, die sich unter den vielen Hügeln und Anhöhen befinden? Besitzen diese Trümmerhaufen als Symbole einer Zeit des Vergessens und des Neuanfangs eventuell sogar einen Denkmalwert? Im Mai 1945 glich Berlin einem Trümmerfeld. Mit Hilfe von Trümmeraufbereitungsanlagen wurden etwa zwei Drittel des Trümmerschuttes zu Baumaterial verarbeitet und daraufhin wiederverwendet. Was nicht wieder- oder weiterverarbeitet werden konnte, musste endgelagert werden. Durch Zuschüttungen von Schützengräben und Bombenkratern und die flächenhaften Aufschüttungen auf Plätzen und in Gartenanlagen konnte jedoch nur ein kleiner Teil des Schuttes untergebracht werden, für den Großteil waren größere Schüttungen– sogenannte Trümmerberge – notwendig. Dabei ergaben sich diverse Probleme. In der vorliegenden Arbeit wird das Freiraumkonzept, das zur Anlegung der Trümmerberge in Berlin führte, vorgestellt und die Frage, in wie weit die einzelnen Planungen für die Anlagen umgesetzt wurden, heute noch sichtbar sind und welche grünplanerische Bedeutung ihnen beigemessen wird, beantwortet. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen</dc:description>
+          <dc:date>2011-09-02</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3038</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32054</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32054</dc:identifier>
+          <dc:identifier>978-3-7983-2343-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3038/Graue_Reihe_Heft_34_TrAmmerberge.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

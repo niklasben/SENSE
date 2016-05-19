@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4027">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4027</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:670</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">11th Global Conference on Sustainable Manufacturing : Proceedings</dc:title>
+          <dc:creator>Seliger, Günther</dc:creator>
+          <dc:subject>ddc:670</dc:subject>
+          <dc:description xml:lang="eng">Sustainable manufacturing has emerged as the leading paradigm to address the dilemma of maintaining a progressive economic growth based on production of goods and services without continuing to damage our environment or future economic and social structures. While manufacturing is a major driver of civilized development that provides high quality living standards, its impact can be harmful if not managed and minimized, e.g. it may cause damage such as depletion of natural resources, global warming and toxic wastes.&#13;
+&#13;
+On 23rd-25th September 2013, the Global Conference on Sustainable Manufacturing (GCSM, www.gcsm.eu) is expected to attract representatives from science and industry from all over the world to the conference chair's scientific home town Berlin, Germany. Sponsored by the International Academy for Production Engineering (CIRP), it will be the 11th conference in the GCSM tradition, which has already been held in Istanbul, St. Petersburg, Abu Dhabi and Madras among other places. In 2013 it will be hosted by Technische Universität Berlin. The conference serves as a forum for international research institutes and industrial companies related to the area of sustainable manufacturing. It offers keynote speeches, panel discussions, parallel sessions and a poster forum. Your participation, through the submission of your full paper will be appreciated.&#13;
+&#13;
+The Collaborative Research Centre "Sustainable Manufacturing – Shaping Global Value Creation" explores how the dynamics of global competition and cooperation can be utilized for lending wings to processes of innovation and mediation towards the reasonably demanded sustainability of our globe. Funded by the German Research Foundation (DFG), 50 international researchers from eleven different institutes located in Berlin, investigate strategies, technological solutions and teaching approaches for sustainable global value creation. The most promising results of this major interdisciplinary project will be presented at the 11th Global Conference on Sustainable Manufacturing (GCSM).&#13;
+&#13;
+A special highlight awaits our guests on the third conference day, when the GCSM overlaps with the industry-oriented PTK 2013 Conference (www.efficient-factories.com), which will provide in-depth technological answers to many of the questions raised more generally at the GCSM. After a day of joint scientific exchange, the "Berlin Night", a cultural event in the test field of the Production Technology Centre Berlin, will provide further opportunity for detailed discussions between the participants of both conferences. We are especially looking forward to welcome you to the "land of innovations" for the 11th GCSM. If industrial production can steer sustainable development, innovation is the engine behind it.&#13;
+</dc:description>
+          <dc:date>2013-09-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4027</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40276</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40276</dc:identifier>
+          <dc:identifier>978-3-7983-2609-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4027/GCSM_Proceedings_Final.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY: Creative Commons-Lizenz: Namensnennung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

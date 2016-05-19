@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3318">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3318</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Contributions to the potential theoretic approach to metastability with applications to the random field Curie-Weiss-Potts model </dc:title>
+          <dc:title xml:lang="deu">Beitrag zum potentialtheoretischen Zugang zur Metastabilität mit Anwendung auf das Curie-Weiss-Potts Modell in zufälligem Feld</dc:title>
+          <dc:creator>Slowik, Martin</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">In this thesis, we investigate several aspects of metastability in stochastic dynamics with a particular focus on the dynamical behavior of disordered mean field spin systems. Metastability is a dynamical phenomenon characterized by the existence of multiple, well separated time scales. On the corresponding short time scales, the system explores only a limited part of the available state space, and within such a region it appears to be in a quasi-equilibrium (metastable state). At larger time scales, rapid transitions between different parts of the state space occur induced by random fluctuations. Mean field spin systems at finite temperature with a continuous distribution of the random field are characterized by the fact that no exact reduction to a low-dimensional model is possible. Our main objective in the first part of this thesis (chapter 1 - 4) is to extend the potential theoretic approach to metastability for such kind of systems by identifying key ingredients to derive sharp estimates on 1. the expected times of a transition from a metastable to a stable state, 2. the distribution of the exit times from a metastable state, 3. the low-lying spectrum of the generator. These results are obtained by means of averaged renewal equations combined with pointwise estimates. The main contribution is the development of a robust method, based on a posteriori error estimates, to compute precisely the small eigenvalues of the generator corresponding to metastable states. In the second part of this thesis (chapter 5) we apply the previously developed methods to the Curie-Weiss-Potts model at finite temperature in a random field those distribution is assumed to be (bounded) continuous. Beside a particular interest in this model, our aim is to demonstrate the usefulness of the potential theoretic approach.</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Dissertation werden verschiedene Aspekte von metastabilem Verhalten in stochastischen Dynamiken untersucht. Von besonderem Interesse ist hierbei das dynamische Langzeitverhalten von ungeordneten Spinsystemen unter Glauberdynamik. Bei dem dynamischen Phänomen der Metastabilität handelt es sich um ein Mehrskalenproblem. So ist das System auf kurzen Zeitskalen nur in einem kleinen Teil des verfügbaren Zustandsraumes lokalisiert ist, wobei es in diesem schnell gegen einen Quasi-Gleichgewichtszustand (metastabiler Zustand) relaxiert. Auf wesentlich größeren Zeitskalen sind schnelle Übergänge zwischen verschiedenen Regionen im Zustandsraum beobachtbar, die durch zufällige Fluktuationen induziert werden. Ungeordnete Spinsysteme in Molekularfeldnäherung sind bei endlichen Temperaturen dadurch gekennzeichnet, dass keine exakte Dimensionsreduktion möglich ist sobald das zufällige äußere Feld eine stetige Verteilung besitzt. Eines der Hauptziele im ersten Teil dieser Dissertation (Kapitel 1-4) stellt die Erweiterung des potentialtheoretischen Zugang zur Metastabilität für die Untersuchung derartige Modell dar. Von besonderem Interesse ist hierbei die Identifikation der systemimmanenten Eigenschaften, die die präzise Berechnung 1. der erwarteten Übergangszeit von einem metastabilen in einen stabilen Zustand, 2. der Verteilung der erwarteten Austrittszeiten aus einem metastabilen Zustand, 3. den tiefliegende Spektrum des zugehörigen Generators ermöglichen. Derartige Ergebnisse können mit Hilfe von gemittelten Erneuerungsgleichungen kombiniert mit punktweisen Abschätzungen erzielt werden. Einer der Hauptbeiträge dieser Arbeit stellt die Entwicklung einer robusten Methode basierend auf a posteriori Fehlerabschätzungen dar, mittels derer sich die kleinen Eigenwerte präzise berechnen lassen. Im zweiten Teil der Dissertation (Kapitel 5) steht die Analysis des metastabilen Verhaltens des Curie-Weiss-Potts Modells in einem zufälligen Feld bei endlichen Temperaturen im Mittelpunkt. Hierbei wird angenommen, dass die Verteilung des zufälligen Feldes (beschränkt) stetig sei. Neben dem Interesse an diesem Modell, besteht ein weiteres Ziel darin, die Anwendbarkeit des potentialtheoretischen Zuganges zur Metastabilität im allgemeinen und der zuvor entwickelten Methoden im besonderen zu demonstrieren.</dc:description>
+          <dc:date>2012-05-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3318</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35160</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35160</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3318/slowik_martin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

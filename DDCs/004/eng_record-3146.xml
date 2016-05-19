@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3146">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3146</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Parameterized Algorithmics for Network Analysis: Clustering and Querying </dc:title>
+          <dc:title xml:lang="deu">Parametrisierte Algorithmik für die Netzwerkanalyse: Clustering und Querying</dc:title>
+          <dc:creator>Komusiewicz, Christian</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">This thesis studies the parameterized computational complexity of NP-hard problems that have applications in two areas of network analysis: clustering and querying. In particular, we aim at identifying parameters that describe the complexity of the computational problems and may thus serve as basis for efficient algorithms for these problems. Network clustering is the task of assigning the vertices of the network into groups such that the groups contain network vertices that are similar to each other. The origin of our investigations for network clustering is the well-studied NP-hard Cluster Editing problem. We extend previous work on Cluster Editing by showing NP-hardness and running time lower bounds for restricted cases of Cluster Editing, and by presenting parameterized algorithms for NP-hard generalizations and variants of Cluster Editing such as Consensus Clustering. Network querying is the task of finding a subnetwork of a large host network that is similar to a given small network, the query. Network querying problems are related to the Subgraph Isomorphism problem and therefore usually NP-hard. We present parameterized algorithms and hardness results for dense queries, for topology-free querying, and for the case that for each query vertex the number of similar vertices in the host is bounded. Printed Version published by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de), DIN A5, ISBN 978-3-7983-2379-7</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit beschäftigt sich mit der parametrisierten Komplexität NP-schwerer Berechnungsprobleme aus zwei Bereichen der Netzwerkanalyse: dem Clustern von Netzwerken und dem Querying von Netzwerken. Der Fokus liegt hierbei auf der Identifizierung neuer problemspezifischer Parameter, welche als Basis für effiziente Algorithmen für diese Probleme dienen können. Die entscheidende Frage für ein Problem und einen Parameter k ist dabei, ob das Problem festparameterhandhabbar bezüglich k ist, d.h. ob Instanzen der Größe n in f(k)*poly(n) Zeit gelöst werden kann, wobei f eine beliebige berechenbare Funktion und poly eine polynomielle Funktion ist. Im Gegensatz dazu können Probleme, welche schwer bezüglich der Komplexitätsklasse W[1] sind, wahrscheinlich nicht in dieser Laufzeit gelöst werden. In dieser Arbeit werden sowohl Festparameterhandhabbarkeits- als auch W[1]-Schwere-Resultate für Probleme aus den beiden genannten Anwendungsgebieten präsentiert. Das Clustern von Netzwerken ist die Aufgabe, die Knotenmenge eines Netzwerks in homogene Gruppen, die Cluster, aufzuteilen. Grundlage für die Clusterung bilden dabei die Kanten des Netzwerks. Den Ausgangspunkt unserer Studien zum Netzwerkclustern bildet das NP-schwere und in der Literatur bereits intensiv studierte Cluster Editing-Problem. In dieser Arbeit werden zunächst neue Parametrisierungen von Cluster Editing untersucht und untere Laufzeitschranken bezüglich des Parameters "Lösungsgröße" bewiesen. Zudem wird die parametrisierte Komplexität verschiedener Verallgemeinerungen von Cluster Editing und des verwandten Consensus Clustering-Problems untersucht. Das Querying von Netzwerken ist die Aufgabe, für ein gegebenes kleines Netzwerk (die Query) ein möglichst ähnliches Teilnetzwerk innerhalb eines großen Netzwerks (des Hosts) zu suchen. Dieses ähnliche Teilnetzwerk heißt dann "Vorkommen der Query". Wir präsentieren Festparameterhandhabbarkeits- und W[1]-Schwere-Resultate für den Fall, dass die Query ein dichter Graph ist, für den Fall, dass das Vorkommen der Query bestimmte Zusammenhangseigenschaften erfüllt und für den Fall, dass für die Queryknoten die Anzahl ähnlicher Knoten im Host beschränkt ist. Gedruckte Version im Universitätsverlag der TU Berlin(www.univerlag.tu-berlin.de) erschienen, Format A5, ISBN 978-3-7983-2379-7</dc:description>
+          <dc:date>2011-11-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3146</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32503</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32503</dc:identifier>
+          <dc:identifier>978-3-7983-2380-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3146/komusiewicz_christian_text.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3146/komusiewicz_christian_umschlag.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

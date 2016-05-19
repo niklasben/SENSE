@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1346">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1346</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Optimal control of semilinear elliptic equations with applications to sublimation crystal growth</dc:title>
+          <dc:title xml:lang="deu">Optimale Steuerung semilinearer elliptischer Gleichungen mit Anwendnung in der Sublimationskristallzüchtung</dc:title>
+          <dc:creator>Meyer, Christian</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This thesis is concerned with an optimal control problem, arising from the optimization of the temperature distribution within the sublimation growth of semiconductor single-crystals. The problem consists of a semilinear elliptic partial differential equation with nonlocal radiation interface conditions and pointwise control and state constraints. It is treated by two different approaches: First, a semilinear optimal control problem with monotone nonlinearity and pointwise state constraints is considered. It is known that the Lagrange multipliers associated to the pointwise state constraints are in general regular Borel measures. This lack of regularity leads to theoretical and numerical challenges. However, by using a Larentiev-type regularization, the problem can be transformed to a control-constrained optimization problem, that provides regular Lagrange multipliers. In the linear-quadratic case, it is possible to prove strong convergence of the solutions of the regularized problems to the solution of the original problem for regularization parameter tending to zero. This result is confirmed by numerical observations. The second part of this thesis deals with a purely control-constrained optimal control problem that accounts for the non-monotone nonlinearity caused by the nonlocal radiation interface conditions. Using Brezi's theorem for pseudomonotone operators, one proves the unique existence of solutions of the semilinear state equation. Moreover, based on Stampacchia's truncation method, the boundedness of the solutions is shown. The theory of Fredholm operators then yields the F'echet-differentiability of the control-to-state mapping giving in turn first-order necessary optimality conditions. Since the control only appears linearly in the state equation, it is possible to establish second-order sufficient conditions that guarantee local optimality in an L^s-neighborhood, where s is not necessarily equal to infinity. The problem is solved numerically by a sequential quadratic programming method (SQP). The linear-quadratic subproblems arising in each SQP-step are approximated by a primal-dual active set strategy. The numerical examples provide satisfactory results demonstrating that it is essential to account for the nonlocal radiation in this context.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit beschäftigt sich mit einem Optimalsteuerproblem, das bei der Optimierung der Temperaturverteilung während der Sublimationszüchtung von Halbleiter-Einkristallen entsteht. Das Problem beinhaltet eine semilineare elliptische partielle Differentialgleichung mit nicht-lokalen Strahlungsübergangsbedingungen. Es wird in zwei Ansätzen behandelt: Zunächst wird ein semilineares Optimalsteuerproblem mit monotoner Nichtlinearität und punktweisen Zustandsbeschränkungen betrachtet. Es ist bekannt, dass die Lagrange Multiplikatoren zu den Zustandsbeschränkungen im Allgemeinen reguläre Borel-Maße sind, was zu theoretischen wie numerischen Schwierigkeiten führt. Mit Hilfe einer Lavrentiev-artigen Regularisierung des Optimalsteuerproblems ist es jedoch möglich, reguläre Lagrange Multiplikatoren zu erhalten. Für den linear-quadratischen Fall wird die Konvergenz der optimalen Lösungen der regularisierten Probleme zur optimalen Lösung des zustandsbeschränkten Ausgangsproblems gezeigt. Dieses Resultat wird durch numerische Beispiele bestätigt. Im zweiten Teil der Arbeit wird ein steuerbeschränktes Optimalsteuerproblem untersucht, das jedoch die nicht-monotone Nichtlinearität enthält, die durch die nicht-lokale Strahlungsübergangsbedingungen entsteht. Mit Hilfe von Brezis Satz über pseudomonotone Operatoren zeigt man die Existenz und Eindeutigkeit von Lösungen der semilinearen Zustandsgleichung. Darüberhinaus wird basierend auf Techniken von Stampacchia die Beschränktheit der Lösung bewiesen. Die Theorie der Fredholm-Operatoren liefert dann die Fr'echet-Differenzierbarkeit des Steuerungszustandsoperators, woraus notwendige Bedingungen erster Ordnung abgeleitet werden. Die Tatsache, dass die Steuerung nur linear in der Zustandsgleichung auftritt, erlaubt es, hinreichende Bedingungen zweiter Ordnung zu formulieren, die lokale Optimalität in einer L^s-Umgebung garantieren, wobei s nicht notwendigerweise gleich Unendlich sein muss. Numerisch wird das Problem mit Hilfe eines sequential quadratic programming (SQP) Verfahrens gelößt. Die in jedem SQP-Schritt entstehenden linearisierten Optimalsteuerprobleme werden durch eine primal-duale Aktive-Mengen-Strategie approximiert. Die numerischen Beispiele liefern zufriedenstellende Ergebnisse und demonstrieren die Notwendigkeit, nicht-lokale Strahlungseffekte bei der Modellierung der Sublimationszüchtung von Einkristallen zu berücksichtigen.</dc:description>
+          <dc:date>2006-10-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1346</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13871</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13871</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1346/meyer_christian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

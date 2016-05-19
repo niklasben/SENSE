@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1797">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1797</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analysis of positive descriptor systems</dc:title>
+          <dc:title xml:lang="deu">Analysis von positiven Deskriptorsystemen</dc:title>
+          <dc:creator>Virnik, Elena</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">We consider linear time-invariant positive descriptor systems in continuous-time Ex˙ (t) = Ax(t) + Bu(t), x(0) = x0 (1a) y(t) = Cx(t) + Du(t), (1b) and in discrete-time Ex(t + 1) = Ax(t) + Bu(t), x(0) = x0 (2a) y(t) = Cx(t) + Du(t), (2b) where E,A of dimension n×n, B of dimension n×m, C of dimension p×n,D of dimension p×m, are real constant coefficient matrices. In the continuous-time case, the state x, input u and output y are real-valued vector functions. In the discrete-time case x, u and y are real-valued vector sequences. Positive systems are systems whose state and output variables take only nonnegative values at all times t for any nonnegative initial state and any nonnegative input. Positive systems arise naturally in many areas of biology or medicine, where the variables represent concentrations, population numbers of bacteria or cells, or individuals of a species. Furthermore, one encounters such systems in economy, where the aim is to predict prices or productions. In the present thesis, we define and characterise positive descriptor systems and analyse their properties. We establish two fundamental results, pertinent to the area of nonnegative matrix theory, that play a crucial role in the analysis of such systems. Furthermore, we treat central topics from systems and control theory, such as stability properties, conditions for the existence of doubly nonnegative solutions of generalised Lyapunov equations and positivity preserving model reduction. All results are proved for the continuous-time as well as for the discrete-time case.</dc:description>
+          <dc:description xml:lang="deu">Wir betrachten lineare zeitinvariante positive Deskriptorsysteme in kontinuierlicher Zeit Ex˙ (t) = Ax(t) + Bu(t), x(0) = x0 y(t) = Cx(t) + Du(t), und in diskreter Zeit Ex(t + 1) = Ax(t) + Bu(t), x(0) = x0 y(t) = Cx(t) + Du(t), wobei E,A der Dimension n×n, B der Dimension n×m, C der Dimension p×n, D der Dimension p×m reelle Matrizen mit konstanten Koeffizienten sind. Der Zustand x, Eingang u und Ausgang y stellen in kontinuierlicher Zeit reell-wertige Vektorfunktionen und in diskreter Zeit reellwertige Vektorfolgen dar. Positive Systeme sind Systeme, deren Zustände und Ausgänge nur nichtnegative Werte annehmen können. Solche Systeme treten auf natürliche Weise in den Bereichen der Biologie und Medizin auf, in denen die Zustände bestimmte Konzentrationen, oder die Anzahl von Bakterien oder Individuen einer Spezies repräsentieren können. Des Weiteren kommen solche Systeme auch in Anwendungen aus der Wirtschaft vor, in welchen Aussagen über zukünftige Preise oder Produktionsmengen getroffen werden sollen. In der vorliegenden Dissertation definieren und charakterisieren wir positive Deskriptorsysteme und analysieren ihre Eigenschaften. Wir stellen zwei Resultate aus dem Gebiet der nichtnegativen linearen Algebra auf, die eine entscheidende Rolle für die Analysis solcher Systeme spielen. Ferner behandeln wir wichtige Themen der System- und Kontrolltheorie wie Stabilitätseigenschaften solcher Systeme, Bedingungen für die Existenz nichtnegativer Lösungen von verallgemeinerten Lyapunov Gleichungen und positivitätserhaltende Modellreduktionsverfahren. Alle Resultate sind sowohl für den kontinuierlichen als auch für den diskreten Fall gezeigt.</dc:description>
+          <dc:date>2008-06-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1797</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18935</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18935</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1797/original_diss.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1797/virnik_elena.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3316">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3316</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Wirkungen kooperativer Systeme auf die Sicherheit</dc:title>
+          <dc:title xml:lang="eng">Safety impacts of co-operative systems </dc:title>
+          <dc:creator>Gilka, Philipp</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Mit einem prognostizierten Anstieg der Pkw- und Lkw-Fahrleistung in Deutschland und Europa, kommen bis 2025 auf die europäischen Mitgliedsstaaten große Herausforderungen zu, um den Verkehr sicherer, effizienter und umweltgerechter abzuwickeln. Maßnahmen zur Reduzierung von Stau- und Unfallursachen sind unumgänglich und auf verschiedenen Handlungsebenen erforderlich. Aufgrund der begrenzten Verfügbarkeit von Flächen kommt der Entwicklung neuer Technologien und Methoden eine besondere Bedeutung zu. Die Europäische Kommission förderte in diesem Zusammenhang die Erprobung kooperativer Systeme im Straßenverkehr. Kooperative Systeme basieren auf konvergenten Netzwerken zwischen Infrastruktur und Fahrzeug und bieten das Potenzial für den Fahrer und den Betreiber der Infrastruktur, durch den kontinuierlichen Austausch von Daten zwischen Fahrzeugen untereinander und Fahrzeugen mit der Infrastruktur, ein verbessertes Bild der Verkehrssituation zu erhalten. Der Infrastrukturbetreiber nutzt diese Daten, um den Verkehrsteilnehmer zu informieren und durch Maßnahmen erhöhtes Verkehrsaufkommen sicherer und effizienter zu steuern. Die vorliegende Arbeit richtet den Fokus auf die Wirkungen kooperativer Systeme auf den Verkehrsteilnehmer und analysiert die potenziellen Wirkungen auf die Sicherheit und das Verkehrsmanagement. Die Ergebnisse der Versuche, die im Rahmen des europäischen Forschungsprojekts COOPERS in Bezug auf die Nutzerakzeptanz und das Fahrverhalten in drei definierten Untersuchungseinheiten (i) Fahrsimulator, (ii) Stadtautobahn und (iii) Autobahn ermittelt wurden, stellen die Grundlage für die Bewertung des Systems dar. Ergänzend wurde eine Simulation mit reellen makroskopischen Verkehrsdaten der A12 durchgeführt, um Wirkungen eines kooperativen Systems auf den Verkehrsfluss zu erhalten. Die Analyse des Fahrverhaltens und der Nutzerakzeptanz in den verschiedenen Untersuchungseinheiten haben gezeigt, dass die verschiedenen Untersuchungsmethoden starken Einfluss auf die Ergebnisse haben. So konnten die hohen Erwartungen an das System zwar im Fahrsimulator, nicht aber in der realen Umgebung getroffen werden. Das Ergebnis der Untersuchung des Fahrverhaltens zeigt keine statistisch signifikanten Unterschiede zwischen den Fahrten mit aktiven und inaktiven System. Mögliche Ursachen für die erzielten Ergebnisse wurden in verschiedenen Bereichen identifiziert diese erlauben, künftige Feldversuche entsprechend anzupassen und vorzubereiten.</dc:description>
+          <dc:description xml:lang="eng">With the background of a continously growing anual milage of passenger cars and trucks in Germany and Europe till 2025, great challenges for the member states have to be tackled to create a safety, efficient and environmental friendly transport system. Different measures have to be established to reduce congestion and improve safety. Due to limited circumferences of road building ares,new technologies and methods will play a mayor role. The European Union assists in funding co-operative research projects. Co-operative systems are based on convergent networks between road infrastructure and vehicle. The potential of the systems lies in the continously exchange of information to realize a good picture of the traffic situation. Driver and operator are benefiting at the same time with the result of improved traffic management and safety. This study analysis the potential impacts of co-operative systems on the basis of the European research project COOPERS. User acceptance and driver behaviour were analysed in terms of three different research objects: (i)Driving Simulator, (ii) City Motorway and (iii) Motorway. In addition a macroscopic traffic simulation based on real data was designed to realize potential impacts of co-operative systems.</dc:description>
+          <dc:date>2012-05-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3316</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35200</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35200</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3316/gilka_philipp.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

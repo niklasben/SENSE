@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2768">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2768</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Design of CMOS Mixers and Receiver Integration for High Precision Local Positioning Systems</dc:title>
+          <dc:title xml:lang="deu">Entwurf von CMOS-Mischern und Empfängerintegration für hochgenaue Lokalpositionierungssysteme</dc:title>
+          <dc:creator>Krcmar, Marko</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This thesis is the result of three years of research, design, fabrication and measurement of several RF-integrated circuits in CMOS technology. The author of this work focused mainly on two building blocks of an integrated low IF receiver: the down-conversion mixer and the IF variable gain ampli-fier. Novel mixer architecture was analysed, implemented and tested show-ing excellent results and achieving, to the best knowledge of the author, the best performance in terms of noise for an active CMOS mixer at 5.8 GHz. By this, a new and simple mixer topology is introduced, extremely suitable for new low power, low supply analog front-ends, enhancing the possibili-ties of employing established CMOS technologies for very high frequency communication systems. For the first circuit, a folded double-balanced architecture, a detailed analy-sis is performed giving a deep insight into the circuit behaviour. The most interesting results concern the noise figure and the overall noise contribution of this receiver building block. Later on, the issues dealing with the integra-tion with a low noise amplifier were addressed and the integration was car-ried out leading also to excellent results. During these integration steps the mixer architecture changed in order to fit new system specifications: a Gil-bert cell mixer with a resonating inductor and a Gilbert cell with current bleeding technique were implemented as well. At the same time the IF vari-able gain amplifier was being developed and tested on system level. For this circuit a novel architecture was implemented too, leading to a very simple design for an extremely large dynamic range. Finally, a fully integrated CMOS receiver was developed and tested at the end of the project. The receiver was included in the RF front-end for a high precision localisa-tion system called RESOLUTION. This system is based on FMCW-radar principle operating in the unlicensed ISM frequency band at 5.8 GHz. The author contributed as well to the design of the hybrid daughter boards that were used by the consortium for demonstration purposes at the final review meeting.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit ist das Ergebnis dreijähriger Forschung, Entwick-lung und Charakterisierung auf dem Gebiet integrierter Hochfrequenz-Schaltungen in CMOS-Technologie. Der Autor hat sich hauptsächlich mit zwei Bausteinen eines Low-IF CMOS-Empfängers auseinandergesetzt: Ei-nem Abwärtsmischer und einem ZF-Verstärker mit einstellbarer Verstär-kung. Eine neuartige Mischer Architektur wurde untersucht, implementiert und vermessen. Dabei konnten hervorragende Ergebnisse erzielt werden - nach bestem Wissen des Autors wurden u. a. die besten Rauscheigenschaf-ten eines aktiven CMOS Mischers bei 5.8 GHz erreicht. Damit konnte eine neuartige und gleichzeitig einfache Mischertopologie vorgestellt und erprobt werden, deren Eigenschaften für die neuesten analogen Front-Ends mit niedriger Versorgungsspannung und geringem Leistungsverbrauch sehr ge-eignet sind. Gleichzeitig wurde damit auch die Einsatzmöglichkeit der etab-lierten CMOS-Technologien für Kommunikationssysteme zu hohen Fre-quenzen hin erweitert. Für die erste Schaltung, eine gefaltete Doppel-Gegentaktarchitektur, wurde eine ausführliche Analyse durchgeführt. Schwerpunkte waren hierbei die Optimierung der Rauschzahl von einzelnem Mischer und gesamtem Emp-fänger. Weitere Aspekte betrafen die Integration mit einem rauscharmen Vorverstärker. Eine Gilbert-Zelle mit einer Resonanzspule und eine Gilbert-Zelle mit „current bleeding“ wurden ebenfalls untersucht. Als weitere Grundschaltung wurde ein Verstärker mit einstellbarer Verstär-kung entworfen: Auch hier wurde eine neuartige Architektur implementiert, die zu einer flexiblen und einfachen Topologie mit großer Dynamik geführt hat. Schlussendlich wurde ein vollständig integrierter CMOS Empfänger entworfen, prozessiert und vermessen. Der Empfänger wurde als Bestandteil eines RF Front-Ends für ein hochge-naues Lokalisierungssystem namens RESOLUTION eingesetzt. Das System basiert auf dem FMCW Radarprinzip. Die Implementation erfolgte im unli-zenzierten ISM-Frequenzband bei 5.8 GHz. Der Autor hat auch zur Ent-wicklung der hybriden System-Boards beigetragen, die für Demonstrations-zwecke verwendet wurden.</dc:description>
+          <dc:date>2011-02-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2768</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29470</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29470</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2768/krcmar_marko.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

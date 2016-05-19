@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1445">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1445</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung der Permeation von anorganischen Gasen und organischen Verbindungen durch barriereverbesserte Kunststoffflaschen und ihre messtechnische Erfassung</dc:title>
+          <dc:title xml:lang="eng">Study on the permeation of gases and volatile organic compounds through barrier enhanced plastic bottles and their measurement</dc:title>
+          <dc:creator>Orzinski, Martin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Kunststoffflaschen und -verschlüsse für Lebensmittel unterliegen einer noch andauernden Diskussion bezüglich der Qualität dieses Packmittels. Damit die angesprochene Qualität von Kunststoffflaschen und damit einhergehend die Permeation von Sauerstoff und Kohlendioxid bestimmt werden kann, muss eine Auswahl der geeigneten Messtechnik erfolgen. Neben den Permeationsvorgängen von Sauerstoff und Kohlendioxid durch Kunststoffpackmittel ist es aber auch denkbar, dass andere Stoffe die Kunststoffwand von Verpackungen durchdringen können. Zur Ermittlung der Sauerstoffauf- und Kohlendioxidabnahme im Füllgut der zu tes-tenden Kunststoffflasche kamen die Echtzeitmethode der VLB Berlin und die deskriptive Verkostung zum Einsatz. Ferner kamen zwei neuartige Schnellmethoden zum Einsatz, welche den Permeanden Sauerstoff oder Kohlendioxid durch andere Stoffe substituieren. Zur Bestimmung der Permeation von organischen Verbindungen durch Kunststoffflaschen und -verschlüsse wurde im Zuge dieser Forschungsarbeit ein Inkubationsbehälter konstruiert. Die in dieser Forschungsarbeit durchgeführten Untersuchungen und die daraus resultierenden Ergebnisse sind in zwei Teilen diskutiert worden. Der erste Teil gibt dabei die separate Betrachtung der messtechnischen Erfassung der Permeation wieder. Der zweite Teil bildet die Ergebnisse der Permeation durch die verschiedenen Kunststoffflaschen und -verschlüsse. Die Messergebnisse der Untersuchung der Permeation von verschiedenen Gasen und organischen Verbindungen durch Kunststoffpackmittel zeigten die deutliche Abhängigkeit der ermittelten Messwerte von der jeweiligen messtechnischen Erfassung. Es konnte gezeigt werden, dass eine Permeation von Gasen und organischen Verbindungen durch Kunststoffflaschen und -verschlüsse statt gefunden hat. Die Untersuchungen wurden an innenbeschichteten, Monolayer-, Multilayerflaschen und einteiligen Verschlüssen durchgeführt.</dc:description>
+          <dc:description xml:lang="eng">Plastic containers and closures have become an important role as packaging materials for the beverage industry. Alongside the well-known advantages there is the problem of plastic’s inherent permeability to gases (O2 and CO2) and volatile organic compounds. To enhance the gas barrier properties of plastic materials different bottle systems for example Multilayer, Internal Coatings and Blends were developed. However, there are no data available on permeation measurements of VOC through plastic bottles and contamination of beverages. Existing methods known from the permeation measurement of O2 and CO2 were applied and novel methods for the measurement of volatile organic compounds have been developed. The research will show the new designed and constructed apparatus which enables the exposure of bottles in a environment that is enriched with defined concentration of solvents, terpenes, toluene and other organic substances. The concentration of VOC in the simulated atmosphere was measured in each experiment quantitatively. Additionally a method was established to determine a permeation of organic chemicals through plastic containers and closures. The research results elucidate that the different barrier systems (Monolayer, Multilayer, Blends and Internal Coatings) of plastic bottles show no sufficient guard for a permeation of the volatile organic compounds. Further, the permeation of terpenes such as citronellol through Monolayer, Multilayer and coated bottles was analysed and there compounds were also quantified by GC-MS with Isotope dilution assays.</dc:description>
+          <dc:date>2007-02-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1445</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14914</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14914</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1445/orzinski_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

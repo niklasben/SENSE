@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1864">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1864</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Supply Chain Event Management : Entwicklung eines SCEM-Frameworks</dc:title>
+          <dc:title xml:lang="eng">Supply Chain Event Management : Development of a SCEM-Frameworks</dc:title>
+          <dc:creator>Bensel, Philipp</dc:creator>
+          <dc:creator>Fürstenberg, Frank</dc:creator>
+          <dc:creator>Vogeler, Stefan</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Durch die zunehmende Komplexität, bedingt durch sinkende Fertigungstiefen und der zunehmenden Internationalisierung, steigt die Anfälligkeit der logistischen Strukturen bezüglich Störungen, sowohl in deren Häufigkeit als auch in deren Ausmaß. Ziel eines Supply Chain Event Management ist es ohne vermeidbaren Zeitverzug auf Störungen, sogenannte Events, adäquat zu reagieren, um so die Auswirkungen auf die Supply Chain so gering wie möglich zu halten. Neben einer erhöhten Reaktivität soll durch nachhaltiges Lernen auf allen Ebenen des SCM eine langfristige Verbesserung der Planungs- und Ausführungsaktivitäten erreicht werden. </dc:description>
+          <dc:date>2008-08-26</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1864</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19351</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19351</dc:identifier>
+          <dc:identifier>978-3-7983-2163-2</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1864/Bensel_Philipp_3_2008.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

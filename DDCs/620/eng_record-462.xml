@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:462">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:462</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zum Variantenmanagement und zur Prozessoptimierung im Wagenkastenbau von Schienenfahrzeugen</dc:title>
+          <dc:creator>Schmidt, Holger</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Attraktivität und Wirtschaftlichkeit des Personen-Schienenverkehrs werden in hohem Maße über die Einsatzspezifikation der Fahrzeuge bestimmt. Anpassungen an infrastrukturelle Gegebenheiten, betriebliche Rahmenbedingungen und weitere kundenspezifische Anforderungen bedingen vielfach umfangreiche Überarbeitungen der Fahrzeugstruktur. Hieraus resultieren zahlreiche Produktvarianten und kleine Losgrößen, die zu einem unbefriedigenden Verhältnis zwischen fixen und variablen Kosten bei den Herstellern führen. Die eingesetzten Bauformen und Fertigungsprozesse im Schienenfahrzeugbau erlauben entweder eine hohe Flexibilität bei geringer Produktivität oder eine hohe Wirtschaftlichkeit durch die Nutzung von Skaleneffekten bei starren Fertigungsabläufen und Produktausprägungen. Baukastenartige Produktstrukturen, die eine in festgelegten Grenzen kundenorientierte Konfiguration von Produktvarianten aus Standardbausteinen ermöglichen, stellen den derzeitigen Lösungsansatz für die Variantenbildung bei Schienenfahrzeugen dar. Die Bahn verlangt jedoch aufgrund der starken Wechselwirkungen zwischen Betrieb, Fahrweg und Fahrzeug nach Lösungen, die in Ihrer Ausprägung weder vom Hersteller eindeutig vorhergesehen noch von ihm in der Vielfalt begrenzt werden können. Der in dieser wissenschaftlichen Arbeit vorgestellte Lösungsansatz besteht in der Generierung eines Wagenkastenmischsystems, das die Gliederung des Wagenkastens in anbieterseitige, starre Basismodule und flexible, kundenspezifische Variationsmodule vorsieht. In Abhängigkeit von der gewünschten Variabilität und der daraus resultierenden Losgröße des Produktkonzeptes dominiert entweder der Anteil starrer, baukastenartiger Basisbausteine oder der Umfang kundenspezifisch anpassbarer Module. Entsprechend verteilt sich das Verhältnis von hochproduktiven zu hochflexiblen Bauformen und Fertigungskonzepten. Den Marktanforderungen hinsichtlich kleiner Seriengröße und hoher Produktvielfalt kann somit über die Werkzeuge Produktmodularisierung und Prozessflexibilität entsprechend begegnet werden. Die methodische Vorgehensweise zur Bildung eines Wagenkastenmischsystems berücksichtigt parallel die Parameter Produkttopologie, Variationsanforderungen sowie Bauformen und zugehörige Fertigungsprozesse. Im Rahmen einer Pilotanwendung wurden deutliche Vorteile in der Produktionsvorbe-reitung sowie in der Durchlaufzeitverkürzung gegenüber konventionellen Bauweisen erzielt. Der reduzierte Anteil an produktspezifischen Betriebmitteln und Entwicklungsaufwendungen führte dabei zu einer Verbesserung der Produktflexibilität bei sinkenden Fixkosten. Weiterführende Forschungsinhalte umfassen die Integration von Verbundwerkstoffen und die Reduzierung sowie Parallelisierung von Montageabläufen.</dc:description>
+          <dc:date>2002-07-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/462</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4575</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4575</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/462/schmidt_holger.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

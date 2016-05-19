@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2395">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2395</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Berechenbare quantitative Modelle der Dauerschätzung</dc:title>
+          <dc:title xml:lang="eng">Computable quantitative models of time-estimation</dc:title>
+          <dc:creator>Pape, Nele</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Dauer von Ereignissen in dynamischen Mensch-Maschine-Systemen stellt eine wichtige Informationsquelle für die Analyse und Regulation von Handlungen dar. Mit steigenden Aufgabenanforderungen neigen Menschen zu unzuverlässigeren Dauereinschätzungen und verursachen so Fehler bei der Interaktion mit komplexen Systemen. In dieser Arbeit wurde ein Modell prospektiver menschlicher Zeitwahrnehmung entwickelt, in welchem die Verzerrung der Dauerschätzung in unterschiedlichen Aufgabensituationen aufgrund von Arbeitsgedächtnismechanismen entsteht. Dieser Ansatz wurde in eine kognitive Architektur integriert. Mit solch einem integrierten Ansatz menschlicher Zeitwahrnehmung ist es möglich, temporale menschliche Fehler bei der Bedienung eines komplexen dynamischen Systems vorherzusagen. Bereits in frühen Phasen der Systementwicklung ließen sich Systeme evaluieren und Entwurfsalternativen favorisieren bzw. Fehlerquellen aufdecken und vermeiden. Um das entwickelte quantitative Modell zu verifizieren, wurden Modellvorhersagen für Variationen der Zählaufgabe generiert. Diese wurden mit den Daten einer Serie von drei Experimenten verglichen. Im ersten Experiment wurde der Zusammenhang zwischen der Anzahl präsentierter Listen und der Länge der Zeitschätzung untersucht. Sowohl das Modell als auch die experimentellen Daten weisen keinen entsprechenden Zusammenhang nach. Operateursaufgaben in verfahrenstechnischen Anlagen beinhalten beispielsweise wiederholte Zeitschätzungen und Wechsel in den Anforderungen, deren Zusammenhang bisher nicht ausreichend untersucht wurde. Diese Punkte wurden im zweiten Experiment untersucht. Ein Vergleich mit den Modelldaten zeigt, dass die Modellvorhersagen teilweise erfüllt werden. Zusätzlich treten jedoch Artefakte auf, die näher untersucht werden müssen. Ein drittes Experiment wurde mit Hilfe der Simulation eines Prozessleitsystems durchgeführt. Das Versuchsdesign wurde aufgrund der Erkenntnisse des zweiten Experiments leicht verändert. Die experimentell erhobenen Zeitschätzungen des dritten Experiments stimmen mit den Modellvorhersagen zur Zeitschätzung überein. Die Ergebnisse zeigen, dass sowohl das Ausmaß, die Streuung und die Richtung von Zeitschätzfehlern durch das Modell vorhergesagt werden können. Allerdings wird vermutet, dass die Erwartungshaltung der Versuchsteilnehmer bezüglich einer Aufgabenart ebenfalls einen Einfluss auf die Zeitwahrnehmung nimmt. Das TaSTE (Task Sensitive Time Estimation) Modul ist somit in der Lage, den Grossteil der untersuchten Effekte menschlicher Zeitwahrnehmung abzubilden und stellt damit ein Werkzeug dar, welches für die Evaluation der Mensch-Maschine-Systeme bezüglich temporaler Aspekte verwendet werden kann.</dc:description>
+          <dc:description xml:lang="eng">The duration of incidents in dynamic human-machine system represent crucial information for system analysis and the regulation of task-performance. With rising task-demands people tend to be less reliable in time-estimations and cause errors in their interaction with a complex system. A model of time perception was developed in the course of this work, which posits that working memory mechanisms distort time perception under certain circumstances. This approach was integrated into a cognitive architecture. With such an integrated approach of human time perception it is possible to predict temporal human errors in the context of complex dynamical systems. In early phases of system development a system could be evaluated and blueprints could be favoured or sources of error could be detected or prevented. In order to verify the developed quantitative model, predictions for variations of a counting task were generated. These predictions were compared with date of a series of three experiments. In the first experiment the connection between the numbers of presented lists on time estimations was evaluated. The model as well as the experimental data shows no such connection for prospective time estimation. Operators in process plants often experience severe changes in task demands and have to repeatedly estimate the duration of a certain processes. These situations are explored in the second experiment. A comparison with the model data reveals that predictions are met for the low to high demand switch. In the other condition some artefacts occurred that have to be explored in more detail. A third experiment was conducted with the simulation of a process plant. The experimental design was slightly modified due to the findings derived in the previous experiment. The experimental data of the third experiment corresponds to the model predictions. The results show that the size, the spreading and the direction of time estimations are correctly predicted by the model. An additional influencing factor on time estimation was found that occurs whenever participants experienced unexpected changes. This effect can also be explained by the theoretical account of time estimation but is difficult to model due to the absence of a modelling approach that explains how expectations develop during a task. The TaSTE (Task Sensitive Time Estimation) module is able to simulate most of the examined effects of human time-perception and therefore offers a tool which can be used for the evaluation of temporal aspects in the context of human-machine systems.</dc:description>
+          <dc:date>2010-01-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2395</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25235</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25235</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2395/original_pape_nele.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2395/pape_nele.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2395/pape_nele_Anhang.zip</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

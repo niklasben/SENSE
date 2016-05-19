@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1626">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1626</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:520</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The Influence of Temperature Fluctuations on Dust Formation in  Dust Driven Winds of Asymptotic Giant Branch Stars</dc:title>
+          <dc:title xml:lang="deu">Der Einfluss von Temperaturfluktuationen auf die Staubbildung in staubgetriebenen Winden von Sternen des Asymptotischen Riesenasts</dc:title>
+          <dc:creator>Schirrmacher, Vasco</dc:creator>
+          <dc:subject>ddc:520</dc:subject>
+          <dc:description xml:lang="eng">Asymptotic Giant Branch (AGB) stars show strong stellar pulsations, which originate in their extended convective envelopes. These pulsations elevate the stellar atmosphere, and generate thermodynamic conditions favourable for the condensation of dust grains out of the gas phase. The radiation pressure on the newly formed dust leads to a dust driven wind, which in turn leads to a substantial mass loss. In order to investigate the influence of temperature fluctuations on the dust formation in these objects, the dust formation was formulated as a stochastic process. This formulation leads to a set of coupled Fokker-Planck equations for the conditional expectation values of the moments of the grain size distribution function. This set of Fokker-Planck equations has been evaluated in gas box calculations. The results are compared to Monte-Carlo simulations of the same stochastic process. The gas box calculations were used to determine the values for the rms temperature deviaton σ, for which the temperature fluctuations show a remarkable influence on the dust formation, and the values for the correlation time λ, for which the dust formation can be described in the micro- or macroturbulent limit case. According to the results of the gas box calculations, a method has been developed, in order to implement a micoturbulent nucleation rate into a numerical, time dependent, self-consistent AGB-wind code including a time dependent treatment of dust formation and evaporation. Using this modified code, about 300 wind models have been calculated for various stellar and fluctuational parameters The evaluation of the resulting mass loss rates shows, that temperature fluctuations do in general lead to an increase in the mass loss rate. Stronger fluctuations lead to a larger increase. However, this tendency was not obtained for all model families under investigation.</dc:description>
+          <dc:description xml:lang="deu">Die Arbeit befasst sich mit dem Einfluß von Temperaturfluktuationen auf die Staubbildung in staubgetriebenen Winden von Sternen auf dem Asymptotischen Riesenast (engl.: AGB). Diese Sterne zeichnen sich durch starke stellare Pulsationen aus, die in ihren ausgedehnten konvektiven Hüllen entstehen. Durch diese Pulsationen wird die Atmosphäre stark angehoben, wodurch thermodynamische Bedingungen entstehen, die für die Kondensation von Staub aus der Gasphase günstig sind. Durch Strahlungsdruck auf den neu gebildeten Staub entwickeln sich staubgetriebene Winde, die zu einem beachtlichen Massenverlust führen. Um den Einfluß von Temperaturfluktuationen auf die Staubbildung in diesen Objekten zu untersuchen, wurde die Staubbildung zunächst als stochastischer Prozeß beschrieben. Diese Beschreibung führt zu einem System von gekoppelten Fokker-Planck-Gleichungen für die bedingten Erwartungswerte der Momente der Staubkorngrößenverteilungs-funktion. Dieses Fokker-Planck-System wurde in Gaskastenrechnungen für typische Windtrajektorien gelöst und mit Monte-Carlo-Simulationen des gleichen stochastischen Prozesses verglichen. Aus diesen Gaskastenrechnungen wurden einerseits die Werte für die mittlere quadratische Temperaturabweichung σ ermittelt, ab denen die Temperatur-fluktuationen einen merklichen Einfluß auf die Staubbildung haben, und andererseits die Werte für die Korrelationszeit λ, für die Staubbildung im mikro- bzw. makroturbulenten Grenzfall beschreibbar ist. Den Ergebnissen der Gaskastenrechnungen folgend wurde daraufhin eine Methode entwickelt, um eine mikroturbulente Beschreibung der Nukleationsrate in einen vor-handenen numerischen Code zur selbstkonsistenten Modellierung eines zeitabhängigen AGB-Windes inklusive einer zeitabhängingen Beschreibung von Staubbildung, -wachstum und -verdampfung einzubinden. Mit dem so modifizierten Programm wurden ca. 300 Windmodelle für verschiedene, den Stern und die Fluktuation beschreibende Parameter durchgerechnet. Eine Auswertung der aus den Windmodellen resultierenden mittleren Massenverlustraten hat ergeben, daß diese durch den Einfluß der Temperaturfluktuation in der Regel erhöht werden, wobei stärkere Fluktuationen im Mittel zu einem stärkeren Massenverlust führen. Allerdings waren diese Tendenzen nicht für alle betrachteten Modellfamilien erkennbar.</dc:description>
+          <dc:date>2007-12-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1626</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16912</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16912</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1626/original_dissertation_vasco_schirrmacher_2007.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1626/schirrmacher_vasco.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2431">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2431</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Resource Allocation in Heterogeneous Scenarios</dc:title>
+          <dc:title xml:lang="deu">Ressourcenallokation in Heterogenen Szenarien</dc:title>
+          <dc:creator>Blau, Ingmar</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">In this thesis, resource allocation as well as air interface selection in heterogeneous wireless multi-cell scenarios are covered. These scenarios correspond to the business case where an operator is in charge of multiple wireless systems with overlapping coverage and, presuming that service requests can be supported in several underlying radio access networks, has the freedom to assign users to an air interface of its choice. Load balancing schemes, which are widely used, exploit this freedom in order to prevent overload situations in one technology in case sufficient resources are available in an alternative one. However, most of them neglect an important source of diversity: air interface specific technologies, carrier frequencies, modulation and coding schemes provoke that some radio access networks are better suited to support users with certain channel characteristics and service requests than others, often independent of network loads. This work analyzes how these effects can be exploited in an optimum way and which gains can be achieved. In the first part of the thesis, an analytic model and close to optimum assignment rules for slowly varying environments are derived based on duality theory. It covers interference limited air interfaces and those with orthogonal resources such as UMTS and GSM. Decentralized close to optimum algorithms which are adapted to the limited information exchange between different technologies and which maximize performance measures such as the weighted number of assignable users or general system utilities are developed. The analysis is then extended to radio air interfaces which can be described as parallel broadcast channels such as OFDM. There, a new class of utility functions is proposed which guarantees existence of a convex representation of the generally non-convex utility maximization problem. The new utility class thereby encloses a known log-convexity class. In the last chapter the influence of quickly changing environments and ignorance of the channels' probability density functions is investigated. There, assuming that the heterogeneous system's underlying air interfaces are equipped with queues and that the performance metric is formulated with respect to time averages, algorithms that maximize the scenario's sum utility are derived. Hereby, a flow control is designed which causes the queues to evolve similarly to dual parameters of a stochastic subgradient procedure and, using a special parameterization, allows to individually balance users' delays.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit befasst sich mit der Ressourcenzuweisung und Luftschnittstellenauswahl in drahtlosen, heterogenen Mehrzellsystemen. Sie spiegelt dabei ein Geschäftsmodel wider, in dem ein Betreiber mehrere Mobilfunknetze mit überlappender Netzabdeckung steuert und die Freiheit besitzt Nutzer einem System seiner Wahl zuzuweisen. Last-basierte Auswahlstrategien nutzen diesen Freiheitsgrad um Überlastungssituationen in einer Luftschnittstelle auszugleichen, falls in einem überlappenden System noch genügend Ressourcen zur Verfügung stehen. Diese Ansätze sind weit verbreitet, jedoch vernachlässigen die meisten wichtige Diversitätsquellen: Unterschiedliche Übertragungstechnologien, Trägerfrequenzen, Kodierungs- und Modulationsverfahren führen dazu, dass Systeme Nutzer mit unterschiedlicher Effizienz unterstützen. Diese wird dabei maßgeblich von der angefragten Dienstklasse und den Kanaleigenschaften der Nutzer beeinflusst und ist meißt unabhängig von der Systemlast. Hauptziel der Arbeit ist die Analyse, wie solche Effekte optimal für die Ressourcenallokation ausgenutzt werden können und welche Gewinne sich hierdurch erreichen lassen. Im ersten Teil werden unter Anwendung der Dualitätstheorie ein analytisches Modell sowie Regeln zur optimalen Ressourcenzuweisung in langsam veränderlichen Szenarien hergeleitet. Die Untersuchungen sind hierbei auf interferenzbegrenzte Systeme und solche mit orthogonaler Ressourcenzuweisung wie z.B. UMTS und GSM beschränkt. Weiterhin werden dezentral operierende Algorithmen entwickelt. Diese sind an den nur eingeschränkt möglichen Signalisierungsaustausch zwischen Nutzern und Basisstationen angepasst und maximieren die Anzahl unterstützbarer Nutzer oder allgemeine Nutzenfunktionen. Danach erfolgt die Erweiterung des Ansatzes für Systeme die sich als parallele Übertragungs\-kanäle modellieren lassen, wie z.B. OFDM. Eine neue Klasse von Nutzenfunktionen wird abgeleitet, die es erlaubt das im allgemeinen nicht konvexe Optimierungsproblem der Nutzenfunktionsmaximierung konvex darzustellen. Die neue Klasse schließt hierbei eine bereits bekannte, Log-konvexe, Nutzenklasse mit ein. Im letzten Abschnitt werden der Einfluss von sich schnell verändernden Kanälen und die Unkenntnis ihrer Wahrscheinlichkeitsdichtefunktionen auf die optimale Nutzerallokation untersucht. Unter der Annahme, dass alle Luftschnittstellen über Warteschlangenpuffer verfügen und dass Nutzenfunktionen in Abhängigkeit von Erwartungswerten formuliert sind, werden Algorithmen entwickelt, die die Nutzenfunktionen eines heterogenen Systems maximieren. Ausschlaggebend ist hierbei die geschickte Dimensionierung der Flusskontrolle der Datenpakete. Sie ist so gestaltet, dass sich die Puffer wie duale Parameter einer stochastischen Subgradientenmethode verhalten und dass durch geeignete Parameterwahl die Paketverzögerung der Nutzer eingestellt werden kann.</dc:description>
+          <dc:date>2010-02-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2431</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25523</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25523</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2431/original_blau_ingmar.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2431/blau_ingmar.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2971">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2971</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Untersuchung von Werkstoffen für die Katalyse mit Elektronentomographie</dc:title>
+          <dc:creator>Grothausmann, Roman</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Electron tomography with a transmission electron microscope (TEM) enables creation of three-dimensional representations (tomograms) of samples in the range of a few nanometres to a few micrometres. In the frame of this thesis different ruthenium-based materials for catalysis in fuel cells were investigated. Tomography, in contrast to common TEM images (projections), yields information about the distribution and accessibility of the catalyst particles on or in the support material. It was shown that in addition to qualitative comparisons of the distribution of ruthenium particles on/in the carbon support material of differently manufactured samples, quantitative analyses are also possible. Since catalysis on heterogeneous catalysts takes place at the surface of the catalyst, the amount of surface area matters as do the coordination numbers of differently oriented facets of the catalyst particles. For this purpose a new algorithm was developed that allows to automatically analyse faceting of many different particles in a three-dimensional dataset. Due to the partial embedding of the catalyst particles into the support material only the uncovered fraction of the catalyst surface is accessible to the reactants and therefore a differentiation between the covered and uncovered catalyst surface is necessary. Apart from this uncovered surface, the orientation of the catalyst particles relative to the local support surface is also important since this allows statistical investigation of the uncovered facet types. In addition to the conducted characterizations such as: particle distribution within the support, size distribution, surface areas, volumes, shape analysis and the local orientation, new insights were gained which allow optimization of the examined catalyst during production. Furthermore, it could be shown that the developed image analysis methods can be applied to tomographic datasets from other measurement techniques such as neutron and focused ion beam tomography.</dc:description>
+          <dc:description xml:lang="deu">Elektronentomographie mit dem Transmissionselektronenmikroskop (TEM) ermöglicht die Erstellung dreidimensionaler Darstellungen (Tomogramme) von Proben in der Größenordnung von einigen Nanometern bis hin zu einigen Mikrometern. Im Rahmen dieser Arbeit wurden verschiedene auf Ruthenium basierende Werkstoffe für die Katalyse in Brennstoffzellen untersucht. Die Tomographie liefert, im Gegensatz zu gewöhnlichen TEM Bildern (Projektionen), Aufschluss über die Verteilung und Erreichbarkeit der Katalysatorpartikel auf bzw. in dem Trägermaterial. Es konnte gezeigt werden, dass neben qualitativen Vergleichen der Verteilung der Rutheniumpartikel auf/in dem Kohleträgermaterial verschieden hergestellter Proben auch detaillierte quantitative Analysen möglich sind. Da die Katalyse an heterogenen Katalysatoren an der Oberfläche des Katalysators stattfindet, spielen neben der Größe der Oberfläche auch die unterschiedlichen Koordinationszahlen verschieden orientierter Facetten der Katalysatorpartikel eine Rolle. Dazu wurde erstmalig ein Algorithmus entwickelt, der es erlaubt, viele verschiedene Partikel in dreidimensionalen Datensätzen automatisch hinsichtlich Facettierung zu analysieren. Durch die teilweise Einbettung der Katalysatorpartikel in das Trägermaterial ist eine Unterscheidung der bedeckten und unbedeckten Oberfläche nötig, da nur der unbedeckte Teil der Katalysatoroberfläche von den Reaktanten erreicht werden kann. Neben dieser unbedeckten Oberfläche ist durch die teilweise Einbettung auch die Ausrichtung der Katalysatorpartikel in Bezug zur lokalen Oberfläche des Trägers bedeutsam, da so statistische Untersuchungen der unbedeckten Facettentypen möglich werden. Zu den durchgeführten Charakterisierungen wie: Partikelverteilung innerhalb des Trägers, Größenverteilung, Oberflächen, Volumina, Formanalyse und der lokalen Ausrichtung, wurden Erkenntnisse gewonnen, die es erlauben, den untersuchten Katalysatortyp während der Herstellung weiter zu optimieren. Es konnte zudem gezeigt werden, dass die entwickelten Bildanalysemethoden sich auch auf tomographische Datensätze anderer Messmethoden wie z.B. Neutronen- und Focused Ion Beam-Tomographie anwenden lassen.</dc:description>
+          <dc:date>2011-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2971</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31557</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31557</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2971/grothausmann_roman.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2971/grothausmann_roman_not-compressed.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

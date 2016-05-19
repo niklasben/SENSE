@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3681">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3681</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Evaluating the Accuracy and Utility of Recommender Systems</dc:title>
+          <dc:title xml:lang="deu">Evaluierung von Güte und Nutzen von Empfehlungssystemen</dc:title>
+          <dc:creator>Said, Alan</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Recommender systems have become a ubiquitous feature on the World Wide Web. Today, most websites use some form of recommendation to heighten their users' experience. Over the last decade, vast advancements in recommendation have been done, this has however not been matched in the processes involved in evaluating these systems. The evaluation methods and metrics currently used for this have originated in other related fields, e.g. information retrieval, statistics, etc. For most cases, these evaluation processes are able to show how well a recommender system performs - to some point. However, after a certain threshold, it is not often clear whether a lower error, or higher accuracy metric accounts for an actual quality improvement. This dissertation focuses on the research question how can we further estimate whether a measured accuracy level actually corresponds to a quality improvement from the user's perspective, or whether the measured improvement is lost on the end user. We introduce some of the concepts related to recommendation quality and user perception, and continue on to show that currently widely-used evaluation metrics do not capture the quality of recommendation when the algorithm is specifically tuned to offer recommendation of a higher diversity. Following this we present a formalization of the upper limit of recommendation quality, a magic barrier of recommendation, and evaluate it in a real-world movie recommendation setting. The work presented in this dissertation concludes that current recommendation quality has outgrown the methods and metrics used for the evaluation of these systems. Instead, we show how qualitative approaches can be used, with minimal user interference, to correctly estimate the actual quality of recommendation systems.</dc:description>
+          <dc:description xml:lang="deu">Empfehlungssysteme sind heutzutage ein allgegenwärtiger Bestandteil des World Wide Web. Viele Webseiten nutzen Empfehlungssysteme, um Benutzerfreundlichkeit und das Nutzererlebnis zu verbessern. Während der letzten zehn Jahre wurden viele Fortschritte in der Forschung zu Empfehlungssystemen gemacht, allerdings haben die Methoden zur Evaluierung damit nicht Schritt gehalten. Die Methoden und Metriken zur Evaluation, die derzeit verwendet werden, sind in den meisten Fällen von anderen, verwandten, Forschungsrichtung wie z.B. Information Retrieval oder Statistik, adaptiert. Bis zu einem gewissen Grad klappt dieses Vorgehen auch. Mit den aktuell verwendeten Evaluationsverfahren kann man bewerten, ob eine neue Methode generell funktioniert oder nicht. Man kann allerdings nicht bewerten, ob Verbesserungen wie ein niedrigerer Fehler oder eine verbesserte Genauigkeit in der realen Anwendung wirklich zu einer verbesserten Benutzerfreundlichkeit oder einem besseren Nutzererlebnis führen. Diese Arbeit beschäftigt hauptsächlich sich mit der Frage, wie man die Evaluation verbessern kann, um besser Vorhersagen machen zu können, ob Verbesserungen eines neuen Empfehlungsalgorithmus auch beim Nutzer ankommen. Wir benennen einige der wichtigsten Konzepte im Zusammenhang mit der Empfehlungsqualität und Nutzerwahrnehmung und zeigen dann, dass die derzeit genutzten Evaluationsverfahren nicht die Qualität von Empfehlung erfassen, wenn der Algorithmus speziell auf Empfehlungen mit höherer Diversität ausgelegt ist. Danach präsentieren wir eine Formalisierung der Magic Barrier, einer oberen Grenze für die beste erreichbare Empfehlungsqualität aufgrund von fehlerhaften oder schwammigen Nutzerfeedbacks. Wir evaluieren die Magic Barrier mittels einer Nutzerstudie, in einer Anwendung zu Filmempfehlungen mit realen Nutzer und Daten. Die in dieser Dissertation präsentierten Ergebnisse führen zu dem Schluss, dass die aktuell verwendeten Evaluierungsmethoden und Metriken nicht Schritt halten mit aktuellen Ergebnissen in der Forschung zu Empfehlungsalgorithmen und der erreichten Qualität. Daraus folgend, werden im Rahmen der Arbeit qualitative Ansätze und deren Anwendung beschrieben, die bei minimaler Einbindung des Nutzers, den tatsächlichen Nutzen eines Empfehlungsalgorithmus einschätzen können.</dc:description>
+          <dc:date>2013-04-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3681</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39178</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39178</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3681/said_alan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

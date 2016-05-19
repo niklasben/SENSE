@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1571">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1571</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einsatz des Vienna- Stromrichters als Gleichrichter in Windkraftanlagen</dc:title>
+          <dc:title xml:lang="eng">Use of the Vienna Rectifier in Wind Power Plants</dc:title>
+          <dc:creator>Sadowski, Thomas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird ein Antriebssystem untersucht. Bei diesem Antriebssystem handelt es sich um eine Windkraftanlage. Die wesentlichen Komponenten dieser Windkraftanlage sind eine Windturbine, ein permanenterregter Synchrongenerator und zwei verschiedene Umrichtertopologien, um den Generator mit dem Netz zu verbinden. Die verwendete Vorgehensweise besteht in der mathematischen Beschreibung der wesentlichen physikalischen Eigenschaften der untersuchten Objekte. An Hand von Messungen werden die so entstandenen physikalischenModelle mit Hilfe der numerischen Simulation nachgebildet. Eine Verifizierung der Ergebnisse dieser Simulation erfolgt an einem hierzu entworfenen Versuchsstand, wodurch iterativ auf die physikalische Modellbildung Einfluss genommen wird. Ein Schwerpunkt dieser Arbeit ist die Untersuchung auf die Eignung des Einsatzes eines Vienna- Gleichrichters als maschinenseitiger Umrichter. Dieser Umrichter wurde zur Verwendung als aktiver Netzgleichrichter entwickelt. Seine Topologie ermöglicht den Einsatz von MOSFETSchaltern und damit die vergleichsweise verlustarme Anwendung hoher Schaltfrequenzen. Daher ist eine geringe Stromverzerrung sowie ein insbesondere im Teillastbereich hoherWirkungsgrad erreichbar. Der Vergleich der bei Einsatz des Vienna- Gleichrichters erzielten Ergebnisse mit denen bei Einsatz eines üblicherweise verwendeten B6CI- Umrichters bestätigt diese Annahmen. Die vorgenommenen Untersuchungen zeigen aber auch, dass sein Einsatz als Maschinengleichrichter nur bedingt möglich ist. Insbesondere bei der Verwendung permanenterregter Maschinen und einer sehr hohen Schaltfrequenz ist jedoch eine gute Eignung gegeben. Der zweite Untersuchungsschwerpunkt besteht in der Nachbildung des Verhaltens einer Windturbine mit Hilfe einer entsprechend geregelten, elektrischen Maschine. Hierzu wird ein aeroelastisches, strukturdynamisches Modell vorgestellt, welches neben der Rückwirkung des Rotors auf den Luftstrom auch Effekte wie die Blattverformung und die Turmschwankung berücksichtigt. Auf dem Versuchsstand wird ein stationäres Modell für die Nachbildung des Drehmoments eines Windrotors durch eine Gleichstrommaschine verwendet. Ein letzter Abschnitt dieser Arbeit besteht in dem Entwurf und dem Aufbau des für die Untersuchung verwendeten Versuchsstands. Hierbei wurde vor allem auf Vielseitigkeit und ModularitätWert gelegt, was diesen Versuchsstand sowohl für die Untersuchung von verschiedenartigen Antriebssystemen als auch für den Einsatz im Rahmen der studentischen Ausbildung geeignet macht.</dc:description>
+          <dc:description xml:lang="eng">In this thesis a drive system is discussed. The investigated drive system is a small scale model of a wind power plant. Its main power components include a wind turbine, a permanent magnet synchronous generator and two different converter topologies for connecting the synchronous generator to the grid. The electrical and mechanical characteristics of these main components are analysed. A detailed model of the drive system using simulation techniques is presented and verified against measurements on a test bench. The measurements are than used for improving the mathematical models in an iterative approach. One focus of this thesis is the analysis of a novel approach to the machine rectifier, using the Vienna rectifier topology. Its performance is compared against that of a standard two-level rectifier. The Vienna rectifier is known from power factor correction devices and its topology allows the use ofMOSFETs instead of IGBTs. Consequently, high switching frequencies can be achieved that result in low current distortions and relatively low losses in particular at partial loads. Measurements conducted at the test bench verify this, and show that permanent magnet generators are well suited for applications using Vienna rectifiers. However, they also reveal that there are restrictions to the widespread use of the Vienna rectifier due to its reduced output voltage area and its nonlinearities. The second focus of this thesis is the development of a detailed model of the wind turbines aerodynamical and mechanical behaviour and its emulation at the test bench using an appropriately controlled dc machine. An aero-elastical, structure dynamical model is presented, which includes the retroaction of the rotor to the airflow as well as effects like torsion of the rotor blades and the tower. Finally, throughout the design procedure, special attention was paid to develop a comprehensible and flexible test bench for ongoing research. Its modular and clear design allows the investigation of various types of drive systems what also makes it well suited for educational purposes.</dc:description>
+          <dc:date>2007-10-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1571</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16620</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16620</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1571/sadowski_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

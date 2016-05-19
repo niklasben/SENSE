@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1656">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1656</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Automatic Generation Of Object-Oriented Unit Tests Using Genetic Programming</dc:title>
+          <dc:title xml:lang="deu">Automatische Generierung objektorientierter Unit-Tests mittels Genetischer Programmierung</dc:title>
+          <dc:creator>Wappler, Stefan</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Automating the generation of object-oriented unit tests for structural testing techniques has been challenging many researchers due to the benefits it promises in terms of cost saving and test quality improvement. It requires test sequences to be generated, each of which models a particular scenario in which the class under test is examined. The generation process aims at obtaining a preferably compact set of test sequences which attains a high degree of structural coverage. The degree of achieved structural coverage indicates the adequacy of the tests and hence the test quality in general. Existing approaches to automatic test generation for object-oriented software mainly rely either on symbolic execution and constraint solving, or on a particular search technique. However, these approaches suffer from various limitations which negatively affect both their applicability in terms of classes for which they are feasible, and their effectiveness in terms of achievable structural coverage. The approaches based on symbolic execution and constraint solving inherit the limitations of these techniques, which are, for instance, issues with scalability and problems with loops, arrays, and complex predicates. The search-based approaches encounter problems in the presence of complex predicates and complex method call dependences. In addition, existing work addresses neither testing non-public methods without breaking data encapsulation, nor the occurrence of runtime exceptions during test generation. Yet, data encapsulation, non-public methods, and exception handling are fundamental concepts of object-oriented software and require also particular consideration for testing. This thesis proposes a new approach to automating the generation of object-oriented unit tests. It employs genetic programming, a recent meta-heuristic optimization technique, which allows formulating the task of test sequence generation as a search problem more suitably than the search techniques applied by the existing approaches. The approach enables testing non-public methods and accounts for runtime exceptions by appropriately designing the objective functions that are used to guide the genetic programming search. The value of the approach is shown by a case study with real-world classes that involve non-public methods and runtime exceptions. The structural coverage achieved by the approach is contrasted with that achieved by a random approach and two commercial test sequence generators. In most of the cases, the approach of this thesis outperformed the other methods.</dc:description>
+          <dc:description xml:lang="deu">Die Automatisierung der Testfallermittlung für den struktur-orientierten Unit-Test objektorientierter Software verspricht enorme Kostenreduktion und Qualitätssteigerung für ein Softwareentwicklungsprojekt. Die Herausforderung besteht darin, automatisch Testsequenzen zu generieren, die eine hohe Überdeckung des Quellcodes der zu testenden Klasse erreichen. Diese Testsequenzen modellieren bestimmte Szenarien, in denen die zu testende Klasse geprüft wird. Der Grad an erzielter Code-Überdeckung ist ein Maß für die Testabdeckung und damit der Testqualität generell. Die existierenden Automatisierungsansätze beruhen hauptsächlich auf entweder symbolischer Ausführung und Constraint-Lösung oder auf einem Suchverfahren. Sie haben jedoch verschiedene Begrenzungen, die sowohl ihre Anwendbarkeit für unterschiedliche zu testende Klassen als auch ihre Effektivität im Hinblick auf die erreichbare Code-Überdeckung einschränken. Die Ansätze basierend auf symbolischer Ausführung und Constraint-Lösung weisen die Beschränkungen dieser Techniken auf. Dies sind beispielsweise Einschränkungen hinsichtlich der Skalierbarkeit und bei der Verwendung bestimmter Programmierkonstrukte wie Schleifen, Felder und komplexer Prädikate. Die suchbasierten Ansätze haben Schwierigkeiten bei komplexen Prädikaten und komplexen Methodenaufrufabhängigkeiten. Die Ansätze adressieren weder den Test nicht-öffentlicher Methoden, ohne die Objektkapselung zu verletzen, noch die Behandlung von Laufzeitausnahmen während der Testgenerierung. Objektkapselung, nicht-öffentliche Methoden und Laufzeitausnahmen sind jedoch grundlegende Konzepte objektorientierter Software, die besonderes Augenmerk während des Tests erfordern. Die vorliegende Dissertation schlägt einen neuen Ansatz zur automatischen Generierung objektorientierter Unit-Tests vor. Dieser Ansatz verwendet Genetische Programmierung, ein neuartiges meta-heuristisches Optimierungsverfahren. Dadurch kann die Testsequenz-Generierung geeigneter als Suchproblem formuliert werden als es die existierenden Ansätze gestatten. Effektivere Suchen nach Testsequenzen zur Erreichung von hoher Code-Überdeckung werden so ermöglicht. Der Ansatz umfasst außerdem den Test nicht-öffentlicher Methoden ohne Kapselungsbruch und berücksichtigt Laufzeitausnahmen, indem er die für die Suche verwendeten Zielfunktionen adequat definiert. Eine umfangreiche Fallstudie demonstriert die Effektivität des Ansatzes. Die dabei verwendeten Klassen besitzen nicht-öffentliche Methoden und führen in zahlreichen Fällen zu Laufzeitausnahmen während der Testgenerierung. Die erreichten Code-Überdeckungen werden den Ergebnissen eines Zufallsgenerators sowie zweier kommerzieller Testsequenz-Generatoren gegenübergestellt. In der Mehrheit der Fälle übertraf der hier vorgeschlagene Ansatz die alternativen Generatoren.</dc:description>
+          <dc:date>2008-01-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1656</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17330</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17330</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1656/original_wappler_stefan.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1656/wappler_stefan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

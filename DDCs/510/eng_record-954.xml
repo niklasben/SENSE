@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:954">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:954</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">mArachna : eine semantische Analyse der mathematischen Sprache für ein computergestütztes Information Retrieval System</dc:title>
+          <dc:creator>Natho, Nicole</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Eine wichtige Komponente von eLearning-Plattformen ist ein Information Retrieval Mechanismus. Dazu müssen die vorhandenen Inhalte zunächst schematisiert und kategorisiert, und die dabei gewonnenen Informationen in ein Beziehungsnetzwerk eingeordnet werden. Benutzeranfragen können dann grundsätzlich anhand der in der Sprache manifestierten inhaltlichen Beziehungen beantwortet werden. Aufgrund der großen Menge der verfügbaren mathematischen Inhalte ist es wünschenswert, diesen Prozess weitestgehend zu automatisieren. In dieser Arbeit wird ein Verfahren für die grundsätzliche Erstellung eines solchen Beziehungsnetzwerks aus deutschsprachigen mathematischen Texten vorgestellt. Dabei liegt der Fokus auf der Analyse feingranularer mathematischer Textbausteine wie Definitionen und Theoremen. Die Inhalte in diesen sogenannten Entitäten sind der wesentliche Informationsträger in mathematischen Texten, weshalb die Entitäten auch die inhaltlichen Grundbausteine der mathematischen eLearning-Plattform Mumie bilden, als deren Teilprojekt diese Arbeit entstand. Es wird gezeigt, dass die Entitäten in mathematischen Texten linguistisch gut strukturiert und damit schematisierbar sind. Darauf aufbauend wird ein computerlinguistisches Verfahren entwickelt, um semantische Informationen aus den Entitäten zu gewinnen. Diese werden in eine Wissensbasis eingefügt, die auf einer eigens entworfenen Ontologie der mathematischen Fachsprache basiert. Dabei werden im Text vorkommende Begriffe als Knoten dargestellt, während die zwischen ihnen herrschenden sprachlichen Beziehungen als Kanten repräsentiert werden.Inhaltliche Beziehungen zwischen Begriffen werden dabei anhand der verwendeten Sprachkonstrukte erkannt (nicht aufgrund inhaltlicher mathematischer Abhängigkeiten). Auf der Grundlage der entwickelten Verfahren wurde ein experimenteller morphologischer, syntaktischer und semantischer Parser in Java implementiert, der in der Lage ist, einfache mathematische Definitionen und Theoreme computerlinguistisch zu analysieren. Aufbauend auf den Ergebnissen dieser Arbeit ließe sich beispielsweise ein Retrieval Interface entwickeln, in dem ein Benutzer eine Anfrage zu einem mathematischen Begriff stellt, und vom System Informationen zu diesem und damit zusammenhängigen Begriffen etwa in Form eines Wissensnetzes dargestellt bekommt.</dc:description>
+          <dc:date>2005-03-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/954</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9471</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9471</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/954/natho_nicole.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

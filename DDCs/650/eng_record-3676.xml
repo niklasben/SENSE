@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3676">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3676</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Energiemonitoring von IKT-Systemen – Periphere Energiebedarfe</dc:title>
+          <dc:title xml:lang="eng">Energy monitoring of ICT systems – Peripheral energy demand</dc:title>
+          <dc:creator>Drenkelfort, Gregor</dc:creator>
+          <dc:creator>Pröhl, Thorsten</dc:creator>
+          <dc:creator>Erek, Koray</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Der Stromverbrauch der Informations- und Kommunikationstechnik betrug 2007 rund 55,4 TWh. Es wird die Aufteilung des IKT-Strombedarfs gezeigt. Dabei ist zu erkennen, dass der Stromverbrauch im IKT-Bereich jährlich steigt. Zur Reduzierung des Stromverbrauches können periphere Energieverbräuche minimiert werden. In diesem Band werden diese für die Bereiche Rechenzentrum, Büroumgebung und Netzwerk genauer untersucht. Der Energiebedarf der IKT kann in direkten und peripheren (indirekten) Energiebedarf eingeteilt werden. Der direkte Energiebedarf entspricht dem Strom-bedarf, die die IKT-Komponenten zu ihrem Betrieb direkt benötigen. Der periphere Energiebedarf entspricht der Energie, die zusätzlich zur direkten Energie für die Sicherstellung des ordnungsgemäßen Betriebs der IKT benötigt wird. Dies kann neben elektrischer auch thermische Energie sein. So kann ein Kühlsystem mit einer Absorptionskälteanlage thermische Energie als Antriebsenergie nutzen. Es wird zunächst für die Bereiche Rechenzentrum, Büro und Netzwerk der Begriff „ordnungsgemäßer Betrieb“ näher erläutert. Im Anschluss werden die Auswirkungen der damit verbundenen Maßnahmen auf den Energieverbrauch geklärt und analysiert. Gegenstand der Betrachtung dieses Bands sind nur periphere IKT-Energiebedarfe. Weitere Energiebedarfe, wie z.B. die Beleuchtung in Büros, werden nicht betrachtet.</dc:description>
+          <dc:date>2013-04-17</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3676</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39261</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39261</dc:identifier>
+          <dc:identifier>978-3-7983-2520-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3676/9783798325203_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3676/9783798325203_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

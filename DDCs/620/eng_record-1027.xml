@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1027">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1027</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Wirkung von Einflussgrößen - insbesondere der Produktqualität - auf die Kundenzufriedenheit in der Automobilindustrie</dc:title>
+          <dc:creator>Ilzarbe, Laura</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Qualität, Preis und Liefertermin eines Produkts galten über viele Jahrzehnte als die wesentlichen Determinanten für die Kaufentscheidung und wurden als magisches Dreieck bezeichnet. Mit der Einführung des Excellence-Modells der European Foundation for Quality Management (EFQM) setzt sich ein neues Denkmuster durch, das im Wesentlichen aus einer Kausalkette besteht: Führung, Mitarbeiter, Prozesse, Kundenzufriedenheit und Geschäftsergebnisse. In dieser Kausalkette, die das Zustandekommen des Geschäftserfolgs erklärt, kommt der Begriff Qualität nicht mehr vor. Es ist einerseits akzeptiert, dass die Kundenzufriedenheit von der Produktqualität beeinflusst wird. Andererseits wirken auch andere Einflüsse auf die Kundenzufriedenheit, etwa Kundendienst, Preis und Wettbewerbssituation. Die Bedeutung der Produktqualität ist damit relativiert. Bei der vorliegenden Arbeit geht es genau um die Klärung dieser Bedeutung am Beispiel der Produkte eines deutschen Automobilherstellers. Auf der Basis von 2600 ausgefüllten Fragebögen werden die Einflussgrößen auf die Zufriedenheit der befragten Kunden mit Hilfe einer konfirmatorischen Faktorenanalyse herausgearbeitet und deren Einfluss anhand zweier LISREL-Modelle quantifiziert. Als Ergebnis wird sichtbar, dass die Produktqualität den stärksten Einfluss auf die Kundenzufriedenheit ausübt.</dc:description>
+          <dc:date>2005-06-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1027</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10162</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10162</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1027/ilzarbe_laura.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

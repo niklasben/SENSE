@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2422">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2422</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Grand Opening Tempelhofer Feld : Endbericht Bachelorprojekt 2008/2009 </dc:title>
+          <dc:creator>Roskamm, Nikolai</dc:creator>
+          <dc:creator>Karge, Toni</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Am 31.10.2008 wurde der Flugbetrieb auf dem Berliner Flughafen Tempelhof eingestellt. Zur gleichen Zeit haben wir das Bachelorprojekt „Grand Opening“ begonnen. Die Idee für das Projekt war, die vom Berliner Senat angekündigte Öffnung des 360 ha großen Geländes zu begleiten, die diesbezügliche stadtentwicklungspolitische Debatte zu verfolgen und verstehen zu lernen, die Strategie und die Planungen der Senatsverwaltung zu analysieren, eigene Idee zu entwickeln, selbst Teil dieser Öffnung zu werden. Der Projekttitel „Grand Opening“ wurde dabei im Verlauf unserer Projektarbeit transformiert und zur Forderung: Nur die Öffnung, nur das Zulassen auch von ungeordneten und ungeplanten Nutzungen, so unser Resümee, wird das Tempelhofer Feld zu einem lebendigen Stück Stadt werden lassen. Unserer Meinung fehlt der komplexen Stadtentwicklungsaufgabe, die Berlin noch viele Jahre beschäftigen werden wird, genau diese Öffnung, die Öffnung des Zauns und damit des Feldes für die Menschen, die Öffnung der Diskussion in die angrenzenden Quartiere, die Eröffnung einer entwurflichen Annäherung ans das Feld aus der Neuköllner Perspektive, die Eröffnung einer Diskussion über neue und andere planungsrechtliche Instrumente, die Öffnung des stadtplanerischen Top down-Ansatzes für eine bewohnerorientierte Bottom up-Strategie. </dc:description>
+          <dc:date>2010-02-04</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2422</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25367</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25367</dc:identifier>
+          <dc:identifier>978-3-7983-2202-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2422/Graue_Reihe_Heft_24_Grand_Opening_Tempelhofer_Feld.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

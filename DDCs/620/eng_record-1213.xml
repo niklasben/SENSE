@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1213">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1213</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Filmkühluntersuchungen in instationärer Strömung mit Ablöseblasen</dc:title>
+          <dc:title xml:lang="eng">Investigation of Film Cooling in Unsteady Flow with Separation Bubble</dc:title>
+          <dc:creator>Deinert, Michaela</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand dieser Arbeit ist die Untersuchung der Filmkühlung an einer ebenen Platte mit aufgeprägter, turbomaschinenähnlicher Druckverteilung in einem stationären und periodisch instationären Strömungsfeld. Die aufgeprägte Druckverteilung mit einem stark positiven Druckgradienten verursacht eine Ablöseblase an der Plattenoberfläche. Ziel der Untersuchung ist die Beschreibung ihrer aerodynamischen und aerothermodynamischen Wechselwirkung mit dem filmgekühlten Strömungsfeld und die Auswirkungen auf die Kühlung. Die experimentellen Untersuchungen wurden an einer Konfiguration mit 7 in einer Reihe befindlichen, 35° zur Horizontalen geneigten, zylindrischen Kühlbohrungen vorgenommen, deren Durchmesser 8 mm betrug. Die Messungen der Strömungstemperatur bzw. -geschwindigkeit wurden mit der Kaltdraht- bzw. Hitzdrahtanemometrie und Einzeldrähten durchgeführt. Zur Beschreibung der Oberflächentemperaturen wurde die Infrarot – Thermography eingesetzt. Die Messungen zeigten, dass, wenn die Kühlluft stromab der Ablöseblase eingeblasen wird, diese stromauf der Kühlbohrungen in stationärer wie auch periodisch instationärer Strömung weiterhin besteht. Ihr instationäres Verhalten bleibt hierbei weiterhin von der aufgeprägten, periodisch wechselnden Hauptströmung dominiert. Die Ausdehnung des Niedertemperaturgebietes um den Kühlstrahl herum ändert sich innerhalb der Zeitperiode aufgrund der sich periodisch ändernden Impulsrate und des sich ändernden, eingeblasenen Kühlmassenstroms. Es konnte ein Niedertemperaturgebiet nahe der Wand stromauf der Lufteinblasung im Bereich der Strömungsablösung in stationärer und periodisch instationärer Strömung beobachtet werden. Es konnte gezeigt werden, das innerhalb der Ablöseblase Kühlluft stromauf und auch quer zur Anströmung transportiert wird. Für die Ausdehnung dieses Gebietes bzw. der transportierten Menge ist die Größe des Strahlimpulses im stromauf liegenden Bereich der Kühlbohrung wichtig. Die Amplitudenrate der periodisch instationären Strömung beeinflusst die periodische Ausdehnungsänderung der Ablöseblase. Da dies aber größtenteils nur den Ablösewinkel und damit die Ausdehnung der Blase in der Höhe betrifft, hat dies keinen ausschlaggebenden Einfluss auf die Größe des Niedertemperaturgebietes stromauf.</dc:description>
+          <dc:description xml:lang="eng">This study gives a detailed evaluation of film cooling characteristics in unsteady flow with a separation bubble. The investigation was carried out on a flat plate with superimposed pressure distribution typical of turbine blading. A contoured wall opposite a flat plate generates this pressure distribution with a strong adverse pressure gradient, which induces a separation bubble in the middle of the plate. The main objective is to investigate the influence of the separation bubble on the cooling air flow, the flow field and different film cooling parameters under periodically unsteady flow conditions. Therefore measurements were conducted in an open-circuit, low-speed, suction-type wind tunnel, which can generate periodically pulsating flow. Measurements of the flow velocity and temperature using hot and cold wire anemometry for different boundary conditions were carried out, as well as measurements of the surface temperature using the infrared therography. Experimental data are supported by numerical calculations. The flat plate is 1000 mm in length and has a width of 400 mm. The cooling air enters the test section through a row of 7 cylindrical film-cooling holes with sharp edges and an inclination angle of 35 degrees. The film cooling holes, which are 8 mm in diameter and have a pitch to diameter ratio of 3:1, are located in the middle of the flat plate. The results show that the periodic changes of size and shape of the separation bubble in a film cooled flow field under unsteady flow conditions are still dominated by the superimposed periodically changing pressure distribution. The incoming cooling air influences the separation bubble in two ways. On the one hand, the separation bubble is displaced by the film cooling jet, which means that it is only present upstream of the air injection point and on the other hand the separation bubble is thicker directly in front of the incoming film cooling jet because of the superimposed pressure field upstream of the jet. The results of flow temperature measurements show a small low-temperature area upstream of the film cooling jet at the position of the separation bubble. It was shown that cooling air flows upstream into the separation bubble developing this cooled area. This phanomenon occurs in steady and unsteady flow.</dc:description>
+          <dc:date>2006-03-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1213</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12301</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12301</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1213/deinert_michaela.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

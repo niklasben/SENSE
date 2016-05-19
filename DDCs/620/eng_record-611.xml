@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:611">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:611</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Lossless Wideband Audio Compression : Prediction and Transform</dc:title>
+          <dc:title xml:lang="deu">Verlustfreie Kompression für Breitband-Audiosignale : Prädiktion und Transformation</dc:title>
+          <dc:creator>Kim, Jong-Hwa</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Ziel dieser Dissertation ist die Untersuchung von verlustfreier Audiokompression. Im Bereich der verlustfreien Kompression teilt sich die Forschung in zwei große Entwicklungsabschnitte, nämlich Signalmodellierung und Codierungsverfahren. Die Signal-modellierung befasst sich mit dem Verstehen des Quellsignals, während sich die Codierung mit dem speziellen Problem der effizienten Repräsentation von Einzelsymbolen befaßt. Der Fokus dieser Dissertation liegt auf der Evaluation und Entwicklung von Signalmodellierungstechniken für die verlustfreie Kompression. Mit Bezug auf die Modellierungsmethode zur Dekorrelation des Signals fallen die Datenkompressionssysteme in zwei Kategorien, nämlich die prädiktive Modellierung und die auf Transformation basierende Modellierung. In der Dissertation wurden beide Kategorien aus der Sicht verlustfreier Kompression ausführlich untersucht. Der erste Beitrag der Dissertation ist der Erforschung von Audiokompressionssystemen einschließlich der verlustbehafteten Kompressionssysteme gewidmet. Bei der prädiktiven Modellierung werden die verschiedenen Strukturen der Linear-Prädiktionsfilter durch Vorlage der fundamentalen autoregressiven Modellierung vorgestellt. Die Prädiktionsfilter einschließlich der Ansätze zur Modellierung des nicht-stationären Signals und adaptiven Linear-Prädiktionsfiltern werden vorgestellt, und deren Effizienz im Experiment mit einem prototypischen verlustfreien Audiokompressionssystem evaluiert. Bezüglich der Transformationsbasierten Modellierung werden zwei prominente Codierungsmethoden beschrieben, die auf Subbandtransformation basieren, nämlich Laplacian Pyramide und Subbandcodierung, beschrieben, und die Entwurfsverfahren für perfekt rekonstruierbare Multirate-Filterbänke werden dargestellt. Die Effizienz linearer Prädiktion von Vollbandsignalen und Subbandsignalen wird theoretisch untersucht und empirisch validiert. Die Wavelet-Transformation wird nach verschiedenen Aspekten gründlich untersucht, um die theoretische Verknüpfung zwischen der Wavelet-Transformation und der Multirate-Filterbank zu diskutieren. Theoretische und praktische Aspekte von reversiblen Transformationen werden in Zusammenhang mit S-Transformation, S+P Transformation, und RTS Transformation untersucht. Die Liftingmethode, die die biorthogonalen Wavelets realisiert, wird untersucht. Um eine reversible Wavelet-Transformation zu konstruieren, wird das mit Ganzzahlen operierende Liftingsystem durch Abrundungsverfahren entwickelt. Dessen Funktion wird durch Anwendung auf die verlustfreie Audiokompression validiert. Zum Schluss sind einige wichtige Untersuchungsergebnisse der Dissertation mit Vorschlägen für zukünftige Forschungsarbeiten zusammengefasst.</dc:description>
+          <dc:description xml:lang="eng">This thesis studies lossless audio compression. In the domain of lossless compression, research takes place on two broad development sections, signal modeling and coding algorithm. The former is concerned with the understanding of the source signal, while coding is the more tightly specified task of efficiently representing a single symbol as a code. The focus of this thesis is the evaluation and the development of signal modeling techniques for lossless compression. Related with the modeling method used to decorrelate a signal, the data compression schemes are generally divided in two categories, predictive modeling and transform-based modeling. In the thesis, all two categories are investigated in depth and handled from the lossless viewpoint. The first contribution of the thesis is an exploration of the general audio compression systems including the lossy compression system. In predictive modeling, the structures of various linear prediction filters are introduced by presenting the fundamental autoregressive modeling. The prediction filters including the approaches to the nonstationary signal modeling and to the adaptive linear prediction filters are explored and evaluated by testing within a prototypical lossless audio compression system. For transform modeling, two well-known subband transform coding methods, Laplacian pyramid and subband coding scheme, are first described, and then the design methods of perfect reconstruction multirate filter banks are studied. Concerning with the modulated lapped orthogonal transform, the efficiency of linear prediction from subband and from fullband is formally compared and empirically examined. Wavelet transform is in depth studied from the various viewpoints in order to find the theoretical relationship between the wavelet and the multirate filter banks. Theoretical and practical aspects of reversible transforms are discussed by introducing the S-transform, S+P transform, and RTS transform. The lifting method is examined as a means to realize the biorthogonal wavelets. Integer lifting scheme with rounding-off method is investigated to construct reversible version of wavelet transforms and its performance is validated by applying to lossless audio compression. Finally, some of the more important results presented in this thesis are summarized with the suggesting directions for future research.</dc:description>
+          <dc:date>2004-02-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/611</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6053</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6053</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/611/kim_jonghwa.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3421">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3421</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Massive parallelization of combinatorial statistical genetics analyses porting machine learning methods on general purpose graphics processing units (GPU)</dc:title>
+          <dc:title xml:lang="deu">Massive Parallelisierung der kombinatorischen statistischen Genetik-Analysen mit Methoden des maschinellen Lernens auf graphics processing units (GPU) </dc:title>
+          <dc:creator>Kam-Thong, Tony</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Recent advances in sequencing technology and automated phenotyping render it possible to study the relationship between genotype and phenotype at an unprecedented level of detail. While mapping phenotypes to single loci in the genome is a standard technique in Statistical Genetics, the problem of epistasis search, that is mapping phenotypes to pairs of loci, remains computationally infeasible in practice. This is problematic, as epistatic interactions between loci are expected to contribute significantly to phenotypic variance. By making use of the computational power of graphics cards, we enable epistasis detection via linear and logistic regression on a single desktop machine. As the use of graphics processing units (GPUs) is becoming synonymous with an economical and ease-of-access parallel computing option, it is spawning many innovative projects in several fields of study. Our group has successfully developed new tools with the aim of using the multiple cores available on GPUs to solve the epistasis problem. A dedicated kernel code running on GPUs helps to unlock the parallel computational power of these devices and compute the statistical scores of all possible second order interactions. The GPU-bound programs have shown to outperform not only standard single CPU-core based approaches but also tools designed for multiple CPU cores by up to two orders of magnitude. The tools will be of great assistance to researchers intent on performing exhaustive epistasis searches. In particular, our implementations enable to conduct a systematic epistasis detection study on the large host of previously published Genome-wide association studies (GWAS) data, including Wellcome Trust Case Control Consortium (WTCCC). The vision of researchers employing no more than a single desktop computer to evaluate the statistical significance of interactions of biological inputs in the order of hundred of billions has become a reality. This will in turn help drive down costs and increase innovation in this field of study.</dc:description>
+          <dc:description xml:lang="deu">Dank jüngster Fortschritte in der Genomsequenzierung und automatisierten Phänotypisierung wurde es möglich den Zusammenhang zwischen Genotyp und Phänotyp mit bislang unerreichter Präzision zu untersuchen. Wahrend die Zuordnung von Phänotypen auf einzelne Loci im Genom zum Standardverfahren geworden ist, bleibt die Epistasis-Suche, d.h. die Zuordnung von Phänotypen auf zwei oder mehr Loci eine rechnerische Herausforderung. Epistatische Interaktionen zwischen Loci tragen jedoch wesentlich zur phänotypischen Varianz bei. Mit Hilfe der Rechenleistung von Graphikkarten konnte die Suche nach solchen Interaktionen mittels linearer und logistischer Regressionen auf einem einzelnen Rechner ermöglicht werden. Der Einsatz von Graphics Processing Units (GPUs) wird zudem immer ökonomischer und bedienungsfreundlicher. Unsere Gruppe hat neue Programme entwickelt, um GPUs für das Epistasis Problem einzusetzen. Ein GPU-spezifischer kernel code schaltet die parallele Rechenleistung der GPUs frei und ermöglicht die statistische Berechnung aller möglichen Loci Paare. Die erreichbare Rechenleistung übertrifft Single-CPU-Core und Multiple-CPU-Core basierte Ansätze. Die erschöpfende Epistasis-Suche steht damit allen interessierten Wissenschaftlern zur Verfügung. Insbesondere erlaubt es uns die Umsetzung einer systematischen Epistasis-Erfassungs-Studie basierend auf eine grosse Vielzahl von bereits veröffentlichten GWAS Daten, einschliesslich dem Wellcome Trust Case Control Consortium (WTCCC). Zur Berechnung von statistischen Signifikanzen in biologischen Daten mit über Hundert Milliarden Interaktionen wird nicht mehr als ein einzelner Computer benötigt. Dadurch werden entsprechende Untersuchungen erschwinglich und es kann vermehrt mit neuen Erkenntnissen aus ihnen gerechnet werden.</dc:description>
+          <dc:date>2012-08-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3421</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36091</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36091</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3421/kamthong_tony.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

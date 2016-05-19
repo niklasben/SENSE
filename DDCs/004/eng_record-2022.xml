@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2022">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2022</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Methodenorientierte Gestaltung von Entwicklungsprozessen am Beispiel der modellbasierten Entwicklung eingebetteter Fahrzeugsoftware</dc:title>
+          <dc:title xml:lang="eng">Method-oriented design of development processes using the example of model-based development of embedded automotive software</dc:title>
+          <dc:creator>Buhr, Kerstin</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird gezeigt, wie eine auf die Verwendung von Entwicklungsmethoden fokussierte Software-Entwicklungsunterstützung konzeptionell und werkzeugtechnisch realisiert werden kann. Diese Entwicklungsunterstützung leistet einen substantiellen Beitrag zu einer nachhaltigen Verbesserung des Reifegrades von Projekt-Entwicklungsprozessen und damit der Softwarequalität. Die zunehmende Anzahl sicherheitsrelevanter und voneinander abhängiger Softwarefunktionen in modernen Kraftfahrzeugen stellt hohe Anforderungen an den Reifegrad der verwendeten Entwicklungsmethoden und -prozesse. Diese Anforderungen sind gegenwärtig nur bedingt erfüllbar, da ein umfassendes, auf die Merkmale des Fahrzeugbereiches abgestimmtes Vorgehen für den Umgang mit Methoden und Prozessen weitestgehend fehlt. Ziel dieser Arbeit ist es deshalb, ein methodenorientiertes Vorgehen zur Softwareentwicklung bereitzustellen. Dieses wird auf das modellbasierte Software-Entwicklungsparadigma des Fahrzeugbereiches angewendet. Im Rahmen der vorliegenden Arbeit wurde die Software-Entwicklungsunterstützung MOSEG entwickelt, die die Anwendung und Organisation von Entwicklungsmethoden sowie die kontextindividuelle Gestaltung von Entwicklungsprozessen unterstützt. Zur Realisierung der bereitgestellten Funktionalität wurden MOSEG-Methoden und -Techniken entwickelt, unter anderem die UML-basierte Methodenbeschreibung, die referenzmodellbasierte Organisation von Entwicklungwissen sowie die formale methodenbasierte Konstruktion von Entwicklungsprozessen. Mit der Abbildung der MOSEG-Methoden und Techniken auf Anwendungsfälle wird ein integriertes Gesamtkonzept erstellt, für das ein Werkzeug konzipiert und prototypisch implementiert wurde. Der MOSEG-Prototyp zeigt, wie die methodenorientierte Entwicklungsunterstützung unter anwenderfreundlicher Reduzierung der Funktionskomplexität werkzeugtechnisch realisierbar ist.</dc:description>
+          <dc:description xml:lang="eng">In the present work it is demonstrated how a software development support, that is focussed on the usage of development methods, can be realized conceptual and as a tool kit. This development support contributes substantially to a sustainable enhancement of the maturity level of project development processes and therewith of the software quality. The increasing number of safety relevant and interdependent software functions in modern motor vehicles results in high demands on the maturity level of the applied development methods and processes. These demands can be meet currently in a limited way only, due to the absence of a comprehensive, the automotive characteristics considering approach for the handling of methods and processes. Therefore the aim of this work is to provide a method-oriented approach for the software development. This approach is applied to the model-based software development paradigm of the automotive domain. Within this work the software development support MOSEG has been designed, that aids the application and organization of development methods as well as the individual configuration of development processes. For the realization of the provided functionality, MOSEG-methods and -techniques have been designed, amongst others for the UML-based method description, the reference model-based organization of development methods as well as for the formal method-based construction of development processes. The mapping of MOSEG-methods and -techniques to use-cases yields an integrated concept, for that a tool has been conceptualized and implemented prototypically. This MOSEG-prototype illustrates how a method-oriented development support can be realized as a tool, including a user-friendly presentation of the functionality-complexity.</dc:description>
+          <dc:date>2009-01-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2022</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21330</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21330</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2022/original_buhr_kerstin.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2022/buhr_kerstin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

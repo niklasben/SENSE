@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3341">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3341</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Interferometric devices based on 4µm SOI material for application in optical telecommunications</dc:title>
+          <dc:title xml:lang="deu">Interferometrische Komponenten auf der Grundlage von 4µm SOI-Material für Anwendungen in der optischen Telekommunikation</dc:title>
+          <dc:creator>Voigt, Karsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This PhD thesis describes the realization of integrated optical components in Silicon-on-Insulator (SOI) material. In particular, the thesis is focused on the realization of Mach-Zehnder delay interferometers (MZ-DI) in 4µm SOI technology. As an example, the ability of MZ-DI for the demodulation of phase-modulated data signals is investigated. As a first step, the thesis considers the design of the basic components for the realization of MZ-DIs in SOI technology. These components are single-mode waveguides and multi-mode interference (MMI) couplers. Following the simulations and iterations of the fabrication, these components could be realized with high-performance. The typical waveguide loss is ~ 0.15 dB / cm. The MMI couplers show state-of-the-art performance in terms of excess loss, imbalance, polarization-dependent loss and phase accuracy. Based on these components, the performance of the MZ-DIs was investigated. Typical extinction ratios are in the range of 30 dB. The polarization-dependent frequency shift (PDFS) could be reduced to about 0.2 GHz. This is possible by generation of stress through the deposition of a cladding resulting in a change of the waveguide birefringence. Dynamic measurements confirm that the realized MZ-DIs in 4µm SOI technology are able to demodulate DPSK data signals. Furthermore, the hybrid integration of active InP components on SOI platform has been demonstrated. Based on flip-chip technology, an integrated optical DPSK receiver and an integrated all-optical wavelength converter were realized. The hybrid integration as well as the optical functionality of the components is demonstrated successfully. This was accomplished by TU-Berlin in cooperation with other European universities and the company u2t-potonics.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Dissertation befasst sich mit der Realisierung integriert-optischer Komponenten im Materialsystem Silicon-on-Insulator (SOI). Ein Schwerpunkt bildet die Realisierung von Mach-Zehnder Delay Interferometern (MZ-DI) in 4µm SOI-Technologie und die Frage, ob derartige Interferometer zur Demodulation phasenmodulierter Datensignale im hochbitratigen Bereich geeignet sind. Die Dissertation befasst sich zunächst mit dem Design der Basiskomponenten eines MZ-DI in SOI-Technologie. Zu diesen Komponenten zählen einmodige Wellenleiter und Multimode-Interferenzkoppler. Die anfangs simulativ optimierten Komponenten konnten durch Iterationen bei der Fabrikation mit sehr guter Performance realisiert werden. Die SOI-Wellenleiter weisen typische Verluste von ~ 0.15 dB/cm auf. Die Interferenzkoppler weisen hinsichtlich Abstrahlverluste, Imbalance, polarisationsabhängigen Verlusten und Phasengenauigkeit eine State-of-the-art performance auf. Basierend auf diesen Basiskomponenten konnten MZ-DI hoher Güte realisiert werden. Typische Auslöschungen liegen im Bereich von 30 dB. Der polarisationsabhängige Frequenzshift (PDFS) der Interferometer konnte bis auf ~ 0.2 GHz reduziert werden. Das dazu entwickelte Verfahren beruht auf dem photoelastischen Effekt, wobei der durch eine Oberflächenschicht generierte Stress die Doppelbrechung von SOI-Wellenleitern beeinflusst. Durchgeführte Systemtests erbrachten den Nachweis, dass in SOI-Technologie realisierte MZ-DI zur Demodulation phasenmodulierter Datensignale geeignet sind. Weiterhin wird die Eignung photonischer Chips in SOI-Technologie als Plattform für die Integration aktiver InP-Komponenten (Photodetektoren, optische Verstärker) in Flip-Chip Technologie untersucht. Hintergrund ist dabei die Realisierung integriert-optischer DPSK Empfänger und die Realisierung integriert-optischer Wellenlängenkonverter. In Kooperation mit anderen europäischen Universitäten und der Firma u2t-Photonics konnte die Flip-Chip Integration als solche sowie die optische Funktionalität der jeweiligen Gesamtkomponente erfolgreich demonstriert werden.</dc:description>
+          <dc:date>2012-06-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3341</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35568</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35568</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3341/voigt_karsten.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

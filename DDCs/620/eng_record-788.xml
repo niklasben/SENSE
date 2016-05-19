@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:788">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:788</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Structure-Oriented Exchange of Product Model Data</dc:title>
+          <dc:creator>Baumann, Richard A.</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Austausch von Produktmodelldaten zwischen verschiedenen CAD-Systemen gilt als Schlüsseltechnologie für Unternehmenskollaborationen und integrierte Prozessketten. Dem etablierten Gestaltdatenaustausch wird eine neue Methode für den Austausch Feature-basierter CAD-Modelle gegenübergestellt. Der Autor führt die Idee der Strukturorientierung als Charakteristik einer standardisierten Modellrepräsentation ein, welche die Produktgestalt exakt abbilden und dabei die vollständige Änderbarkeit im Zielsystem gewährleisten soll. Es werden zwei methodische Ansätze identifiziert: Der explizite Ansatz fügt einer Hierarchie von Gestaltmodellen strukturelle Informationen hinzu. Der implizite Ansatz nutzt den Umstand, dass die Modellstruktur alle Informationen für Erzeugung und Änderung der Produktgestalt implizit enthält. Der Datenaustausch kann somit auf das Feature-Modell reduziert werden. Bis auf wenige Ausnahmen wird die Repräsentation von Gestaltdaten obsolet. Implementierungen für kommerzielle CAD-Systeme werden beschrieben. Eine Kosten-Nutzen-Analyse und Stellungnahmen bekannter Unternehmen unterstreichen die Anwendbarkeit im industriellen Umfeld.</dc:description>
+          <dc:description xml:lang="eng">Exchange of product model data between different CAD systems is key technology for enterprise collaboration and for the integration of computer-aided process chains. To overcome the current situation of shape-centred data exchange, a new exchange method for feature-based CAD models is proposed. As a key characteristic of a standardised model representation the author introduces the idea of structure orientation which aims at preserving the exact product shape while guaranteeing full alterability within the receiving CAD system. Two methodical approaches to structure-oriented model representation are identified. The explicit approach adds structural information to a hierarchy of shape models. The implicit approach takes advantage of the fact that the product model structure incorporates all essential information for model generation and modification. Data exchange can therefore be limited to a structural feature model and, apart from distinct exceptions, shape model representation becomes obsolete altogether. Implementation for commercial CAD systems is described. A cost-benefit analysis and statements from well-known companies underline applicability in industrial environments.</dc:description>
+          <dc:date>2004-11-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/788</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7820</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7820</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/788/baumann_richard.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

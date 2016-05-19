@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1364">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1364</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Transformation-Based Component Architectures - General Framework, Instantiations and Case Study</dc:title>
+          <dc:title xml:lang="deu">Transformationsbasierte Komponentenarchitekturen - Konzept, Instantiierungen und Fallstudie</dc:title>
+          <dc:creator>Klein, Markus</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The thesis introduces an abstract framework for the specification of software components with multiple require and provide interfaces that allows the specification of multiple access to a single provide interface. Component connections are given by families of transformations connecting require and provide interfaces. Component composition is defined in terms of extension and multiple extension of transformations or transformation families, respectively. It is proven that the result of two composition steps is not affected by the order of calculation. The framework offers a semantics to component architectures by reducing them to components by composition. This semantics is proven to be well-defined and unique if multiple extension and composition of extension diagrams as well as disjoint require interfaces are given. Moreover, the framework offers a semantics for components which is shown to be compositional. The abstract framework is primary meant to be instantiated with formal specification techniques featuring a mathematical semantics, and thus, enabling the application of formal analysis techniques like formal verification and model-checking to component architectures specified by those techniques. Nevertheless, it is also possible to instantiate the framework with specification techniques lacking a formal mathematical semantics. This framework can be regarded as a generalization of abstract hierarchical and connector based architecture specification approaches because both turn out to be special cases of the concept presented here. Besides small examples accompanying the formal definitions and theorems a case study using elementary nets and UML diagrams demonstrates the applicability of the framework. This includes instantiations of the framework for the corresponding techniques. Moreover, the framework is instantiated with adhesive HLR categories.</dc:description>
+          <dc:description xml:lang="deu">Die Arbeit stellt ein abstraktes Konzept für die Spezifikation von Softwarekomponenten vor, welches die Spezifikation von Komponenten mit jeweils mehreren anbietenden und fordernden Schnittstellen unterstützt. Die Verbindung von Komponenten ist durch Familien von Transformation zwischen fordernden und anbietenden Schnittstellen definiert. Die Komposition von Komponenten wird mittels Erweiterung und multipler Erweiterung von Transformationen und Transformationsfamilien definiert. Das Konzept beinhaltet eine Semantik für Komponentenarchitekturen durch Reduktion zu einer einzelnen Komponente. Diese Reduktion ist durch die Komposition von Komponenten realisiert. Es wird bewiesen, dass die angegebene Architektursemantik wohldefiniert und eindeutig ist, wenn Erweiterung und multiple Erweiterung von Transformationen, Komposition von Extensionsdiagrammen und disjunkte fordernde Schnittstellen in den Komponenten gegeben sind. Darüberhinaus bietet das Konzept eine Semantik für einzelne Komponenten, deren Verträglichkeit mit der Komposition bewiesen wird. Das Konzept vorgestellte ist primär für eine Instantiierung mit formalen Spezifikationstechniken ausgelegt. Die formale mathematische Semantik solcher Techniken bildet, zusammen mit dem vorgestellten Konzept, einen Ausgangspunkt für die Anwendung formaler Analysetechniken, zum Beispiel formale Verifikation und Model-Checking, auf entsprechende komponentenbasierte Architekturspezifikationen. Trotzdem ist es möglich das Konzept mit Techniken ohne formale mathematische Semantik zu instantiieren. Das vorgestellte Konzept kann als eine Generalisierung von abstrakten hierarchischen und konnektorbasierten Ansätzen zur Architekturspezifikation gesehen werden, da in beiden Fällen gezeigt werden kann, dass es sich um Spezialfälle des Konzeptes in dieser Arbeit handelt. Neben kleineren Beispielen zur besseren Verständlicheit der abstrakten Definitionen und Theoreme, demonstriert eine Fallstudie die Anwendbarkeit des Konzeptes. Dabei werden die Spezifikationstechniken der Elementarnetze und der UML Diagramme angewendet. Dies beinhaltet auch eine Instantiierung des abstrakten Konzeptes mit den jeweiligen Techniken. Desweiteren wird eine Instantiierung für AHLR-Kategorien präsentiert.</dc:description>
+          <dc:date>2006-11-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1364</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14091</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14091</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1364/klein_markus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

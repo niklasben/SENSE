@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3532">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3532</identifier>
+        <datestamp>2013-11-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Translational expressiveness: comparing process calculi using encodings</dc:title>
+          <dc:title xml:lang="deu">Translational Expressiveness. Vergleich von Prozess Kalkülen mit Hilfe von Kodierungen</dc:title>
+          <dc:creator>Peters, Kirstin</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">We study the relation between process calculi—in particular between variants of the pi-calculus and the join-calculus—that differ in their either synchronous or asynchronous interaction mechanism. Synchronous and asynchronous interactions are the two basic paradigms of interactions in distributed systems. While synchronous interaction is widely used in specification languages, asynchronous interaction is often better suited to implement real systems. We are interested in the conditions under which synchronous interactions can be implemented using just asynchronous interactions. We compare the different variants of the calculi with respect to their expressive power. To do so we analyse the existence of encodings between the languages, i.e., translations of the processes of one language into processes of another language. In particular we are interested in encodings that preserve distributability, i.e., in translations that to not reduce the degree of concurrency of the translated processes. We discuss positive as well as negative results between synchronous and asynchronous variants of the pi-calculus and the join-calculus.</dc:description>
+          <dc:description xml:lang="deu">Wir untersuchen die Beziehung zwischen Prozesskalkülen – insbesondere zwischen verschiedenen Varianten des Pi-Kalküls und dem Join-Kalkül – die sich in den verwendeten Interaktionsmechanismen unterscheiden. Dabei unterscheiden wir im Wesentlichen zwischen synchronen und asynchronen Interaktionsmechanismen, als Basisformen von Interaktion in verteilten Systemen. Aufgrund ihrer größeren Ausdrucksstärke werden synchrone Interaktionsmechanismen oft in Spezifikationen benutzt, asynchrone Interaktionsmechanismen lassen sich in der Regel aber leichter in realen Systemen implementieren. Wir untersuchen unter welchen Bedingungen eine Abbildung synchroner Interaktionen in asynchrone Interaktionen möglich ist. Dazu vergleichen wir die Ausdrucksstärke verschiedener Varianten von Prozesskalkülen, indem wir untersuchen, ob zwischen diesen Sprachen eine Kodierung existieren kann. Besonders interessieren wir uns für die Möglichkeit einer Kodierung, welche den Grad der Verteilbarkeit der zu übersetzenden Prozesse bewahrt. Wir diskutieren verschiedene Resultate sowohl für die Möglichkeit als auch für die Unmöglichkeit einer solchen Kodierung zwischen Varianten des Pi-Kalküls und dem Join-Kalkül.</dc:description>
+          <dc:date>2012-11-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3532</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37495</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37495</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3532/peters_kirstin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

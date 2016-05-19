@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:714">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:714</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Grundlagenuntersuchung zum Teilentladungsverhalten in kunststoffisolierten Mittelspannungskabeln bei Prüfspannungen mit variabler Frequenz und Kurvenform</dc:title>
+          <dc:creator>Pepper, Daniel</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit berichtet über Grundlagenuntersuchungen des Teilentladungsverhaltens von typischen Fehl-stellen kunststoffisolierter Mittelspannungskabel bei Prüfspannungen mit variabler Frequenz und Kurvenform. Ausgelöst wurde die Untersuchung durch die verstärkte Anwendung von alternativen Prüf-spannungen zur Vor-Ort-Kabelprüfung, die Tendenz zur Integration von Teilentladungs- (TE-) Meßtechnik in Kabel-prüf-anlagen und die dabei auftretenden offenen Fragen. Es sollen die Vergleich-barkeit der TE-Meß-ergebnisse von netzfrequenter Wechselspannung mit den TE-Meßergebnissen bei alternativer Prüfs-pannung sowie die Übertragbarkeit der bisherigen Erfahrungen mit Teilentladungen bei netz-frequenter sinusförmiger Wechselspannung geklärt werden. Um die Untersuchungen zu ermöglichen, wurde im Rahmen dieser Arbeit eine Prüfspannungsquelle entwickelt und aufgebaut, die nur sehr geringe elektromagnetische Störungen emittiert und damit eine empfindliche Teilentladungsmessung ermöglicht. Außerdem erlaubt die Prüfspannungsquelle die vollkommen freie und unabhängige Variation von Frequenz, Kurven-form und Amplitude der Prüfspannung. Mit dieser Quelle wurden Prüf-spannungen von kommerziell erhältlichen Anlagen zur Vor-Ort-Prüfung von Mittel-spannungs-kabeln für systematische Untersuchungen erzeugt. An der neuen Prüfspannungsquelle konnten Parameter variiert werden, die in den kommerziell erhältlichen Anlagen zum Teil nicht oder nur sehr begrenzt verändert werden können. Außerdem wurden bisher nicht realisierbare Prüf-spannungen erzeugt. Der überwiegende Teil der kommerziell erhältlichen Prüfspannungsquellen mit alternativen Prüf-spannungen ist nicht störungsarm genug, um eine empfindliche Teilentladungsmessung zuzulassen. Mit der neu entwickelten und realisierten Prüfs-pannungs-quelle konnten die Ausgangsspannungen dieser Prüfspannungsquellen erzeugt und außerdem eine empfindliche TE-Messung an diesen Prüfspannungen durchgeführt werden. Für die Erfassung, Auswertung und Analyse von Teilentladungen wurde ein computer-gestütztes, digitales Meß-system (TEmess) entwickelt, das IEC-60270-konforme Teil-entladungs-messungen bei allen erzeugten Prüfspannungen ermöglicht. Teilentladungsmessungen fanden an typischen Fehlstellen für kunststoffisolierte Mittel-spannungs-kabel statt. Außerdem wurden einige Fehlstellen untersucht, die als Referenz dienen können, da die Mechanismen für die Entstehung der Teilentladungen an ihnen gut bekannt und ausgiebig untersucht sind. Die Versuchsergebnisse umfassen sowohl die Veränderung der Fehl-stellen unter dem Einfluß der Teilentladungen als auch Resultate zu den spezifischen Größen der Teil-entladungs-aktivität an den Fehlstellen. Dazu gehören unter anderem die TE-Einsetzspannung, die TE-Intensität und die Häufigkeit der Teilentladungen, aber auch abgeleitete Größen wie der charak-teristische Impuls-abstand und die phasenaufgelösten Häufigkeitsdiagramme der Teil-entladungs-aktivität. Die Ergebnisse zeigen, daß mit den hier untersuchten alternativen Prüfspannungen an den ausge-wählten Fehlstellen im wesentlichen ähnliche TE-Meß-ergeb-nisse wie bei netzfrequenter Bean-spruchung gewonnen werden können. Jedoch weichen in Einzel-fällen die TE-Meßergebnisse bei alternativer Prüfspannung erheblich von jenen ab, die bei netz-frequenter Wechsel-spannung gewonnen werden. Es kann aber generell festgestellt werden, daß die hier untersuchten Prüfspannungsarten ähnliche Eigenschaften bezüglich der Aufdeckung einer TE-behafteten Fehlstelle bei einer Vor-Ort-Kabelprüfung aufweisen. Eine physikalische Interpretation der Untersuchungsergebnisse liefert zudem neue Erkenntnisse über die Vorgänge, die bei Teilentladungen stattfinden. Mit den Erkenntnissen über die Teil-entladungs-aktivität verschiedener Fehlstellen bei variabler Prüfspannung werden weitere Kriterien zur Beurteilung möglicher Prüfverfahren kunststoffisolierter Mittelspannungskabel abgeleitet.</dc:description>
+          <dc:date>2003-08-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/714</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7086</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7086</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/714/pepper_daniel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

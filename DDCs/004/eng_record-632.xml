@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:632">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:632</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The Influence of Proportional Jitter Scheduling Algorithms on Differentiated Services Networks</dc:title>
+          <dc:title xml:lang="deu">Der Einfluß der Proportionalen Jitter Scheduling-Verfahren auf Differentiated Services Netzwerk</dc:title>
+          <dc:creator>Ngo Quynh, Thu</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Damit das Internet für kommerzielle Zwecke weiterhin genutzt werden kann, müssen neue Dienste entwickelt werden, die den Anforderungen neuer Applikationen entsprechen. Hierbei ist man sich einig, dass es mehrere Dienstklassen geben muss, die unterschiedlichen Verkehrsarten jeweils unterschiedliche Prioritäten zuweisen. Daten mit einer höheren Priorität sollen eine bessere Dienstgüte erhalten. Die "Differentiated Services Architecture (DiffServ)" bietet solche Dienstklasse an. Eine vielfach diskutierte Erweiterung von DiffServ ist das "Proportional Differentiated Services Model", dass gegenüber DiffServ eine feinere proportional Aufteilung der Dienstklassen ermöglicht. Zu den Diensten gehören etwa der "Proportional Delay Service (PDDM)", der "Proportional Loss Service" oder WTP, BPR, MDP und DDTS. Untersuchen haben gezeigt, dass eine vereibarte per-class proportional End-to-end Dienstgüte nicht immer eingehalten werden kann. Dies gilt auch, wenn der Scheduling-Verfahren in allen Routern implementiert ist. Um die End-to-end Dienstgüte zu verbessern, wurde in dieser Arbeit ein neues und einfacheres Modell entwickelt, das "Proportional Jitter Differentiated Modell (PJDM)" gennant wird. Das Modell basiert auf unterschiedliche Dienstklassen, die einen proportionalen Jitter garantieren und nicht proportionale Verluste oder Verzögerungen garantieren. Ein weiteres Merkmal des Modells ist es, dass Scheduling-Verfahren nicht in jeden Router implementiert werden müssen. Es wurden vier neue Scheduling-Verfahren untersucht: Das "Relative Jitter Packet Scheduling (RJPS)" und "Proportional Average Jitter (PAJ)" ermöglichen langfristige und kurzfristige Stabilisierung des Jitters- Ratios zwischen unterschiedlichen Dienstklassen. Um adaptive auf das Verhalten des Netzwerkes reagieren zu können, wurden zwei weitere Scheduling-Verfahren basieren auf RJPS und PAJ entwickelt, die sich anhand von Adaptive Jitter Differentiation Parametern an "Bursty Traffic" anpassen. Die Verfahren werden "Adaptive RJPS" und "Adaptive PAJ" genannt. Bei einem simulativen Vergleich der beiden Modelle (PDDM und PJDM) hat sich gezeigt, dass in Bezug auf die End-to-end Verzögerung das neue PJDM erheblich bessere Resultate vorweisen kann und somit zu einer besseren End-to-end Dienstgüte führt.</dc:description>
+          <dc:description xml:lang="eng">The transformation of the Internet into an important commercial infrastructure in the recent years has led to the emergence of new service needs as it is required to carry a wide range of application information. It is widely agreed that the Internet architecture should offer some type of service differentiation, so that some traffic classes get better QoS (Quality of Service) than others. Currently, the attention of the research community has been focused on the Differentiated Service Architectures (DiffServ. A model attracting much attention from the research communities recently is the Proportional Differentiated Service Model, which provides proportional services between different classes. There are some existing studies on mechanisms to provide the proportional service, such as Proportional Delay Service (PDDM), Proportional Loss Service, WTP, BPR, MDP, and DDTS etc. Even when such mechanisms are implemented at every router, it is not always possible to receive per-class proportional service in an end-to-end manner. In order to overcome this issue, attention concentrates on developing a new and simple model (called Proportional Jitter Differentiated Services - PJDM) that does provide proportional jitter between different classes based on the Jitter Differentiation Parameters. Unlike other existing approaches, it is unnecessary to have complicated scheduling algorithms at every router in networks based on PJDM model. Subsequently, the issue of related packet scheduling problems is considered: four new schedulers for PJDM model are created in this work. The Relative Jitter Packet Scheduling (RJPS) and the Proportional Average Jitter (PAJ) algorithms provide long-term jitter and short-term jitter ratio proportionally between different classes. Furthermore I consider the use of variable Jitter Differentiation Parameters in RJPS and PAJ, this idea leads me to create two new mechanisms, called Adaptive RJPS and Adaptive PAJ, which are more robust than the previous RJPS/PAJ mechanisms under bursty traffic profiles. The focus then shifts to a comparison of quality of service provided by PDDM and PJDM in terms of end-to-end delay. Results received from my simulation confirm that the topologies based on my new model PJDM achieve significantly better quality of service than the others, which derive from the old model PDDM.</dc:description>
+          <dc:date>2003-12-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/632</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6264</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6264</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/632/ngo_thu.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

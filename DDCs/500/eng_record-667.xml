@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:667">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:667</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Differenzierung der domestizierten und der Wildform von Sus scrofa in Lebensmitteln</dc:title>
+          <dc:creator>Butschke, Andreas M. O.</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wurden zahlreiche DNA-analytische Untersuchungen wie PCR-RFLP, RAPD oder Sequenzierung an Haus- und Wildschweinen vorgenommen. Durch Vergleich von Mustern und Sequenzen wurde geprüft, ob es sich um individuelle Merkmale handelt oder um gruppenspezifische Marker, die für eine Differenzierung der domestizierten Form vom Wildschwein verwendet werden können. Untersucht wurden drei Gene, die in Zusammenhang mit dem äußeren Erscheinungsbild des Tieres gebracht werden  das Melanocortin-1-Rezeptor-Gen, das Tyrosinase-Gen und das Immunorezeptor DAP10-Gen. Weiterhin wurde ein Gen, zwei nicht-codierende Bereiche und Introns untersucht, die nicht mit äußeren Merkmalen in Verbindung stehen  das Cytochrom B-Gen, der D-Loop-Bereich und der repetetive Bereich des Mikrosatelliten S602 sowie Introns des Immunorezeptor DAP10-Gens. Besondere Aufmerksamkeit galt dabei dem cytB-Gen, da hier bereits eine RFLP-Analytik für die Differenzierung von Haus- und Wildschweinen etabliert war, die es zu untersuchen galt. Die DNA-Sequenzvergleiche zeigten bei den untersuchten Tieren der Art Sus scrofa eine große Homogenität im Vergleich zu den Unterschieden zwischen Tieren verschiedener Arten. Bei Sequenzabweichungen handelt es sich in der Regel um isolierte Punktmutationen, die von der Art her ausschließlich Substitutionen und keine Deletionen sind. Lediglich bei der repetetiven Sequenz ist eine unterschiedliche Anzahl an Repeats und einer daraus resultierenden unterschiedlichen Länge der DNA-Sequenz vorhanden, die jedoch nicht gruppenspezifisch ist. Eine Analytik zur Differenzierung der Formen beruht somit auf der Identifizierung von Punktmutationen. Bei Untersuchung der publizierten Differenzierungsmethoden oder Sequenzheterologien von Haus- und Wildschweinen zeigte sich, dass die Muster und Sequenzen innerhalb einer Form nicht homogen sind. Es gab bei jedem Marker mehrere Individuen einer Form, deren DNA-Sequenz von der der anderen Tiere abwich. Auch bei den weiteren untersuchten Sequenzen konnten keine Mutationen gefunden werden, die bei allen Individuen einer Form identisch waren. Die Sequenzheterogenität unter allen Individuen ist größer als die zwischen der Wild- und der domestizierten Form. Für die Differenzierung der Formen ist somit die Anwendung mehrerer Marker notwendig. Die genaueste Aussage über die Identität der Probe lässt sich aufgrund der Sequenzierung mehrerer DNA-Abschnitte vornehmen. Insgesamt konnten 14 Marker, die für die Unterscheidung der Formen geeignet sind, identifiziert werden. Einige wichtige Marker lassen sich über eine PCR-RFLP-Analyse identifizieren, für zwei Marker im D-Loop wurde ein Real-Time-PCR-System entwickelt.</dc:description>
+          <dc:date>2004-04-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/667</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6615</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6615</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/667/butschke_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3680">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3680</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Presenting Visual Information in Three-Dimensional Space</dc:title>
+          <dc:title xml:lang="deu">Visuelle Informationsdarstellung im dreidimensionalen Raum</dc:title>
+          <dc:creator>Lichtenstein, Antje</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:description xml:lang="eng">This doctoral thesis is concerned with the question of whether the location of visual information in three-dimensional space influences human perception and processing. It examines task-specific characteristics of visual information processing in perceptual depth. After a thorough description of the theoretical background and the state of the art in corresponding scientific research, four experiments are described, which systematically varied several dimensions of intelligence (verbal, numeric, figural, crystalline, fluid) and examined the impact of display location on user performance (time, error). In addition, the question of whether concurrent information presentation in two perceptual depth planes leads to improved re-source allocation, is considered. Results indicate that visual information processing is sensitive to display location and that the optimal position in 3D depends on task type. Observed effects in the real three-dimensional space are compared to a virtual environment (CAVE) in a further experiment. The thesis finally discusses results from a neuropsychological point of view and indicates, to what extent the third perceptual dimension should be considered in human-machine-interface design.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit befasst sich mit der Frage, ob die Position einer visuellen Information im Raum die Aufnahme und Verarbeitung dieser Information beeinflusst. Untersucht werden aufgabenspezifische Unterschiede der visuellen Informationsverarbeitung im dreidimensionalen Raum, in zwei verschiedenen räumlichen Tiefenebenen. Nach einer ausführlichen Beschreibung des theoretischen Hintergrunds und des aktuellen Stands der Wissenschaft werden vier Experimente dargestellt, die systematisch verschiedene Dimensionen von Intelligenz (verbal, numerisch, figural, Wissen, Problemlösen) variiert und die Auswirkungen der Anzeigeposition im Raum auf die Probandenleistung (Reaktionszeit, Fehler) untersucht haben. Des Weiteren wird der Frage nachgegangen, ob die gleichzeitige Informationsdarstellung in zwei verschiedenen räumlichen Tiefenebenen zu einer Verbesserung der Nutzung von Verarbeitungsressourcen führt. Die Ergebnisse lassen darauf schließen, dass visuelle Informationen abhängig vom Darstellungsort verarbeitet werden und die optimale Position vom Aufgabentyp abhängig ist. In einem weiteren Experiment werden beobachtete Effekte aus dem realen dreidimensionalen Raum mit denen aus einer virtuellen Umgebung (CAVE) verglichen. Die Arbeit diskutiert abschließend die Ergebnisse aus neuropsychologischer Sicht, in Hinblick auf die Allokation kognitiver Ressourcen und möglicher Anwendungsbereiche und erwägt, inwieweit die dritte räumliche Dimension bei der Gestaltung von Mensch-Maschine-Schnittstellen Berücksichtigung finden sollte.</dc:description>
+          <dc:date>2013-04-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3680</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38416</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38416</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3680/lichtenstein_antje.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

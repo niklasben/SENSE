@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1825">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1825</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Tight-Binding Simulationen von InAs/GaAs Quantenpunkten</dc:title>
+          <dc:title xml:lang="eng">Tight-Binding simulations of InAs/GaAs quantum dots</dc:title>
+          <dc:creator>Kleinsorge, Alexander</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Seit einigen Jahren ist das technische Potential von selbstorganisiert gewachsenen Quantenpunkten (QDs) bekannt. Um sie jedoch als effektive Lichtquelle oder Speicherelement nutzen zu können, müssen ihre elektronischen Eigenschaften vorhersagbar sein. Daher untersuche ich in dieser Arbeit InAs-Quantenpunkte auf einem Substrat aus GaAs. Nachdem die Atompositionen mit einem Viel-Körper-Potential vom Abell-Tersoff-Typ relaxiert wurden, berechnete ich die elektronische Struktur mit Hilfe der Tight-Binding-Methode, welche für solch große Systeme sinnvoll ist. Beim Betrachten der Abhängigkeit der Wellenfunktionen von der Form, Größe und Temperatur zeigte sich die Wirkung der Verspannung als Hauptanteil an der P-Aufspaltung. Da typischerweise flache QDs (relativ zur lateralen Ausdehnung) gewachsen werden, hängt die Energie der gebundenen Zustände hauptsächlich von deren Höhe ab. Die Kristallorientierung hat einen deutlichen Einfluss auf die Wellenfunktionen. Zudem können nun STS-Experimente, die den Zusammenhang von Form und Wellenfunktion untersuchten, besser verstanden werden. Da Halbleiter-Quantenpunkte gleichzeitig mit einem Elektron und einem Loch besetzt sein können, tritt (auf Grund deren unterschiedlichen Verhaltens im QD) ein Dipolmoment dieses Exzitons auf. Dies stellt einen weiteren experimentellen Zugang zu den inneren Details dar. Ich ermittle das Zusammenspiel von Kompositionsprofil und Dipolmoment. Die Wirkung zusätzlicher Potentiale (Piezoelektrizität, äussere homogene und inhomogene elektrische Felder) ist auch Gegenstand meiner Untersuchungen. Abschließend führe ich noch kMC-Simulationen durch, um Annealing-Experimente besser verstehen zu können. Ich konnte die Abnahme der PL-Peakbreite erklären und eine Auswirkung des Verspannungsfeldes auf den Diffusionsverlauf (und daraus folgende elektronische Eigenschaften) zeigen.</dc:description>
+          <dc:description xml:lang="eng">For several years, the technological potential of self-organized grown quantum dots (QD) has been known. Their usage as an effective light source or memory requires the precise prediction of their electronic properties. Hence, this report will study InAs quantum dots at GaAs substrate. After relaxing the atomic positions with a many body potential of Abell-Tersoff type, I calculated the electronic structure using the Tight-Binding method which is reasonable for large systems. During the investigation of wavefunctions depend on the shape, size and temperature, the impact of strain showed up as the main reason for the p-splitting. Typically flat QDs (relative to lateral dimensions) are grown, therefore the energy of bound states depends mostly on their height. The crystal's orientation had a strong impact on the wavefunctions. Moreover, the understanding of STS experiments, which inspected the connection between shape and wavefunction, is better now. Because of the possible simultaneous occupation of semiconductor quantum dots with an electron and a hole, there is a dipole moment of the exciton (due to their different behaviour inside the QD). This is a further experimental access to inner details of the QD. I ascertained the interplay of composition profile and dipole moment. The force caused by additional potentials (piezoelectricity, outer homogen and inhomogen electrical fields) was also an subject of my inquiries. To conclude, I executed kMC simulations, to better apprehend the annealing experiments. I was able to explain the narrowing of the PL peak width better. Furthermore I showed a ramification of the strain field to the diffusion development (and the following electronic properties).</dc:description>
+          <dc:contributor>Fritz Haber Institut der Max Planck Gesellschaft</dc:contributor>
+          <dc:date>2008-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1825</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18275</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18275</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1825/original_kleinsorge_alexander.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1825/kleinsorge_alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

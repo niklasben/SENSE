@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2913">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2913</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Dynamic Force Microscopy on Ultrathin Alumina - Surface Oxygen Lattice, Domain Boundaries, Adsorption Sites</dc:title>
+          <dc:title xml:lang="deu">Dynamische Kraftmikroskopie an Ultradünnem Aluminiumoxid - Oberflächen-Sauerstoffgitter, Domänengrenzen, Adsorptionsplätze</dc:title>
+          <dc:creator>Simon, Georg Hermann</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">This thesis presents an atomic resolution dynamic force microscopy study of the ultrathin ordered aluminium oxide film on (110) oriented surfaces of NiAl, the latter being an ordered refractory alloy. Work has been carried out in the context of model catalysis where aluminium oxide/NiAl(110) is used as a model support for nanoparticles. Frequency modulation dynamic force microscopy (FM-DFM) in ultrahigh vacuum at cryogenic temperatures employing a dual-mode sensor has been used. The home-built sensor implements FM-DFM and scanning tunnelling microscopy (STM) into a quartz tuning fork setup with a metal tip. This allows to record both signals simultaneously but clearly separate from another at the respective position on the sample. FM-DFM has been found to give an image contrast that reproduces the complex topography of the oxygen sublattice within the film surface with high accuracy. Equipped with this contrast a detailed study of the characteristic line defect network of the alumina/NiAl(110) including strain relief induced antiphase domain boundaries, translation related domain boundaries, reflection domain boundaries and junctions between them could be carried out. Atomic resolution images and models of the respective surface structures are presented. Three translation domain boundaries as well as the reflection domain boundaries and the boundary junctions had not been previously described with respect to their atomic structures. Based on the acquired FM-DFM data, a comprehensive picture of the boundary network at the atomic scale has been derived. The aforementioned topographic contrast together with structural information has finally been taken as prerequisites for an atomic scale adsorption study conducted with gold atoms on the alumina film. It is shown that the imaging capabilities of FM-DFM allow the determination of adsorption positions of individual gold ad-atoms on this oxide surface.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit stellt eine Studie mit atomar auflösender Kraftmikroskopie an dem ultradünnen Aluminiumoxid Film auf (110) orientierten Oberflächen von NiAl vor. Wobei NiAl eine geordnete, hoch temperaturfeste Legierung ist. Die Arbeit wurde im Kontext der Modellkatalyse ausgeführt, wo Aluminiumoxid/NiAl(110) als Modellunterlage für Nanopartikel genutzt wird. Frequenzmodulierende dynamische Kraftmikroskopie (FM-DFM) im Ultrahochvakuum und bei tiefen Temperaturen wurde unter Benutzung eines Zweikanal-Sensors angewandt. Der selbstgebaute Sensor implementiert FM-DFM und Rastertunnelmikroskopie (STM) in einem Quartz- Stimmgabel-Aufbau mit einer Metallspitze. Dies ermöglicht es beide Signale gleichzeitig, aber klar voneinander getrennt, an der jeweiligen Position auf der Probe aufzuzeichnen. Es stellte sich heraus, dass FM-DFM einen Kontrast erzeugt, der die komplexe Topografie des Sauerstoffgitters an der Oberfläche mit großer Genauigkeit wiedergibt. Ausgestattet mit solch einem Kontrast konnte eine detaillierte Studie des charakteristischen Netzwerks von Liniendefekten des Aluminiumoxid/NiAl(110) einschließlich spannungs- und translations-bedingter Domänengrenzen sowie Reflexionsdomänengrenzen durchgeführt werden. Atomar aufgelöste Bilder und Modelle der jeweiligen Strukturen werden präsentiert. Drei Translationsdomänengrenzen, sowie die Reflexionsdomänengrenzen und die Domänengrenzenknoten waren zuvor nicht bezüglich ihrer atomaren Strukturen beschrieben worden. Ausgehend von den aufgenommenen FM-DFM Daten konnte ein umfassendes Bild des Domänengrenzennetzwerks auf atomarer Skala abgeleitet werden. Der oben erwähnte topografische Kontrast ist schließlich zusammen mit der Strukturinformation als Ausgangspunkt für eine Adsorptionsstudie mit Gold auf dem Aluminiumoxidfilm genommen worden. Es wird gezeigt, dass die Abbildungsmöglichkeiten von FM-DFM die Bestimmung von Adsorptionspositionen individueller Goldatome auf dieser Oxidoberfläche erlauben.</dc:description>
+          <dc:date>2011-06-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2913</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30780</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30780</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2913/simon_georghermann.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

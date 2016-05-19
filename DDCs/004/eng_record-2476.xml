@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2476">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2476</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">An underlay system for dynamic and distributable Web applications</dc:title>
+          <dc:title xml:lang="deu">Ein Underlay System für dynamische und verteilte Webapplikationen</dc:title>
+          <dc:creator>Pfeffer, Heiko</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The Web has continuously developed towards a sophisticated platform for user-centric applications characterized by a rich graphical presentation and a high degree of user interactivity. This trend has been fueled by the increasing importance and heterogeneity of mobile user devices such as smartphones, PDAs and netbooks. In this case, the Web browser constitutes the unified platform that provides a high degree of independence from the underlying hardware and operating systems. Mashups are composed Web applications that combine multiple services stemming from different 3rd party providers into a custom Web application. Web mashups can thus be considered as the Web's service compositions. However, such mashups are created by software developers by gluing together open APIs via scripting languages, so that Web mashups expose considerable shortcomings with regard to readability and reusability of code, dynamic integration of services, and methods for a user-centric creation beyond explicit programming techniques. In this thesis, an underlay system for Web applications is introduced that features a resource-oriented view on services and data and thereby combines the advantages of classic service composition languages with the rich graphical presentation and user-centric nature of Web mashups. Here, the underlay system abstracts from concrete services and thereby can be dynamically deployed on different sets of heterogeneous devices. The underlay system possesses two key properties that will enhance dynamicity within today's mashups. First, it can be dynamically distributed, so that each involved device is in control of its local services. This decoupling of devices increases the mashup's offline capabilities and provides a means for a private processing of user data. Second, the underlay system can be automatically created by common end-users, so that underlay systems can be employed for the rapid creation of Web mashups on top of end-user devices in a spontaneous manner. The work on the underlay system for Web applications was a joint project of the TU Berlin and Fraunhofer FOKUS. The results have been employed within the scope of multiple national and international research projects funded by the BMBF (UST+), the European Commission (BIONETS), and industry partners (uMASH, LCAI). Parts of the work have also been patented.</dc:description>
+          <dc:description xml:lang="deu">Das Web hat sich in den letzten Jahren zu einer Plattform für Applikationen entwickelt, die sich durch einen besonders hohen Grad an Benutzerinteraktivität und Medienreichtum auszeichnen. Die Bedeutung des Webs hat besonders durch die zunehmende Anzahl mobiler Endgeräte mit stetig steigender Leistungsfähigkeit wie z.B. Smartphones oder Netbooks zugenommen, für die der Web Browser einen einheitlichen Zugang zu Applikationen unabhängig von ihrer Hardwareausstattung und ihrem Betriebssystem darstellt. Mashups sind Webapplikationen, die sich aus mehreren von Drittanbietern bereitgestellten Diensten zusammensetzen, so dass Mashups als Dienstkompositionen innerhalb des Webs verstanden werden können. Solche Mashups werden jedoch von Softwareentwicklern erzeugt, indem offene APIs anhand von Skriptsprachen miteinander verbunden werden. Diese statische Kombination von Diensten und die Verwendung von Skriptsprachen führt zu erheblichen Nachteilen von Mashups in Bezug auf die Lesbarkeit und Wiederverwendbarkeit des Programmcodes, der dynamischen Integration von Diensten und der Erzeugbarkeit solcher Applikationen durch Endbenutzer abseits von klassischen Programmiersprachen. Im Rahmen dieser Arbeit wird ein Underlay System für Webapplikationen eingeführt, das sich durch seine ressourcenorientierte Sicht auf Dienste und Daten auszeichnet und dadurch die Vorteile von klassischen Dienstkompositionsansätzen mit denen von benutzer- und medienorientierten Web Mashups verbindet. Das Underlay System abstrahiert dazu von konkreten Diensten und ermöglicht so die Instantiierung von Mashups auf verschiedenen Gruppen unterschiedlicher Geräte. Darüber hinaus besitzt das Underlay System zwei zentrale Eigenschaften. Zum einen kann es automatisch auf mehrere Endgeräte verteilt werden, so dass jedes Geräte genau diejenigen Dienste kontrolliert, die es lokal ausführt. Diese Entkopplung von Geräten erhöht die Fähigkeit von Mashups, auch ohne kontinuierliche Verbindung zum Web partiell ausgeführt zu werden und eröffnet die Möglichkeit, sensible Daten nur auf vordefinierten Benutzergeräten zu halten, ohne sie über das Netzwerk zu übermitteln. Zum zweiten kann das Underlay System über eine spezielle Anfrage von Endbenutzern automatisch erstellt werden, so dass Benutzer Web Mashups spontan erzeugen und verwenden können. Die vorliegende Arbeit zur Thematik von Underlay Systems stellt das Ergebnis von Forschungsarbeiten sowohl im Rahmen der TU Berlin als auch des Fraunhofer Instituts FOKUS dar. Die Resultate wurden im Kontext von mehreren nationalen und internationalen Projekten, gefördert durch das BMBF (UST+), die Europäische Kommission (BIONETS) sowie Industriepartner (uMASH, LCAI), erarbeitet und verwendet. Teile der Arbeit wurden patentiert.</dc:description>
+          <dc:date>2010-03-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2476</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26058</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26058</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2476/pfeffer_heiko.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

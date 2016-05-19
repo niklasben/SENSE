@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1988">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1988</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Software Service Composition in Next Generation Networking Environments</dc:title>
+          <dc:title xml:lang="deu">Software Service Komposition in IP-basierten Telekommunikationsumgebungen der neusten Generation</dc:title>
+          <dc:creator>Bether, Carsten</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Recent and continuing changes in the telecommunication market, which have been driven by lowered barriers to market, affordable flatrate broadband access, and freely available, mature software environments, have inspired researchers and industry to search for new capabilities to provide telecom services in a more flexible manner. A survey conducted in the context of this thesis found that inadequacy, inflexibility and immense costs are the the issues most mentioned in association with existing infrastructures. Current tendencies show that telecommunication is moving toward a generic IP-based architecture, the Next Generation Network (NGN). At the same time, software engineering tends to implement flexible software solutions using Service-Oriented Architectures (SOA). Bringing telecommunication and software engineering together, this dissertation uses the complementarity of these two concepts to resolve known problems and propose solutions that emphasize the flexibility and agility needed in the provision of telecommunication services.</dc:description>
+          <dc:description xml:lang="deu">Gegenwaertige Veraenderungen in der Telekommunikationsindustrie werden durch verringerte Markteintrittsbarrieren, generell verfuegbare Flatrate Zugaenge sowie frei verfuegbare, ausgereifte Softwaretechnologien vorangetrieben. Diese Veraenderungen inspirieren derzeit sowohl Markteilnehmer als auch Forscher dazu, nach neuen Moeglichkeiten zur flexibleren Bereitstellung von Telekommunikationsdiensten zu suchen. Eine im Rahmen dieser Arbeit durchgefuehrte Umfrage zeigt, dass Inadequitaet, Inflexibilitaet und zu hohe Kosten die am haeufigsten genannten Gruende fuer die Unzufriedenheit mit vorhandenen Infrastrukturen sind. Gegenwaertige Trends zeigen, dass sich Telekommunikationsinfrastrukturen mehr und mehr zu einer IP-basierten Zukunftsarchitektur entwickeln, dem Next Generation Network (NGN). Gleichzeitig zeichnen sich im Software Engineering Tendenzen ab, flexible Softwareschichten mittels einer Service-Orientierten Architektur (SOA) zu realisieren. Die vorliegende Dissertation eroertert die Komplementaritaet beider Konzepte, um die genannten Herausforderungen derzeitiger Infrastrukturen aufzuweichen und moegliche Loesungen speziell fuer die benoetigte Agilitaet und Flexibilitaet bei der Bereitstellung von Telekommunikationsdiensten aufzuzeigen.</dc:description>
+          <dc:date>2008-12-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1988</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20785</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20785</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1988/original_bether_carsten.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1988/bether_carsten.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

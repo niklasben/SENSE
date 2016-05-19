@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:689">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:689</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A theoretical framework for the peak-to-average power control problem in OFDM transmission</dc:title>
+          <dc:title xml:lang="deu">Ein theoretischer Rahmen für das Spitzenwertprobem in der OFDM Übertragung</dc:title>
+          <dc:creator>Wunder, Gerhard</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Diese Promotionsarbeit beschäftigt sich mit dem Spitzenwertproblem in orthogonal frequency division multiplexing (OFDM-) Mehrträgersystemen. Das Mehrträgerverfahren OFDM hat sich als eine effiziente Übertragungstechnik in frequenz-selektiven, drahtlosen Schwundkanälen herausgestellt und sich auch bereits in mehreren technischen Standards etabliert. Ein gravierender Nachteil des Verfahrens ist allerdings die nicht konstante Hüllkurve des Sendesignals, die zu einer erhöhten Empfindlichkeit gegenüber nichtlinearen Systemkomponenten im Übertragungspfad führt und insbesondere die Leistungseffizienz des Systems nachhaltig beeinträchtigt. Eine grundlegende Lösung des Problems konnte bisher nicht angegeben werden. Das Ziel dieser Arbeit ist es, einen theoretischen Rahmen für das Spitzenwertproblem zu liefern. In diesem Zusammenhang werden deterministische und statistische Eigenschaften für das zeitkontinuierliche und zeitdiskrete Sendesignal angegeben. Insbesondere die Beziehung zwischen zeitkontinuierlichem und zeitdiskretem Sendesignal wird dabei grundlegend untersucht. Weiterhin wird der Einfluss von Nichtlinearitäten auf die Performanz analysiert und ein allgemeines Konstruktionsprinzip für Mehrträgersignale mit geringer Dynamik abgeleitet. Mit den Ergebnissen dieser Arbeit ist ein effizienteres Systemdesign möglich.</dc:description>
+          <dc:description xml:lang="eng">This thesis is devoted to the power control problem in orthogonal frequency division multiplexing (OFDM) multicarrier transmission. Multicarrier transmission has proved to be an efficient transmission technique in frequency-selective channels and has already been adopted to several standards. A major obstacle, however, is its highly non-constant signal envelope making OFDM very sensitive to non-linear components in the transmission path and leading to a severe power efficiency penalty. The problem still defies a fundamental solution. The goal of this thesis is to provide a mathematical framework for the power control problem. In particular, deterministic and probabilistic characteristics of the continuous-time and discrete-time signals are investigated. The relationship between the continuous-time and discrete-time signals is thoroughly analyzed. The impact on performance is investigated and a general design principle for OFDM signals with low dynamics given.</dc:description>
+          <dc:date>2004-02-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/689</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6831</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6831</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/689/wunder_gerhard.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

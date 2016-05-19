@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:824">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:824</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Experimental study of the 14N(p,gamma)15O reaction at energies far below the Coulomb barrier</dc:title>
+          <dc:title xml:lang="deu">Experimentelle Untersuchung der 14N(p,gamma)15O-Reaktion bei Energien weit unterhalb der Coulombschwelle</dc:title>
+          <dc:creator>Bemmerer, Daniel Martin</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Bei den Temperaturen, die im Innern von Sternen vorherrschen, ist die 14N(p,gamma)15O-Reaktion die langsamste Reaktion des Kohlenstoff-Stickstoff-Sauerstoff-Zyklus thermonuklearer Reaktionen (CNO-Zyklus). Im CNO-Zyklus wird Wasserstoff zu Helium verbrannt; in den meisten Sternen wird die Energieerzeugung in einer Phase ihres Lebens durch diese Form des Wasserstoffbrennens bestimmt. Das Ziel der vorliegenden Arbeit ist es, den Kenntnisstand über den CNO-Zyklus zu verbessern, indem eine präzise Messung des Wirkungsquerschnitts der 14N(p,gamma)15O-Reaktion bis hin zu noch nie untersuchten niedrigen Energien durchgeführt wird. Die vorliegende Arbeit bestimmt den totalen Wirkungsquerschnitt im Energiebereich von 90 bis 230 keV im Schwerpunktsystem. Der niedrigste gemessene Wert ist sigma = 3 pbarn. Für die Messungen wurde der LUNA2-400-kV-Beschleuniger eingesetzt, der sich durch eine hohe Ionenstromstärke bei geringer energetischer Strahlbreite auszeichnet. Der LUNA2-Versuchsaufbau befindet sich tief unter Tage im Gran-Sasso-Labor, durch 3800 m (Wasseräquivalent) Gestein gegen die Höhenstrahlung abgeschirmt. Vor Beginn des eigentlichen Experiments wurden in zwei Vorversuchen die Quellen der Hintergrundzählrate identifiziert und geortet und die Verringerung der Dichte des Targetgases durch die vom Ionenstrahl im Gas deponierte Energie untersucht. Für die 14N(p,gamma)15O-Messung wurden ein fensterloses Stickstoff-Gastarget und ein 4-pi-Wismutgermanat-Detektor verwendet. Die Ergebnisse der vorliegenden Arbeit bestätigen andere theoretische, indirekte und experimentelle Untersuchungen jüngeren Datums, die den Literaturwert für den Wirkungsquerschnitt der 14N(p,gamma)15O-Reaktion bei den niedrigsten Energien um die Hälfte des bisher angenommenen Werts nach unten revidiert haben. Die in der vorliegenden Arbeit bestimmten neuen niederenergetischen Daten deuten auf einen zur Energie Null extrapolierten astrophysikalischen S-Faktor hin, der noch niedriger ist als der Wert S(0) = 1.7 ± 0.1 (stat) ± 0.2 (syst) keV barn, der aus einer kürzlich erschienenen experimentellen Arbeit bei höherer Energie stammt. Der Einfluss des Elektronenabschirmeffekts (electron screening effect) auf die Ergebnisse wird besprochen. Die Resultate der vorliegenden Arbeit werden sowohl mit neuen als auch mit älteren Daten anderer experimenteller Gruppen sowie mit den Ergebnissen indirekter Verfahren verglichen. Es werden Auswerteverfahren vorgestellt, die es ermöglichen, die Messungen mit dem verwendeten Versuchsaufbau zu noch niedrigeren Energien voranzutreiben. Abschließend werden die Auswirkungen des revidierten S-Faktors der 14N(p,gamma)15O-Reaktion auf kosmologische Untersuchungen und das Sonnenneutrinospektrum erörtert.</dc:description>
+          <dc:description xml:lang="eng">At stellar temperatures, the 14N(p,gamma)15O reaction is the slowest of the carbon-nitrogenoxygen (CNO) cycle of thermonuclear reactions. The CNO cycle burns hydrogen into helium and dominates energy production at some point in the lifetime of most stars. The objective of the present work is to improve our knowledge of the CNO cycle by making a precise measurement of the 14N(p,gamma)15O reaction cross section to energies lower than any attained before. The cross section is determined in the energy range from 90 to 230 keV in the center-of-mass system. The lowest measured value is sigma = 3 pbarn. The LUNA2 400 kV accelerator, with a high beam current and small energy spread, has been used for the experiments. The LUNA2 site is located deep underground in the Gran Sasso laboratory, shielded by 3800 m (water equivalent) of rock against cosmic rays. Previous to the actual experiment, dedicated setups were used to identify and localize the sources of the background counting rate and to study the thinning of the target gas by the power deposited by the ion beam in the gas. For the data taking in the actual experiment, a windowless nitrogen gas target and a 4 pi bismuth germanate detector were used. The results of the present work confirm other recent theoretical, indirect and experimental studies that revised the 14N(p,gamma)15O cross section at low energies down to one half the previously accepted value. With its unique low energy data, the present study favors an astrophysical S-factor extrapolated to zero energy S(0) that is even lower than the value S(0) = 1.7 ± 0.1 (stat) ± 0.2 (syst) keV barn reported by a recent experimental study at higher energies. The effect of electron screening on the measurements is discussed, and the results of the present work are compared with both recent and older data from other experiments, as well as with data obtained from indirect methods. Analytical tools are presented that can help to extend the measurements with the present setup to even lower energies. In conclusion, the implications of the revised 14N(p,gamma)15O S-factor for cosmology and for the solar neutrino spectrum are discussed.</dc:description>
+          <dc:date>2004-09-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/824</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8174</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8174</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/824/bemmerer_daniel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:381">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:381</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Nachhaltigkeit urbaner Regenwasserbewirtschaftungsmethoden</dc:title>
+          <dc:title xml:lang="eng">Sustainability of rainwater management</dc:title>
+          <dc:creator>Gantner, Kathrin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Seit der Veröffentlichung des Brundtland-Berichtes 1987 und der Konferenz der Vereinten Nationen in Rio de Janeiro im Jahre 1992 ist der Begriff der Nachhaltigkeit eine fest umrissene Zielgröße nationaler und internationaler Politik und als allgemeiner Konsens für die Entwicklung von Umwelt und Gesellschaft weltweit anerkannt. Die nachhaltige Bewirtschaftung der Naturressource Wasser schließt auch die nachhaltige Bewirtschaftung des Regenwassers in urbanen Räumen ein, wo der Mensch durch Versiegelung von Flächen und schnelle Ableitung des Niederschlagswassers den natürlichen Kreislauf des Wassers gestört hat. Vor allem die Belastung der innerstädtischen und peripheren Oberflächengewässer, die heutzutage im Wesentlichen aus den diffusen Quellen der niederschlagsbedingten Einleitungen stammt, und die z.T. angespannte Grundwassersituation in städtischen Ballungsräumen legen die flächendeckende Einführung einer dezentralen naturnahen Regenwasserbewirtschaftung nahe. Mit den verschiedenen Maßnahmen der dezentralen Regenwasserbewirtschaftung ist es zum einen möglich, die Abflussspende von bebauten und versiegelten Flächen soweit zu verringern und zu dämpfen, dass diese dem natürlichen Direktabfluss eines unbebauten Gebietes nahe kommt. Zum anderen können durch Sedimentation und Bodenpassage die Niederschlagsabflüsse belasteter Flächen einer Reinigung unterzogen werden, bevor sie in Grund- oder Oberflächengewässer gelangen. Im Rahmen dieser Arbeit wurden anhand einer umfangreichen Recherche zum Stand der Forschung die verschiedenen Methoden der dezentralen Regenwasserbewirtschaftung darauf hin untersucht, inwieweit sie in der Lage sind, Einleitgewässer für Niederschlagsabflüsse vor stofflichen und hydraulischen Belastungen zu schützen. Darüber hinaus wurde das jeweilige Risiko für einen möglichen Stoffeintrag ins Grundwasser und eine Stoffanreicherung im Boden abgeschätzt. Ergebnis der Arbeit ist eine Matrix, die als Entscheidungshilfe für oder gegen bestimmte Methoden der dezentralen Niederschlagswasserbewirtschaftung unter dem Aspekt der Nachhaltigkeit für den Raum Berlin/Brandenburg erarbeitet wurde, die aber auch nach entsprechender Anpassung der Zielgrößenbewertung in anderen lokalen Zusammenhängen eingesetzt werden kann.</dc:description>
+          <dc:description xml:lang="eng">Sustainable water management also includes a sustainable rainwater management. The conventional way to catch the rainwater and drain it out of urban areas as fast as possible doesn't meet the criteria of sustainability. There are several methods of decentral rainwater treatment and management, which can have a positive influence on the water balance on the one hand and can contain a risk for the quality of soil and groundwater on the other hand. This paper shows the results of an extensive investigation about new decentralized and close-to-nature methods of rainwater treatment and management as well as methods practiced since several years. It was investigated, how these methods by using them in urban areas are able to take care for contaminations from urban surface water. There were also the potential contaminations of soil and groundwater beneath the different rainwater treatment systems compared. The sum of these several aspects is consolidated in a matrix. This matrix can be used as an instrument to decide about several rainwater treatment systems. It was developed for using in the region of Berlin/Brandenburg, but after revising it is also usable to other regions.</dc:description>
+          <dc:date>2003-04-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/381</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3768</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3768</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/381/gantner_kathrin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

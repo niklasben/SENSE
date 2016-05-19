@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1097">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1097</identifier>
+        <datestamp>2014-04-29</datestamp>
+        <setSpec>doc-type:masterthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Versuch der Lokalisierung und Interpretation von Feldheterogenitäten anhand von optischen Satellitenaufnahmen : ein Vergleich von Landsat Thematic Mapper und IRS-1C</dc:title>
+          <dc:creator>Zillmann, Erik</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Vor dem Hintergrund einer notwendigen ökologischen Umgestaltung der Landbewirtschaftung wird ständig eine Reduzierung der Einträge, wie z. B. von Düngemitteln, Pestiziden usw., zum Schutz der Umwelt gefordert. Kleinräumige Bodenvariabilität in der Agrarlandschaft führt dazu, dass für alle Teilbereiche eines Schlages, die nicht den mittleren Standorteigenschaften entsprechen, die durchgeführten landbaulichen Maßnahmen aus ökologischer und ökonomischer Sicht nicht optimal sind, da der Landwirt sein Feld nach der Vorgabe des standörtlichen Mittelwertes bearbeitet. Bei undifferenzierter Reduzierung der landwirtschaftlichen Einträge kann es einerseits zu unökologischer Überversorgung, andererseits aber auch zu ökonomischer Unterversorgung der einzelnen Teilschläge kommen. Die Variabilität einzelner Bodenmerkmale kann schon innerhalb eines Schlages von 10 ha Fläche Größenordnungen wie in ganzen Landschaftsräumen erreichen. Ein Konzept zur nachhaltigen Landwirtschaft, die auf standörtliche Heterogenitäten reagiert, stellt das „Precision farming“ dar. Hinter diesem Ansatz verbirgt sich die Anpassung der Landbewirtschaftungsmaßnahmen an die vorhandene Variabilität der Standortparameter. Die Grundvoraussetzung für die Teilschlagbewirtschaftung ist die Verfügbarkeit zuverlässiger Information über die räumliche und zeitliche Variabilität produktionsrelevanter Parameter, wie Bodennährstoffgehalt, Bodenart und -typ und Ertragshöhe. Die heute verfügbaren Grundlagendaten über bodenbedingte Standortverhältnisse weisen zu große Defizite in der Genauigkeit der Abgrenzungen auf, um ein effektives Teilschlagmanagement durchführen zu können. Im Rahmen der vorliegenden Arbeit wird das Anwendungspotential optischer Satellitenaufnahmen für die Lokalisierung und Interpretation von Feldheterogenitäten untersucht. Hierbei soll überprüft werden, ob Satellitenaufnahmen die in den vorhandenen Kartenwerken dargelegten Heterogenitäten bestätigen, und ob sie möglicherweise eine weitere, aussagefähigere Datenebene bereitstellen können, die wiederum eine genauere Differenzierung der Standortgegebenheiten ermöglicht. Mit Hilfe von Fernerkundungsdaten ist es möglich Verteilungsmuster (räumliche Heterogenität) von Bodeneigenschaften und -bestandteilen an der Bodenoberfläche zu erfassen, wie es in Detaillierung und Lagegenauigkeit von terrestrischen Systemen nicht effektiv erbracht werden kann. Die Schwierigkeit besteht dabei in der Bestimmung ihrer inhaltlichen Heterogenität. Es soll weiterhin untersucht werden, ob eine direkte quantitative Bestimmung von Bodenparametern über die spektrale Information der Satellitendaten möglich ist, um Aussagen zur Beschaffenheit der vorhandenen Heterogenitäten treffen zu können. Die Arbeit soll Herangehensweisen aufzeigen, die eine Überprüfung qualitativer Abgrenzungen heterogener Gebiete ermöglicht.</dc:description>
+          <dc:date>2005-09-16</dc:date>
+          <dc:type>masterthesis</dc:type>
+          <dc:type>doc-type:masterthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1097</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11013</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11013</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1097/zillmann_erik.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1097/zillmann_erik_text.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

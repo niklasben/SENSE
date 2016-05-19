@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:663">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:663</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Beitrag zur Erzeugung nichtlinearer Entwurfsseegänge im numerischen Wellenkanal</dc:title>
+          <dc:title xml:lang="eng">A contribution for the generation of nonlinear design waves in the numerical wave tank</dc:title>
+          <dc:creator>Jeong, Seong-Jae</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Eine Extremwelle ist durch hohe Nichtlinearität gekennzeichnet und tritt typischerweise als transientes Ereignis auf. Der Energietransport bei der Wellenausbreitung bestimmt die extremen Wellenereignisse sog. "Freak waves" und kann mit der linearen Wellentheorie nicht mit ausreichender Genauigkeit berechnet werden. Für die Auslegung maritimer Systeme ist die genaue Kenntnis der maximal auftretenden Belastung infolge Welleneinwirkung essentiell. Hohe Bedeutung haben dabei nichtlineare Entwurfsseegänge mit definierter Oberflächenauslenkung, bei denen die gesamte Information des Wellenzuges sowohl im Orts- als auch im Zeitbereich vorgelegt wird. In dieser Dissertation wird ein neues Verfahren zur Erzeugung deterministischer Wellenzüge mit größerer Wellenhöhe auf Basis transienter Wellengruppen vorgestellt. Das Ziel der Arbeit ist die Entwicklung eines Verfahrens zur Erzeugung nichtlinearer Entwurfsseegänge, deren extremer Charakter und Oberflächenauslenkungen deterministisch bestimmt werden können. Als Grundgleichungen werden die Navier-Stokes-Gleichungen verwendet, wobei realitätsnahe Strömungsberechnungen mit Viskositätseffekte bei der Wellenausbreitung ermöglicht werden. Die Grundgleichungen werden durch die Finite-Volumen-Methode diskretisiert. Die Verformung der freien Wasseroberfläche wird mit Hilfe eines mitbewegten strukturierten Gitters bestimmt, das durch ein Modul auf Basis der algebraischen Methode generiert wird. Zur Berechnung eines instationären Strömungsvorgangs wird eine vollimplizite Euler-Methode verwendet. Ein zweidimensionaler, numerischer Wellenkanal wird neu entwickelt und anhand von analytischen Wellentheorien und Messungen validiert. Eine Optimierungsroutine mit dem Genetischen Algorithmus wird zur Erzeugung eines Steuersignals mit dem numerischen Wellenkanal gekoppelt. Die Steuerung des Wellenblattes basiert auf einer neu definierten Funktion zur Amplitudenmodulation, die mit einer geringeren Anzahl von freien Variablen modifiziert wird. Die Funktion wird so definiert, dass eine konvergierende transiente Wellengruppe mit deterministischem Charakter je nach Änderung der Variablen generiert werden kann. Die Zielfunktion bei der Optimierung von Entwurfsseegängen minimiert die Abweichung zwischen der vorgegebenen Zielwelle und der im numerischen Wellenkanal registrierten Welle. Das Brechkriterium von Wasserwellen wird als Nebenbedingung des Optimierungsvorgangs mit berücksichtigt, um die qualitative Verbesserung des zu generierenden Wellenzuges zu erzielen. Die Registrierung eines realen Seegangs wird mit einem entsprechenden Maßstab als Zielwelle verwendet. Mit Hilfe der Analyse der Zeitregistrierung an einem definierten Zielort wird die Optimierung solange angewendet, bis der vorgegebene Entwurfsseegang in Bezug auf ein Abbruchkriterium gefunden wird. Das neu entwickelte Verfahren zur Generierung deterministischer Wellenszenarien mit Extremereignissen ist ein wichtiges Werkzeug, um versuchstechnische Untersuchungen für die Belastung meerestechnischer Konstruktionen unter extremen Seegangsbedingungen zu ermöglichen. Für verschiedene Zielwellen werden Wasserspiegelauslenkungen, kinematische Größen, Geschwindigkeits- und Druckfelder numerisch berechnet und mit Messungen verglichen. Dabei zeigen sich gute Übereinstimmungen. Die New Year Wave wird durch Optimierung mit zwei unterschiedlichen Maßstäben generiert und validiert, wodurch die Leistungsfähigkeit des Verfahrens mit Berücksichtigung von Maßstabeffekten direkt geprüft wird. Dabei zeigt sich ein akzeptables Ergebnis in beiden Fällen.</dc:description>
+          <dc:date>2003-09-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/663</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6577</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6577</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/663/jeong_seongjae.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

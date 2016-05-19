@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2707">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2707</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A First-Principles Based Multiscale Approach from the Electronic to the Continuum Regime: CO Oxidation at RuO2(110)</dc:title>
+          <dc:title xml:lang="deu">Ein First-Principles basierter Multiskalen-Ansatz vom Elektronischen bis zum Kontinuums-Regime: CO Oxidation an RuO2(110)</dc:title>
+          <dc:creator>Matera, Sebastian</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">A �?rst-principles based multiscale modeling approach to heterogeneous catal- ysis is presented, that integrates �?rst-principles kinetic Monte Carlo simula- tions of the surface reaction chemistry into a ﬂuid dynamical treatment of the macro-scale transport in the reactor. Using the CO oxidation at RuO2 (110) as representative example the relevance of �?rst-principles kinetic Monte Carlo is demonstrated by the comparison with the commonly employed, but less accurate rate equation based approach to surface chemistry. Huge diﬀerences between both approaches in the predicted reactivity and qualitatively wrong predictions on the ongoing surface dynamics disqualify the latter approach for the use with �?rst principles input. An eﬃcient general purpose methodology is developed, which allows for simulations of macroscopic catalytic reactors with the same speed as mentioned empirical approaches, but retains the sound electronic basis and the accurate treatment of surface chemistry by kinetic Monte Carlo simu- lations. As a simple showcase the developed method is applied to stagnation ﬂow �?elds in front of a RuO2 (110) single crystal surface. The simulation results show how heat and mass transfer eﬀects can readily aﬀect the observed catalytic function at gas-phase conditions typical for modern in situ experiments. For a range of gas-phase conditions we furthermore obtain multiple steady-states that arise solely from the coupling of gas-phase transport and surface kinetics. This additional complexity needs to be accounted for when aiming to use dedicated in situ experiments to establish an atomic-scale understanding of the function of heterogeneous catalysts at technologically relevant gas-phase conditions.</dc:description>
+          <dc:description xml:lang="deu">Ein Multiskalen-Modellierungs-Ansatz basierend auf ab-initio Berechnungen für die heterogene Katalyse wird vorgestellt, der "first-principles" kinetische Monte-Carlo-Simulationen für die Oberflächenchemie in eine fluiddynanische Behandlung the makroskopischen Transports im Reaktor integriert. Exemplarisch wird die CO-Oxidation an RuO2(110) betrachtet. Die Relevanz von "first-principles" kinetische Monte-Carlo-Simulationen wird durch den Vergleich mit dem gemeinhin verwendeten, allerdings weniger genauen, ratengleichungsbasierten Zugang für die Oberflächenchemie demonstriert. Große Unterschiede bzgl. der berechneten Reaktivität und eine qualitativ falsche Vorhersage der tatsächlichen Oberflächendynamik machen den letzteren Ansatz untauglich für die Benutzung mit Elektronenstrukturinput. Es wird eine effiziente, allgemein anwendbare Methodik entwickelt, welche es erlaubt, makroskopische, katalytische Reaktoren mit der gleichen Geschwindigkeit wie mit empirischen Ansätzen zu simulieren, wobei allerdings die gut fundierte, elektronische Basis und die akkurat Behandlung der Oberflächenchemie durch kinetische Monte-Carlo-Verfahren beibehalten wird. Als einfaches Beispiel wird die entwickelte Methode auf eine Staupunktströmung gegen eine RuO2(110)-Einkristall-Oberfläche angewendet. Die Simulationsergebnisse zeigen, wie Wärme- und Massentransport die beobachtete katalytische Funktion für Gasphasenbedingungen beeinflussen, die typisch sind für moderne in situ Experimente. Desweiteren erhalten wir für einen Bereich von Gasphasenbedingungen mehrere stationäre Zustände, die nur durch die Kopplung von Gasphasentransport und Oberflächenchemie auftreten. Diese zusätzliche Komplexität muss in Betracht gezogen werden, wenn versucht wird durch dedizierte in situ Experimente ein atomares Verständnis der heterogenen Katalyse bei technologisch relevanten Gasphasenbedingungen zu etablieren.</dc:description>
+          <dc:date>2010-11-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2707</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28504</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28504</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2707/matera_sebastian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

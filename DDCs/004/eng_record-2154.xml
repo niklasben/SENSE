@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2154">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2154</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dynamic Compilation for Functional Programs</dc:title>
+          <dc:creator>Grabmüller, Martin</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">This thesis is about dynamic translation and optimization of functional programs. The goal of the optimization is increased run-time efficiency, which is obtained by compiler-directed elimination of programming language abstractions. Object-oriented programming languages have been implemented for several decades using run-time compilation techniques. With the introduction of the Java programming language and its virtual machine-based execution model, the practicability of this implementation method for real-world applications has been proved. Many aspects of modern programming languages, such as dynamic loading and linking of code (even across networks), reflection and security solutions (e.g., sandboxing) can be realized efficiently only by using dynamic transformation techniques. The goal of this work is to show that functional programming languages can be efficiently implemented in a similar way, and that these languages even offer advantages when compared to more common object-oriented languages. Efficiency, security and correctness of programs is easier to ensure in the functional setting. Towards this goal, we design and develop implementation techniques to enable dynamic compilation and optimization of functional programming languages: we describe an intermediate representation for functional programs (typed dynamic continuation-passing style), which is well suited for dynamic compilation. Based on this representation, we have developed an extension for incremental and selective code generation. The main contribution of this work shows how dynamic specialization of polymorphic functions and data structures can increase the run-time efficiency of functional programs considerably. We present the results of experimental measurements for a prototypical implementation, which prove that functional programs can efficiently be dynamically compiled.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit behandelt die dynamische, zur Laufzeit stattfindende Übersetzung und Optimierung funktionaler Programme. Ziel der Optimierung ist die erhöhte Laufzeiteffizient der Programme, die durch die compilergesteuerte Eliminierung von Abstraktionen der Programmiersprache erreicht wird. Bei der Implementierung objekt-orientierter Programmiersprachen werden bereits seit mehreren Jahrzehnten Compiler-Techniken zur Laufzeit eingesetzt, um objekt-orientierte Programme effizient ausführen zu können. Spätestens seit der Einführung der Programmiersprache Java und ihres auf einer abstrakten Maschine basierenden Ausführungsmodells hat sich die Praktikabilität dieser Implementierungstechnik gezeigt. Viele Eigenschaften moderner Programmiersprachen konnten erst durch den Einsatz dynamischer Transformationstechniken effizient realisiert werden, wie zum Beispiel das dynamische Nachladen von Programmteilen (auch über Netzwerke), Reflection sowie verschiedene Sicherheitslösungen (z.B. Sandboxing). Ziel dieser Arbeit ist zu zeigen, dass rein funktionale Programmiersprachen auf ähnliche Weise effizient implementiert werden können, und sogar Vorteile gegenüber den allgemein eingesetzten objekt-orientierten Sprachen bieten, was die Effizienz, Sicherheit und Korrektheit von Programmen angeht. Um dieses Ziel zu erreichen, werden in dieser Arbeit Implementierungstechniken entworfen bzw. aus bestehenden Lösungen weiterentwickelt, welche die dynamische Kompilierung und Optimierung funktionaler Programme erlauben: zum einen präsentieren wir eine Programmzwischendarstellung (getypte dynamische Continuation-Passing-Style-Darstellung), welche sich zur dynamischen Kompilierung und Optimierung eignet. Basierend auf dieser Darstellung haben wir eine Erweiterung zur verzögerten und selektiven Codeerzeugung von Programmteilen entwickelt. Der wichtigste Beitrag dieser Arbeit ist die dynamische Spezialisierung zur Eliminierung polymorpher Funktionen und Datenstrukturen, welche die Effizienz funktionaler Programme deutlich steigern kann. Die präsentierten Ergebnisse experimenteller Messungen eines prototypischen Ausführungssystems belegen, dass funktionale Programme effizient dynamisch kompiliert werden können.</dc:description>
+          <dc:date>2009-06-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2154</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22489</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22489</dc:identifier>
+          <dc:identifier>978-3-9810116-6-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2154/original_grabmueller_martin_original.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2154/grabmueller_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

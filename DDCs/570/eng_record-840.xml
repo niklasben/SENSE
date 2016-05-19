@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:840">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:840</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Markierungsfreie DNA-Mikrochip Analytik</dc:title>
+          <dc:title xml:lang="eng">Label-free DNA-microchip analytic</dc:title>
+          <dc:creator>Brandt, Ole</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">DNA-Microarrays sind ein unverzichtbares Werkzeug für die Analyse von Nukleinsäuren im Hochdurchsatz geworden. Heutzutage werden Hybridisierungsexperimente für eine Vielzahl biotechnologischer Fragestellungen, zumeist in Kombination mit Fluoreszenzdetektion, routinemäßig durchgeführt. Die Möglichkeiten der Analyse von Microarrays sind jedoch noch lange nicht ausgeschöpft. Potential liegt hier in der Vereinfachung des Prozesses (z.B. durch die markierungsfreie Analyse) oder dem Steigern der Sensitivität. In dieser Arbeit werden einige Strategien zur schnellen und günstigen Produktion von PNA-Microarrays beschrieben. PNAs (peptide nucleic acids) wurden in einem automatisierten Prozess in Mikrotiterplatten mit integrierten Fritten synthetisiert. Die so erhaltenen PNA-Moleküle wurden anschließend vom Syntheseharz abgespalten und ohne weitere Aufreinigung über ihre N-terminale Aminogruppe oder andere N-terminale Modifikationen an die Microarray-Oberflächen gebunden. Durch dieses selektive Anbinden wurden die PNA-Endprodukte der Synthese direkt beim Spotten auf die Oberflächen aufgereinigt. Die so hergestellten PNA-Microarrays wurden anschließend für Hybridisierungen mit unmarkierten DNA-Proben und deren Detektion mittels TOF-SIMS (time-of-flight secondary ion mass spectrometry) verwendet. Dabei kann die Hybridisierungen der DNA-Moleküle auf den PNA-Spots der Microarrays anhand der Phosphate nachgewiesen werden, die Bestandteil der Nukleinsäuren sind, in PNA-Molekülen aber nicht vorkommen. Zusätzlich wurde gezeigt, dass sich PNA-Microarrays auch für die Detektion von Einzelbasenmutationen eignen.</dc:description>
+          <dc:description xml:lang="eng">DNA microarrays have become an indispensable tool for the analysis of nucleic acids in a high throughput format. Nowadays, hybridisation experiments are routinely used for many purposes in modern biotechnology, particularly in combination with fluorescence detection. However, the performance of such analyses can be improved still by simplifying the processes involved (e.g. label-free detection) or increasing the sensitivity, for example. Here, several strategies for the fast and economic production of PNA microarrays are described. PNAs (peptide nucleic acids) were synthesised by an automated process in filter-bottom microtiter plates. The resulting molecules were released from the solid support and attached without any purification to microarray surfaces via the N-terminal amino group itself or via N-terminal modifications. Thus, purification of the oligomers took place directly on the chip surface during the spotting process by selective binding of the full length product. Such microarrays were used for hybridisation analysis of unlabelled DNA samples by TOF-SIMS (time-of-flight secondary ion mass spectrometry). Hybridisation events of DNA-molecules to PNA-spots on the chip-surfaces could be analysed by direct detection of the phosphates, which are an integral part of nucleic acids but missing entirely in PNA-probes. Additionally, the usability of PNA microarrays for the detection of single base mutations was shown.</dc:description>
+          <dc:date>2004-07-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/840</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8334</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8334</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/840/brandt_ole.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

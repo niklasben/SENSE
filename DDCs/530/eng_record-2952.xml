@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2952">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2952</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Struktur und Dynamik dipolarer Fluide in homogenen Magnetfeldern: Von wandinduzierter Schichtbildung bis zur anomalen Diffusion</dc:title>
+          <dc:title xml:lang="eng">Structure and dynamic of dipolar fluids in homogeneous magnetic fields: From wall induced layer formation to anomalous diffusion</dc:title>
+          <dc:creator>Jordanovic, Jelena</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit dipolaren Fluiden und Fluidfilmen. Diese Fluide enthalten sphärische Teilchen mit einem eingebetteten permanenten Dipolmoment, wie es beispielsweise in Ferrofluiden der Fall ist. Die Hauptfragestellungen umfassen dabei Struktur- und Dynamikuntersuchungen und speziell den Einfluss von Magnetfelder und begrenzter Geometrie. Ferrofluide haben verschiedene technische Anwendungsmöglichkeiten, da sich zum Beispiel ihre Viskosität oder Wärmeleitfähigkeit aktiv durch äußere Magnetfelder kontrollieren lässt. In der Medizin werden sie in vielfacher Hinsicht angewendet, beispielsweise in der Magnetoresonanz Spektroskopie Diagnose zur Hervorhebung von krebserkrankten Zellen. In dieser Arbeit konnte mit Hilfe von Molekulardynamik Simulationen unter anderem gezeigt werden, dass sich die Teilchen in Ferrofluidfilmen in Schichten anordnen und die Anzahl der Schichten sowie ihre mikroskopische Struktur maßgeblich durch die Richtung des angelegten Magnetfeldes kontrolliert werden kann. Ebenso konnte eine Verknüpfung zu Experimenten hergestellt werden und der thermodynamische Zustand aufgezeigt werden zu dem die Schichtbildung manipuliert werden kann. Im weiteren konnte bei der Analyse der Dynamik demonstriert werden, wie die Teilchentranslation von einer einfachen Brownschen Dynamik in eine anisotrope, anomale Dynamik übergeht, wenn ein Magnetfeld eingeschaltet ist. Dabei wurde die Kettenbildung als ausschlaggebende Komponente identifiziert. Die anomale Dynamik zeichnet sich durch eine unterdrückte Mobilität der Teilchen zu kurzen Beobachtungszeiten und einer gemischt-diffusiv-freien Bewegung zu längerer Zeit aus, der eine kooperative Bewegung der Teilchen zugrunde liegt. Die resultierende Zeitskalenseparation kann hilfreich sein, um Analysemethoden in Experimenten genauer spezialisieren zu können. Insgesamt können die Ergebnisse dieser Arbeit zum grundlegenden Verständnis der Strukturbildung und Dynamik in Ferrofluiden beitragen, auf denen weitere Untersuchungen mit Methoden der Molekular Simulationen anknüpfen können und ferner darauf basierende Experimente neue Anwendungsgebiete erschließen lassen können.</dc:description>
+          <dc:description xml:lang="eng">In the present work an investigation of dipolar fluids and fluidfilms is reported. Such fluids contains spherical particles with an embedded, permanent dipole moment and a prominent example is the Ferrofluids. The main adressed objectives are the influence of a magnetic field on structural and dynamical properties. Thereby, the focus was specified on the additional influence of a confined geometry, characterizing a fluid film. Ferrofluids have already numerous technical applications, where the ability to actively control their viscosity or heath conductivity via an external, magnetic field is utilized. There are also diverse applications in medicine, such for example in magnetoresonanz based cancer diagnostic in order to highlight cancerous cells. Among other things, this work was able to prove via Molecular Dynamic Simulations that the particles form layers within the fluid film and that the layer number and their internal structure can be manipulated by an external field. Within this scope it was possible to qualitatively link the results to experimental set ups and pinpoint the required thermodynamic conditions for a possible layer modulation effect. Furthermore, an analysis of the dynamics of ferrofluids demonstrated that the particles translational motion converts from a simpel Brownian dynamics into an anisotropic, anomalous dynamics when a magnetic field is present. Thereby, the chain formation was identified as decisive for this effect. The anomalous dynamics is indicated by a suppressed particle mobility at short observation times and a mixed diffusive-free motion at longer observation times, with an underlying cooperative motion between the particles. The knowledge about the resulting time-scale separation could be helpful to refine experimental methods. The results of this work can contribute to the basic understanding of structure formation and dynamics in ferrofluids, and supplying a background for further Molecular Simulations or Experiments, and moreover unlock new application areas.</dc:description>
+          <dc:date>2011-07-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2952</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31489</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31489</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2952/jordanovic_jelena.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

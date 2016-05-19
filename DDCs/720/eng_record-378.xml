@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:378">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:378</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Energiegewinnung, Wasseraufbereitung und Verwertung von Biomasse in Gewächshaus - Gebäude - Modulen</dc:title>
+          <dc:title xml:lang="eng">Greenhouse - Building - Modules for energy production, water treatment and for the conversion of biomass</dc:title>
+          <dc:creator>Buchholz, Martin</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">In Gewächshäusern kann Wärme und Feuchtigkeit über einen geschlossenen Luftkreislauf nutzbar gemacht werden, der durch den Auftrieb von erwärmter- und das anschließende Herabfallen von abgekühlter Luft angetrieben wird. Durch einen konstanten Prozess der Wasserverdampfung während der Lufterwärmung über die Gewächshausvegetation sowie über zusätzliche, tropfkörperartige Luftbefeuchter erfolgt ein verlustarmer Energietransfer zu einem Wärmetauscher. Zudem kann durch die erzielte Wasserkondensation während der Luftabkühlung ein verbesserter Energietransfer in ein, den Wärmetauscher durchströmendes Speichermedium erzielt werden. Zusätzlich zur gärtnerischen Nutzung können so Funktionen der Energie- und Wassergewinnung integriert werden, die zu einer gesteigerten Wirtschaftlichkeit führen. Die Anlage besteht im wesentlichen aus vier Hauptelementen: Ein konventionelles Gewächshaus ist verbunden mit einem Solarkamin. Dieser führt in einen Rückführschacht, in dem ein großer Luft-Wasser Wärmetauscher installiert ist, der wiederum mit einem Wärmespeicher verbunden ist. Im Weiteren verläuft der Luftkanal durch einen Reaktor zur Solid-State-Fermentation, in dem Biomassensubstrate durch Pilze modifiziert werden, zurück ins Gewächshaus. Gewächshauspflanzen und Mikroorganismen der Fermentationsanlage sorgen für die gegenseitige Versorgung mit Sauerstoff und Kohlendioxid in dem weitgehend geschlossenen System. Über die Steuerung des Luftkreislaufs und der Verdunstungs- und Kondensationsvorgänge können Prozessvariablen der Fermentation wie Temperatur, Feuchtigkeit und Sauerstoffzufuhr geregelt werden. Darüber hinaus kann die Prozesswärme als zusätzliche, regenerative Energiequelle genutzt werden. Bei der Kopplung mit benachbarten Wohngebäuden können über die Schaffung geschlossener Wasserkreisläufe extrem energie- und wassereffiziente Gebäudemodule entstehen. Die integrierbare Funktion der Meerwasserentsalzung erlaubt sogar die Erwirtschaftung von Wasserüberschüssen. In Kombination mit den Produktionseinheiten der Gewächshaus- und Fermentationsanlage entsteht ein hoch effektives und kostengünstiges System der Grundversorgung ohne aufwendige Netzinfrastruktur. In der Variante "Tag-Nacht Wärmespeicherung" wird die tagsüber abgeführte Wärme gespeichert und nachts wieder dem Wärmetauscher zugeführt. Das Gewächshaus kann tagsüber gekühlt und nachts beheizt werden. Die Luft bewegt sich durch den erzeugten Auftrieb dann in entgegengesetzter Richtung. Im Luftbefeuchter wird wiederum aufzubereitendes Wasser verdampft, welches anschließend an den kühlen Außenflächen von Kamin und Gewächshaus kondensiert. Der Speicher bevorratet abgekühltes Wasser für den nächsten Tageszyklus. Wüsten oder wüstenähnliche Klimabedingungen mit starken Tag/Nacht-Schwankungen der Temperatur begünstigen diesen Prozessablauf. In der Variante "Saisonale Wärmespeicherung" wird die erforderliche Temperaturdifferenz von einem tageszeitlichen auf einen jahreszeitlichen Zyklus gestreckt. Im Sommer wird also Wärme abgeführt, die einen Langzeitwärmespeicher belädt. Im Winter wird die Wärme zur Gebäudeheizung verwandt. Gleichzeitig wird im Speicher Kälte für die Kühlung des Wärmetauschers im Sommer zurückgehalten.</dc:description>
+          <dc:date>2002-07-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/378</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3733</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3733</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/378/buchholz_martin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

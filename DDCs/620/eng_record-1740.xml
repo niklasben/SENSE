@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1740">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1740</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Robust Pareto - Optimum Routing of Ships utilizing Deterministic and Ensemble Weather Forecasts</dc:title>
+          <dc:title xml:lang="deu">Bestimmung Robuster Pareto - Optimaler Schiffsrouten unter Verwendung von Deterministischen und Ensemble Wetterprognosen</dc:title>
+          <dc:creator>Hinnenthal, Jörn</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Sophisticated routing of ships is increasingly recognized as an important contribution to safe, reliable, and economic ship operation. The more reliable weather forecasts and performance simulation of ships in a seaway become, the better they serve to identify the best possible route in terms of criteria like: ETA (estimated time of arrival), fuel consumption, safety (of ship, crew, passengers. and cargo), and comfort. This establishes a multi-objective, non-linear, and constrained optimization problem in which a suitable compromise is to be found between opposing targets. For its solution a new optimization approach to select the most advantageous route on the basis of hydrodynamic simulation and sophisticated weather forecast is posed. Transfer functions are employed to assess the operating behavior of a ship in waves. Probabilistic ensemble forecasts, provided by the European Centre for Medium-Range Weather Forecasts ECMWF, are applied to account for the stochastic behavior of weather. The routes in adverse weather conditions are established as perturbations of a parent route in calm weather, which is assumed to be the concatenated great circles between waypoints. Utilizing a B-spline technique, the number of free variables for describing both the course and the velocity profile is kept low. For solving the multi-objective, non-linear, and constrained optimization problem the commercial package modeFRONTIER has been successfully applied. In order to balance opposing criteria and to value the performance of optimized routes an approach suggested by the Italian economist Vilfredo PARETO is adopted. A multi-objective genetic algorithm turned out to be a suitable optimization method to identify PARETO optimum routes for a sustainable support of a conscious decision-making process. An elaborated example is given for an intercontinental container service, employing the Panmax container vessel CMS HANNOVER EXPRESS, between Europe and North America. Different weather situations for the North Atlantic are taken into account. Sensitivity studies are applied to validate the set-up and to conduct plausibility tests. The robustness of optimized routes against weather changes, time loss, fuel consumption, accelerations, slamming, and parametric rolling are taken into account.</dc:description>
+          <dc:description xml:lang="deu">Zur Gewährleistung eines sicheren, zuverlässigen und wirtschaftlichen Schiffsbetriebes kommen zunehmend Routing-Systeme zur Anwendung. Um sichere Aussagen über die Reisedauer, den Brennstoffverbrauch, Sicherheit oder auch den Komfort an Bord treffen zu können, spielen die Zuverlässigkeit von Wettervorhersagen und die der Simulation der Seegangseigenschaften des Schiffes eine große Rolle. Dieses führt letztlich zu einem nicht-linearen Optimierungsproblem mit mehreren, oftmals antagonistischen Gütekriterien. Der Lösungsraum ist zudem durch Nebenbedingungen beschränkt. Zur Lösung dieser Aufgabe wird ein neu entwickelter Ansatz vorgestellt. Auf Basis von Bewegungssimulationen des Schiffes im Seegang und detaillierten Seegangsprognosen werden optimale Kurse und zugehörige Geschwindigkeitsprofile eines Schiffes identifiziert. Das Betriebsverhalten des Schiffes im Seegang wird dabei mit Hilfe von Übertragungsfunktionen und Seegangsspektren bestimmt. Zunächst kommen deterministische Seegangsvorhersage zum Einsatz; später werden diese durch Ensemble-Vorhersagen erweitert um das stochastische Verhalten möglicher Wetterentwicklungen abzubilden. Die Seegangsprognosen wurden vom European Centre for Medium-Range Weather Forecasts ECMWF zur Verfügung gestellt. Zur Beschreibung von Routenvarianten wird eine Perturbationsmethode verwendet. Sie basiert auf der Darstellung des Kurses und eines zugehörigen Geschwindigkeitsprofils durch B-Splines. Für die Lösung der Optimierungsaufgabe kommt die generische Optimierungs-Software modeFRONTIER zum Einsatz. Zur Bewertung optimierter Routen unter dem Aspekt sich widersprechender Gütekriterien, wird ein von dem italienischen Ökonomen Vilfredo PARETO vorgeschlagenes Konzept verwendet. Ein heuristisches Suchverfahren, der Genetische Algorithmus für mehrere Gütekriterien, zeigt gute Ergebnisse bei der Suche nach PARETO optimalen Routen, die zur Unterstützung der Routenplanung herangezogen werden können. Die neu entwickelte Optimierungsmethode wird am Beispiel eines Containerservices mit der CMS HANNOVER EXPRESS im Nord Atlantik erläutert. Die Auswirkungen verschiedener Wetterszenarien auf ein Optimierungsergebnis werden dargestellt. Empfindlichkeits- und Variationsstudien dienen der Validierung und zur Plausibilitätskontrolle.</dc:description>
+          <dc:date>2008-04-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1740</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17916</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17916</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1740/hinnenthal_joern.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

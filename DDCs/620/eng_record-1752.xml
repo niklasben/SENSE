@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1752">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1752</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Erste Modellentwicklung zur nachhaltigen Nutzung von Biomasse</dc:title>
+          <dc:title xml:lang="eng">First development of a sustainable biomass use model</dc:title>
+          <dc:creator>Gamba, Liliana</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Dissertation werden die Bedingungen ermittelt, um ein nachhaltiges Bioenergiepotenzial in einer Region zu schaffen, welches die Erfüllung ausgewählter Nachhaltigkeitskriterien in einer Region ermöglicht bzw. nicht gefährdet. Zu diesem Zweck werden mit Hilfe der systemdynamischen Ansatz die Einflussfaktoren und Systemzusammenhänge der regionalen Bioenergiebereitstellung erfasst und in einem Modell quantifiziert. Das Verhalten des Systems zur regionalen Bioenergiebereitstellung wird in Form von Flächennutzungen und Stoffströme zunächst anhand eines Wirkungsgraphs dargestellt. Darauf aufbauend werden Teilsysteme und Subsysteme identifiziert und mit Hilfe von systemdynamischen Kriterien ihre Wirkungsstruktur weiter detailliert. Im Anschluss an die Nachbildung der Systemstruktur werden die Nachhaltigkeitskriterien und die dazu gehörenden Indikatoren ausgewählt. Sie bilden in Form von Einschränkungen die Bedingungen, die erfüllt werden müssen, um die nachhaltige Entwicklung in der Region nicht zu gefährden. Auf der Basis von Wirkungsgraphen für die jeweiligen Subsysteme und der „Nachhaltigkeitsbedingungen“ wird ein computerunterstütztes dynamisches Modell erstellt. Im Anschluss wird die Anwendbarkeit des Modells anhand der Beispielregion „Meta“ in Kolumbien geprüft. Das entwickelte Modell erweist sich als geeignet zur Ermittlung eines nachhaltigen Bioenergiepotenzials in einer Region. Die für die jeweiligen Szenarien ermittelten Bioenergiepotenziale ermöglichen die Erfüllung der ausgewählten Nachhaltigkeitsziele. Engpässe treten bei der Versorgung mit bestimmten Nahrungsmitteln und der Verfügbarkeit an Wohn- und Infrastrukturfläche ein. Es wird nachgewiesen, dass sich diese Engpässe aus modellexogenen Einschränkungen, wie beispielsweise den Importgrenzen und der maximalen Umwandlung von landwirtschaftlichen Flächen in bebaute Flächen, ergeben. Erforderliche Maßnahmen werden hieraus abgeleitet. Die Relevanz der Einflussfaktoren für das Bioenergiepotenzial wurde für das Beispiel gezeigt. Das Bioenergiepotenzial aus Primärbiomasse reagiert in steigender Sensitivitätsreinfolge auf Änderungen in den Rahmenbedingungen der Tierhaltung, des Ackerbaus und des Konsumverhaltens. Auf das Bioenergiepotenzial aus Sekundärbiomasse wirken am stärksten die Änderungen der Parameter, die den Umgang mit Holzresten aus dem Wald charakterisieren. Durch weitere Forschungsarbeiten kann dieser Ansatz zum Werkzeug entwickelt werden, dass u.a. die Festlegung von Bioenergieerzeugungsziele und die Steuerung des Bioenergiesystems unterstützt.</dc:description>
+          <dc:description xml:lang="eng">In this dissertation conditions for sustainable energy biomass are identified and used to develop a model to estimate regional energy biomass potentials. A system dynamics approach is applied to identify and analyse the relationships among the factors influencing energy biomass supply and to translate them into a model. The behaviour of the regional biomass supply system is represented in an overall qualitative causal loop diagram in form of mass flows and land use changes. The overall causal loop diagram serves as a basis to identify the part systems as well as the corresponding subsystems in which the system is subdivided. Building on it, the causality structure of each subsystem is further detailed (subsystem causal loop diagrams). After identifying the subsystems causal structure, suitable sustainability criteria and indicators are either selected or formulated. They constitute the conditions to be fulfilled to not affect negatively the achievement of sustainable development goals in a biomass producer region. The sustainability criteria and indicators are translated in constrains or exogenous parameter, which are introduced in the model building. The computer supported model is built on the one hand on the qualitative subsystem causal loop diagrams and on the other hand on the sustainability conditions. The applicability of the model is verified using a theoretical case study for the province “Meta�? in Colombia. The model proves to be suitable to determine sustainable energy biomass potentials for a region. Three different scenarios are analysed. For all of them, feasible energy biomass potentials, which are not in conflict with the fulfilment of sustainability goals, are calculated. It is however observed, that shortages of some food crops and of housing area may occur. It is found, that they are caused by model extern factors like restrictions to imports and to the transformation of agricultural land in built up land. In those cases no energy biomass potentials are generated. More over, measures to reduce shortages can be derived from the simulation results. The relative importance of the factors influencing the energy biomass potentials in the case study is also analysed. It is concluded, that the primary energy biomass potential is increasing sensitive to changes in the framework conditions of livestock husbandry, of agriculture and in consumption patterns. The secondary energy biomass potential is particularly sensitive to changes in the utilization of forest wood residues. This approach can be further developed in future research work into an instrument for supporting the definition of bioenergy goals and decisions on energy biomass systems.</dc:description>
+          <dc:date>2008-04-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/vnd.ms-excel</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1752</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18371</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18371</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1752/original_gamba_liliana.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1752/gamba_liliana.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

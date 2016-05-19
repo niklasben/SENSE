@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:723">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:723</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Auswirkungen von Aktivgaszumischungen im vpm-Bereich zu Argon auf das MIG-Impulsschweißen von Aluminium</dc:title>
+          <dc:title xml:lang="eng">effects of active gas admixtures in the vpm range to argon on pulsed MIG welding of aluminium</dc:title>
+          <dc:creator>Goecke, Sven-Frithjof</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Auswirkungen von Stickstoff, Sauerstoff und Wasserstoffzumischungen im vpm-Bereich zu Argon auf das MIG-Impulsschweißen von Aluminium werden mittels mechanisch-technologischer Untersuchungen, der Hochgeschwindigkeitskinematografie und der Emissions-Spektroskopie ermittelt. Stickstoff- und Sauerstoffzumischungen bewirken bereits unter 0,1 % eine erhebliche Erhöhung des Einbrands und eine Verringerung der Mikroporosität gegenüber Reinargon, während durch Wasserstoffzumischung bis etwa 0,1 % die Mikroporosität kaum beeinflusst wird. Aufgrund einer Erhöhung der Lichtbogenstabilität verbessert sich die Prozesssicherheit durch geringe molekulare Aktivgaszumischungen im Al-Dünnblechbereich. Metalldampf im Kernbereich des MSG-Lichtbogens führt mit einer ausgeprägten Strömung in Richtung Schmelzbad zu einer Kühlung des Plasmas. Dabei erhöht Stickstoff- und Sauerstoffzumischung den Metalldampfpartialdruck im Lichtbogenplasma und kontrahiert den Metalldampfstrahl. Verstärkte Elektronenemission an der Kathodenoberfläche durch hocherhitzte Metalloxide bzw. nitride verbessert die elektrische Leitfähigkeit begleitet von einer Erhöhung des Plasma-Ionisierungsgrads.</dc:description>
+          <dc:description xml:lang="eng">Effects of nitrogen, oxygen and hydrogen admixtures in the vpm range to argon on pulsed MIG welding of aluminium are studied by mechanical-technological investigations, high speed film and emission spectroscopy. Nitrogen and oxygen admixtures of even below 0.1 % cause an considerable increase of penetration and decrease of porosity compared to argon, while hydrogen barely effects porosity up to 0.1 %. In the aluminium thin sheet range the process stability is enhanced by admixing small amounts of molecular active gases due to an arc stability increase. A cooling of the plasma is caused by a metal vapour flow in the centre of the MIG arc column. The partial metal vapour pressure in the arc plasma will be increased by nitrogen and oxygen admixtures and the metal vapour jet contracts. An increased electron emission from the cathode surface improves the electrical conductance followed be an increase of the plasma ionisation rate.</dc:description>
+          <dc:date>2005-01-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/723</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7178</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7178</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/723/goecke_svenfrithjof.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

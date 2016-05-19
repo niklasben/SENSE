@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:604">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:604</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Experimentelle und theoretische Untersuchungen zur Frequenzkonversion von Nd : YAG-Laserstrahlung mit hoher Durchschnittsleistung</dc:title>
+          <dc:title xml:lang="eng">Experimental and Theoretical Investigations of Frequency Conversion of Nd : YAG Laser Radiation with High Average Power</dc:title>
+          <dc:creator>Mann, Guido</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Der Schwerpunkt der vorliegenden Arbeit liegt in der Aufklärung und Beschreibung von physikalischen Prozessen, die die Konversionseffizienz bei der Frequenzkonversion von Nd:YAG-Laserstrahlung bei hohen Durchschnittsleistungen aufgrund der Erwärmung des nichtlinearen Kristalls beeinflussen. Hierzu werden zahlreiche Aspekte der Frequenzkonversion theoretisch modelliert und experimentell untersucht. Mit einem laserkalorimetrischen Absorptionsmessverfahren werden zunächst die linearen Absorptionskoeffizienten von KTP(Kaliumtitanylphosphat)- und LBO(Lithiumtriborat)-Kristallen bei den Wellenlängen 1064 nm und 532 nm bestimmt und darüber hinaus das nichtlineare Absorptionsverhalten von KTP bei 532 nm unter zu Hilfenahme eines neuartigen Messverfahrens untersucht. Die vermessenen Kristalle zeigen stark voneinander abweichende Absorptionskoeffizienten in Abhängigkeit von Wellenlänge und Hersteller. Weiterhin wird erstmalig direkt der Einfluss von mechanischen Spannungen auf die Konversionseffizienz bei KTP und LBO bestimmt und die sogenannte mechanische Spannungsakzeptanz eingeführt. Die Absorptionsmessungen und ermittelten mechanischen Spannungsakzeptanzen fließen in zwei theoretische Modelle ein, die zum einen selbstkonsistent den Einfluß der absorbierten Leistung auf die Konversionseffizienz bestimmen und zum anderen mit Hilfe eines Finite-Elemente-Programms die thermisch- und spannungsinduzierten Phasenfehlanpassungen dreidimensional in den anisotropen Kristallen berechnen. Darüber hinaus werden drei verschiedene Lasersysteme vorgestellt, die Laserstrahlung bei 532 nm emittieren. Die externe Frequenzverdoppelung der Laserstrahlung eines Oszillator-Verstärker-Systems im Q-Switch-Betrieb liefert maximal 103 W Durchschnittsleistung bei einer Konversionseffizienz von 53 %. Es ergibt sich eine sehr gute Übereinstimmung zwischen Theorie und Experiment. Ein gütegeschalteter Einstab-Nd:YAG-Laser mit resonatorinterner Frequenzverdoppelung lieferte eine maximale Durchschnittsleistung von 45 W bei einer Wellenlänge von 532 nm. Beim dritten Lasersystem wird die Laserstrahlung eines cw-Nd:YAG-Lasers mit sehr guter Strahlqualität (M² &lt; 1,3) und mehreren longitudinalen Moden in einem externen Ringresonator frequenzverdoppelt. Es ergibt sich eine maximale Ausgangsleistung von 4,6 W bei einer Eingangsleistung von 10,7 W bei guter Übereinstimmung mit der theoretischen Beschreibung. Weiterhin wird ein neuartiges, mittlerweile patentiertes, Verfahren vorgestellt, dass es ermöglicht durch Anlegen eines longitudinalen Temperaturgradienten sowohl die Konversionseffizienz als auch die Strahlqualität durch teilweise Kompensation von thermischen Effekten zu verbessern. Hierzu werden Rechnungen präsentiert und experimentelle Arbeiten diskutiert.</dc:description>
+          <dc:date>2003-10-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/604</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5988</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5988</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/604/mann_guido.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

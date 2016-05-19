@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3231">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3231</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Molecular structure of hybrid aligned nematic slit-pores</dc:title>
+          <dc:title xml:lang="deu">Molekulare Struktur nematischer Phasen in hybrid verankerten Schlitzporen</dc:title>
+          <dc:creator>Greschek, Manuel</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">In this work we employ Monte Carlo simulations to investigate the molecular structure of a model liquid crystal confined to a nanoscopic slit-pore. The simulations are carried out in a specialised isostress ensemble in which the thermodynamic equilibrium is determined by the set of natural variables, i.e. temperature, number of particles, wall separation and the lateral stress. Under isothermal conditions we investigate the impact of various anchoring scenarios on the isotropic-nematic (IN) transition driven by the lateral stress. The fluid-fluid interaction is described by the Hess-Su potential, a Lennard-Jones(12-6) potential with an orientation-dependent attractive term. The confining surfaces are implemented as plane, parallel and structureless solid substrates such that at fixed molecular orientation the fluid-substrate contribution depends only on the distance between the centre-of-mass of each mesogen and the substrate. The molecular structure of the confined mesogen is analysed in terms of histograms representing the local density and the local nematic order parameter. Because of the symmetry breaking presence of the substrates the centre-of-mass positions of the mesogen may be organised in layers parallel to the wall plane. Under homogeneous anchoring conditions, in which opposing walls favour the same anchoring direction, the IN transition may be shifted considerably or suppressed. The director in the nematic phase coincides with the anchoring direction of the contact layer enforced by the substrates. For planar anchoring a structural transformation prior to the onset of nematisation is observed which results in the formation of an additional layer. In heterogeneous (hybrid) anchoring scenarios, where we impose different anchoring functions at opposing walls, the IN transition is nearly independent of the specific anchoring scenario. This is because the nematic director assumes a direction that is a compromise between the directions enforced by the competing anchoring functions. A secondary transformation occurs at lower compressional stresses preceding that of the IN transition. The particles close to the slit-pore’s mid-plane prealign in specific directions that depend on the details of the anchoring scenario. We perform a finite-size scaling analysis to investigate the nature of the bulk IN transition. We employ the cumulant intersection method to show that it is a weak first-order transition. In addition, we analyse our data in terms of Landau’s theory of phase transitions.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit verwenden wir Monte Carlo Simulationen, um die molekulare Struktur eines Flüssigkristalls in einer Nanopore zu untersuchen. Wir führen die Simulationen in einem erweiterten isobaren Ensemble aus, in dem der thermodynamische Gleichgewichtszustand durch die natürlichen Variablen Temperatur, Teilchenzahl, Substratabstand und Lateraldruck bestimmt ist. Wir variieren unter isothermen Bedingungen den Lateraldruck und untersuchen den Einfluss von diversen Ankerszenarien auf den isotrop-nematischen (IN) Phasenübergang. Die Wechselwirkung zwischen zwei flüssigkristallinen Teilchen wird durch das Hess-Su Potential beschrieben, welches einem Lennard-Jones (12-6) Potential mit orientierungsabhängigem attraktiven Anteil entspricht. In den Simulationen werden die Festkörpergrenzflächen als planparallele, unstrukturierte Substrate implementiert. Dadurch ist die Fluid-Substrat Wechselwirkung bei fester molekularer Orientierung nur eine Funktion des Abstands zwischen dem Massenschwerpunkt der Teilchen und dem Substrat. Zur Auflösung der molekularen Struktur verwenden wir Histogramme der lokalen Dichte und des lokalen nematischen Ordnungsparameters. Durch die räumliche Symmetriebrechung bilden sich zu den Wandebenen parallele Schichten. Unter homogenen Ankerbedingungen, d.h. an gegenüberliegende Substraten wird die gleiche Ankerfunktion verwendet, kann der IN Phasenübergang erheblich verschoben oder unterdrückt werden. Die Vorzugsrichtung der nematischen Phase entspricht der durch die Substrate bevorzugten Orientierung der Kontaktschicht. Bei planarer Verankerung kann eine der Nematisierung vorausgehende strukturelle Transformation beobachtet werden, die zu der Bildung einer zusätzlichen Schicht führt. In heterogenen (hybriden) Poren sind an den gegenüberliegenden Substraten unterschiedliche Orientierungen bevorzugt. Der IN Phasenübergang ist unter diesen Bedingungen unabhängig von dem konkreten Ankerszenario, da die nematische Vorzugsorientierung als eine Superposition der an den Substraten bevorzugten Orientierungen aufgefasst werden kann. Dem IN Phasenübergang geht eine Sekundärumwandlung voraus, bei der sich die Teilchen nahe der Porenmitte entlang einer Vorzugsorientierung ausrichten, deren Richtung von dem konkreten Ankerszenario abhängig ist. Durch eine Finite-Size Analyse und Anwendung der Kumulantenschnittpunktmethode können wir zeigen, dass der IN Phasenübergang schwach erster Ordnung ist. Zusätzlich untersuchen wir unsere Daten mit Landau’s Theorie der Phasentransformation.</dc:description>
+          <dc:date>2012-02-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3231</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34240</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34240</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3231/greschek_manuel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

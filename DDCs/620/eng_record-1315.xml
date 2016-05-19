@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1315">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1315</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zum Einfluss elektrischer Hochspannungsimpulse bei der Gewinnung pflanzlicher Öle</dc:title>
+          <dc:title xml:lang="eng">Effects of pulsed electric fields at the recovery at plant edible oils</dc:title>
+          <dc:creator>Guderjan, Manuela</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurde der Einfluss elektrischer Hochspannungsimpulse (HSI) auf die Qualität und Ausbeute bei der Gewinnung von Maiskeim-, Raps- und Olivenöl untersucht. Bei der Ölgewinnung aus Maiskeimlingen und Rapssaat wurden neben den unterschiedlichen Ölgewinnungsverfahren Lösungsmittelextraktion, Pressung und überkritische CO2 Extraktion auch die unterschiedlich vorbehandelten Ausgangsprodukte nass und trocken vermahlener Mais sowie geschälte und ungeschälte Rapssaat verwendet und der Einfluss von HSI ermittelt. Bei der Behandlung mit elektrischen Hochspannungsimpulsen wird die Probe kurzzeitig (µs-ms) hohen elektrischen Feldstärken (1-20 kV/cm) zwischen den zwei Elektroden einer Behandlungszelle ausgesetzt, was zu einer reversiblen Permeabilisierung bei geringen elektrischen Feldstärken unter 1 kV/cm und zu einer irreversiblen Permeabilisierung bei elektrischen Feldstärken über 1 kV/cm führt. Der erzielte Zellaufschlussgrad wurde über die frequenzabhängige Impedanzmessung ermittelt und Prozess- und Produktparameter für die Behandlung definiert. Die Anwendung elektrisch pulsierender Felder führt bei der Ölgewinnung neben gesteigerten Ausbeuten auch zu höheren Gehalten an funktionellen Zellinhaltsstoffen, wie Tocopherolen, Polyphenolen und Carotinoiden, im Öl. Ein Schwerpunkt der Arbeit lag in der Integrierung der Anwendung elektrischer Hochspannungsimpulse in den industriell angewandten Ölgewinnungsprozess, was jedoch nur bei der Behandlung von nass vermahlenen Maiskeimlingen und Oliven ohne zusätzliche Prozessschritte möglich ist, da für die Behandlung mit elektrisch pulsierenden Feldern Mindestfeuchten der Proben für eine ausreichende Leitfähigkeit des Materials einzuhalten sind.</dc:description>
+          <dc:description xml:lang="eng">The application of pulsed electric fields (PEF) is a nonthermal food processing technology, which has received increased interest during the last years. The effect of pulsed electric fields on quality and oil yield during the recovery of oil from maize germs, rapeseed and olives were investigated in this thesis. The different extraction methods solvent extraction, pressing and supercritical CO2 extraction were used to study the effect of PEF for wet and dry milled maize germs and for hulled and non hulled rapeseed. An external electric field can induce critical electrical potential across the cell membrane. This leads to electrical breakdown and local structural changes of cell membranes, which increase the permeability. The permeabilisation can be reversible at electrical field strengths less than 1 kV/cm or irreversible at electrical field strengths higher than 1 kV/cm. For determination the maximum cell disintegration the method of frequency electrical conductivity was used and the process as well as the product parameters were defined. The application of pulsed electrical fields leads to increased oil yields and higher concentrations of functional food ingredients as tocopherols, polyphenols and carotenoids, by the recovery of edible plant oils. A main object of the work was the implementation of pulsed electric field application in the industrial used oil recovery process. Because of a sufficient moisture content of the samples the integration of PEF could only be reached without any further process steps for wet milled maize germs and olives.</dc:description>
+          <dc:date>2006-08-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1315</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13351</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13351</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1315/guderjan_manuela.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

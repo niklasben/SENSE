@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2401">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2401</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Electronic Predistortion Strategies For Directly Modulated Laser Systems</dc:title>
+          <dc:title xml:lang="deu">Elektronische Vorverzerrungsstrategien für direkt modulierte Lasersysteme</dc:title>
+          <dc:creator>Warm, Stefan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The aim of this work is to study predistortion strategies to overcome the dispersion limit of conventional directly modulated lasers of about 20 km standard single mode fiber at 10 Gbit/s. Calculating a predistorted signal that compensates chromatic dispersion can be simply done in the optical domain for a complex optical signal. For directly modulated lasers, which are restricted in modulating an arbitrary complex optical signal, the predistortion has to be estimated in the electrical domain and thus a more sophisticated approach is necessary. Based on a small signal approximation of the optical fiber and the directly modulated laser, it will be shown that it is theoretically possible to precompensate the chromatic dispersion with a directly modulated laser. As the small signal approximation is restricted to signals with a low extinction ratio, this approach is not suitable for real optical transmission systems. Another predistortion technique that was studied in this work were FIR Volterra filters. To overcome the limitation of the linear small signal approximation, a nonlinear FIR Volterra filter is used to compensate chromatic dispersion. It will be shown, that a Volterra filter is capable of compensating the chromatic dispersion at the receiver. In addition to that, the indirect learning algorithm was applied to transfer the Volterra filter from the receiver to the transmitter. Unfortunately, the algorithm was stable only for special system parameters and thus a signal predistortion with FIR Volterra filters could not be obtained. For the third studied predistortion technique, artificial neural networks as a nonlinear filter and the particle swarm optimization algorithm were used to estimate a signal predistortion. Unlike the first two techniques, the last technique does not estimate a predistorted signal for a given target signal at the receiver, but generates a predistorted signal that minimizes the bit error ratio at the receiver for a given transmission distance. The maximum transmission length in simulations was more than 350 km with an impressive dispersion tolerance of 100 km. Additionally, in experiments with a laser specified for 2.5 Gbit/s, at a data rate of 10 Gbit/s a transmission distance of up to 190 km will be shown. Printed version available: Shaker Verlag</dc:description>
+          <dc:description xml:lang="deu">Das Ziel der vorliegenden Arbeit ist es, verschiedene Vorverzerrungstrategien zu untersuchen um die Übertragungsrechweite von direkt modulierten Lasern in 10 Gbit/s faseroptischen Übertragungssystemen zu erhöhen. Für das komplexe optische Signal ist es in einfacher Weise möglich, ein vorverzerrtes Signal zu bestimmen, welches die chromatische Dispersion vorverzerrt. Bei direkt modulierten Lasern hingegen, welche das komplexe optische Signal nicht frei modulieren können, muss das vorverzerrte elektrische Signal bestimmt werden. Hierfür ist ein aufwendigerer Ansatz als für das optische Signal notwendig. Basierend auf einer Kleinsignalnäherung für die optische Übertragungsfaser und den direkt modulierten Laser, wird gezeigt, dass es theoretisch möglich ist die chromatische Dispersion mit einem direkt modulierten Laser vorzuverzerren. Da die Kleinsignalnäherung begrenzt ist auf Signale mit einer kleinen Modulation, ist dieser Ansatz jedoch nicht anwendbar für reale Übertragungssysteme. Eine weitere untersuchte Vorverzerungstrategie in der vorliegenden Arbeit basiert auf FIR Volterra Filtern. Es wird gezeigt, dass ein FIR Volterra-Filter Signalverzerrung nach der Übertragung, verursacht durch chromatische Dispersion, bei Geradeausempfänger entzerren kann. Zusätzlich wird mit Hilfe des indirect learning Algorithmus der Volterra-Filter vom Empfänger zum Sender transferiert. Hierbei zeigt sich, dass der gewählte Algorithmus nur für sehr spezielle Systemparameter stabil ist und somit keine Signalvorverzerrung mit einem Volterra-Filter erzielt werden konnte. Ein weiterer untersuchter Ansatz basiert auf künstlichen neuronalen Netzen und dem particle swarm Algorithmus zur Bestimmung eines vorverzerrten Signals. Im Gegensatz zu den beiden anderen untersuchten Ansätzen wird bei diesem Verfahren kein vorverzerrtes Signal für ein bestimmtes Zielformat am Empfänger bestimmt. Stattdessen wird ein Signal am Sender generiert, welches die Bitfehlerrate am Empfänger für eine bestimmte Übertragungslänge minimiert. Hierbei konnte in Simulationen eine maximal Übertragungsstrecke von 350 km (SSMF) mit einer beachtlichen Dispersionstoleranz von 100 km erreicht werden. Zusätzlich konnte in Experimenten mit einem für 2,5 Gbit/s spezifizierten direkt modulierten Laser, bei einer Datenrate von 10 Gbit/s eine Übertragungsreichweite von 190 km erzielt werden. Gedruckte Version im Verlag erschienen: Shaker Verlag</dc:description>
+          <dc:date>2010-01-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/plain</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2401</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24052</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24052</dc:identifier>
+          <dc:identifier>978-3-8322-8583-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/original_Abbreviation.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/original_DissBibo.bib</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/original_LaserDiode.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/original_ModFormat.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/original_PostProcessing.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/original_PreDist.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/original_Theory.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/original_dissmain.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2401/warm_stefan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

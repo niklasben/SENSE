@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:225">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:225</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:310</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Generalisierte Lineare Modelle mit zufälligen Effekten und variierenden Koeffizienten</dc:title>
+          <dc:title xml:lang="eng">Generalized linear models with random effects and varying coefficients</dc:title>
+          <dc:creator>Funck-Hüsges, Claudia Beate</dc:creator>
+          <dc:subject>ddc:310</dc:subject>
+          <dc:description xml:lang="deu">Generalisierte Lineare Modelle sind ein vielverwendetes Instrumentarium für die Durchführung von Zusammenhangsanalysen, die beispielsweise bei den Auswertungen von medizinischen oder sozialökonomischen Studien verwendet werden. In vielen Studien werden die Beobachtungseinheiten über einen längeren Zeitraum betrachtet. Es liegt somit einerseits eine gruppen- und/oder individuenspezifische Datenstruktur vor und andererseits muss auch ein möglicher zeitlicher Einfluss berücksichtigt werden. In der vorliegenden Arbeit werden verschiede Modellansätze vorgestellt, die den gruppen- bzw. individuenspezifischen Einfluss durch die Aufnahme von zufälligen Effekten berücksichtigen und gleichzeitig einen zeitlichen Einfluss durch die Betrachtung von zeitvariierenden Koeffizienten ermöglichen. Das in der Arbeit erstmals vorgestellte Verfahren zur Schätzung der Parameter in dieser Modellklasse ist der Lokale Likelihoodansatz mit zufälligen Effekten. Bei diesem Ansatz werden durch eine Kernfunktion die einzelnen Beobachtungen in Abhängigkeit des betrachteten Beobachtungszeitpunktes unterschiedlich gewichtet, so dass durch die Wahl des Glättungsparameters der Kernfunktion ein sehr flexibeler Glättungsansatz möglich ist. Der optimale Glättungsparameter kann durch Kreuzvalidierung, die jedoch mit großem Rechenaufwand verbunden ist, bestimmt werden. Der Vorteil des flexiblen Lokalen Likelihoodansatzes gegenüber parametrischen und semi-parametrischen Ansätzen wird in verschiedenen Anwendungsbeispielen dargestellt. Denn wird keine dem Modell entsprechende parametriche Form gewählt, so können sehr leicht falsche Rückschlüsse getroffen werden. Ein einfacher Ansatz für die Berücksichtigung von zeitvariierenden Koeffizienten und zufälligen Effekten ist die Verwendung des vollen Modells. Bei diesem Ansatz kann durch den modellbedingten Aufbau der Designmatrix nur eine geringe Anzahl von betrachteten Zeitpunkten berücksichtigt werden. Da sonst in der Regel numerische Probleme bei der Bestimmung der Parameterschätzungen entstehen, kann dieser Modellansatz in der Praxis nur sehr beschränkt eingesetzt werden. In den Simulationsstudien und Anwendungsbeispielen hat sich gezeigt, dass der Lokale Likelihoodansatz, der durch die Aufnahme von zufälligen Effekten erweitert wurde, von allen in dieser Arbeit betrachteten Modellansätzen am besten geeignet ist. Der zugehörige Algorithmus, der neben den Parameterschätzungen auch die Bestimmung der Varianzen der Parameterschätzungen ermöglicht, stellt somit eine Bereicherung zu den bereits bekannten Verfahren dar.</dc:description>
+          <dc:description xml:lang="eng">In clinical or epidemiological studies the response variables and a set of covariates often are measured repeatedly over time. Usually it is assumed that the effects of covariates upon the dependent variable do not depend on time. However, if the effects vary, one has to account for the variation using e.g varying coefficient models. On the other hand repeated observations are made on the same individual, or on individuals from a common group, a family, a litter or even a political, geographical or administrative unit, the response variables will usually be correlated. One approach to account for correlation and heterogeneity is a random coefficient model.</dc:description>
+          <dc:date>2002-04-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/225</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2201</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2201</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/225/funck_claudia.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

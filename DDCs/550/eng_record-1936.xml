@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1936">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1936</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Global Modeling of the Effect of Strong Lateral Viscosity Variations on Dynamic Geoid and Mantle Flow Velocities</dc:title>
+          <dc:title xml:lang="deu">Globale Modellierung der Wirkung starker lateraler Viskositätsvariationen auf das dynamische Geoid und Mantelfließgeschwindigkeiten</dc:title>
+          <dc:creator>Rogozhina, Irina</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="eng">This study is aimed at a development of numerical method to model the dynamic geoid and the surface plate velocities induced by global mantle flow with the effect of strong lateral viscosity variations (LVV) in conjunction with the effects of self-gravitation and mantle compressibility. I employ the technique, which comprises the combination of the spherical harmonic method, the direct Godunov method used for solving the Stokes and Poisson equations in spherical harmonics with arbitrary boundary conditions, functions of density and radial viscosity, and the iterative method based on the principles suggested by Zhang and Christensen (1993) used for modeling the effect of LVV. The 3-D mantle viscosity model is based on the global seismic tomography model S20a converted to temperature variations. The maximum lateral viscosity contrast in the lithosphere-asthenosphere zone modeled reaches four orders of magnitude. It is found that the influence of LVV on the dynamic geoid is extremely significant: an alteration of the geoid figure due to LVV exceeds 45% of the maximum geoid undulations. The detailed analysis showed that the geoid is affected by both, strong LVV induced in the upper mantle and large-scale LVV induced in the lower mantle. According to the results of this study the separated effects of the upper- and lower-mantle LVV on the geoid figure are nearly additive with respect to the whole-mantle LVV and partly compensating with respect to each other. The mantle flows are strongly affected by LVV as well, especially by the long-wavelength viscosity variations in the lower mantle: global upwellings tend to intensify due to the effects of LVV, while downwellings become weaker. The alteration of the near-surface velocities reaches 30-40% in amplitude not only due to the LVV-induced toroidal flow but also due to change in the spheroidal velocity component. I can conclude that the LVV presented in both, upper and lower mantle, play an important part in global modeling, therefore, an incorporation of 3-D viscosity structure into the next generation global dynamic models is a task of vital significance.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit befasst sich mit der Entwicklung numerischer Methoden zur dynamischen Modellierung des Geoids sowie der Bewegung der Lithosphärenplatten als Folge der Konvektionsströme im Mantel. Im Speziellen werden die Effekte der lateralen Viskositätsvariationen (LVV) in Verbindung mit der Eigengravitation sowie die Kompressibilität des Mantels näher untersucht. Es werden eine Reihe von Methoden angewandt und miteinander kombiniert, nämlich die Methode der Beschreibung durch Kugelflächenfunktionen, die direkte Godunov-Methode für die Lösung der Stokes- und Poisson-Gleichung mit beliebigen Randbedingungen sowie die iterative Methode (Zang und Christensen 1993) zur Berücksichtigung des Effekts der LVV. Das dreidimensionale Viskositätsmodell des Mantels basiert auf dem globalen seismischen Schichtmodell S20a, aus dem Temperaturvariationen berechnet wurden. Der maximale laterale Viskositätsunterschied im Bereich der Litho- und Asthenosphäre beträgt vier Größenordnungen. Es hat sich herausgestellt, dass das dynamische Geoid signifikant von der LVV beeinflusst wird: In Folge der LVV variiert die Geoidhöhe bis zu 45% der maximalen Geoidundulationen. Die Analyse ergab einen besonderen Einfluss der LVV im oberen Mantel auf das Geoid. Die Auswirkungen der LVV im oberen und im unteren Mantel sind nahezu entgegengesetzt und heben sich teilweise auf. Die Mantelströmungen sind ebenfalls von der LVV beeinflusst, hauptsächlich von den langwelligen Viskositätsvariationen im unteren Mantel: die globale Aufströmung wird durch die LVV intensiviert, währenddessen das Absinken schwächer wird. Die Geschwindigkeitsänderung oberflächennaher Strömungen liegt bei 30-40 % und wird sowohl durch Änderungen in den toroidalen als auch den sphäroidischen Geschwindigkeitskomponenten verursacht. Zusammenfassend lässt sich schlussfolgern, dass die LVV im oberen und unteren Mantel eine wichtige Rolle bei der globalen Modellierung spielt und dass deren Aufnahme in zukünftige globale dynamische Modelle von großer Bedeutung ist.</dc:description>
+          <dc:date>2008-10-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1936</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20453</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20453</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1936/rogozhina_irina.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

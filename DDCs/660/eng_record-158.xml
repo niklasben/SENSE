@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:158">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:158</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Viskositäts- und Oberflächenspannungsverhalten von reinen und technischen Saccharoselösungen</dc:title>
+          <dc:title xml:lang="eng">Behaviour of viscosity and surface tension of pure and technical sucrose solution.</dc:title>
+          <dc:creator>Schmidt, Torsten</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Moderne Meßtechniken ermöglichten die Neuauflage der Bestimmung der dynamischen Viskosität bei originären Prozeßtemperaturen und die berührungslose Bestimmung der Oberflächenspannung von reinen und technischen Saccharoselösungen. Erstmals wurden Meßwerte der Viskosität von reiner Saccharoselösung, Dicksaft und Melasse, sowie für Zuckerhausprodukte mit Konzentrationen über 60 g/100 g bis Temperaturen von 130 °C bestimmt. Aus den Meßwerten konnten empirische Näherungsgleichungen mit hoher statistischer Absicherung abgeleitet werden, die die Berechnung der dynamischen Viskosität in Abhängigkeit von Temperatur, Konzentration und Reinheit mit relativ geringem rechnerischen Aufwand ermöglichen. Verglichen wurde das Viskositätsverhalten von technischen Saccharoselösungen aus Rohr und Rübe exemplarisch am Beispiel von Dicksäften und Melassen aus Rohr und Rübe. Neue Erkenntnisse wurden auch zum nicht-Newtonschen Fließverhalten von reinen und technischen Saccharoselösungen gewonnen. Die Abweichungen vom idealviskosen Fließansatz sind insgesamt gering und unterstützen aufgrund der Strukturviskosität das Processing. Innerhalb der Strukturviskosität wird ein anderes strukturviskoses Verhalten aufgrund der molekularen Zusammensetzung zwischen reiner Saccharoselösung, Dicksaft und Melasse festgestellt. Bei Dickssäften sind demnach die geringsten vom Newtonschen Medium abweichenden Fließeigenschaften zu beobachten. Durch die Nichtsaccharosestoffe werden die Saccharosemoleküle vermutlich an einer Strukturausbildung gehindert. Reine Saccharoselösungen und Melassen zeigen demgegenüber in bestimmten Konzentration- und Temperaturbereichen deutliche Strukturviskosität. Als Ursache dafür werden Strukturierungen der Saccharosemoleküle angenommen. Der Einsatz modernster computergestützter Meßtechnik zur Oberflächenspannungsbestimmung lieferte Meßergebnisse für reine und technische Saccharoselösungen in einem Umfang, wie sie bisher nicht verfügbar waren. Erstmals konnte ein dynamisches Verhalten der Oberflächenspannung als Stoffkennwert in Abhängigkeit vom Stoffsystem, von Konzentration, Temperatur und Alterung bestimmt werden. Die Oberflächenspannungen von reiner und technischen Saccharoselösung wurden für einen weiten Temperatur- und Konzentrationsbereich ermittelt. Technische Saccharoselösung zeigten dabei in Abhängigkeit von der Konzentration ein ausgeprägtes Minimum der Oberflächenspannung bei mittleren Konzentrationen. Am Beispiel der Saccharoselösung konnte erstmals ein reinheitsabhängiges Verhalten bestimmt werden. Für die untersuchten Saccharoselösungen konnten Gleichungsansätze in Abhängigkeit von der Temperatur, der Konzentration und der Reinheit formuliert werden. Auch bei der Oberflächenspannung wurde, wie bei der Viskosität, ein standortabhängiges Verhalten nachgewiesen. Mit den ermittelten neuen Stoffkennwerten der dynamischen Viskosität wurden Berechnungen zur Benetzung von Verdampferheizflächen durchgeführt. Theoretisch mögliche Wärmedurchgangskoeffizienten wurden anhand der gewonnenen Stoffkennwerte berechnet und mit Untersuchungsergebnissen der Praxis verglichen. Außerdem wurden Transportoptimierungen für gelagerten Dicksaft und Melasse durchgeführt.</dc:description>
+          <dc:date>2000-08-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/158</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1536</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1536</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/158/schmidt_torsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

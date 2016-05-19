@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1824">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1824</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Verfahren für BAC DNA-Aufreinigung im Hochdurchsatz zur Genomkartierung von Dicentrarchus labrax</dc:title>
+          <dc:title xml:lang="eng">A process for high-throughput BAC DNA-purification to map the genome of Dicentrarchus labrax</dc:title>
+          <dc:creator>Kuhl, Heiner</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Ein limitierender Faktor des Probendurchsatzes und der Kosten von DNA-Sequenzierung mittels der Sanger-Methode ist die zuverlässige Herstellung qualitativ hochwertiger DNA als Template für die Sequenzierungsreaktion. Durch größenselektive Präzipitation in PEG / Salz-Gemischen ist es möglich ein weites Spektrum von DNA-Templates für die Sequenzierung aufzubereiten. Die genauere Betrachtung der Einflussgrößen PEG- und Salz-Konzentration auf die größenselektive Fällung ermöglichte es, die problematischen rheologischen Eigenschaften von PEG / Salz-Gemischen durch Zusatz von 2-Propanol zu verbessern und ein automatisiertes Verfahren für die Aufreinigung von Plasmid-, Fosmid- und BAC-DNA im 384er Format zu entwickeln. Die konzipierte Anlage bewältigt bis zu 36.834 Proben pro Tag, wobei die Kosten pro Probe unter 0,01 Euro betragen. Mehrere Millionen DNA-Templates für zahlreiche Sequenzierungsprojekte wurden mit Hilfe der Anlage aufgereinigt. Besonders profitierte die Endsequenzierung von Fosmid- und BAC-Banken von dem System. So konnten 102.282 Endsequenzen einer BAC-Bank von Dicentrarchus labrax (Wolfsbarsch) bestimmt werden. Durch den Vergleich der Endsequenzen mit dem nahe verwandten Fisch G. aculeatus (Stichling) war es möglich BAC-Klone anzuordnen und eine hochauflösende komparative Genomkarte zu erstellen. Der Abgleich der Karte mit der genetischen Kopplungskartierung von D. labrax und Kartierungen anderer Fischgenome zeigte, dass die komparative Kartierung einer physikalischen Karte des Genoms nahe kommt. Indem 109 überlappende BAC-Klone anhand der Kartierung ausgewählt wurden, konnten durch Nutzung von Sequenzierungstechniken der zweiten Generation (GS20, Roche / 454) in Kombination mit Sanger-Sequenzierung große Bereiche eines D. labrax-Chromosoms sequenziert werden (&gt; 80%). Die komparative Kartierung des Genoms erweist sich somit als sinnvoller Schritt für eine zukünftige Sequenzierung von D. labrax anhand neuer Sequenzierungs¬techniken.</dc:description>
+          <dc:description xml:lang="eng">A limiting step of sample throughput and costs of DNA-sequencing by the Sanger method is the reliable production of high quality DNA as a template for the sequencing reaction. By means of size selective precipitation in PEG / salt mixtures it is possible to purify a large variety of DNA-templates for sequencing. Analysis of influencing parameters like PEG or salt concentration allowed to improve problematic rheological properties of PEG / salt mixtures by adding 2-propanol and thus to develop an automated process for purification of plasmid-, fosmid- and BAC-DNA from 384 well microtiter plates. The designed system handles up to 36.834 samples per day while costs are cut below 0,01 Euro per sample. Several million DNA-templates for numerous sequencing projects were purified by means of the system. Especially end sequencing of fosmid- and BAC-libraries profited by the developed process. For example 102.282 end sequences of a Dicentrarchus labrax (European Sea Bass) BAC-library were determined. By comparative analysis with the genome of the evolutionary related fish Gasterosteus aculeatus (Three Spined Stickleback) it was possible to order BAC-clones and to build a high resolution comparative map. A comparison of this map with a genetic linkage map of D. labrax and maps of other fish genomes revealed that the comparative map is close to a physical map of the genome. The comparative map was used to select 109 minimal overlapping BAC-clones that cover &gt;80% of a single D. labrax chromosome. These BACs could be completely sequenced by combining Sanger and second generation sequencing technologies (GS20, Roche / 454). Thus the comparative map proves to be an important step towards a complete genome project for D. labrax in the near future that will be facilitated by second generation sequencing technologies.</dc:description>
+          <dc:date>2008-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>CDF V2 Document, corrupt: Can't expand summary_info</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1824</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19217</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19217</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1824/original_kuhl_heiner.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1824/kuhl_heiner.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

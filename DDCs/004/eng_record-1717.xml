@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1717">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1717</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Sharing OCL Constraints by Using Web Rules</dc:title>
+          <dc:creator>Milanović, Milan</dc:creator>
+          <dc:creator>Gašević, Dragan</dc:creator>
+          <dc:creator>Giurca, Adrian</dc:creator>
+          <dc:creator>Wagner, Gerd</dc:creator>
+          <dc:creator>Devedžić, Vladan</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">This paper presents an MDE-based approach to interchanging rules between the Object Constraint Language (OCL) and REWERSE I1 Rule Markup Language (R2ML). The R2ML tends to be a standard rule markup language by following up the W3C initiative for Rule Interchange Format (RIF). The main benefit of this approach is that the transformations between languages are completely based on the languages’ abstract syntax (i.e., metamodels) and in this way we keep the focus on the language concepts rather than on technical issues caused by different concrete syntax. In the current implementation, we have supported translation of the OCL invariants into the R2ML integrity rules. While most of the OCL expression could be represented in the R2ML and other rule languages, we have also identified that collection operators could only be partially supported in other rule languages (e.g., SWRL).</dc:description>
+          <dc:date>2008-03-11</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1717</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18072</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18072</dc:identifier>
+          <dc:identifier>1863-2122</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1717/ECEASST_Vol_9_2008_09.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

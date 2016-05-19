@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2011">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2011</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ships &amp; Shifts - Rethinking Neukölln Harbour</dc:title>
+          <dc:creator>Roskamm, Nikolai</dc:creator>
+          <dc:creator>Seelig, Sebastian</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Das Thema des Städtebaulichen Workshops „Rethinking Neukölln Harbour“ ist Stadtumbau. Stadtumbau ist ein Begriff, der für die Veränderungsprozesse der postindustriellen Stadt steht. Lebensweisen, Arbeitsbiographien und Verwertungslogiken befinden sich in einem erheblichen Wandel. Sich mit Stadtumbau zu beschäftigen, bedeutet daher sich mit den Auswirkungen dieses Wandels auf städtische Strukturen zu befassen. Die Entwicklung Berlins zeigt, dass die postindustrielle Stadt eine zweigeteilte Stadt ist. Es gibt zentrale Bereiche, die sich rasant entwickeln und mit Leuchtturmprojekten von finanzstarken Geldgebern gefüllt werden; es gibt aber auch große Bereiche an denen städtisches Wachstum vorbei geht und die längerfristig liegen gelassen werden. So entstehen Räume, die aus den städtischen Verwertungsprozessen gefallen sind und die nicht einfach per Dekret (oder per Plan) einer neuen Funktion zugeführt werden können. Stadtumbau bedeutet in der Regel Umgang mit diesen brachgefallenen und untergenutzten Flächen. Und dieser Stadtumbau bedarf immer des besonderen Augenmerks auf der Suche nach neuen gesellschaftlichen, politischen und wirtschaftlichen Akteuren, die die Ideen und Pläne vorantreiben und durchsetzen könnten. Online im Universitätsverlag der TU Berlin erschienen.</dc:description>
+          <dc:date>2009-01-13</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2011</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20954</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20954</dc:identifier>
+          <dc:identifier>978-3-7983-2108-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2011/Graue_Reihe_Heft_18_Ships_Shifts.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

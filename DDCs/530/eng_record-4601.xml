@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4601">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4601</identifier>
+        <datestamp>2014-01-15</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Raman spectroscopy of single-walled carbon nanotubes : resonance behavior of the defect-induced Raman modes</dc:title>
+          <dc:title xml:lang="deu">Ramanspektroskopie an einwandigen Kohlenstoffnanoröhren : Resonanzverhalten der Defektinduzierten Ramanmode</dc:title>
+          <dc:creator>Laudenbach, Jan</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The dissertation investigates the resonance behavior of the defect-induced Raman mode (D mode) and its overtone (2D mode) of single-walled carbon nanotubes. It is investigated how the high electronic density of states next to the optical transition influence the D-mode intensity.&#13;
+Raman spectroscopy was performed with tunable laser systems and fixed laser lines in the optical range. Furthermore, atomic force microscopy was used to monitor the morphology of the carbon nanotube samples.&#13;
+For a sample highly enriched with single chirality it is shown that the D mode possesses a similar resonance behavior like the radial breathing mode (RBM) next to their optical transition. Above this energy the D-mode intensity decreases by over one order of magnitude and shows the excitation dependent shift of the D-mode frequency. Numerical simulations confirm these experimental results.&#13;
+Samples enriched with metallic and semiconducting species of nanotubes show different contributions for the (2)D mode. With help of the observed resonance behavior each contribution can be assigned to an optical transition. Furthermore, with a direct comparison to the RBM frequencies it is possible to determine the diameter dependence of the (2)D mode to frequency.&#13;
+The improved understanding of the (2)D-mode resonance behavior makes it possible to determine sample impurities, as well as the a preferred functionalization to a certain species of nanotubes. &#13;
+</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Dissertation untersucht das Resonanzverhalten der defekt-induzierten Raman Mode (D Mode) von einwandigen Kohlenstoff-Nanoröhren und dessen Oberton (2D Mode). Dabei soll untersucht werden inwieweit die hohe, elektronische Zustandsdichte nahe einem optischen Übergangs die Intensität der D Mode beeinflusst.      &#13;
+Raman spektroskopische Untersuchungen wurden mit durchstimmbaren Lasern und festen Laserlinien im optischen Spektralbereich durchgeführt. Des Weiteren wurde ein Raster-Kraft-Mikroskop verwendet um die Morphologie der Kohlenstoff-Nanoröhren abzubilden. &#13;
+An einer stark chiral angereicherten  Probe von Nanoröhren kann gezeigt werden, dass die D Mode nahe ihrem optischen Übergang ein ähnlich starkes Resonanzverhalten aufweist wie die radiale Atmungsmode (RAM). Oberhalb dieser Resonanzenergie nimmt die Intensität der D Mode über eine Größenordnung ab und die typische, von der Anregungsenergie abhängige Verschiebung der D-Moden Frequenz tritt erst hier auf.  Numerische Simulationen des Resonanzverhaltens der D Mode bestätigen die experimentellen Beobachtungen.&#13;
+Angereicherte Proben mit metallischen und halbleitenden Nanoröhren zeigen verschiedene Beiträge zur (2)D Mode. Ausgehend von dem beobachteten Resonanzverhalten kann jedem Beitrag ein optischer Übergang zugeordnet werden. Des Weiteren kann, über einen direkten Vergleich zwischen RAM und (2)D Mode, der Frequenz der (2)D Mode ein Durchmesser der Nanoröhre zugeordnet werden.&#13;
+Das verbesserte Verständnis des Resonanzverhaltens der (2)D Mode  lässt in funktionalisierten Nanoröhren eine Aussage über den Reinheitsgrad der Probe zu. Darüber hinaus lassen sich Aussagen über eine selektive Funktionalisierung bezüglich metallischer oder halbleitender Nanoröhren ableiten.&#13;
+</dc:description>
+          <dc:date>2014-01-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4601</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46019</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46019</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4601/laudenbach_jan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

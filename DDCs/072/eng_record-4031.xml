@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4031">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4031</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:72</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">New Town versus Old Town : a study on Urban Pattern and Energy Efficiency</dc:title>
+          <dc:creator>Falahat, Somaiyeh</dc:creator>
+          <dc:subject>ddc:72</dc:subject>
+          <dc:description xml:lang="eng">The idea of creating New Towns, in its modern form, was emerged in Iran for the first time in the early 20th century, when the process of industrialisation and modernisation began in the country and the urban population increased dramatically. Nowadays the New Towns are being considered as important strategic responses to the emerging Megacities with various urban problems such as pollution, poverty and traffic by the government. &#13;
+The developments in the new towns are in fact building the city from the very first step, so it gives a proper opportunity whereas make it decisive that the concept of sustainability in all its terms and dimensions—social, physical and economical—is followed in the designs and planning strategies in the city. &#13;
+The few researches on the sustainability of built environment in the Hashtgerd New Town mainly focus on either the scale and dimension of architecture or the scale of the city. Although in achieving energy efficiency, the architecture of the complex plays an important role, the urban configurations at the lower resolutions of scale impact the efficiency of architectural designs by filtering the synoptic climates too. So, this text emphasises on the role of the urban geometry as a parameter which influences the sustainability in the city and tries to figure out how efficiently the conventional urban pattern in Hashtgerd New Town act in comparison to the other patterns. The dimension of sustainability which has been focused is the building energy consumption.</dc:description>
+          <dc:date>2013-08-05</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4031</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40317</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40317</dc:identifier>
+          <dc:identifier>978-3-7983-2605-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4031/No16_New%20Town%20versus%20Old%20Town.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

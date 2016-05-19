@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:168">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:168</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beiträge zur Weiterentwicklung der Olefinmetathese : Kombinatorische Synthese und Neue Katalysatoren</dc:title>
+          <dc:title xml:lang="eng">Contributions to the development of Olefin metathesis</dc:title>
+          <dc:creator>Schürer, Stephan Christoph</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der organischen Chemie und insbesondere durch die Etablierung der kombinatorischen Chemie innerhalb der letzten zehn Jahre besteht ein hoher Bedarf an neuen effizienten Synthesemethoden zur Erzeugung von Strukturvielfalt. In der vorliegenden Arbeit werden neue flexible Methoden zur modularen Synthese hochsubstituierter 6-Ring-Carbo- und Heterocyclen aus einfachen Bausteinen beschrieben. Die entwickelte Methodologie beruht auf atomökonomischen Synthesesequenzen aus einer neuen rutheniumkatalysierten In-En-Kreuzmetathese und Diels-Alder-Reaktionen nichtaktivierter 1,3-Diene. Dabei wurde das Synthesepotential der In-En-Kreuzmetathese stark erweitert und bisher nicht durchführbare Diels-Alder-Reaktionen entwickelt. Zahlreiche in guten Ausbeuten synthetisierte Derivate, die aus unterschiedlichen löslichen bzw. immobilisierten Alkinen und Alkenen sowie verschiedenen Dienophilen aufgebaut wurden, demonstrieren die Effizienz des Synthesekonzeptes in Lösung sowie auch an fester Phase. Im Verlauf dieser Arbeiten wurde eine neue Synthese für Tetrahydropyridine entwickelt. Durch Verknüpfung verschiedener Zuckerbausteine in der In-En-Metathese gefolgt von Diels-Alder-Transformation unter Verwendung unterschiedlicher Dienophile gelang der Aufbau flexibel funktionalisierter Pseudooligosaccharide. Dem großen Bedarf an neuen Methoden für Festphasensynthesen folgend, wurde ein Linker entwickelt, bei dem die Immobilisierungs- und Abspaltungsschritte übergangsmetallkatalysiert verlaufen und zur Derivatisierung des Substrates genutzt werden können. Zahlreiche verschiedenartig funktionalisierte Produkte wurden in guten Gesamtausbeuten synthetisiert und belegen die Anwendbarkeit dieses neuen Linkerkonzeptes. Durch eine Sequenz von In-En-Kreuzmetathese, Diels-Alder-Reaktion und reduktiver Aminierung gelang die kombinatorische Festphasensynthese substituierter Oktahydrobenzazepinone, die unter Verwendung eines geeigneten Linkers durch eine cyclisierende Abspaltung in sehr hoher Reinheit erhalten wurden. In den letzten Jahren wurden zahlreiche neue auf Ruthenium basierende Metathesekatalysatoren entwickelt. In Kooperation mit der Arbeitsgruppe von Prof. Dr. h. c. W. A. Herrmann (TU München) wurden asymmetrische Metathesereaktionen durch Ruthenium-Alkyliden-Katalysatoren, die chirale N-heterocyclische Carbenliganden tragen, untersucht. Dabei wurde eine neue chirale Isomerisierungsreaktion eines Vinyldihydrofurans und eine asymmetrische rutheniumkatalysierte Ringschlußmetathese gefunden. Für die Weiterentwicklung von Ruthenium-Metathesekatalysatoren wurden neue lösliche und immobilisierte Ligandenvorstufen synthetisiert und auf ihre Eignung zur Darstellung neuer Katalysatoren untersucht. So konnten in der oben genannten Kooperation bisher unbekannte lösliche und polymergebundene Rhodium-Benzimidazolcarbenkomplexe, die Aktivität in der Hydrosilylierung zeigen, durch in-situ-Synthese aus den entsprechenden Benzimidazoliumsalzen hergestellt werden. Zur Synthese immobilisierter Ruthenium-Metathesekatalysatoren, die insbesondere für kombinatorische Anwendungen interessant sein können, wurde neben einem immobilisierten Benzimidazoliumsalz auch ein festphasengebundenes 3,4-Dihydroimidazoliumsalz synthetisiert und in einen aktiven Metathesekatalysator überführt.</dc:description>
+          <dc:date>2000-08-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/168</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1638</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1638</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/168/schuerer_stephan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

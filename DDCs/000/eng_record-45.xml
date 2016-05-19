@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:45">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:45</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:000</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Das Erfassen und Handhaben von Produktanforderungen : Methodische Voraussetzungen und Anwendung in der Praxis </dc:title>
+          <dc:title xml:lang="eng">The Collection and Management of Product Requirements</dc:title>
+          <dc:creator>Ahrens, Gritt</dc:creator>
+          <dc:subject>ddc:000</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird ein umfassendes Konzept zur Unterstützung der Erfassung und Handhabung von Anforderungen in der praktischen Anwendung erarbeitet und exemplarisch in einer Software umgesetzt. Die Unterstützung ist dabei nicht auf eine bestimmte Branche oder eine spezifische Vorgehensweise zur systematischen Verwendung von Produktanforderungen eingeschränkt. Ausgangspunkt für die Arbeit sind gründliche Erhebungen hinsichtlich existierender wissenschaftlicher Ansätze zu dieser Thematik auf der einen und der Nutzung von Anforderungen in der industriellen Praxis auf der anderen Seite. Ausführliche Analysen hinsichtlich wichtiger Einflußgrößen der Unterstützung einer Erfassung und Handhabung von Anforderungen liefern die methodischen Voraussetzungen für ein erweitertes methodisches Konzept, welches die existierenden Ansätze anwendungsgerecht zusammenführt. Die ermittelten industriellen Randbedingungen werden durch den Aufbau des Konzepts in Form eines flexibel einsetzbaren Baukastens berücksichtigt. Die anwendungsgerechte Nutzung des Methodenbaukastens wird weiterhin durch ergänzende Nutzen-Aufwand-Abschätzungen, eine Methoden-Autoren-Matrix sowie die Ergebnisse der Analyse unterstützt. Die Nutzen-Aufwand-Abschätzungen geben dem potentiellen Nutzer einen Überblick über prädestinierte Einsatzgebiete der angebotenen Methoden und Hilfsmittel. Die Methoden-Autoren-Matrix stellt einerseits die relevanten Analyseergebnisse zusammen und ermöglicht somit den gezielten Zugriff auf die detaillierten Ausführungen im Rahmen der Analyse, andererseits stellt sie methodenorientiert Verweise auf weiterführende Literatur bereit. Zur Vereinfachung der Nutzung sind sämtliche Hilfsmittel nach dem gleichen Schema aufgebaut. Zusätzlich ist die Verwendung des Methodenbaukastens anhand von vier typischen Anwendungsfällen veranschaulicht. Das erarbeitete erweiterte methodische Konzept zur Erfassung und Handhabung von Anforderungen kann in bekannte Vorgehensweisen der Konstruktionsmethodik wie die der VDI Richtlinie 2221 eingegliedert werden. Es ersetzt bzw. erweitert den ersten der sieben Arbeitsschritte "Klären und Präzisieren der Aufgabenstellung" durch die systematische Einbeziehung der "voice of the customer". Da der industrielle Einsatz des erarbeiteten Methodenbaukastens nur in Verbindung mit einer gleichzeitig angepaßten Rechnerunterstützung wirtschaftlich sein kann, wird weiterhin ein Konzept zur informationstechnischen Unterstützung der Erfassung und Handhabung von Anforderungen erarbeitet und exemplarisch im Programmsystem SPECtool umgesetzt. Die methodischen Voraussetzungen sowie die industriellen Gegebenheiten werden auch hier als Anforderungen für die Konzepterstellung herangezogen.</dc:description>
+          <dc:date>2000-08-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/45</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-428</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-428</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/45/ahrens_gritt.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

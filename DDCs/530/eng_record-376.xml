@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:376">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:376</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beurteilung fester Adsorbentien in offenen Sorptionssystemen für energetische Anwendungen</dc:title>
+          <dc:title xml:lang="eng">Classification of solid adsorbents in open sorption systems for energetic applications</dc:title>
+          <dc:creator>Hauer, Andreas</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die Auswahl geeigneter Adsorbentien kann im Bereich energetischer Anwendungen offener Sorptionssysteme von großer Bedeutung sein. Als feste Adsorbentien werden Zeolithe und Silicagele betrachtet. In offenen Systemen wird ausschließlich Wasserdampf als Adsorptiv im Rahmen dieser Arbeit untersucht. Die Adsorptionsgleichgewichte der verschiedenen Adsorbentien wurden experimentell bestimmt. Dabei wurde auch das Gleichgewicht eines Zeolithen im geschlossenen und offenen System verglichen. Aus den gemessenen Adsorptionsgleichgewichten wurden die differentiellen Adsorptionsenthalpien berechnet. Als energetische Anwendungen werden eine Adsorptionswärmepumpe für die Heizung eines Einfamilienhauses, ein thermochemischer Wärmespeicher im Fernwärmenetz der Stadt München zur Beheizung eines Schulgebäudes und eine sorptive Klimaanlage zur Kühlung von Veranstaltungsräumen detailliert vorgestellt. Aus den realen Anwendungen werden die Anforderungen für die Adsorbentien abgeleitet. Feste Adsorbentien werden bezüglich der folgenden Kriterien beurteilt: · Der Temperaturhub beschreibt die mögliche Temperaturerhöhung (und gleichzeitige Entfeuchtung) des Trägergasstroms während der Adsorption. Er ist entscheidend für die Heizanwendungen (bzw. Kühlanwendungen) offener Sorptionssysteme. · Die Durchbruchskurven beschreiben das dynamische Verhalten von Temperatur und Wassergehalt des Trägergasstroms am Austritt des adiabaten Festbetts. · Das Wärmeverhältnis gibt Auskunft über das Verhältnis der nutzbaren Wärme zur aufgewandten Wärme für die jeweiligen Anwendungen. · Die Energiespeicherdichte ist von großer Bedeutung bei der Auslegung sorptiver Wärmespeichersysteme. Diese Kriterien lassen sich für die jeweilige Anwendung auf der Basis der Adsorptionsgleichgewichte vorhersagen. Damit kann das optimale Adsorbens identifiziert werden. Abschließend wird in der Arbeit auf die Stabilität fester Adsorbentien eingegangen. Experimentell wurden verschiedene Zeolithproben untersucht. Es wurde die hydrothermale Stabilität, bezüglich des Einflusses von Temperatur und Luftfeuchtigkeit, und die chemische Stabilität, bezüglich erhöhter Schadgaskonzentration (von CO, SO2 und NO2) in der Luft überprüft. Veränderungen an den Zeolithen wurden mit Röntgenkleinwinkelstreuung und Raster-Elektronen-Mikroskopie untersucht.</dc:description>
+          <dc:date>2002-08-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/376</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3718</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3718</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/376/hauer_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

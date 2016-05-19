@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4945">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4945</identifier>
+        <datestamp>2014-04-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Impact of cultivation conditions and bioreactor design on docosahexaenoic acid production by a heterotrophic marine microalga : a scale up study</dc:title>
+          <dc:title xml:lang="deu">Einfluss der Kultivierungsbedingungen und des Bioreaktordesigns auf die Docosahexaensäureproduktion mit einer heterotrophen marinen Mikroalge</dc:title>
+          <dc:creator>Hillig, Friederike</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Docosahexaenoic acid (DHA) is a polyunsaturated fatty acid (PUFA), which exhibits a positive impact on human health. The traditional source of DHA is fish oil, but the application provides health, economic and environmental drawbacks. Aquaculture is the fastest growing food production sector, which results in an increased demand of fish oil as feed stock. Furthermore, the increase of the world population enhances the need for fish from aquaculture and fish oil as nutritional supplements. The heterotrophic marine microalgae Crypthecodinium cohnii is able to produce DHA as a single PUFA without the necessity to provide light to the culture, and therefore, makes it an interesting organism for production proposes. However, the shear sensitivity and the high oxygen demand of the algae together with the high chloride medium, causing corrosion in common stainless steel stirred tank reactors (STRs), result in sophisticated challenges for the process development. &#13;
+In recent years, the interest in single-use bioreactors (SUBs) for the process development in biotechnology has increased and provides a valuable alternative to common stainless steel STRs for the cultivation of C. cohnii. However, since SUBs were originally designed for mammalian cell lines, a methodology platform for the cultivation of marine species in SUBs from small to large scale is still missing. &#13;
+The scope of this thesis is the development of an optimized process for the production of DHA with C. cohnii. Therefore, a scale-dependent methodology platform was established for the process development, which was divided into two phases in order to optimize the growth and production phases separately. The identification of the best suited single-use system in each scale is discussed and the consistent application for the process development described. &#13;
+In the small scale, a two-layer system with perfluorodecalin (PFD) was developed, which makes it useful as a screening tool and for the application of design of experiments (DoE). The TubeSpin Bioreactor 600 prevailed among different devices in the shake flask scale and was applied together with the TubeSpin Bioreactor 50 as a satellite system in order to close the gap between small scale experiments with relatively low cell numbers and time and manpower consuming experiments in the pilot scale. Eventually, the CELL-tainer from CELLution turned out to be the best suited SUB for a scale-up, but also the SB200-X, which is already available in m³-scale, was applicable for cultivation, that is if some drawbacks are compensated for, which are discussed in the thesis.&#13;
+As a result, a combined process with glucose as main carbon source in the growth phase and acetic acid in the stationary phase accompanied by a temperature shift resulted in the peak DHA production rate of 47 mg L-1h-1, leading to a volumetric concentration of 5 g L-1 DHA in 230 h. &#13;
+All in all the methods described here can be used for fast, economical and consistent bioprocess development, especially for marine microorganism.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Docosahexaensäure (DHA) ist eine mehrfach ungesättigte Fettsäure (PUFA), die sich positiv auf die menschliche Gesundheit auswirkt. Die traditionelle Quelle für DHA ist Fischöl, aber dessen Verwendung hat gesundheitliche, wirtschaftliche und ökologische Nachteile. Die Aquakultur ist der am schnellsten wachsende Sektor der Nahrungsmittelproduktion. Das führt zu einer erhöhten Nachfrage an Fischöl für Futtermittel. Des Weiteren verursacht die Zunahme der Weltbevölkerung einen erhöhten Bedarf an Fisch aus der Aquakultur und an Fischöl als Nahrungsergänzungsmittel. Die heterotrophe marine Mikroalge Crypthecodinium cohnii bietet die einmalige Chance DHA herzustellen ohne die Notwendigkeit Licht für die Kultivierung bereitzustellen. Das macht diesen Organismus interessant für die industrielle Anwendung. Allerdings ergeben sich durch die Scherempfindlichkeit und den hohen Sauerstoffbedarf der Algen zusammen mit dem salzhaltigen Medium, das in herkömmlichen Edelstahl-Rührkesselreaktoren (STRs) zu Korrosion führt, anspruchsvolle Herausforderungen für die Prozessentwicklung. In den letzten Jahren ist das Interesse an Einwegbioreaktoren (SUBs) für die Prozessentwicklung in der Biotechnologie gestiegen und sie bieten eine wertvolle Alternative zu herkömmlichen STRs für die Kultivierung von C. cohnii. Da jedoch SUBs ursprünglich für Säugerzelllinien entwickelt wurden, fehlt bisher eine methodische Plattform für die Kultivierung von marinen Mikroorganismen vom Klein- zum Großmaßstab.&#13;
+Das Ziel der Dissertation ist die Entwicklung eines optimalen Prozesses für die Herstellung von DHA mit C. cohnii. Dafür wurde eine skalenabhängige methodische Plattform für die zweiteilige Prozessentwicklung etabliert. Die Identifizierung des am besten geeignetsten Einwegsystems wird in jedem Maßstab diskutiert und die konsequente Anwendung für die Prozessentwicklung beschrieben. &#13;
+Im kleinen Maßstab wurde ein Zwei-Phasen-System mit Perflourodecalin entwickelt, das sich als Screening-Werkzeug für die statistische Versuchsplanung eignet. Der TubeSpin Bioreaktor 600 übertraf andere Kultivierungsflaschen im direkten Vergleich und wurde zusammen mit den Tube Spin Bioreaktoren 50 als Satellitensystem angewendet, um die Lücke zwischen Experimenten im Kleinmaßstab mit relativ niedrigen Zellzahlen und den aufwendigeren Versuchen im Pilotmaßstab zu schließen. Schlussendlich stellte sich der CELL-tainer von CELLution als der am besten geeignete SUB für die Maßstabsvergrößerung heraus, aber auch der SB200-X, der bereits im m³-Maßstab erhältlich ist, kann für die Kultivierung angewendet werden, unter Beachtung einiger Nachteile, die in dieser Dissertation diskutitert werden.&#13;
+Ein kombiniertes Verfahren, bei dem Glucose als Hauptkohlenstoffquelle in der Wachstumsphase und Essigsäure in der Produktionsphase zusammen mit einer Temperaturabsenkung angewendet wurden, führte zu DHA Spitzenproduktionsraten von 47 mg L-1 h-1, die zu einer volumetrischen DHA-Konzentration von 5 g L-1 innerhalb von 230 h führte.&#13;
+Die hier beschriebene Methode kann für die schnelle, wirtschaftliche und konsequente Bioprozessentwicklung verwendet werden, insbesondere für die Anwendung für marine Mikroorganismen.</dc:description>
+          <dc:date>2014-03-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4945</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49456</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49456</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4945/Hillig_Friederike.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

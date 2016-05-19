@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3015">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3015</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Chip-on-the-Tip-Endoskope mit Variooptik und LED-Beleuchtung für den medizinischen Einsatz</dc:title>
+          <dc:title xml:lang="eng">Chip-on-the-Tip-Endoscopes with Optical Zoom and LED-Illumination for Medical Applications</dc:title>
+          <dc:creator>Dreyer genannt Daweke, Robert Kai Alexander</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit der Entwicklung von Endoskopen für den medizinischen Einsatz. Nach einem Überblick über den Stand der Technik werden zwei neuartige Chip-on-the-Tip-Endoskope vorgestellt. Bei dem ersten Endoskop wird zur Beleuchtung eine LED an der Endoskopspitze genutzt, welche die sonst übliche teure externe Kaltlichtquelle ersetzt. Somit entfällt auch das schwere Lichtleitkabel, welches von den meisten Chirurgen als sehr hinderlich empfunden wird. Durch den Aufbau treten keine Koppel- und Leitungsverluste auf, so dass effiziente LEDs eine ausreichende Helligkeit versprechen. Bisher war die Einhaltung der zulässigen Maximaltemperatur jedoch ein ungelöstes Problem. Es wurden verschiedene Möglichkeiten der Lichterzeugung und der Wärmeabfuhr untersucht, wobei eine Kombination aus Pseudo-White-LED und Heatpipes sowohl den erforderlichen Lichtstrom liefert, als auch die zulässige Temperatur einhält. Das optische System ist besonders lichtstark ausgeführt, um ein helles Bild zu liefern. Es besitzt daher eine große Blendenöffnung, wodurch die Tiefenschärfe reduziert ist. Das Bild lässt sich jedoch mittels einer motorisch bewegten Linse auf unterschiedliche Objektabstände scharf einstellen und kompensiert dadurch die geringere Tiefenschärfe. Der Aktor ist als bistabiler elektromagnetischer Lineardirektantrieb ausgeführt. Diese Bauform zeichnet sich durch eine kompakte Bauweise, hohe Geschwindigkeit und sehr geringe Verlustwärme aus. Das zweite Endoskop nutzt ein konventionelles Beleuchtungssystem mit Glasfasern und externer Kaltlichtquelle. Die Neuheit liegt hier in dem optischen System, welches sowohl über eine Scharfstellung (Fokus) als auch über eine Änderung des Bildfeldwinkels (optischer Zoom) verfügt und damit erstmal die Funktionalität externer Kameras in ein Chip-on-the-Tip-Endoskop integriert. Die notwendige Verstellung von zwei Linsengruppen wird auch hier mit elektromagnetischen Lineardirektantrieben umgesetzt. Die Entwicklung der drei Lineardirektantriebe und der beiden optischen Systeme ist detailliert erläutert, wobei sichtbar wird, dass mechanische, elektromagnetische und optische Anforderungen häufig kollidieren. Infolge der vielfältigen Entwicklungsarbeiten gelang es, Richtlinien und Konstruktionsregeln zu erarbeiten, die es gestatten, grobe Fehler bereits im Ansatz zu vermeiden und die Zusammenarbeit der Einzelsysteme zu gewährleisten. Eine Diskussion der Verbesserungspotentiale der beiden Endoskope und ein Ausblick auf zukünftige Entwicklungen schließen die Arbeit ab.</dc:description>
+          <dc:description xml:lang="eng">The present thesis deals with endoscopes for medical applications. After an overview of the state of the art, two concepts for new chip-on-the-tip-endoscopes are presented. The first endoscope uses an LED at the endoscope tip for illumination, replacing the common expensive external light source. Thereby, it is possible to omit the heavy light conducting cable which most surgeons find hindering. Due to the design, no coupling or conduction losses occur, so efficient LEDs promise a sufficient brightness. Up to now, compliance with the maximum admissible temperature was an unsolved problem. Different options for light generation and heat dissipation were analysed. A combination of a pseudo-white LED and a heat pipe provides the required luminous flux and keeps the temperature within the admitted range. The optical system is especially fast so as to generate a bright image. The resulting large aperture stop is reducing the depth of field. This is compensated by a variable focus using a motor-driven lens. The actuator is a bistable electromagnetic direct linear drive. This type of actuator is characterised by compact dimensions, high speed, and low thermal losses. The second endoscope uses a conventional illumination system with glass fibres and an external light source. The novelty here is the optical system with a variable field of view (optical zoom) and variable focus. It integrates the functionality of external cameras into a chip-on-the-tip-endoscope for the first time. The required motion of the two lenses is executed by electromagnetic direct linear drives here as well. The development of the three direct linear drives and the two optical systems is described in detail, making it apparent that the mechanical, electromagnetic and optical requirements often conflict. As a result of the manifold research and development work, it was possible to formulate guidelines and design rules to avoid mistakes from the beginning and ensure that the subsystems work together. The thesis concludes with a discussion on room for improvement of both endoscopes and an outlook on future developments.</dc:description>
+          <dc:date>2011-08-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3015</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31881</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31881</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3015/dreyergenanntdaweke_robert.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

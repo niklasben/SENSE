@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1190">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1190</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Representing polyhedra by few polynomial inequalities</dc:title>
+          <dc:title xml:lang="deu">Beschreibung von Polyedern mittels weniger Polynomungleichungen</dc:title>
+          <dc:creator>Bosse, Hartwig W.</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This work presents results in the field of real algebraic geometry as well as in the theory on polyhedra. The main result is that every d-dimensional polyhedron can be described by at most 2d polynomial inequalities and, moreover, an explicit construction for these polynomials is provided. It is also shown that for any d-dimensional pointed polyhedral cone there is a description using (2d-2) polynomial inequalities, and that for bounded polyhedra there is a representation involving 2d-1 polynomial inequalities. A construction for the necessary polynomials is provided for both cases. In each case, the number of polynomials constructed is close to the lower bound: To represent a d-dimensional polyhedron containing a vertex, at least d polynomial inequalities are needed.</dc:description>
+          <dc:description xml:lang="deu">Diese Dissertation präsentiert neue Ergebnisse sowohl in der reellen algebraischen Geometrie als auch in der Polyedertheorie. Das Hauptresultat ist der konstruktive Beweis, dass jedes d-dimensionale Polyeder durch höchstens 2d Polynomungleichungen beschreibbar ist. Für die entsprechenden Polynome wird ein Konstruktionsalgorithmus explizit angegeben. Als Folge ergeben sich: Jeder d-dimensionale polyedrische Kegel kann durch 2d-2 Polynomungleichungen beschrieben werden, und jedes beschränkte, d-dimensionale Polytop kann durch 2d-1 Polynomungleichungen beschrieben werden. Für beide Fälle liefert die Arbeit entsprechende Konstruktionsalgorithmen. In jedem der Fälle ist die Anzahl der konstruierten Polynome nah an der untereren Schranke: Um ein d-dimensionales Polyeder darzustellen, das eine Ecke besitzt, werden mindestens d Polynomungleichungen benötigt.</dc:description>
+          <dc:date>2006-01-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1190</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12033</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12033</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1190/bosse_hartwig.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

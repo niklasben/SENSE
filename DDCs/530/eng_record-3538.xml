@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3538">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3538</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Elastic Network Models of Proteins - Uncovering the Internal Mechanics of Actin and Myosin</dc:title>
+          <dc:title xml:lang="deu">Elastische Netzwerkmodelle von Proteinen - Aufdecken der internen Mechaniken von Aktin und Myosin</dc:title>
+          <dc:creator>Düttmann, Markus</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Throughout the course of evolution, proteins have obtained the ability to perform a variety of tasks within the cell. Two important examples are the structural protein actin and the molecular motor myosin. They are so-called ATPases, i.e. binding and subsequent hydrolysis of an ATP molecule provide energy fueling these molecular machines. Here, an elastic-network (EN) approximation will be employed to study ATP induced conformational changes of actin, internal communication mechanisms of myosin and the interaction of these two molecules. We found that they essentially behave like strain sensors, both responding by well-defined domain motions to mechanical perturbations. To describe the actin monomer, we extended the EN model by introducing a set of breakable links. These become effettive only when two domains approach one another. In this framework, actin possesses a metastable state corresponding to a closed conformation and appropriate perturbations in the nucleotide-binding pocket (NBP) can induce a transition to this state. Furthermore, a coarse-grained ligand model was introduced. Our analysis suggests that the presence of ATP stabilizes a closed conformation. This may play an important role in the explanation why the polymerization process is highly accelerated in the presence of ATP. Next, we explore the sensitivity of myosin to external forces. Conformational responses of the motor protein to the application of forces to individual residues in its principal functional regions were systematically investigated. In this way, a detailed sensitivity map of myosin-V could be obtained. The results suggested that the intrinsic operation of this molecular motor is regulated by its strain-sensor behavior. In agreement with experiments, we find that such forces invoke conformational changes that should affect filament binding and nucleotide release. Finally, interactions between the filament and actin or myosin have been investigated. Electrostatic interactions were seen to guide proteins toward specific binding sites. Here, strong binding occurs due to directly interact ing residues which form stable bonds if they come close to each other.</dc:description>
+          <dc:description xml:lang="deu">Im Laufe der Evolution haben Proteine zahlreiche Fähigkeiten entwickelt und regulieren so gut wie jeden Prozess in der Zelle. Wichtige Beispiele sind das Strukturprotein Aktin und der molekulare Motor Myosin. Sie gehören zu der Gruppe der ATPasen, d.h. sie werden durch eine chemische Reaktion mit diesem Nuk- leotid angetrieben. In dieser Arbeit werden ATP-induzierte Konformationsänderungen von Aktin, interne Kommunikationsmechanismen von Myosin und die Wechselwirkung beider Moleküle im Rahmen eines elastischen Netzwerksmodells untersucht. Wir haben herausgefunden, dass Aktin und Myosin sich wie Kraft- sensoren verhalten; beide reagieren mit wohldefinierten Domänenbewegungen auf mechanische Störungen. Um den Aktin-Monomer zu beschreiben, haben wir das Net- zwerkmodell durch Einführung von neuen Bindungen erweitert. Diese entstehen, wenn sich Domänen nahe genug annähern. Dadurch besitzt Aktin einen metastabilen, geschlossenen Zustand. Geeignete Störungen in dem Bereich in dem Ligan- den binden können einen Übergang dorthin bewirken. Weiterhin entwickelten wir ein Liganden-Modell und konnten zeigen, dass ein so modelliertes ATP den geschlossenen Zustand stabilisiert. Dies könnte eine Rolle bei der Erklärung spielen, warum in Anwesenheit von ATP die Aktin-Polymerisierung beschleunigt wird. Außerdem untersuchten wir den Einfluss externer Kräfte auf Myosin. Indem wir systematisch Kräfte auf einzelne Residuen in den wichtigen Bereichen des Moleküls wirken ließen und deren Effekte quantifizierten, konnten wir die Empfindlichkeiten einzelner Bereiche charakterisieren. Unsere Ergebnisse deuten darauf hin, dass intrinsische Mechanismen durch äußere Kräfte reguliert werden. In Übereinstimmung mit experimentellen Daten konnten wir zeigen, dass äußere Kräfte Konformationsänderung induzieren, die das Binden von Filamenten und Nukleotiden beeinflussen können. Abschließend untersuchten wir die Wechselwirkung zwischen Aktin und Myosin auf der einen und dem Filament auf der anderen Seite. Wir zeigten, dass elektrostatische Wechselwirkungen dafür sorgen, dass die beiden Proteine sich die gewissen Bindungsstellen im Filament nähern. Dort gehen sie stabile Bindungen ein, die für eine starke Wechselwirkung zwischen Filament und Protein sorgen.</dc:description>
+          <dc:date>2012-12-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3538</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37648</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37648</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3538/duettmann_markus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

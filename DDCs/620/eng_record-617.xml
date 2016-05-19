@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:617">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:617</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modellierung und Analyse von Fehlern und Störungen in der präparativen Flüssigchromatographie</dc:title>
+          <dc:title xml:lang="eng">Modeling and Analysis of Malfunctions and Sources of Error in the Preparative Liquid Chromatography</dc:title>
+          <dc:creator>Lenz, Konstantin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit betrachtet die Auswirkungen möglicher Fehlfunktionen und Störungen auf ausgewählte Systeme der präparativen Flüssigchromatographie. Diese Betrachtung konzentriert sich dabei auf drei Komplexe: Zum ersten auf den Vergleich der Daten, die bei Nutzung von statischen und dynamischen Methoden zur Bestimmung von Adsorptionsisothermen gemessen wurden. Zum Einsatz kamen dabei die Zirkulationsmethode, die Frontalanaylse und die Perturbationsmethode. Werden die experimentellen Ergebnisse in einen identischen Bezugsrahmen überführt, so ist es möglich, die Ergebnisse miteinander zu vergleichen. Führt man diese Prozedur für die Daten der beiden vermessenen Testsysteme durch, so kann unter Bestimmung und Einrechnung der eingeführten effektiven Porosität festgestellt werden, daß die Differenzen in den experimentellen Ergebnissen geringer sind als die berechneten Meßfehler. Der zweite Komplex befaßt sich mit fehlerhaft gepackten Festbetten präparativer chromatographischer Säulen. Von Interesse sind dabei die Auswirkungen bestimmter Packungsfehler auf die die Säule durchlaufende Peaks. Unter Verwendung experimenteller Ergebnisse sowie der Nutzung der Simulationsumgebungen gPROMS und FLUENT konnte dabei festgestellt werden, daß sich die Auswirkungen eines Hohlraumes über einem abgesackten chromatographischen Festbett mit Hilfe eines vorgeschalteten idealen Rührkessels beschreiben lassen. Weitere Punkte betrafen eine teilweise undurchlässige Auslassfritte, die nur zu einer etwas geringeren Retentionszeit führt und den Peak nur in geringem Maße verändert. Bei den nur mittels Simulationen untersuchten Phänomenen der radialen Heterogenität und der Kanalbildung im Festbett konnte das Auftreten von Peakassymmetrien und Doppelpeakverhalten festgestellt werden. Der dritte Komplex schließlich beleuchtet die Auswirkungen bestimmter Fehler beim Betrieb der Simulierten Gegenstromchromatographie (SMB). Diese wurden mit Hilfe dynamischer Simulationen unter Variation verschiedener Parameter erforscht, um Ihre Gesetzmäßigkeiten zu untersuchen. Dabei konnten zwei Klassen von Fehlern ausgemacht werden: Die Auswirkungen globaler Fehler sind in jeden Takt identisch und können zusätzlich mit Hilfe eines Massenbilanzmodells beschrieben werden. Die Auswirkungen sind dabei primär von den Konstellationen dominierender Transportrichtungen abhängig. Lokale Fehler zeigen dagegen in den verschiedenenen Takten unterschiedliche Charakteristika und sind nur mittels dynamischer Simulationen zu beschrieben. Die Ergebnisse dieser Untersuchungen zeigen die Möglichkeit, ein System zur Fehlerdiagnose für SMB-Anlagen zu entwickeln.</dc:description>
+          <dc:date>2004-01-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/617</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6115</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6115</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/617/lenz_konstantin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

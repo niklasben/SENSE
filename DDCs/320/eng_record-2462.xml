@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2462">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2462</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:320</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Demos – Brandenburgisches Institut für Gemeinwesenberatung. Einblicke III. Ein Werkstattbuch</dc:title>
+          <dc:creator>Wilking, Dirk (Hrsg.)</dc:creator>
+          <dc:creator>Kohlstruck, Michael (Hrsg.)</dc:creator>
+          <dc:subject>ddc:320</dc:subject>
+          <dc:description xml:lang="deu">Mit Einblicke III setzt Demos – Mobiles Beratungsteam Tolerantes Brandenburg (MBT) seine Reihe von Selbstreflexionen und Fallberichten aus dem Land Brandenburg fort. „Demokratie heißt Einmischung in die eigenen Angelegenheiten“. Das MBT nimmt den Impuls von Max Frisch auf und unterstützt alle, die Werte und Verfahren der Demokratie ernst nehmen; das MBT versucht jene zu gewinnen, die der Demokratie indifferent und skpetisch gegenüberstehen; und schließlich fördert es die kritische Auseinandersetzung mit den erklärten Feinden der Demokratie. Inhalt: Frauke Postel: Gedanken zum Arbeitskonzept des Mobilen Beratungsteams (9-17), Ray Kokoschko, Katja Hoffmann: Einheimische und Fremde auf dem Lande. Das Amt Odervorland als Beispiel (21-39), Andrea Nienhuisen, Jan Kasiske: Zossener Zustände 2009 – Chancen und Grenzen bürgerschaftlichen Engagements am Beispiel einer Kleinstadt (41-61), Dirk Wilking: Ein Schulprojekt der Grundschule „Traugott Hirschberger“ Lübbenau wirkt in das Gemeinwesen. Gedenkstättenpädagogik mit Kindern und Eltern (63-78), Robin Kendon: Der Umgang mit Zeichen und Symbolen des Rechtsextremismus. Erfahrungen aus der Arbeit des Mobilen Beratungsteams (79-94), Karin Dörre, Jürgen Lorenz: Keine Erklärungen in Goldpapier, aber ein geradliniger Weg. Welche Konsequenzen wurden in Templin aus dem Mord an Bernd Köhler gezogen? (95-107), Mario Feist: Das „Fürstentum Germania“ – „Nicht rechts, nicht links, sondern vorne“? (109-124), Gabriele Schlamann: Die Auseinandersetzung mit dem „Fürstentum Germania“ in der Gemeinde Plattenburg 2009 (125-139), Susanne Kschenka, Anett Müller: Rechtsextreme Parteien und ihre Vertreter in den Kreistagen und Stadtverordnetenversammlungen der kreisfreien Städte in Brandenburg (141-174), Katrin Pecker: Wo wird rechtsextrem gewählt? Ein Kurzbericht zu den Landtagswahlergebnissen rechtsextremer Parteien in Brandenburg (175-188), Katarina Reichmann: Eltern mischen mit. Ergebnisse aus dem Pilotprojekt Elternwege-Beratungswege (189-203).</dc:description>
+          <dc:date>2010-03-24</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2462</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25609</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25609</dc:identifier>
+          <dc:identifier>978-3-00-029433-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2462/kohlstruck_einblicke_III.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

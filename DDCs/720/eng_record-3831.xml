@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3831">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3831</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analyzing Satisfaction in Residential Open Space</dc:title>
+          <dc:creator>Ghazizadeh, Neda</dc:creator>
+          <dc:creator>Rückert, Klaus</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">This research has been conducted to investigate the most important criteria in the dwelling environment influenced residents’ satisfaction. The meaning of the yard has been changed to the semipublic open space, following the emergence of multi-families complex as one of the prevalent sort of habitation in the big cities of Iran. Therefor the features of residential open space which effect on habitants’ perception and consequently, residents’ satisfaction was studied. This paper is based on the data collected from the questionnaire contained sections measuring residents perceptions of space in eleven residential complexes in Tehran. The path model analysis had spatial, contextual, functional and social features as the exogenous variables predicting residents’ evaluation of open space and the level of satisfaction. The structural equation modeling implied that overall residents’ satisfaction was associated intensively with the spatial feature of complexes. Sense of privacy, coherence and safety are the most important features affect residents’ satisfaction, whereas social and functional features do not have vital effect on habitant perception of satisfaction.</dc:description>
+          <dc:contributor>Sponsored by German Federal Ministry of Education and Research (BMBF)</dc:contributor>
+          <dc:date>2013-04-30</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3831</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39652</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39652</dc:identifier>
+          <dc:identifier>978-3-7983-2543-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3831/No04_Analyzing%20Satisfaction%20in%20Residential%20Open%20Space.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

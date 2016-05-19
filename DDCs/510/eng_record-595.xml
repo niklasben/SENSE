@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:595">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:595</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Discrete Transparent Boundary Conditions for Systems of Evolution Equations</dc:title>
+          <dc:title xml:lang="deu">Diskrete transparente Randbedingungen für Evolutionsgleichungen</dc:title>
+          <dc:creator>Zisowsky, Andrea</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Doktorarbeit befasst sich mit der Herleitung und Implementierung von diskreten transparenten Randbedingungen für Systeme von Evolutionsgleichungen. Transparente Randbedingungen (TRBen) sind spezielle künstliche Randbedingungen, durch die die Lösung der Gleichung auf beschränktem und mit TRBen versehenem Gebiet mit der exakten Lösung des Ganzraumproblems (auf diesem beschränkten Gebiet) übereinstimmt. Die Differentialgleichungen werden durch ein Finite-Differenzen-Verfahren (theta-Schema) diskretisiert. Für die entstandene diskrete Gleichung werden diskrete transparente Randbedingungen (DTRBen) hergeleitet, wodurch die DTRBen besonders gut an das numerische Verfahren angepasst sind. Für skalare Gleichungen sind diese DTRBen bereits länger bekannt und man weiß, dass im Gegensatz zur ad-hoc Diskretisierung der analytischen TRBen Stabilitätsprobleme und künstliche Reflektionen am Rand vermieden werden können. Wir werden uns hier mit Systemen von Differentialgleichungen (parabolisch und Schrödinger Typ) befassen. Für diese Systeme ist der Ansatz der DTRBen gänzlich neu und wirft zusätzliche Probleme auf, die für skalare Gleichungen nicht auftreten. Nachdem wir uns eingehend mit den TRBen und DTRBen für schwach gekoppelte Systeme von parabolischen Differentialgleichungen beschäftigt haben, die das Verhalten von fluiden stochastischen Petri-Netzen beschreiben, verallgemeinern wir unser Vorgehen auf ein beliebiges lineares parabolisches System. Im Anschluss daran betrachten wir ein System von Schrödinger-Gleichungen, wie es z.B. in der Halbleiterphysik als sogenannte k·p-Schrödinger Gleichung der Quantenmechanik auftritt. Die angeführten numerischen Beispiele zeigen, dass sowohl für parabolische als auch für Systeme von Schrödinger Gleichungen die DTRBen nur sehr kleine Fehler verursachen.</dc:description>
+          <dc:description xml:lang="eng">This dissertation is concerned with the derivation and implementation of discrete transparent boundary conditions for systems of evolution equations. Transparent boundary conditions (TBCs) are a special kind of artificial boundary conditions, that are constructed in such a way, that the solution on a bounded domain with TBCs is equal to the solution of the whole-space problem restricted to the bounded (computational) domain. The partial differential equations are discretised by finite differences (theta-scheme) and discrete transparent boundary conditions (DTBCs) are constructed for the discrete equation. Therefore, the DTBCs are well adapted to the numerical scheme. For scalar equations these DTBCs are well established. Compared to discretising the analytical TBC, in the scalar case it is known that these DTBCs have the advantage, not to destroy the stability properties of the underlying discrete scheme and to avoid any numerical reflections. In this dissertation we will deal with systems of partial differ ential equations (parabolic and Schrödinger type). For these systems the approach of DTBCs is completely new and involves additional problems not encountered in the scalar case. Since the numerical computation of these DTBCs is very costly, we give an approximation which greatly reduces the effort. After a concise construction of the TBCs and DTBCs for the weakly coupled system of parabolic equations arising from the mathematical description of fluid stochastic Petri nets, we proceed to extend the results to a system of general parabolic equations. Finally we will consider DTBCs for a system of Schrödinger-type equations, which arise e.g. in the physics of layered semiconductor devices as the so called k·p-Schrödinger equation of quantum mechanics. For both kinds of systems we will give numerical examples, which show the very small error caused by the DTBC.</dc:description>
+          <dc:date>2004-01-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/595</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5897</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5897</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/595/zisowsky_andrea.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

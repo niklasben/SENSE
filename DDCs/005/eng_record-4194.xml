@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4194">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4194</identifier>
+        <datestamp>2013-09-27</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Molecular dynamics simulations of enzymes on surfaces</dc:title>
+          <dc:title xml:lang="deu">Molekulardynamische Simulationen von Enzymen an Oberflächen</dc:title>
+          <dc:creator>Utesch, Tillmann</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">The immobilization of biomolecules on various surface materials plays an important role in a wide field of research. The interaction of large enzymes with organic and inorganic devices is, inter alia, relevant in the sectors of alternative energies, biomedicine, biocatalysis, cell signalling, and basic research.&#13;
+One major drawback in this context is the lacking of structural and dynamic details on the atomic level. Closing this gap is a very important challenge because many processes accounting for the correct protein functionality or for the proper adsorbant-surface interaction are still elusive. Unfortunately, the experimental access and determination of these properties is extremely difficult and expensive. Therefore, theory, namely, classical all-atom molecular dynamics (MD) simulations, is needed to investigate these issues. Classical MD simulations are a potential and established technique to describe the initial adsorption of biomolecules onto surface materials on the atomic level and offer, additionally to these dynamics insights, information about the protein stability, which constitutes a crucial point upon surface contact.&#13;
+In this work, the surface interaction dynamics of cytochrome c, bone morphogenetic protein-2 (BMP-2), sulfite oxidase (SO), [NiFe] hydrogenases and Ciona intestinalis voltage-sensing phosphatase (Ci-VSP) was investigated by classical all-atom MD simulations. The widely scattered projects are motivated by different goals and are settled in diverse fields of research, but all deal with protein-surface interactions that are not completely understood. &#13;
+The simulations demonstrated that even small changes in the model could strongly affect the adsorption and conformation of biomolecules on surfaces. The variations included mutations in the enzyme, modifications of the surface by coating it with differently functionalized self-assembled monolayers (SAMs) and alterations of environmental parameters, such as the pH value and ionic strength. In doing so, structural rearrangements within the enzyme leading to different interactions with the surface, reorientations of the adsorbate with respect to the surface and the formation of stable water or ion layers on the device competing with the biomolecule in adsorption were observed.&#13;
+Comparison between these findings of the molecular modelling approach and experimental data measured by cooperation partners showed a good agreement and offered a more precise way to improve surface immobilization and to understand protein functionality in more detail. Nevertheless, the potential of classical MD simulations combined with experimental work has to be treated carefully, because both methods analyse systems on different time scales.</dc:description>
+          <dc:description xml:lang="deu">Die Immobilisierung von Biomolekülen auf verschiedenen Oberflächenmaterialien spielt eine bedeutende Rolle in einem weiten Forschungsfeld. Die Wechselwirkung zwischen großen Enzymen und organischen und inorganischen Materialien ist, unter anderem, entscheidend bei der Entwicklung von alternativen Energiequellen, der Biomedizin, der Biokatalyse, bei der Zelltransduktion und in der Grundlagenforschung. &#13;
+Ein Hauptproblem in diesem Zusammenhang ist das Fehlen von strukturellen und dynamischen Details auf atomarer Ebene. Das Schließen dieser Lücke in eine äußerst wichtige Herausforderung, da viele Prozesse, die für die korrekte Proteinfunktion und Oberflächennteraktion verantwortlich sind, immer noch schwer zu fassen und im Detail unbekannt sind. Leider ist die experimentelle Zugänglichkeit dieser Eigenschaften extrem schwierig und aufwendig. Aus diesem Grund sind theoretische Ansätze wie klassische Moleküldynamiksimulationen (MD Simulationen) zur Bestimmung dieser Kenngrößen von großem Nutzen. Klassische Moleküldynamik ist eine potentielle und etablierte Technik, um die Adsorption von Biomolekülen auf Oberflächenmaterialien zu beschreiben, und bietet zusätzlich zu diesen Einsichten in die Dynamik Informationen über die Proteinstabilität, die einen entscheidenden Punkt bei Oberflächenkontakt darstellt.&#13;
+In dieser Arbeit wurden die Interaktionsdynamiken von Cytochrom c, dem knochenbildenden Protein BMP-2, der Sulfitoxidase (SO), [NiFe] Hydrogenasen und der spannungsabhängigen Phosphatase von Ciona intestinalis (Ci-VSP) mit klassischen Moleküldynamiksimulationen untersucht. Trotz der weiten Streuung der Projekte und deren unterschiedlicher Motivation und Zielsetzung, stehen dennoch bei allen ungeklärte Protein-Oberflächeninteraktionen im Vordergrund.&#13;
+Die Simulationen zeigten, dass sogar kleine Variationen in einem Modell große Auswirkungen auf das Adsorptionsverhalten und die Konformation eines Biomoleküls an Oberflächen haben kann. Die hier untersuchten Änderungen umfassten Mutationen in den Enzymen, Modifikationen an den Oberflächen durch Beschichtung mit unterschiedlich funktionalisierten selbst-assemblierten Monoschichten (SAMs) und Unterschiede an Deskriptoren, die die Umgebungsbedingungen innerhalb des Modells beschreiben, wie beispielsweise der pH Wert oder die Ionenstärke. Hierdurch wurden strukturelle Reorganisationen innerhalb der Enzyme, die zu unterschiedlichen Interaktionen mit den Oberflächen führten, Reorientierungen der Adsorbaten bezüglich der Oberflächen und die Ausbildung von stabilen Wasser- oder Ionenschichten auf den Oberflächen beobachtet.&#13;
+Der Vergleich von diesen Ergebnissen der molekularen Modellierung mit experimentell bestimmten Daten von Kooperationspartnern zeigte eine gute Übereinstimmung und bot die Möglichkeit, Immobilisierungen an Oberflächen gerichtet zu verbessern und Proteinfunktionen detaillierter zu verstehen. Dennoch muss dieser vielversprechende Ansatz aus klassischen MD Simulationen in Kombination mit Experimenten vorsichtig behandelt werden, da sich die Zeitskalen der beiden Methoden, auf denen sie das System analysieren, stark von einander unterscheiden.</dc:description>
+          <dc:date>2013-09-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4194</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41942</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41942</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4194/utesch_tillmann.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1202">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1202</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Development of optical concentrator systems for directly solar pumped laser systems</dc:title>
+          <dc:title xml:lang="deu">Entwickliung optischer Konzentratoren für direkt solar-gepumpte Lasersysteme</dc:title>
+          <dc:creator>Abdel-Hadi, Yasser Abdel-Fattah</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Two new solar directly-pumped solid state laser systems were developed to avoid the disadvantages of the previously developed system. Using the advantages of the Fresnel lenses, a small solar directly-pumped laser system was developed. This system consists of a rectangular Fresnel lens as a primary concentrator, a secondary concentrator and the laser cavity. A slab laser of the type of Nd:YAG laser was firstly used. For this laser, a collimator convex lens was used as a secondary concentrator. Another laser rod of the type of Nd:YVO4 was used. For this laser, a new non-imaging concentrator of the type of Compound Spherical Concentrator (CSC) was used as a secondary concentrator. The system was constructed on an astronomical mount to track the sun during the day. A medium-scale mirror-array concentrator using a system of 105 flat mirrors of the dimensions 15 cm × 15 cm was developed. The mirrors were organised in three rows. Each row had seven panels. Each panel carried five mirrors. Six electro-mechanical computer-controlled motors were used to let the system track the sun during the day. Three of these motors were responsible for the tracking in the vertical component (altitude of the sun). The other three motors were responsible for the tracking in the horizontal component (azimuth of the sun). The mirrors were contolled through these motors in order to result a single fixed reflected image of the whole system during the day. An additional Fresnel lens was used to increase the concentration ratio of the whole system. The measurements of the both systems were taken in the Technical University of Berlin (Germany). These measurements showed promising results which can lead to substitute systems which use the large parabolic- or hyperbolic dish concentrators.</dc:description>
+          <dc:description xml:lang="deu">Neue optische Solarkonzentratoren zum Einsatz in Festkörper-Lasersysteme wurden entwickelt. Unter Verwendung von großflächigen Fresnellinsen wurde ein kleines direkt-gepumptes Lasersystem entwickelt. Dieses System besteht aus einer Fresnellinse, einen Sekundärkonzentrator und einer Laserkavität. Für das erste System wurde eine asphärische Linse als Sekundärkonzentrator verwendet, womit ein Nd:YAG Slab-Kristall gepumpt wurde. Für das zweite System wurde ein monolithischer, nicht abbildender sphärischer Konzentrator (CSC) als Sekundärkonzentrator eingesetzt, der einen Nd:YVO4 Stab, der in eine Keramikkavität eingesetzt war, transversal pumpte. Für Lasersysteme mittlerer Leistung wurde ein System bestehend aus Primär- und Sekundär-Konzentratoren sowie Kavität entwickelt. Der Primärkonzentrator war ein Steuerbares Vielspiegelarraysystem bestehend aus 105 quadratische Spiegeln (15 cm ´ 15 cm). Die Spiegel sind in 3 von einander unabhängigen Gruppen unterteilt, die mit je 2 Motoren (für die vertikale und horizontale Bewegung der Gruppe) eingestellt werden können. Jede Gruppe besteht aus 7 Panelen mit je 5 vereingestellte Spiegeln. Die Spiegel wurden so justiert, dass die Sonnenstrahlung auf einen Fleck minimaler Dimensionen konzentriert wurde. Eine zusätzliche Fresnellinse wurde verwendet, um die Konzentration des System zu erhöhen.</dc:description>
+          <dc:date>2006-02-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1202</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11976</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11976</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1202/abdelhadi_yasser.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

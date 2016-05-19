@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2089">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2089</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwurf und Erprobung schnelldrehender Asynchronmaschinen unter besonderer Berücksichtigung der magnetisch aktiven Materialien</dc:title>
+          <dc:title xml:lang="eng">Design and test of high-speed induction machines in consideration of the electrical steel grade</dc:title>
+          <dc:creator>Centner, Matthias</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit beschäftigt sich mit dem Entwurf und der experimentellen Untersuchung zweier wirkungsgradoptimierter Asynchronmaschinen für eine Nennleistung von 20 kW und eine Nenndrehzahl von 30.000 min-1. Der Schwerpunkt der Untersuchungen liegt auf der Quantifizierung des Einflusses des verwendeten magnetisch aktiven Materials. Es kommen zum einen ein hoch-siliziertes Blech (M270-35A) und zum anderen eine Kobalt-Eisen-Legierung (Vacoflux 50) zum Einsatz. Im ersten Abschnitt der Arbeit wird abgeleitet, wie sich Leistung und Verluste mit zunehmender Drehzahl verhalten und wo technologische Grenzen schnelldrehender Maschinen liegen. Im Anschluss werden zur detaillierten Berücksichtigung der Materialeigenschaften während des Maschinenentwurfs kombiniert analytisch-numerische Berechnungsmethoden entwickelt. Mit Hilfe dieser Methoden lassen sich Maschinenparameter und Feldamplituden auch für analytisch schwer erfassbare Fälle, wie geschlossene Rotornuten, mit guter Genauigkeit vorausberechnen. Ergänzend wird ein einfach parametrierbares Modell des Rotors zur Berechnung der Eigenfrequenzen eingeführt. Die Erwärmung wird mit Hilfe eines thermischen Netzwerkmodells bestimmt. Das Vorgehen bei der Variantenberechnung zur Ermittelung der wirkungsgradoptimalen Maschine wird ausführlich erläutert. Beide Maschinen wurden im „back-to-back“ Verfahren experimentell untersucht. Die Gültigkeit der Berechnungsverfahren und die Performance der verwendeten Materialien werden anhand von Leerlauf- und Lastmessungen, Schwingungs¬messungen und eines Erwärmungslaufes überprüft. Ergänzend wurden Geräuschfrequenzmessungen durchgeführt.</dc:description>
+          <dc:description xml:lang="eng">This thesis deals with the design and experimental study of two efficiency-optimized induction machines with a nominal power of 20 kW and a nominal speed of 30.000 rpm. The focus of investigation is on examining the influence of the employed electrical steel. Two sorts of steel are being used: siliconized steel (M270-35A) and cobalt-iron (Vacoflux 50). In the first section of this work the dependence of power and losses from increasing speed is derived and technological speed limits are discussed. For detailed consideration of the material properties during machine design, combined analytic-numerical methods have been developed. With the help of these methods machine parameters and flux magnitudes could be predetermined with good precision, even in cases where no simple analytical methods exist, as for closed rotor slots. Additionally, a mechanical rotor model for the calculation of critical speeds is introduced, which is easy to parameterize. Motor temperatures are calculated with a thermal network-model. The evaluation of design-variants to find the most efficient design is discussed in detail. Both motors have been experimentally investigated in a back-to-back test. The validity of calculation methods and the performance of the employed materials is proved by no-load and load tests, vibration measurements and a temperature-rise run. Additionally, noise-frequency measurements have been taken out.</dc:description>
+          <dc:date>2009-03-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2089</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21831</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21831</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2089/original_centner_matthias.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2089/centner_matthias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

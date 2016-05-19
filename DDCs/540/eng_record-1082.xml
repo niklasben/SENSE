@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1082">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1082</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Synthesis and characterization of realistic molybdenum oxide based model systems in heterogeneous catalysis</dc:title>
+          <dc:title xml:lang="deu">Synthese und Charakterisierung von realistischen auf Molybdän Oxid basierenden Modellsystemen in der heterogenen Katalyse</dc:title>
+          <dc:creator>Beato, Pablo</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">heterogeneous catalysis, selective oxidation, molybdenum oxide, Raman spectroscopy, Polyoxometalates</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden verschiedene Syntheseansätze zur Herstellung von auf Molybdänoxid basierenden Dünnschicht-Katalysatoren auf Silizium Einkristallen vorgestellt. Die hergestellten dünnen Schichten sollen als realistische Modellsysteme dienen, um sowohl oberflächensensitive, als auch volumensensitive Charakterisierungsmethoden für deren Untersuchung anwenden zu können. Wichtig ist dabei, dass der hergestellte Film zum einen die chemische und strukturelle Komplexität besitzt, die Voraussetzung fürkatalytische Aktivität ist. Zum anderen, sollte der Film dünn und homogen genug sein, um den Anforderungen der Oberflächenanalytik zu genügen. Es wurde ein interessanter neuer Syntheseweg gefunden, um extrem dünne Schichten aus wässrigen Übergangsmetall-Lösungen herzustellen. Dabei wurde ein bereits bekannter Mo-V-W-Mischoxidkatalysator als Pulver in einer Gelatinelösung gelöst und anschließend mittels eines sogenannten „Spin-coaters“ auf einen 10x10x0,7 mm großen Silizium Einkristall aufgebracht. Nach der thermischen Behandlung wurde ein etwa 10 nm dünner homogener Film des Mischoxids auf dem Silizium erhalten. Der Film wurde dann in einem eigens entwickelten Quarzglasreaktor hinsichtlich der selektiven Oxidation von Propen zu Acrolein und Acrylsäure untersucht. Der gleiche Reaktor wurde benutzt, um den Filmkatalysator mit dem Pulverkatalysator zu vergleichen. Der Reaktor erlaubt eine in situ Charakterisierung des Katalysators mittels Raman Mikroskopie. Somit wurden Katalysedaten und Strukturdaten von Film und Pulver und den gleichen Bedingungen erhalten. Es konnte gezeigt werden, dass der hergestellte Film in der Lage ist aus Propen Acrolein und Acrylsäure zu machen und somit der Aktivitätsanforderung entspricht. Weiterhin konnte gezeigt werden, dass der Katalysator bei 673 K eine strukturelle Umwandlung durchmacht welche mit einer verbesserten Aktivität korreliert. Diese Umwandlung ist unter den gewählten Bedingungen reversibel und kann nur mit in situ Methoden beobachtet werden. Bei der aktiven Struktur handelt es sich vermutlich um eine aus von der Mo5O14 Struktur abgeleitete Scherstruktur. Allerdings müssen noch weitere Faktoren einen Einfluß auf die Aktivität und Selektivität haben, die wahrscheinlich direkt mit der Oberflächenstruktur zusammenhängen. Mit dem hergestellten Modell sollte es möglich, sein mittels oberflächensensitiver Methoden diese Faktoren zu bestimmen</dc:description>
+          <dc:date>2005-08-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1082</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10684</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10684</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1082/beato_pablo.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

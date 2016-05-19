@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1085">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1085</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Distributed Resource Management with Monetary Incentives</dc:title>
+          <dc:title xml:lang="deu">Verteiltes Ressourcen-Management mit monetären Anreizen</dc:title>
+          <dc:creator>Tanner, Andreas</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">We propose market mechanisms for resource allocation in distributed computer systems. We define a new budget-balanced pricing scheme for combinatorial exchanges that allows matching of bids of autonomous buyers and sellers. We suggets a new bid synchronization rule and give an application to unicast bandwidth allocation. For the case of group communication, we present a marginal cost mechanism for a publish/subscribe scenario.</dc:description>
+          <dc:description xml:lang="deu">Es werden Marktmechanismen für die Ressourcenvergabe in verteilten Computersystemen vorgeschlagen. Wir präsentieren ein neues, budgetausgeglichenes Preisbildungsschema für kombinatorische Tauschmärkte sowie eine neue Methode zur Synchronisierung der abgegebenen Gebote und wenden diese auf die Bandbreitenvergabe für Punkt-zu-Punkt-Kommunikation an. Für den Fall der Gruppenkommunikation präsentieren wir einen Grenzkostenmechanismus für ein Publish/Subscribe-Szenario.</dc:description>
+          <dc:date>2005-08-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1085</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10780</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10780</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1085/tanner_andreas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

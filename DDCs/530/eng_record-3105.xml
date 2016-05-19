@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3105">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3105</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hybridstrukturen aus Nanodiamanten, nanoplasmonischen Elementen und photonischen Kristallen</dc:title>
+          <dc:title xml:lang="eng">Hybrid structures consisting of nanodiamonds, nanoplasmonic elements and photonic crystals</dc:title>
+          <dc:creator>Nüsse, Nils Christian</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Forschungsarbeit widmet sich der Entwicklung, Herstellung und Untersuchung neuartiger Hybridstrukturen aus photonischen Kristallen und plasmonischen Nanopartikeln bzw. Nanodiamanten. Dabei konzentriert sich eine erste Serie von Experimenten auf die Kopplung eines Diamant-Nanokristalls an die Resonatormode eines photonischen Kristalls aus Galliumphosphid. Zum ersten Mal wird die direkte Kopplung der Nullphononenlinie eines einzelnen Stickstoff-Fehlstellenzentrums an eine photonische Kristall-Kavität beobachtet. Dabei tritt eine Purcellverstärkung der Einzelphotonenemission um den Faktor 12 auf. Im Anschluss wird die Optimierung und Charakterisierung photonischer Kristall-Resonatoren für den sichtbaren Spektralbereich beschrieben, wobei bisher unerreichte Resonatorgüten von bis zu 3400 gezeigt werden können. Derartige Kavitäten mit kleinem Modenvolumen und hoher optischer Güte dienen als Plattform zur Herstellung hybrider nanophotonischer Bauelemente, indem externe Partikel (wie Nanodiamanten und Metall-Nanopartikel) in kontrollierter Weise an die Resonatoren gekoppelt werden. Zu diesem Zweck werden zwei Verfahren entwickelt. Zum Einen eine auf der Rasterkraftmikroskopie basierende Nanomanipulationsmethode, die zur gezielten Positionierung und Anordnung beliebiger Nanopartikel auf den photonischen Kristallstrukturen benutzt werden kann und eine Positionierungsgenauigkeit von 10 nm erreicht. Zum Anderen eine auf Mehrlagen-Elektronenstrahllithographie beruhende Methode, die eine automatisierte Deposition von nanoskaligen Metall- und Polymerpartikeln bei einer Positionierungsgenauigkeit von 1 nm ermöglicht. Verschiedene Arten von Hybridsystemen aus Gold-Nanopartikeln und photonischen Kristallen aus Siliziumnitrid werden realisiert und untersucht. Diese hybriden Strukturen repräsentieren Prototypen grundlegender (plasmonisch-) nanophotonischer Module. Sie bilden die Basis zukünftiger integrierter quantenoptischer Bauelemente, die auf dem Niveau eines einzelnen Quantenemitters die kontrollierte Erzeugung und den kohärenten Transfer von Photonen gestatten. Durch Optimierung des auf Elektronenstrahllithographie basierenden Herstellungsprozesses kann die Herstellungsdauer um 85% verkürzt werden. Als alternative Herstellungsverfahren werden Nanoimprintlithographie und Spritzgießen demonstriert.</dc:description>
+          <dc:description xml:lang="eng">This thesis deals with the development, fabrication, and investigation of novel hybrid structures consisting of photonic crystals and either plasmonic nanoparticles or nanodiamonds. The first series of experiments focuses on coupling a diamond nanocrystal to the cavity mode of a photonic crystal slab made of gallium phosphide. For the very first time, the zero phonon line of a nitrogen-vacancy center of a diamond is directly coupled to a photonic crystal. This results in a Purcell enhancement of 12 for single photon emission. The optimization and characterization of photonic crystal cavities for the visible spectral range is then described; this optimization leads to unprecedented cavity quality factors of up to 3400. Such cavities with small mode volume and high quality factors serve as a platform for hybrid nanophotonic devices by deterministically coupling external particles (such as nanodiamonds and metal nanoparticles) to photonic crystal cavities. For this purpose, two methods are developed. One method is a nanomanipulation procedure based on atomic force microscopy. With well-directed positioning and alignment of arbitrary nanoparticles on the photonic crystal structures, positioning accuracy of 10 nm can be achieved. The second method uses overlay electron beam lithography to automatically deposit nano-sized metal or polymer particles with a positioning accuracy of 1 nm. Different kinds of hybrid systems consisting of gold nanoparticles and silicon nitride photonic crystals are produced and investigated. Such hybrid structures represent prototypes of fundamental (plasmonic) nanophotonic building blocks. They form the basis of future integrated quantum optical devices that generate photons in a controlled manner and coherently transfer them. Optimization of the fabrication process based on electron beam lithography leads to an 85% reduction in production time. Nanoimprint lithography and micro injection molding are also demonstrated as alternative fabrication techniques.</dc:description>
+          <dc:date>2011-10-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3105</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32389</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32389</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3105/nuesse_nils.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

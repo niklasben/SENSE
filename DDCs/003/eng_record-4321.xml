@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4321">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4321</identifier>
+        <datestamp>2013-11-28</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analysis of investments in electricity markets</dc:title>
+          <dc:title xml:lang="deu">Analyse von Investitionen im Elektrizitätsmarkt</dc:title>
+          <dc:creator>Schröder, Andreas</dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="eng">The ongoing structural transformation of power systems calls for a fundamental overhaul of electricity infrastructure throughout all system components, be it power plants, grids, load management technologies, storage systems or other elements. In the light of the massive changes that the system is likely to undergo within the decades following 2012, it is interesting to study the drivers of investment decisions into various infrastructures to support the power system restructuring. Driven by the increased interest in the economics of power markets, the Thesis performs analysis for investment appraisals to different infrastructure components of future electricity markets. Applications cover a wide range of infrastructure elements such as electric storage, smart grid elements, transmission lines and power plants. The Thesis starts with an introduction into basic concepts of power market economics. Chapter 2 entails an analysis of the use of storage and demand-side-management tools where the sizing of batteries and load control systems is optimized. It follows an investigation of the business case of fast charging stations for electric vehicles. Subsequently, the Thesis includes two chapters on the evolution of fossil-fired power generation capacities where investment incentives under the current power market design are investigated. Since power plant expansion is closely interlinked with grid development plans, the last two chapters are dedicated to the analysis of the interdependency between transmission grids, congestion and investment into generation capacity. Reference is made to recent plans of transmission expansion projects in Germany and Europe.&#13;
+In all parts of the Thesis, numerical optimization methods are used to approximate the fundamental functioning of markets and derive appropriate investment decisions from these models. Common to all chapters is the use of techno-economic power market analysis where electricity dispatch is optimized in combination with or given some specific capacity decision. The fundamental models are partly casted in complementarity format and some applications do include stochastic elements. The various chapters of the Thesis adopt the perspective of private agents, system operators or social welfare maximizers while the geographical coverage ranges from distribution grid level to European markets.</dc:description>
+          <dc:description xml:lang="deu">Im Zuge der Energiewende ergibt sich in der Elektrizitätswirtschaft der Bedarf an einer grundlegenden Erneuerung verschiedener Infrastrukturkomponenten. Von Kraftwerken, Übertragungsnetzen, Laststeuerungstechnologien bis hin zu Speichersystemen wird eine große Bandbreite an technischen Lösungen vorgeschlagen um die Systemintegration von erneuerbaren Energien zu fördern. Vor dem Hintergrund der laufenden Umstrukturierung des Stromsektors besteht bei Unternehmen, Politik und Gesellschaft ein erhöhtes Interesse an Analysen zur Wirtschaftlichkeit verschiedener Lösungen. Motiviert durch dieses Interesse, beschäftigt sich die vorliegende Dissertation mit der ökonomischen Bewertung von Investitionen in verschiedene Infrastrukturkomponenten des Strommarktes. Nachdem Kapitel 1 der Arbeit Grundlagen zur Elektrizitätswirtschaft vermittelt, werden im zweiten Kapitel der Betrieb und die Dimensionierung von Speichern und Laststeuerungssystemen in einer Fallstudie optimiert und die Wirtschaftlichkeit der beiden Technologien verglichen. Das darauf folgende Kapitel geht auf die Rentabilität des Betriebes einer öffentlichen (Schnell-) Ladestation für Elektrofahrzeuge ein und untersucht dabei mögliche Geschäftsmodelle für einen profitablen Infrastrukturbetrieb. Zwei weitere Kapitel untersuchen im Folgenden Anreize für Investitionen in fossile Kraftwerke bei Beibehaltung des heutigen Marktsystems mit Grenzkostenpreisen auf Großhandelsmärkten. Die Analyse thematisiert somit die zukünftige Entwicklung des Kraftwerksparks in Deutschland und Europa auch unter dem Aspekt von Unsicherheiten bei Brennstoff- und CO2-Preisen. Da die Entwicklung des Kraftwerksparks nicht zuletzt auch im Zusammenhang mit den Plänen zum Stromnetzausbau zu sehen ist, sind die letzten zwei Kapitel der Arbeit der Interaktion zwischen Netz- und Erzeugungsausbau gewidmet. Dabei werden aktuelle Planungen zum deutschen und europäischen Netzausbau explizit in die Analyse eingebunden.  &#13;
+Methodisch zeichnet sich die vorliegende Dissertation durch die Nutzung numerischer Optimierungsmodelle in allen Kapiteln aus. Techno-ökonomische Modelle werden verwendet um fundamentale Eigenschaften von Strommärkten nachzubilden und geeignete Investitionsentscheidungen herzuleiten. Eine Gemeinsamkeit aller Kapitel ist die operative Optimierung der Stromproduktion im zeitlichen Verlauf („Dispatch“) bei gegebener oder endogen determinierter Kapazität. Dabei greifen einige Modelle mathematisch auf ein Gleichgewichtsformat zurück und berücksichtigen teilweise stochastische Komponenten. Modellanwendungen behandeln Investitionsentscheidungen aus der Perspektive verschiedener Akteure, darunter private Investoren, Systembetreiber und die öffentliche Hand. Die geografische Dimension deckt in den Anwendungen von Verteilnetzen bis hin zu europaweiten Übertragungsnetzen mehrere Ebenen ab.</dc:description>
+          <dc:date>2013-11-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4321</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43216</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43216</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4321/schroeder_andreas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

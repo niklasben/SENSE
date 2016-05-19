@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1272">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1272</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Akustische Lokalisierung von Wirbelschleppen</dc:title>
+          <dc:title xml:lang="eng">Acoustical localisation of aircraft wake vortices</dc:title>
+          <dc:creator>Böhning, Peer</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Hinter jedem Flugzeug bilden sich als Konsequenz des Auftriebs und einer endlichen Flügelspannweite zwei energiereiche gegenläufig rotierende Wirbel, die als Wirbelschleppen bezeichnet wird. Diese stellen eine ernsthafte Gefährdung für nachfolgende Flugzeuge dar. Die notwendigen Stafflungsabstände von Flugzeugen limitieren jedoch die Kapazität von stark frequentierten Flughäfen. Um das erwartete wachsende Verkehrsaufkommen zu bewältigen, soll das Gefährdungspotential von Wirbelschleppen reduziert und Verfahren zur Detektion der Wirbel entwickelt werden. Beobachtungen haben gezeigt, dass Wirbelschleppe von landenden Flugzeugen ein schwaches Geräusch emittieren. Das Ziel dieser Arbeit ist die Untersuchung, ob diese Eigenschaft der Schallemission zur Detektion und Charakterisierung von Wirbelschleppen genutzt werden kann. In einer numerischen Studie basierend auf LES und Akustischer Analogien wurde ein potentieller schallerzeugender Mechanismus in Wirbelschleppen, die Interaktion von primären und sekundären Wirbelstrukturen, hinsichtlich der spektralen Eigenschaften der Schallemission untersucht. Es wurde gezeigt, dass die beschleunigte Wirbelstärke der sekundären Wirbelstrukturen in unmittelbarer Nähe der Kerne der primären Strukturen eine dominante Schallquelle darstellt. Die Korrelation der spektralen Eigenschaften der Schallemission mit strömungsmechanischen Größen zeigte einen Zusammenhang der Rotationsfrequenz fr der Wirbelkerne am Kernradius und der Frequenz fa des maximalen Schalldruckpegels, fa ~ 0,8 fr. Zum experimentellen Nachweise der Lokalisierbarkeit von Wirbelschleppen mit Mikrofon-Arrays wurden drei Messungen an verschiedenen Flughäfen durchgeführt. Es konnte nachgewiesen werden, dass Wirbelschleppen Schall emittieren und die dominanten Quellen in der Nähe der Wirbelkerne liegen. Der Vergleich der Schalldruckspektren von Wirbelschleppen verschiedener Flugzeugtypen zeigte die Existenz von zwei Klassen von Spektren, wobei die Flugzeugtypen von Airbus und Boeing verschiedenen Klassen angehören. Die Spektren zeigten weiter die Existenz von zwei Maxima des Schalldruckpegels bei f1 ~ 12Hz und f2 ~ 100Hz. Die Quelle des ersten Maximums konnte aufgrund der unzureichenden Arraygröße nicht identifiziert werden. Das zweite Maximum konnte der Wirbelschleppe sicher zugeordnet werden. Die Ergebnisse zeigen, dass die Schallemission der Wirbelschleppen die Detektion und Charakterisierung von Wirbelschleppen erlaubt.</dc:description>
+          <dc:description xml:lang="eng">Wake vortices are generated behind aircraft as a consequence of the lift and a finite aircraft wing span. They consist of two strong counter-rotating vortices which pose potential hazards on following aircraft. The aircraft separation rules introduced to ensure safety during landing and take-off is one of the most important constraints limiting the capacity of highly frequented airports. To cope with the expected increase in air-traffic and aircraft size, current research activities concentrate on aircraft design modifications and the development of wake vortex detection systems. Experience shows that wake vortices of landing aircraft are audible. In the framework of this thesis the sound emission of wake vortices and their detection and characterisation by means of microphone arrays were studied. A potential sound generating mechanism, the interaction of primary and secondary vortex structures, and the resulting spectral properties were investigated in a numerical study using LES and Acoustic Analogy methods. It was demonstrated that the secondary structures are accelerated as they move closer to the vortex cores of the primary structures. Since accelerated vorticity is a known source of sound, strongest sources are expected in the vicinity of the cores of the primary vortex structures. A correlation of the spectral properties of the sound emission and the vortex characteristics revealed a relation between the rotation frequency fr of the primary vortex cores and the frequency fa of maximal sound pressure level, fa ~ 0.8 fr. In order to experimentally validate the results of the numerical study, the sound of wake vortices of landing aircraft was measured in three fly-over tests applying microphone arrays. The expectation that the dominant sound sources are located in the vicinity of the vortex cores was proven by the experimental results. A comparison of the sound pressure spectra revealed the existence of two classes of spectra. The aircraft types of Airbus and Boeing belong to different classes. Two maxima were found in the vortex noise spectra, at f1 ~ 12Hz and f2 ~ 100Hz. The origin of the first maxima was not identified since the microphone array was too small to resolve the sound sources at frequencies below 40Hz. The second maxima could be clearly related to the vortex cores. The results demonstrated that wake vortices can be detected and characterized by its generated and radiated sound.</dc:description>
+          <dc:date>2006-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1272</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13093</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13093</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1272/boehning_peer.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

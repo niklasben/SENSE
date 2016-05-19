@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4437">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4437</identifier>
+        <datestamp>2013-12-18</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Solution-processed Cu2ZnSn(SxSe1-x)4  thin films based on binary and ternary chalcogenide nanoparticle precursors and their application in solar cells</dc:title>
+          <dc:title xml:lang="deu">Cu2ZnSn(SxSe1-x)4 Dünnschichten aus einem lösungsbasierten Prozess mit binäre und ternäre Chalkogenide Nanopartikelpräkursoren und deren Anwendung bei Solarzellen</dc:title>
+          <dc:creator>Lin, Xianzhong</dc:creator>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="eng">Cu2ZnSn(SxSe1-x)4 (CZTSSe) is considered as a promising candidate for low-cost and high efficiency solar cells. In this thesis a cost-effective solution processing for the deposition of CZTSSe thin film absorbers by spin coating of the ZnS, SnS and Cu3SnS4 (CTS) nanoparticles inks was developed. CZTSSe thin films were deposited by a four-step process.&#13;
+In the first step, ZnS, SnS and CTS nanoparticles were separately synthesized by a heating-up colloidal route using oleylamine as both solvent and surfactant. ZnS, SnS and CTS nanoparticles were mixed together in hexanthiol to form stable inks, which were used as the precursors for the formation of CZTSSe thin films. In the second step, the Cu-Zn-Sn-S precursors’ thin films were deposited by spin coating of the ZnS, SnS and CTS nanoparticle inks. To remove the solvent and surfactant surrounded the nanoparticles, heat treatment steps at 170°C and 350°C were carried out, which was the third step. Designed thickness can be achieved by repeating step two and step three. To form the Cu2ZnSn(SxSe1-x)4 (0≤ x&lt;1) absorbers, an annealing step was carried out in the temperature range between 400°C and 580°C under sulfur/selenium-containing atmosphere. &#13;
+Prior to the deposition of CZTSSe thin films, the structural, morphological properties and the stoichiometry of the ZnS, SnS and CTS nanoparticles were characterized by X-ray diffraction (XRD), transmission electrons microscope (TEM) and energy dispersive X-ray spectroscopy (EDX). The growth kinetic of CTS nanoparticles was studied by taking out aliquots from the reaction solution throughout the reaction and analyzing them by TEM. The influence of the reaction temperature and precursor ratio of SnCl2: S on the structure and morphology of the resulting nanoparticles was studied.  &#13;
+The influence of the annealing temperature (400 – 580 °C) and atmosphere (Ar-Se and Ar-H2S (5%)) on morphological and structural properties of the resulting CZTSSe films was studied by means of scanning electron microscopy (SEM), XRD and Raman spectroscopy. It was found that annealing in Se-containing atmosphere was necessary for the grain growth. To reduce the carbon content arising from organic surfactant of the nanoparticle precursors in the resulting CZTSSe thin films, an additional ligand-exchange with (NH4)2S step was performed before going to the heat treatment at 350 °C. The influence of the ligand-exchange process on the morphological properties of the resulting CZTSSe thin films was studied. &#13;
+To study the defect properties of CZTSSe thin films prepared under different conditions, temperature and excitation power dependent photoluminescence (PL) spectroscopy measurements were performed. CZTSSe thin films generally show broad emission spectra involving donor-acceptor pair recombination. The PL peak energies shift towards lower energies and the PL signals increase with increasing selenium content in CZTSSe thin films. &#13;
+The effect of the processing conditions of CZTSSe thin films on the surface photovoltage (SPV) properties was studied. The SPV signals strongly increased with decreasing sulfur content in CZTSSe. A diffusion length of above 1 µm was estimated for photo-generated electrons in Cu2ZnSn(SxSe1-x)4 thin films with  x= 0.28. [ZnSn + ZnCu] defect clusters were found in Cu2ZnSn(SxSe1-x)4 thin films with x= 0.28 using the temperature dependent SPV measurements.&#13;
+Finally, as a proof of concept, the CZTSSe-based thin film solar cells were fabricated. The photovoltaic performance of the devices was studied by current density-voltage and quantum efficiency measurements. By optimizing the deposition procedures of CZTSSe thin films, device with efficiency up to 3.0 % c were achieved. Temperature dependent j-V analysis revealed that the loss mechanism of the device performance was dominated by the CZTSSe/CdS interface recombination. &#13;
+</dc:description>
+          <dc:description xml:lang="deu">Cu2ZnSn(SxSe1-x)4 (CZTSSe) ist ein vielversprechendes Material um günstige Solarzellen mit hoher Effizienz herzustellen. In dieser Arbeit wurde ein kosteneffizienter Prozess für die Abscheidung von dünnen Schichten aus CZTSSe Absorbern entwickelt. Mittels Rotationbeschichtung von ZnS, SnS und Cu3SnS4 (CTS) Nanopartikel-Tinte wurden die CZTSSe Absorber  in einem vierstufigen Prozess hergestellt. &#13;
+Im ersten Schritt werden jeweils ZnS, SnS und CTS Nanopartikel durch Aufheizen in einem kolloidalen Prozess mit Oleylamin als Lösungsmittel und als Ligand hergestellt. Die ZnS, SnS und CTS Nanopartikel bilden eine stabile Tinte, wenn sie in Hexanthiol gemischt werden. Diese Tinte dient als Präkursor zur Bildung von CZTSSe Dünnschichten. Im zweiten Schritt wird die Cu-Zn-Sn-S Präkursordünnschicht mittels Rotationsbeschichtung von der ZnS/SnS/CTS-Nanopartikel-Tinte aufgebracht. Um das Lösungsmittel und die Liganden von den Nanopartikeln zu entfernen, wird ein Ausheizprozess bei 170 °C und 350 °C durchgeführt. Hierbei handelt es sich um den dritten Prozessschritt. Durch die Wiederholung des zweiten und des dritten Schrittes kann die Schichtdicke variiert werden. Um den Cu2ZnSn(Sx,Se1-x)4 (0≤ x&lt;1) Absorber herzustellen, wird ein Ausheizschritt bei Temperaturen zwischen 400 °C und 580 °C in einer Schwefel/Selen Atmosphäre durchgeführt.&#13;
+Vor der Abscheidung der CZTSSe Dünnschichten wurden die strukturellen und morphologischen Eigenschaften und die Stöchiometrie der ZnS, SnS und CTS Nanopartikel mittels Röntgendiffraktometrie (XRD), Transmissionselektronenmikroskopie (TEM) und Energie dispersiver Röntgenspektroskopie (EDX) charakterisiert. Die Wachstumskinetik der CTS Nanopartikel wurde durch Entnahme aliquoter Teile der Reaktionslösung während der Reaktion studiert, indem sie mit dem TEM analysiert wurden. Der Einfluss der Reaktionstemperatur und das Präkursorverhältnis von SnCl2: S auf die Struktur und Morphologie der resultierenden Nanopartikel wurde untersucht. &#13;
+Der Einfluss der Ausheiztemperaturen (400 °C – 580 °C) und der Atmosphären (Ar-Se und Ar-H2S (5%)) auf die morphologischen und strukturellen Eigenschaften der CZTSSe Schichten wurde mit Hilfe der Rasterelektronenmikroskopie (REM), XRD und Raman Spektroskopie untersucht. Dabei wurde herausgefunden, dass das Ausheizen in Selenhaltiger Atmosphäre für das Kornwachstum notwendig ist. &#13;
+Um den Kohlenstoffgehalt zu reduzieren, der sich aus den organischen Lösungsmitteln der Nanopartikel Präkursor ergibt, wurde ein zusätzlicher Ligandenaustausch mit (NH4)2S vor der Ausheizbehandlung bei 350°C durchgeführt. Der Einfluss dieses Schrittes auf die Morphologie der resultierenden CZTSSe Schichten wurde untersucht. &#13;
+Um die Defekteigenschaften der CZTSSe Dünnschichten, die unter verschiedenen Versuchsbedingungen hergestellt wurden, zu untersuchen, wurden temperatur- und anregungsintensitätsabhängige Photolumineszenz (PL) Messungen durchgeführt. CZTSSe Dünnschichten zeigen ein weites Emissionsspektrum mit Donor-Akzeptor-Paar Rekombinationen. Die Energien der PL Maxima verschieben sich zu niedrigeren Energien und das PL Signal wächst mit steigendem Selengehalt in den Schichten. &#13;
+Der Einfluss der Prozessbedingungen zur Herstellung von CZTSSe Dünnschichten auf die SPV Spektren wurde untersucht. Das SPV Signal wächst mit abnehmendem Schwefel Gehalt. Eine Diffusionslänge über 1 µm konnte für photogenerierte Elektronen in Cu2ZnSn(SxSe1-x)4 Dünnschichten mit  x = 0.28 abgeschätzt werden. Mit Hilfe von Temperaturabhängigen SPV Messungen wurden [ZnSn + ZnCu] Defektcluster in Cu2ZnSn(SxSe1-x)4 Dünnschichten mit x = 0.28 gefunden.&#13;
+Schlussendlich wurden zum Überprüfen des gesamten Prozesses CZTSSe basierte Dünnschichtsolarzellen hergestellt. Die photovoltaischen Eigenschaften dieser Solarzellen wurden mit Hilfe von Strom-Spannungs-Messungen und Quanteneffizienzmessungen eingehend studiert. Durch Optimierung der Abscheideprozeduren von CZTSSe Dünnschichten wurden Wirkungsgrade bis zu 3.0 % erzielt. Temperaturabhängige Strom-Spannungs-Messungen zeigen, dass die Verluste, die sich negativ auf die Bauteilleistung auswirken, hauptsächliche durch Rekombination an der CZTSSe/CdS  Grenzfläche hervorgerufen werden. &#13;
+&#13;
+</dc:description>
+          <dc:date>2013-12-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4437</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44377</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44377</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4437/lin_xianzhong.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

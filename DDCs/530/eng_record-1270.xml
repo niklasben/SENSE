@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1270">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1270</identifier>
+        <datestamp>2014-08-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Measurement of two-photon absorption laser-induced Lyman-alpha fluorescence: A diagnostic for atomic number densities of hydrogen isotopes in magnetically confined fusion plasmas</dc:title>
+          <dc:title xml:lang="deu">Messung der Zwei-Photonen-Absorption Laser-induzierten Lyman-alpha Fluoreszenz: Eine Diagnostik-Methode für atomare Anzahldichten von Wasserstoff-Isotopen in magnetisch eingeschlossenen Fusionsplasmen</dc:title>
+          <dc:creator>Seiser, Christian</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Measurement of Doppler-free two-photon absorption laser-induced Lyman-alpha fluorescence (Lα-TALIF) allows for isotope-selective determination of small atomic number densities (H, D, T) in magnetically confined plasmas. Its future application at fusion plasmas requires quantitative studies of this novel technique. A first feasibility study was performed recently in a close cooperation between the "Physikalisch-Technische Bundesanstalt (Berlin)" and the "Max-Planck Institut für Plasma Physik (Berlin)". The aim of this experimental study was to prove the potential of Lα-TALIF measurements as a density diagnostic for hydrogen isotopes at the plasma generator PSI-1. This device is operated by the "Institut für Plasma Physik" and comes close in its plasma parameters to values similar to those in the plasma edge of fusion plasma machines. The conducted analysis included the determination of the detection sensitivity of Lα-TALIF measurements achievable at PSI-1. This work reports on the predictions, which are made for Lα-TALIF measurements at fusion plasmas. It introduces into the basic principles of Lα-TALIF theory and the advantages, which are provided by inducing Lα-TALIF absorption Doppler-freely. A newly comprehensive approach to the yield of fluorescence photons at the Lyman-alpha wavelength (122 nm) is presented. The main experimental equipment, e.g. the pulsed UV-laser spectrometer (243 nm) and Lα-detection system, which had been developed for this study is explained. However, the work´s central part is covered by the presentation of various results obtained from extensive quantitative Lα-TALIF measurements at PSI-1. For example, deuterium densities as small as 10 to the power of 10 1/cm³ were determined reliable in a measurement volume as small as 0.1 cm³ within a plasma beam of 12 cm in diameter. For such measurements, a background radiation of the PSI-1 plasma had to be overcome, which lies in the same order of magnitude like the number commonly stated for tokamak fusion plasmas. Based on the experience gained by this work an assessment of the future potential of Lα-TALIF measurements as an isotope selective density diagnostic for fusion plasmas is given. Densities as small as 10 to the power of 8 1/cm³ shall be measurable with high spatial resolution and single shot accuracy as required for fusion diagnostics.</dc:description>
+          <dc:description xml:lang="deu">Messung der Doppler-freien, durch Zwei-Photonen-Absorption erzeugten, Lyman-alpha Fluoreszenz (Lα-TALIF) erlaubt die isotopenselektive Bestimmung kleiner atomarer Anzahldichten (H, D, T) in magnetisch eingeschlossenen Plasmen. Die künftige Anwendung an Fusionsplasmen erfordert eine quantitative Untersuchung dieser neuartigen Technik. Eine erste Machbarkeitsstudie wurde kürzlich in einer engen Kooperation zwischen der Physikalisch-Technischen Bundesanstalt (Berlin) und dem Max-Planck-Institut für Plasma Physik (Berlin) durchgeführt. Ziel dieser experimentellen Studie war der Nachweis der Leistungsfähigkeit von Lα-TALIF Messungen als Dichte-Diagnostik für Wasserstoff-Isotope am Plasma-Generator PSI-1. Dieser Generator wird vom Institut für Plasma Physik betrieben und kommt in seinen Plasmaparametern den Werten im Plasmarand von Fusionsmaschinen nahe. Die Untersuchungen umfassten auch die Bestimmung der erreichbaren Nachweisgrenze der Diagnostik-Methode am PSI-1. Die Arbeit berichtet ferner über Vorhersagen, die die Anwendung von Lα-TALIF an Fusionsplasmen betreffen. Sie führt in die grundlegendsten Prinzipien der Lα-TALIF Theorie und die Vorteile ein, die durch die Doppler-freie Induzierung der Lα-TALIF Absorption erzielt werden. Ein neuerdings alle relevanten Parameter berücksichtigender Berechnungsalgorithmus für den Ertrag der Fluoreszenz-Photonen bei der Lyman-alpha Wellenlänge (122 nm) wird vorgestellt. Die Hauptkomponenten des Experiments, z. B. das gepulste UV-Spektrometer (243 nm) oder das Lα-Detektionssystem, werden erläutert. Jedoch wird der zentrale Teil der Arbeit durch die Präsentation der Ergebnisse der quantitativen Lα-TALIF Messungen bestritten. Es wurden Deuterium-Dichten so klein wie 10 hoch 10 1/cm³ in einem Meßvolumen von 0,1 cm³ innerhalb eines Plasmastrahls von 12 cm Durchmesser zuverlässig gemessen. PSI-1-Hintergrundstrahlung in der Größenordnung derjenigen eines Tokamak-Plasmas wurde gemeistert. Ausgehend von den in dieser Arbeit gewonnenen Erfahrungen lautet die Einschätzung des künftigen Potentials der Lα-TALIF Diagnostik, daß Dichten bis zu 10 hoch 8 1/cm³ mit hoher räumlicher Auflösung und ausreichender Einzelschußgenauigkeit gemessen werden können sollten.</dc:description>
+          <dc:date>2006-06-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1270</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12972</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12972</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1270/seiser_christian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3454">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3454</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">5 Jahre Aufbaustudium Denkmalpflege an der TU Berlin </dc:title>
+          <dc:title xml:lang="eng">5 years postgraduate program heritage conservation at Berlin Institute of Technology</dc:title>
+          <dc:creator>Sack, Dorothée</dc:creator>
+          <dc:creator>Gussone, Martin</dc:creator>
+          <dc:creator>Krauskopf, Christof</dc:creator>
+          <dc:creator>Thiel, Monika</dc:creator>
+          <dc:creator>Schnelle, Mike</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">Das Jahrbuch des Masterstudiums Denkmalpflege der TU Berlin, kurz MSD Jahrbuch genannt, wird von dem Fachgebiet Historische Bauforschung unter der Leitung von Frau Professor Dorothée Sack herausgegeben. Dieses Sonderheft berichtet über die Aktivitäten des Fachgebiets und die ersten 5 Jahre des 1998 eingerichteten Aufbaustudiums Denkmalpflege (ASD), der 2003 zum ersten Masterstudiengang der TU Berlin umgewandelt wurde. In dieser Ausgabe sind Kurzberichte über die Forschungsprojekte des Fachgebiets und die Ergebnisse der ASD-Jahrgangsprojekte sowie ein Verzeichnis der Abschlussarbeiten und Absolventen des Aufbaustudiums Denkmalpflege bis 2003 enthalten.</dc:description>
+          <dc:description xml:lang="eng">The Annual of the master's program Heritage Conservation (Masterstudium Denkmalpflege) of Berlin Institute of Technology (TU Berlin) shortly called MSD Annual is published by the Department of Building Archaeology under the direction of Professor Dorothée Sack. This special edition reports on the activities of the Department and the first years of the 1998 established postgraduate program Heritage Conservation, which had been transformed 2003 to the first master program at Berlin Institute of Technology. This edition includes short reports on research projects of the department, the results of the ASD projects and a register of the theses and the graduates of the postgraduate program Heritage Conservation until 2003.</dc:description>
+          <dc:date>2012-09-25</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3454</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36775</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36775</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3454/MSD_Sonderheft_5Jahre.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

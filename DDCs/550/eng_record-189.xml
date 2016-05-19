@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:189">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:189</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A concept for a regional coastal zone mission</dc:title>
+          <dc:title xml:lang="deu">Ein Konzept für eine regionale Küstengewässermission</dc:title>
+          <dc:creator>Nieke, Jens</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Aufgrund der Bevölkerungsexplosion gibt es einen weltweiten Konsens die Fernerkundung der Küstengebiete zu intensivieren, um so den wachsenden Einfluss der Menschheit auf das Küstenökosystem besser bewerten zu können (z.B. die Verschmutzung von Flussmündungen, Flutungen in kontaminierten Regionen). Doch im Gegensatz zu global ausgerichteten Fernerkundungsmissionen ist für die Beobachtung der Küstengewässer eine Mission mit regional-spezifischen Parametern notwendig. Aus diesem Grunde wurde im DLR, Berlin zusammen mit der Industrie und anderen Partnerforschungsinstituten eine Studie für eine Mission in einem erdnahen Orbit angefertigt. Im Rahmen dieser Studie wurden auch verschiedene technische Untersuchungen realisiert, wie eine Optik- und Gitter-Simulation, eine Signalrauschverhältnis-Analyse und ein experimenteller Prototypaufbau. In diesen Untersuchungen wurde gezeigt, dass ein neues abbildendes Spektrometer eine sehr gute VIS-NIR Komponente für eine Küstenfernerkundungsmission ist. In einer Modulanordnungsuntersuchung wurde das System Orbit-satellit Nutzlast optimiert in dem mehrere VIS-NIR Spektrometer, SWIR Kameras und ein TIR Scanner so angeordnet wurden, dass sie den wissenschaftlichen Anforderungen der internationalen Küstengewässer-Nutzergemeinschaft gerecht werden. Das vorgeschlagene Missionskonzept überdeckt das Spektralgebiet vom Sichtbaren zum Thermischen Infrarot in 21 teilweise programmierbaren Kanälen, mit einer relativ hohen räumlichen (100 m im VIS) und spektralen (1.5 nm im VIS) Auflösung. Für die Beobachtung von besonderen ökologischen Ereignissen ist eine hohe Wiederholungsrate (1-3 Tage) durch die Kippmöglichkeiten (ca. 30 deg von Nadir) des Minisatelliten (&lt; 300 kg) sichergestellt.</dc:description>
+          <dc:description xml:lang="eng">Due to increasing population pressure there is a world-wide concern to improve the observation of coastal zones for a better assessment of the growing impact of human being on the coastal ecosystem (e.g. pollution in river estuaries, flooding in contaminated regions). In contrast to globally oriented remote sensing missions, monitoring and management of rapid changes of the coastal ecosystem demand specific regional coastal zone mission features. Therefore a low-Earth orbit mission study has been carried out at DLR, Berlin together with industry and partner research institutes. In the scope of this study also various technical investigations have been performed, such as ray-tracing and grating simulations, a signal-to-noise model analysis and an experimental prototype set-up. Thus, the ability of a new imaging spectrometer has been demonstrated to fulfil the requirements for coastal zone observation. In a module arrangement analysis the system orbit-satellite-payload has been optimised in arranging VIS-NIR spectrometers, SWIR cameras and a TIR scanner in a way they cover best the science community needs. The resulting mission concept covers the spectral region from the visible to the thermal infrared in 21 partly programmable spectral channels, with a relatively high spatial (100 m in VIS) and spectral (1.5 nm in VIS) resolution. For monitoring of hazardous events a high repetivity (1-3 days) is ensured by the tilt capability (ca. 30 deg off nadir) of the mini satellite (&lt; 300 kg).</dc:description>
+          <dc:date>2002-03-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/189</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1849</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1849</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/189/nieke_jens.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

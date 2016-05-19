@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3211">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3211</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Identifizierung von aeroakustischen Quellmechanismen mittels synchroner Particle-Image-Velocimetry und Mikrofonmessung</dc:title>
+          <dc:title xml:lang="eng">Identifcation of Aeroacoustic Noise Generation by means of Simultaneous PIV and Microphone Measurements</dc:title>
+          <dc:creator>Henning, Arne</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Entwicklung und Demonstration einer experimentellen Methode zur Bestimmung des Zusammenhangs von Ursache und Wirkung in der Aeroakustik ist Thema der vorliegenden Arbeit. Dabei wird ein Ansatz verfolgt, der zwei experimentelle Verfahren kombiniert: Die Messung der Strömungsgeschwindigkeit mittels der Particle-Image-Velocimetry (PIV) in einer Ebene liefert Informationen über die ursächlichen Schwankungsgrößen in der Strömung. Synchron dazu werden die emittierten Schallwellen im akustischen Fernfeld durch Mikrofone erfasst. Durch eine Analyse der Kreuzkorrelation zwischen aus den Messergebnissen abgeleiteten Schwankungsgrößen können dann Strömungsstrukturen identifiziert werden, welche Teil des schallerzeugenden Prozesses sind. Die Methode wurde erfolgreich an einer Zylinder-Tragflügel-Konfiguration erprobt. Dabei wurden signifikante Korrelationskoeffizienten zwischen den Fernfelddruckschwankungen und den Geschwindigkeitsfluktuationen in einem großen Bereich der PIV-Messebene berechnet. In einem zweiten Schritt wurde die Methode an einem kalten Freistrahl bei unterschiedlichen Machzahlen angewendet. Die Ergebnisse der Untersuchungen zeigen, dass ein Gebiet, in welchem eine Schwankungsgröße signifikant mit den Schallwellen korreliert, nicht als Ort der Schallentstehung interpretiert werden kann. Erst die Betrachtung des zeitlichen Verlaufs der Koeffizienten ermöglicht die Lokalisierung akustischer Quellregionen.</dc:description>
+          <dc:description xml:lang="eng">A correlation technique is demonstrated which enables the identification of flow structures that are involved in a sound generation process. The simultaneous measurement of the acoustic pressure in the far-field together with a near-field quantity such as the velocity components provides an indicator for the source of flow-induced noise. The velocity field is measured by Particle-Image-Velocimetry (PIV) while the radiated sound is recorded with a number of carefully aligned microphones. The measurements were conducted in a synchronized manner so as to enable the calculation of the cross-correlation coefficient between the acoustic pressure and flow quantities derived from the measured velocity fluctuations. In this manner the regularities in the near-field fluctuations which are related to the radiated sound field can be identified. The method is applied to the flow field of a rod-airfoil configuration. A significant correlation between the velocity fluctuations and the far-field pressure is obtained in the whole wake of the cylinder measured via PIV. Additionaly the method is succesfully applied to a cold jet at different Mach-numbers. A remarkable result of the experiments is that the location of maximum values of the calculated cross-correlation function alone cannot be interpreted as being the origins of the aeroacoustic sources. But by an analysis of the temporal evolution of the correlation function, source regions can be identified.</dc:description>
+          <dc:date>2012-01-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3211</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33939</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33939</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3211/henning_arne.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

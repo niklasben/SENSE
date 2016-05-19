@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3734">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3734</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Energy Efficient Housing for Iran : Pilot Buildings in Hashtgerd New Town</dc:title>
+          <dc:creator>Nasrollahi, Farshad</dc:creator>
+          <dc:creator>Wehage, Philipp</dc:creator>
+          <dc:creator>Shahriari, Effatolsadat</dc:creator>
+          <dc:creator>Tarkashvand, Abbas</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">This volume introduces a cost-neutral method to reduce the energy demand of residential buildings in the climatic conditions of the Tehran region. "Architectural Energy Efficiency" describes how the energy demand of residential buildings can be lowered through a conscious and intelligent design. It indicates the high energy saving potential that can be achieved through architectural design and introduces different measures to minimise energy consumption in dwellings in this particular climate region. Furthermore, it presents the designs of three different housing estates called "New Generation Residential Pilot Projects". The main objective of these pilot projects is energy efficiency; however, the aim is to achieve further benefits including high quality architecture, flexibility, low-carbon emissions, affordability as well as cultural and social adaptation. Energy efficiency as the main objective is effected within these pilot building complexes through a conscious design. Due to the fact that these schemes are developed by different groups and each has its own specific targets, the results present different approaches to achieve the high quality, energy and cost-efficient architecture. The research on how to reach energy efficiency through architectural measures, as well as the design of different energy-efficient residential complexes, is intended to raise awareness among responsible institutions, decision makers, investors as well as the general public for energy-efficient architecture, especially in cases where efficiency is simply achieved through climate-responsive design. When the pilot projects are implemented in Tehran’s research area, the buildings created according to the Young Cities’ research and design activities will certainly arouse public interest and quickly become everyday practice within the region.</dc:description>
+          <dc:date>2013-06-18</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3734</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39369</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39369</dc:identifier>
+          <dc:identifier>978-3-7983-2529-6</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3734/9783798325289_cover_and_content.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

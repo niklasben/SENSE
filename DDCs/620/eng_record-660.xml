@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:660">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:660</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Gigabit-Übertragung mit Vielmodenfasern</dc:title>
+          <dc:title xml:lang="eng">GBit/s transmission over multimode fibres</dc:title>
+          <dc:creator>Bunge, Christian-Alexander</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Vielmodenfasern sind seit langer Zeit als Übertragungsmedium für Daten bekannt. Da mit der Zeit die Anforderungen bezüglich der Übertragungsbandbreiten kontinuierlich steigen, gerät man unweigerlich an die Grenzen der Übertragungskapazität von Vielmodenfasern. In der Arbeit wird gezeigt, welchen Einfluss Einkoppelbedingungen, also faserunabhängige Parameter, auf die tatsächliche Übertragungsbandbreite der Faser besitzen. Aus diesem Umstand ergibt sich, dass man für die tatsächliche Übertragung wohl definierte Einkoppelbedingungen definieren muss, um die Bandbreitenvariationen zu begrenzen, und dass man für die Qualitätsbewertung der Vielmodenfasern neue Kriterien schaffen muss, die nur die Fasereigenschaften testen. Als eine Möglichkeit der einkopplungsunabhängigen Qualitätsbewertung wird die Differential-Mode-Delay-Messung (DMD-Messung) untersucht. Es werden das Grundprinzip und die Anwendung der Messung auf Fasern mit speziellen Profilstörungen untersucht und die Grenzen der Methode aufgezeigt. Als weitere Möglichkeit des Qualitätstest wird die Bandbreitenbestimmung bei einer Standardanregung untersucht. Dazu muss jedoch eine spezielle Standardanregung definiert werden. Als Vorbereitung zur Untersuchung der standardisierten Einkopplungsbedingungen werden die Auswirkungen einzelner Einkoppelbedingungen auf die Leistungsverteilung innerhalb der Faser betrachtet. Mittels dieser Erkenntnisse können Einkoppeloptiken entworfen werden, die zu speziellen Leistungsverteilungen führen. Da seitlich versetzte Stecker entlang der Strecke die Leistungsverteilung innerhalb der Faser auch ändern können, wird dieser Einfluss auch untersucht. Zusätzlich dazu wird der Einfluss auf Gesamtdämpfung, Bandbreite und auch Modenrauschen betrachtet. Schließlich wird anhand der gewonnenen Erkenntnisse ein Vorschlag für die Einkopplung eines Sendemoduls erarbeitet, das auf dem Prinzip einer Vorlauffaser beruht. Es werden Untersuchungen zum optimalen Profil, Durchmesser und numerischer Apertur angestellt. Dazu werden die erzeugten Leistungsverteilungen und die dabei auftretenden Dämpfungen untersucht. Eine abschließende Abschätzung der Mindestlänge der Vorlauffaser führt zu einem Designvorschlag für das Sendemodul.</dc:description>
+          <dc:date>2003-09-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/660</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6547</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6547</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/660/bunge_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

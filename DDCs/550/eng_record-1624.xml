@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1624">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1624</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Kugelfunktionen und Analyse heterogener Schweredaten im Spektralbereich</dc:title>
+          <dc:title xml:lang="eng">Spherical harmonics and analysis of heterogeneous gravity data in spectral domain</dc:title>
+          <dc:creator>Gruber, Christian</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Zu einem aktuellen Thema der Geodäsie werden in Form geeigneter Berechnungsverfahren im Spektralbereich wie auch im Zeitbereich Auswertestrategien zur Bestimmung globaler Erdschwerefeldmodelle anhand von Satellitenbeobachtungsdaten diskutiert. Die praktische Aufgabenstellung zur Bewältigung solcher hochgenauer, automatisierter Messtechniken erfordert ein allgemeines Lösungskonzept mittels dem irregulär verteilte, heterogene Messdaten über ein theoretisch einwandfreies Verfahren miteinander verknüpft werden können. Zur Bildung der Normalgleichungssysteme im Sinne einer Ausgleichung mit voller Korrelation müssen dazu die Beobachtungspositionen anhand der Kugelfunktionen integriert werden. Durch die Zerlegung der Kugelfunktionen in deren spektrale Basisfunktionen lässt sich der notwendige Arbeitsaufwand in zwei grundlegende Arbeitsschritte aufteilen, einmal in Abhängigkeit von der Anzahl der Daten und einmal Abhängig von der Grösse des Rechenmodelles. Die Integration der Daten kann daher im ersten Schritt äusserst effizient vollzogen werden, während die daran anschliessende Berechnung der Normalgleichungen und deren Inversion in Abhängigkeit von der jeweiligen Auflösung als konstant zu betrachten ist. Im Ergebnis erhält man dadurch ein redundanzfreies Verfahren ohne Genauigkeitsverlust selbst in hoher Auflösung. Der Lösungsansatz vereinfacht sich beträchtlich sofern die Daten auf einen Referenzradius reduziert werden können. Liegen die Daten darüberhinaus in regulärer, gleichabständiger räumlicher Abtastung vor, wie dies im Falle von Satellitenbeobachtungen bedingt angenommen werden kann, stellt ein Verfahren im Frequenzbereich eine besonders effiziente Möglichkeit zur Modellrechnung dar und liefert darüberhinaus wichtige analytische Aufschlüsse. Anhand von Genauigkeitsbetrachtungen und Validierungsmöglichkeiten globaler Erdschwerefeldmodelle wird auf die Bedeutung der vollständigen Kovarianzinformation zu den Lösungen hingewiesen. Zur Bestimmung hochauflösender Kugelfunktionsmodelle aus der Kombination von Satellitendaten mit terrestrischen Daten werden zukünftig Reihenentwicklungen in besonders hoher Auflösung erforderlich werden. Im Rahmen der Arbeit werden daher rekursive sowie direkte Lösungsstrategien zur Herleitung der assoziierten Legendre Funktionen sowie der Inklinationsfunktionen analysiert.</dc:description>
+          <dc:description xml:lang="eng">To a current topic of geodesy in form of suitable computation methods in the spectral as well as in the time domain evaluation strategies are discussed for the computation of global Earth's gravity field models on the basis of satellite observation data. The practical setting to accomplish such highly exact, automated measuring techniques requires a general approach by means of which irregularly distributed, heterogeneous measuring data can be combined in terms of a theoretically consistent procedure. For the formation of the normal equation set in the sense of a least squars adjustment with full correlation the observation positions must be integrated on the basis of spherical harmonics. By the decomposition of the spherical harmonics in their spectral basic functions the necessary work expenditure can be divided into two fundamental procedures, once as a function of the number of the data and once dependent on the size of the computational model. The integration of the data can then be carried out in the first step extremely efficiently, while the following computation of the normal equations and their inversion as a function of the respective resolution can be regarded as constant. In the result one receives thereby a redundancy-free procedure without loss of accuracy in high resolution. The solution is simplified considerably if the data can be reduced to a constant radius. If the data lie in addition in regular, equi--spaced spatial sampling, as this can be restrictivly assumed in the case of satellite observations, a procedure in the frequency domain is particularly efficient for the model calculation and supplies important analytic explanations. In views of accuracy and validating of global Earth's gravity field models the meaning of the complete covariance information to the solutions they refer to is strengthened. For the determination of high resolution spherical harmonic models from the combination of satellite data with terrestrial data in the future series expansions in particularly high resolution will become necessary. In the context of the work therefore recursive as well as direct solution strategies are analyzed for the derivation of the associated Legendre functions as well as the inclination functions.</dc:description>
+          <dc:date>2007-11-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-gzip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1624</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16862</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16862</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1624/original_promofinal.tar.gz</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1624/gruber_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

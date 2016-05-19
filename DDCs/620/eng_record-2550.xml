@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2550">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2550</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung und Applikation von optischen Prozesssteuerungen und -kontrollen zur Herstellung von Chalkopyritschichten</dc:title>
+          <dc:title xml:lang="eng">Development and application of optical process monitoring and controlling for production of chalcopyrite thin film layers</dc:title>
+          <dc:creator>Hesse, Raik</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Für die industrielle Herstellung von chalkopyritbasierten Absorbern ist für die Einhaltung von Qualitätsstandards eine reproduzierbare Prozesskontrolle notwendig. Die benötigte Prozesskontrolle ist in der Lage die Bildung von Phasen während des Prozesses zu detektieren. In dieser Arbeit ist ein optisches Konzept dargelegt, welches während des Abscheidungsprozesses Aussagen über die strukturelle Zusammensetzung erlaubt. Dazu sind für zwei Prozessarten (die Herstellung von Cu(In,Ga)Se2 mittels des Drei-Stufen-Prozesses, sowie die Herstellung von Cu(In,Ga)S2 mittels des RTP Prozesses) die Anwendung von optischen Methoden gezeigt. Die beschriebenen Methoden basieren auf der Streuung und der Messung der direkten Reflektion. Zur Korrelation der strukturellen und optischen Informationen sind für die beiden Prozessarten zwei verschiedene Vorgehensweisen dargelegt. Bei der Entwicklung einer Prozesssteuerung für die Herstellung von Cu(In,Ga)Se2 durch den Drei-Stufen-Prozess ist eine Vielzahl von Abbruchexperimenten in Abhängigkeit der ersten beiden Stufen durchgeführt werden. Dabei wurden beide Stufen separiert voneinander untersucht. Für die erste Stufe wurde eine temperaturabhängige Analyse des Precursors durchgeführt, um die Phasenbildung der ersten Stufe zu verstehen. In der zweiten Stufe wurde eine Serie aus Abbruchexperimenten gewählt, um durch ex-situ bestimmte Phaseninformationen die Korrelation mit der in-situ gemessenen optischen Information auszuführen. Aus dieser Korrelation ist eine sinnvolle Beschreibung der optischen Signale für die ersten zwei Stufen gewonnen worden. Für die Entwicklung der Prozesskontrolle für Cu(In,Ga)S2 wurden die Erkenntnisse aus der Untersuchung des Drei-Stufen-Prozesses auf die RTP Herstellung des Cu(In,Ga)S2 transformiert. Dabei wurde ebenfalls die Korrelation zwischen optischen und strukturellen Messungen durchgeführt. Allerdings wurden die Phaseninformationen während des Prozesses in-situ bestimmt, wodurch eine genaue Korrelation möglich ist. Dabei wurde eine aufwendige Simulation der optischen Signale durchgeführt, die anhand der strukturellen Informationen den Bildungsprozess beschreibt.</dc:description>
+          <dc:description xml:lang="eng">Industrial fabrication of chalkopyrite absorbers to comply with international quality standards recommends a reliable process control. The required process control has to detect phase changes during the process. This thesis presents an optical concept which allows investigations about the structural status of the depositing layers. Therefore two different process types (the three stage process for manufacturing of Cu(In,Ga)Se2 and the rapid thermal processing of Cu(In,Ga)S2) were monitored by optical methods. The described methods based upon the measurements of scattering and direct reflection. Therefore two different optical models were formed, which describes the optical measurements by structural formation of the layers during the process. The developing of a reliable process control for the deposition of Cu(In,Ga)Se2 by the three-stage process a huge number of break-off experiments were prepared to investigate the first two stages. Both stages were investigated separately. The first stage was investigated by a temperature variation of the precursor to understand the formation of these layers. For investigations of the second stage a series of break-off experiments with varied copper content was done to correlate the in-situ monitored optical signals by ex-situ measured structure information. By use of this correlation a senseful result was gained and presented in this thesis. The development of a process control for Cu(In,Ga)S2 was done by use of the acquired knowledge of the deposition of Cu(In,Ga)Se2 were transformed to the RTP deposition of Cu(In,Ga)S2. Also for these investigation the correlation between optical and structural was done. In difference the measuring of the structural properties was done by an in-situ method, therefore an exact correlation was possible. An experienced simulation of the structural formation and phase changes was applied to simulate the optical measurements during the process.</dc:description>
+          <dc:date>2010-06-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2550</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26568</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26568</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2550/hesse_raik.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1055">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1055</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zu reibungsinduzierten Veränderungen der Mikrostruktur und Eigenspannungen im System Bremse</dc:title>
+          <dc:title xml:lang="eng">Investigation to frictionally induced changes on microstructure and residual stresses in brakes</dc:title>
+          <dc:creator>Poeste, Tobias</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden die Veränderungen der Mikrostruktur und Eigenspannungen der Reibpartner Bremsscheibe und Reibbelag infolge des tribologi-schen Beanspruchungsprofil untersucht. Hierzu wurden die Versuchsreihen der Bremsscheibe, mit den Werkstoffen St52-3 und den Gusseisensorten GG 25 und GG 15, sowie der Versuchsreihe eines organisch gebundenen Reibbelages in rein thermische und mechanisch-thermische Belastungen unterschieden In den röntgenographischen in-situ Untersuchungen und den mikroskopischen Analysen des thermisch belasteten Reibbelags konnten die Oxidationsvorgänge vor allem der Metallfasern beobachtet werden Die tribologisch belasteten Reibbeläge zeigen im Gegensatz zu den thermisch belasteten Proben einen weitaus größeren Anteil an Graphit, der durch die mechanische Belastung über die gesamte Reibfläche verteilt vorliegt. Die Untersuchungen der Reibschicht des barithaltigen Belags ergeben eine Reibschicht von 50 µm Dicke, die nanokristallin vorliegt und eine Bariumsulfatstruktur aufweist. Aus den Untersuchungen der tribologisch beanspruchten Reibbeläge bestätigt sich das Modell zum Aufbau von Reibschichten über das Vorhandensein von Abrasiva. Anhand von Untersuchung der Mikrostruktur des Grundkörpers Bremsscheibe zeigt sich die dominierende Rolle der Wärmeentwicklung unter der Reibbeanspruchung. Während in den rein thermisch belasteten Proben grundsätzlich Zugeigenspan-nungen in Abhängigkeit von der Lastspielzahl und Werkstoffwahl auftreten, gestaltet sich der Eigenspannungszustand der tribologisch belasteten Proben weitaus komplexer. Druckeigenspannungen, resultierend aus der mechanischen Belastung, deren Niveau unabhängig von der Lastenzahl ist, überlagern sich mit Wärmeeigenspannungen und, bei Auftreten der Hot-Spots, mit Umwandlungseigenspannungen. Nachweislich treten lokal Temperaturen über Ac1 auf, da in den Bremsscheiben Martensit, teilweise auch Restaustenit, nachgewiesen werden konnte. Die dominierende Rolle bei der tribologischen Belastung eines Bremssystems nimmt die Temperaturentwicklung ein. Die Veränderungen der Mikrostruktur des Reibbelages liegen mit dem Aufbau der Reibschichtplatten in Tiefen bis maximal 20 µm vor. Die mikrostrukturellen Änderungen der Bremsscheibe hingegen können sich bis zu einigen 100 µm Tiefe ausbreiten.</dc:description>
+          <dc:date>2005-07-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1055</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10396</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10396</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1055/poeste_tobias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

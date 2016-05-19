@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2199">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2199</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:300</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Gesundheit als Thema der Armuts- und Reichtumsberichterstattung der Bundesregierung -- Entwicklung und Umsetzung eines Berichtskonzepts</dc:title>
+          <dc:title xml:lang="eng">Health as topic of the Poverty- and wealth reporting in Germany -- Development and realizing of a conceptual framework</dc:title>
+          <dc:creator>Lampert, Thomas</dc:creator>
+          <dc:subject>ddc:300</dc:subject>
+          <dc:description xml:lang="deu">In Deutschland ist seit einigen Jahrzehnten eine Auseinanderentwicklung der Lebensverhältnisse zu beobachten. Festmachen lässt sich dies an dem zunehmenden Armutsrisiko, den steigenden Arbeitslosenzahlen und dem engen Zusammenhang zwischen Bildungschancen und sozialer Herkunft. Im Mittelpunkt der vorliegenden Dissertation steht die Frage, inwieweit sich diese Entwicklung im Gesundheitsstatus der Bevölkerung widerspiegelt. Anhand aktueller Daten wird u.a. gezeigt, dass viele Krankheiten und Gesundheitsstörungen in sozial benachteiligten Bevölkerungsgruppen häufiger auftreten, mit zum Teil weit reichenden Folgen für die Lebensqualität der Betroffenen und ihrer Familien. Gleiches gilt für verhaltenskorrelierte Risikofaktoren wie Rauchen, Bewegungsmangel oder Übergewicht, die für einen Großteil der vermeidbaren Krankheits- und Todesfälle verantwortlich sind. Auswirkungen auf die Gesundheit sind insbesondere bei Personen festzustellen, deren Lebenslage durch eine dauerhafte soziale Exklusion und daraus resultierende Belastungen und Nachteile gekennzeichnet ist, z.B. Geringqualifizierte, Langzeitarbeitslose, Einkommensarme oder auch allein erziehende Mütter. Indem die Dissertation auf spezifische Problemlagen hinweist, zeigt sie Anknüpfungspunkte für politische Interventionen zur Bekämpfung von Armut und deren Auswirkungen auf die Gesundheit auf.</dc:description>
+          <dc:description xml:lang="eng">For some decades now, living conditions in Germany have been observed to be growing apart. This is exemplified by the growing poverty risk, the rising unemployment figures and the close link between education opportunities and social origin. The dissertation focuses on the extent to which this development is reflected by the population's health status. On the basis of topical data, the report shows, among other things, that many diseases and health disorders are more common in socially disadvantaged population groups, and that this often has serious effects on the quality of life of the people concerned and their families. The same applies to behaviour-correlated risk factors such as a smoking, lack of exercise and obesity, which are responsible for a large proportion of avoidable illnesses and deaths. Effects on health are especially common among people whose situation is characterized by permanent social exclusion and the resultant worries and disadvantages, e.g. people with few qualifications or low incomes, the long-term unemployed or even single mothers. By pointing out specific problem situations, the dissertation reveals areas where political interventions might be applied in order to fight poverty and its effects on health.</dc:description>
+          <dc:date>2009-08-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2199</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22680</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22680</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2199/lampert_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

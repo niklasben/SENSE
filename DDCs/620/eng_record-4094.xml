@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4094">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4094</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR XV: Fleet Studies</dc:title>
+          <dc:creator>van Montfort, Sjef</dc:creator>
+          <dc:creator>Versmissen, Ton</dc:creator>
+          <dc:creator>Uittenbogaard, Jeroen </dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Subject of this study is the development of a generic method to evaluate the characteristics of future vehicle fleets, which assist in vehicle compatibility research. The ever increasing demands for occupant safety have led to improved crashworthiness of vehicles. However, vehicles have become increasingly stiff over the last decades. In combination with a trend of heavier and higher vehicles this results in more aggressive and incompatible vehicles. Also the trend of smaller and lighter vehicles results in a mismatch of vehicles. Compatibility research focuses on improvement of crashworthiness while taking the safety of a possible crash partner into account with the aim to reduce the injury risks off all crash partners. In this regard it is important to conduct research of behaviour on a fleet wide basis. The generic vehicle modelling procedure developed in FIMCAR was used to generate a set of MADYMO models of various vehicles. Due to the limited available data, only three different car models could be made, the Supermini 2, Small Family Car 2 and SUV 4. The created models are tuned with the test data of Full Width Rigid Barrier (FWRB) and checked with test data of Offset Deformable Barrier (ODB) tests. To compensate the limited amount of vehicles additional simulations were ran with variable masses. The available models are used to run two large sets of simulations with various vehicle parameters, like longitudinal stiffness, overlap and speed. These simulations are used to evaluate the performance of the vehicle fleet. For crash severity evaluations the Vehicle Pulse Index (VPI) is used, in which higher VPI values represent a lower crash performance with higher risk of injury.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4094</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40942</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40942</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4094/FIMCAR_XV_fleet_studies.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

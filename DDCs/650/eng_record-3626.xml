@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3626">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3626</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Umfrage zur Anbieterauswahl &amp; Markttransparenz im Cloud Computing </dc:title>
+          <dc:title xml:lang="eng">Cloud Computing Survey. Provider Selection and Transparency</dc:title>
+          <dc:creator>Repschläger, Jonas</dc:creator>
+          <dc:creator>Zarnekow, Rüdiger</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Das IT-Outsourcing von Rechenleistung ist eine Möglichkeit, der steigenden Komplexität und dem zunehmenden Kostendruck auf internationalen IT-Märkten zu begegnen und auf diese Weise Wettbewerbsvorteile zu erzielen. Cloud Computing gewinnt in diesem Zusammenhang zunehmend an Bedeutung, wobei Fragen zur Anbieterauswahl und Transparenz des Marktes in der Cloud unterschiedlich wahrgenommen werden. Der Lehrstuhl Informations- und Kommunikationsmanagement der TU Berlin hat im Rahmen des IT Operations Day 2011 eine Umfrage durchgeführt, die Einblicke in die aktuellen Herausforderungen bei der Auswahl von Anbietern, Verbesserungspotentialen und der Markttransparenz in der Cloud gewährt. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen</dc:description>
+          <dc:date>2013-02-15</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3626</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38651</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38651</dc:identifier>
+          <dc:identifier>978-3-7983-2501-2</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3626/research_papers_13_repschlaeger_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3626/research_papers_13_repschlaeger_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

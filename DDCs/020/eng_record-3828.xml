@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3828">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3828</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:020</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Wissen im Zentrum : Rechenschaftsbericht 2008–2012</dc:title>
+          <dc:subject>ddc:020</dc:subject>
+          <dc:description xml:lang="deu">Dieser Rechenschaftsbericht für den Fünfjahreszeitraum 2008 bis 2012 schließt unmittelbar an den Bericht von 1997 bis 2007 [http://nbn-resolving.de/urn:nbn:de:kobv:83-opus-16640] an. Der Berichtszeitraum war bestimmt von einer Reihe großer Entwicklungslinien, die in dem nachfolgenden Überblicksartikel „Lern- und Arbeitsort Bibliothek“ kurz dargestellt und in den darauf folgenden Beiträgen näher beleuchtet werden.&#13;
+In den vergangenen Jahren ist die Universitätsbibliothek der Technischen Universität Berlin an ihrem zentralen Standort in der Fasanenstraße 88 zusammengewachsen, es ist eine neue, gemeinsame Identität entstanden und die Erinnerung an die frühere, stark dezentrale Struktur verblasst immer mehr – von gelegentlichen nostalgischen Reminiszenzen, die die jüngeren Kolleginnen und Kollegen aber eher mit einem Schmunzeln zur Kenntnis nehmen, einmal abgesehen. Die Zusammenarbeit mit der Universitätsbibliothek der Universität der Künste hat sich auf allen Ebenen etabliert, sie verläuft reibungslos und wird von beiden Seiten als Gewinn angesehen.&#13;
+Obwohl die Eröffnung des Neubaus der Universitätsbibliothek nun bereits über acht Jahre zurückliegt, gibt es immer noch viele Anfragen aus dem In- und Ausland nach Bibliotheksbesichtigungen und -führungen. So haben in den vergangenen fünf Jahren Besucher und Besuchergruppen aus Australien, Finnland, Irak, Israel, Japan, Korea, Pakistan, Polen und Russland die Bibliothek besichtigt, oft in Verbindung mit Besuchen anderer Bibliotheken in Berlin und Brandenburg, und sich einhellig anerkennend über das architektonische Konzept des Bibliotheksbaus mit seiner offenen und übersichtlichen Gebäudestruktur geäußert, die die flexible Anpassung an neue Erfordernisse möglich macht und nicht unveränderbar auf konventionelle Strukturen und Organisationskonzepte festgelegt ist. &#13;
+[aus dem Vorwort]</dc:description>
+          <dc:date>2013-05-08</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3828</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39750</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39750</dc:identifier>
+          <dc:identifier>978-3-7983-2558-6</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3828/TU_UB_Rechenschaft_20130802_web.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

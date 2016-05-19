@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:828">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:828</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aktive und passive Strömungsbeeinflussung zur Reduzierung der Schallabstrahlung an Hinterkantenklappen von Tragflügeln</dc:title>
+          <dc:title xml:lang="eng">Reduction of flap side-edge noise by active and passive flow control</dc:title>
+          <dc:creator>Koop, Lars</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Reduktion des Seitenkanten-Geräusches mittels aktiver und passiver Maßnahmen der Strömungsbeeinflussung wird im Rahmen einer experimentellen Arbeit untersucht. Die Experimente werden an einem Halbmodell mit gepfeiltem Flügel in einer geschlossenen Messstrecke durchgeführt. Für die aktive Strömungsbeeinflussung wird Luft an der Seitenkante der Hinterkantenklappe in die Strömung ausgeblasen. Als passive Maßnahmen werden Seitenkantenzäune, kleine Wirbelgeneratoren und Winglets untersucht. Der abgestrahlte Schalldruckpegel wird mit einem eigens entwickelten Mikrofon-Array, welches sich in der Strömung befindet, bestimmt. Auf diese Weise kann die durch die einzelnen Maßnahmen erzielte Reduzierung des abgestrahlten Schalls quantitativ bestimmt werden. Der mit dem Mikrofon-Array gemessene Schalldruckpegel des Seitenkanten-Geräusches hat ein ausgeprägtes lokales Maximum bei 2.9 kHz und die gemessene Schallleistung dieses Geräusches wächst mit der Anströmgeschwindigkeit in der fünften Potenz. Ein wichtiges Ergebnis der Array-Messungen zeigt, dass die Position der maximalen Schallemission des Seitenkanten-Geräusches von der Frequenz abhängt. Das Seitenkanten-Geräusch kann sowohl mit Hilfe des Ausblasens von Luft an der Seitenkante als auch mit passiven Maßnahmen deutlich reduziert werden. Im Bereich des spektralen Maximums zwischen 2.2 und 5 kHz beträgt die maximale Reduktion durch das Ausblasen 16 dB. Es zeigt sich, dass die Reduzierung des Geräusches von dem in die Strömung eingebrachten Impuls abhängt. Mit zunehmendem Impuls wird der Pegel schrittweise reduziert. Das Seitenkanten-Geräusch kann mittels Winglets oder eines Saugseiten-Zaunes in dem gleichen Frequenzbereich um bis zu 18 dB vermindert werden. Diese Beeinflussungsmethoden führen auch zu einer Schallreduktion in den höheren Frequenzen. Simultan zu den Array-Messungen durchgeführte Kraftmessungen zeigen, dass die aerodynamischen Beiwerte in der Landekonfiguration weder durch die aktiven noch durch die passiven Maßnahmen beeinflusst werden. Zur Untersuchung des Schallentstehungsmechanismus an der Seitenkante der Hinterkantenklappe werden PIV- Messungen an einem einzelnen ungepfeilten Flügel durchgeführt. Diese Messungen zeigen eine sehr inhomogene und instationäre Wirbelstärkeverteilung im Bereich der Seitenkante. Die Schwankungen des Geschwindigkeitsfeldes befinden sich sehr nah an der festen Oberfläche des Flügels und stellen damit eine sehr effektive Schallquelle dar. Durch das Ausblasen wird das instationäre Feld von der festen Oberfläche des Flügels weg bewegt, was die Reduktion des Seitenkanten-Geräusches erklärt. Die Messung des Strömungsfeldes mittels PIV zur Beschreibung der Schallentstehung hat demnach wichtige Erkenntnisse über die Schallentstehung im Bereich der Seitenkante geliefert.</dc:description>
+          <dc:date>2005-05-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/828</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8216</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8216</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/828/koop_lars.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:807">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:807</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Limit Theorems for Quantum Entropies</dc:title>
+          <dc:title xml:lang="deu">Grenzwertsätze für Quantenentropien</dc:title>
+          <dc:creator>Bjelakovic, Igor</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Dissertationsschrift werden einige Grenzwertsätze für die mittlere von-Neumann-Entropie und die mittlere relative Entropie für ergodische Quantenzustände auf quasi-lokalen C*-Algebren bewiesen. Für die mittlere von-Neumann-Entropie konnte bewiesen werden, dass das vollständige quantenmechanische Analogon des Satzes von Shannon-McMillan gültig ist. Aufbauend auf diesem Ergebnis konnte die Gültigkeit der relativen AEP (asymptotic equipartition property) für die mittlere relative Entropie eines ergodischen Quantenzustandes bezüglich eines stationären Produktzustandes nachgewiesen werden, woraus dann das Lemma von Stein hergeleitet werden konnte. Diese Ergebnisse liefern eine operationale Deutung der relativen Entropie als ein statistisches Unterscheidungsmaß auf der Menge der Zustände. Diese Deutung erlaubt es, erstmalig einen neuen,einfachen und intuitiven Beweis fuer die Monotonie der relativen Entropie anzugeben, der mit informationstheoretischen Mitteln auskommt.</dc:description>
+          <dc:description xml:lang="eng">The intention of this thesis is to present some limit theorems for the mean von Neumann entropy and mean relative entropy of ergodic quantum states on quasi-local C*-algebras. The first limit theorem, concerning the mean von Neumann entropy, we were able to prove is the full quantum analogue of the famous Shannon-McMillan theorem. This theorem is one of the essential ingredients in establishing the relative AEP (asymptotic equipartition property) for the mean relative entropy of any ergodic quantum state with respect to any stationary product state. This property, in turn, is used to derive the quantum analogue of Stein's lemma. These limit theorems provide an operational interpretation of the relative entropy as a distinguishability measure on the set of states. This interpretation leads to an new, simple and intuitive proof of the monotonicity of the relative entropy which is based entirely on the information theoretical considerations.</dc:description>
+          <dc:date>2004-03-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/807</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8018</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8018</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/807/bjelakovic_igor.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

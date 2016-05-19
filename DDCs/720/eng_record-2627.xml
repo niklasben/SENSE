@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2627">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2627</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Der Dom zu Magdeburg</dc:title>
+          <dc:title xml:lang="eng">The Cathedral of Magdeburg</dc:title>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">30 Tafeln mit erklärendem Text des Doms von Magdeburg. Digitalisiert (ohne OCR). Gedruckte Version im Verlag Creutz 1852 erschienen. Standort: Technische Universität Berlin, Universitätsbibliothek, Zentralbibliothek, Rara Signatur: 2TA61; 2TA62</dc:description>
+          <dc:description xml:lang="eng">30 plates of the cathedral of Magdeburg with describing text. Digitized (without OCR). Printed version published 1852 by Creutz. Location: Technische Universität Berlin, Universitätsbibliothek, Zentralbibliothek, Rare Books Call number: 2TA61; 2TA62</dc:description>
+          <dc:date>2010-09-13</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2627</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27525</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27525</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2627/Magdeburger_Dom_Lieferung%20I.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2627/Magdeburger_Dom_Lieferung%20II.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2627/Magdeburger_Dom_Lieferung%20III.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2627/Magdeburger_Dom_Lieferung%20IV.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2627/Magdeburger_Dom_Lieferung%20V.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2627/Magdeburger_Dom_Vorseiten_1-9.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

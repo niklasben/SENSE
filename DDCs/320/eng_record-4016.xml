@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4016">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4016</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:320</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Innovative Hauptstadtregion : Innovationsstudie der deutschen Metropolregionen 2013</dc:title>
+          <dc:title xml:lang="eng">Innovative capital region : innovation study of the German metropolitan areas 2013</dc:title>
+          <dc:creator>Wachsen, Eva</dc:creator>
+          <dc:creator>Blind, Knut</dc:creator>
+          <dc:subject>ddc:320</dc:subject>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Innovationen zählen zu den entscheidenden Voraussetzungen für ein dynamisches Wachstum sowie eine langfristige Erhöhung der Wertschöpfung und Beschäftigung, deren Entstehung ein umfangreiches Zusammenspiel verschiedener Akteure in technischen und sozialen Prozessen beinhaltet. Dementsprechend sind neben produzierenden Unternehmen auch wissenschaftliche Einrichtungen und Universitäten, die Anwender der neuen Technologie oder des neuen Produktes sowie Entscheidungsträger der politischen Ebene am Innovationsprozess beteiligt, so dass sich auch das regionale Umfeld mit seinen politischen Rahmenbedingungen, dem Angebot an Arbeitskräften und Wissenschaftsinstitutionen sowie seiner spezifischen Wirtschaftsstruktur und den vorhanden Netzwerken auf die Generierung von Innovationen auswirkt. Zur gezielten Förderung von Innovationen arbeitet Berlin gemeinsam mit seinem Nachbarland Brandenburg an neuen Innovationsstrategien, um sich sowohl im nationalen als auch internationalen Standortwettbewerb stärker positionieren zu können. Im Rahmen dieser Zielsetzung untersucht das Fachgebiet für Innovationsökonomie der Technischen Universität Berlin das Potenzial und die Leistung der Metropolregion Berlin-Brandenburg. In Form eines vergleichenden Monitorings basierend auf einem umfangreichen Katalog sekundärstatistischer Daten, der sowohl die Input- als auch die Outputseite des Innovationsprozesses abdeckt, wird das Innovationspotenzial und die Innovationsleistung der Hauptstadtregion Berlin-Brandenburg in Relation zu den anderen zehn Metropolregionen Deutschlands bewertet. Dieses Monitoring baut auf der bereits erfolgten Untersuchung von Blind et al. (2011) auf und ermöglicht somit nicht nur eine Einschätzung der Leistungsfähigkeit des gesamten Innovationssystems der Hauptstadtregion, sondern auch ihre Entwicklung. Zielsetzung ist es dabei, einen umfassenden Analyserahmen zu schaffen, der die Fortschritte oder auch Rückschritte der Berliner Innovationsstrategie in Form eines kontinuierlichen Monitoringssichtbar macht.</dc:description>
+          <dc:description xml:lang="eng">Innovations are considered as being essential for dynamic growth and a long-term increase in employment, whose development involves an extensive interaction between various actors of technical and social processes. Accordingly, in addition to manufacturing companies and scientific institutions and universities, the users of a new technology or a new product as well as policy decision-makers are involved in the innovation process. In this way, the regional environment and its political framework, the supply of labor and research institutions as well as its specific economic structure and the available networks may affect the generation of innovations. In order to support innovations, Berlin is working together with Brandenburg on new innovation strategies to position them strongly in the national as well as the international competition. As part of this objective, the Department of Innovation Economics at the Berlin Institute of Technology examines the innovation potential and the innovation performance of the metropolitan region of Berlin-Brandenburg. Using an extensive catalog of secondary statistical data, which covers both the input and the output side of the innovation process, the innovation potential and the innovation performance of the capital region Berlin-Brandenburg is evaluated in relation to the other ten metropolitan regions in Germany in a comparative monitoring. This monitoring is based on the previous study by Blind et al. (2011), and therefore not only allows an assessment of the performance of the entire innovation system in the capital region, but also its development.</dc:description>
+          <dc:date>2013-10-21</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4016</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40168</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40168</dc:identifier>
+          <dc:identifier>978-3-7983-2603-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4016/innovative_hauptstadtregion_2013.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

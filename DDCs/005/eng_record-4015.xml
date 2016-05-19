@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4015">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4015</identifier>
+        <datestamp>2013-08-22</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung und Charakterisierung eines neuartigen biomimetischen, selbstorganisierten Reaktionszentrums für den Einsatz in farbstoffsensibilisierten Solarzellen</dc:title>
+          <dc:title xml:lang="eng">Design and characterization of a novel biomimetic, self assembled reaction center for application in DSSC</dc:title>
+          <dc:creator>Schmilinsky, Irene</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit ist es gelungen, mehrere neuartige Pheophytinderivate zu synthetisieren. Mit einem von ihnen wurde ein neuartiges semisynthetisches Reaktionszentrum für den Einsatz in DSSC entwickelt: PaCD  bildet in Lösung einen salzartigen Komplex mit Cytochrom c. Dabei komplexiert jeweils ein Molekül PaCD ein Proteinmolekül. Unter Belichtung wird innerhalb dieses Systems ein Elektronentransfer von PaCD auf Cyt. c induziert. Der ET wurde durch zeitaufgelöste optische Spektroskopie nachgewiesen. &#13;
+Darüber hinaus wurden selbstaggregierende Antennenmonomere entwickelt, die in ihren optischen und physikalischen  Eigenschaften auf die des Reaktionszentrums abgestimmt sind. Zwei Kronenether-Pheophytinderivate wurden auf ihre optischen Eigenschaften und ihre Löslichkeit in wässrigen Lösungsmitteln optimiert. Sie bilden in wässrigen Lösungsmitteln kleine Aggregate, die sich aus geeigneten Lösungsmittelgemischen langsam abscheiden. Die hypsochrome Verschiebung ihres Absorptionsspektrums bedingt eine Überlappung des Fluoreszenzmaximums der Kronenetherderivate mit dem Absorptionsmaximum von PaCD. Die Voraussetzung für einen erfolgreichen FRET von den angeregten Kronenetheraggregaten auf PaCD ist dadurch erfüllt. PaCD kann somit als Ankergruppe für eine selbstorganisierte makromolekulare Antennenstruktur wirken. Durch die Löslichkeits- und Aggregationseigenschaften des Kronenetherderivates entsteht ein Gleichgewicht zwischen der Monomerenlösung und den Aggregaten. Der gewünschte Selbstreparaturmechanismus wird damit möglich.&#13;
+&#13;
+&#13;
+</dc:description>
+          <dc:description xml:lang="eng">In this thesis the synthesis of several novel pheophytin derivatives is described. &#13;
+One, PaCD, was used for development of a novel biomimetic, self assembled reaction center: PaCD and cytochrome c accumulate to an 1:1 ammonium carboxylate complex in aqueous solution.&#13;
+An intermolecular electron transfer from PaCD to cytochrome c can be initiated by illumination. ET is detected by time resolved optical spectroscopy. &#13;
+Furthermore a couple of self assembling antenna monomers forming LHC were synthesized. Optical and physical properties of it were adjusted to that of the reaction centre. Two crown ether derivatives were modified for optimal water solubility and optical interaction with PaCD. In aqueous solvents they form small aggregates that separate slowly from suitable solvent mixtures. Hypsochromatic shift of their absorption maxima leads to an overlap of their fluorescence spectra with the absorption spectrum of PaCD. With that the requirement for a successful FRET directed from LHC to PaCD is complied. That’s why PaCD is able to act in two ways: as a basis for aggregation of LHC as well as an electron Donor in an light induced ET.&#13;
+</dc:description>
+          <dc:date>2013-07-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4015</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40156</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40156</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4015/schmilinsky_irene.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4015/schmilinsky_irene.docx</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

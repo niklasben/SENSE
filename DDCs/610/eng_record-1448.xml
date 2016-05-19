@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1448">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1448</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:610</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Generierung ID1-spezifischer Peptid-Aptamere und si/shRNAszur Unterdrückung der onkogenen Wirkung von ID1</dc:title>
+          <dc:title xml:lang="eng">Generation of ID1 Specific Peptide Aptamers and si/shRNAsto Suppress the Oncogenic Effect of ID1</dc:title>
+          <dc:creator>Shenegelegn Mern, Demissew</dc:creator>
+          <dc:subject>ddc:610</dc:subject>
+          <dc:description xml:lang="deu">Die zu der Familie der Helix-Loop-Helix-Proteinen gehörenden ID-Proteine (ID: Inhibitor der DNA-Bindung/Differenzierung) sind dominant negative Regulatoren. Von großer Signifikanz ist vor allem, dass hohe Expressionslevel der ID-Proteine, vor allem von ID1, in einer Vielzahl von humanen Tumoren beschrieben worden sind und in einigen dieser Fälle die hohe Expression von ID1 mit einer ungünstigen klinischen Prognose einhergeht. Verschiedene Funktionen der ID-Proteine wurden bisher beschrieben: Inhibition der DNA-Bindung und Differenzierung durch Interferenz mit bHLH-Transkriptionsfaktoren, Interferenz mit anderen Transkriptionsfaktoren, die nicht zur bHLH-Familie gehören, Apoptoseinduktion, Kooperation mit dem Retinoblastoma-Tumorsuppressorprotein (pRb) und die Verlängerung der Lebensspanne primärer Zellen. Angesichts ihrer breiten biologischen Wirkung und ihrer onkogenen Eigenschaften gelten die ID-Proteine als mögliche therapeutische Ziele in der Tumortherapie. In der vorliegenden Arbeit wurde am Modell von ID1 gezeigt, dass es mit dem Peptid-Aptamer-Library-Screening-System möglich ist, Peptide mit potenziell inhibitorischer Wirkung gegen ID-Proteine zu isolieren. Bisher wurden die Funktionen von ID-Proteinen durch Interferenz auf DNA-Ebene (Knockout-Modelle) oder auf RNA-Ebene (Antisense-Strategien) manipuliert. Nunmehr stellen die neuen isolierten Peptid-Aptamere eine weitere Ebene der gezielten Interferenz mit ID-Proteinen dar. Die isolierten Peptid-Aptamere, die diverse Bindungsintensitäten und -spezifitäten mit den entsprechenden ID-Proteinen besitzen, könnten Anwendung bei der „Targeted therapy“ finden. Hier steht die Entwicklung von Peptid-Mimetika im Vordergrund: Sie könnten als Wirksubstanzen zur Behandlung von Tumoren, bei denen die ID-Proteine überexprimiert sind, eingesetzt werden. Neben der Isolierung ID1-spezifischer Peptid-Aptamere war die Generierung ID1-spezifischer si/shRNAs ein weiteres Ziel, um die Expression von ID1 gezielt zu hemmen und neue Therapiekonzepte zu entwickeln. Signifikante ID1-siRNA- und ID1-shRNA-vermittelte transiente und stabile Repressionen der ID1-Genexpression wurden in humanen Zellen durch Western-Blot-Analyse bestätigt. Die si/shRNA-vermittelte Verminderung der ID1-Genexpression und die damit verbundene spezifische Absenkung der ID1-Konzentration in Tumorzellen könnten auf dem Gebiet der therapeutischen Anwendung der Antisense-Strategien Bedeutung erlangen.</dc:description>
+          <dc:description xml:lang="eng">ID-Proteins (ID: inhibitor of DNA binding/differentiation) that belong to the family of helix-loop-helix-proteins are dominant-negative regulators. Diverse human tumour types have been analyzed for ID mRNA and protein levels and elevated levels of ID expressions, specially of ID1, have been reported in various carcinomas. In some cases, high levels of ID1 are associated with disease severity and poor prognosis. ID proteins exert various functions: Inhibition of DNA binding and differentiation through interference with bHLH transcription factors, interference with non-bHLH proteins, induction of apoptosis, cooperation with the retinoblastoma tumour suppressor protein (pRB) und delay of replicative senescence. The low postnatal expression of the IDs and their roles in tumorigenesis and tumour neoangiogenesis mark them as attractive targets for anti-cancer therapy. In the present study a peptide aptamer system was successfully used to identify peptide aptamers interacting selectively with ID1. So far the functions of ID proteins were manipulated through interference at DNA level (knockout models) or at RNA level (antisense strategies). Now the new isolated peptide aptamers allow specific interference with ID proteins at additional level. The peptide aptamers, specially due to their diverse binding intensity and specificity, could be used for targeted therapy. Here the major goals are the development of peptide mimetics, which could be used for the treatment of tumours with elevated levels of ID expressions. Additionally, the siRNA technology was applied for the targeted suppression of ID1 gene expression and the development of new therapeutic concepts. A significant ID1 specific si/shRNAs mediated transient and stable depletion of ID1 gene expressions were confirmed in human cells by western blot analysis. si/shRNA mediated repression of ID1 gene expression and a specific reduction of ID1 concentration in tumour cells could have therapeutic potential in antisense based targeted therapy.</dc:description>
+          <dc:date>2007-02-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1448</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15019</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15019</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1448/shenegelegn_demissew.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

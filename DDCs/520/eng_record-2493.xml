@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2493">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2493</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:520</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Dust induced non-linear dynamics in C-rich AGB star envelopes</dc:title>
+          <dc:title xml:lang="deu">Staubinduzierte nichtlineare Dynamik kohlenstoffreicher Hüllen von Sternen auf dem asymptotischen Riesenast</dc:title>
+          <dc:creator>Dreyer, Claudia</dc:creator>
+          <dc:subject>ddc:520</dc:subject>
+          <dc:description xml:lang="eng">Long-period Variables (LPVs) and Miras are radially pulsating, highly evolved stars on the Asymptotic Giant Branch (AGB). Due to peculiar conditions of this objects, their cool, extended atmospheres are distinguished sites for the formation of complex molecules and dust particles. The interplay between dust formation and stellar radiation results in a circumstellar dust shell (CDS) generating slow mass loss, which finally enriches the interstellar medium (ISM) with processed material. In view of the theory of dynamical systems, the CDS can be considered as nonlinear multi-oscillatory systems, whose eigenfrequencies and normal modes are controlled by the intrinsic time scales of various coupled physical and chemical processes. The aim of this work is to investigate the complex dynamical behaviour of carbon-rich CDSs in great detail. This is done by established methods of non-linear dynamics such as Fourier Analysis and the study of stroboscopic and Poincaré maps. Especially CDSs surrounding stars with large stellar luminosities, tend to become dynamically unstable. They develop a self-maintaining oscillatory pattern purely caused by dust formation even without additional input of energy and mechanical momentum from the star (exterior ĸ-mechanism). Such a system has obviously an eigenmode. In the case of lower stellar luminosities an eigenperiod of the system cannot be determined immediately, because the system generates neither a CDS nor self-induced shocks and outflows with self-maintained oscillatory pattern. An additional mechanical momentum input is needed, which is adopted to be irregular (white noise). A possible source of this is the convection in a red giant atmosphere. It will be shown that, the interplay of the dust shell eigenmodes and a sinusoidal stellar pulsation leads to a complex oscillatory pattern. Due to the non-linear behaviour of the system, the CDS may show periodic, quasi-periodic (multi-periodic) or chaotic oscillations.</dc:description>
+          <dc:description xml:lang="deu">Langperiodische Veränderliche (LPVs) und Miras sind radial pulsierende, weit entwickelte Rote Riesensterne auf dem asymptotischen Riesenast (AGB). Ihre kühlen ausgedehnten Hüllen bieten exzellente Bedingungen für die Bildung komplexer Makromoleküle bis hin zu den ersten Festkörpern (Staub). Durch das Zusammenspiel zwischen Staubbildung und Strahlungsdruck bildet sich ein massiver Materiestrom aus, der zur Entstehung einer zirkumstellaren Staubhülle (ZSH) führt und letztendlich das interstellare Medium (ISM) mit prozessierten Material anreichert. Eine solche ZSH kann als nichtlineares multi-oszillierendes System betrachtet werden, dessen Eigenfrequenzen durch intrinsische Zeitskalen der verschiedenen, miteinander gekoppelten physikalischen und chemischen Prozesse kontrolliert werden. Die vorliegende Arbeit untersucht speziell das komplexe Verhalten kohlenstoffreicher ZSHs. Basierend auf der numerischen Lösung des zugrunde liegenden Systems gekoppelter nichtlinearer partieller Differentialgleichungen werden Analyseverfahren wie die Fouriertransformation, Poincaré Schnitte und stroboskopische Karten zur Untersuchung der Hüllendynamik angewendet. Es wird gezeigt, daß ZSHs um extrem leuchtkräftige AGBs dazu neigen dynamisch instabil zu werden. Ohne jegliche zusätzliche Zufuhr von mechanischem Impuls oder Energie durch einen pulsierenden Zentralstern entwickelt sich eine selbsterhaltende oszillierende Struktur durch den so-genannten äußeren k-Mechanismus. Solche Hüllen besitzen eine offensichtliche Eigenfrequenz. Fü die ZSHs um leuchtärmere AGBs kann solch eine Eigenfrequenz nicht unmittelbar bestimmt werden, da eine Hülle oder Materieströme mit sich selbsterhaltenden Strukturen nicht ohne zusätzlichen äußeren Energieeintrag ausgebildet werden. Diese Energiezufuhr wird in der vorliegenden Arbeit als irregulär (Weißes Rauschen) angenommen, so wie sie z.B. durch Konvektion in den äußeren Atmosphären roter Riesensterne enstehen kann. Desweiteren wird gezeigt, daß die Wechselwirkung der Hüllenmoden mit einer äußeren periodischen Anregung wegen des nicht linearen Verhaltens der Hülle zu einem komplexen Verhalten führt, daß periodisch, quasi-periodisch oder chaotisch sein kann.</dc:description>
+          <dc:date>2010-04-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2493</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26220</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26220</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2493/dreyer_claudia.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

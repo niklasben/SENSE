@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2788">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2788</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Soft Matter between Soft Solids. Sorption-Induced Pore Deformation and Fluid Phase Behaviour</dc:title>
+          <dc:title xml:lang="deu">Weiche Materie zwischen weichen Festkörpern. Sorptions-induzierte Porendeformation und Phasenverhalten adsorbierter Fluide</dc:title>
+          <dc:creator>Günther, Gerrit</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">Monte Carlo simulations in the semi-grand canonical ensemble are employed to investigate the sorption strain of mesoporous materials and their influence on the phase behaviour of the confined fluid. For this purpose, a simple fluid is considered which is confined between two parallel plane walls consisting of single wall particles. The wall and fluid particles are of the same type and interacting via Lennard-Jones(12,6) potentials. The wall particles are not fixed to their lattice sites but bound to them by harmonic potentials. By changing the force constant of this harmonic potential, we are able to control the softness of the wall from an almost rigid structure to more flexible walls. Flexible means that the wall particles can move farther from their equilibrium positions to react to the fluid to a greater extent. The pore strain is calculated as an ensemble average of the positions of the wall particles and may indicate either a contraction or an expansion of the pore, depending on the interaction between the fluid and the wall particles. By tuning the parameters of the model system, a strain isotherm is obtained which is in semi-quantitative agreement with the data of small-angle X-ray diffraction experiments. Strain isotherms over a wide temperature regime and thermodynamic conditions are computed to investigate the origin of sorption strain: if the confined fluid is in the gas-like phase, the strain is dominated by the wetting characteristics of the fluid whereas at capillary condensation the pore shrinks on account of the attractive fluid-wall interaction. Confining a liquid-like phase, the strain behaviour becomes independent of the fluid characteristics and exhibits a nanomechnical property of the confining medium. In this regime, the course of the strain isotherm is explained by a simple thermodynamic analysis. On the other hand, the deformability of mesopores has an impact on the phase behaviour of the confined fluid. The phase diagram for a fluid in a rigid pore and one in a deformable pore are computed. By using finite-size scaling concepts the location of the critical point is determined accurately for the fluid both in confinement and in bulk. Compared with rigid pores, deformable pores affect the phase boundaries of the confined fluid and have an impact on the critical density of the fluid.</dc:description>
+          <dc:description xml:lang="deu">Unter Verwendung von Monte Carlo Simulationen im semi-großkanonischen Ensemble wird die Verformung von mesoporösen Materialien als Folge der Sorption untersucht sowie der Einfluß der Verformung auf das Phasenverhalten des adsorbierten Fluids. Als Modell dient ein einfaches Fluid das von zwei planparallelen Wänden räumlich begrenzt wird. Die Wände bestehen aus einzelnen Wandteilchen, die in Größe und Wechselwirkung den Fluidteilchen entsprechen, d.h. sie wechselwirken wie die Fluidteilchen über (12,6)-Lennard-Jones-Potenziale. Die Wandteilchen sind nicht fest an bestimmten Gitterpunkten platziert, sondern über harmonische Potenziale an diese gebunden. Durch die Kraftkonstante des harmonischen Potenzials wird die Verformbarkeit der Wand von praktisch starr bis zu deformierbar eingestellt. Deformierbar heißt in diesem Zusammenhang, dass sich die Wandteilchen weiter von ihren Gitterpunkten entfernen und damit stärker auf das Fluid reagieren können. Die Porenverformung wird als Ensemble-Mittelwert über die Positionen der Wandteilchen berechnet und kann abhängig von der Wechselwirkung mit den Fluidteilchen eine Kontraktion oder eine Expansion der Pore anzeigen. Die isotherme Verformung während der Sorption steht in halb-quantitativer Übereinstimmung mit Daten von Röntgenbeugung-Experimenten, wenn einige Modell-Parameter optimiert werden. Es werden Verformungsisotherme über einen großen thermodynamischen Bereich berechnet, um die Ursache für die Porenverformung zu untersuchen: Solange sich das Fluid in einem gas-ähnlichen Zustand befindet, wird die Verformung durch die Benetzungseigenschaften des Fluids bestimmt. Am Punkt der Kapillarkondensation zieht sich die Pore aufgrund der attraktiven Wechselwirkung zwischen Fluid und Substrat zusammen. Befindet sich das Fluid in einem flüssigkeits-ähnlichen Zustand, ist die Porenverformung unabhängig von den Eigenschaften des Fluids und offenbart eine nanomechanische Eigenschaft des Substrats. Der Verlauf der Verformungsisotherme in diesem Bereich wird durch eine einfache thermodynamische Betrachtung erklärt. Andererseits hat die Verformbarkeit der Wände einen Einfluß auf das Phasenverhalten des räumlich begrenzten Fluids. Das Phasendiagramm für ein Fluid in einer starren Pore und das für ein Fluid in einer deformierbaren Pore werden berechnet. Unter Verwendung von Finite-Size-Scaling-Konzepten wird der kritische Punkt des Fluids im bulk sowie in räumlich begrenzter Geometrie mit hoher Genauigkeit bestimmt. Die deformierbare Pore hat, verglichen mit der starren Pore, einen Einfluß auf die Phasengrenzen des räumlich begrenzten Fluids und auf dessen kritische Dichte.</dc:description>
+          <dc:date>2011-02-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2788</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29542</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29542</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2788/guenther_gerrit.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

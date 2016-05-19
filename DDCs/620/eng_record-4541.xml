@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4541">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4541</identifier>
+        <datestamp>2014-01-16</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Tieffrequente Geräusche in einem Kraftfahrzeug bei Unebenheitsanregung</dc:title>
+          <dc:title xml:lang="eng">Low frequency noise in the passenger compartment of a vehicle due to road excitation</dc:title>
+          <dc:creator>Brandstätter, Michael</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand der vorliegenden Arbeit sind tieffrequente Geräusche im Fahrzeuginnenraum, die durch Unebenheitsanregung der Räder beim Überfahren der Fahrbahn entstehen. Die resultierenden Schwingungen des Fahrwerks führen zu dynamischen Kräften an den Koppelstellen zur Karosserie, deren Teilflächen dadurch ebenfalls zu Schwingungen angeregt werden und schließlich Luftschall in den Innenraum abstrahlen.&#13;
+Die Arbeit zeigt auf, welche Eigenschaften der Fahrbahn, des Fahrwerks und der Karosserie zu diesen Geräuschen führen. Die Subsysteme Fahrwerk und Karosserie werden dazu getrennt voneinander auf ihre Eigenschaften hin untersucht.&#13;
+Aus Analysen realer Fahrbahnoberflächen wird ein Ersatzversuch auf einem Flachbahnprüfstand abgeleitet. Das Übertragungsverhalten des Fahrwerks wird dabei messtechnisch erfasst und schließlich die resultierenden Fahrwerkskräfte bestimmt. &#13;
+Darauf aufbauend wird eine experimentelle Modalanalyse der Fahrzeugkarosserie mit vollständiger Innenausstattung durchgeführt. Die ermittelten Daten werden mit einem virtuellen Modell des Fahrzeuginnenraums verknüpft. Es entsteht ein hybrides Ersatzmodell, welches das vibroakustische Verhalten der Karosserie vollständig beschreibt. Die Rückwirkungen der beiden Teilsysteme werden dabei korrekt erfasst. Mit Hilfe der bereits ermittelten Fahrwerkskräfte kann der Schalldruck im Fahrzeuginnenraum berechnet werden.&#13;
+Eine umfassende Flächenbeitragsanalyse zeigt abschließend, welche der Karosserieflächen die dominanten Schalldruckbeiträge liefern. Dabei wird deutlich, wie stark die Phasenlage der einzelnen Beitragsleister den resultierenden Gesamtschalldruck beeinflussen.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">The presented work deals with the low frequency noise in the passenger compartment due to road excitation while driving. This excitation results in vibrations of the suspension and, hence, leads to dynamic forces at the connecting points of the car body. These forces excite the panels of the body in such a way that airborne noise is introduced into the passenger compartment.&#13;
+This work shows which characteristics of the road, the suspension and the car body lead to this phenomenon. The properties of the suspension and the car body are investigated separately.&#13;
+An experimental test is derived from the analysis of real road surfaces and conducted on a pulsed flat road dynamometer. The frequency response function of the suspension is measured and the resulting forces are evaluated.&#13;
+Further an experimental modal analysis of the trimmed body is conducted. The results are linked to a virtual model of the passenger compartment. This approach leads to a hybrid substitute model, where the vibro-acoustic behaviour of the trimmed body is captured correctly. Next, the sound pressure level inside the passenger compartment is evaluated by the known forces of the suspension.&#13;
+In summary, a panel acoustic contribution analysis reveals the dominating panels of the body in terms of the corresponding contribution of sound pressure. Last, the work shows how the overall sound pressure is influenced by the phase of each contributor.&#13;
+</dc:description>
+          <dc:date>2014-01-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4541</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-45415</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-45415</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4541/brandstaetter_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

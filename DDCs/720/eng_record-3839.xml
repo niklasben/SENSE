@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3839">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3839</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Place-Activator : Seven Architectural Interventions in the Port of Trieste </dc:title>
+          <dc:creator>Riewe, Roger</dc:creator>
+          <dc:creator> Vuga, Boštjan</dc:creator>
+          <dc:creator>Klauck, Birgit</dc:creator>
+          <dc:creator>Venier, Gian Paolo</dc:creator>
+          <dc:creator> Ruic, David</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="eng">‘Place Activator’ is the second in a series of four ‘Place’ studios conducted by Guest Professor Boštjan Vuga at the TU Berlin’s Architecture Design Innovation Program (ADIP). This magazine gives a comprehensive introduction to the specific situation of Trieste and presents strategies to overcome stagnation. ‘Place Activator’ focuses on the catalytic and generative strength of individual architectural objects that impact the change and function of the broader urban tissue. The Italian coastal city of Trieste was the chosen location to test these strategies. Demographically speaking, Trieste is an old city that has seen minimal change in its urban structure over decades. Simultaneously, Trieste is culturally rich due to its intricate location at the crossroads of Latin, Germanic and Slavic cultures. It is a city with atmospherically intriguing and unique micro ambiences. Paradoxically, the main factor that inhibits the cities current development is the same one that contributed to its development in the past: the seaport. It stretches along the city’s coastline and almost entirely cuts the city off from the sea. The ‘Place Activator’ studio proposes seven individual architectural objects on seven key locations within the old and new seaport. These architectural objects are planned and designed to open the seaport and re-connect the city with the sea. The introduction of ‘porosity’ as an architectural principle and common design strategy lead to volumetrically, organizationally and operatively porous architectural objects which offer inviting spatial sequences and having the capacity to activate Trieste's city development eventually.</dc:description>
+          <dc:contributor>ADIP : Architecture Design Innovation Program</dc:contributor>
+          <dc:date>2013-04-11</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3839</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39357</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39357</dc:identifier>
+          <dc:identifier>978-3-7983-2533-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3839/ADIP_Place_Activator.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

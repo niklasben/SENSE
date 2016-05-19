@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:509">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:509</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Katalytisch-induzierte Änderungen der Morphologie von Kupfer-Katalysatoren</dc:title>
+          <dc:creator>Wölk, Hans-Jörg</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Kupferkatalysatoren sind für Reaktionen, die in der Chemischen Industrie angewendet werden, von großer Bedeutung. In diesem Zusammenhang wird im Rahmen dieser Arbeit die katalytische Aktivität von Kupferkatalysatoren in Modellreaktionen, wie besonders der Methanoloxidation und anderen Partialoxidationsreaktionen berichtet. Die Untersuchung erfolgte mit Hilfe thermoanalytischer Techniken (TG(DTA), temperatur-programmierter Oxidation, Reduktion und Desorption (TPO/R/D). Besonders die Ratserelektronenmikroskopie (SEM) wurde zur Charakterisierung der Morphologie des Kupferkatalysators nach der katalytischen Reaktion (Test) herangezogen. Diese Arbeit basiert auf Ergebnissen, die an Silberkatalysatoren mit Hilfe von Photoelektronenspektroskopie (XPS) erzielt wurden. Auf Grund von strukturellen Gemeinsamkeiten zwischen Kupfer und Silber bestätigt durch vergleichbare Ergebnisse aus der Röntgenabsorption (O-XANES) könnte eine Adaption des Silbermodelles auf Kupfer möglich sein. Das Hauptinteresse der Untersuchungen jedoch stellt die Beobachtung von katalytisch-induzierten Veränderungen des Kupfer dar, da generell die Oberfläche des Katalysators seine Aktivität bestimmt.Um einen allgemeinen Bezug zwischen Struktur und Aktivität herstellen zu können, wurden neben sphärischen Kupferpartikeln unterschiedlichen Durchmessers, Cuprate wie Perowskite, Spinelle, und die neue Verbindung Ag2Cu2O3 untersucht. Das redoxchemische Verhalten von metallischem Kupfer konnte so mit dem von Oxiden verglichen werden. Dafür wurden verschiedene physikalische, metallurgische und kinetische Modelle herangezogen. Die Wahl dieser in ihren Eigenschaften unterschiedlichen Materialien sollten einen Transfer zwischen Festkörperkinetik und Katalyse möglich machen. Als Resultat konnte ein deutlicher Bezug zwischen dem katalytischen Verhalten von Kupfer- und Silberkatalysatoren auf Grund der Sauerstoff-induzierten Oberflächen Restrukturierung bestätigt werden. In Abhängigkeit von der Reaktionsatmosphäre konnten so Kupferpartikel aus verschiedenen Quellen generiert und mit metallischem Kupfer verglichen werden. Die katalytisch-induzierten morphologischen Änderungen des Kupfers folgen Gesetzen der Keimbildung (Avrami-Erofeev), Sinterung (Nabarro-Herring), Hülle-Kern-Ausbildung (Levenspiel) unabhängig von dem Oxidationszustand des Ausgangsmaterials.</dc:description>
+          <dc:date>2002-10-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/509</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5040</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5040</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/509/woelk_hans.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

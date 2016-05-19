@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4422">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4422</identifier>
+        <datestamp>2014-07-14</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Benefits and challenges of using ATLAS.ti</dc:title>
+          <dc:creator>Ngalande, Rebecca Chikondi </dc:creator>
+          <dc:creator>Mkwinda, Esmey </dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">The first time I used ATLAS.ti was during my master’s program. Part of the program was to take a course that would benefit faculty members, students at the college and other nursing college back home on my return through capacity building. Therefore, learning about ATLAS.ti was ideal as it had not yet been introduced at the college in 2002. The model used to acquire knowledge and skills of ATLAS.ti was the participatory empowerment model by Fetterman. This was to be realized by enrolling in an ATLAS.ti course, practice using different data sets as well as mentor at least four people on my return home to evaluate my knowledge and skills. The first experience was when I used the software to analyse data of my thesis. The major benefit noted was that the software directs the researcher, through use of different types of codes that enhances formulation of categories and themes, thus reducing time used to analyse data manually. At college level it meant sharing of new knowledge on data management which is congruent with the academic tradition. The challenges were lack of adequate software; technical support and time to practice. Based on my experience, I recommend that knowledge and skills of ATLAS.ti are important in this era of technology and when working at a higher institution of learning. The college needs to build capacity and encourage faculty to know and use this software. </dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4422</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44224</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44224</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4422/16_ngalande_4422.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

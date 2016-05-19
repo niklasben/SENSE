@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2417">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2417</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einfluss von Verdichtungsparametern und Legierungselementen auf das Schäumverhalten von Aluminiumpulverpresslingen</dc:title>
+          <dc:title xml:lang="eng">Influence of compaction parameters and alloying elements on the foaming behavior of aluminium powder compacts</dc:title>
+          <dc:creator>Helwig, Hans-Martin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Zusammensetzung der für die Herstellung metallischer Schäume nach dem Pulvermetallurgischen Verfahren gewählten Aluminiumlegierung hat einen großen Einfluss auf die Eigenschaften des Schaums, wie Festigkeit, Duktilität oder Korrosionsbeständigkeit. Interessanter ist aber die Tatsache, dass Schäumverhalten und die Qualität der erzielten Schaumstruktur von der Legierungszusammentsetzung beeinflusst werden. Neben der Zusammensetzung spielt dabei auch die Güte der Verdichtung des Halbzeugs eine wesentliche Rolle. Untersucht wurden die Struktur und das Expansionsverhalten verschiedener Aluminiumlegierungen im AlMgSiCu-System. Flankierend dazu wurde der Einfluss der Verdichtungsparameter anhand einer ausgewählten Legierung untersucht. Es stellte sich dabei heraus, dass einige Legierungen in einem bisher ungenutzten Bereich des AlMgSi(Cu)-Systems unerwartet überraschend gute Schäumeigenschaften aufweisen. Zur Klärung der Ursache hierfür wurden im Wesentlichen die Entstehung der Porenstruktur und die Expansionskinetik untersucht. Des Weiteren konnte an einer Legierung der bisher unbekannte Effekt der Expansions-schädlichen Halbzeugüberverdichtung nachgewiesen werden. Die Ursache der außergewöhnlichen Schäumeigenschaften der neuartigen Legierungen kann im Wesentlichen auf die Modifikation des Schmelzintervalls durch die Zugabe der Legierungselemente zurückgeführt werden.</dc:description>
+          <dc:description xml:lang="eng">The composition of the aluminium alloy used for manufacture of metallic foams via the PM-rout has strong influence on the properties of the foam, like tension strength, ductility or corrosion resistance. But more interesting is the fact that the foaming behavior and the quality of the foam structure are influenced by the alloy composition. Beside the composition the grade of the precursor densification plays a major role hereby. The structure and the expansion kinetics of different aluminium alloys in the AlMgSiCu-System have been observed. Additional observations have been carried out on the influence of the compaction conditions for one selected alloy. Alloys in a previously unused region of the AlMgSi(Cu)-System showed a surprising good foaming behavior. To clarify the reason therefore, the observation focused on pore structure development and expansion kinetics. Furthermore, the preliminary unknown effect of disadvantageous over-compaction could be observed for one alloy. The modification of the melting temperature interval by the alloying elements turned out to be the major reason for the unexpected foaming properties of the new alloys.</dc:description>
+          <dc:date>2010-02-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2417</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25066</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25066</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2417/helwig_hans.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

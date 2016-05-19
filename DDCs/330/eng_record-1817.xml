@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1817">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1817</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zyklen bei Kraftwerksinvestitionen in liberalisierten Märkten - Ein Modell des deutschen Stromerzeugungsmarktes</dc:title>
+          <dc:title xml:lang="eng">Power plant investment cycles in liberalised markets - A model of the german electricity generation market</dc:title>
+          <dc:creator>Gaidosch, Lars</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">In den nächsten 10 bis 15 Jahren sind in Deutschland und Europa sowie weltweit knapp die Hälfte der installierten Kraftwerksleistung zu ersetzen bzw. neu zu errichten. Die hierfür erforderlichen Kraftwerksinvestitionen finden heute unter den veränderten Rahmenbedingungen der Liberalisierung und des Wettbewerbs statt. In diesem Zusammenhang werden Ursachen von Zyklen bei Kraftwerksinvestitionen analysiert und deren Einflussfaktoren aufgezeigt. Zyklen werden als wiederkehrende Schwankungen der Kraftwerkskapazitäten und Strompreise definiert. Zusätzlich werden Maßnahmen vorgeschlagen, die eine Zyklenbildung bei Kraftwerksinvestitionen abschwächen können. Zunächst erfolgt eine Untersuchung unter welchen Bedingungen Kraftwerksinvestitionen in der Vergangenheit stattgefunden und wie sich diese durch Wettbewerb und Liberalisierung gewandelt haben, danach werden verschiedene theoretische Ansätze und Modelle zur Erklärung von Investitionszyklen analysiert. Den Hauptteil der Arbeit bildet ein für den deutschen Stromerzeugungsmarkt entwickeltes Simulationsmodell, welches mit der Software „System Dynamics“ aufgestellt wurde. Mit dem Modell können die Entwicklungen von Kraftwerkskapazitäten in Deutschland vom Jahr 2004 bis zum Jahr 2034 analysiert werden. Darüber hinaus kann das Modell zur Entscheidungsunterstützung bei Kraftwerksinvestitionen oder zur Analyse wirtschaftspolitischer Maßnahmen verwendet werden. Entscheidende Charakteristika des Modells sind die Berücksichtigung von Verzögerungen bei der Angebotsbereitstellung an Kraftwerkskapazitäten, die Modellierung von Rückkopplungsschleifen sowie die Annahme einer begrenzten Rationalität der Investoren. Diese treffen ihre Investitionsentscheidungen auf Basis unvollständiger Informationen. Insgesamt können durch diese Charakteristika Ungleichgewichte an Kraftwerken in Form von Unter- und Überkapazitäten auftreten können. Als ein wesentliches Modellergebnis zeigt sich, dass für den deutschen Stromerzeugungsmarkt zukünftig ebenso wie in anderen kapitalintensiven Branchen Investitionszyklen mit starken Preisschwankungen zu erwarten sind. Die gegenwärtige Gestaltung des deutschen Großhandelsmarktes für Strom verhindert nicht das Auftreten von Investitionszyklen bei Kraftwerken. Investitionszyklen kann entgegengewirkt werden, wenn der Zeithorizont des liquiden Terminmarktes durch eine verstärkte Aktivität der Handelsunternehmen deutlich ausgeweitet wird.</dc:description>
+          <dc:description xml:lang="eng">Almost half of the existing power plant capacities in Germany, in Europe and worldwide will have to be replaced or re-edified within the next 10 to 15 years. Due to liberalisation and competition, the respective investments in power plants will be subject to changed conditions. The causes of power plant investment cycles and factors by which they are affected are analysed in this context. Cycles are defined as periodic fluctuations of power plant capacity and power prices. Measures are suggested to level off cyclic patterns of investments in power plants. The conditions that accompanied past investments in power plants are studied taking into account the changes they have undergone due to competition and liberalisation. Theoretical approaches and models for explanation of investment cycles are analysed. The main part of this work focuses on a simulation model created especially for the German electricity generation market using the “System Dynamics�? software. The model allows analysing power plant capacities in Germany from 2004 to 2034. Furthermore, the model can be used as an aid in decision making concerning investments in power plants or to test measures of economic policy. Important features of the model are that it considers delays in the availability of power plant capacity and allows modelling feedback loops and bounded rationality of the investors. They come to their investment decision only on incomplete information. It may all sum up to an imbalance of power plant capacity, i.e. lack of capacity or excess capacity. As an important result of the modelling it can be summed up that just like other capital-intensive sectors the German electricity generation market can be expected to be affected by strong fluctuation of prices in the future. The way the German electricity wholesale market has been designed up to now, it will not be capable of preventing cycles of investment in power plants. More activity of the trading companies is necessary to stretch the liquid forward market which may counter cycles of investment in power plants.</dc:description>
+          <dc:date>2008-07-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1817</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18852</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18852</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1817/original_gaidosch_lars.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1817/gaidosch_lars.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

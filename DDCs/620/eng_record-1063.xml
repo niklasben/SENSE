@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1063">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1063</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zur Entwicklung einer Implementierungsstrategie für die Instandhaltung medizintechnischer Geräte in chinesischen Krankenhäusern</dc:title>
+          <dc:creator>Wu, Jing</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Mit dem starken Wirtschaftswachstum der letzten Jahre ist der Import nach China insbesondere in der Medizintechnik enorm gestiegen. Allerdings sind die Bemühungen, durch Import der medizintechnischen Geräte die Infrastruktur und Technologie im Gesundheitswesen so schnell wie möglich zu verbessern, nicht so erfolgreich wie erwartet. Dies liegt unter anderem im mangelhaften Management und in nicht ausreichend vorhandenen Rahmenbedingungen begründet. Es zeigt sich immer deutlicher, dass die Einführung neuer Technologien eine entsprechend angepasste Arbeitsgestaltung erfordert. Die vorliegende Arbeit analysiert und bewertet die in der Praxis bisher angewandten Instandhaltungsstrategien und deren Auswahlgrundlagen hinsichtlich arbeitswissenschaftlicher Erkenntnisse und kommt zu dem Schluss, dass der Entwicklungsprozess der Instandhaltungsstrategien einen Prozess von einem erfahrungsgeleiteten Vorgehen zu einem systematisch geleiteten Vorgehen darstellt. Aus den empirischen Untersuchungen in verschiedenen Krankenhäusern in der Provinz Zhejiang lässt sich schlussfolgern, dass die importierten medizintechnischen Geräte ein systematisch geleitetes Vorgehen erfordern, während die Instandhaltungsarbeit in China vorrangig erfahrungsgeleitet erfolgt. Aufgrund dieser Diskrepanz zwischen dem vorherrschenden erfahrungsgeleiteten Vorgehen und der geforderten systematisch geleiteten Strategie wird ein angemessenes Entwicklungskonzept erarbeitet, dass es den chinesischen Krankenhäusern ermöglicht, schrittweise eine systematische Instandhaltung einzuführen. Aufgrund dieser diskursiven und empirischen Analysen und unter Berücksichtigung der entsprechenden ökonomischen, politischen, organisatorischen und rechtlichen Rahmenbedingungen in China wurde eine Implementierungsstrategie entwickelt, die die chinesischen Krankenhäuser anwenden können, um die Instandhaltungsarbeit zu systematisieren und damit zu verbessern. Die Implementierungsstrategie besteht aus einem siebenstufige Vorgehen und basiert auf dem Managementmodell von Simon. Aufgrund mangelnder Autonomie der Klinikdirektoren von den Behörden hinsichtlich derartiger Organisationsveränderung in chinesischen Krankenhäusern werden auf verschiedenen Managementebenen unterschiedliche Schwerpunkte betont. Hinsichtlich der Implementierung eines systematisch geleiteten Vorgehens für die Instandhaltung werden die Rahmenbedingungen abgeleitet die durch die Regierung in China geschaffen werden müssen.</dc:description>
+          <dc:date>2005-08-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1063</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10479</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10479</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1063/wu_jing.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

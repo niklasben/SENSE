@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1064">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1064</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Formgedächtnislegierungen : experimentelle Untersuchung und Aufbau von adaptiven Strukturen</dc:title>
+          <dc:title xml:lang="eng">Shape Memory Alloys</dc:title>
+          <dc:creator>Musolff, André</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit beinhaltet die experimentellen Untersuchungen und den Aufbau von adaptiven Strukturen mit Formgedächtnislegierungen. Formgedächtnislegierungen (z.B. NiTi) sind Legierungen, in denen ein Formgedächtniseffekt auftritt. Aufgrund einer Phasenumwandlung des Kristallgitters sind diese Legierungen in der Lage, nach einer Verformung bei tiefen Temperaturen, diese beim Überschreiten einer bestimmten höheren Temperatur wieder zurückzustellen. Dabei wirken erhebliche Kräfte, so dass diese Legierungen bei der Rückstellung in ihre ursprüngliche Form Arbeit verrichten. Im ersten Teil der Arbeit werden die Formgedächtnislegierungen hinsichtlich ihres Einsatzes als Aktoren und Sensoren sowie der unterstützenden Kühlung mit Hilfe von Peltierelementen untersucht. Anhand der Ergebnisse ist durch die Ermittlung der Widerstandsänderung und über die Kenntnis der Struktur die Anwendung der Formgedächtnislegierungen als Aktoren und Sensoren realisierbar, bei denen es mit den konventionellen Messmethoden (Dehnungsmessstreifen, Wegmesser, Kraftsensor) schwierig ist, die Gestaltänderung zu messen oder kein Bauraum für die Unterbringung von Sensoren und deren Zuleitungen vorhanden ist. Die Messergebnisse beim Einsatz von speziell angefertigten Peltierelementen zeigen eine Verringerung der Abkühlzeiten im Vergleich zur passiven Luftkühlung um die Hälfte. Auf diese Weise ist eine schnellere Reaktion bei der Regelung von Formgedächtnislegierungen möglich. Der zweite Teil der Arbeit beschäftigt sich mit der Regelung von Formgedächtnislegierungen in adaptiven Strukturen. Dazu sind zwei Modelle, der adaptive Tragflügel und das adaptive Winglet, gebaut worden. Diese sollen je nach Vorgabe eine entsprechende Form einnehmen, die durch eine modifizierte Regelung für Formgedächtnislegierungen eingestellt wird. Dabei wird die Verformung der Struktur über Dehnungsmessstreifen erfasst und die Änderungen der Werte als Regelgröße herangezogen. Die Messergebnisse zeigen, dass eine Regelung von adaptiven Strukturen keine Schwierigkeit darstellt. Die verschiedenen Sollvorgaben der Verformung konnten gut kontrolliert und eingestellt werden. Das Konzept des Einsatzes der Formgedächtnislegierungen als Aktoren und Sensoren sowie die Regelung ermöglichen in der Zukunft, dass Formgedächtnislegierungen in bestehende Anwendungsgebiete weiter vordringen, aber auch neue Gebiete erschließen.</dc:description>
+          <dc:description xml:lang="eng">This work contains the experimental analysis and the design of adaptive structures with shape memory alloys. Shape memory alloys (e.g. NiTi) are alloys, in which a shape memory effect appears. Due to a phase transition of the crystal lattice, these alloys, after a residual deformation at low temperatures, are capable of resetting this deformation, provided the temperature exceeds a characteristic transition temperature. Thereby, significant forces are exerted, so that these alloys may perform work during resetting to their original form. In the first part of the work the shape memory alloys are examined considering their application as actuators and sensors as well as the supporting cooling with peltier elements. By the determination of the changes of electric resistance und by the knowledge of the structure of the application as actuator and sensor, the employment of shape memory alloys may be implemented, particularly, when it is difficult to measure the change of shape with conventional measuring methods (strain gauge, odometer, force sensor) or no sufficient space for the placement of sensors and their supplies is available. The measurements with the implementation of purpose-built peltier elements show half cooling times compared to the passive air cooling. By this means, it is possible to achieve a faster reaction for the control of shape memory alloys. The second part of the work is primarily concerned with the control of shape memory alloys in adaptive structures. Therefore, two models, the adaptive wing and the adaptive winglet, were built. These are to take up a prescribed form, which is adjusted by a modified control for shape memory alloys. The deformation of the structure is captured by strain gauges and the changes of the values serve as control variables. The results of measurement show that the control of adaptive structures poses no unsurmountable difficulties. The concept of the employment of shape memory alloys as actuators and sensors as well as the control, allows shape memory alloys to continue to expand into existing fields of applications and also to open up new fields.</dc:description>
+          <dc:date>2005-07-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1064</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10483</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10483</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1064/musolff_andre.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

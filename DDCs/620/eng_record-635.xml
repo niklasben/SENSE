@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:635">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:635</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ursachenanalyse der PM10-Immission in urbanen Gebieten am Beispiel der Stadt Berlin</dc:title>
+          <dc:title xml:lang="eng">Source apportionment of PM10 in urban areas like Berlin</dc:title>
+          <dc:creator>Hainsch, Andreas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Neuere epidemiologische und toxikologische Studien deuten darauf hin, dass Staubpartikel mit einem aerodynamischen Durchmesser von weniger als 10 µm (PM10) Auswirkungen auf die menschliche Gesundheit haben. Die Europäische Union hat daher zum Schutz der menschlichen Gesundheit Grenzwerte für PM10 erlassen. Die neuen Grenzwerte wurden mit der 22. BImSchV vom 11. September 2002 in Deutschland in nationales Umweltrecht umgesetzt. Es existiert eine Reihe von Quellen, die zur PM10-Immission beitragen, die im Rahmen dieser Arbeit detailliert vorgestellt werden. Die chemischen bzw. physikalischen Vorgänge, die zur Bildung, zum Wachstum und zur Deposition der Partikel führen, werden ebenso wie die Staubmesstechnik eingehend beschrieben. Desweiteren werden die wichtigsten Erkenntnisse der eingangs erwähnten epidemiologischen und toxikologischen Studien dargestellt. Ziel dieser Arbeit war es zunächst, die Berliner PM10-Immissionssituation hinsichtlich der neuen gesetzlichen Anforderungen zu beurteilen, um daraus etwaigen politischen Handlungsbedarf abzuleiten. Ferner bestand eine wesentliche Aufgabe dieser Arbeit darin, lokale, regionale und überregionale Quellen (Quellgebiete) zu identifizieren und deren Immissionsbeiträge zu quantifizieren, um hierdurch mögliche Ansätze für PM10-Minderungsstrategien aufzuzeigen. PM10-Immissionsdaten des Zeitraums 1990 - 2001 zeigen bereits heute, dass die Einhaltung der PM10-Grenzwerte für 2005 in Berlin zusätzliche Maßnahmen erfordern wird, um die ab 2005 gültigen Grenzwerte einzuhalten. Die in dieser Arbeit durchgeführten Analysen belegen, dass ein Großteil der PM10-Immission auf einen regionalen / überregionalen Ferntransport von PM10 in das Berliner Stadtgebiet zurückgeführt werden kann. Innerhalb Berlins kommt ein diffuser Stadtbeitrag aus einer Vielzahl von innerstädtischen PM10-Quellen hinzu, die in ihrer Gesamtheit einen erkennbaren Beitrag zur PM10-Immission leisten. Ferner lässt sich an einzelnen straßennahen Standorten ein Beitrag des lokalen Kfz-Verkehrs erkennen. PM10-Partikel, die über den Ferntransport nach Berlin gelangen, zeichnen sich in erster Linie durch einen hohen Anteil an Sulfat, Nitrat und Ammonium aus, was darauf hindeutet, dass diese Partikel hauptsächlich sekundär durch Gas-zu-Partikel-Umwandlung in der Atmosphäre gebildet wurden. Mit Hilfe eines Trajektorienmodells konnten diesbezüglich zu Berlin südöstlich gelegene Regionen als potentielle Quellgebiete identifiziert werden. Der diffuse Stadtbeitrag wird dominiert durch den Kfz-Verkehr, der wiederum sowohl durch Partikelemissionen aus dem Auspuff (Dieselrußpartikel), durch Abrieb von Straßenbelag, von Bremsen und von Reifen sowie über Wiederaufwirbelung sedimentierten Staubes zur PM10-Immission beiträgt. Hervorzuheben ist hierbei der offensichtlich stärkere Einfluss des Lkw-Verkehrs. Zur Reduktion der innerstädtischen PM10-Belastung beschränken sich die Maßnahmen der Berliner Behörde somit im Wesentlichen auf die Reduzierung der innerstädtisch verkehrsbedingten PM10-Immissionen. Eine deutliche Minderung des Ferntransportbeitrags ist jedoch nur durch überregionale Maßnahmen möglich.</dc:description>
+          <dc:date>2004-03-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/635</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6296</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6296</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/635/hainsch_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

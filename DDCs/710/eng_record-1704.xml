@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1704">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1704</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Projekt Gleisdreieck : zwischen Nutzen und Planen</dc:title>
+          <dc:creator>Sebastian Holtkamp</dc:creator>
+          <dc:creator>Roskamm, Nikolai</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Das Potenzial von Zwischennutzung rekrutiert sich aus Flexibilität und Innovation. Das betrifft vor allem die Avantgarde der Zwischennutzer, aber nicht nur die. Nutzungen mit geringem Kapitaleinsatz sind immer gezwungen zu improvisieren und Neues auszuprobieren, um im Konkurrenzkampf mit ökonomisch besser gestellten Nutzungen zu bestehen. Die Instrumente der Disziplin Stadtplanung sind für Zeiten kontinuierlichen Wachstums entwickelt worden. Stadtplanung hatte stets die Aufgabe, Wachstum zu steuern, in geordnete Bahnen zu lenken. In Zeiten, in denen Wachstum nicht mehr flächendeckend statt findet, muss Stadtplanung ihren Daseinszweck neu hinterfragen. Und Offenheit für Neues, für Experimentelles an den Tag legen, möchte sie nicht an Bedeutung und Relevanz verlieren. Berlin ist bekannt für seine Brachflächen. Nach dem zweiten Weltkrieg haben Brachflächen das Bild der Stadt geprägt und waren Ausdruck des Nicht-Funktionierens der nur künstlich am Leben gehaltenen und eingemauerten Stadt. Dieses Bild hat sich auch nach 1989 nicht wesentlich geändert. Die große Anzahl von Brachen zusammen mit einer großen und vitalen subkulturellen Szene hat in Berlin zu einer Vielzahl an hochinteressanten Zwischennutzungen geführt. Auch auf dem Gleisdreieck als einer der größten und zentralsten Brachen der Stadt sind solche Zwischennutzungen angekommen. Das Gleisdreieck ist wegen seiner attraktiven Lage ein spannendes Versuchsfeld für derzeitige wie künftige Zwischennutzungen. Online im Universitätsverlag der TU Berlin erschienen.</dc:description>
+          <dc:date>2008-03-05</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1704</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17267</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17267</dc:identifier>
+          <dc:identifier>978-3-7983-2072-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1704/Graue_Reihe_Heft_9_Projekt_Gleisdreick.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

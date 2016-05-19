@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2640">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2640</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Strukturaufklärung der Proximicine, Furan-Analoga des Netropsins aus dem marinen Actinomyceten Verrucosispora und Untersuchungen zur Sekundärmetabolitproduktion des pflanzenwachstumsfördernden Bacillus amyloliquefaciens FZB42 </dc:title>
+          <dc:title xml:lang="eng">Structure elucidation of proximicins, antitumor furan analogues of netropsin from the marine actinomycete Verrucosispora and exploration of the production of secondary metabolites from the plant growth stimulating Bacillus amyloliquefaciens FZB42</dc:title>
+          <dc:creator>Schneider, Kathrin</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Die vorgelegte Arbeit beschäftigt sich mit zwei unterschiedlichen Problemstellungen. Im ersten Teil dieser Arbeit konnten die Strukturen der Proximicine A, B und C, die in einem chemischen Screening von marinen Actinomyceten entdeckt wurden, mit Hilfe der Massenspektrometrie und der NMR-Spektroskopie aufgeklärt werden. Als wichtigstes Strukturmerkmal der Proximicine ist ein Dipeptid einer bisher unbekannten γ-Aminosäure, der 4-Amino-furan-2-carbonsäure, zu nennen. Die strukturell verwandten Naturstoffe Netropsin und Distamycin sind besonders für ihre Eigenschaft, selektiv an AT-reiche Sequenzen in der kleinen Furche der DNA zu binden, bekannt. Die Proximicine wurden auf ihre Wechselwirkung mit DNA getestet und es wurde festgestellt, dass die Proximicine keine Bindung mit der DNA eingehen. Mit Hilfe von synthetischen Netropsin-Proximicin-Hybriden wurde versucht, einen Zusammenhang zwischen den Strukturen und der biologischen Wirkung herzustellen. Die Testung der Antitumoraktivität zeigte, dass die Proximicine eine höhere Aktivität als Netropsin und Distamycin haben. Zellzyklusanalysen führten schließlich zu der äußerst interessanten Vermutung, dass die Proximicine einen anderen Wirkmechanismus haben als Netropsin, was aufgrund der strukturellen Ähnlichkeit bemerkenswert ist. Im zweiten Teil dieser Arbeit konnten die Produkte von drei Biosynthesegenclustern des phytostimulatorischen Bacillus amyloliquefaciens FZB42 identifiziert und charakterisiert werden. Es konnte gezeigt werden, dass Bacillaen, Macrolactin und Difficidin produziert werden und diese konnten den entsprechenden Biosynthesegenclustern zugeordnet werden. Ein Screening von weiteren Bacillus-Stämmen auf ihre Polyketidproduktion hin, zeigte, dass die Produktion dieser Polyketide weiter verbreitet ist, als angenommen. Bisher war wenig über die Produktion von Polyketiden der Gattung Bacillus bekannt und folglich auch wenig über deren Biosynthese. Darüber hinaus kann nun der phytostimulatorische Effekt genauer untersucht werden, was für den Einsatz der entsprechenden Stämme als Biodünger von großer Bedeutung ist.</dc:description>
+          <dc:description xml:lang="eng">In the first part of this work the structures of three new netropsin-type natural products with a hitherto unknown furan-core structure were elucidated by means of mass spectrometry and 2D-NMR spectroscopy. They were named proximicins A, B and C. The biological activity of the proximicins was investigated. In the second part of this work it was possible to identify and to characterize the products of three biosynthetic gene clusters of the plant growth stimulating Bacillus amyloliquefaciens FZB42. It was shown that the polyketides bacillaene, macrolactin and difficidin are produced and their production was attributed to the corresponding gene clusters. Moreover a screening of Bacillus strains revealed that the ability to produce this polyketides is widely distributed.</dc:description>
+          <dc:date>2010-09-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2640</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17089</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17089</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2640/original_schneider_kathrin.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2640/schneider_kathrin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

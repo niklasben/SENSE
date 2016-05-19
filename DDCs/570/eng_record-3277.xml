@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:28Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3277">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3277</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Identifizierung und epigenetische Regulation von neuen geprägten Genen </dc:title>
+          <dc:title xml:lang="eng">Identification and epigenetic regulation of novel imprinted genes</dc:title>
+          <dc:creator>Ruf, Nico</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Bislang ist die Anzahl der geprägten Gene nicht bekannt, daher sind systematische Analysen zur genomweiten Identifizierung neuer geprägter Gene notwendig. In zwei aktuellen Studien wurden mit verschiedenen methodischen Ansätzen 2101 bzw. 600 neue geprägte Kandidatengene im Mausgenom vorhergesagt, die noch durch eine allelspezifische Expressionsanalyse validiert werden mussten. Das primäre Ziel der vorliegenden Arbeit war die Identifizierung neuer geprägter Gene durch die systematische Analyse vielversprechender Kandidatengene aus beiden Studien. Zunächst wurde mit QUASEP eine neue Methode zur allelspezifischen Expressionsanalyse etabliert, mit der es möglich ist, selbst geringe allelische Expressionsunterschiede genau und reproduzierbar zu analysieren. Damit stellt QUASEP im Vergleich zu anderen Anwendungen die Methode der Wahl dar. Durch die systematische QUASEP-Analyse von insgesamt 71 ausgewählten Kandidatengenen wurde die geprägte Expression von zwei Genen auf dem proximalen Maus-Chromosom 7 bzw. auf dem distalen Maus-Chromosom 15 identifiziert. Da die große Mehrzahl der untersuchten Gene jedoch biallelisch exprimiert ist, muss die Effizienz der methodischen Ansätze beider Studien als gering eingeschätzt werden. Dies sollte in zukünftigen Studien berücksichtigt werden, bei denen mit vergleichbarer Methodik neue geprägte Kandidatengene identifiziert werden sollen. Neben der genomischen Prägung der murinen Gene konnte in der humanen orthologen Region auf dem Chromosom 19q13.4 ein bisher unbekanntes Transkript mit ebenfalls monoallelischer Expression im humanen fetalen Gehirn identifiziert werden. Auch das humane Ortholog des zweiten murinen Gens zeigte bei der QUASEP-Analyse monoallelische Expression. Die Prägung beider Mausgene und deren menschlichen Orthologen lassen unterdessen zahlreiche Fragen offen. Welche Rolle die genomische Prägung beider Gene hinsichtlich Imprinting-Regulation oder Entwicklung spielt, muss in zukünftigen Studien geklärt werden.</dc:description>
+          <dc:description xml:lang="eng">Imprinted genes are expressed from only one allele in a parent-of-origin-specific-manner. It is not clear how many imprinted genes there are, so there is a need for systematic approaches in order to identify novel imprinted genes. In two recent studies, a total of 2701 novel candidate imprinted transcripts in the mouse genome were systematically predicted by different methodological approaches. However, the imprinted expression of these candidate genes has to be validated by allele-specific expression analysis. The primary aim of this work was the identification of novel imprinted genes by systematic allele-specific expression analysis of promising candidate genes from both studies. In a first step, a new method using quantification of allele-specific expression by Pyrosequencing (QUASEP) was established, which enables the discrimination of subtle differences in allele-specific transcript ratios. Thus, QUASEP represents the method of choice when quantifying differences in transcript ratios. Secondly, by the systematic QUASEP-analysis of 71 selected candidate transcripts, the imprinted expression of two genes mapping on proximal mouse-chromosome 7 and on distal mouse-chromosome 15, respectively, was identified. Intriguingly, the vast majority of the analyzed transcripts showed no imprinted expression. These data question the efficiency of both studies and have major implications for similar current and future studies. Finally, the human orthologs on chromosome 19q and 8q, respectively, were identified and analyzed. Both human genes also showed imprinted expression. The monoallelic expression of both mouse genes and its human orthologs raises many questions. Which role the imprinted expression of these genes plays in terms of imprinting regulation and development is still unknown, and has to be explored in future studies.</dc:description>
+          <dc:date>2012-03-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3277</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14307</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14307</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3277/ruf_nico.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

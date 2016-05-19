@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:255">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:255</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Verhaltens- und elektrophysiologische Untersuchungen zur operanten Konditionierung von Antennenbewegungen der Honigbiene</dc:title>
+          <dc:title xml:lang="eng">Operant conditioning of antennal movements in the honey bee.</dc:title>
+          <dc:creator>Kisch, Johannes</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Honigbienen werden im Freiland operant konditioniert, wenn ein spezifisches Verhalten Belohnung erfährt, z.B. das erfolgreiche Aufsuchen einer Futterquelle oder die Heimkehr zum Stock. Ziel der vorliegenden Arbeit war es, ein operantes Lernparadigma für Bienen unter Laborbedingungen zu entwickeln und auf seine Charakteristika zu untersuchen. Bienen können unter Laborbedingungen lernen, kleine Plättchen vermehrt mit ihren Antennen abzutasten, wenn die häufige Berührung belohnt wird. Sie lernen in einer differentiellen Lernsituation belohnte Plättchen von unbelohnten Plättchen zu unterscheiden und tasten das konditionierte Plättchen häufiger ab. Die Plastizität des operanten Lernens konnte durch Umlernversuche zwischen dorsaler und ventraler Platte demonstriert werden. Die Akquisition operanten Lernens erreicht schneller ihre Sättigung als beim unbelohnten motorischen Lernen und langsamer als beim taktilen oder olfaktorischen Konditionieren von Bienen. Durch seitenspezifische Konditionierung von Antennenbewegungen konnte gezeigt werden, dass operantes Lernen spezifisch für die konditionierte Antenne ist. Die Hypothese, dass operantes Lernen von Antennenbewegungen auf den Dorsallobus begrenzt ist, bleibt bestehen. Operantes Konditionieren lässt sich an einem im Abtasten sehr dominanten Antennenmuskel (fast flagellum flexor) zeigen, der von einem einzelnen identifizierten Motoneuron innerviert wird. Der Effekt der Konditionierung liegt in einer Erhöhung der Häufigkeit von Aktionspotentialen. Mögliche Ursachen der erhöhten Feuerrate des Motoneurons durch die Konditionierung werden diskutiert. Die Fixierung der antennalen Gelenke reduziert oder verhindert operantes Lernen im elektrophysiologischen Präparat. Daraus ergaben sich Ausschaltexperimente, die eine weitere Eingrenzung der mechanosensorischen Rückkopplung auf das operante Lernen ermöglichten. Die Sinneshaarfelder am Kugelgelenk der Antenne haben keinen signifikanten Einfluss auf das operante Positionslernen. Bienen, die sich im Lernerfolg nach taktiler Oberflächenkonditionierung unterschieden, zeigten schon vorher Unterschiede in der Abtastaktivität. Mögliche Zusammenhänge von Abtastaktivität eines Tieres und der Modulation durch biogene Amine werden erläutert. Abtastverhalten und Antworteigenschaften auf Zuckerwasserreize wurden untersucht. Bienen, die schon auf einen Wasserstimulus mit einem Rüsselreflex reagierten, zeigten über kurze Zeit eine höhere ventrale Abtastaktivität als Bienen, die erst auf Zuckerwasser reagierten. Erklärungsansätze zur unterschiedlichen Abtastaktivität von Bienen mit verschiedenen Reaktionsschwellen werden gesucht.</dc:description>
+          <dc:date>2001-09-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/255</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2505</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2505</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/255/kisch_johannes.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

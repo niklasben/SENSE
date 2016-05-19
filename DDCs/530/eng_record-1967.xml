@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1967">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1967</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Radiometric measurement of thermodynamic temperatures during the phase transformation of metal-carbon eutectic alloys for a new high-temperature scale above 1000 °C</dc:title>
+          <dc:title xml:lang="deu">Radiometrische Bestimmung der thermodynamischen Phasenübergangstemperatur von eutektischen Metall-Kohlenstofflegierungen für eine neue Hochtemperaturskala oberhalb von 1000 °C </dc:title>
+          <dc:creator>Anhalt, Klaus</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The International Temperature Scale of 1990 (ITS-90) is defined by temperature fixed-points and interpolating measurement schemes. Up to now, in the high-temperature range above the freezing temperature of copper (1084 °C) long-term stable high-temperature fixed points are missing. Here, the extrapolation of the temperature scale to higher temperatures limits the principal uncertainty of the temperature scale. Novel fixed-points made from metal-carbon eutectics in a graphite crucible offer a solution, as their phase transition temperature can be as high as 3000 °C and they would allow to use an interpolation function for temperature measurements between the fixed-points temperatures. The work presented investigates the potential of metal-carbon (M-C) eutectic fixed-points for radiation thermometry and radiometry. Measuring techniques were developed to determine the stability, reproducibility and the thermodynamic phase transition temperature of these fixed-points with lowest uncertainties using absolute radiometric methods. For fixed-point cells of Co-C (1324 °C) , Pd-C (1492 °C) , Pt-C (1738 °C), Ru-C (1954 °C) and Re-C (2474 °C), manufactured by different laboratories, a reproducibility of less than ± 100 mK was observed. For the determination of the temperature during the phase transition a measurement scheme was developed that combines the best fixed-point design with the small measurement uncertainty of the radiometric temperature measurement using filter radiometers. Using this scheme, the melting temperature was determined for Co-C, Pd-C, Pt-C and Ru-C for the time with standard uncertainties (k=1) below 200 mK. The phase transition temperature of ZrC-C (2885 °C), TiC-C (2758 °C) and Re-C (2475 °C) has been determined for the first time with measurement uncertainties (k=1) below 500 mK using absolute radiometry and fixed-points cells especially designed for radiometric applications. These results are essential for an revision of the temperature scale up to 2800 °C. For the first time it is now possible to realise a temperature scale above 1085 °C based on an interpolation function using these fixed-points. Consequently, the measurement uncertainty will be reduced significantly.</dc:description>
+          <dc:description xml:lang="deu">Die Internationale Temperaturskala von 1990 (ITS-90) ist definiert anhand von Temperaturfixpunkten und interpolierenden Messverfahren. Im Hochtemperaturbereich oberhalb der Erstarrungstemperatur von Kupfer (1084 °C) jedoch fehlen bislang stabile Fixpunkte. Die Extrapolation oberhalb des Erstarrungspunktes von Kupfer limitiert die erreichbare Unsicherheit der Temperaturskala . Neuartige Temperaturfixpunkte aus eutektischen Metallkohlenstofflegierungen (M-C) gefertigt in einem Graphittiegel versprechen hier erstmals eine Lösung. Die vorliegende Arbeit untersucht das Potential dieser M-C-Fixpunkte für die Strahlungsthermometrie und Radiometrie. Dazu werden Messtechniken entwickelt, die es erlauben die Stabilität, Reproduzierbarkeit und die Phasenübergangstemperatur dieser Fixpunkte mit kleinstmöglicher Unsicherheit unter Verwendung absolut-radiometrischer Methoden zu bestimmen. Für Fixpunkte unterschiedlicher Herkunft aus Co-C (1325 °C), Pd-C (1492°C), Pt-C (1738 °C), Ru-C (1954 °C) und Re-C (2475 °C) konnte eine Reproduzierbarkeit von bis zu ± 100 mK nachgewiesen werden. Für die Bestimmung der Phasenübergangstemperatur wurde ein Messverfahren entwickelt, das eine optimale Zellform mit den geringen Messunsicherheiten der radiometrischen Temperaturbestimmung mit Filterradiometern kombiniert. Mit diesem Verfahren konnte erstmals die thermodynamische Phasenübergangstemperatur von Co-C, Pt-C, Ru-C und Pd-C mit einer Messunsicherheit (k=1) von 200 mK bestimmt werden. Speziell für die Anwendung in der Radiometrie gefertigte Fixpunkte aus ZrC-C (2885 °C), TiC-C (2758 °C) und Re-C (2475 °C) mit einer großen strahlenden Öffnung wurden erstmalig mit radiometrischen Methoden mit einer Messunsicherheit (k=1) von unter 500 mK untersucht. Die gewonnen Ergebnisse sind essentiell für die Erweiterung der Temperaturskala oberhalb 1100 °C bis über 2800 °C. Mit diesen Fixpunkten wird es erstmals möglich sein, die Temperaturskala in diesem Temperaturbereich mit eine Interpolationsfunktion zu realisieren und damit die Messunsicherheit signifikant zu verringern.</dc:description>
+          <dc:date>2008-10-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1967</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19712</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19712</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1967/anhalt_klaus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

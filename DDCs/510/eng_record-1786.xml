@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1786">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1786</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Unbounded Linear Operators on Interpolation Spaces</dc:title>
+          <dc:title xml:lang="deu">Unbeschränkte lineare Operatoren auf Interpolationsräumen</dc:title>
+          <dc:creator>Günther, Kerstin</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">The present thesis generalizes the concept and results of the classical interpolation theory. Usually, this theory deals with bounded linear operators. We extend the classical interpolation theory by introducing corresponding not necessarily bounded linear operators. These operators are investigated in this thesis. Of particular interest are spectral properties, Fredholm properties and the generalization of the local uniqueness-of-resolvent condition of T.J. Ransford and the local real uniqueness-of-resolvent condition of M. Krause. Finally, we examine ordinary differential operators as an example for unbounded linear operators on interpolation spaces.</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit verallgemeinern wir das Konzept sowie Resultate der klassischen Interpolationstheorie. Diese Theorie beschäftigt sich normalerweise mit beschränkten linearen Operatoren. Wir erweitern die klassische Interpolationstheorie durch die Einführung entsprechender, nicht notwendigerweise beschränkter, linearer Operatoren. Diese Operatoren werden in der Arbeit untersucht. Insbesondere interessieren wir uns für Fredholmeigenschaften und die Verallgemeinerung der 'local uniqueness-of-resolvent' Bedingung von T.J. Ransford sowie der 'local real uniqueness-of-resolvent' Bedingung von M. Krause. Außerdem studieren wir gewöhnliche Differentialoperatoren als ein wichtiges Beispiel für unbeschränkte lineare Operatoren auf Interpolationsräumen.</dc:description>
+          <dc:date>2008-05-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/plain</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1786</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18649</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18649</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1786/original_guenther_kerstin.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1786/guenther_kerstin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

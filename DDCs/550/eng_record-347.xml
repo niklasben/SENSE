@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:347">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:347</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Design und Verifikation der ersten digitalen kommerziellen Luftbildkamera (ADS)</dc:title>
+          <dc:title xml:lang="eng">Design and verification of the first digital commercial airborne cameras (ADS)</dc:title>
+          <dc:creator>Eckardt, Andreas</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Dissertation beschreibt, dokumentiert, analysiert und verifiziert verschiedene Aspekte innerhalb der Airborne Digital Sensor (ADS) Entwicklung. Es wird gezeigt, welch hohen Aufwand die Entwicklung einer neuen Generation von Produkten bedarf. Diese Analyse basiert auf einem grundsätzlich inhaltlichen Ansatz. Es wird ebenfalls dargestellt, welche Möglichkeiten der Umsetzung im Allgemeinen bestanden haben und die Wahl des jetzigen Designs begründet. Ein weiterer Gesichtspunkt der Arbeit ist die Verifikation der ADS-Entwicklung aus wissenschaftlicher Sicht. Der Airborne Digital Sensor ist ein moderner Sensor, der nicht allein die Bilddateninformation verarbeitet, sondern auch die Orientierungsdaten mit in das Datenprodukt integriert. Mit Hilfe vieler zusätzlicher Sensoren für Temperatur und Druck ist der ADS erstmalig in der Lage, Genauigkeitsangaben zu den aufgenommenen Bilddaten ins Verhältnis zu setzen. Diese zusätzlichen Informationen werden kontinuierlich überwacht und stehen dem Nutzer im Datenprodukt mit zur Verfügung. Mit dem ADS wurde ein modernes Multisensorikkonzept umgesetzt, welches für panchromatische und multispektrale Anwendungen in einem Bereich von 10 cm bis hin zu 1 m geeignet ist. Niedrigere Auflösungen können bei Bedarf ebenfalls erzeugt werden, diese stehen allerdings im Gegensatz zu der angestrebten Flugökonomie des Sensors. Die spektralen Kanäle des ADS sind Blau [430-490 nm], Grün [535-585 nm], Rot [ 610-660 nm] und nahes Infrarot [835-885 nm]. Der panchromatische Kanal wurde mit einem Spektralfilter von 465 nm bis 680 nm versehen. Die spektralen CCD-Zeilen besitzen 12.000 Pixel und die panchromatischen CCD-Zeilen besitzen 24.000 Pixel quer zur Flugrichtung bei gleichem Blickwinkel. Mit der Arbeit haben potentielle Nutzer die Möglichkeit, die Einsetzbarkeit des ADS für die vorgesehenen Applikation zu prüfen. Die Dissertation gliedert sich im Wesentlichen in 4 Hauptbereiche auf. Als erstes wird im Kapitel 2, nach der Einführung im Kapitel 1, eine weltweite Analyse bestehender digitaler Kameras vorgenommen. In demselben Kapitel werden zusätzlich auch alle für die nachfolgenden Themen substanziell wichtigen Technologien als Stand der Technik dargestellt. Im Kapitel 3 werden die neuen Erkenntnisse bezüglich digitaler Kameras, die in einzelnen Themenkomplexe untergliedert sind, beschrieben. Im Kapitel 4 werden experimentelle Ergebnisse zur Verifizierung einzelner Parameter vorgestellt. Das Kapitel 5 befasst sich mit der Zusammenfassung der Ergebnisse des ADS-Designs und gibt noch einen Ausblick auf sich anschließende Arbeiten, die sich aus heutiger Sicht ergeben.</dc:description>
+          <dc:description xml:lang="eng">The high-resolution imaging system ADS40 (Airborne Digital Sensor) is a development to fulfil both photogrammetric and remote sensing requirements. The new sensor was introduce in mid 2000 and will close the digital chain for airborne photogrammetric data processing. The spectral channels of the ADS are blue [430-490 nm], green [535-585 nm], red [ 610-660 nm] and NIR [835-885 nm]. The hardware is on the today's technological edge and can handle 120 MPixels/s with 14-bit radiometric dynamic and an SNR better than 8 bits. To achieve EMC in the airplanes and keep the excellent SNR for the entire system the data transfer between camera head and camera computer is based on a fiber connection. Application and verification examples demonstrate the main features of this digital sensor, like high spatial and radiometric accuracy, radiometric dynamics, high signal-to-noise-ratio, in-track stereo and multispectral capability. The following chapters introduce the technical design and the design requirements, as well the verification and calibration parameters of the ADS sensor.</dc:description>
+          <dc:date>2002-11-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/347</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3424</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3424</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/347/eckardt_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

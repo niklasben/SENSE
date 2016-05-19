@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:74">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:74</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einfluss der Relativbewegung auf den Prozess und das Arbeitsergebnis beim Planschleifen mit Planetenkinematik</dc:title>
+          <dc:title xml:lang="eng">Effect of the relative movement on the process and the results in face grinding with planetary kinematics</dc:title>
+          <dc:creator>Ardelt, Thomas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Planschleifen mit Planetenkinematik bietet die Möglichkeit, Werkstücke mit zwei planparallelen Funktionsflächen in großen Stückzahlen kostengünstig zu bearbeiten. Diese Eigenschaften bewirken seit einigen Jahren ein steigendes Interesse am Einsatz dieses Verfahrens, wodurch sich neue Anwendungsfelder ergeben. Um diese zu erschließen, werden die Maschinen- und Werkzeugsysteme und die Prozesstechnologie für das Planschleifen mit Planetenkinematik zur Zeit mit erheblichem Aufwand weiterentwickelt. Diese Arbeit soll einen grundlegenden Beitrag hinsichtlich der Erweiterung der Einsatzfelder des Planschleifens mit Planetenkinematik leisten. Am Beispiel der keramischen Werkstoffe Aluminiumoxid und Siliciumnitrid wird eine systematische Vorgehensweise zur Beherrschung der Prozesstechnologie aufgezeigt, die analytische und praktische Ansätze einschließt. Den Schwerpunkt dieser Arbeit bilden Untersuchungen bezüglich der Bewegungsformen der Planetenkinematik. Die Kinematik des Verfahrens beinhaltet bisher ungenutzte Potenziale zur Steigerung der Arbeitsqualität und der Wirtschaftlichkeit. Die Art der Relativbewegungen zwischen Werkstücken und Schleifscheiben wirkt sich nicht nur auf den Verschleiß der Werkzeuge und darüber indirekt auf die Formgenauigkeit der hergestellten Funktionsflächen aus. Sie besitzt vielmehr einen direkten Einfluss auf das Zeitspanungsvolumen und die Antriebsmomente von Schleifscheiben und innerem Stiftkranz. Da die Verfahrenskinematik von einer Vielzahl von geometrischen Parametern beeinflusst wird und die Bandbreite der kinematischen Einstellungen unendlich groß ist, lassen sich diese Zusammenhänge mit einer rein empirischen Vorgehensweise nicht allgemeingültig erfassen. Die Auswirkungen der Relativenbewegungen auf den Prozessverlauf und das Arbeitsergebnis werden sowohl analytisch simuliert als auch experimentell nachgewiesen. Das Gesamtziel dieser Arbeit besteht darin, den Einfluss der kinematischen Prozessparameter auf die Bearbeitung für die Prozessoptimierung nutzbar zu machen.</dc:description>
+          <dc:date>2001-03-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/74</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-697</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-697</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/74/ardelt_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

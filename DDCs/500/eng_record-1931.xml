@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1931">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1931</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Genomic Sequencing, Annotation and Comparative Analysis of the Rat Major Histocompatibility Complex</dc:title>
+          <dc:title xml:lang="deu">Genomische Sequenzierung, Annotierung und komparative Analyse des Haupthistokompatibilitätskomplexes der Ratte</dc:title>
+          <dc:creator>Hurt, Peter</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="eng">Aim of this project was to provide the sequence and a comprehensive annotation of the rat MHC, the RT1 complex of the laboratory rat Rattus norvegicus. The first step was a contribution to the physical mapping of the rat MHC region by allocation of PAC and BAC clones to the RT1 complex covering approximately 4 Mb of genomic DNA. A minimal tile path of 41 PAC and BAC clones spanning the RT1 region was selected from the physical map. Altogether 42 sequenced PAC and BAC clones including a distal single-PAC contig of 95 kb contributed to a finished high quality sequence of 3.922 kb with on average 14.2 fold sequence coverage. For comprehensive and high quality sequence annotation, multi-step Perl-supported methods were developed and adapted to different annotation problems, among them multigene families and amplified modular genomic structures containing highly similar pseudogene fragments and repetitive elements. As a result, 389 elements comprising genes, gene fragments and pseudogenes were annotated. A subsequent phylogenetic analysis of gene families and a comparative genomic MHC analysis of human, mouse and rat was performed, that sheds further light onto the evolutionary mechanisms that formed the mammalian and rat MHC. A basic genomic “scaffold�? comprising class II, class III and a set of framework genes appeared to be conserved during evolution amongst rat, mouse and man. However, there is a variety of noteworthy differences not only between human and rodent MHC, but particularly between rat and mouse. The most striking differences between rat and mouse were found in class I regions as there are a rat specific expansion of the third proximal class I cluster RT1-N and an independent evolution of the class I gene families RT1-A, RT1-CE and the non-class I family of butyrophilin-like genes. Besides the rat specific expansion of the RT1-N cluster, which is about four-fold larger than the corresponding region in mouse and human, 52 genomic fragments with class I exon/intron homology were found. These elements are partially organized in a modular genomic structure appearing twelve times in the RT1-N cluster. This again is a rat specific feature adding up to a variety of differences concerning the number, the organization and the structure of class I genes. In comparison to human and mouse these features describe the unique way that evolution worked to shape the present-day rat MHC.</dc:description>
+          <dc:description xml:lang="deu">Ziel dieses Projektes war die komplette Sequenzierung und umfassende Annotierung des Ratten MHCs, des RT1-Komplex der Laborratte, Rattus norvegicus. Beginn des Projektes war ein Beitrag zur physikalischen Kartierung der MHC-Region der Ratte durch Zuordnung von PAC und BAC Klonen zum RT1-Komplex, der in etwa 4 Mb genomischer Sequenz abdeckt. Eine kleinstmögliche Anzahl an überlappenden Klonen (minimal tile path) bestehend aus 41 PAC- und BAC-Klonen, die die RT1-Region überspannen, wurde zunächst aus der physikalischen Karte ausgewählt. 42 PAC- und BAC-Klonsequenzen, inklusive eines einzelnen PAC-Contigs von 95 kb, ergaben insgesamt eine lückenlose Sequenz von 3.922 kb mit einer durchschnittlichen 14,2 fachen Sequenzabdeckung. Um eine umfassende Annotierung hoher Qualität zu gewährleisten, wurden Perl-unterstützte Mehrschritt-Methoden entwickelt und den jeweiligen Aufgabenstellungen der Annotierung angepasst, darunter Multigen-Familien und vervielfältigte modulare genomische Strukturen, die Pseudogenfragmente und repetitive Elemente mit hoher Sequenzähnlichkeit beinhalten. Anschließend wurde eine phylogenetische Analyse der Genfamilien, sowie eine vergleichende Genomanalyse der MHC-Region von Mensch, Maus und Ratte durchgeführt, die weitere Erkenntnisse über die evolutionären Mechanismen erbrachten, die den Säuger-MHC, beziehungsweise den der Ratte formten. Ein „genomisches Grundgerüst“, das Klasse II-, Klasse III und verschiedene Ankergene umfasst, ist im Verlauf der Evolution bei Ratte, Maus und Mensch erhalten geblieben. Dennoch gibt es zahlreiche bemerkenswerte Unterschiede zwischen Mensch- und Nager-MHC und insbesondere auch zwischen Ratte und Maus. Die auffälligsten Unterschiede zwischen Ratte und Maus wurden in den Klasse I-Regionen gefunden, wie zum Beispiel eine rattenspezifische Expansion des dritten proximalen Klasse I-Clusters RT1-N und einer unabhängigen evolutionären Entwicklung der Klasse I-Familien RT1-A, RT1-CE und der Nicht-Klasse I-Familie der butyrophilinähnlichen Gene. Neben der rattenspezifischen Expansion des RT1-N-Clusters wurden 52 genomische Fragmente mit Klasse I-Exon/Intron-Homologie in dieser Region gefunden. Teilweise sind diese Elemente in einer modulweisen genomischen Struktur angeordnet, die zwölfmal im RT1-N-Cluster vorkommt. Dies ist wiederum ein rattenspezifisches Element, zusammen mit einer Vielzahl von Unterschieden in der Anzahl, Organisation und Struktur von Klasse I-Genen. Im Vergleich mit Mensch und Maus beschreiben diese Eigenschaften den einzigartigen Weg, den die Evolution eingeschlagen hat, um den heutigen Ratten-MHC zu formen.</dc:description>
+          <dc:date>2008-09-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1931</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20383</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20383</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1931/original_hurt_peter_original.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1931/hurt_peter.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

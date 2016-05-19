@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2452">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2452</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Scheibentragverhalten von Trapezprofilen ohne Schubfeldausbildung</dc:title>
+          <dc:title xml:lang="eng">In-plane action of trapezoidal sheetings without shear panel design</dc:title>
+          <dc:creator>Seidel, Frank</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Verwendung von Stahltrapezprofilen als raumabschließende und aussteifende Bauteile hat eine lange Tradition im Bauwesen. Nach dem bisherigen Stand der Normung ist die rechnerische Berücksichtigung der Scheibenwirkung in Form der Schubsteifigkeit S zum Lastabtrag und zur Aussteifung stets an die Ausbildung eines Schubfeldes gekoppelt. Dies erfordert eine umlaufende vierseitige Befestigung der Trapezprofile auf ihrer Unterkonstruktion. Davon abweichend ist jedoch davon auszugehen, dass auch zweiseitig nur an den Querrändern befestigte Trapezprofile eine aussteifende Wirkung auf die Unterkonstruktion besitzen. Die vorliegende Arbeit nimmt sich dieser Problematik an. Der Fokus liegt dabei auf der Untersuchung der aussteifenden Wirkung von zweiseitig gelagerten Trapezprofilen auf biegedrillknickgefährdete Träger. Das Ziel ist die Entwicklung eines vereinfachten Berechnungsverfahrens zur Berücksichtigung dieser aussteifenden Wirkung. Dazu wurden Traglastversuche an Trapezprofilen durchgeführt. Da den zur Befestigung der Trapezprofile verwendeten Verbindungsmitteln im Bezug auf die Gesamtsteifigkeit eine besondere Bedeutung zukommt, wurden bei den Versuchen neben zwei Trapezprofiltypen auch verschiedene Verbindungsmittel verwendet. Um eine möglichst allgemeingültige Betrachtung vornehmen zu können, wurde anhand der Traglastversuche ein Finite-Element-Modell entwickelt und kalibriert. Die Berechnungsergebnisse zeigten sehr gute Übereinstimmungen mit den Versuchen und ermöglichten es, das FE-Modell für umfangreiche Parameterstudien zu nutzen. Um ein breites Spektrum möglicher Systemkonfigurationen abzudecken, wurden folgende Parameter variiert: Trapezprofiltyp, Blechstärke, Profillänge, Länge des auszusteifenden Querträgers, Biegesteifigkeit der Querträger und die Steifigkeiten der Verbindungsmittel an den Profilstößen und auf den Querträgern. Auf der Grundlage der durchgeführten Parameterstudien wurde ein vereinfachtes Stabwerksmodell entwickelt, mit dessen Hilfe sich die Ersatzschubsteifigkeit S zweiseitig gelagerter Trapezprofile für den Fall des Biegedrillknickens von Einfeldträgern ermitteln lässt. Dadurch wurde die Möglichkeit geschaffen, auch zweiseitig gelagerte Trapezprofile für die Aussteifung biegedrillknickgefährdeter Träger rechnerisch heranzuziehen. Damit eröffnet sich ein weiterer Weg, um zu wirtschaftlicheren Konstruktionen zu gelangen.</dc:description>
+          <dc:description xml:lang="eng">Trapezoidal steel sheetings have long been used as space-enclosing and stiffening structural elements in cicil engineering. According to the present state of standardization, the design of the shear plane must be taken into account when calculating the in-plane action on the basis of shear stiffness S associated with load transfer and stiffening. This makes it necessary to fix the trapezoidal steel sheetings on all four sides on their substructure. Nevertheless, it may be assumed that also those trapezoidal steel sheetings fixed only on two sides with their crossbeams have a stiffening effect on their substructure. The present paper deals with this problem, focussing on the stiffening effect of trapezoidal steel sheetings supported on two sides by beams susceptible to lateral-torsional buckling. The objective is to develop a simplified calculation method that considers this stiffening effect. This was achieved by load-bearing testing of trapezoidal steel sheetings. The tests were carried out on two different types of trapezoidal steel sheetings using different joining elements, as these have an important impact on the overall stiffness of the construction. In order to allow for broadly valid observations, a finite element model of the test results was developed and calibrated. The calculated results showed excellent agreement with the experimental results, making it possible to use the FE model for extensive parameter studies. In order to cover a broad spectrum of possible system configurations, the following parameters were varied: type of trapezoidal steel panel, sheet thickness, profile length, length of the cross beams to be stiffened, bending stiffness of the crossbeams and stiffness of the joining elements situated at the profile joints and on the crossbeams. The findings of the parameter studies were used to develop a simplified strut model allowing to determine the alternative shear stiffness S of trapezoidal steel sheetings supported on two sides for the case of lateral-torsional buckling in simple beams. This made it possible to consider trapezoidal steel sheetings supported on two sides when calculating the stiffening of beams susceptible to lateral-torsional buckling. The use of such sheetings will pave the way to more economical constructions.</dc:description>
+          <dc:date>2010-03-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2452</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25737</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25737</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2452/seidel_frank.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

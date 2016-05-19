@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:514">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:514</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein numerisches Verfahren zur Strömungssimulation in zeitveränderlichen Gebieten mit integriertem Modul zur Gitternachführung</dc:title>
+          <dc:creator>Wick, Andreas</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit beschreibt die Entwicklung eines Finite-Volumen-Programms zur numerischen Berechung von zweidimensionalen strömungsmechanischen Problemen, deren Geometrie sich zeitlich ändert. Ausgangspunkt hierfür ist eine fortgeschrittene Finite-Volumen-Lösungsprozedur für inkompressible, turbulente Strömungen auf der Basis von raumfesten, blockstrukturierten Rechengittern. Ein erster Schwerpunkt der Arbeit besteht in der Auswahl, Implementierung und Verifikation eines Verfahrens, welches es erlaubt, Strömungssimulationen auch in zeitveränderlichen Geometrien durchzuführen. Während sich hierfür in Gestalt des 'Arbitrary Lagrangian-Eulerian'-Formalismus ein effizienter und erprobter Ansatz anbietet, erweist sich ein Teilproblem - nämlich die Nachführung des Rechengitters an die sich bewegende Berandung - als weniger gut erforscht. Diese Thematik ist deshalb auch der Hauptschwerpunkt der vorliegenden Arbeit. Zunächst werden die Stärken und Schwächen der zur Gitternachführung in Frage kommenden Methoden theoretisch analysiert und diskutiert. Die hierbei aufgezeigten grundlegenden Mängel werden zum Anlass genommen, ein vielversprechendes neues Verfahren zu entwickeln. Abschließend wird die Leistungsfähigkeit der zu einem vollautomatischen Verfahren integrierten Strömungsberechnungs- und Gittergenerierungsmodule anhand eines bekannten Strömungsproblems demonstriert. Die numerischen Ergebnisse zeigen eine gute Übereinstimmung mit experimentellen Daten. Der Anteil der Gitternachführung am gesamten Rechenzeitbedarf fällt kaum ins Gewicht.</dc:description>
+          <dc:date>2003-03-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/514</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5093</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5093</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/514/wick_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

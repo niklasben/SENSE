@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:358">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:358</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Methoden und Werkzeuge für die Konzeption und den Entwurf mikrotechnisch herstellbarer elektromechanischer Schaltrelais mit elektrostatischem Antrieb</dc:title>
+          <dc:title xml:lang="eng">Methods and Tools for Conceptual Design of Micromachined Electromechanical Relays with Electrostatic Actuation</dc:title>
+          <dc:creator>Dainat, Jan</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit zeigt systematische Ansätze für den Entwurf elektromechanischer Schaltrelais mit elektrostatischem Antrieb. Dabei werden methodische Werkzeuge bereitgestellt, die es ermöglichen, Lösungsvorschläge bereits in frühen Konstruktionsphasen zu bewerten. Die erarbeiteten Lösungskataloge ermöglichen die Klassifikation der Konzepte und helfen beim Auffinden neuartiger Wirkelemente. Im Mittelpunkt der Arbeit stehen Effektträger zur Energiewandlung, zur Energiespeicherung sowie zum Steuern des elektrischen Energiestroms. Wichtige Einflussgrößen auf die elektrostatisch/mechanische Wechselwirkung werden modelliert und diskutiert, wie z.B. die Wirkung isolierender, elektrisierter oder polarisierter Schichten, der Einfluss der Elektrodengeometrien sowie von Elektrodenverwerfungen, Randfeldern und Oberflächenrauheiten auf das Stellverhalten. Grundlegende energetische Überlegungen zeigen, dass Schaltelemente mit kontaktverlagernder Wirkcharakteristik Vorteile gegenüber solchen mit kontaktgebenden Erregerstrukturen besitzen. In der Ausgestaltung als laterale Effektträger, d.h. als Systeme mit einer zur elektrischen Kraftfeldrichtung orthogonalen Bewegungsrichtung, eröffnen sie große konstruktive Freiheiten. Mit dem Buckelanker-Erregersystem wird ein derartiges Konzept vorgestellt, Zusammenhänge und Eigenschaften dafür modelliert sowie diskutiert. Buckelanker vermögen relativ große Schließkräfte bei kleinen Ansprechspannungen bereitzustellen und eignen sich somit für mechanisch harte Kontaktmaterialien wie Palladium oder Rhodium, die gegenüber weicheren Materialien wie z.B. Gold deutlich größere Lebensdauern bei geringeren Abreißkräften erwarten lassen. Im Rahmen dieser Arbeit durchgeführte Untersuchungen an speziellen Teststrukturen zeigen, dass galvanisch abgeschiedene Schichten aus Gold oder goldbasierten Legierungen wie AuNi5 oder AuCo2 aufgrund ihrer ausgeprägten Haftneigung lediglich geringe Eignung als Mikrokontaktstücke besitzen. Bei dem Vergleich der experimentell ermittelten Abhängigkeit des Kontaktwiderstands von der Schließkraft mit analytischen Kontaktmodellen führt ein modifizierter Ansatz von Chang, Etsion und Bogy zur besten Übereinstimmung. Anhand eines Überblicks zu bekannten Vorgängen während der Kontaktgabe von Mikrokontakten werden wichtige analytische Ansätze und Einflussgrößen auf das Schaltverhalten diskutiert. Schließlich wird ein neuartiges Kontaktkonzept auf der Basis von Kohlenstoff-Nanoröhrchen (Carbon Nanotubes) vorgestellt.</dc:description>
+          <dc:description xml:lang="eng">The dissertation gives approaches for systematically developed concepts of switching relays with electrostatic actuation. It presents mathematical and physical tools, that help evaluate methods of resolution in early design phases. Based on the given catalogues of principle solutions it is easy to classify existing concepts or to find novel structural elements, respectively. As an emphasis of this paper there are energy converters, energy storages and control elements for electrical current. Important parameters for the electrostatic mechanical energetic interaction are calculated and discussed: For example the influence of insulating, electrified or polarised layers, electrode geometries, deformations, misalignments, leakage fields and surface roughness of the electrodes. It is shown, that capacitive actuators based on a moving mechanical contact mechanism are more effective than those with contact building characteristics. Especially lateral actuators, i.e. systems moving parallel to the electrode surfaces, provide a large number of construction solutions. A special contact moving lateral actuator is presented, the so called buckling anchor. Such actuators are capable to generate large contact forces at moderate voltages, a feature, that allow them to switch contact pieces made of mechanically hard materials as palladium or rhodium. Pd and Rh will sustain more switching cycles at less pull-off strength than softer materials as AuNi5 or AuCo2, respectively. Results obtained by experiments show, that electroplated gold-based materials as AuNi5 and AuCo2 are barely suitable for micro contacts, due to the extreme adhesion. In further experiments the interaction of contact resistance and contact force for gold-based materials is investigated. That results are compared with current contact theories, the best congruence is found to be with a modified model of Chang, Etsion and Bogy. A review of insights concerning the processes during making and braking of electrical micro contacts is given, important analytical approaches and factors influencing requirements are discussed. Finally a novel concept for electrical contacts based on carbon nanotubes is presented.</dc:description>
+          <dc:date>2003-02-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/358</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3539</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3539</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/358/dainat_jan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

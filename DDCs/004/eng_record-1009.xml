@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1009">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1009</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Patientenorientierte interaktive Visualisierung medizinischer Bilddaten</dc:title>
+          <dc:title xml:lang="eng">Patientoriented interactive visualization of medical image data</dc:title>
+          <dc:creator>Köchy, Kai</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Um es interessierten Patienten zu ermöglichen, einen Zugriff auf die eigenen Gesundheitsdaten vom heimischen Personal-Computer zu erhalten, wurde von der Fachgruppe Computer Graphics and Computer Assisted Medicine der Technischen Universität Berlin das PREPaRe-System (Personal Repository for Electronic Patient Records) entworfen. Ein Schwerpunkt dieser Arbeit liegt in der patientengerechten Visualisierung der multimedialen, medizinischen Daten. Der zweite Schwerpunkt beschäftigt sich mit einer geführten, intuitiven Benutzerinteraktion. Dabei stellt sich die Benutzerschnittstelle als dreidimensionale, virtuelle Umgebung dar, in der ein reales Krankenhaus samt Räumlichkeiten und Untersuchungsgeräten abgebildet wird. Diese stellen die Präsentationsplattform zur Verfügung, auf der der Benutzer seine persönlichen aus einer elektronischen Patientenakte aufbereiteten Daten erforschen kann. Diese Arbeit umfasst die grobe Konzeption und Spezifikation des PREPaRe-Systems, sowie Konzeption, Spezifikation und exemplarische Umsetzung eines Subsystems, welches die Visualisierung und Benutzerinteraktion durchführt.</dc:description>
+          <dc:description xml:lang="eng">In order to enable the interested patient to gain access to his/her own medical records from a PC at home or a physician's office, the PREPaRe system (Personal Repository for Electronic Patient Records) was designed by the Department of Computer Graphics and Computer Assisted Medicine at the Technical University of Berlin. This paper describes the visualization and interaction aspects of the PREPaRe system which is designed with respect to the user's needs. Special attention is given to the visualization of and interaction within a threedimensional virtual hospital. A main concept and specification of the PREPaRe system in a whole is presented and prototypes of the specified visualization subsystem are evaluated.</dc:description>
+          <dc:date>2005-06-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1009</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9995</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9995</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1009/koechy_kai.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

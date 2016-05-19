@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:102">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:102</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Discrete Curves and Surfaces</dc:title>
+          <dc:creator>Hoffmann, Tim</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Flüsse auf Kurven können in zwei Schritten diskretisiert werden: Zunächst kann man Flüsse auf diskreten Kurven (also Polygonen) betrachten, dann kann man auch die Zeit diskretisieren. Die Diskretisierung von Flüssen auf Kurven in CP^1, die mit der KdV und (in der euklidischen Reduktion) mKdV Gleichung zusammenhängen, führt sowohl zum berühmten Volterra Modell und seiner Diskretisierung, als auch zu diskreten KdV und mKdV Gleichungen, was diesen geometrische Interpretationen gibt. Die doppelt diskreten Flüsse in CP^1 entstehen als Bäcklundtransformationen ihrer glatten Analoga und erzeugen Abbildungen von Z^2 nach C bei denen alle elementaren Vierecke konstantes Doppelverhältniss haben---solche Abbildungen wurden als diskrete konforme Abbildungen untersucht. Erweitert man das auf Raumkurven erhält man diskrete Isothermflächen. Der Hashimoto oder Rauchring Fluß und seine Diskretisierung werden untersucht und ein doppelt diskreter Hashimoto Fluß wird hergeleitet. Der Hashimoto Fluß hängt sowohl mit der nichtlinearen Schrödinger Gleichung als auch mit dem anisotropen Heisenberg-Magneten zusammen. Die Eichäquivalenz der beiden Modelle ist bekannt. Diese äquivalenz wird hier für den diskreten und doppelt diskreten Fall gezeigt, was insbesondere auch zu der äquivalenz zweier bekannter Diskretisierungen der nichtlinearen Schrödinger Gleichung führt, die nicht bekannt war. Obige diskrete Zeitevolution für Kurven kann so angepasst werden, daß man aus geschlossenen diskreten Kurven diskrete Flächen mit konstanter mittlerer Krümmung (cmc) erzeugen kann---sie sind insbesondere isotherm. Bei einem anderen Zugang werden diskrete Rotations-cmc-Flächen mit Hilfe des Standardbilliards in der Ellipse oder Hyperbel erzeugt. Eine diskrete Version der Dorfmeister-Pedit-Wu-Methode zur Erzeugung von cmc Flächen aus holomorphen Daten wird vorgestellt und diskrete Smyth Flächen werden konstruiert. Schließlich wird gezeigt, wie man diskrete K-Flächen aus einem Analogon eines Krümmungslinienstreifens</dc:description>
+          <dc:description xml:lang="eng">Flows on curves can be discretized in two steps. First one can investigate flows on discrete curves (i.e. polygons) then one can discretize time too. The discretization of flows on curves in CP^1 that are linked to the KdV and (in its euclidian reduction) the mKdV euqation give rise to the famous Volterra model and its discretization as well as discrete KdV and mKdV equations, which in turn gives them a geometric meaning. The doubly discrete flows in CP^1 arise as Bäcklund transformations of their smooth counterparts and introduce maps from Z^2 to C with all elementary quadrilaterals having constant cross-ratio---these are known as discrete conformal maps. If one extends this to discrete space curves one gets discrete isothermic surfaces. The Hashimoto or smokering flow and its discretization is discussed and a doubly discrete Hashimoto flow is derived. The smokering flow is linked to both the isotropic Heisenberg magnet model and the nonlinear Schrödinger equation which are known to be gauge equivalent. This equivalence is here also shown for the discrete and doubly discrete case, the first giving rise to the equivalence of two famous discretizations of the nonlinear Schrödinger equation, which was unknown. Above discrete time evolution can be adopted to generate discrete surfaces of constant mean curvature (cmc surfaces)---which are in particular discrete isothermic surfaces---out of discrete closed curves. In an other approach discrete versions of rotational cmc surfaces are derived from the standard billiard in an ellipse or hyperbola. A discrete version of the Dorfmeister-Pedit-Wu-method for generatig cmc surfaces out of holomorphic data is presented and discrete Smyth surfaces are derived. Finally it is shown how discrete K-surfaces can be derived from an analogue of a curvature</dc:description>
+          <dc:date>2000-02-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/102</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-979</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-979</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/102/hoffmann_tim.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2098">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2098</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Extremal Extensions of Nonnegative Operators with Applications</dc:title>
+          <dc:title xml:lang="deu">Extremale Erweiterungen nichtnegativer Operatoren mit Anwendungen</dc:title>
+          <dc:creator>Nafalska, Maria Magdalena</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">The main subject of this thesis is the analysis of the extremal extensions of a closed densely defined nonnegative operator in a Hilbert space. These extensions are special nonnegative selfadjoint extensions. Two popular representatives of this class are the Friedrichs extension and the Krein-von Neumann extension. In this thesis we prove a representation of all nonnegative selfadjoint (extremal) extensions of a densely defined nonnegative operator which is given with the help of the embedding operator from the form domain of this extension to the original Hilbert space. Moreover, an abstract characterization of the extremal extensions is given with the help of an auxillary Hilbert space which is obtained by completing the range of the nonnegative operator with respect to a special norm. Furthermore, we present different factorizations of the extremal extensions. These results are applied to block operator matrices and to regular Sturm-Liouville operators without potentials and descriptions of the domains of the extremal extensions are given with the help of boundary conditions. In addition, we focus on the analysis of the extremal extensions of tensor products of nonnegative operators. In particular, the Friedrichs and the Krein-von Neumann extension of the tensor product of nonnegative operators are discussed.</dc:description>
+          <dc:description xml:lang="deu">Das Hauptaugenmerk der vorliegenden Arbeit ist die Untersuchung der extremalen Erweiterungen eines nichtnegativen, dicht definierten, abgeschlossenen Operators in einem Hilbertraum, welche eine spezielle Klasse der nichtnegativen, selbstadjungierten Erweiterungen bilden. Zwei herausragende Vertreter dieser Klasse sind die Friedrichserweiterung und die Krein-von Neumann Erweiterung. In der vorliegenden Arbeit wird gezeigt, dass jede nichtnegative selbstadjungierte (extremale) Erweiterung eine Darstellung besitzt, welche man mit Hilfe des Einbettungsoperators von dem Definitionsbereich der Wurzel dieser Erweiterung in den urspruenglichen Hilbertraum beschreiben kann. Desweiteren wird eine abstrakte Charakterisierung der extremalen Erweiterungen mit Hilfe eines Hilfshilbertraumes angegeben. Dieser entsteht bei der Vervollstaendigung des Bildes des nichtnegativen Operators bezueglich einer speziellen Norm. Darueberhinaus werden verschiedene Faktorisierungen der extremalen Erweiterungen angegeben. Diese Ergebnisse werden auf Blockoperatormatrizen, welche z.B. Systeme von Differentialgleichungen beschreiben, und auf Sturm-Liouville Operatoren angewandt. Mit Hilfe der Faktorisierungsergebnisse koennen die Definitionsbereiche der extremalen Erweiterungen (und insbesondere der Friedrichs- und der Krein-von Neumann Erweiterung) jener Operatoren unter Verwendung von Randbedingungen beschrieben werden. Ein weiterer Schwerpunkt der vorliegenden Arbeit ist die Untersuchung der extremalen Erweiterungen von Tensorprodukten von nichtnegativen Operatoren. Die Friedrichs-, die Krein-von Neumann- und die extremalen Erweiterungen des Tensorproduktes werden mit Hilfe der ensprechenden Erweiterungen der Faktoren beschrieben.</dc:description>
+          <dc:date>2009-03-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2098</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22010</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22010</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2098/original_nafalska_maria.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2098/nafalska_maria.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

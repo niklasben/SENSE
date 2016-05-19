@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4153">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4153</identifier>
+        <datestamp>2013-09-16</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:53</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">An autonomous sea going Raman/SERS instrument for in situ detection of chemicals in sea water</dc:title>
+          <dc:title xml:lang="deu">Ein autonomes, meerestaugliches Raman/SERS-Messgerät zum In-situ-Nachweis von Chemikalien im Meerwasser</dc:title>
+          <dc:creator>Kolomijeca, Anna</dc:creator>
+          <dc:subject>ddc:53</dc:subject>
+          <dc:description xml:lang="eng">The continuous monitoring of dangerous pollutants at very low concentrations (nM range) in the sea is of global importance to ensure environmental protection. To realize a technological basis for this purpose, an autonomous in situ sea going instrument for SERS (surface enhanced Raman spectroscopy) detection of selected chemicals was developed and tested. &#13;
+The selectivity and sensitivity of the applied technique was verified by extensive laboratory investigations, with more than 100 water and sediment samples collected at chosen locations from three continents: Europe, America, and Asia. For the first time, such a worldwide comparison of specimens was carried out applying a combination of SERS with SERDS (shifted excitation Raman difference spectroscopy), by means of a microsystem diode laser with two slightly shifted emission wavelengths (671.0 nm and 671.6 nm). Here, polycyclic aromatic hydrocarbons (PAHs) as fluoranthene, acenaphtylene, and pyrene as well as biphenyl could be identified as main pollutants – usually as a mixture of several chemicals, very rarely (&lt; 5 %) as a single component.&#13;
+Based on the laboratory experiments, portable Raman equipment was developed. Further studies were carried out in the Arctic area onboard a research vessel, in order to prove the ability of the system to work under harsh field conditions. Various SERS surfaces were successfully tested for its suitability for pollutant detection and stability during short (hours) and long term (days) measurements in surface seawater, which was continuously pumped on board through a pipe. The highest stability of the substrates could be achieved when immersed in fresh water, with an overall intensity decrease of only 5 % after 7 days of exposure. In contact with seawater, the overall intensity is reduced by 2 % within the first 10 h and by 20 % after 7 days. Spiking tests with selected PAHs dissolved in seawater showed lower in situ measured limits of detection compared to the calculated values for the laboratory experiments, e.g. 0.3 nM for anthracene (laboratory: 1 nM) and 1 nM for fluoranthene (laboratory: 1.2 nM).&#13;
+Finally, for the first time an autonomous sea going instrument was constructed, including the SERS sensor with integrated microsystem diode laser, compact laser drivers, a specially developed miniature spectrometer, all required electronic components, a microcomputer and a rechargeable battery. All parts of the system are contained in a pressure-resistant housing, enabling underwater experiments down to a depth of 100 m. The instrument was successfully tested in the Mediterranean Sea at IFREMER La Syene-Sur-Mer in the local harbor and during sea trials, detecting characteristic signals of fluoranthene and biphenyl. Even without SERS enhancement, Raman signals from the salt ions (SO42-) in seawater could be detected with integrations times of 10 s. &#13;
+The conducted experiments clearly demonstrate the applicability of innovative Raman, SERDS, and SERS/SERDS sensors for the in situ detection of hazardous environmental pollutions, in the nM-range, in seawater at any area of interest.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Die kontinuierliche Überwachung von Schadstoffen im Meerwasser in sehr geringen Konzentrationen (nM-Bereich) ist von weltweitem Interesse, um einen wirkungsvollen Umweltschutz zu gewährleisten. Zur Realisierung einer technologischen Plattform für derartige Untersuchungen wurde ein autonomes, meerestaugliches In-situ-System für den Nachweis ausgewählter Chemikalien mit Hilfe der oberflächenverstärkten Ramanspektroskopie (SERS) entwickelt und getestet.&#13;
+Die Selektivität und Empfindlichkeit der verwendeten Technik wurde anhand umfangreicher Laboruntersuchungen verifiziert. Dabei kamen mehr als 100 Wasser- und Sedimentproben ausgewählter Orte von 3 Kontinenten (Europa, Amerika und Asien) zum Einsatz. Unter Verwendung eines Mikrosystem-Diodenlasers mit zwei leicht gegeneinander verschobenen Anregungswellenlängen (671,0 nm und 671,6 nm) konnte so erstmalig ein weltweiter Vergleich der Proben mit einer Kombination von SERS und SERDS (shifted excitation Raman difference spectroscopy) durchgeführt werden. Als wesentliche Verschmutzungen ließen sich dabei polyzyklische aromatische Kohlenwasserstoffe (PAKs) wie beispielsweise Fluoranthen, Acenaphtylen oder Pyren sowie Biphenyl identifizieren. Diese Substanzen traten dabei häufig in einem Gemisch auf, in seltenen Fällen (&lt; 5 %) jedoch auch als einzelne Komponenten.&#13;
+Aufbauend auf den Laboruntersuchungen erfolgte die Entwicklung eines portablen Raman¬systems. Weiterführende Untersuchungen an Bord eines Forschungsschiffes in der Arktis konnten die Einsatzfähigkeit des Systems unter rauen Umgebungsbedingungen verifizieren. Dabei wurden zahlreiche SERS-Oberflächen erfolgreich hinsichtlich ihrer Eignung zum Schadstoffnachweis sowie ihrer Stabilität analysiert. Die Stabilitätstests auf kurzen (Stunden) und langen (Tage) Zeitskalen erfolgten mit Hilfe von Oberflächenwasser, das über eine Rohrleitung kontinuierlich an Bord gepumpt wurde. Die Substrate zeigten bei einer Lagerung in Frischwasser mit einem Intensitätsabfall von nur 5 % nach 7 Tagen die besten Resultate. In Kontakt mit Meerwasser ergab sich eine Reduktion der Intensität von lediglich 2 % innerhalb der ersten 10 Stunden sowie von 20 % nach 7 Tagen. Die Zugabe ausgewählter PAKs in das Meerwasser in verschiedenen Konzentrationen ergab im Vergleich zu den Laboruntersuchungen verbesserte Nachweisgrenzen von 0,3 nM für Anthracen (Labor: 1 nM) und 1 nM für Fluoranthen (Labor: 1,2 nM).&#13;
+Abschließend wurde erstmals ein autonomes, meerestaugliches Messgerät konstruiert, das den SERS-Sensor mit integriertem Mikrosystem-Diodenlaser, kompakte Lasertreiber, ein speziell entwickeltes Miniaturspektrometer, alle erforderlichen elektronischen Bauteile, einen Mikrocomputer sowie einen wiederaufladbaren Akku enthält. Alle Komponenten des Systems befinden sich in einem druckfesten Gehäuse, das für den Unterwasser-Einsatz bis zu einer Tiefe von 100 m konzipiert ist. Das Messgerät wurde erfolgreich im Mittelmeer bei der IFREMER in La Syene-Sur-Mer im dortigen Hafen sowie bei Einsätzen auf See getestet, wobei sich charakteristische Ramansignale von Fluoranthen und Biphenyl nachweisen ließen. Auch ohne die Anwendung der SERS-Substrate konnten bei Integrationszeiten von 5–10 s Ramansignale von Salzionen (SO42-) im Meerwasser detektiert werden.     &#13;
+Die durchgeführten Untersuchungen verdeutlichen die Einsetzbarkeit innovativer Raman-, SERDS- und SERS/SERDS-Sensoren zum In-situ-Nachweis gefährlicher Umweltschadstoffe im Meerwasser im nM-Bereich an beliebigen Untersuchungsorten. &#13;
+</dc:description>
+          <dc:date>2013-11-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4153</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-41531</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-41531</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4153/kolomijeca_anna.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

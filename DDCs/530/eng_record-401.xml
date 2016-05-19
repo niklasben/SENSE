@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:401">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:401</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Charakterisierung einer XUV-Laserplasmaquelle und ihre Anwendung in der NEXAFS-Spektroskopie an organischen Molekülen</dc:title>
+          <dc:title xml:lang="eng">Characterisation of an XUV laser driven plasma source and its application to NEXAFS-spectroscopy of organic molecules</dc:title>
+          <dc:creator>Beck, Michael</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird die Entwicklung und der Aufbau eines Labor-XUV-Absorptionsspektrometers beschrieben. Seine wesentlichen Elemente sind eine Festkörper-Laserplasmaquelle, deren Strahlung durch ein Transmissionsgitter spektral getrennt und von einer XUV-CCD-Kamera detektiert wird. Durch seinen mobilen Aufbau konnte das Spektrometer flexibel mit verschiedenen Lasersystemen genutzt werden. Die XUV-Quelle wurde spektral, räumlich und zeitlich charakterisiert. Die Untersuchung der Intensitätsabhängigkeit der Emission ergab, wenn Kupfer als Target genutzt wird, daß ihre mittlere Brillanz im Bereich des Wasserfensters maximiert wird (B&gt;2×10E7÷(sr×µm²×Burst×0,1%BW)), wenn bei einer Einstrahlungsintensität oberhalb von I=1×10E14 W÷cm² die mittlere Leistung des Lasers maximiert wird. Mit diesem Spektrometer wurden NEXAFS-Spektren von organischen Molekülen gemessen. Erstmals wurde ein NEXAFS-Spektrum von ß-Carotin aufgenommen. Diese Daten ermöglichten in Verbindung mit gemessenen UV-Photoelektronenspektren die Angabe der Energie für den optisch verbotenen Ein-Photonenübergang S0 -&gt; S1 mit 1,9 eV (±0,2 eV), was im erwarteten Spektralbereich liegt. Des weiteren wurden NEXAFS- und - erstmals an organischen Molekülen - pump-probe-NEXAFS-Messungen an PIC durchgeführt, um der Frage nachzugehen,ob Exzitonen mit XUV-Strahlung nachweisbar sind. Diese pump-probe-Messungen sind gleichzeitig wegbereitende Untersuchungen für zeitaufgelöste NEXAFS-Messungen an ß-Carotin, zur Aufklärung des Energietransfers in den photosynthetischen Antennnen.</dc:description>
+          <dc:date>2002-12-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/401</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3969</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3969</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/401/beck_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

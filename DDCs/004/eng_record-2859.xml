@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2859">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2859</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">On a Strongly Normalizing STG Machine with an Application to Dependent Type Checking </dc:title>
+          <dc:title xml:lang="deu">Über eine vollständig normalisierende STG Maschine, mit einer Anwendung für die Prüfung abhängiger Typen</dc:title>
+          <dc:creator>Kleeblatt, Dirk</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Traditionally, compiled systems compute so called weak head normal forms, i. e. they perform no computations beneath lambda-abstractions or case analyses. But for example in dependent type checking, strong normal forms are required to test for beta-convertibility. This requires to deal with free variables since e. g. formal parameters of abstractions occur free in the body of the abstraction, and compiled code usually cannot deal with this free variables. Using an interpreter solves this problem, but has several disadvantages: - Interpreted code has reduced performance compared to compiled code. - When writing a compiler, an additional interpreter is needed just for type checking, so, two different parts of the code base have to be maintained. - Differences between interpreter and compiler may result in computations having a different result at runtime than during type checking. This may violate type safety. We present a strong normalization system for FUN, a simple lazy functional language, that overcomes this disadvantages by using compiled code for normalization. We start with a big-step operational semantics, and transform it in several steps to an abstract machine executing pseudo-assembler code, thereby proving the preservation of normal forms. A case study confirms that the compilation system can be indeed used in a dependent type checker, and performs with a satisfying efficiency.</dc:description>
+          <dc:description xml:lang="deu">Üblicherweise berechnen compilierte Programme lediglich sogenannte schwache Kopf-Normalformen. Allerdings benötigt man beispielsweise zur Überprüfung abhängiger Typen strenge Normalformen. Bei deren Berechnung müssen freie Variablen berücksichtigt werden, da z. B. formale Parameter von Abstraktionen frei in deren Rumpf auftreten können. Compilierter Maschinencode kann damit traditionell nicht umgehen. Dieses Problem durch den Einsatz eines Interpreters zu lösen bringt einige neue Probleme mit sich. - Die Ausführung von interpretiertem Code ist ineffizient. - Bei der Implementierung eines Compilers ist ein zusätzlicher Interpreter für die Typprüfung nötig, wodurch zwei Komponenten parallel gewartet werden müssen. - Unterschiedliche Resultate von Interpreter und Compiler können dazu führen, dass die Typsicherheit verletzt wird. Wir präsentieren ein strenges Normalisierungssystem für eine einfache funktionale Sprache mit verzögerter Auswertung, das diese Probleme durch den Einsatz von compiliertem Code vermeidet. Wir beginnen mit einer operationalen Semantik im deduktiven Stil, und transformieren sie schrittweise zu einer abstrakten Maschine, die Pseudo-Maschinencode ausführt. Dabei beweisen wir die Erhaltung von Normalformen. Mit einer Fallstudie belegen wir, dass sich das resultierende System tatsächlich für den Einsatz bei der abhängigen Typprüfung eignet, und dafür hinreichend effizient ist.</dc:description>
+          <dc:date>2011-04-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2859</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30165</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30165</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2859/kleeblatt_dirk.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

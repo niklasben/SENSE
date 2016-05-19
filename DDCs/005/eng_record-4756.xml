@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4756">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4756</identifier>
+        <datestamp>2014-02-19</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Synthesis of model nanocatalysts for industrial applications</dc:title>
+          <dc:title xml:lang="deu">Synthese von Modellkatalysatoren für industrielle Anwendungen</dc:title>
+          <dc:creator>Xie, Xiao</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">Different one-pot approach methods are used to synthesize metal oxide nanoparticles (MONPs) and noble metal nanoparticles (NMNPs) for specific catalytic applications. A solid solution of NixMn1-xO supported on porous silica is obtained by a one-pot approach, a combination of co-precipitation and the sol-gel process. Through adjusting the pH to 10, the gelation of sodium metasilicate is controlled at a low rate, which contributes to the high dispersion of metal precursors and subsequent forming metal precipitates in the network of the gel. By that    NixMn1-xO nanocrystallites highly dispersed on amorphous silica can be obtained. Interestingly, NixMn1-xO catalysts show high activity for the dry reforming of methane (DRM) reaction. For the first time, the thermodynamic equilibrium (TDE) of the DRM reaction below 600 °C is achieved with NixMn1-xO catalysts. Compared to the bulk NixMn1-xO catalyst, silica supported NixMn1-xO exhibits highly improved catalytic performance in the DRM reaction. An optimized catalyst, Ni0.05Mn0.95O/SiO2 (calcined at 750 °C), at the conditions of 600 °C and GHSV 80 L h-1 gcat-1, is stable for 5 days and the conversion of methane is still 50% after 120 h time on stream. &#13;
+Pd dispersed on silica xerogel is synthesized by a one-pot approach and tested for hydrogenation reactions. By using a water soluble polymer, the preformed Pd NPs are stabilized during the sol-gel process and therefore are highly dispersed on the xerogel. The polymer is removed completely by water extraction and can be reused for the next preparation. The obtained Pd/SiO2 xerogel shows comparable activity as the homogeneous Pd sol catalyst in the hydrogenation of cyclooctadiene (COD). During the recycling applications, after 10 runs no deactivation or metal leaching is observed yet.&#13;
+Another noble metal catalyst, Pt supported on SBA-15 is also synthesized by a one-pot approach and tested for both liquid-phase hydrogenation and gas-phase oxidation reactions. Poly(vinyl alcohol) (PVA) is employed as both a stabilizer for Pt NPs and a template to create interconnection between the channels in SBA-15. Under a certain concentration, Pt loading shows no influence on the surface area and pore structure of the support SBA-15. The obtained Pt/SBA-15 catalyst is highly active and stable in both oxidation of CO and hydrogenation of COD reactions. During the recycling applications, no Pt leaching or Pt NPs agglomeration is observed, indicating efficient immobilization of Pt NPs on SBA-15.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Mehrere Eintopfreaktionen werden in dieser Arbeit angewendet um Metalloxid- und Edelmetall-Nanopartikel für die Anwendung in der Katalyse herzustellen. Eine feste NixMn1-xO Lösung wird durch die Kombination aus Co-Fällung und Sol-Gel-Prozesses an poröses Silikat angebracht. Hierdurch konnten NixMn1-xO  Nanokristalle erhalten werden, welche höchst dispergiert und an Silikat angebracht vorlagen. Interessanterweise zeigen die NixMn1-xO Katalysatoren eine hohe Aktivität in der  der trockenen Gasspaltung von Methan (DRM). Erstmalig konnte das thermodynamische Gleichgewicht der DRM Reaktion durch die Verwendung des NixMn1-xO schon unter 600 °C erreicht werden. Im Vergleich zu dem Bulk Katalysator besitzt der Silikat stabilisierte NixMn1-xO eine stark verbesserte katalytische Aktivität für die DRM Reaktion. Der optimierte Katalysator Ni0.05Mn0.95O/SiO2 welcher bei  750 °C kalziniert wurde, ist bei 600 °C und GHSV 80 L h-1 gcat-1 für 5 Tage stabil und der Umsatz von Methan beträgt noch 50% nach 120 Stunden im Gasstrom. &#13;
+Pd auf Silikatxerogelen dispergiert wird durch eine Eintopfreaktion synthetisiert und für Hydrierungsreaktionen angewendet. Durch die Verwendung von wasserlöslichen Polymeren können die vorgebildeten Pd-Nanopartikel während dem Sol-Gel-Prozess stabilisiert werden und liegen daher höchst dispergiert in dem Xerogel vor. Das Polymer wird vollständig durch eine wässrige Extraktion entfernt und kann somit für die nächste Reaktion wiederverwendet werden. Das hergestellte Pd/SiO2 xerogel zeigt eine hohe Aktivät, welche mit der von homogenen Pd-Solkatalysatoren in der Hydrierung von Cyclooctadien (COD) vergleichbar ist. Durch das Recycling durch zehnmalig durchgeführte Wasserextraktion wird kein nachteiliges Matall-Leaching beobachtet.&#13;
+Zusätzlich kann ein Pt Edelmetallkatalysator, an SBA-15 angebracht, ebenfalls durch eine Eintopfreaktion hergestellt werden. Dieser wird auf dessen Aktivität in einer Flüssig- und Gasphasenoxidationen untersucht. Polyvinylalkohol (PVA) wird sowohl als Stabilisator für die Pt NPs als auch als Templat für die Herstellung von verbundenen Poren in SBA-15 verwendet. Bei einer bestimmten Konzentration hat die Pt Beladung keinen Einfluss auf den Oberflächeninhalt und die Porenstruktur des SBA-15-Gerüstes. Der hergestellte SBA-15-Katalysator ist während der Oxidation von CO  und der Hydrierung von COD höchst aktiv und stabil. Das Recyclings konnte ohne nachteiliges Pt-Leaching oder Agglomerierungen der NPs durchgeführtt werden. &#13;
+</dc:description>
+          <dc:date>2014-02-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4756</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47566</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47566</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4756/xie_xiao.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

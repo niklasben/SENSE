@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4345">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4345</identifier>
+        <datestamp>2014-02-04</datestamp>
+        <setSpec>doc-type:habilitation</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Beyond search : business analytics on text data </dc:title>
+          <dc:title xml:lang="deu">Aggregation und Analyse Text-basierter Informationen</dc:title>
+          <dc:creator>Löser, Alexander</dc:creator>
+          <dc:subject>ddc:0</dc:subject>
+          <dc:description xml:lang="eng">The management of text data has a longstanding history in the human mankind. This book is intended for anyone who wishes to find out how text data will continue to affect enterprise applications or who wishes to create new business processes from analyzing text data on the Web and within the enterprise. &#13;
+The book is divided into two parts: Part I gives an overview of techniques for searching, extracting and managing text data in an enterprise context, such as the intranet or corporate forums. Part II provides a more in-depth description of how we can execute structured queries over the sheer endless mass of textual data available on the Web in a cost effective and ad-hoc fashion.&#13;
+Having structured information from text data available, with low costs for extracting and organizing, provides knowledge workers and decision makers in an organization with insights that have, until now, not existed.&#13;
+The presented key scientific achievements base on real life observations from enterprise search systems within IBM, SAP, the exploratory search portal www.GoOLAP.info and from www.mia-marktplatz.de, a data marketplace for the ".DE Web".  A major part of the scientific results are being applied to improve technology in these systems and organizations. &#13;
+I encourage you to visit the official Web site of this book. The website contains updates, papers, talks about ad-hoc Web research, and shows our running demo. You can access the book’s Web site via: GoOLAP.info&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Das Management von Textdaten hat eine lange Geschichte in der Menschheit. Dieses Buch ist unterstützt Entscheider, Analysten und Anwender im Design von Enterprise-Anwendungen die Textdatenverarbeiten oder bei der Erstellung und Schärfung von Geschäftsprozessen die auf der Analyse der Textdaten im Internet basieren.&#13;
+Das Buch ist in zwei Teile gegliedert: Teil I liefert einen Überblick über die wichtigsten Techniken für die Suche, Gewinnung und Verwaltung von Text-Daten im unternehmensinternen  Kontext, wie im Intranet oder in einem Corporate Forum. Teil II beschreibt das Design von Technologien für die Ausführung strukturierter Anfragen auf der schier endlosen Masse von Textdaten im Web.&#13;
+Die im Buch vorgestellten wichtigsten wissenschaftlichen Leistungen basieren auf Beobachtungen real existierdner Enterprise-Such-Systeme. Dazu gehören das Intranet der IBM, das Intranet der SAP AG, das Portal www.GoOLAP.info und die Analyseplattform www.mia-marktplatz.de. Die wissenschaftlichen Ergebnisse des Buches wurden in diesen Systemen angewendet.&#13;
+&#13;
+Bitte besuchen Sie auch die offizielle Website www.GoOLAP.info des Buches mit Updates, wissenschaftlichen Arbeiten und einer Demo. &#13;
+</dc:description>
+          <dc:date>2013-12-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4345</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43456</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43456</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4345/Loeser_Alexander_korr_pdfa.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

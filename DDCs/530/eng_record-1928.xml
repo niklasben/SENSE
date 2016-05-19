@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1928">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1928</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Investigations of Field Dynamics in Laser Plasmas with Proton Imaging</dc:title>
+          <dc:title xml:lang="deu">Untersuchungen von Felddynamiken in Laser Plasmen durch Proton Imaging</dc:title>
+          <dc:creator>Sokollik, Thomas</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The present work focuses on proton acceleration scenarios using different target types in order to get a further insight into complex relations between laser-plasma interaction, plasma kinematics and associated strong fields. A powerful diagnostic tool for these investigations is the proton beam itself. It can be used to investigate the acceleration process by probing fields inside a second laser-induced plasma where proton and ion acceleration takes place. This technique is called "Proton Imaging" or "Proton Radiography" and is used for several investigations presented in this thesis. Laser interactions with thin foils and mass-limited targets (water-droplets) at laser intensities between 10^17-10^18 W/cm^2 will be discussed. Therefore common proton imaging schemes were adapted and developed further. These novel techniques allow detailed investigations of huge transient electric fields 10^8-10^12 V/m) responsible for the proton (ion) acceleration and connected to the expansion into the vacuum. Additionally, investigations of the beam characteristics deliver information about the acceleration scenario and are included in this thesis.</dc:description>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden Mechanismen der laserinduzierten Protonenbeschleunigung untersucht. Diese Thematik ist relativ neu und erst durch jüngste Entwicklungen in der Höchstfeld-Lasertechnologie und durch das Verständnis komplexer Licht-Materie-Wechselwirkung in Plasmen möglich geworden. Diesem Themengebiet wird ein beträchtliches interdisziplinäres Anwendungspotenzial zugeschrieben. Durch die Untersuchungen im Rahmen dieser Arbeit konnten neue Informationen über die Laser-Plasma-Wechselwirkung, die zeitliche Entwicklung der Plasmen and die dabei entstehenden starken elektrischen Felder gewonnen werden. Ein nützliches Hilfsmittel bei diesen Untersuchungen ist der lasererzeugte Protonenstrahl selbst. Mit ihm können Felder, die für die Beschleunigung der Ionen verantwortlich sind, in einem zweiten laserinduzierten Plasma untersucht werden. Diese bildgebende Methode bezeichnet man als "Proton Imaging" oder auch als "Proton Radiography". Die Wechselwirkung von Laserpulsen mit dünnen Folien und massen-limitierten Targets (Wassertropfen) wurde bei Laserintensitäten zwischen (10^17-10^18) W/cm^2 untersucht. Bisher verwendete bildgebende Techniken wurden mit dem Ziel der gleichzeitigen räumlichen und zeitlichen Auflösung erweitert, wobei sowohl zeitlich geschaltete Detektoren als auch die neu eingeführte Methode der "proton streak deflectometry" eingesetzt wurden. Diese neuen Methoden ermöglichen detaillierte Untersuchungen starker und kurzlebiger elektrischen Felder (10^8-10^12 V/m), die für die Beschleunigung der Protonen (Ionen) und deren Expansion ins Vakuum verantwortlicht sind. Zusätzlich liefern Untersuchungen der Strahlcharakteristik Informationen über die Qualität laserbeschleunigter Protonen-strahlen für bildgebende Zwecke und über die physikalischen Grundlagen der Beschleunigungsprozesse.</dc:description>
+          <dc:date>2008-09-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1928</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20288</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20288</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1928/sokollik_thomas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

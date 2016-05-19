@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:773">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:773</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Umfassendes Qualitätsmanagement für den Bereich Elektronik im Versuchsbau der Automobilindustrie</dc:title>
+          <dc:creator>Kutritz, Thomas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Automobilbranche steht vor einer der größten Herausforderungen in ihrer Geschichte. Die Beherrschung der ständig wachsenden Komplexität elektronischer und softwarebasierter Systeme und deren immer weiter steigende Vernetzung untereinander ist für Fahrzeughersteller und Zulieferer, durch den gleichzeitig steigenden Wettbewerbs- und Innovationsdruck, zu einem ausschlaggebenden Erfolgs- und Imagefaktor geworden. Eine entscheidende Rolle zur Sicherstellung der Qualität elektronischer Systeme im Automobil spielt bereits in der Produktentstehung der Versuchsbau, da er als Bindeglied zwischen den Fachbereichen Technische Entwicklung, Produktion und Kundendienst eine der wichtigsten, bereichsübergreifenden Kommunikationsplattformen im Unternehmen darstellt. Die vorliegende Arbeit zeigt auf Basis des EFQM-Modells eine Möglichkeit auf, wie im Sinne des umfassenden Qualitätsmanagements die Prozesse und Vorgehensweisen im Versuchsbau der Automobilindustrie für den Bereich der elektronischen und softwarebasierten Systeme unterstützt werden können. Neben einer einleitenden Beschreibung der Situation, der sich die Hersteller im Bereich elektronischer, vernetzter Fahrzeugsysteme gegenüber gestellt sehen und einer kritischen Auseinandersetzung in Bezug auf daraus resultierende Schwierigkeiten und Risiken, bildet den Kern der Arbeit eine sieben Elemente umfassende Methode, welche die Themen "Kundenorientierung im Bereich Kfz-Elektronik", "Sensibilisierung der Führung", "durchgängiges Prüfen und Dokumentieren im Montageprozess", "Beitrag zur Überprüfung und Darstellung der Produktreife", "Lieferantenbetreuung für Elektronik-Umfänge", "Einbindung von Produktions- und Kundendienstprüftechnik" sowie das Thema "Mitarbeiterqualifikation" speziell für den Bereich Versuchsbau behandelt. Hierbei wurde das Ziel verfolgt, keine theoretische Methode aufzuzeigen, die sich jenseits der Praxis bewegt. Alle Ideen und Anregungen basieren daher auf praktischen Erfahrungen die in enger Zusammenarbeit mit einem europäischen Automobilhersteller sowie durch den Erfahrungsaustausch mit anderen Herstellern hervorgegangen sind.</dc:description>
+          <dc:date>2005-03-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/773</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7678</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7678</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/773/kutritz_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

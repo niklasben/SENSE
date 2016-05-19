@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2383">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2383</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">White Certificates Revisited - Extending the Basic Model</dc:title>
+          <dc:creator>Wittmann, Nadine</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">This paper deals with modeling the effects of introducing a market-based tool for improving end-users’ efficiency in an energy market which is already regulated through a cap-and-trade system for green house gas emissions and a quota system meant to improve competitiveness of energy produced using renewable resources. In this model, distributors of energy are perceived as regional monopolists which are able to set the price of energy paid by consumers in their respective region. Once a White Certificate Trading Scheme (WCTS) is implemented, distributors are held responsible for achieving consumers’ energy savings and energy efficiency targets set by regulation authorities. Results show that this way of regulating energy demand achieves its underlying objects of energy savings and energy efficiency solely at the expense of other goals such as the environmental efficiency of energy production. Moreover, in case of assuming a regular, i.e. falling, demand curve for energy, a price-induced reduction of demand in energy, if necessary, combined with buying white certificates will always be preferred by distributors over implementing incentive mechanisms to enforce consumers’ investment in energy efficiency. Only if the properties of the model are varied, distributors will set an incentive greater than zero. However, in any case, without a reduction of the cap on emissions and an increase of the minimum quota of renewable energy, the introduction of WCTS will result in negative side effects on the environmental goals set on energy production and the amount of renewable energy produced. Therefore, implementing WCTS into a market which is already highly regulated cannot exactly be considered the icing on the cake of environmental policy. On the contrary, the amount and intensity of interdependencies and, hence, the countervailing effects of the various policy measures are intensified. Rather than proposing the introduction of yet another policy instrument, this paper opts for postulating the use of existing policy measures in a more effective way, in order to achieve all goals of environmental policy simultaneously.</dc:description>
+          <dc:date>2010-01-05</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2383</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25041</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25041</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2383/WC_revisited.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

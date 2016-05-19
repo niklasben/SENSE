@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1047">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1047</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Monocular Camera Path Estimation Cross-linking Images in a Graph Structure</dc:title>
+          <dc:title xml:lang="deu">Monokulare Kamerapfad-Bestimmung durch Vernetzung von Bildern in einer Graphenstruktur</dc:title>
+          <dc:creator>Wefelscheid, Cornelius</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Starting from several suitable images of an object or a scene, the 3D information can be reconstructed. For each image the pose of the camera is estimated. The corresponding research field within computer vision is known as structure from motion. Intensive research for more than two decades resulted in first commercial applications covering the area of reverse engineering, archaeology and city modelling. Thus, structure from motion is going to become a low cost alternative technology to laser based systems. In this work, a toolchain for 3D reconstruction from an image sequence was developed. It contains new algorithms to enhance current approaches concerning robustness, reliability and speed. A modular approach was chosen enabling easy and independent integration of new algorithms. The underlying relational data structure is essential to access all data at any stage of the toolchain. As a first step interest points are detected in each image to establish point correspondences between two images. A new algorithm is presented to find the nearest neighbor in a high dimensional space, applicable to the description of interest points. Different approaches to efficiently detect loop closures are integrated. The relative orientation between image pairs is computed in a robust manner following a hierarchical clustering approach. A graph containing image triplets is then constructed from a set of relative orientations and the pose of each image is estimated from the graph. Utilizing non-linear optimization techniques, the initial pose of the images is refined to establish a more accurate solution. The complete toolchain is evaluated on several datasets with a strong focus on precision and accuracy. Current state of the art methods could be outperformed.</dc:description>
+          <dc:description xml:lang="deu">Aus den Aufnahmen mehrerer geeigneter Bilder können die 3D Informationen von einem Gegenstand oder einer Szene im Computer rekonstruiert werden. Für jedes Bild wird die Position im Raum sowie die Orientierung berechnet. Im Bereich Computer Vision wird diese Fragestellung seit mehr als zwei Jahrzehnten erfolgreich bearbeitet. Es entstanden in den letzten Jahren die ersten kommerziellen Produkte aus dem Bereich Structure from Motion, zu deutsch Struktur aus Bewegung. Mit vielen Anwendungsmöglichkeiten in den Gebieten des Reverse Engineering, der Archäologie und dem Erstellen von digitalen Stadtmodellen bieten diese Verfahren eine kostengünstige Alternative zu bestehenden Lasermesssystemen. In dieser Arbeit wird eine Verarbeitungskette zum Erstellen von 3D Rekonstruktionen aus Bildsequenzen präsentiert, welche bestehende Verfahren robuster, zuverlässiger und schneller macht. Durch die modulare Herangehensweise, aufbauend auf einer einheitlichen relationalen Datenstruktur, können viele Neuerungen und Verbesserungen einfach und unabhängig in die Verarbeitungskette integriert werden. Jedes Modul erhält dabei Zugriff auf alle Daten. In jedem Bild werden markante Punkte erkannt und paarweise Punktkorrespondenzen zwischen zwei Bildern hergestellt. Es wurde ein neues Verfahren entwickelt, welches den nächsten Nachbarn in einem hoch dimensionalen Raum findet und auf die Beschreibung von markanten Punkten angewendet wird. Verschiedene neue Verfahren wurden in die Verarbeitungskette integriert, um effizient Schleifenschlüsse zu erkennen. Die relative Orientierung zwischen zwei Bildern wird zuverlässig mit Hilfe einer hierarchischen Clusteranalyse bestimmt. Aus Bilddrillingen, welche die relative Orientierung von Bildpaaren beinhalten, wird ein Graph erstellt, aus dem für jedes Bild die Position und Orientierung abgeleitet werden kann. Diese werden mit Hilfe von nichtlinearen Optimierungsmethoden verbessert, um ein möglichst genaues Ergebnis zu erzielen. Die Verfahren wurden auf verschiedenen Datensätzen mit einem besonderen Augenmerk auf die absolute und relative Genauigkeit evaluiert. Die Ergebnisse übertreffen Verfahren, welche als Stand der Technik gelten.</dc:description>
+          <dc:date>2013-06-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1047</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40512</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40512</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1047/wefelscheid_cornelius.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

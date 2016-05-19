@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1173">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1173</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Linear optical properties of III-nitride semiconductors between 3 and 30eV</dc:title>
+          <dc:title xml:lang="deu">Lineare optische Eigenschaften von Gruppe-III-Nitrid Halbleitern zwischen 3 und 30eV</dc:title>
+          <dc:creator>Cobet, Christoph</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">This work presents the determination of the optical properties of group-III nitride semiconductors between 3 and 30eV. These are, in particular, GaN, InN and AlN in the stable wurtzite and zincblende crystal structure. Our investigation focuses on the dielectric function in the spectral region above the fundamental band gap, where the most significant structures of the dielectric function are located. In a comprehensive discussion we assign most of these absorption structures to specific interband transitions at high symmetry points in the Brillouin zone and to transitions from semi-core d states to the conduction band, respectively. For this purpose it was essential to measure both wurtzite dielectric tensor components, as well as the zincblende dielectric function. By symmetry arguments specific transitions in the zincblende crystal structure can thus be assigned to transitions in the wurtzite crystal structure. Based on these findings we suggest a new nomenclature for absorption structures in wurtzite group-III nitrides. For the determination of the dielectric function in the broad spectral range up to 30eV, we use a unique ellipsometer setup at the synchrotron light source BESSY II (Berliner Elektronenspeicherring für Synchrotronstrahlung). This was optimised according to the new requirements. For the determination of both dielectric tensor components of wurtzite crystals we use an optical model for anisotropic layers. In this connection we also present a particular solution for biaxial samples with an unintentional surface roughness.</dc:description>
+          <dc:description xml:lang="deu">Es werden die linear optischen Eigenschaften von Gruppe-III-Nitrid Halbleitern zwischen 3 und 30eV gemessen sowie die strukturellen und elektronischen Hintergründe diskutiert. Untersucht werden dazu Galliumnitrid (GaN), Indiumnitrid (InN) und Aluminiumnitrid (AlN) sowohl in der stabilen hexagonalen Wurtzit-Kristallstruktur als auch in der metastabilen kubischen Zinkblende-Kristallstruktur. Diesen Materialien gilt seit einigen Jahren ein enormes wissenschaftliches und industrielles Interesse, dass durch ihre vielfältigen Einsatzmöglichkeiten in optoelektronischen Halbleiterbauelementen induziert ist. Dennoch sind viele grundlegende physikalische und elektronische Eigenschaften noch immer unbekannt. Der Schwerpunkt der Arbeit liegt auf der Bestimmung der dielektrischen Funktion bzw. des dielektrischen Tensors oberhalb der fundamentalen Bandkante. In diesem Spektral-bereich sind die wesentlichen materialspezifischen Absorptionsstrukturen zu finden. Durch den Vergleich der Messergebnisse werden diese Absorptionsstrukturen schließlich spezifischen Interbandübergängen an Hochsymmetriepunkten in der Brillouinzone bzw. zu Anregungen von d-Elektronen aus abgeschlossenen Elektronenniveaus zugeordnet. Für diese Zuordnung, ist es von entscheidender Bedeutung, dass erstmals beide unabhängigen dielektrischen Tensorkomponenten der Wurtzit-Kristallstrukturen gemessen wurden. In einer Symmetriebetrachtung lassen sich damit Wurtzit-Absorptionsstrukturen bestimmten Zinkblende-Interbandübergängen zuordnen. Die dabei gefundenen Gemeinsamkeiten führen in diesem Zusammenhang zum Vorschlag einer geänderten Bezeichnung der spezifischen Wurtzit-Absorptionsstrukturen. Die Bestimmung der dielektrischen Funktion im Spektralbereich bis 30eV erfolgt mit einem speziellen und zugleich auch einzigartigen Ellipsometeraufbau an der Synchrotronstrahlungsquelle BESSY II (Berliner Elektronenspeicherring für Synchrotronstrahlung). Diese Apparatur wurde bereits an der Vorgänger-Synchrotronstrahlungsquelle BESSY I betrieben und musste aber für die Messungen in dieser Arbeit modifiziert und neu charakterisiert werden. Die Bestimmung der unabhängigen dielektrischen Tensorkomponenten in der anisotropen Wurtzit-Kristallstruktur erforderte weiterhin die Ableitung spezieller mathematisch/physikalischer Zusammenhänge aus einem bekannten Modell zur Ausbreitung von elektromagnetischen Wellen in anisotropen Medien. Dies führt zu einem geschlossenen Gleichungssystem, das auch für Untersuchung von anderen uniaxial anisotropen Medien mit einer definierten Oberflächenrauhigkeit genutzt werden kann.</dc:description>
+          <dc:date>2005-12-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1173</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11761</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11761</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1173/cobet_christoph.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

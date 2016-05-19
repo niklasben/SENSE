@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:513">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:513</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Cavity Beam Position Monitor for the TESLA-cryomodule : Cross-Talk minimization</dc:title>
+          <dc:title xml:lang="deu">Kavität Elektronenstrahllagemonitor für TESLA-Kryomodule</dc:title>
+          <dc:creator>Sargsyan, Vahagn</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der zukünftige, etwa 33 km lange Linearbeschleuniger TESLA hat fundamentale Bedeutung für die Entwicklung der Teilchenphysik, Festkörperphysik, Chemie, Materialwissenschaften und Biologie. TESLA benötigt zum Betrieb viele Beam-Position-Monitore (BPMs), um die Elektronenstrahllage immer unter Kontrolle zu haben. Ein grosser Teil davon (1752 Stück) soll in einer 2 K kalten kryogenischen Umgebung betrieben werden. Ziel der Arbeit war ein BPM mit folgenden Anforderungen zu entwickeln: Design und dementsprechend Fertigung sollen möglichst einfach sein, Energieverluste pro Kryomodule weniger als 1.1 Watt, Auflösung nicht schlechter als 10 µm und Übersprechen möglichst klein und stabil. Zwei BPM Arten wurden untersucht. Ausgewählt wurde eine "pill-box" Kavität. Ihr Inneres ist verkupfert, wodurch die Energieverluste von 1.1 W auf 0.46 W sinken. Zusätzlich wurde darauf geachtet, dass die resonanten Moden der Kavität schnell genug abklingen, um Bunch zu Bunch Messungen durchführen zu können. Die Interpretation der Labormessungen zeigte, dass der Prototyp eine Auflösung von 371 nm hat. Die Konstruktion des Prototyps ist unkompliziert. Er hat grösstenteils radiale Symmetrie, was eine präzise und einfache Fertigung möglich macht. Das Übersprechen wurde durch eine spezielle Geometrie minimiert und stabilisiert. Dazu wurden mittels Elektro-Erosion zwei Ausbuchtungen ins Innere der Kavität eingebracht. Im Laufe der Arbeit ist auch eine neue Idee für die Auswerteelektronik entstanden, die aufgebaut aber noch nicht getestet wurde. Falls die Elektronik wie beabsichtigt funktioniert, kann auf eine zusätzliche Kavität zur Erzeugung des Referenzsignals verzichtet werden.</dc:description>
+          <dc:description xml:lang="eng">The future 33 km long linear collider TESLA has a fundamental importance for particle physics, condensed matter physics, chemistry, material science and biology. TESLA needs a lot of Beam-Position-Monitors (BPMs) to keep the position of the beam under control. A big amount of these BPMs (1752 BPMs) should be situated at 2 K cryogenic environment. These BPMs should fulill the following demands: the design and fabrication of the BPM should be possibly simple, there should be considerably less than 1.1 Watt energy dissipation on the BPM per cryomodule,the position-resolution of the BPM should not be worse than 10 µm, the cross-talk should be small and stable. Two different types of BPMs were discussed. As a prototype we chose a pill-box cavity. The inside of the prototype is copper-plated, which reduces the energy dissipations from 1.1 W to 0.46 W. We also took care, that the resonating modes of the cavity were damped fast enough, in order to realize bunch to bunch measurements. The interpretation of laboratory measurements showed the resolution of 371 nm. The design of the cavity is not complicated. Radial symmetry of the cavity makes its fabrication easier and more precise. The cross-talk is minimized and stabilized by introducing two stamp-eroded rectangular recesses into the cavity. During the work a new idea for the electronics is born. The electronics is built but not tested yet. In case of success there would be no need to build an extra cavity for the reference signal.</dc:description>
+          <dc:date>2003-11-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/513</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5086</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5086</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/513/sargsyan_vahagn.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

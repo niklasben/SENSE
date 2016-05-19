@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2580">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2580</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Development and application of titanium dioxide coated magnetic particles for photocatalytic oxidation of aqueous phase organic pollutants</dc:title>
+          <dc:title xml:lang="deu">Entwicklung und Anwendung von Titandioxid beschichteten magnetischen Partikeln für die photokatalytische Oxidation von organischen Schadstoffen in wässrigen Systemen</dc:title>
+          <dc:creator>González Salazar, Marcelo José</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Photocatalysts with magnetic characteristics were synthesized based on a sol-gel technique by coating magnetic particles with titanium dioxide. The magnetic photocatalyst is thought to be used in slurry systems to remove organic pollutants. After the photocatalytic degradation the catalyst can be easily recovered by the application of an external magnetic field. Results showed that titanium dioxide was successfully coated onto the surface of magnetic particles, whereas TiO2 is used for the photocatalytic oxidation of organic compounds and the magnetic core is used as a carrier for the solid/liquid separation by the application of a magnetic field. Two photocatalysts were synthesized, Fe3O4/TiO2 and Fe3O4/SiO2/TiO2, exhibiting different physicochemical characteristics. The photocatalysts were used in the degradation of the three model compounds benzoic acid (BA), methyl orange (MO) and sulforhodamine B (SRB). The influences of different parameters such as amount of catalyst, substrate concentration, pH and temperature were studied. It was observed that a complete degradation of the model substances could be reached within a few hours of illumination. It was shown that the solid/liquid separation of the catalysts by means of the application of a magnetic field was effective and that a repeated use of the recycled catalysts showed reproducible photocatalytic activity. Finally, with the constants obtained from the photooxidation experiments with different amounts of catalyst and different initial organic concentrations a kinetic model was proposed. Thus, using this kinetic model the degradation rate of a particular compound can be estimated.</dc:description>
+          <dc:description xml:lang="deu">Photokatalysatoren mit magnetischen Eigenschaften wurden im Sol-Gel-Verfahren aus mit Titandioxid beschichteten magnetischen Partikeln synthetisiert. Dieser magnetische Photokatalysator wurde in Suspensionsreaktoren angewandt, in denen er nach jedem photokatalytischen Abbauzyklus leicht durch die Anwendung eines äußeren Magnetfeldes zurückgewonnen und wieder verwendet werden konnte. Die Ergebnisse zeigten, dass Titandioxid erfolgreich auf die Oberfläche der magnetischen Partikeln in Form einer TiO2-Schicht fixiert wurde, wodurch eine photokatalytische Oxidation an der Oberfläche stattfinden konnte. Der magnetische Kern als Träger dieser Schicht ermöglichte die Abtrennung durch ein Magnetfeld. Insgesamt wurden zwei Photokatalysatoren synthetisiert, Fe3O4/TiO2 und Fe3O4/SiO2/TiO2, welche jeweils verschiedene physikalisch-chemischen Eigenschaften aufwiesen. Die Photokatalysatoren wurden bezüglich ihrer Kapazität, die Verbindungen Benzoesäure (BA), Methylorange (MO) und Sulforhodamin B (SRB) abzubauen, untersucht. Bezüglich des Abbauverhaltens der drei Verbindungen wurden Einflüsse verschiedener Parameter wie Katalysatormenge, Substratkonzentration, pH-Wert und Temperatur. Es wurde beobachtet, dass unter UV-Bestrahlung ein vollständiger Abbau des Modellstoffs innerhalb von wenigen Stunden erzielt werden konnte. Es wurde gezeigt, dass der Katalysator durch Fest-Flüssig-Trennung effektiv recycelt werden konnte und dass das wieder gewonnene Material bezüglich seiner photokatalytischen Aktivität reproduzierbare Ergebnisse lieferte. Abschließend wurde ein Kinetisches Modell mit den Konstanten, die aus der photokatalytischen Oxidation bei variierter Katalysatormenge und Substratkonzentration erhalten wurden, vorgeschlagen. Somit kann die Abbaugeschwindigkeit für die bestimmte organische Substanz theoretisch geschätzt werden.</dc:description>
+          <dc:date>2010-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2580</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27084</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27084</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2580/gonzalez_marcelo.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:52Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2728">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2728</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Hydrogen Passivation of Polycrystalline Si Thin Film Solar Cells</dc:title>
+          <dc:title xml:lang="deu">Wasserstoffpassivierung von polykristallinen Siliziumdünnschichtsolarzellen</dc:title>
+          <dc:creator>Gorka, Benjamin</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">Hydrogen passivation is a key process step in the fabrication of polycrystalline Si (poly-Si) thin film solar cells. In this work a parallel plate rf plasma setup was used for the hydrogen passivation treatment. The main topics that have been investigated are (i) the role of plasma parameters (like hydrogen pressure, electrode gap and plasma power), (ii) the dynamics of the hydrogen treatment and (iii) passivation of poly-Si with different material properties. Passivation was characterized by measuring the open-circuit voltage Voc of poly-Si reference samples. Optimum passivation conditions were found by measurements of the breakdown voltage Vbrk of the plasma for different pressures p and electrode gaps d. For each pressure, the best passivation was achieved at a gap d that corresponded to the minimum in Vbrk. Plasma simulations were carried out, which indicate that best Voc corresponds to a minimum in ion energy. Voc was not improved by a larger H flux. Investigations of the passivation dynamic showed that a plasma treatment in the lower temperature range (≤ 400°C) is slow and takes several hours for the Voc to saturate. Fast passivation can be successfully achieved at elevated temperatures around 500°C to 600°C with a plateau time of 10 min. It was found that prolonged hydrogenation leads to a loss in Voc, which is less pronounced within the observed optimum temperature range (500°C-600°C). Electron beam evaporation has been investigated as an alternative method to fabricate poly-Si absorbers. The material properties have been tuned by alteration of substrate temperature Tdep = 200-700°C and were characterized by Raman, ESR and Voc measurements. Largest grains were obtained after solid phase crystallization (SPC) of a-Si, deposited in the temperature range of 300°C. The defect concentration of Si dangling bonds was lowered by passivation by about one order of magnitude. The lowest dangling bond concentration of 2.5x10^16 cm-3 after passivation was found for poly-Si with largest grains and coincides with best solar cell results, obtained after rapid thermal annealing and hydrogen passivation. Hydrogen passivation of poly-Si films was successfully achieved with a parallel plate rf H plasma treatment at elevated temperatures around 500°C to 600°C. Yet it seems that treatment induced defect generation causes a loss in Voc with prolonged passivation time and should be minimized. In order to achieve high open circuit voltages larger than 450 mV, in addition to hydrogen passivation, low recombination at the interfaces becomes more and more important.</dc:description>
+          <dc:description xml:lang="deu">Die Wasserstoffpassivierung ist ein zentraler Prozess in der Herstellung von polykristallinen Si (poly-Si) Dünnschichtsolarzellen. Im Rahmen der Arbeit wurde ein RF-Parallelplattenreaktor für die Wasserstoffbehandlung eingesetzt. Schwerpunkte der Untersuchungen waren (i) die Rolle von Plasmaparametern (wie Druck, Elektrodenabstand und Leistung), (ii) die Dynamik der Wasserstoffbehandlung und (iii) das Zusammenspiel aus Passivierung und Materialeigenschaften. Die Charakterisierung erfolgte anhand von Messungen der Leerlaufspannung Voc an poly-Si Referenzzellen. Durch Messungen der Plasma-Durchschlagspannung Vbrk wurden optimale Bedingungen für die Passivierung gefunden. Beste Ergebnisse wurden bei Elektrodenabständen erzielt, bei denen Vbrk für den jeweiligen Druck ein Minimum hatte. Es wurden Plasmasimulationen durchgeführt, die nahe legen, dass dies einer Minimierung der Ionenenergie entspricht. Eine Erhöhung des Wasserstoffgehaltes im Plasma führte dagegen zu keiner Verbesserung der Passivierung. Untersuchungen zur Dynamik zeigten, dass eine Wasserstoffbehandlung bei geringen Temperaturen (≤ 400°C) mehrere Stunden dauert. Dagegen kann diese bei erhöhten Temperaturen von 500°C bis 600°C in nur 10 min (Plateauzeit) erfolgreich durchgeführt werden. Anhaltende Behandlungen führten zu einer Verschlechterung von Voc, vor allem ober- und unterhalb des beobachteten Optimums (&lt;500°C und &gt;600°C). Als alternatives Verfahren zur Herstellung von poly-Si Schichten wurde die Elektronenstrahlverdampfung untersucht. Unterschiedliche Materialeigenschaften wurden durch Variation der Depositionstemperatur Tdep =200-700°C eingestellt und mithilfe von Raman und ESR untersucht. Große Körner wurden nach Festphasenkristallisation von amorphem Si, das bei 300°C abgeschieden wurde, erreicht. Die Anzahl offener Si-Bindungen konnte mittels Passivierung um etwa eine Größenordnung reduziert werden. Die niedrigste Konzentration von 2.5x10^16 cm-3 wurde für poly-Si mit den größten Körnern gefunden und steht im Einklang zu den besten Solarzellenergebnissen (nach RTA und Passivierung). Die Wasserstoffpassivierung von poly-Si Filmen konnte bei hohen Temperaturen von 500°C bis 600°C mittels Plasmabehandlung erfolgreich durchgeführt werden. Jedoch scheinen im Laufe der Plasmabehandlung auch neue Defekte zu entstehen, die mit andauernder Passivierung zu einer Verschlechterung von Voc führen. Dieser Effekt sollte minimiert werden. Um hohe Leerlaufspannungen oberhalb von 450 mV zu erreichen, wird zunehmend auch eine niedrige Rekombination an Grenzflächen wichtig.</dc:description>
+          <dc:date>2011-01-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2728</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28848</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28848</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2728/gorka_benjamin.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

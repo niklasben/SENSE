@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3603">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3603</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Verlustoptimaler Betrieb einer elektrisch erregten Synchronmaschine für den Einsatz in Elektrofahrzeugen</dc:title>
+          <dc:title xml:lang="eng">Loss-Optimized Operation of a Wound-Field Synchronous Machine for Application in Electric Vehicles</dc:title>
+          <dc:creator>Grune, Rayk</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird untersucht, wie ein Fahrzeugantrieb mit elektrisch erregter Synchronmaschine im gesamten Betriebsbereich mit minimalen Verlusten betrieben werden kann. Ein Prototyp einer Synchronmaschine für den Einsatz in Fahrzeugen und ein Umrichter aus dem Laborumfeld dienen als Antrieb zum Gegenstand der Untersuchungen. Für die umfangreichen Messungen am Antrieb wird ein Prüfstand entwickelt und eine Messeinrichtung unter besonderer Beachtung der Störsicherheit integriert. Das elektrische Verhalten der Synchronmaschine wird mit einem Grundwellenmodell nach der Zweiachsentheorie im rotorfesten Bezugssystem beschrieben. Zur Berücksichtigung der Sättigung werden die Induktivitäten aus einer Magnetisierungskennlinie in Abhängigkeit des Magnetisierungsstroms berechnet. Das Modell wird mit einem numerischen Optimierungsverfahren gegenüber gemessenen Betriebspunkten parametrisiert. Die Einzelverluste des Antriebs werden aus Messungen bestimmt und als Funktionen der Ströme und der Drehzahl angenähert. Dabei existiert ein optimales Verhältnis von Längs-, Quer- und Rotorstrom, welches die Einzelverluste so aufteilt, dass deren Summe ein Minimum annimmt. Die Eigenschaften dieser vom Arbeitspunkt abhängigen Stromaufteilung werden charakterisiert. Zu ihrer Berechnung oder Annäherung werden verschiedene Steuerverfahren, ein Online-Suchverfahren und numerische Optimierungsmethoden untersucht. Alle Verfahren werden bezüglich der verursachten Verluste und des Aufwands zur Realisierung bewertet und miteinander verglichen. Abschließend wird eine quantitative Abschätzung des Einsparpotentials beim verlustminimiertem Betrieb in Elektrofahrzeugen gegeben.</dc:description>
+          <dc:description xml:lang="eng">In this thesis, it is investigated, how an electric vehicle drive based on a wound-field synchronous machine can be operated to obtain minimum losses across the entire operating range. Therefore, a prototype synchronous motor designed for application in an electric vehicle and a universal power electronic converter form the drive that is to be researched. To enable the extensive measurements needed for characterizing the drive, a test bench has been developed under special consideration of electromagnetic noise immunity. The electric behavior of the synchronous machine is described using the fundamental wave model in the rotor reference frame according to the two-axis theory. In order to also include saturation effects, the respective inductances are derived from the magnetization curve in dependence of a single magnetizing current. The model parameters are determined by numeric optimization to match with the measurements previously taken at certain operating points. The individual losses of the drive are obtained from measurements and are subsequently approximated as functions of currents and speed. Thereby an optimal combination of direct, quadrature and rotor currents can be found, for which these losses amount to a total minimum. The respective distribution of currents depends on the operating point and will be characterized. For its approximation or computation, several control methods and offline numeric optimization techniques as well as an online search algorithm are employed. All methods are evaluated with respect to resulting losses and implementation complexity and compared with each other. Finally, a quantitative estimate of the energy saving potential by application of optimized operation in an electric vehicle is given.</dc:description>
+          <dc:date>2013-01-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3603</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38131</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38131</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3603/grune_rayk.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1345">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1345</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die analytische und algebraische Struktur frequenzselektiver Vektorkanäle und deren Einfluss auf die Zeitbereichsentzerrung</dc:title>
+          <dc:title xml:lang="eng">The Analytical and Algebraical Structure of Frequency Selective MIMO Channels and its Influence on Time Domain Equalization</dc:title>
+          <dc:creator>Pohl, Volker</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die mathematische Struktur der Übertragungsgleichung von frequenzselektiven linearen Systemen mit mehreren Eingängen und Ausgängen untersucht. Die analytischen und algebraischen Eigenschaften der Übertragungsgleichung geben Aufschluss darüber ob Entzerrfilter mit gewissen angestrebten systemtheoretischen Eigenschaften existieren, und gegebenenfalls wie solche Filter bestimmt werden können. Im ersten Teil der Arbeit wird die folgende allgemeine Fragestellung betrachte: Gegeben sei ein System mit bestimmten systemtheoretischen Eigenschaften. Unter welchen Bedingungen an die Übertragungsgleichung existiert ein Entzerrfilter mit den gleichen systemtheoretischen Eigenschaften welcher den Einfluss des linearen Systems vollständig beseitigen kann? Der in dieser Arbeit gewählte Ansatz erlaubt eine sehr allgemeine Beantwortung dieser Frage für unterschiedlichste Systemeigenschaften. Der zweite Teil konzentriert sich auf eine spezielle Klasse von linearen Systemen, deren Übertragungsgleichungen durch Transversalfilter endlichen Grades dargestellt werden können. Da sich solche Systeme praktisch sehr einfach realisieren lassen, sind sie von besonderem Interesse. Die Arbeit zeigt, dass die algebraische Struktur solcher Systeme vollständig durch ihre so genannten Elementarteiler und minimalen Indizes bestimmt wird. Sie geben Auskunft darüber ob entsprechende Entzerrfilter existieren und wie deren algebraische Struktur aussieht. Die Ergebnisse werden auf unterschiedliche Fragestellung des Filterentwurfs angewendet.</dc:description>
+          <dc:description xml:lang="eng">This thesis investigates the mathematical structure of transfer functions of frequency selective linear systems with multiple inputs and multiple outputs. The analytical and algebraical properties of the transfer function reveals whether there exists an equalizing filter with certain desired system theoretical properties. Moreover in some cases they directly determine the structure of the desired equalizer. The first part of this work considers the following general problem: Given a linear system with certain system theoretical properties. Which conditions has the transfer function to satisfy such that an equalizer with the same system theoretical properties exists which can completely invert the influence of the linear system? The approach, taken in this work, allows a quite general answer for very different system properties. The second part of this thesis investigates a special class of linear systems, namely systems with a finite impulse response. Such systems are of great practical importance since they can easily be realized in practical applications. This work shows that the algebraic structure of these systems is completely determined by its so called elementary divisors and minimal indices. These values show whether a corresponding equalizer with finite impulse response exists, and they determine the algebraic structure of these equalizers. The results are applied to different problems in filter design.</dc:description>
+          <dc:date>2006-10-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1345</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13935</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13935</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1345/pohl_volker.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

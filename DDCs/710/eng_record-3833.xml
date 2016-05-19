@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3833">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3833</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Urban Challenges and Urban Design Approaches for Resource-Efficient and Climate-Sensitive Urban Design in the MENA Region </dc:title>
+          <dc:creator>Pahl-Weber, Elke</dc:creator>
+          <dc:creator>Seelig, Sebastian</dc:creator>
+          <dc:creator>Ohlenburg, Holger</dc:creator>
+          <dc:creator>Kuhla von Bergmann, Nadine</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="eng">In an era defined by climate change, huge resource consumption, a lack of social cohesion, rapidly accelerating technological innovations, economic shifts, and the transformation of political systems, solutions must be pursued at every level of action. This book shows how solutions from urban design and planning can, by integrating the approaches of multiple disciplines, be the first steps toward envisioning the sustainable, energy-efficient, and climate-sensitive city of the future. &#13;
+This book is compiled for readers from a range of professional backgrounds. Its intended audience includes the government bodies, municipalities, urban planners, engineers, architects, civil servants, and citizens who are part of urban development, from initiation through implementation. The facts and findings presented herein are relevant to any national or international debate concerning urban development which aims to create sustainable, resource-efficient, and climate-sensitive urbanization processes. The text and visuals of this book are intended to serve as a comprehensive decision support tool, taking into account that current and future urban challenges and planning tasks can only be tackled through an interlinked and stakeholder driven iterative process. &#13;
+As a result of the Young Cities research project, this book acts as a multilayered reference manual by providing: (a) a brief outline of the MENA region’s urban challenges; (b) a proposal for generic principles and actions for creating an energy- and resource-efficient as well as environmentally sustainable urban environment; (c) the opportunities and impacts of each discipline involved in an integrated planning process; and (d) the findings of the applied principles in the 35 ha “Shahre Javan Community�? pilot project.&#13;
+</dc:description>
+          <dc:date>2013-04-22</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3833</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39519</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39519</dc:identifier>
+          <dc:identifier>978-3-7983-2535-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3833/05_young_cities_research_paper_series.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

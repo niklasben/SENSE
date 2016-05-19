@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4297">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4297</identifier>
+        <datestamp>2013-11-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+        <setSpec>ddc:6</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">In vivo quantification of absorption changes in the human brain by time-domain diffuse near-infrared spectroscopy</dc:title>
+          <dc:title xml:lang="deu">Quantifizierung von Absorptionsänderungen im menschlichen Gehirn in vivo mittels zeitaufgelöster Nahinfrarotspektroskopie</dc:title>
+          <dc:creator>Jelzow, Alexander</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:subject>ddc:6</dc:subject>
+          <dc:description xml:lang="eng">Measurement of the brain activity is essential for the understanding of brain function and potentially for the diagnosis of brain pathologies. Human brain activity is accompanied by cerebral haemodynamics, i.e. local concentration changes of oxy- and deoxyhaemoglobin. These changes can be measured non-invasively and in vivo by functional near-infrared spectroscopy (fNIRS) which thereby provides an indirect measure of the brain activity. However, accurate quantification of haemoglobin concentrations is hampered by the strong light scattering of tissue, the heterogeneous structure of the head and the depth of the brain cortex. Moreover, non-cerebral haemodynamics overlay the desired cerebral signals and can mask the actual brain activity. &#13;
+In this thesis a time-domain NIRS technique together with data analysis based on moments of distributions of time of flight of photons was employed to improve the quantification. For retrieval of haemoglobin concentration changes an improved method was developed. It is based on an approximation of the head by a layered structure and uses experimental data to adapt reconstruction related parameters to the individual measurement. This method was validated on a two-layered phantom and applied to data obtained on healthy subjects in vivo. The results were also compared to data from a reconstruction based on a homogeneous semi-infinite medium. This method benefits from the intrinsic depth selectivity of the higher order moments only. In addition, time-domain fNIRS in vivo measurements were performed in combination with other neuroimaging modalities and the recording of systemic physiological signals. The obtained data was used for validation based on the complimentary information provided by the different modalities. &#13;
+With a two-layered heterogeneous phantom absorption changes were retrieved using the approach based on the layered medium with an accuracy of ± 10%. In the in vivo case it was possible to separate superficial and cerebral haemodynamics. Furthermore, the intrinsic underestimation of the cerebral absorption changes obtained using the model of the homogeneous medium was strongly reduced if the new approach based the layered structure was used. In the in vivo case this results in up to tenfold higher haemoglobin concentration changes. &#13;
+The approach presented here allows for improved quantification of cerebral haemodynamics in fNIRS studies. The separation of the superficial signal contribution leads to more reliable detection of the brain activation.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Das Vermessen der Gehirnaktivität ist essentiell für das Verständnis von Hirnfunktion und potentiell auch für die Diagnose von Hirnerkrankungen. Die Hirnaktivität wird begleitet von zerebralen hämodynamischen Prozessen, die durch lokale Konzentrationsänderungen von Oxy- und Desoxyhämoglobin in Erscheinung treten. Mittels der funktionellen Nahinfrarotspektroskopie (fNIRS) können diese Änderungen, und damit indirekt die Hirnaktivität, in vivo und nicht-invasiv gemessen werden. Jedoch wird eine genaue Quantifizierung der Konzentrationsänderungen durch die starke Lichtstreuung im Gewebe, die heterogene Kopfstruktur und das tiefliegende Gehirn erschwert. Darüber hinaus überlagern nicht-zerebrale hämodynamische Prozesse das zerebrale Signal und können die eigentliche Hirnaktivierung verschleiern. &#13;
+In dieser Arbeit wurde die Quantifizierung der Konzentrationsänderungen mit Hilfe der zeitaufgelösten Nahinfrarotspektroskopie in Verbindung mit der Momentenmethode zur Analyse von Photonen-Laufzeit-Verteilungen verbessert. Zur Berechnung von Hämoglobinkonzentrationsänderungen wurde basierend auf einem Schichtmodel des Kopfes eine Rekonstruktionsmethode entwickelt, bei der die Rekonstruktionsparameter individuell anhand der experimentellen Daten anpasst werden. Diese Methode wurde mit Hilfe eines Zwei-Schicht-Phantoms validiert und auf Messdaten angewendet, die in vivo an gesunden Probanden gewonnen wurden. Die Ergebnisse der Rekonstruktion wurden auch mit denen aus einer Rechnung verglichen, die auf einem Modell des homogenen semiinfiniten Mediums basiert und ausschließlich von der intrinsischen Tiefenselektivität der Momente höherer Ordnung profitiert. Außerdem wurde die zeitaufgelöste fNIRS-Technik mit anderen Neuroimaging-Techniken und Aufzeichnungen von systematisch-physiologischen Signalen bei in vivo-Messungen kombiniert. Die unterschiedlichen Modalitäten lieferten komplementäre Informationen, die zur Validierung von fNIRS benutzt wurden. &#13;
+Am heterogenen Zwei-Schicht-Phantom konnten mit Hilfe der auf dem Schichtmodel basierenden Methode Absorptionsänderungen mit einer Genauigkeit von ± 10 % rekonstruiert werden. In Falle von in vivo-Daten war es damit möglich, die oberflächlichen und zerebralen hämodynamischen Verläufe zu trennen. Während der homogene Ansatz Absorptionsänderungen immanent unterschätzt, ist die schichtbasierte Methode in der Lage dies zu kompensieren. Das resultiert in bis zu zehnfach größeren Werten von Hämoglobinkonzentrationsänderungen. &#13;
+Die hier vorgeschlagene schichtbasierte Methode ermöglicht, die Quantifizierung zerebraler hämodynamischer Verläufe zu verbessern. Die Abtrennung der oberflächlichen Signalanteile führt zur zuverlässigeren Detektion der Hirnaktivität.&#13;
+</dc:description>
+          <dc:date>2013-10-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4297</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-42972</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-42972</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4297/jelzow_alexander.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

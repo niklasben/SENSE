@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:609">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:609</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Strahllagemonitor für das TESLA-Energiespektrometer</dc:title>
+          <dc:title xml:lang="eng">Beam Position Monitor for the TESLA Energy Spectrometer</dc:title>
+          <dc:creator>Liapine, Alexei</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurden das Prinzip, der Entwurf und die Überprüfung von präzisen resonanten Strahllagemonitoren am Beispiel des Monitors fur das Spektrometer des TESLA-Linearcolliders betrachtet.Es wurden die theoretischen Aspekte des Monitorbaus behandelt, und es wurden die wichtigsten Faktoren diskutiert, die die Auflösung des resonanten Strahllagemonitors beeinflussen. Als Vorschlag fur den Resonator ergab sich eine Struktur, in der das Nutzsignal durch die Verwendung einer Kombination aus einem rechteckigen Schlitz innerhalb des Resonators und einem Hohlleiter ausgekoppelt wird und die Störsignale unterdrückt werden. Zur Überprüfung der Rechnungen und der theoretischen Voraussetzungen wurden zwei Monitorprototypen fur die Frequenzen 1,5 GHz und 5,5 GHz entwickelt und ihre elektrodynamische Eigenschaften gemessen. Fur den 1,5 GHz-Prototypen wurde eine Homodyn-Empfängerelektronik entwickelt und getestet. Diese wandelt das Nutzsignal des Monitors in das fur die Digitalisierung gunstige Niederfrequenzsignal um. Fur eine Abschätzung der Auflösung der Monitore wurden die beiden Prototypen auf einem dafur geeigneten Meßstand getestet, in dem eine Anregungsantenne den Elektronenstrahl simuliert. Beim 1,5 GHz-Prototypen erreicht die gemessene Auflösung 130 nm, obwohl die Anregung bei der Messung 20-fach schwächer als bei einem Strahl mit einer Bunchladung von 3,2 nC war. Der Bereich der Strahlabweichungen, in dem die Genauigkeit besser als 1 um bleibt, betragt beim 1,5 GHz-Prototypen +/- 0,9 mm. Eine Abschätzung der Störsignale ergab eine Störung, die einer Abweichung von 150 nm äquivalent ist. Beim 5,5 GHz-Prototypen wurde eine Auflösung von 300 nm gemessen und der Messbereich des Monitors war +/- 700 um. Als Schlussfolgerung ergibt sich, dass beide Varianten des Monitors fur die Messung der Strahllage beim TESLA-Spektrometer verwendet werden konnen. Dabei ist der 5,5 GHz-Monitor zu bevorzugen, weil er kompakt und leicht ist, was seine präzise Verschiebung bei der Verwendung im Spektrometer ermöglicht. Auch seine Vakuum-Konstruktion ist einfacher als beim 1,5 GHz-Monitor und die Zeitauflösung ist höher. Daruber hinaus kann die Lage der einzelnen Bunche bei höheren Bunchwiederholfrequenzen gemessen werden.</dc:description>
+          <dc:date>2004-02-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/609</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-6035</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-6035</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/609/liapine_alexei.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

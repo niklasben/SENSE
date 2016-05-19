@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3524">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3524</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Untersuchungen zur Reduktion des turbulenten Reibungswiderstands durch aktiv und passiv oszillierende Wandstrukturen</dc:title>
+          <dc:title xml:lang="eng">Numerical investigation of oscillating wall structures for turbulent drag reduction</dc:title>
+          <dc:creator>Kramer, Felix</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Reduktion des turbulenten Reibungswiderstands ist ein wichtiger Baustein, um die Energieeffizienz von Strömungsmaschinen und Transportsystemen zu erhöhen. Die vorliegende Arbeit kombiniert passive Riblet-Strukturen, die bereits eine moderate Widerstandsreduktion erreichen, mit einer oszillierenden Anregung, um die Widerstandsreduktion weiter zu steigern. Die oszillierende Anregung ist dabei an das Verfahren der oszillierenden Wand angelehnt, das bei hohem Energieeinsatz eine starke Widerstandsreduktion bewirkt. Die vorliegende Arbeit untersucht mit Direkten Numerischen Simulationen eine aktive und zwei passive Kombinationsarten. Zunächst wird mithilfe oszillierend kippender Lamellen aktiv eine Querschwingung des Fluides angeregt. Die Simulationen dieser Arbeit zeigen mit dieser Methode erstmals eine erfolgreiche Steigerung der Widerstandsreduktion gegenüber einer unbewegten Riblet-Struktur. Anschließend wurde für passiv kippende Lamellen erfolgreich eine starke, vollständige Kopplung zur Fluid-Struktur-Interaktion im verwendeten Strömungslöser implementiert. Mit dem eingesetzten Torsionsfedermodell und unter den betrachteten Parametersätzen konnte jedoch keine Widerstandsreduktion, welche über die der unbeeinflussten Riblet-Struktur hinausgeht, gefunden werden. Als letzte passive Kombinationsart zwingen wellenförmige Riblet-Strukturen die Strömung der Wellenform zu folgen und regen so eine Oszillation an. Diese passive Methode wurde anhand von Variationen der Amplitude und der Wellenlänge umfangreich untersucht. Allerdings konnte keine zusätzliche Widerstandsreduktion für die untersuchten Parametersätze gefunden werden. Es hat sich jedoch herausgestellt, dass die Druck- und Reibungskräfte hervorragend mit dem Verhältnis von Amplitude zu Wellenlänge skalieren. Da dies auch für die angeregte Quergeschwindigkeitsamplitude gilt, ist es nun möglich, a priori die gewünschte Anregung über die Wellenform festzulegen. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen ISBN 978-3-7983-2469-5</dc:description>
+          <dc:description xml:lang="eng">Reduction of turbulent skin friction is an important step towards increasing the efficiency of fluid machinery and transportation systems. In the present work, passive riblet structures that achieve a moderate drag reduction are combined with an oscillating excitation to further improve the drag reduction. The excitation is inspired by the oscillating wall method, which achieves a strong drag reduction although a very large amount of energy is spent. Using Direct Numerical Simulations one active and two passive combinations are investigated. At first, tilting lamellae are used to induce an oscillatory motion by active means. The simulations show that this method successfully increases the drag reduction compared to stationary riblets. Furthermore, a strongly-coupled fluid-structure interaction algorithm was implemented to investigate passively tilting lamellae. Applying a torsion spring model, no additional drag reduction could be found within the investigated parameter space. The second passive combination consists of spatially undulated riblets, which force the main flow to follow the wavy structure and consequently induce an oscillatory motion. This passive method was thoroughly investigated by variation of the amplitude and the wavelength. However, no additional drag reduction was found compared to straight riblets. It could be demonstrated that the pressure and friction forces scale very well with the ratio of the amplitude to the wavelength. Additionally, it was found that this ratio allows the achieved fluid oscillation to be predicted without simulation. Printed Version published by Universitätsverlag der TU Berlin www.univerlag.tu-berlin.de) ISBN 978-3-7983-2469-5</dc:description>
+          <dc:date>2012-11-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3524</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37008</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37008</dc:identifier>
+          <dc:identifier>978-3-7983-2470-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3524/9783798324695_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3524/9783798324695_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

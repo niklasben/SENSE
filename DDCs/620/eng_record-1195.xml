@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1195">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1195</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Optimierung frequenzvarianter Nullbeamformer für akustische Signale mittels Statistik höherer Ordnung - Anwendungen im Kfz und in Büroräumen</dc:title>
+          <dc:title xml:lang="eng">Optimization of frequency-variant null-beamformers for acoustic signals via higher order statistics</dc:title>
+          <dc:creator>Baumann, Wolf</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Verfahren der mehrkanaligen Störgeräuschunterdrückung, wie z.B. Beamforming haben aufgrund gesunkener Kosten für die entsprechenden Hardwarekomponenten stark an Bedeutung gewonnen. In dieser Arbeit wird das Verfahren des frequenzvarianten Nullbeamforming entwickelt, das als Kombination der Konzepte Beamforming und blinde Quellentrennung verstanden werden kann. Es zeichnet sich sowohl durch einen vergleichsweise niedrigen Rechenaufwand als auch durch eine geringe Nutzsignalverzerrung aus. Um ein grundlegendes Verständnis für die Funktionsweise von Beamforming-Verfahren für Mikrofonarrays zu schaffen, werden zunächst die Prinzipien der mehrkanaligen Störgeräuschunterdrückung analysiert. Adaptive Beamformer weisen bereits einige Analogien zu den Methoden der blinden Quellentrennung konvolutiver Mischungen auf. Sie kommen im Vergleich zu fest entworfenen Arrays mit deutlich weniger Mikrofonen für die Unterdrückung gerichteter Störsignale aus. Nachteilig ist bei adaptiven Beamformern jedoch, dass bei einer fehlerhaften Adaption, insbesondere bedingt durch die feste Vorgabe der Nutzsignalrichtung, das interessierende Sprachsignal verzerrt werden kann. Verfahren, die nicht nur die räumliche Charakteristik des Stör- sondern auch des Nutzsignals nachregeln können, also alle beteiligten Signale berücksichtigen, weisen diesen Nachteil nicht auf. Ein äußerst leistungsfähiges Kriterium zur Unterscheidung von gerichteten Signalen ist durch die Analyse der statistischen Unabhängigkeit (ICA - Independent Component Analysis) gegeben. ICA-basierte Verfahren werden auch in anderen Gebieten der Signalverarbeitung für die Trennung von Signalgemischen eingesetzt. Da sie nur sehr wenig Vorwissen über die Quellsignale und deren Vermischung erfordern, hat sich in diesem Zusammenhang der Begriff blinde Quellentrennung etabliert. Durch das Kriterium der statistischen Unabhängigkeit lassen sich die intersensorischen Beziehungen der einzelnen Signalkomponenten aufdecken, deren Kenntnis für die Trennung zwingend erforderlich ist. Im Kontext von Mikrofonarrays können diese Signalabhängigkeiten als räumliche Größen interpretiert werden, da die Dämpfung eines gerichteten Signals durch das Ausnullen der entsprechenden Einfallsrichtung erreicht wird. Dies ist die Grundlage für das in dieser Arbeit entwickelte Verfahren des frequenzvarianten Nullbeamforming, bei dem die Nullrichtungen mit Hilfe von Statistik höherer Ordnung so bestimmt werden, dass die Ausgangssignale statistisch unabhängig voneinander sind. Damit ist es gelungen, die Vorzüge der beiden Ansätze Beamforming und blinde Quellentrennung in einem robusten Verfahren zu vereinen, das für den Einsatz in realzeitfähigen Systemen geeignet ist. Die theoretischen Erkenntnisse werden sowohl anhand simulierter Umgebungsbedingungen eines Büroraumes mit veränderlicher Nachhallzeit als auch durch die Anwendung auf reale Sprachdaten im Kraftfahrzeug verifiziert.</dc:description>
+          <dc:description xml:lang="eng">Methods of multichannel noisereduction, e.g. beamforming, have gained more and more impact, due to reduced hardware costs. In this thesis the method of frequency-variant null-beamforming is developed, which can be interpreted as a combination of the concepts of beamforming and blind source separation. The advantage of this method is not only the low computational cost but also the low distortion of the desired signal. For the derivation of frequency-variant null-beamforming, the principles of multichannel signal processing are analyzed, which gives a deeper understanding of beamforming algorithms used for microphone arrays. Adaptive beamformers show some analogies to methods of blind source separation and they need fewer microphones than fixed beamformers. Disadvantageous is the possible speech distortion, especially in case of wrong adaptation due to the fixed look direction. Methods that take the spatial characteristics of all signals into account do not show this drawback. A powerful criterion for discrimination between coherent signals is given by the degree of statistical independence, which is exploited also in other areas of signal processing for blind separation of mixed signals. Via measuring statistical independence the intersensoric dependencies can be revealed, which is necessary for the reconstruction of the source signals. In the context of microphone arrays, these parameters can be interpreted as spatial quantities, because the suppression of an interfering signal is achieved by placing a null in its direction of arrival. This is the basis of frequency-variant null-beamforming, which estimates null-directions using higher order statistics so that the output signals are as independent from each other as possible. So the advantages of both approaches beamforming and blind source separation are united in a robust method, capable of real-time processing. The theoretical insights are not only verified by simulation of an office room with variable reverberation time but also by the application of the algorithm to real speech data recorded inside a car.</dc:description>
+          <dc:date>2006-01-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1195</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12103</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12103</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1195/baumann_wolf.PDF</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

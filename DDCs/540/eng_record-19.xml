@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:19">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:19</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Rheo-optische Experimente zur Hydro- und Thermodynamik von Polymeren in verdünnten Lösungen</dc:title>
+          <dc:title xml:lang="eng">Rheo-optical Investigations of the Hydro- and Thermodynamics of Polymers in Dilute Solutions</dc:title>
+          <dc:creator>Pönitsch, Michael</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Um das hydro- und thermodynamische Verhalten einer verdünnten Polymerlösung in Scherströmung auf molekularer Ebene zu beobachten und zu verstehen, wurde mit Hilfe der sogenannten 3-dimensionalen Lichtstreuung der Gyrationsraum der einzelne Makromoleküle bei zunehmender Scherrate detektiert. Es gelang, die theoretisch vorausgesagte Entwicklung des in Ruhe kugelförmigen Gyrationsraums zu einer ellipsoidalen Gestalt mit drei unterschiedlichen Halbachsen zu verfolgen und deren Längen und Orientierung für alle angelegten Scherraten quantitativ zu erfassen. Als Mittelung über alle drei Halbachsen wird eine aufweitende Deformation gefunden, die allerdings weit hinter den theoretischen Voraussagen zurückbleibt. Oberhalb einer kritischen Scherrate geht im hier verwendeten System Polystyrol/Dioctylphthalat das Einzelmolekülverhalten über in ein kollektives Verhalten, das sich in der 3-d-Lichtstreuung als eine drastische Vergrößerung der Streuobjekte in alle Richtungen darstellt und als eine Zusammenlagerung der einzelnen Moleküle zu Aggregaten gedeutet wird. Diese Deutung unterstützen simultan zur Streulichtdetektion durchgeführte viskosimetrische Messungen, die eine über die normale Scherverdünnung hochmolekularer strukturviskoser Lösungen hinausgehende Viskositätsabnahme zeigen. Ob diese sogenannte scherinduzierte Aggregation als eine Phasenseparation im Sinne der Thermodynamik angesehen werden kann, ist nach wie vor umstritten. Die Entwicklung des zweiten osmotischen Virialkoeffizienten mit steigender Scherrate sowie die Abhängigkeit der kritischen Scherrate des Auftretens der Aggregation von den Parametern Temperatur, Polymerkonzentration und Molmasse lassen sich jedoch genau in diesem Sinne deuten. Der elastische Energieanteil, den die Polymere unter Scherung aufnehmen, ist dabei die energetisch-thermodynamische Ursache dieser Aggregation. Dies ergibt keinen Wiederspruch zu Beschreibungen, die von sich verstärkenden hydrodynamischen Konzentrationsfluktuationen ausgehen. Sie können als Beschreibung einer Aggregationskinetik verstanden werden, deren Ursachen auch in einer (gleichgewichts-)thermodynamischen Terminologie formuliert werden können und die in der bekannten spinodalen Entmischung bei ruhenden Lösungen ihr Analogon findet.</dc:description>
+          <dc:description xml:lang="eng">In order to understand the hydro- and thermodynamic behaviour of a dilute polymer solution in a shear flow on a molecular scale, the area of gyration of the single macromolecules was detected by the method of 3-dimensional light scattering. The theoretically predicted development of the gyration area which is spherical at rest to an ellipsoidal shape with three different half-axes was successfully observed and the length and orientation of these axes were determined quantatively at all applied shear rates. As a mean value for all the three half-axes a widening deformation is found, although the effect is smaller than theoretically predicted. Above a critical shear rate the behaviour of the single molecule in the investigated system of polystyrene in dioctylphthalate changes to a collective behaviour, which is displayed in the 3-d light scattering as a drastic growth of the scattering objects and which is interpretated as an agglomeration of the single molecules to aggregates. This interpretation is supported by viscometric measurements performed simultaneously to the scattered light detection, which show a decrease of viscosity far beyond the normal shear thinning of high molecular solutions. It is still contended whether this shear-induced aggregation can be viewed as a phase separation in a thermodynamic sense. However, the development of the second osmotic virial coefficient at increased shear rates and the dependency of the critical shear rate of aggregation on temperature, polymer concentration and molar mass allow this interpretation. The elastic energy which the polymers obtain under shear is the energetic-thermodynamic reason for this aggregation. Ihis is not a contradiction to explanations which assume self increasing hydrodynamic concentration fluctuations. These can be understood as the kinetics of the aggregation, whose cause can also be expressed in (equilibrium) thermodynamic terms. They have an analogue in the well known spinodal demixing of quiescent solutions.</dc:description>
+          <dc:date>1999-01-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/19</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-192</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-192</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/19/poenitsch_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

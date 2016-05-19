@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1613">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1613</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Ultrasound Technique for the Dynamic Mechanical Analysis (DMA) of Polymers</dc:title>
+          <dc:title xml:lang="deu">Ultraschall Technik zur Dynamische Mechanische Analyse (DMA) von Polymeren</dc:title>
+          <dc:creator>Mc Hugh, Jarlath</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The objective of this work is to demonstrate practical application and sensitivity of ultrasound as a high frequency Dynamic Mechanical Analysis DMA technique. Conventional DMA techniques typically employ dynamic shear or tensile loading at frequencies between 0.1 to 50 Hz and are commonly used to determine thermo-mechanical behaviour of polymers. In principle, wave propagation techniques for example using ultrasound sensors can also be employed for DMA of materials. Depending on type of wave propagated, shear G´, G´´, longitudinal L´, L´´ storage or loss modulus and tan(�?�) may be determined from the measured acoustic parameters sound velocity and attenuation. In contrast to conventional DMA for wave propagation techniques the influence of several additional factors need to be taken into account before accurate interpretation and quantitative evaluation of the results is possible. Factors considered include influence of high measurement frequency, dispersion, hysteresis, reflections at material boundaries, and change in material density as well as the influence of temperature on the experimental set-up. A wide range of experimental data was obtained by using different acoustic sensors operating in the frequency ranges from 400 to 800 kHz and 3 to 6 MHz. All experiments take place in a temperature range from 20 to 200°C on a fully cured epoxy. The ultrasound results are compared to the tensile moduli E´, E´´ and tan(�?�) measured using a conventional DMA technique operating at 0.1 to 33 Hz. Using different evaluation strategies such as the Williams Landel Ferry WLF equation it was possible to interpret the information available providing a unique opportunity to study the sensitivity of wave propagation to variations in the viscoelastic behaviour of a polymer. Secondly using this background knowledge, experimental results are presented showing the sensitivity of ultrasound parameters to the polymerisation reaction and to the material state transformations gelation and vitrification. For these investigations an uncured epoxy material is used and cured over a range of temperatures. To support and verify conclusions information relating to the chemorheology of the resin system both Differential Scanning Calorimeter DSC and rheological techniques are employed. The results for all measurement techniques are summarised and presented as a function of degree of cure and with the aid of the Arrhenius relationship it is possible to evaluate the sensitivity of ultrasound as a DMA technique used to monitor the curing reaction</dc:description>
+          <dc:date>2007-11-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1613</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16782</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16782</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1613/mchugh_jarlath.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

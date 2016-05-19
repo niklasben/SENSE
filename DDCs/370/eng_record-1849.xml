@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1849">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1849</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:370</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Gehirngerechtes Lernen mit digitalen Medien - Ein Unterrichtskonzept für den integrativen DaF-Unterricht</dc:title>
+          <dc:title xml:lang="eng">Brain-compatible learning - a concept for an integrative German-as-a-Foreign-Language class</dc:title>
+          <dc:creator>Brünner, Ines</dc:creator>
+          <dc:subject>ddc:370</dc:subject>
+          <dc:description xml:lang="deu">Ziel der Forschungsarbeit ist es, ein methodisch-didaktisches Konzept zu entwickeln, das den integrativen Einsatz digitaler Medien im DaF-Unterricht unter Berücksichtigung neurobiologischer Erkenntnisse zum gehirngerechten Lernen beschreibt. Integrativ bezieht sich dabei auf die fächerübergreifende Aneignung von Medienkompetenz und Fremdsprachenkompetenz. Neben dem Erwerb fachlicher Kompetenzen geht es jedoch auch um eine stärkere Einbeziehung überfachlicher Kompetenzen, die eine immer wichtigere Rolle im Lernprozess einnehmen und zu einer umfassenden Ausbildung der Handlungskompetenz als übergeordnetes Lehr- und Lernziel beitragen. Die Förderung der Lernfähigkeit und der Medienkompetenz sowie das Erlernen von fremdsprachlichen Teilkompetenzen am Computer und im Internet gehören zu den wesentlichen Zielen dieser Forschung. Dabei gilt es eine Lernumgebung zu schaffen, die alle Aspekte der methodisch-didaktischen Analyse berücksichtigt. Die Rollen von Lerner und Lehrer müssen neu definiert werden. Der Lehrer, der zunehmend in der Rolle als Moderator von Unterrichtsprozessen gesehen wird, muss dem Lerner helfen Eigenverantwortung für seinen autonomen Lernprozess zu übernehmen. Lernen lernen, lebenslanges Lernen und selbstständiges Lernen sind Schlagwörter, die den Anforderungen einer technologisierten Gesellschaft gerecht werden sollen. Gleichzeitig definieren diese Kriterien die Ansprüche an die Lernumgebung.</dc:description>
+          <dc:description xml:lang="eng">The goal of the dissertation is to present a concept for a media-based foreign-language classroom. The concept involves the knowledge of neuro-science in order to fit the requirements of brain-compatible learning. The term "integrative" refers to the contents of the class which combines foreign language teaching with the training of media-based competencies. In addition, the training of key competencies, which gains more and more importance in order to prepare our students for the workplace, is part of the structure of this course. Different aspects of the foreign language classroom are considered in order to create a rich learning environment which enables the learner to experience and practice various foreign language activities. While the role of the teacher changes the learner takes over more and more responsibility for his/her own learning process.</dc:description>
+          <dc:date>2008-08-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1849</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19381</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19381</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1849/original_bruenner_ines.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1849/bruenner_ines.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

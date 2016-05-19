@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:926">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:926</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Thermodynamical Properties Of A Model Liquid Crystal</dc:title>
+          <dc:title xml:lang="deu">Thermodynamische Eigenschaften eines Modell-Flüssigkristalls</dc:title>
+          <dc:creator>Steuer, Haiko</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Ein einfaches Modell für Flüssigkristalle wird mit Hilfe von Monte Carlo-Simulationen untersucht. Die Anisotropie steckt derart im anziehenden Anteil des Lennard Jones-ähnlichen Potentials, dass Seite-an-Seite-Konfigurationen energetisch bevorzugt werden. Das uneingeschränkte System zeigt isotrope, nematische und feste Phasen. Phasenverhalten und Druck sind bei hohen Temperaturen in guter Übereinstimmung mit analytischen Rechnungen. Der Einfluss von Einsperrungen des Fluids zwischen flache, glatte Wände wird untersucht (Plattengeometrie). Dabei werden die Wände so modelliert, dass sowohl eine homeotrope als auch eine verdrillte (twist) Ausrichtung ensteht. Die verdrillte Ausrichtung wird mit planarer Verankerung an beiden Wänden, aber mit 90 Grad verdrillten Direktoren erstellt. In der nematischen Phase ergibt sich dann ein linearer Abfall des Azimutwinkels des Direktors entlang der Zelle. In beiden Geometrien werden die Phasenübergänge zugunsten höherer Ordnung verschoben. Während die nematische Ordnung nur leicht verstärkt wird, erhöht sich die Positionsordnung erheblich. Die Verdrillungselastizität wird untersucht durch Berechnung der zugehörigen Frank'schen Konstante K_2 mit einer neuen Methode. Dazu wir die Änderung der freien Energie durch eine Verdrillung ausgewertet, um K_2 als Mittelwert auch bei moderaten Systemabmessungen zu bestimmen. Es ergibt sich K_2=c(nS_2)^2, in Übereinstimmung mit experimentellen Ergebnissen und anderen Theorien.</dc:description>
+          <dc:description xml:lang="eng">A simple model liquid crystal is studied via Monte Carlo computer simulations. The anisotropy of the particles enters the Lennard-Jones-like interaction potential in the attractive part such that side-by-side configurations are favored. The bulk system shows isotropic, nematic and solid phases. Comparisons of the phase behavior and pressures with analytical results show good agreement for high temperatures. The influence of confinement is studied by sandwiching the liquid crystal between two flat and smooth walls (slab geometry). The walls are modeled with homeotropic as well as twist alignment. The twist alignment is constructed with homogeneous planar anchoring at both walls with 90 degrees different directors. The nematic phase in this geometry shows a linear decay of the azimuthal angle of the director along the cell. In both geometries the confinement shifts the phase transitions in support of higher order. The nematic phase is only slightly stabilized, but the enlargement of the solid phase regime is very pronounced. Therefore, the walls mainly increase the positional order of the system. The twist elasticity is studied by computing the corresponding Frank elastic constant K_2 with a new method. The change of the free energy caused by a twist deformation is evaluated in order to obtain K_2 as an average value even for moderate system sizes. The relation K_2=c(nS_2)^2 is found, in agreement with experimental findings and other theories.</dc:description>
+          <dc:date>2004-05-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/926</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9192</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9192</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/926/steuer_haiko.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

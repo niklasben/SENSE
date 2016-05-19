@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1105">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1105</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A Dual Independence Complex</dc:title>
+          <dc:title xml:lang="deu">Ein dualer Unabhängigkeitskomplex</dc:title>
+          <dc:creator>Waßmer, Arnold Johannes</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">In the present work we apply the concept of duality to the simplicial complex of independent (stable) sets of graphs, the so called independence complex. We prove that this complex can be dualized for the case of paths and cycles. The result is a dual independence complex, which is a regular cell complex with surprising structures. Although it contains the same topological information as the non-dual complex its homeomorphism type is "nicer". The independence complex of a cycle, for example, is either homotopy equivalent to a sphere or to a wedge of two spheres. In general, it is a non-pure complex. The corresponding dual independence complex has the same homotopy type. Moreover, it is homeomorphic to a sphere or to a sphere with a third hemisphere. In order to provide the basic tools for this theory we start by studying trees. First we define for every tree T its dual independence poset DIP(T). Its elements are the independent sets I whose links in the indepencence complex IC(T) are not contractible. The partial order on DIP(T) is given by reverse inclusion. We prove that for every path P this poset DIP(P) is graded, has the diamond property and has a recursive coatom ordering. These properties imply that there is a regular cell complex DIC(P) with face poset DIP(P). We show that this complex is a shellable ball, its dimension is determined by the length of the path P. Similarly, we prove for each cycle C that there is a regular cell complex DIC(C) with face poset DIP(C). We show that this dual independence complex DIC(C) is shellable and has the homeomorphism type described above. Finally, we show that the symmetry group of the complex DIC(C) is a dihedral group. We prove similar results for trees. We show for all trees T that the poset DIP(T) is graded and has the diamond property. These proofs for trees are very similar to the special cases of paths. At the heart of all these proofs is a classification of the nodes of trees into six different types: wolves, dogs, living and dead sheep, toadstools and mushrooms. We conjecture that for each tree T the poset DIP(T) is the poset of a regular cell complex. In other words, we conjecture that the independence complexes of all trees can be dualized. We conclude with a discussion of this conjecture.</dc:description>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit verbinden wir das Konzept der Dualität mit dem Unabhängigkeitskomplex von Graphen. Der Unabhängigkeitskomplex eines Graphen ist der Simplizialkomplex seiner unabhängigen (stabilen) Mengen. Wir beweisen, dass für Pfade und Kreise dieser Unabhängigkeitskomplex dualisiert werden kann. Dieser so erhaltene duale Unabhängigkeitskomplex weist überraschende Strukturen auf: Er enthält die gleiche topologische Information wie der nicht-duale Komplex; sein Homöomorphietyp ist durch die Dualisierung jedoch wesentlich schöner geworden. Beispielsweise ist der Unabhängigkeitskomplex eines Kreises entweder homotopieäquivalent zu einer Sphäre oder zur Verheftung zweier Sphären. Im allgemeinen ist dies ein nicht-reiner Simplizialkomplex. Durch die Dualisierung erhält man einen Komplex des gleichen Homotopietyps. Er ist aber sogar homöomorph zur entsprechenden Sphäre beziehungsweise zu einer so genannten Sphäre mit einer dritten Hemisphäre. Um die technischen Grundlagen dieses Beweises zu schaffen, werden hauptsächlich Bäume studiert. Zunächst wird für jeden Baum T die Halbordnung DIP(T) definiert. Ihre Elemente sind die unabhängigen Mengen I, deren Link im Unabhängigkeitskomplex IC(T) nicht kontrahierbar ist. Die Halbordnung auf DIP(T) ist gegeben durch umgekehrte Inklusion der unahängigen Mengen. Für Pfade P zeigen wir, dass diese Halbordnung DIP(P) graduiert ist, die Diamanteigenschaft hat und eine rekursive Koatomordnung zulässt. Diese drei Eigenschaften haben zur Folge, dass es einen regulären Zellkomplex DIC(P) gibt, dessen Seitenhalbordnung DIP(P) ist. Diesen Komplex nennen wir den dualen Unabhängigkeitskomplex. Für alle Pfade ist er ein schälbarer Ball. Die Dimension dieses Balles hängt von der Länge des Pfades ab. Analog weisen wir für jeden Kreis C nach, dass es ebenfalls einen regulären Zellkomplex DIC(C) mit Seitenhalbordnung DIP(C) gibt. Wir zeigen, dass dieser duale Unabhängigkeitskomplex DIC(C) schälbar ist und den bereits erwähnten Homöomorphietyp hat. Schliesslich zeigen wir, dass die Symmetriegruppe des Komplexes DIC(C) die Diedergruppe ist. Für Bäume können wir einige ähnliche Resultate zeigen. Wir können ebenfalls nachweisen, dass die die Halbordnung DIP(T) von Bäumen T graduiert ist und die Diamanteigenschaft hat. Überraschenderweise sind die Beweise sehr ähnlich wie im Sonderfall von Pfaden. Das wesentliche Beweiswerkzeug in beiden Fällen ist die Klassifizierung der Knoten von Bäumen in sechs Typen: Wölfe, Hunde, lebendige und tote Schafe, Fliegenpilze und Champignons. Wir vermuten, dass für alle Bäume T die Halbordnung DIP(T) die Seitenhalbordnung eines regulären Zellkomplexes ist. Mit anderen Worten: Der Unabhängigkeitskomplex von Bäumen kann vermutlich ebenfalls dualisiert werden. Wie ein möglicher Beweis dieser Vermutung aussehen könnte, wird am Ende der Arbeit diskutiert.</dc:description>
+          <dc:date>2005-09-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1105</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11070</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11070</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1105/wassmer_arnold.PDF</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

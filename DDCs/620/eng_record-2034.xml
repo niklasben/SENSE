@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2034">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2034</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Verfahren zur ad hoc-Modellierung und -Simulation räumlicher Feder-Masse-Systeme für den Einsatz in Virtual Reality-basierten Handhabungssimulationen</dc:title>
+          <dc:title xml:lang="eng">Methods for Ad Hoc Modeling and Simulation of Spatial Mass-Spring Systems for Use in Virtual Reality Based Handling Simulations</dc:title>
+          <dc:creator>Neumann, Jens</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Bereits seit über 20 Jahren kommen Feder-Masse-Systeme (FMS) in der Computergraphik zum Einsatz, wenn das realistische Verhalten von flexiblen Objekten in Virtuellen Realitäten simuliert werden soll. Sie sind einfach zu implementieren und schneller zu berechnen als FEM-Modelle. FMS werden durch räumlich verteilte, massetragende Punkte sowie elastische bzw. viskoelastisch wirkende Verbindungen zwischen den Punkten modelliert. Die Simulation auf FMS erfolgt durch iteratives Lösen einer Schwingungsdifferenzialgleichung für alle Teilmassen. Beim Einsatz von FMS für physikalisch plausible Simulationen müssen eine Reihe von Problemen im Zusammenhang mit der korrekten Zuweisung von Materialeigenschaften einerseits sowie in numerischer Hinsicht gelöst werden. Diese Arbeit diskutiert die wesentlichsten Probleme bei FMS, wenn diese auf Tetraedernetzen implementiert werden. Die Arbeit zeigt, dass der Effekt der künstlichen Dämpfung – ein FMS-typisches Problem – durch die Verwendung einer expliziten Euler-Integration in Verbindung mit dem h2-Term der Taylor-Reihe vermieden werden kann. Es werden Vorschläge zur Abschätzung der massebezogenen, elastischen und dämpfungsbezogenen Eigenschaften eines FMS diskutiert und bewertet, und es kann gezeigt werden, dass sich die Simulationsergebnisse durch Homogenisierung der Punktpositionen eines FMS-Netzes mittels Voronoi-Iteration verbessern lassen. Die Tragfähigkeit erarbeiteter Verfahren zur Elastizitäts- und Dämpfungsmodellierung wird durch simulierte elementare Versuche an komplexen Objekten unter Beweis gestellt. Um die praktische Relevanz des Themas zu dokumentieren, werden die Ergebnisse einer prototypischen Testimplementierung dargestellt. Der Benutzer ist in der Lage, in einer Virtuellen Realität mit einem viskoelastischen Bauteil in interaktiver Echtzeit über ein haptisches Display zu interagieren.</dc:description>
+          <dc:description xml:lang="eng">Mass-spring systems (FMS) have been extensively used in Computer Graphics over the last two decades. Easy to implement and faster to calculate than FEM models, FMS allow a realistic physical simulation of behaviour of flexible parts within Virtual Reality applications. FMS are spatially distributed nodes each of which representing a defined mass and elastic or viscoelastic connections between these nodes. The simulation with FMS can be done by iteratively solving a differential equation for all single masses. Using FMS for a physically plausible simulation, some drawbacks in terms of the right property assignment and numeric have to be overcome. This thesis discusses these main problems for FMS which are implemented on irregular tetra meshes. In particular, the thesis shows that an effect called artificial dampening – a FMS typical problem – can be avoided by using an explicit Euler integration which includes the h2-Term of the Taylor series approximation. Approaches to estimate mass-, elasticity- and dampening related properties of an FMS are discussed and evaluated. It was possible to show that simulation results can be positively influenced when the node positions within a FMS mesh are homogenised by a Voronoi iteration. The validity of the proposed methods for the modelling of properties has been demonstrated in elementary simulation experiments for objects with complex geometry. In order to document the practical relevance of the research work presented in this thesis, the results of a prototypical test implementation are given. Within a Virtual Reality Environment the user can interact with a viscoelastic part in a front compartment of a car in interactive real-time performance using a haptic display.</dc:description>
+          <dc:date>2009-01-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2034</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21388</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21388</dc:identifier>
+          <dc:identifier>978-3-8167-7954-4</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2034/neumann_jens.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

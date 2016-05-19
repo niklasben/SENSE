@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2020">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2020</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Efficient Query Processing in DHT-based RDF Stores</dc:title>
+          <dc:title xml:lang="deu">Effiziente Anfragebearbeitung in DHT-basierten RDF-Speichern</dc:title>
+          <dc:creator>Battré, Dominic</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The growth of information in modern society makes it more and more difficult to find relevant information that supports people at their tasks. Therefore, we strive to give information a well-defined meaning for better enabling computers and people to work in cooperation. The prevalent representation for semantic information is the Resource Description Format (RDF). RDF describes information as sets of triples or equivalently as directed graphs. It provides the foundation for defining ontologies, annotating objects and concepts, information integration, and knowledge inference. Its applications are found in the areas of Semantic Web, Semantic Desktop, Grid computing, e-Business, social networks, natural sciences, and many others. This thesis presents an indexing schema for RDF triples that is based on a distributed hash table (DHT), a structured peer-to-peer overlay network, in order to improve scalability and reliability. Scalability is improved in comparison to centralized triple stores as the peers participating in the DHT share the storage and the query load. Reliability is achieved by replication and fault tolerant routing mechanisms. The core question addressed by this thesis is how queries can be processed efficiently given the fact that data relevant for the query is spread within the network. The thesis presents and compares novel strategies to estimate the effort of retrieving remote data and mechanisms to reduce the amount of data that needs to be transferred. It presents a caching mechanism that strives to reuse intermediate results of previous queries. Finally, it discusses strategies to balance the query and storage load of peers. The success of the strategies is demonstrated by benchmarks with the Lehigh University Benchmark.</dc:description>
+          <dc:description xml:lang="deu">Die Informationsflut der modernen Informationsgesellschaft macht es zunehmend schwieriger, relevante Informationen zu finden, welche die Menschen bei ihrer Arbeit unterstützen. Daher wird bestrebt, Daten eine wohldefinierte semantische Bedeutung zu geben, um so eine bessere Zusammenarbeit von Computern und Menschen zu ermöglichen. Die vorherrschende Repräsentierung von semantischen Daten ist das Resource Description Framework (RDF). RDF beschreibt Informationen als Mengen von Tripeln oder äquivalent als gerichtete Graphen. Es bietet die Grundlage, um Ontologien zu definieren, Objekte und Konzepte zu annotieren, Informationen zu integrieren und implizites Wissen abzuleiten. Anwendung findet es in den Bereichen Semantic Web, Semantic Desktop, Grid Computing, E-Business, soziale Netzwerke, Naturwissenschaften und vielen mehr. Diese Dissertation beschreibt ein Indizierungsschema für RDF Tripel auf der Basis einer verteilten Hashtabelle (DHT), einem strukturierten Peer-to-Peer Overlay-Netzwerk, um Skalierbarkeit und Verlässlichkeit zu verbessern. Die Skalierbarkeit wird im Vergleich zu konventionellen zentralen Tripel-Speichern verbessert indem die Peers der DHT die Speicher- und Anfragelast untereinander teilen. Verlässlichkeit wird durch Replikation und fehlertolerante Routingmechanismen erreicht. Die Kernfrage dieser Dissertation ist, wie Anfragen effizient bearbeitet werden können, wobei berücksichtigt werden muss, dass die dafür relevanten Daten im Netzwerk verteilt liegen. Die Dissertation beschreibt und vergleicht dazu neue Strategien, um den Aufwand für die Übermittlung entfernt liegender Daten abzuschätzen und zu reduzieren. Des Weiteren beschreibt sie Caching-Mechanismen, die danach streben, Zwischenergebnisse vorhergehender Anfragen wieder zu verwenden. Abschließend werden Verfahren diskutiert, um die Anfrage- und Speicherlast der Knoten im Netzwerk zu balancieren. Der Erfolg der diskutierten Verfahren wird anhand von Benchmarks mit dem Lehigh University Benchmark demonstriert.</dc:description>
+          <dc:date>2009-01-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2020</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21188</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21188</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2020/battre_dominic.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

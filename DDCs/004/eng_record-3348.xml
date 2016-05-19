@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3348">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3348</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modellbasierter evolutionärer Funktionstest</dc:title>
+          <dc:title xml:lang="eng">Model-based evolutionary functional testing</dc:title>
+          <dc:creator>Lindlar, Felix</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die Erforschung effizienterer und effektiverer Testansätze für die Entwicklung von Software eingebetteter Systeme wurde in den vergangenen Jahren durch den stetig zunehmenden Kostenanteil der Qualitätssicherung beflügelt. Ein vielversprechender Ansatz für die Automatisierung einer Vielzahl von Testarten ist das evolutionäre Testen. Dabei wird das Problem der Ermittlung von Testfällen in ein Optimierungsproblem transformiert, welches mit evolutionären Algorithmen gelöst wird. Der Schwerpunkt dieser Arbeit liegt auf dem evolutionären Funktionstest (EFT). Im Gegensatz zu Verfahren zur formalen Verifikation (scheitern aufgrund der kombinatorischen Zustandsexplosion), kann der EFT auch auf sehr komplexe Testobjekte angewendet werden. Aufgrund der Zustandsbehaftung von Software eingebetteter Systeme, ist die Erzeugung komplexer Testdatensequenzen für die Testausführung unabdingbar. Zudem müssen physikalische Grenzen und Zusammenhänge berücksichtigt werden. Für einen effektiven Testansatz muss darüber hinaus Reaktivität zwischen Testobjekt und Teststeuerung ermöglicht werden, denn nur dann können Testdaten auch während der Ausführung entsprechend dem Verhalten des Testobjekts angepasst werden. Das Ergebnis dieser Forschungsarbeit sind zwei Verfahren für den automatisierten Funktionstest von komplexer Software eingebetteter Systeme. Die Verfahren erlauben die Spezifikation realistischer Testdatensequenzen mit hybriden Automaten sowie mit einer hierarchischen Auszeichnungssprache. Durch die Verwendung evolutionärer Algorithmen werden die Testdatensequenzen variiert. Das modellbasierte Verfahren unterstützt die dynamische Anpassung der Testdatensequenzen während der Testausführung mit Zwischenergebnissen aus dem bisherigen Testverlauf. Die Bewertung der Testläufe erfolgt durch automatisch instrumentierte Testauswerteskripte. Weiterhin wird eine Testumgebung vorgestellt, die eine plattformübergreifende Testausführung ermöglicht. Um die Verfahren im Hinblick auf ihre Anwendbarkeit in der Industrie zu validieren, wurden umfassende Fallstudien mit komplexen Softwaresystemen aus der Serienentwicklung durchgeführt. Dabei gewonnene Resultate lassen auf eine hohe Effektivität und Anwendbarkeit der Verfahren schließen.</dc:description>
+          <dc:description xml:lang="eng">In recent years, the increasing cost proportion of quality assurance has stimulated research into more efficient and effective testing approaches for embedded software development. A promising approach for automating various test types is evolutionary testing. With evolutionary testing the problem of selecting suitable test cases is transformed into an optimization problem, which is then solved by evolutionary algorithms. The main focus of this work is on evolutionary functional testing (EFT). In contrast to formal verification approaches, which fail due to the problem of state explosion, EFT can be used for highly complex test objects. Large numbers of internal states in embedded software require testing with complex test data sequences in order to perform tests effectively. In addition, when testing embedded software, physical boundaries and relationships between test data sequences have to be considered. Furthermore, test approaches should allow for reactivity between test object and test control. Only then, can test data be adapted during test execution in correspondence to the behaviour of the test object. The results of this research are two approaches for automating functional testing of complex embedded software. The approaches facilitate specifying realistic test data sequences with hybrid automata and with a hierarchical mark-up language. Test data sequences are varied by using evolutionary algorithms. The model-based approach allows for dynamically adapting test data sequences during test execution by using test data achieved in the preceding test process. Test runs are evaluated using automatically instrumented assessment scripts. Furthermore, a test environment is presented, enabling cross-platform test execution. In order to evaluate the approaches with respect to usability in an industrial setting, thorough case studies using complex embedded software from automotive serial production have been conducted. Results indicate high effectiveness and usability of the approaches.</dc:description>
+          <dc:date>2012-06-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3348</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35518</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35518</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3348/lindlar_felix.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

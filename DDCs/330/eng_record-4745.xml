@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4745">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4745</identifier>
+        <datestamp>2014-02-19</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Modeling production sequences in the fast moving consumer goods industry : the impact of changeover structure in integrated lot-sizing and scheduling</dc:title>
+          <dc:title xml:lang="deu">Modellierung von Produktionssequenzen in der schnelldrehenden Konsumgüterindustrie : der Einfluss von Rüststrukturen auf die integrierte Losgrößen- und Ressourceneinsatzplanung </dc:title>
+          <dc:creator>Lueb, Mario </dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">The Fast Moving Consumer Goods Industry (FMCG Industry) plays a major part in Germany's today's industry. Enterprises in this sector face a competition intense market with sensitive and demanding customers. The requirements and possibilities for production planning underwent substantial changes in the recent past, especially an increasing number of product variants, changes in production technology and advances in IT-technology for planning and execution of production.&#13;
+This problem is addressed in this work with a focus on a problem of operative planning, the integrated lot-sizing and scheduling. This problem treats for a short-term planning horizon the decisions of determining production quantities and their assignment to time-windows on resources with a limited capacity. Of high importance is the changeover structure for the product portfolio. Depending on the changeover times being independent on the product that is to be produced, depending on both the predecessor and successor product, or if certain changeovers are not permitted, the resulting problems can be of different mathematical complexity. &#13;
+For exploring this problem in the FMCG Industry, three scenarios which can be seen as typical for this industry have been developed based on characteristics from a range of case studies. They are differing to each other mainly by the changeover structure. Based on the well-known mathematical models PLSP, GLSP and Block Planning, several model formulations were developed for reflecting those scenarios. They were evaluated in numerical experiments in regard to their applicability in industry as optimizing models or as part of heuristic solution techniques.&#13;
+The results show that the PLSP model is hardly suited for application in the FMCG Industry, mainly due to its inherent drawbacks resulting from the fixed number and size of micro periods. Especially the Block Planning model showed its usability in many production environments. However, in cases with a highly complex changeover structure it will be necessary to employ heuristic solution techniques in the foreseeable future . The results of this work give further researchers guidance in which mathematical model approaches are more likely to lead to satisfying results for realistic problem sizes.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Die schnell drehende Konsumgüterindustrie (englisch: Fast Moving Consumer Goods Industry) stellt einen bedeutenden Sektor des verarbeitenden Gewerbes in Deutschland dar. Unternehmen in diesem Bereich sehen sich einem hohen Konkurrenzdruck ausgesetzt bei anspruchsvollen Kunden. Anforderungen an und Möglichkeiten zur Produktionsplanung unterlagen dabei in der jüngeren Vergangenheit substantiellen Veränderungen, insbesondere einer steigenden Anzahl an Produktvarianten, Änderungen in der eingesetzten Produktionstechnologie und Weiterentwicklungen der EDV-Möglichkeiten zur Planung und Durchführung der Produktion.&#13;
+Die vorliegende Arbeit beschäftigt sich mit diesem Problemfeld und fokussiert dabei auf ein Problem der operativen Planung, der integrierten Losgrößen- und Reihenfolgeplanung. In dieser wird in einem kurzfristigen Planungshorizont entschieden, welche Produkte in welcher Menge in welchem Zeitfenster auf einer verfügbaren Ressource mit begrenzter Kapazität zu produzieren sind. Ein wesentlicher Aspekt in diesem Problem findet sich in der Rüststruktur der zu fertigenden Produkte. Je nachdem ob die Rüstzeiten zum Wechsel zwischen zwei Produkten unabhängig vom zu produzierenden Produkt sind, von Vorgänger und Nachfolger abhängen, oder ob bestimmte Rüstwechsel nicht zulässig sind, entstehen Probleme unterschiedlicher mathematischer Komplexität. &#13;
+Zur Untersuchung dieses Problemfelds in der Fast Moving Consumer Goods Industry (FMCG Industry) wurden ausgehend von Case Studies verschiedener Unternehmen der FMCG Industry drei als typisch für diese anzusehende Szenarien entwickelt, die sich untereinander insbesondere in Bezug auf ihre Rüststruktur unterscheiden. Ausgehend von den bekannten mathematischen Modellen PLSP, GLSP und Block Planning wurden mehrere Modellformulierungen  zur Abbildung dieser Szenarien entwickelt und in numerischen Tests auf ihre Anwendbarkeit in der Praxis als Optimierungsmodelle oder als Bestandteil heuristischer Verfahren evaluiert.&#13;
+Die Ergebnisse zeigen, dass das PLSP Modell, insbesondere aufgrund von Problemen die aus der starren Anzahl und Länge der Mikroperioden resultieren, für den Einsatz in der FMCG Industry kaum geeignet ist. Insbesondere das Block Planning Modell hat sich als geeignet für viele Umgebungen in der FMCG Industry gezeigt. Für Anwendungsfälle mit sehr komplexer Rüststruktur werden jedoch in absehbarer Zeit weiterhin heuristische Verfahren notwendig sein. Die vorliegende Arbeit liefert diesbezüglich Ansatzpunkte welche Modellierungsansätze bei der Entwicklung von heuristischen Verfahren vielversprechend sind.&#13;
+</dc:description>
+          <dc:date>2014-02-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4745</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47458</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47458</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4745/lueb_mario.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

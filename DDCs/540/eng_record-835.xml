@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:835">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:835</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Geometriegradienten im zweikomponentigen, quasirelativistischen Formalismus und ihre Anwendung</dc:title>
+          <dc:creator>Langermann, Norbert</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit der Herleitung eines zweikomponentigen Hartree-Fock-Verfahrens und eines zweikomponentigen Geometriegradienten im Rahmen der Hartree-Fock-- und Dichtefunktionaltheorie sowie deren Anwendung. Der zweikomponentige Dichtefunktionalformalismus für die Anwendung im Hartree-Fock-Fall erweitert. Dadurch ist es möglich neben Hartree-Fock- und Dichtefunktionalmethoden auch Dichtefunktionale mit exaktem Austausch wie z.B. B3LYP einzusetzen. Die geschickte Aufteilung der Operatoren mit Hilfe der Pauli--Spinmatrizen läßt eine besonders effiziente Implementation in bestehende, einkomponentige Quantenchemieprogramme zu. In dieser Arbeit wird dieser zweikomponentige Formalismus zusammen mit der ZORA(MP)-Näherung für relativistische Effekte verwendet (/zeroth order regular approximation for relativistic effects with model potentials/). Die Formulierung des zweikomponentigen Verfahrens ist dabei so allgemein, daß weitere zweikomponentige, relativistische Näherungen leicht hinzugefügt werden können. Der Geometriegradienten für die zuvor beschriebenen zweikomponentigen Verfahren wird hergeleitet. Auch hier wird besonderes Augenmerk auf die effiziente Implementation in bestehende Programme gelegt. Mit Hilfe dieses Gradienten ist es nun möglich, effizient und vollautomatisch Strukturen von mehratomigen Molekülen schwerer Elemente zu optimieren. Prinzipiell ist der hier hergeleitete Gradient mit beliebigen zweikomponentigen, relativistischen Näherungen zu verwenden, es müssen lediglich die Ableitungen der Matrixelemente des Einelektronenoperators nach Kernkoordinaten zur Verfügung stehen. Die effiziente Integration in das hier erweiterte Programm TURBOMOLE führt dazu, daß die Rechenzeit einer vollständigen Geometrieoptimierung auf zweikomponentigem, relativistischem Niveau nur etwa das Zwei- bis Dreifache der einer vergleichbaren skalarrelativistischen Rechnung beträgt. Abschließend werden Rechnungen mit den in dieser Arbeit beschriebenen Methoden vorgestellt. Vergleiche von vierkomponentigen, vollrelativistischen Dirac-Hartree-Fock-Rechnungen mit zweikomponentigen Hartree-Fock-Rechnungen im Rahmen der ZORA(MP)-Näherung zeigen die Güte dieser Näherung auf. Vergleiche numerisch ermittelter Geometrien zweiatomiger Moleküle mit den aus dem hier beschriebenen analytischen Gradienten erhaltenen verifizieren den Geometriegradienten des zweikomponentigen Formalismus. Die Gegenüberstellung von berechneten Bindungslängen und Dissoziationsenergien zweiatomiger Moleküle mit experimentellen Daten und Ergebnissen anderer Arbeiten zeigt, daß die ZORA(MP)-Näherung in Kombination mit analytischen Gradienten in der Lage ist, experimentelle Daten gut vorherzusagen und praktisch gleichwertig zu vierkomponentigen Rechenmethoden ist. Schließlich werden ZORA(MP)-Rechnungen an mehratomigen Molekülen vorgestellt, die wegen fehlender Geometriegradienten bislang nicht auf relativistischem Allelektronenniveau durchgeführt werden konnten. Besonders die Geometrien der Verbindungen (116)X_2 (X=F, Cl, I, At, (117)) (Element (116): /eka-/Polonium, Element (117): /eka-/Astat) zeigen große Spin-Bahn-Effekte, die nur durch das Vorhandensein neuer Arten chemischer Bindungen erklärt werden können.</dc:description>
+          <dc:date>2004-03-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/835</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8282</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8282</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/835/langermann_norbert.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

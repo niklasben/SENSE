@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2455">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2455</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Integrated passenger transport policy assessment within a computable general equilibrium framework</dc:title>
+          <dc:title xml:lang="deu">Integrierte personenverkehrspolitische Bewertung im Rahmen eines Berechenbaren Allgemeinen Gleichgewichtmodells</dc:title>
+          <dc:creator>Kalinowska, Dominika</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="eng">The purpose of this dissertation work is the development of a methodological framework in terms of a computable general equilibrium (CGE) model in order to carry out an integrated impact assessment from road charging introduced in the passenger car sector for Germany. The pricing policy measure is applied to the private motorized travel demand covering the overall road network. The uniqueness of this work distinguishing it from the current state of the research in the area of CGE modeling is firstly the application of an existing methodological approach to a newly constructed database for Germany, secondly the extension of the model framework by integrating land use characteristics of private household residential location, and finally the funded assessment of distributional and equity implications within the private household sector from the introduction of road use charging. To give a better understanding of distributional, equity and welfare impacts from the introduction of car road pricing within the overall economic context, mode specific travel demand of private households is integrated into the CGE model. The modeling framework accounts for different household categories with respect to income and residential location through the integration of behavioral mobility parameters as well as household travel expenditures. The analyses of policy simulations are carried out introducing different road charging revenue redistribution schemes. The results of this work show that distributional effects and equity concerns are strongly related to the revenue use patterns as well as to country and household specific travel demand profiles. However, the introduction of road user charges can have a positive impact on environmental welfare through the reduction of car use and the corresponding CO2 emissions, when mode shifts are induced through the implementation of the policy reform. They results of this work provide country specific insights concerning the public acceptance of road user charges applied to passenger car travel.</dc:description>
+          <dc:description xml:lang="deu">Gegenstand der vorliegenden Dissertation ist die Entwicklung eines methodischen Werkzeuges, konkret eines allgemeinen rechenbaren Gleichgewichtmodells (Computable General Equilibrium Model, CGE), welches zur Bewertung politischer Maßnahmen den Personenverkehr bzw. die Personenverkehrsleistung in Deutschland im volkswirtschaftlichen Kontext abbildet. Ziel der Arbeit ist die Anwendung dieses methodischen Instrumentariums zur Evaluierung politischer Maßnahmen im Verkehrssektor – wie der Einführung von Straßenbenutzungsgebühren für Pkw – hinsichtlich resultierender Effekte, einschließlich der gesamtwirtschaftlichen Folgen. Zur Untersuchung ökonomischer Umverteilungseffekte einer Pkw-Maut werden im Modell nach Einkommens- und Wohnsiedlungsstruktur differenzierte Haushaltskategorien abgebildet. Dabei werden erhebungsbasierte Mikrodaten zur Mobilität und Einkommensverwendung privater Haushalte in ein rechenbares, allgemeines Gleichgewichtsmodell der gesamten deutschen Volkswirtschaft integriert. Damit wird die private Nachfrage nach motorisiertem sowie öffentlichem Verkehr in dem CGE Modell über realisierte Konsum- bzw. Nachfrageentscheidungen privater Haushaltskategorien abgebildet. Als wichtiges Ergebnis zeigt die Arbeit regressive Wirkung einer Pkw-Maut innerhalb der Einkommensverteilung privater Haushalte in Deutschland. Gleichzeitig würde eine Pkw-Maut von 5 Cent/km die CO2 Emissionen in diesem Sektor bereits um bis zu 10 % senken. Die regressive Wirkung der Maßnahme kann durch eine adäquate Ausgestaltung der Einnahmenverwendung kompensiert werden. Damit kann die oft als fehlend diskutierte Akzeptanz der Pkw-Maut innerhalb der Bevölkerung erhöht werden.</dc:description>
+          <dc:date>2010-03-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2455</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25799</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25799</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2455/kalinowska_dominika.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

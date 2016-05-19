@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2490">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2490</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ermittlung von Lebensdauergleichungen vom Coffin-Manson- und Morrowtyp für bleihaltige und bleifreie Weichlote durch Kombination von FE und Experiment</dc:title>
+          <dc:title xml:lang="eng">Determination of fatigue life equations of the Coffin-Manson and Morrowtyp for lead-containing and lead free solders by combination of FE and experiment</dc:title>
+          <dc:creator>Hannach, Taoufiq</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Entwicklung und Erprobung neuartiger bleifreier Lotwerkstoffe ist noch nicht so weit fortgeschritten wie im Falle der bleihaltigen Lote. Mitunter finden sich in verschiedenen wissenschaftlichen Quellen differierende und widersprüchliche Aussagen hinsichtlich der Zuverlässigkeit. In Anbetracht dieser Situation ergeben sich folgende Zielsetzungen, denen in der vorliegenden Arbeit nachgegangen wird: • Recherche wissenschaftlicher Arbeiten, in denen die Zuverlässigkeit leifreier Lote in der Mikroelektronik untersucht wird; • die Schaffung einer soliden Datenbasis an Zuverlässigkeitskennwerten für gängige bleifreie Lötverbindungen; • der Vergleich dieser Kennwerte mit Kenndaten, die in externen wissenschaftlichen Arbeiten ermittelt wurden. Die Zuverlässigkeit mikroelektronischer Lötverbindungen wird mit Hilfe standardisierter Temperaturwechseltests, die zur Bestimmung der Lebensdauer unter kontrollierten Bedingungen dienen, untersucht. Tests dieser Art werden für gewöhnlich bis zum Versagen der zu testenden Lötverbindungen gefahren. Oftmals sind hierzu mehrere tausend thermische Zyklen und Testzeiträume von mehreren Monaten notwendig. Werden experimentell ermittelte Lebensdauern über die zugehörigen, pro thermischem Zyklus im Lot auftretenden Kriechenergiedichten oder Kriechdehnungen aufgetragen, lassen sich für das untersuchte Lot Zuverlässigkeitskennwerte ableiten. Auf deren Basis können mathematische Lebensdauergesetze aufgestellt werden. Mit Hilfe dieser Gesetze sind Lebensdauerprognosen möglich, ohne zusätzlich Experimente durchführen zu müssen. Die Bestimmung der zyklisch auftretenden Kriechenergiedichten muss anhand von FE-Simulationen erfolgen. Die Ermittlung von Kriechdehnungen bzw. Kriechenergiedichten ist mit Hilfe von FE-Simulationen möglich. Im Rahmen der vorliegenden Arbeit erfolgen Bestimmungen von Zuverlässigkeits-kennwerten auf Basis von FE-Simulationen und experimentell ermittelten Lebensdauern. Diese Lebensdauern wurden im Rahmen zweier großer Forschungsprojekte, den Projekten LIVE und W5, ermittelt. Alle Untersuchungen der vorliegenden Arbeit beziehen sich auf Lötverbindungen keramischer Kondensatoren und Widerstände. Langfristiges Ziel ist es, die Gültigkeit der ermittelten Lebensdauerbeziehungen für beliebige Lotgeometrien zu belegen, so dass diese als Materialkennwerte betrachtet werden können.</dc:description>
+          <dc:description xml:lang="eng">In comparison to the lead-containing solder the development and testing of new lead-free solders is not that advanced. In different scientific sources one will find contradicting information regarding their reliability. In view of this situation the following objectives result which will be dealt with in this work: • Literature search of scientific publications dealing with the reliability of lead-free solders used in microelectronics; • Creation of a reliable database with characteristic values for measuring the reliability of common lead-free solders; • Comparison of these values with the ones from external sources. The reliability of common lead-free solders used in microelectronics will be evaluated in standardized temperature cycle tests. Such tests are typically performed until the solder joint fails. Frequently thousands of thermal cycles are required which can last several months. The accumulated inelastic strain energy and inelastic creep strain per thermal cycle will be determined on the basis of the finite element method. Several models have been developed to predict solder joint’s reliability based on Coffin-Manson and Morrow's fatigue laws. These laws describe the reliability of a solder and can be derived from a correlation between experimental failure data and the inelastic strain energy or the inelastic strain obtained from finite element analyses. The fatigue life of the solder joints can be predicted based on the Coffin-Manson- und Morrow-equation for various cases without costly experiments. In the framework of this study the parameters of reliability are calculated based on FE-simulations and experimentally determined data of fatigue life. This data was determined in context with two large research projects LIVE and W5. All investigations of the present work refer to solder joints in ceramic condensers and resistors. A long-term goal is it to prove the validity of the determined fatigue life relations for arbitrary solder joint geometry so that these can be regarded as material properties.</dc:description>
+          <dc:date>2010-04-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/vnd.ms-office</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2490</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26193</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26193</dc:identifier>
+          <dc:identifier>978-3-86955-283-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2490/hannach_taoufiq.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2490/hannach_taoufiq_umschlag.ppt</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

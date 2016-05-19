@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1976">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1976</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Large Deviations of Generalised Jackson Networks</dc:title>
+          <dc:title xml:lang="deu">Große Abweichungen von verallgemeinerten Jackson Netzwerken</dc:title>
+          <dc:creator>Meiner, Silke</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">In this thesis we develop local large deviations for the generalised Jackson network. We work with a continuous time model and with light tail distributions for inter arrival and service times. Using classical large deviation theory of logarithmic moment generating functions and exponential changes of measure we get a local rate function that is almost a Fenchel Legendre transform of the free process' logarithmic moment generating function \( \Psi \). L(x,v) = \sup_{\alpha \in \mathcal{B}_{K(x,v)}} \langle \alpha , v \rangle - \Psi(\alpha) (1) What keeps the local rate function from being a full Fenchel Legendre transform is the restrictions \(\mathcal{B}_{K(x,v)} \) reflecting nodes not-empty when the state of the network is x and nodes filling up when the network evolves in direction v. The way we develop the local large deviation will allow to get a weak and full large deviation principle for the generalised Jackson network quite easily. We also give a representation of the almost Fenchel Legendre transform as a Fenchel Legendre transform in lower dimension. The approach to apply classical large deviation theory to stochastic networks is inspired by Large Deviations of Jackson Networks'' of Irina Ignatiouk-Robert, published in 2000 in the Annals of Applied Probability.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit entwickeln wir die lokalen großen Abweichungen von verallgemeinerten Jackson Netzwerken. Im Unterschied zum Jackson Netzwerk sind Zwischenankunfts- und Servicezeiten allgemeinen Verteilungen unterworfen und nicht auf Exponentialverteilungen beschränkt. Die daraus resultierenden stochastischen Prozesse sind nicht Markovsch, was eine Herausforderung an die zur Verfügung stehende mathematische Technik bedeutet. Im ersten Teil der Arbeit untersuchen wir, inwieweit und mit welchen Mitteln die verlorene Markoveigenschaft aufgewogen werden kann. Die verallgemeinerten Prozesse, die wir betrachten, sind Erneuerungsprozesse. Es gelingt uns, die Prozesse, mit denen wir das generalisierte Jackson Netzwerk beschreiben werden, so abzuändern, dass sie unabhängige stationäre Inkremente haben und im Sinne der großen Abweichungen nicht von den ursprünglichen Prozessen zu unterscheiden sind. Weiter entwickeln wir einen exponentiellen Maßwechsel für die Erneuerungsprozesse, so dass die Erneuerungseigenschaft erhalten bleibt. Der resultierende Maßwechsel für den Netzwerkprozess verändert nur die Raten des Netzwerkes, nicht aber seine grundlegenden Eigenschaften. Im Ergebnis erhalten wir ein lokales Prinzip großer Abweichungen mit einer Ratenfunktion, die fast die Fenchel Legendre Transformierte der logarithmischen Momenterzeugendenfunktion \( \Psi \) des freien Prozesses ist, der dem generalisierten Jackson Netzwerk zugeordnet ist: L(x,v) = \sup_{\alpha \in \mathcal{B}_{K(x,v)}} \langle \alpha , v \rangle - \Psi(\alpha) (1) Die lokale Ratenfunktion \( L(\cdot,\cdot) \) unterscheidet sich von einer Fenchel Legendre Transformierten durch die Einschränkung auf Elemente aus \( \mathcal{B}_{K(x,v)} \). Diese Menge beschreibt die unterschiedlichen Verhaltensweisen des Netz\-werkprozesses in Abhängigkeit vom derzeitigen Zustand des Netzwerkes - repräsentiert durch x - und dem zukünftigen Verlauf - repräsentiert durch v. Ist eine zukünftige Entwicklung des Netzwerkes in Richtung v ein seltenes Ereignis und \alpha der Optimierer in (1), so ändert sich die Situation unter dem Maßwechsel mit Parameter \alpha dahingehend, dass die Entwicklung in Richtung v zum erwarteten Verhalten des Netzwerkes wird.</dc:description>
+          <dc:date>2008-11-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1976</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20737</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20737</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1976/original_meiner_silke.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1976/meiner_silke.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

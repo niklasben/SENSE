@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1033">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1033</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Der Einfluss der Oberflächenimpedanz auf das Abstrahlverhalten eines Schürze-Niedrigstschallschirm-Systems</dc:title>
+          <dc:title xml:lang="eng">The Influence of Surface Impedances on Sound Radiation Properties of a Shroud-Barrier-Combination</dc:title>
+          <dc:creator>Johannsen, Kai</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Zur Bekämpfung von Straßen- und Schienenverkehrslärm werden in der Regel Lärmschutzwände eingesetzt. Diese stellen eine zuverlässige Maßnahme dar und sind in ihrer Wirksamkeit gut kalkulierbar. Nachteilig sind jedoch die hohen Kosten dieser Maßnahme, da hier meist über einen längeren Teil der Strecke mehrere Meter hohe Mauern gebaut werden müssen. Auch kann die zwangsläufige Verdeckung der Landschaft als störend empfunden werden. Da bei der Eisenbahn die Schallabstrahlung durch den Rad-Schiene-Kontakt dominiert wird, erscheint ein Einsatz von Schallschutzschürzen in Kombination mit niedrigen Schallschutzwänden vielversprechend. Unter der Annahme, dass die Schienen nur in der Nähe der Räder stark zur Abstrahlung beitragen, lässt sich der Einsatz der Schürzen auf den Bereich der Drehgestelle beschränken. Bisherige Untersuchungen beschäftigten sich größtenteils mit der Dimensionierung der Schallschutzschürze und der Niedrigstschallschutzwand. In der vorliegenden Arbeit hingegen liegt der Schwerpunkt auf der Beschaffenheit der inneren Oberflächen dieses Systems. Neben einer absorbierenden Oberfläche werden speziell sogenannte akustisch schallweiche Begrenzungen untersucht. Unter schallweichen Oberflächen werden Bereiche verstanden, die eine sehr kleine akustische Impedanz aufweisen. Zur Untersuchung des Einflusses der Oberflächenimpedanzen des Schürze-Niedrigstschallschutzwand-Systems werden zunächst Simulationen der abgestrahlten Schallleistung zweier unterschiedlicher Geometrien mit einem Schallfeldansatz durchgeführt. Die erreichten Verbesserungsmaße werden anschließend mit der Finiten-Elemente-Methode und einer Messung an einem vereinfachten Modell verifiziert. In einem abschließenden Kapitel wird die praktische Umsetzbarkeit und die zu erwartenden Gesamtverbesserungsmaße optimierter Oberflächenkombinationen diskutiert.</dc:description>
+          <dc:description xml:lang="eng">Common measures in noise abatement strategies of traffic noise are noise barriers. These represent a reliable and well calculable Method. On the other hand due to the required height of conventional barriers they are quite expensive and also they hinder the view of the landscape. As railway noise radiation mainly originates from the rail-wheel contact zone the application of shrouds in combination with low barriers seems to be promising. Assuming a radiation of the rails only in the vicinity of the wheels shrouds can be limited to the bogies. To date investigations dealt mainly with the dimensions of shroud-barrier systems, whereas this work focuses on the attributes of the inner surfaces. In addition to absorbing surfaces especially acoustically soft surfaces of very low acoustic impedance are accounted for. The examination of the influence of the surface impedances begins at a simulation of two different geometries using a wave approach. The calculated surface-based insertion losses are verified through the implementation of the finite-element-method and through measurements on a shroud-barrier model. In a concluding chapter the feasibility and the estimated total insertion loss of optimised surface combinations are discussed.</dc:description>
+          <dc:date>2005-07-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1033</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10228</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10228</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1033/johannsen_kai.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3699">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3699</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Forciertes Austreiben von unerwünschten Aromastoffen aus der Bierwürze</dc:title>
+          <dc:title xml:lang="eng">Forced evaporation of off-flavor in beer-wort</dc:title>
+          <dc:creator>Feilner, Roland</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Würzestripping platziert nach dem Whirlpoolschritt bietet einen effizienten Weg um unerwünschte Aromastoffe auszutreiben und zudem auch die im Whirlpool nachgebildeten Stoffe zu reduzieren. Der Fokus liegt dabei auf Dimethylsulfid und anderen aus dem Streckerabbau und der Fettsäureoxidation bekannten Stoffe. Ein neu entwickeltes Strippingsystem, basiert auf einem Verdunstungsprozess mit einer Desorption der flüchtigen Aromastoffe in einen Strippgasstrom, ohne den Einsatz zusätzlicher Primärenergie. Eine eindeutige Reduktion des Energieeinsatzes, der thermischen Belastung und eine Verbesserung der Bierqualität können dadurch erreicht werden. Um die Ausdampfeffizienz des Systems beurteilen zu können, ist Voraussetzung die Ausdampfkinetiken der einzelnen Indikatoren zu kennen. Dazu wurde die komplexe Biermatrix zunächst auf eine Aroma-Wasserlösung reduziert und das Ausdampfverhalten analysiert. Diese Ergebnisse wurden zunächst im Pilotmaßstab zur Berechnung der Aromastoffreduktion eingesetzt und im nächsten Schritt mit Reduktionen im Großversuch verglichen. Dabei wurde auch der Einfluss von Behältergeometrie, Strippingintensität und Turbulenzgrad der Strömung untersucht. Diese Ergebnisse erlauben schließlich eine Beurteilung der angewandten Ausdampftheorien und der Einfluss möglicher Nachbildungsreaktionen, hervorgerufen durch den Einsatz von oxidativer Luft als Strippgas.</dc:description>
+          <dc:description xml:lang="eng">Wort stripping after the whirlpool process is an efficient way to reduce the amount of unwanted volatile substances, which are formed post-boil primarily during the whirlpool rest period. The focus lies mainly on free dimethyl sulfide (DMS) and volatile strecker-aldehydes and reduced fat acids. A new kind of stripping system is based on a specific evaporation process, which a desorption of volatile substances without using primary energy. A significant reduction of energy input, thermal treatment at simultaneously better wort quality could be realized. To evaluate the efficiency of evaporation, it is important to understand the evaporation-behavior of single unwanted aroma compounds under reduced influencing parameters. Therefore the complex matrix of wort is reduced to pure water and the temperature dependent volatilities of these aroma compounds are determined. With this knowledge a basis for the description of evaporation efficiency is generated. In the course of this work, small-scale laboratory trials are verified by an upstream pilot trial, where also the geometry and the volume of the stripping gas of the system is varied. While these investigations describe a reproducible quantitative reduction of unwanted aroma compounds, further investigations of this work are dealing with the rate of the reduction reactions, depends on the application of the oxidative air used in the stripping process.</dc:description>
+          <dc:date>2013-05-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3699</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38600</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38600</dc:identifier>
+          <dc:identifier>978-3-8439-0929-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3699/feilner_roland.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:219">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:219</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dünnschichtpräparation von AgSbS2 und Ag3SbS3 durch sequentielles Verdampfen</dc:title>
+          <dc:title xml:lang="eng">Thin film preparation of AgSbS2 and Ag3SbS3 by sequential evaporation</dc:title>
+          <dc:creator>Laubis, Christian</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die Methode zur Dünnschichtpräparation von AgSbS2 (Miargyrit) und Ag3SbS3 (Pyrargyrit) durch sequentielles Verdampfen entwickelt. AgSbS2 und Ag3SbS3 sind zur Verwendung als Absorbermaterial in Solarzellen vorgesehen. Die Wirkung verschiedener Parametervariationen auf das Präparationsergebnis wurde untersucht. Dabei wurden in der Aufdampfrate für das Sb2S3 und der Substrattemperatur die entscheidenden Parameter für die Zusammensetzung der Schichten gefunden. Bereiche von Präparationsparametern, in denen einphasige Schichten entstehen, konnten bestimmt werden. Die apparativen Voraussetzungen zur sequentiellen Verdampfung werden vorgestellt und deren Vorteile diskutiert. Es gelang, das Verhalten des Materialsystems Ag-Sb-S in der verwendeten Präparationsapparatur in einer thermodynamischen Simulation zu modellieren. Das Modell konnte zur Bestimmung und Eingrenzung des Parameterraumes der Präparation verwendet werden. Durch Verknüpfung von Simulation und Experiment konnte eine Modellvorstellung des Präparationsprozesses formuliert werden. Abschließend wurden elektrische und optische Eigenschaften der präparierten Schichten untersucht. Dabei wurde die prinzipielle Möglichkeit zum photovoltaischen Einsatz von AgSbS2 und Ag3SbS3 gefunden.</dc:description>
+          <dc:description xml:lang="eng">In this thesis, the method of thin-film preparation of AgSbS2 (Miargyrite) and Ag3SbS3 (Pyrargyrite) by sequential evaporation is developed. AgSbS2 and Ag3SbS3 are intended for use as absorbers in solar cells. The effect of the variation of different parameters on the result of the preparation was studied. Substrate temperature and evaporation rate of Sb2S3 have been determined to be crucial parameters for film composition. Parameter regions in which single-phase layers formed were determined. The requirements for the technical equipment to sequentially evaporate are presented and discussed. It was possible to model the behaviour of the material-system Ag-Sb-S in the utilized preparation chamber using a thermodynamic simulation. This model was used to determine and shrink the parameterspace for the preparation. By linking simulation and experiment, a model of the preparation process was formulated. To finish, electrical and optical properties of the prepared samples were examined. The possibility for photovoltaic use of AgSbS2 and Ag3SbS3 was found.</dc:description>
+          <dc:date>2001-10-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/219</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2141</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2141</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/219/laubis_christian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

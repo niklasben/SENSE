@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4328">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4328</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:62</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Bauen mit Klimahüllen </dc:title>
+          <dc:title xml:lang="eng">Building with climate envelopes</dc:title>
+          <dc:creator>Karasu, Arda</dc:creator>
+          <dc:creator>Buchholz, Martin</dc:creator>
+          <dc:subject>ddc:62</dc:subject>
+          <dc:description xml:lang="deu">Würden Sie ein Fenster trotz chaotischer Bedingungen außerhalb des Gebäudes wirklich gerne öffnen? Exzessiver Lärm, schlechte Wetterbedingungen, dreckige bis stinkende Luft, unbefriedigende optische Eindrück... Nicht überall, wo unter angenehmen klimatischen Bedingungen die Fenster geöffnet werden könnten, ist es empfehlenswert dies auch zu tun. Eine Klimahülle ist zwar kein Wundermittel, mit der sich immer eine schöne Aussicht oder ein optimales Wunschklima erschaffen lässt, jedoch bietet sie Schutz gegen extreme Klimabedingungen und Lärm in der Umgebung und schafft, unter der Voraussetzung einer entsprechenden architektonischen Gestaltung, eine angenehme Oase der Ruhe und der frischen Luft.</dc:description>
+          <dc:description xml:lang="eng">Would you really want to open a window to chaotic conditions outside the building? Excessive noise, bad weather conditions, dirty or even noisome air, unpleasant visual impressions... opening a window is not always to be recommended even in places where it may possible in agreeable climatic conditions. A climate envelope cannot work miracles, it cannot create a beautiful view or the perfect climate, but it offers protection against extreme climatic conditions and noise in the proximity and, assuming an appropriate architectural design, creates a pleasant oasis of peace and fresh air.</dc:description>
+          <dc:date>2013-12-18</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4328</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43283</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43283</dc:identifier>
+          <dc:identifier>978-3-7983-2649-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4328/klimahuellen_climate_envelopes.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1547">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1547</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Many-Particle Effects in Two Dimensional NanostructuresSemiconductor Intersubband Transitions and Graphene</dc:title>
+          <dc:title xml:lang="deu">Vielteilcheneffekte in Zweidimensionalen NanostrukturenHalbleiter Intersubband Übergänge und Graphen</dc:title>
+          <dc:creator>Butscher, Stefan</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">In this work, quantum mechanical many-particle effects in two dimensional nanostructures are investigated by means of the density-matrix formalism, which is used to compute the microscopic material dynamics in semiconductor quantum wells as well as in graphene (two dimensional layer of carbon). The main interest lies in the interaction of the electrons with the quantized lattice motions (phonons). As semiconductor material systems, doped GaAs/AlGaAs and GaN/AlGaN quantum wells are examined, in which we find the formation of subbands that are partially occupied in thermal equilibrium. For a non-thermal occupation of such a systems, the relaxation of the distribution function via the interaction of electrons with a phonon bath is calculated. Processes beyond the incoherent scattering and dephasing are also taken into account for the electron-phonon interaction. This description also contains the formation of quasiparticles (polarons) as well as an additional attractive polaron-polaron interaction which competes with the Coulomb repulsion. It is shown that this interplay can lead to significant changes in the linear absorption behavior at low temperatures. Furthermore, quantum kinetic (non-Markovian) effects of the electron-phonon interaction are considered. Hereby, retardation effects of the interaction arise, which manifest themselves, for instance, in an enhanced damping of coherent electron density oscillations (Rabi flops). Beyond that, their quantum kinetic description leads to the formation of polaron satellites or sidebands. Especially for GaN, this leads to a strong change of the optical properties, particularly for nonlinear optical excitations. In graphene, the relaxation of an optically excited non-thermal electron distribution is examined. Due to the strong electron-phonon interaction, the relaxation is initially very fast, but is slowed down later on by the resulting excitations of the phonon system. The performed calculation gives an insight into the dynamics immediately after the optical excitation, which is currently not accessible through experiments.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit werden quantenmechanische Vielteilcheneffekte in zweidimensionalen Nanostrukturen im Rahmen der Dichtematrixtheorie untersucht. Diese wird benutzt, um eine mikroskopische Materialdynamik für Intersubbandübergänge in Halbleiter-Quantenfilmen sowie in Graphen (zweidimensionale Kohlenstoffschicht) zu berechnen. Dabei gilt das Hauptinteresse der Wechselwirkung zwischen Elektronen und quantisierten Gitterschwingungen (Phononen). Als Halbleitermaterialsysteme werden dotierte GaAs/AlGaAs und GaN/AlN Quantenfilme untersucht, in denen sich Subbänder ausbilden, die im thermischen Gleichgewicht teilweise besetzt sind. Für nichtthermische Elektronenbesetzungen solcher Systeme wird die Relaxation der Verteilung durch die Wechselwirkung mit einem Phononbad berechnet. Für die Elektron-Phonon-Wechselwirkung werden auch Prozesse jenseits inkohärenter Streuung und Dephasierung berücksichtigt. Damit beinhaltet die Beschreibung auch die Ausbildung von Quasiteilchen (Polaronen) sowie eine zusätzliche anziehende Wechselwirkung dieser Polaronen untereinander, welche in Konkurrenz zu deren Coulombabstoßung steht. Es wird gezeigt, dass diese bei tiefen Temperaturen zu deutlichen Veränderungen im linearen Absorptionsverhalten führen können. Desweiteren werden auch quantenkinetische (nichtmarkovsche) Effekte der Elektron-Phonon-Wechselwirkung betrachtet. Dadurch kommt es zu Retardierungseffekten der Wechselwirkung, welche sich beispielsweise durch eine verstärkte Dämpfung kohärenter Dichteoszillationen (Rabi Flops) bemerkbar machen. Überdies beinhaltet die quantenkinetische Beschreibung die Ausbildung von Polaronsatelliten oder Seitenbanden. Insbesondere für GaN führt das zu einer starken Veränderung der optischen Eigenschaften, vor allem bei nichtlinearer optischer Anregung. In Graphen wird die Relaxation einer optisch angeregten nichtthermischen Elektronenverteilung untersucht. Aufgrund der starken Elektron-Phonon-Wechselwirkung kommt es zunächst zu einer sehr schnellen Relaxation, die aber durch eine resultierende Anregung des Phononsystems im weiteren Verlauf deutlich gedrosselt wird. Dabei liefert die durchgeführte Rechnung Aufschluss über die Dynamik kurz nach der Anregung, welche momentan experimentell nicht zugänglich ist.</dc:description>
+          <dc:date>2007-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1547</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16022</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16022</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1547/original_Promotion.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1547/butscher_stefan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

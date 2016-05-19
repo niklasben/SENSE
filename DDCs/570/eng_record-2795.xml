@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2795">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2795</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:habilitation</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">System Biology of Aging -- Exploring the System Nature of Aging employing Reliability Theory</dc:title>
+          <dc:title xml:lang="deu">Systembiologie des Alterns</dc:title>
+          <dc:creator>Mao, Lei</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Die Alterungsforschung hat heute aufgrund der Verschiebung der demografischen Altersstruktur eine hohe Bedeutung. Ziel der Habilitationsschrift war es, Einblicke in die allgemeinen Mechanismen des Alterns zu erhalten. Inspiriert durch den Bereich des System-Engineering wurde die Reliabilitätsstheorie als eine vielversprechende Theoriebasis gewählt. Die Anwendbarkeit dieser Theorie auf biologische Systeme wurde zuerst überprüft. Weiterhin wurde ein mathematisches Modell konstruiert, um die Auswirkung der Systemredundanz auf die Alterung zu klären. Die Anwendung des Reliabilitätsmodells auf biologische Systeme hat gezeigt, dass die Redundanz zu einer hohen Zuverlässigkeit des Organismus führt, aber gleichzeitig auch das Alterungsphänomen erzeugt. Die Implementierung des Reliabilitätsmodells auf biologische Systeme führt zu drei wertvollen Erkenntnisse für die Alterungsforschung. Erstens zeigt sie, dass die Alterung und spät auftretende degenerative Erkrankungen eine gemeinsame Ursache haben. Zweitens zeigt sie, dass die Alterungsforschung sich mehr auf quantitative Aspekte fokussieren sollte, da die Alterung eine phänotypische Expression verschiedener Dimensionen von quantitativen Fehleransammlungen darstellt. Darüber hinaus sagt die Reliabilitätsstheorie aus, dass der Alterungsprozess durch ständige Erneuerung von Systemkomponenten sich verlangsamen lässt. Gemäß dieser Ansicht waren wir zunächst bestrebt, die wesentlichen quantitativen Veränderungen während der Alterung und während altersbedingter Krankheiten zu identifizieren. Dies führte zu der Erkenntnis, dass der Verlust des funktionellen Proteasoms ein wichtiger Aspekt des Alterungsprozesses ist. Die Analyse der Beziehung zwischen der Zellvolumenregulation und der Proteasomfunktion stellte fest, dass ein wesentlicher Grund für den altersbedingten Rückgang der Proteasomfunktion die zelluläre Dehydratation aufgrund eines veränderten zellulären Proteinladungsmuster ist. Verschiedene potentielle Anti-Aging-Strategien wurden diskutiert, durch die eine Schadensverminderung in frühen Lebensphasen sowie die Stimulierung von körpereigenen Reparatur- und Überwachungsmechanismen gefördert werden kann, um eine Reduzierung der Fehlerakkumulation zu gewährleisten.</dc:description>
+          <dc:description xml:lang="eng">Research on aging has obtained non-precedential importance due to the worldwide demographic structure transformation. The aim of the current work was to gain insight into the general mechanism of aging. Inspired by system engineering, we encountered the reliability theory as a promising theoretical framework. The applicability of this theory on biological systems was first verified. Next, a mathematical model was constructed in order to elucidate the impact of system redundancy on aging. The application of the reliability model on biological systems showed that redundancy in biological system leads to system reliability, but at the same time the aging phenotype. Implementation of this reliability model leads to three valuable insights: Firstly, it shows that there is common origin among aging and late-onset degenerative diseases. Secondly, it indicates that aging research should focus on quantitative aspects, as aging is a collective phenotypic expression of diverse error accumulations. Moreover, the reliability theory implies that aging can be retarded through constant subcomponent renewal. Following this view, we first strengthened to allocate essential quantitative alteration during aging and age-related diseases. This led us to the conclusion that lost of functional proteasome is most prominent aspect during aging. Through an in-depth analysis on the relation of cell volume regulation and proteasome function, we observed that one essential reason for the proteasome function decline in the aged could be the cellular dehydration due to the changed charge pattern of the proteome. Motivated by the reliability theory, several potential anti-aging strategies were discussed, where early-life intervention and body inbuilt repair and surveillance mechanism are stimulated to achieve the reduction of error accumulation.</dc:description>
+          <dc:date>2011-02-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2795</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28966</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28966</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2795/mao_lei.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

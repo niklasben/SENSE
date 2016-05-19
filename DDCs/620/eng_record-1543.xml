@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1543">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1543</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zum Aufbau einer hocheffizienten Kühlung einer elektrischen Maschine mit großer Leistungsdichte</dc:title>
+          <dc:title xml:lang="eng">Investigations into the structure of a highly efficient cooling system for a high-power-density electrical machine</dc:title>
+          <dc:creator>Stöhr, Gerd</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Elektrische Maschinen für mobile Anwendungen werden immer wichtiger, zumal diese Mög¬lichkeiten zur Energieeinsparung und zur Verringerung des Schadstoffausstoßes bieten. Damit sie statt wie bisher in stationären, auch für mobile Anwendungen einsetzbar sind, müssen sie wesentlich kompakter werden. In diesem Zusammenhang sind effektive Kühlungen unabding¬bar, um bei geringer werdender Kühlfläche die Grenztemperaturen der eingesetzten Materia¬lien nicht zu überschreiten. Die im Rahmen dieser Arbeit entwickelte Wasserkühlung befindet sich direkt in der Blech¬ebene des Statorpakets der elektrischen Maschine, wodurch sich eine hohe Effektivität errei¬chen lässt. Durch verschiedene Blechschnitte wird der Aufbau von parallelen mäandrierenden Kanälen im Blechpaket möglich. Zum Verkleben der Bleche wird die Vakuum-Druck-Im¬prägniertechnik angewendet, wobei die Kühlkanäle durch Ausblasen mit Luft harzfrei gehal¬ten werden. Die vorliegende Arbeit soll neben dem Nachweis der Machbarkeit der beschriebenen Kühlung von elektrischen Maschinen auch die Möglichkeit bieten, Wärme an anderen Anlagen effektiv abzuführen. Liegen die Parameter Oberflächenspannung und Benetzungswinkel als Charakterisierung des Klebstoffs und der Blechoberfläche vor, so lässt sich mit Hilfe des Kapillardrucks der opti¬male Blechabstand des Blechpakets festlegen. Ist der Benetzungswinkel nicht bekannt, so lässt sich dieser als Maximalwert bei angenom¬menem Blechabstand ermitteln. Dieser Benetzungswinkel darf durch die Kombination von Gießharz und Blechoberfläche, die durch Rauigkeit und Verunreinigung beeinflusst wird, nicht überschritten werden. Wichtig für den Einsatz eines Statorpakets mit integrierter Kühlung im Kraftfahrzeug ist das Erreichen einer annähernd gleichmäßigen Temperaturverteilung im Statorpaket. Für eine dau¬erfeste Auslegung des Statorpakets lässt sich diese Temperaturverteilung durch Bestromen der Statorwicklung mit einer aus den Fahrzyklen eines KFZs abgeleiteten Strombelastung überprüfen. Ortsabhängige Temperatur - Häufigkeitsverteilungen, die an einer Vielzahl von Prüflingen er¬mittelt werden, führen zu konstruktiven Änderungen, um eine zeitfeste bzw. dauerfeste Ausle¬gung des Statorpakets zu gewährleisten. Versagenskriterien sind dabei die Spannungsfestig¬keit der Wicklung sowie die Verklebung der Blechebenen. Sehr hohe Temperaturen mit geringer Häufigkeit sind dabei genauso schädlich wie geringe Temperaturen mit hoher Häufigkeit. Allerdings ist unterhalb einer dauerfesten Temperatur kein Ausfall der Statorpakete zu erwarten.</dc:description>
+          <dc:description xml:lang="eng">Electrical machines for mobile applications are of great importance, because they offer the possibility to save energy and to reduce exhaust emissions. Due to their dimensions they are used only in stationary applications until now. For mobile applications it is necessary, that they get considerably more compact. With the according shrinkage of the cooling area highly efficient cooling systems are required with respect to the temperature limits of the materials for construction. The cooling system developed in the framework of this thesis is highly effective due to the embedding of a water cooling system in the stator lamination of the electrical machine. Using different metal-sheet cuttings allows the construction of parallel meander channels in the sta¬tor lamination. A Vacuum-Pressure-Impregnation is used to bond the sheets while air pressure helps keeping the cooling channels free of resin. This dissertation is a proof-of-concept for such a cooling system in an electrical machine. Furthermore, it is meant to provide information for the construction of similar systems. Given the parameters surface tension and drop angle as characterisation of bonding material and sheet surface, one can determine the optimum sheet distance for the stator lamination using the capillary pressure. In case the drop angle is unknown a maximum value can be used for the assumed sheet distance. This drop angle must not be exceeded by the combination of resin and sheet surface, which is influenced by roughness and soiling. For the use of a stator lamination with integrated cooling system in a car one has to ensure a uniform temperature distribution in the stator lamination. This temperature distribution can be tested by heating the stator windings with current load derived from the car’s driving cycles. Measuring position-dependent temperature frequency distributions for numerous test stators leads to constructive changes to ensure a durable conception of the stator lamination. Failure criteria for these tests are the voltage resistance of the windings and the bonding of the sheet layers. Very high temperatures with low frequency as well as low temperatures with high frequency can cause damage. However, a failure of the stator lamination below a durable temperature is unlikely.</dc:description>
+          <dc:date>2007-07-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1543</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15981</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15981</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1543/stoehr_gerd.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

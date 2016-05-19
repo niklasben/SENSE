@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:460">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:460</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Simulation of self-organized growth kinetics of quantum dots</dc:title>
+          <dc:title xml:lang="deu">Simulation der selbstorganisierten Wachstumskinetik von Quantenpunkten</dc:title>
+          <dc:creator>Meixner, Matthias</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Das heteroepitaktische Wachstum von Inseln im sub-monolagen Bereich wird mittels der Monte Carlo Technik simuliert. Die f&amp;uumlr den Wachstumsprozess relevanten Parameter sind Deposition, Diffusion und n&amp;aumlchste sowie &amp;uumlbern&amp;aumlchste Nachbarbindungen. Diffusionsprozesse geschehen mit einer Wahrscheinlichkeit, die &amp;uumlber einen Arhenius Faktor bestimmt wird. Die f&amp;uumlr gitterfehlangepasstes Wachstum typische, elastische Verspannung wird &amp;uumlber ein selbstkonsistent generiertes Verspannungsfeld in das Programm eingebunden, wobei auch eine kubische Anisotropie ber&amp;uumlcksichtigt werden kann. Der Einfluß der makroskopischen Wachstumsparameter wie Temperatur, Materialfluß zur Oberfl&amp;aumlche w&amp;aumlhrend der Deposition, Oberfl&amp;aumlchenbedeckung und Dauer der Wachstumsunterbrechung auf die Grö&amp;szligenordnung und r&amp;aumlumliche Anordnung der Inseln wird betrachtet. Dazu wird ein optimaler Arbeitsbereich im Parameterraum bestimmt zu dem sowohl eine regul&amp;aumlre r&amp;aumlumliche Anordnung der Inseln als auch eine schmale Grö&amp;szligenverteilung erzielt werden kann. Es wird der &amp;Uumlbergang von kinetisch kontrollierten Wachstumsbedingungen, wie sie w&amp;aumlhrend der Deposition vorherrschen, zu thermodynamisch kontrolliertem Wachstum, wie es nach langen Relaxationszeiten beobachtet wird, analysiert und ein &amp;Uumlbergang zwischen den Wachstumsmodi beobachtet, bei dem sich die Grö&amp;szligenverteilungen zu verschiedenen Temperaturen &amp;uumlberschneiden. Es wurden Simulationen mit einem anisotropen elatischen Verspannungsfeld, welches dem von SiGe &amp;aumlhnlich ist, angestellt um experimentell beobachtete Strukturen in der Form von Inselketten, die entlang der Si(100) Richtung orientiert sind, nachzuvollziehen. Die Simulationsergebnisse decken sich auf befriedigende Weise mit den experimentellen Befunden. Das Wachstum von gestapelten Quantenpunkt Schichten wird betrachtet, wobei das selbstkonsistent berechnete Verspannungsfeld vollst&amp;aumlndig mitber&amp;uumlcksichtig wird. Man findet einen &amp;Uumlbergang von vertikal korreliertem Wachstum zu antikorreliertem Wachstum mit zunehmender Pufferschichtdicke sowie zunehmend bessere Grö&amp;szligenordnung unter den Inseln mit zunehmender Anzahl der deponierten Schichten.</dc:description>
+          <dc:description xml:lang="eng">The growth of sub-monolayer islands in heteroepitaxial semiconductor systems is simulated by means of the Monte Carlo method. As the relevant processes, deposition, diffusion and nearest- and next-nearest-neighbor bonding is included. Diffusion processes occur with Arrhenius-like probability. To account for the elastic strain inherent to lattice mismatched growth, a self-consistently calculated elastic strain field is incorporated. The influence of macroscopic growth parameters like temperature, flux to the surface during deposition, surface coverage and growth interruption time on size ordering and regular spatial arrangement of islands is analyzed. An optimal parameter range is identified to obtain both a regular spatial arrangement of dots and a narrow size distribution. The transition from kinetically controlled growth conditions to thermodynamically controlled growth reached after long equilibration times is analyzed and a crossover in island size distributions between both regimes is found for different temperatures. Simulations with anisotropic elastic strain parameters related to the SiGe system are performed to verify the experimentally observed formation of island chains oriented along Si(100) direction. Simulations are in good agreement with experimental data. The growth of stacked quantum dot layers is considered by fully taking into account the self-consistently calculated elastic strain field. A transition from vertically correlated growth to anti-correlated growth with increasing buffer layer thickness is observed as well as an improved ordering with respect to island sizes with increasing number of deposited layers.</dc:description>
+          <dc:date>2002-03-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/460</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4557</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4557</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/460/meixner_matthias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

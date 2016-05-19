@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3282">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3282</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Optimierung des Funktionsumfanges von Airport Moving Maps durch Analyse von Runway Incursions</dc:title>
+          <dc:title xml:lang="eng">Optimising the feature range of airport moving maps through the analysis of runway incursions</dc:title>
+          <dc:creator>Huber, Stefanie Anneliese</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Bis zum Jahre 2025 rechnen Experten mit einer Verdopplung der Zahl an Flugbewegungen im europäischen Raum. Mit steigender Verkehrsdichte droht sich der Trend zu Runway Incursions (RI) – Vorfällen und Unfällen am Boden, bei der sich ein Flugzeug, Fahrzeug oder eine Person an einer falschen Stelle in Start-/ Landebahnnähe aufhält – noch zu verschärfen. Aufgrund welcher Faktoren es zu derartigen Ereignissen kommt und wie es mittels technischer Unterstützung gelingen kann, die Zahl an RI zu senken, ist Gegenstand dieser Arbeit. Untersucht wurden die Ursachen von Vorfällen auf deutschem Boden, um den Funktionsumfang des Cockpitassistenzsystems Airport Moving Map (AMM) zur Verhinderung derartiger Ereignisse zu optimieren. Bisher wurde versäumt, die generellen Ursachen deutscher RI durch eine vergleichende Betrachtung zu ermitteln. Aus diesem Grund wurden mittels einer qualitativen Inhaltsanalyse die schwersten deutschen Vorfälle der letzten zehn Jahre analysiert. Die Vielzahl identifizierter Faktoren wurde sukzessive reduziert, bis sich drei wesentliche Problembereiche aus Pilotenperspektive zeigten: eine fehlende Orientierung auf dem Rollfeld, eine Abweichung von Freigaben und eine zu geringe Erkennungsrate von RI. Welchen Beitrag die AMM zur Verhinderung solcher Ereignisse leisten kann, war bis dato ungewiss, da ein Abgleich zwischen den Funktionalitäten von AMM und den Ursachen von RI fehlte. Um diese Lücke zu schließen, folgte der Ereignisanalyse eine derartige Gegenüberstellung, die belegen konnte, dass das Potenzial von AMM zur Verhinderung von RI noch nicht vollends ausgeschöpft ist. Basierend auf diesen Ergebnissen und generellen Designprinzipien zur Gestaltung von AMM wurden drei neue Funktionalitäten zur Prävention und Intervention bei RI bis zur Prototypenreife entwickelt, in eine bestehende AMM implementiert und in experimentellen Studien mit Verkehrspiloten getestet. Die Ergebnisse konnten den Erfolg der Funktionalitäten sowohl in objektiven Maßen (z.B. Reaktionszeiten, Situationsbewusstsein) als auch subjektiven Maßen (z.B. Workload, Zufriedenstellung, Sicherheitszugewinn) nachweisen. Befragt nach ihrer Präferenz sprach sich die Mehrheit der Piloten für die Einführung der Funktionalitäten aus. Mit dieser Arbeit konnte ein Beitrag zur Ergründung der Ursachen deutscher RI erbracht und mit der Entwicklung neuer Funktionalitäten weiteres Potenzial der AMM zur Verhinderung von RI erschlossen und nachgewiesen werden.</dc:description>
+          <dc:description xml:lang="eng">With experts expecting European air traffic to double by 2025, the increasing traffic density threatens to increase the trend towards runway incursions (RIs). RIs are a particular class of incidents and accidents on the ground, defined as any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft. This doctoral thesis looks into the contributory factors and how the number of RIs can be decreased through technological means. In order to prevent further such incidents, German RIs were analysed with a view to optimising the range of functions of the Airport Moving Map (AMM) cockpit assistance system. Until now, no comparative studies have looked into common causes of German RIs. For this reason a qualitative content analysis was conducted into the most serious RI incidents over the last ten years on German soil. After successively consolidating the large number of contributory factors, three main problem areas became evident: orientation on the airfield surface, deviation from clearances and a low detection rate of RIs once underway. Since the scale of the AMM’s contribution to the prevention of RIs was unclear, a comparison of AMM functions with RI contributory factors was carried out. Based on these findings and general AMM design principles, three new functions for the prevention of RIs and for the mitigation of their consequences were developed. The functions were then implemented within an existing AMM research prototype and were tested with airline pilots in experimental studies. The findings proved the success of the functionalities in objective measures (e.g. reaction times, situational awareness) and subjective measures (e.g. workload, user satisfaction, safety gain). The majority of the pilots recommended implementing the functionalities. This thesis makes a contribution towards the identification of the causes for German RIs and in addition, experimentally proves further AMM functions for the prevention of RIs.</dc:description>
+          <dc:date>2012-04-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3282</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34380</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34380</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3282/huber_stefanie.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3282/huber_stefanie_anhang.zip</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

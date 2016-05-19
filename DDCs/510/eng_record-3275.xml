@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3275">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3275</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Neue Medien in der Mathematikausbildung von Ingenieurinnen und Ingenieuren unter Berücksichtigung des sprachlichen und kulturellen Kontextes</dc:title>
+          <dc:title xml:lang="eng">New Media in the Mathematical Education of Engineers taking Linguistic and Cultural contexts into Consideration </dc:title>
+          <dc:creator>Manya, Esther Ndjeka</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Unbestritten ist, dass Studierende in den Ingenieurwissenschaften eine gute mathematische Ausbildung erhalten müssen. Mit Hilfe Neuer Medien können das Lehren und das Lernen in der akademischen Mathematikausbildung von Studierenden verbessern werden. Die vorliegende Arbeit besteht aus zwei Teilen. Der erste Teil beschäftigt sich mit der Visualisierung in der Mathematikausbildung von Studierenden in den Ingenieurwissenschaften. In diesem Teil der Arbeit wird zuerst über die Rolle der Visualisierung in der Didaktik der Mathematik geforscht und diskutiert und diese mit Anwendungsbeispielen demonstriert. Diese Visualisierungsbeispiele wurden weitgehend mit der im Projekt „Mumie“ entwickelten Javaklassen-Bibliothek „Mathletfactory“ zur Visualisierung mathematischer Inhalte entworfen und in der Lehre erprobt. Kriterien zur Bewertung der Qualität und Methoden zur Qualitätssicherung und zum Einsatz von für die Lehre erstellten mathematischen Visualisierungen werden hierbei vorgeschlagen. Im zweiten Teil der Arbeit wird einerseits untersucht, auf welche Schwierigkeiten nichtmuttersprachliche Studierende in der Mathematik stoßen, und andererseits, welche didaktischen und methodischen Einsätze, unter anderem mit Hilfe Neuer Medien und Technologien, einen Beitrag zur Lösung dieser Probleme leisten können. Hierbei werden drei empirische Untersuchungen (Interview, Fragebogen und Analyse von Klausuren) durchgeführt. Die Ergebnisse der Untersuchungen unterstützen es, relevante und gute Maßnahmen zu treffen ─ unter anderem die Konzeption eines interaktiven fachsprachlichen Glossars zur Unterstützung von nichtmuttersprachlichen Studierenden ─, die in der akademischen Mathematikausbildung in den Ingenieur- und Naturwissenschaften eingesetzt werden können.</dc:description>
+          <dc:description xml:lang="eng">Indisputably, a solid mathematics education is essential to engineers. Modern technologies such as New Media can be used to improve teaching of mathematics in higher Education. This thesis is structured in two parts. The first part deals with the visualization in the mathematical education of engineers. The role of visualization in mathematics in general is discussed. Examples of interactive educational visualizations for mathematics training of engineers are presented. Most of these examples were generated using the java-library „MathletFactory“ and evaluated within the project „Mumie“. Criteria for benchmarking quality as well as quality assurance methods are proposed. Criteria for successful application of visualizations in education are suggested. In the second part the specific problems of non-native speakers in the mathematical education are investigated. Three empirical studies (based on interviews, questionnaires and analysis of mistakes in written examinations) are presented. The findings suggest a number of effective measures to support non-native speakers, such as an interactive terminology glossary for mathematics.</dc:description>
+          <dc:date>2012-03-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3275</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34551</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34551</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3275/manya_esther.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4562">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4562</identifier>
+        <datestamp>2013-12-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Integrated geochemistry and basin modeling study of the Bakken Formation, Williston Basin</dc:title>
+          <dc:title xml:lang="deu">Integrierte Geochemie- und Beckenmodellierungsstudie der Bakken Formation, Williston Basin</dc:title>
+          <dc:creator>Kuhn, Philipp Peter</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">The self-contained Bakken Formation petroleum system of the Williston Basin in central North America is one of the currently most active and successful low permeability hydrocarbon plays in the world. In contrast to conventional hydrocarbon plays where selected locations or fields are drained by a limited number of wells, the low permeability reservoir of the Bakken Formation has to be stimulated to enable production. This leads to a resource play appearance of the system in which every area with available hydrocarbons has to be drilled and produced individually.&#13;
+The research and exploration activities on the Bakken Formation in the last decades led to a good overall understanding of the formation and the collection of vast amounts of data. However, a holistic explanation for the unconventional resource play appearance of the Bakken Formation petroleum system has yet to be developed.&#13;
+In this integrated geochemistry and basin modeling study the generation, retention and migration of the hydrocarbons in the system is investigated based on data compiled from different sources. It is aimed to develop a consistent description of the Bakken Formation petroleum system by combining &#13;
+1)	field data, e.g. production data, well and drilling reports,&#13;
+2)	laboratory measurements, e.g. geochemical analysis of oil and core samples, and&#13;
+3)	numerical simulation, e.g. basin and petroleum system modeling.&#13;
+Based upon the integrated dataset the generation, retention and expulsion processes in the petroleum system can be analyzed and discussed. In general, a good agreement with the behavior, as described for conventional systems, was found.&#13;
+The system becomes more complex with respect to the migration behavior, as it can be inferred from diverse opinions described in the literature. Based on the comparison of the produced petroleum composition with the modeled output of PVT-compatible compositional generation kinetics it is deduced that more differentiated migration regimes have to be considered. For example in areas with greater structural deformation the influence of migration on the in-place hydrocarbon composition is stronger as in comparison to less disturbed areas in the basin. Thus, in the vicinity of the north-south trending Nesson anticline more active migration is expected, which may explain the accumulations in the north of the Williston Basin in locations beyond the areas of the mature source rock. Nonetheless, also on the structurally less influenced flanks of the basin an intra-formation up-dip migration was identified. Using aliphatic and aromatic hydrocarbons, including biomarkers, it is demonstrated that the produced oil has a higher maturity fingerprint than the bitumen extracts of the cores in the same well locations, which is explained by a migration of hydrocarbons from deeper, more mature to up-dip, less mature areas.&#13;
+Additional evidence for hydrocarbon migration beyond the mature area of the Bakken source rock is presented on a basin-wide scale based on petroleum system modeling. Even though some input data with first order control on migration is not available in a resolution to capture the variability in the basin, the models are able to reproduce the subsurface hydrocarbon accumulations that are currently explored.&#13;
+Consequently, the Bakken Formation does not show greater differences with respect to the source related components of a conventional petroleum system. However, the migration in this low permeability formation requires further scrutiny, as a continuously saturated reservoir member is not evident from the available data.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Das in sich geschlossene Erdölsystem Bakken Formation im Untergrund des nordamerikanischen Williston Sediment Beckens ist eines der derzeit weltweit erfolgreichsten niedrigpermeablen Explorationsziele. Durch bisherige Explorationstätigkeiten und Forschungsarbeit ist es zu einem guten Verständnis der Formation und zu einer Fülle an Daten gekommen. Eine ganzheitliche Beschreibung der Prozesse, von der Entstehung im Muttergestein bis hin zu den produzierten Kohlenwasserstoffen, in diesem unkonventionellen Erdölsystems wurde bisher jedoch noch nicht entwickelt.&#13;
+Um das Verständnis für die Entstehung, Retention und Migration der Kohlenwasserstoffe im Bakken Erdölsystem weiter voranzubringen werden in dieser integrierten Studie Daten basierend auf den Methoden der Geochemie und Beckenmodellierung kombiniert. Durch das Zusammenführen von&#13;
+1)	Geländedaten, z.B. basierend auf Produktionstest, Bohrungsakten,&#13;
+2)	Laborergebnissen, z.B. geochemische Analysen von Kernproben und Ölen,&#13;
+3)	Numerische Simulation, z.B. Becken- und Erdölsystemmodellierung,&#13;
+ergibt sich somit eine bessere Charakterisierung des Bakken Erdölsystems.&#13;
+Basierend auf diesem Ansatz wurden die Entstehungs-, Retentions- und Expulsionsprozesse des Muttergesteins untersucht und diskutiert. Die Ergebnisse zeigten keine grundsätzlichen Unterschiede im Vergleich zu den Prozessen in einem konventionellen Kohlenwasserstoffsystem.&#13;
+Ungleich komplexer wird dieses unkonventionelle System im Hinblick auf das Migrationsverhalten. Der Vergleich der Eigenschaften und Zusammensetzung der produzierten Öle mit Modellierungsergebnissen, basierend auf speziell für die Bakken Formation angepasster Kinetiken zur Entstehung von Kohlenwasserstoffen, deutet darauf hin, dass ein wesentlich differenzierteres Migrationsverhalten in verschiedenen Teilen des Erdölsystems berücksichtigt werden muss. In Gebieten die strukturell stärker deformiert wurden ist ein wesentlich größerer Einfluss der Migration auf die Kohlenwasserstoffzusammensetzung zu erkennen als in weniger deformierten Gebieten. Basierend auf diesen Beobachtungen wird im Gebiet der Nesson Antiklinale eine höhere Migrationsaktivität erwartet. Dies könnte eine Erklärung für die Kohlenwasserstofflagerstätten im Norden des Williston Sediment Beckens sein, welche außerhalb des Bereichs liegen in denen die Reife des Muttergesteins ausreicht um Erdöl zu generieren. Zusätzlich ist auch in den strukturell weniger deformierten Flanken des Beckens eine der Schichtung folgende Migration zu erkennen. Durch die Analyse von aliphatischen und aromatischen Kohlenwasserstoffen und komplexeren Biomarkern kann nachgewiesen werden, dass das produzierte Öl einen höheren Reifegrad hat als die Bitumenextrakte des Bohrkerns aus der gleichen Bohrung. Dies gilt als Indiz für die Migration von Kohlenwasserstoffen aus tiefer liegenden, reiferen Bereichen in flacher liegende, weniger reife Bereiche.&#13;
+Zusätzlich wurden basierend auf den Ergebnissen der Beckenmodellierung weitere Hinweise gefunden, die auf eine Kohlenwasserstoffmigration hindeuten welche über die reifen Bereiche des Bakken Muttergesteins hinausgehen.&#13;
+Mit Bezug auf das Muttergestein können für die Bakken Formation keine größeren Unterschiede zu anderen konventionellen Erdölsystemen erkannt werden. Jedoch muss das Migrationsverhalten in dieser niedrigpermeablen Formation sehr differenziert betrachtet werden. Für eine kontinuierlich gesättigte Speichergesteinsschicht konnten keine Hinweise gefunden werden.</dc:description>
+          <dc:date>2013-12-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4562</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-45627</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-45627</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4562/kuhn_philipp.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

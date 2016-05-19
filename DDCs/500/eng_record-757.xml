@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:36Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:757">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:757</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Neuartige bifunktionelle Hemithioindigo-Chromohphore - Synthese, Einbau in biologisch relevante Strukturen und photochrome Eigenschaften</dc:title>
+          <dc:title xml:lang="eng">Novel bifunctional Hemithioindigo-Chromophores - Synthesis, Incorporation into biologically relevant structures and photochromic behavior</dc:title>
+          <dc:creator>Steinle, Wencke</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurden mono- und bifunktionelle Hemithioindigo(HT)-Chromophore duch säure- und basenkatalysierte Aldolkondensationen in guten bis sehr guten Ausbeuten hergestellt. Diese Chromophore sind auf Grund ihrer Funktionalitäten zum Einbau in Biomoleküle geeignet, um deren Konformation und Funktion zu steuern. Eine literaturbekannte Hemithioindigo-Synthese unter basischen Bedingungen wurde optimiert. Mit dieser Methode wurden erstmals Boc-geschützte HT-w-Aminosäurederivate zugänglich, die in der Peptidsynthese in Lösung und an fester Phase zum Einsatz kommen können. Die Darstellung von freien HT-Dicarbonsäuren und freien Aminosäuren gelang unter wäßrigen basischen Bedingungen in guten bis sehr guten Ausbeuten. Fmoc-geschützte HT-w-Aminosäurederivate konnten in sehr guten Ausbeuten durch säurekatalysierte Aldolkondensationen hergestellt werden. Unter sauren Bedingungen waren sowohl die Synthese von HT-w- Aminosäuren mit freier C bonsäure-Funktionalität als auch die Darstellung von Säurechloriden möglich. Die Boc- und Fmoc-geschützten HT-w-Aminosäurederivate wurden anschließend in Peptidkupplungsreaktionen zu Di- und Tripeptiden umgesetzt und an den synthetisierten Peptiden wurden Schutzgruppenabspaltungen vorgenommen, um sie auf ihre Stabilität unter Bedingungen der Peptidsynthese zu testen. Einige ausgewählte HT-Verbindungen wurden auf ihre photochemischen Eigenschaften untersucht. Bei Bestrahlung mit Licht der Wellenlänge l = 406 nm konnten hohe Umsätze zum E-Isomer für die Verbindungen erzielt werden (80-90%). Die untersuchten Verbindungen stellten sich alle als thermisch stabile Chromophore mit Halbwertszeiten von mehreren Stunden bis Tagen heraus. Außerdem zeigten die Verbindungen auch nach längerer Bestrahlung keine Zersetzung. Hemithioindigo-Verbindungen sind interessante Photoschalter, deren photochemische Eingenschaften sie zu vielversprechenden Kandidaten für den Einbau in Biomoleküle machen.</dc:description>
+          <dc:date>2004-11-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/757</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7514</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7514</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/757/steinle_wencke.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:203">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:203</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Discrete Jonas Surfaces</dc:title>
+          <dc:title xml:lang="deu">Diskrete Jonasflächen</dc:title>
+          <dc:creator>Hannappel, Susanne</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Zusammenfassung auf Deutsch Die W-Eigenschaft einer diskreten Fläche ist eine projektive Eigenschaft äquivalent zu der Existenz einer infinitesimalen Deformation, deren Einschränkung auf eine beliebige Zelle der Bewegung eines starren Körpers entspricht. Die W-Eigenschaft eines Parameternetzes einer Fläche ist eine projektive Eigenschaft äquivalent zu der Existenz einer infinitesimalen Verbiegung, für die der Koeffizient der gemischten Ableitung der zweiten Fundamentalform bis zur ersten Ordnung erhalten bleibt. Diskrete Flächen mit ebenen Vierecken haben die W-Eigenschaft genau dann, wenn für jedes Viereck die Diagonalen und die Eckenspuren tangential an einen Kegelschnitt sind. Konjugierte Parameternetze für die die zweite Fundamentalform konform ist, haben die W-Eigenschaft genau dann, wenn die Fläche eine Jonasfläche ist. Diskrete Jonasflächen sind per Definition diskrete Flächen mit ebenen Vierecken mit Diagonalen und Eckenspuren tangential an einen in zwei Geradenbüschel zerfallenden Kegelschnitt. Das folgende Resultat zeigt, dass es einen Zusammenhang zwischen der diskreten und der kontinuierlichen Definition gibt. Wenn fuer eine parametrisierte Fläche eine Funktion g existiert, so dass die infinitesimalen Vierecke der Maschenweite epsilon der Taylor Entwicklung von f^ = f + epsilon² g bis zur 6.Ordnung die Ebenheitsbedingung erfüllen und für jedes Viereck die Bedingung bis zur 2. Ordnung gilt, dass die Diagonalen und die Eckenspuren tangential an einen in zwei Geradenbüschel zerfallenden Kegelschnitt sind, dann ist die Fläche f eine Jonasfläche, das Parameternetz ist konjugiert und konform bezüglich der zweiten Fundamentalform.</dc:description>
+          <dc:description xml:lang="eng">Abstract The W-property of a discrete surface is a projective property equivalent to the existence of an infinitesimal deformation whose restriction to each cell is an infinitesimal rigid motion. The W-property of a parameter net of a surface is a projective property equivalent to the existence of an infinitesimal bending for which the coefficient of the mixed derivative of the second fundamental form is preserved to the first order. Discrete surfaces with plane quadrilaterals have the W-property if and only if for each quadrilateral the diagonals and the traces of the vertices are tangential to a conic. Conjugate parameter nets for which the second fundamental form is conformal have the W-property if and only if the surface is a Jonas surface. By definition discrete Jonas surfaces are discrete surfaces with planar quadrilaterals such that the diagonals and the traces of the vertices are tangent to a degenerate conic. The following result indicates that there is a relationship between the discrete and the continuous definition. If for a parametrized surface there is a function g such that the infinitesimal quadrilaterals of size &amp;epsilon of a Taylor expansion of f^ = f + epsilon² g are planar to the 6th order and for each quadrilateral the criterion that the diagonals and the traces of the vertices are tangential to a degenerate conic is fulfilled to the 2nd order then the surface f is a Jonas surface and the parameter net is a conjugate net such that the second fundamental form is conformal.</dc:description>
+          <dc:date>2001-10-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/203</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1988</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1988</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/203/hannappel_susanne.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

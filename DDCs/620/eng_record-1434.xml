@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1434">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1434</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einsatz integrierter Transformatoren in HF-Empfängern für den Mobilfunk</dc:title>
+          <dc:title xml:lang="eng">Integrated Transformers in RF receivers for the mobile radio</dc:title>
+          <dc:creator>Hermann, Carsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Aufgrund der Strukturverfeinerung moderner digitaler CMOS-Prozesse wird auch deren Versorgungsspannung immer geringer. Sollen analoge HF-Schaltungen für den Mobilfunk auf diesen besonders kostengünstigen Prozessen ohne zusätzliche Maskenoptionen gefertigt werden, müssen Schaltungskonzepte zum Einsatz kommen, die mit Versorgungsspannungen von weniger als 1 V arbeiten. Darüber hinaus wird eine geringe Leistungsaufnahme dieser Schaltungen beim Einsatz in modernen mobilen Kommunikationsgeräten gefordert, um trotz der voranschreitenden Komplexität dieser Geräte eine lange Bereitschafts- und Nutzungsdauer gewährleisten zu können. Gleichzeitig wird die Unterstützung verschiedener Funknetze bzw. verschiedener Übertragungs-Standards heutiger mobiler Kommunikationsgeräte vorausgesetzt. Das erfordert Sende-Empfangs-Einheiten, deren Arbeitsfrequenzen dem Frequenzbereich des jeweiligen Funknetzes angepaßt werden können. Transformatorbasierte Mobilfunkempfänger sind hervorragend geeignet, diesen Anforderungen zu genügen. Durch den Einsatz integrierter Transformatoren können Ströme von einem Pfad in einen anderen induktiv eingekoppelt werden, so daß die Versorgungsspannung gegenüber vertikalen Architekturen mit übereinandergestapelten Verbrauchern reduziert werden kann. Mit Hilfe von Kapazitätsarrays kann die Resonanzfrequenz der integrierten induktiven Bauelemente auf die gewünschte Signalfrequenz abgestimmt werden, so daß ein mobiles Kommunikationsgerät mit einem einzigen Empfänger in Funknetzen mit unterschiedlichen Frequenzbereichen betrieben werden kann. Durch den schlechten Wirkungsgrad integrierter Transformatoren ergibt sich bei bisherigen Ansätzen eine Signaldämpfung, die von aktiven Bauteilen kompensiert werden muß. In Resonanz arbeitend erreichen integrierte Transformatoren jedoch eine Signalverstärkung in der Stromdomäne, wodurch die Leistungsaufnahme und die Linearität eines Mobilfunkempfängers verbessert werden können. Hierfür ist eine analytische Berechnung der Stromverstärkung dieses induktiven Bauelementes unter Einbeziehung seiner relevanten Verlustmechanismen erforderlich, und es wird eine Methode benötigt, die den Rückschluß auf die optimalen geometrischen Eigenschaften integrierter Transformatoren ermöglicht. Die Lösung dieses Problems ist Hauptbestandteil der vorliegenden Arbeit.</dc:description>
+          <dc:description xml:lang="eng">Due to the structure refinement of modern digital CMOS processes their supply voltage becomes smaller and smaller. If analog HF circuits for the mobile radio have to be manufactured on these very economical processes without additional mask options, circuit topologies have to be used, which operate at supply voltages lower than 1V. Furthermore a low power consumption of these circuits is required while being applied in modern mobile communication devices to ensure a long standby and operating time despite of the progressing complexity of these devices. At the same time the support of different radio networks and different standards of today's mobile communication devices is presupposed. This requires transceivers whose nominal frequency can be adapted to the frequency range of the respective radio network. Transformer-based receivers are outstandingly suitable to meet these requirements. Due to the employment of integrated transformers, currents can be coupled inductively from one path into one another, so that the supply voltage can be reduced contrary to architectures with stacked components. With the help of capacitor arrays the resonant frequency of the integrated inductive devices can be tuned to the desired signal frequency, making it possible to operate a mobile communication device with only one receiver in radio networks with different frequency ranges. As a result of the bad efficiency of integrated transformers, previous approaches exhibit a signal attenuation which has to be compensated from active devices. However, working in resonance integrated transformers can reach an amplification in the current domain, reducing the power consumption and improving the linearity of the receiver. Therefore an analytical computation of the current gain of this inductive device is necessary, including all its relevant loss mechanisms, and a method is needed, which enables the conclusion of the optimal geometric characteristics of integrated transformers. The solution of this problem is the main part of this work.</dc:description>
+          <dc:date>2007-02-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-c</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1434</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14850</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14850</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1434/original_hermann_carsten.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1434/hermann_carsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

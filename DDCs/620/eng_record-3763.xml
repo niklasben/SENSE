@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3763">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3763</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zweistrahl-Laserlithographie zur Erzeugung dreidimensional lokalisierter Wellenleiter in Photopolymeren</dc:title>
+          <dc:title xml:lang="eng">Two beam laser lithography for the creation of three-dimensional lokalised waveguides in photopolymers</dc:title>
+          <dc:creator>Gortner, Jonas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Dissertation befasst sich mit der Entwicklung eines neuartigen Verfahrens zur Herstellung von dreidimensional lokalisierten Wellenleitern. Solche Wellenleiter werden in der integrierten Optik verwendet und können unter anderem zum Bau kompakter optischer Koppler verwendet werden. Die Zweistrahl-Laserlithographie erlaubt es Wellenleiter eingebettet in einem Material zu erzeugen, dass bei Belichtung die Brechzahl lokal verändert. Als Ausgangsmaterial wird ein epoxidbasiertes Photopolymer verwendet. Die Arbeit beschreibt im ersten Teil die Anwendungsfelder integrierter Optik und die zukünftigen Anforderungen an die Technologie. Anschließend wir kurz auf die aktuellen Trends im Bereich der optischen Mikro- und Nanostrukturierung von Materialien eingegangen. So soll ein Überblick über mögliche Anwendungen und Anknüpfungspunkte der Zweistrahl-Laserlithographie gegeben werden. Danach werden theoretische Grundlagen eingeführt, die zum Verständnis der Arbeit beitragen. Anschließend werden numerischer Simulationen, die bei der Entwicklung der Zweistrahl-Laserlithographie wichtige Anhaltspunkte lieferten, vorgestellt. Im folgenden Kapitel wird die Entwicklungsarbeit am Zweistrahl-Laserlithographen beschrieben. Dabei wird das System nach jedem Entwicklungsschritt charakterisiert und so die Funktionstüchtigkeit demonstriert. Die Entwicklung beginnt mit einem einfachen Einstrahl-Laserlithographen, der mit einem konfokalen Mikroskop gekoppelt ist und führt dann weiter zum Zweistrahl-Laserlithographen. Das letzte Kapitel behandelt die Charakterisierung der Wellenleiter in den Polymerproben. Im ersten Teil wird die Präparation des Polymers zu Herstellung der Proben beschrieben. Anschließend werden Einstrahlwellenleiter charakterisiert. Im letzten Teil werden die Zweistrahlwellenleiter vermessen.</dc:description>
+          <dc:description xml:lang="eng">The dissertation is about the development of a new method to create three-dimensional lokalised waveguides. Such waveguides are needed in integrated optics und can amongst other things be used to build optical couplers. Two beam laser lithography allows for the creation of embedded waveguides inside a bulky material which changes its refractive index on light exposure. In this work an epoxy based photopolymer is employed. The dissertation is about the development of a new method to create three-dimensional lokalised waveguides. Such waveguides are needed in integrated optics und can amongst other things be used to build optical couplers. Two beam laser lithography allows for the creation of embedded waveguides inside a bulky material which changes its refractive index on light exposure. In this work an epoxy based photopolymer is employed. In the first part of the paper the fields of application for integrated optics und future requirements on this technology are explained. Subsequently the current trends in optical micro- and nanostructuring are layed out. This way an overview about possible applications for two beam laser lithography is given. After this the theoretical background which is needed to understand the dissertation is introduced. Additionally numerical simulations that contributed to the development of two beam laser lithography are introduced. In the subsequent chapter the development of the two beam laser lithograph is described. The system is characterized after every step of development thus operational capability proven. The development starts with a simple laser lithograph that is coupled with a confocal microscope and ends with the final two beam lithograph. The last chapter treats the characterization of the waveguides inside the polymer sample. First the preparation of the samples is described. Subsequently simple waveguides that are created with one laser beam are characterized. In the last part, the waveguides which are created with two beams are characterized.</dc:description>
+          <dc:date>2013-06-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3763</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40441</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40441</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3763/gortner_jonas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

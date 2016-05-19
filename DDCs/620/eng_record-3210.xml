@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3210">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3210</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Enabling Techniques for Future Broadband High Speed Wireless Communications</dc:title>
+          <dc:title xml:lang="deu">Schlüsseltechniken für die zukünftige breitbandige drahtlose Kommunikation mit hoher Datenrate</dc:title>
+          <dc:creator>Luo, Jian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">This thesis addresses the challenges of rapidly increasing data rate requirements in future wireless communication systems, where the emphasis is on RF impairment compensation and system design. Two scenarios are considered: the mobile cellular scenario and the Wireless Local Access Network (WLAN) scenario. In the mobile cellular scenario, the concept of multi-band-/multi-standard Base Station (BS) is discussed, which allows to manage the coexistence of different technological standards (2G/3G/4G) with reasonable installation and operation costs. For the realization of such BSs, the issue of RF impairment compensation has to be addressed, especially at the transmitter with direct conversion architecture. In this thesis, practical concepts for digital compensation of frequency selective I/Q-imbalance and modulator DC-offset are proposed for such BS transmitters. Both digital pre-equalization circuit and parameter estimation/tracking schemes are developed, which allow flexible and standard independent impairment compensation with comparatively low-complexity. The effectiveness and advantages of these schemes are verified by both numerical simulations and laboratory experiments. In the WLAN scenario, the exploitation of the 60 GHz band is studied. A new design concept for 60 GHz WLAN systems is proposed to support both high data rate and high user density for potential applications e.g. the In-Flight Entertainment (IFE) systems. First, the general system design is described. For the parameterization in the downlink (DL), the optimization between the guardband size and time domain windowing of OFDM signals is studied. Afterwards, the focus is on the compensation of both Tx- and Rx RF impairments in the DL via Rx side digital signal processing. The considered RF impairments include Carrier Frequency Offset (CFO) and Tx-/Rx I/Q-imbalance. MIMO OFDM transmission is assumed. For impairment compensation, sophisticated preamble designs as well as efficient and effective parameter estimation schemes are developed, which require comparatively low computational complexity. Finally, the uplink is also studied, with the emphasis on efficient Multi-User Detection (MUD) using MIMO configuration. All results in both scenarios contribute to the data rate enhancement in future wireless communication systems.</dc:description>
+          <dc:description xml:lang="deu">Diese Dissertation beschäftigt sich mit der Herausforderung der sehr schnell wachsenden Datenrate-Anforderungen in zukünftigen drahtlosen Kommunikationssystemen. Dabei liegt der Schwerpunkt auf Kompensierung von RF-Fehlern und Systemdesign. Zwei Anwendungsbereiche wurden betrachtet: der zellulare Mobilfunk und das drahtlose lokale Netzwerk (WLAN). Im zellularen Mobilfunk wurde das Konzept von Multi-Band- und Multi-Standard- Basis-Stationen (BS) diskutiert. Solche BS ermöglicht die Beherrschung der Koexistenz verschiedener Technologie-Generationen (2G/3G/4G) mit angemessenen Kosten. Für die Realisierung solcher BS ist die RF-Fehler-Kompensierung benötigt, insbesondere für den Sender mit Direktmischarchitektur. In dieser Dissertation wurden praktische Konzepte für die digitale Kompensierung der frequenz-selektiven I/Q-Fehler und Modulator-DC-Offset-Fehler im Sender solcher BS untersucht. Sowohl die digitale Kompensierungsschaltung als auch die Parameterschätz- und Tracking-Verfahren wurden entwickelt. Die entsprechende RF-Fehler-Kompensierung ist flexibel, standard-unabhängige und benötigt wenig Komplexität. Die Effektivität und die Vorteile der entwickelten Verfahren wurden sowohl durch numerische Simulationen als auch durch Labor-Experimente verifiziert. Im Anwendungsbereich des WLANs wurde die Nutzung der 60 GHz-Bänder studiert. Ein neues Entwurfskonzept wurde für 60 GHz WLAN vorgeschlagen, welches hohe Datenrate und hohe Nutzerdichte gleichzeitig unterstützen soll. Ein In-Flight-Entertainment (IFE) System wäre ein Beispiel der Anwendung. Zuerst wurde der allgemeine Systementwurf vorgestellt. Zum Parametrisieren der Abwärtsstrecke wurde die Optimierung der Zeitbereichsfensterung und der Schutzbandgröße von OFDM-Signalen untersucht. Danach konzentriert sich die Dissertation auf die Kompensierung der Sende- und Empfänger- RF-Fehler in der Abwärtsstrecke mithilfe der empfangsseitigen digitalen Signalverarbeitung. Die betrachteten RF-Fehler enthalten Trägerfrequenzversatz und Sende- und Empfänger-I/Q-Fehler. MIMO OFDM Übertragung wurde angenommen. Für die Kompensierung dieser RF-Fehler wurde passender Präambel-Entwurf sowie effiziente und effektive Parameterschätzverfahren entwickelt. Zuletzt wurde die Mehrnutzerentzerrung in der Aufwärtsstrecke auch untersucht. Alle Ergebnisse in beiden Anwendungsbereichen können zur Datenrateerhöhung in zukünftigen drahtlosen Kommunikationssystemen beitragen.</dc:description>
+          <dc:date>2012-02-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3210</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34235</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34235</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3210/luo_jian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

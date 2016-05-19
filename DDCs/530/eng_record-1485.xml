@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:16Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1485">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1485</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Relaxationsprozesse in optisch angeregten Metallclustern</dc:title>
+          <dc:title xml:lang="eng">Relaxation processes in optically excited metal clusters</dc:title>
+          <dc:creator>Stanzel, Jörg</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit der zeitaufgelösten Beobachtung von Relaxationsprozessen in optisch angeregten Metallclustern. Zu diesem Zweck wurden kleine massenselektierte Gold- und Wolframclusteranionen (Au(n)(-), n = 5-8, 14, 20, sowie W(n)(-), n = 3-14) mit Hilfe von zeitaufgelöster Photoelektronenspektroskopie untersucht. Als Lichtquelle kam ein Femtosekunden-Lasersystem zum Einsatz. In Abhängigkeit von der elektronischen Struktur im Valenzbereich und der optischen Anregungsenergie wurden fundamental unterschiedliche Prozesse beobachtet. Bei einer optischen Anregungsenergie von 1,56 eV wird in kleinen Goldclustern jeweils ein isolierter elektronisch angeregter Zustand bevölkert. Die zeitaufgelösten Spektren ermöglichen Einblicke in photoinduzierte Geometrieänderungen des Kerngerüsts und hängen stark von der Clustergröße ab. Die beobachteten Prozesse reichen von einer oszillatorische Schwingungswellenpakets-Bewegung in Au(5)(-) über einen extrem langlebigen (t &gt; 90 ns) elektronisch angeregten Zustand in Au(6)(-), bis hin zum photoinduzierten Schmelzen von Au(7)(-) und Au(8)(-). Erhöht man die Anregungsenergie auf 3,12 eV, so ändert sich das Verhalten grundlegend. Es können unterschiedliche elektronisch angeregte Zustände bevölkert werden und man beobachtet elektronische Relaxationsprozesse, die sich innerhalb von etwa 1 ps abspielen. Das wird anhand von Au(7)(-) Au(14)(-) und Au(20)(-) gezeigt. Aufgrund der, im Vergleich zu Goldclustern, wesentlich höheren elektronischen Zustandsdichte im Valenzbereich können in kleinen Wolframclustern bereits bei einer optischen Anregungsenergie von 1,56 eV eine Vielzahl von elektronisch angeregten Zuständen bevölkert werden. Es kommt zu schnellen elektronischen Relaxationsprozessen, die sich deutlich von einer reinen Schwingungsrelaxation unterscheiden. Bereits im vieratomigen Wolframcluster W(4)(-) spielen sich diese innerhalb von etwa 30 fs ab. Bei allen untersuchten Wolframclustern W(n)(-), n = 3-14) stellt sich nach etwa 1 ps ein Gleichgewicht zwischen Elektronen- und Schwingungssystem ein. Dieser Wert entspricht bereits der Zeitskala auf der die Relaxation von optisch angeregten Elektronen über Elektron-Phonon-Streuung in Festkörpern stattfindet.</dc:description>
+          <dc:description xml:lang="eng">The present work is concerned with the dynamics of optically excited metal clusters in the gas phase. Small mass-selected gold and tungsten cluster anions (Au(n)(-), n = 5-8, 14, 20 and W(n)(-), n= 3-14) are studied using femtosecond time-resolved photoelectron spectroscopy. Depending on the electronic structure in the valence region as well as on the optical excitation energy fundamentally different relaxation processes are observed. In small gold cluster anions excited with 1.56 eV an isolated electronically excited state is populated. The time-dependent measurements are strongly size-dependent and open insights into photoinduced geometry changes of the nuclear framework. Oscillatory vibrational wavepacket motion in Au(5)(-), an extremely long-lived ( t &gt; 90 ns) electronically excited state in Au(6)(-) as well as photoinduced melting in Au(7)(-) and Au(8)(-) is monitored in real time. By increasing the optical excitation energy to 3.12 eV a completely different scenario is observed. A multitude of electronically excited states can be reached upon optical excitation and as a consequence electronic relaxation processes that take place on a time scale of 1 ps are dominating. This is shown for Au(7)(-), Au(14)(-) and Au(20)(-). Compared to gold clusters, tungsten clusters are characterized by a significantly higher electronic density of states in the valence region. Therefore electronic relaxation processes are much more likely and take place on a significantly faster time scale. The fast electronic relaxation processes are distinguished from pure vibrational relaxation. It is shown that already in the four atomic tungsten cluster W(4)(-) electronic relaxation processes take place on a time scale of 30 fs. In all investigated tungsten cluster anions (W(n)(-), n = 3-14) an equilibrium between electronic and vibrational system is reached within around 1 ps after optical excitation which is on the same time scale as observed in solids.</dc:description>
+          <dc:date>2007-04-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1485</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15455</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15455</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1485/original_stanzel_joerg.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1485/stanzel_joerg.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

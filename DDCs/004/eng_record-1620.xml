@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1620">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1620</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Template-basierte Erfassung von Produktanforderungen in einem CAD System</dc:title>
+          <dc:title xml:lang="eng">Template acquisition of product requirements in a CAD system</dc:title>
+          <dc:creator>Alani, Luna Ibrahim Alsaid Mahmoud</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Durch die besondere Komplexität des Produktes Automobil werden gerade in dieser Branche hohe Menge von Anforderungen an den Entwicklungsprozess in den Unternehmen gestellt. Das Konzept dieser Arbeit zielt auf eine deutliche Verkürzung der Entwicklungszeiten, eine Minimierung des Kostens, und eine Steigerung der Produktqualität. Die effiziente Wiederverwendung von Wissen in den frühen Entwicklungsphasen erfordert eine template-basierte, modellgestützte, explizite, kontextsensitiven, ganzheitliche, strukturierte und konsistente Erfassung aller Anforderungen, Funktionen, Prozesse, und Erfahrungswissen, die bei der Entwicklung neuer oder bei der Modifikation bestehender Produkt über den gesamten Produktlebenszyklus erzeugt. Grundlage hierfür ist der Einsatz von Ontologien um die komplexen Abhängigkeiten zwischen Produktelemente zu modellieren und implizite Aspekte der Entwurfmodelle explizit zu machen. Auf Basis dieses Wissensmodells wird ein templatebasiertes, strukturiertes, wiederverwendbares, objektorientiertes 3D Produktmodell in CAD System entwickelt um geometrische und semantische Eigenschaften zu modellieren und darzustellen. Die beide IT Systeme (Ontologien und CAD) sind templatebasiert. Das bedeutet, sie basieren aufs gleiche Konzept, deshalb konnte der Austausch zwischen den beiden IT Systemen erschaffbar. Die beiden Systeme unterstützen die Arbeit mit HTML und XML Dateien, die die Basis für Web Technologie sind. Die 3D Visualisierung durch die Verwendung von Internetbasierte Dokumentation, die auf Ontologien und 3d XML basiert, macht der Entwicklungsprozess leicht, einfach, schnell, aktuell und global. Die Konzepte wurden in Ontoworks und CATIA implementiert welche in sechs unterschiedlichen Szenarien im Entwicklungsprozess einer Automobilindustrie angewendet wurden. In den Szenarien konnte die Vorteilhafte Einsatz von CATIA und Ontoworks gezeigt werden, Ferner konnte gezeigt werden, dass die Produktqualität durch die Wiederverwendung der template-basierte IT Tools und die Anreichung vom Konstruktionswissen gesteigert wurde und der Austauschbarkeit dazwischen ermöglicht wurde.</dc:description>
+          <dc:description xml:lang="eng">By using more complexity automobile products, the quantities of requirements to the development process are largely placed. The concept of this work aims to minimize the costing and development times, and to increase the quality of products. The efficient reuse of knowledge in the early development phases requires the support of a template based explicit, structured and consistent model. This model is a collection of all requirements, functions, and processes, which are produced by the development or the modification of existing products over the entire product life Cycle. This will be solved by using of Ontology Tool to build a knowledge model. On the base of this knowledge model is a template based, structured, reusable object-oriented 3D product model in CAD system developed to improve the geometrical and semantic characteristics. These two IT systems (Ontology and CAD) are template based. That means, they are based on the same concept, therefore the exchange could between the two IT systems creatable. The two systems support the work with HTML and XML files, which are the base for Web technology. The use of 3D visualization Internet-based documentation, which is based on Ontology and 3d XML, makes the development process easily, simply, fast, up-to-date and global. The concepts in this work have been implemented in Ontoworks and CATIA, which have been used in six different scenarios in the development process of an automobile industry. The positive employing of CATIA and Ontoworks could be shown in the scenarios, furthermore it could be shown that the product quality was increased by the reuse of the template based IT Tools and the domain construction knowledge and the exchangeability between them was made possible.</dc:description>
+          <dc:date>2007-11-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1620</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16686</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16686</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1620/alani_luna.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

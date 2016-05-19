@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2222">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2222</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Experimentelle Untersuchung und Simulation des Abschreckprozesses von bauteilähnlichen Geometrien aus G-AlSi7Mg</dc:title>
+          <dc:title xml:lang="eng">Experimental Investigation and Simulation of the Quenching Process of component-like Geometries out of G-AlSi7Mg</dc:title>
+          <dc:creator>Demirel, Cahit</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Beim Abschrecken von Aluminiumbauteilen in Wasser bilden sich auf der Bauteiloberfläche Dampffilm-, Koch- und Konvektionsphase, die gleichzeitig an unterschiedlichen Stellen des Bauteils vorliegen können und unterschiedliche Wärmetransferraten besitzen, wodurch eine sehr komplexe Wärmeabfuhr entsteht. Die Simulation des Abschreckprozesses ist auch für einfache Geometrien nur mit begrenzter Genauigkeit möglich, so dass diese meistens noch auf Experimenten basiert. In der vorliegenden Arbeit wurde der Abschreckprozess anhand vereinfachter Geometrien (Zylinder, Quader und Steggeometrie) aus G-AlSi7Mg experimentell und numerisch untersucht. Dazu wurde speziell eine Versuchsanlage aufgebaut und Abschreckversuche in Wasser unter Variation von Badtemperatur und Eintauchgeschwindigkeit durchgeführt. Schwerpunkte bildeten die Analyse der Temperaturmessungen und der Benetzungskinematik. Wichtigste Erkenntnis aus den Experimenten ist die hohe Bedeutung des Eintauchprozesses, da der Wechsel zwischen den oben genannten Phasen zumeist noch während des Eintauchens erfolgt. Basierend auf dem Vorgehen einer Arbeit aus der Literatur wurde für die Bestimmung der lokalen Wärmeübergangskoeffizienten ein einfaches, aber effizientes Verfahren eingeführt, wodurch in der thermischen Simulation insgesamt eine gute Übereinstimmung zwischen gemessenen und berechneten Temperaturen erzielt wurde. Die Eigenspannungssimulation wurde zu Vergleichszwecken mit isotropem und kinematischem Verfestigungsmodells durchgeführt und Messungen gegenübergestellt. Die wichtigsten Ergebnisse des numerischen Teils bilden die Entwicklung einer Methodik zur Bestimmung lokaler Wärmeübergangskoeffizienten, die Berücksichtigung des Eintauchprozesses in der thermischen Simulation sowie die Analyse des Einflusses von Abschreckparameter und Geometrie auf die Eigenspannungen.</dc:description>
+          <dc:description xml:lang="eng">During the water-quenching of aluminum-parts the phases called film boiling, nucleate boiling and convection arise at the surface of the part. They can exist at the same time at different positions of the part. Together with the different heat transfer rates of the phases, this results in a very complicated heat transfer. Even for simple geometries the simulation of the quenching process is only feasible with limited accurracy, so that in most cases it has to based on experiments. In the present work the quenching process was investigated experimentally and numirecally, using simplified geometries (Cylinder, Cuboid and Plate with two cut-outs) made out of G-AlSi7Mg. For this purpose a test rig was built and quench tests in water with variation of bath temperature and immersion velocity were performed. The experiments were focused on the analysis of the observed temperatures and the wetting kinematics. A crucial result of the experiments is the decisive relevance of the immersion process as phase changes predominately during immersion. Based on a state-of-the-art approach a simple, but efficient method to determine local heat transfer coeffients was introduced. This led to a good correlation between measured and calculated temperatures. For the purposes of comparision the simulation of the residual stresses was done with isotropical and kinematical hardening models and then confronted with measurements. The most important results of the numerical part are the development of a method to determine local heat transfer coefficients, in the thermal simulation, the consideration of the immersion process and the analysis of the influences coming from the quenching parameters and geometry on the residual stresses.</dc:description>
+          <dc:date>2009-09-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2222</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23363</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23363</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2222/original_cahit_demirel.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2222/demirel_cahit.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

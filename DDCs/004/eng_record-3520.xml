@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3520">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3520</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Formal Modeling, Simulation, and Validation of Communication Platforms</dc:title>
+          <dc:title xml:lang="deu">Formale Modellierung, Simulation and Validierung von Kommunikationsplattformen</dc:title>
+          <dc:creator>Modica, Tony</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Human-centric communication-based systems, including social networks as Skype, Facebook, and Second Life, have been of increasing interest throughout the last years. Up to now, however, there are no adequate modeling techniques for this kind of communication platforms that would allow formal modeling, simulation, and validation of the user behavior. In this thesis, we propose a suitable integration of algebraic high-level Petri nets and high-level replacement systems, based on well-known graph transformation techniques, in order to close this gap. On the theoretical side, this requires to develop a theory of algebraic high-level nets with individual tokens, such that the corresponding high-level replacement systems satisfy the requirements of M-adhesive transformation systems and allow the platform designer to model and to analyze token-firing and rule-based modification within a single framework. On the conceptual side, we are able to show that typical features of communication platforms such as direct calls, multi-user chats, conferences, data multicasting, platform constraints and other requirements can be modeled and validated in this framework combining suitable modeling techniques. This is demonstrated for Skype, which is used as a running example and case study. Last but not least, it is shown how to develop a visual Eclipse-based tool for communication platforms, which supports modeling, simulation, and validation of typical scenarios.</dc:description>
+          <dc:description xml:lang="deu">Kommunikationsbasierte Systeme, welche sich nach Menschen und deren Bedürfnissen orientieren, erlangten in den letzten Jahren immer größere Bedeutung und Interesse. Bislang gibt es allerdings keine angemessene umfassende Modellierungstechnik für diese Art von Kommunikationsplattformen, welche es erlauben würden, das Benutzerverhalten in derartigen Systemen formal zu modellieren, zu simulieren und zu validieren. In dieser Dissertation stellen wir eine geeignete Integration von algebraischen high-level Petrinetzen und high-level Ersetzungssystemen vor, um diese Lücke zu schließen. Von der theoretischen Seite her erfordert dies, eine Theorie algebraischer high-level Netze zu entwickeln, so dass einerseits die entsprechenden high-level Ersetzungssysteme den Eigenschaften M-adhesiver Transformationssysteme genügen und andererseits der Entwickler von Kommunikationsplattformen deren Schaltverhalten und regelbasierte Modifikation innerhalb eines Frameworks modellieren und analysieren kann. Von der konzeptuellen Seite her können wir nachweisen, dass typische Eigenschaften von Kommunikationsplattformen innerhalb dieses Frameworks unter Vewendung geeigneter Modellierungstechniken modelliert und validiert werden können, wie etwa Anrufe, Chats zwischen verschiedenen Benutzern, Konferenzen, Datenmulticasting, sowie Plattform-Constraints und andere. Dies demonstrieren wir anhand von Skype, welches uns durch die ganze Arbeit als Leitfaden, Beispiel und umfassende Fallstudie dient. Abschließend beschreiben wir die Entwicklung eines visuellen Werkzeugs für Kommunikations\-platt\-formen in Eclipse, welches den Entwickler beim Modellieren, Simulieren und Validieren unterstützt.</dc:description>
+          <dc:date>2012-11-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3520</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37503</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37503</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3520/modica_tony.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

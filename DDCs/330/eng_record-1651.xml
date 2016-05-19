@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1651">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1651</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:330</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Mobile Business - Schaffung eines Bewusstseins für mobile Potenziale im Geschäftsprozesskontext</dc:title>
+          <dc:title xml:lang="eng">Mobile Business - creating awareness of mobile potential in context off business processes</dc:title>
+          <dc:creator>Scherz, Marian</dc:creator>
+          <dc:subject>ddc:330</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit ist, den ganzheitlichen Nutzen der mobilen Informations- und Kommunikationssysteme zu erklären und aufzuzeigen wie die vorhandene Potenziale in Geschäftsprozesse integriert werden können, um diese effizienter und effektiver zu gestalten. Damit Mobile Business im Rahmen von Prozessverbesserungen oder Business Process Engineering gezielt anwendbar wird, müssen die Effekte und Potenziale identifiziert und kategorisiert werden. Der Wert eines einzelnen Geschäftsprozesses zur mobilen Aufwertung muss bestimmbar sein, um Mobile Business im Einklang mit der Gesamtstrategie des Unternehmens zu verfolgen. Die Arbeit verfolgt den Ansatz die Problematik der unstrukturierten und nicht standardisierten Herangehensweise an das Mobile Business, sowie die Defizite der existierenden Modelle zu beseitigen. Ziel ist es, eine einfache Methode zur Identifizierung von Mobile Business Chancen in der Praxis zur Verfügung zu stellen. Dazu werden nicht nur die theoretischen Möglichkeiten des Mobile Business systematisch dargestellt, sondern auch die tatsächlichen Einsatzpotenziale von Mobile Business im Geschäftsumfeld mit Hilfe einer empirischen Erhebung bewertet. Diese praktischen und theoretischen Erkenntnisse fließen in einen neuen, pragmatischen Ansatz zur Identifizierung von Mobilpotenzialen ein, welches ein Bewusstsein für Mobile Business Potenziale in der klassischen Systemanalyse schafft.</dc:description>
+          <dc:description xml:lang="eng">The purpose of this work is to explain the holistic value of mobile information and communication systems and to indicate their exiting potential for integrability into business process to improve the process efficiency and effectiveness. To apply mobile business for process improvement or business process engineering, their effects and potentials have to be identified and categorized. The value of every business process for mobile appreciation has to be determinable to apply mobile business in conformance with the corporate strategy. The work intents to remove the deficits of existing models which consist in unstructured and not standardized approaches. The purpose is to develop a simple and practical applicable method for identification of mobile business potential. Therefore the theoretical possibilities for mobile business are systematically demonstrated and the real saving potentials of mobile business are empirically evaluated. These practical and theoretical findings enter into a new, pragmatic approach for the identification of mobile business potentials. In the end this increases the awareness for mobile business potential in system analysis.</dc:description>
+          <dc:date>2008-01-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1651</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17327</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17327</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1651/original_Scherz_Zusammenfassung.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1651/scherz_marian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

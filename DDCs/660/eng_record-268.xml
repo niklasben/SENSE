@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:268">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:268</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einfluss der Prozessführung zur Trockenmüllerischen Aufarbeitung und zur Extrusion ausgewählter äthiopischer Sorghumsorten</dc:title>
+          <dc:creator>Ayele Gugsa Aragaw</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit untersucht den Einfluss der Prozessführung auf das Schälen, auf das Vermahlen mit Walzenstuhl und Prallmühle sowie auf die Extrusion von drei unterschiedlichen Sorghumsorten. Zielstellung war vor allem das Erreichen niedriger Tannin- und Fettgehalte bei gleichzeitig hoher Ausbeute sowie hohen Stärke- und Proteingehalten der Produkte. Die Versuche wurden nach der Statistischen Versuchsplanung (BN-PLAN) durchgeführt, um mittels Mehrfachoptimierung Prozessparameter zu ermitteln, die es ermöglichen qualitativ gute Produkte bei maximaler Ausbeute herzustellen. Durch das Schälen konnte der Tannin- und Fettgehalt der Sorghumkörner vermindert und dadurch die Qualität der Körner verbessert werden. Die Schälzeit war der entscheidende Einflussparameter. Für das Schälen sind sortenabhängige unterschiedliche Feuchtegehalte, Abstehzeiten und Schälzeiten anzuwenden. Die Prallzerkleinerung zeichnet sich im Vergleich zur Walzenstuhlzerkleinerung aufgrund einer höheren Zerkleinerungsintensität durch einen höheren Feinanteil im Mahlprodukt aus. Mit ihrer Steigerung erhöhte sich die Zerkleinerungsintensität und damit auch der Feingutanteil in den Zerkleinerungsprodukten. Um ein tannin-, fett- und mineralstoffarmes Endprodukt mit höher Ausbeute zu erhalten, sind sortenabhängige Umfangsgeschwindigkeiten zu wählen. Bei der Vermahlung mittels Walzenstuhl war der Mahlspalt der entscheidende Einflussparameter. Mit kleiner werdendem Mahlspalt konnte eine Zunahme der Ausbeute bei der Korngrößenklasse &lt; 710 µm festgestellt werden. Bei der Extrusion stieg die spezifische mechanische Energieeinleitung mit steigender Drehzahl linear an. Diese Steigerung führte zur Steigerung der Produkttemperatur, die positiv auf die Extrudateigenschaften wirkte. Auch bei Extrusion sind sortenabhängige Prozessparameter für das Erreichen optimaler Produkteigenschaften anzuwenden. Aus den Untersuchungen sind Prozessschemata für eine trockenmüllerische Verarbeitung des Sorghums erarbeitet worden.</dc:description>
+          <dc:date>2001-12-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/268</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2630</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2630</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/268/gugsa_ayele.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

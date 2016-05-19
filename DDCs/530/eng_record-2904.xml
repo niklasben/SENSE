@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2904">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2904</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Microscopic Description of Quantum-Dot Vertical-Cavity Surface-Emitting Structures Using Maxwell-Bloch Equations</dc:title>
+          <dc:title xml:lang="deu">Mikroskopische Beschreibung von Oberflächen-emittierenden Quantenpunkt Vertikal Resonatorstrukturen unter Verwendung der Maxwell-Bloch Gleichungen</dc:title>
+          <dc:creator>Kim, Jeong Eun</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">This work is focused on the optical properties of electrically pumped vertical-cavity surface-emitting structures which use self-assembled quantum dots (QDs) as an active medium. In order to investigate the electric field propagation and the carrier dynamics, we have proposed a model which is based on the self-consistent quantum dot-wetting layer Maxwell-Bloch equations incorporating microscopically calculated Coulomb and phonon-assisted scattering processes between the QD and the QD-embedding WL states. The scattering rates are calculated within a second order screened Born-Markov approximation and implemented as a function of the wetting layer carrier density. All numerical calculations for the carrier dynamics and the field propagation are performed using the finite-difference time-domain (FDTD) method for the full structure. Within this model, the normal mode coupling in the weak and strong coupling regime as well as the linear and nonlinear regime are studied on a microscopic level in dependence on the structural parameters, the QD properties, and the properties of the input pulse at the temperatures of 77 K and 300 K. A more detailed understanding of the light-matter interaction in the normal mode coupling is provided by the time dynamics of the electric field, the QD population inversion, and the scattering rates as well as the transmission spectra. Furthermore, the switch-on dynamics of QD vertical-cavity surface-emitting lasers (VCSELs) is microscopically investigated since the internal time scales of the switch-on delay time and the frequency and damping of relaxation oscillations of the lasers are important for high-speed optical systems. The obtained internal time scales in dependence on the strength of the injection current, the Bragg mirror reflectivity, and the number of QD layers are in agreement with experimental data. Summarizing, the work presented in this thesis provides a microscopic understanding of the light-matter interaction in confined nanostructures and further insight into other advanced techniques such as current modulation and modelocking.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit beschäftigt sich mit den optischen Eigenschaften von elektrisch gepumpten "Vertical-Cavity Surface-Emitting Structures" welche selbstorganisierte Quantenpunkte als aktives Medium nutzen. Zur Untersuchung der Propagation des elektrischen Feldes und der Ladungsträgerdynamik stellen wir ein Modell vor, das auf den selbstkonsistenten Quantenpunkt-Wetting-Layer Maxwell-Bloch-Gleichungen in Verbindung mit mikroskopisch berechneten Coulomb- und phononassistierten Streuprozessen zwischen dem Quantenpunkt und den quantenpunktumgebenden Wetting-Layer-Zuständen basiert. Die Streuraten werden in abgeschirmter Born-Markov-Näherung zweiter Ordnung berechnet und als Funktion der Wetting-Layer Ladungsdichte implementiert. Die numerischen Berechnungen der Ladungsträgerdynamik und Feldpropagationen werden mit Hilfe der FDTD-Methode (finite-difference time-domain method) für die gesamte Struktur ausgeführt. An diesem Modell wird die Eigenmodenkopplung bei schwacher und starker Kopplung sowie im linearen und nicht linearen Bereich, jeweils in Abhängigkeit von der Struktur, den Quantenpunkteigenschaften und den Eigenschaften des Eingangspulses bei Temperaturen von 300 K und 77 K, untersucht. Ein tieferes Verständnis der Licht-Materie-Wechselwirkung in der Eigenmodenkopplung wird durch die Zeitdynamik des elektrischen Feldes, der Quantenpunktbesetzungsinversion und der Streuraten sowie durch die Transmissionsspektren erzielt. Desweiteren wird die Anschaltdynamik von solchen Quantenpunkt-VCSELn (pumped vertical-cavity surface-emitting laser) mikroskopisch untersucht, da die internen Zeitskalen der Anschaltverzögerung und die Frequenz und Dämpfung der Relaxationsoszillationen von Lasern wichtig für optische Hochgeschwindigkeitssysteme sind. Die so gewonnenen internen Zeitskalen in Abhängigkeit von der eingespeisten Stromstärke, der Braggspiegel-Reflektivität und der Anzahl der Quantenpunktschichten stimmen mit experimentellen Werten überein. Zusammenfassend ermöglicht diese Arbeit ein tieferes Verständnis der Licht-Materie-Wechselwirkung in begrenzten Nanostrukturen und weiteren Einblick in andere fortgeschrittene Techniken wie etwa Strommodulierungen oder Modelocking.</dc:description>
+          <dc:date>2011-05-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2904</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30641</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30641</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2904/kim_jeongeun.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1586">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1586</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Automatisierte messtechnische Charakterisierung von 10kV Integrierten Gate-kommutierten Thyristoren (IGCTs)</dc:title>
+          <dc:title xml:lang="eng">Automated Characterization of 10kV Integrated Gate-Commutated Thyristors (IGCTs)</dc:title>
+          <dc:creator>Tschirley, Sven</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Erhöhung der Ausgangsspannungen von Mittelspannungsstromrichtern kann bei einer gegebenen Topologie durch die Reihenschaltung von mehreren Leistungshalbleitern pro Schalterposition oder durch den Einsatz von Leistungshalbleitern größerer Blockierspanung erfolgen. Die Dissertation behandelt die experimentellen Untersuchungen der ersten 10-kV-IGCTs. Ausgehend von einer Übersicht der am Markt verfügbaren bschaltbaren Leistungshalbleiter im Mittelspannungsbereich und deren Anwendungsbereichen wird die Motivation für die Entwicklung eines 10-kV-IGCTs gegeben. Es wird gezeigt, dass der Einsatz von 10-kV-IGCTs und -Dioden in einem Dreipunktspannungswechselrichter verglichen mit dem Einsatz von in Reihe geschalteten Bauelementen eine drastische Reduzierung der Komponentenzahl im Leistungsteil und damit verbundener Kostensenkung und Steigerung der Zuverlässigkeit bedeutet. Zur messtechnischen Charakterisierung der 10-kV-IGCTs wurde ein modulares Testsystem entwickelt. DieMöglichkeit der teilautomatisiertenMessung ermöglicht eine schnellere Durchführung von Messungen und Auswertungen, die Reproduzierbarkeit der Messungen für verschiedene Bauelemente wird verbessert. Die Betriebssoftware fasst alle Komponenten unter einer einheitlichen grafischen Benutzeroberfäche zusammen. Die experimentellen Untersuchungen wurden an verschieden bestrahlten symmetrischen und rückwärtsleitenden 10-kV-IGCTs durchgeführt. Untersucht wurde das Blockierverhalten sowie das Verhalten beim Ein- und Ausschalten des IGCTs sowie das Ausschalten der intergrierten antiparallelen Diode im rückwärtsleitenden 10-kV-IGCT. Die Untersuchung des Schaltverhaltens von asymmetrischen 10-kV-IGCTs mit 68mm Siliziumdurchmesser konnte zeigen, dass die Bauelemente bei einer Zwischenkreisspannung von 7 kV einen Strom von 1 kA abschalten können. Der Vergleich verschieden bestrahlter Bauelemente zeigt, dass applikationsspezifische 10-kV-IGCTs entlang einer Technologiekurve entworfen werden können. Die Untersuchungen des Ausschaltverhaltens der Diode der rückwärtsleitenden 10-kV-IGCTs zeigen, dass die Herstellung einer 10-kV-Diode möglich ist. Mit den im Rahmen dieser Arbeit durchgeführten Untersuchungen konnte gezeigt werden, dass basierend auf den Prototypen von 10-kV-IGCTs mit einem Siliziumdurchmesser von 68mm ein robuster Leistungshalbleiter für Mittelspannungsstromrichter entwickelt werden kann.</dc:description>
+          <dc:description xml:lang="eng">Increasing the output voltage of a voltage source converter using a given topology can be achieved by the use of a series connection of power semiconductors in each switch position or the use of a device with a higher blocking voltage. The scope of this dissertation is the experimental characterization of the first 10-kV-IGCTs. Based on an overview of available power semiconductors with turn-off capability in the medium voltage range, the motivation for a 10-kV-IGCT is given. It is shown, that the use of 10-kV-IGCTs and -diodes compared to a series connection of semiconductors enables a reduction of components in the power part as well as the increase of reliability. A modular test system was developed to perform the characterization of the 10-kV-IGCTs. The possibility of an automated testing enables shorter times for measurement and analysis. The reproducibility of the measurements for different devices is increased. The software of the test system integrates the different measurement devices in a single graphical user interface. The characterization of 10-kV-IGCTs was carried out for asymmetric and reverse conducting devices which received different levels of irradiation. The measurements include blocking , the turn-on and turn-on of the IGCT as well as the diode turn-off of the reverse conducting IGCTs. The investigation of the turn-off behavior of asymmetric 10-kV-IGCTs shows, that these devices are able to turn off a current of 1 kA at a DC-link voltage of 7 kV. The comparison of devices with different irradiation levels shows the potential of 10-kV-IGCTs for an application specific optimization. The characterization of the turn-off behavior of the integrated diode in the reverse conducting 10-kV-IGCTs shows the possibility of manufacturing a 10-kV-Diode. The experimental results and analysis show, that the development of a promising power semiconductor for medium voltage applications is possible based the prototypes of 10-kV-devices with a 68mm-wafer.</dc:description>
+          <dc:date>2007-09-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1586</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16430</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16430</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1586/tschirley_sven.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

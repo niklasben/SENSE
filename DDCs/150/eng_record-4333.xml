@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4333">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4333</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:150</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Social responsibility as determining factor for the sustainable development of the innovation capability</dc:title>
+          <dc:title xml:lang="deu">Soziale Verantwortung als bestimmender Faktor für eine nachhaltige Entwicklung der Innovationspotenziale</dc:title>
+          <dc:creator>Grinev, Vladimir</dc:creator>
+          <dc:subject>ddc:150</dc:subject>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Fähigkeiten und Infrastruktur für aktive Nutzung der Innovationspotenziale bestimmen den Erfolg der einzelnen Organisationen und ganzer Länder. Soziales Umfeld, bestimmt von Unternehmens- und regionalen Mentalitäten, sowie von weiteren Faktoren, die im vorliegenden Artikel kurz beschrieben werden, ist einer der entscheidenden Faktoren für eine nachhaltige Entwicklung von Innovationspotenzialen. Somit bestimmt das soziale Umfeld die Stabilität der Wirtschaft und sozialen Strukturen sowohl direkt, als die Grundlage für alle Arten der sozialen Beziehungen, als auch indirekt, als ein entscheidender Faktor für die Entwicklung der Innovationspotenziale.</dc:description>
+          <dc:date>2013-11-21</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4333</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43331</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43331</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4333/grinev_vladimir_pdfa_converted.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

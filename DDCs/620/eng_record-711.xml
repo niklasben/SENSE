@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:711">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:711</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Rekonstruktion gestörter Maschinengeräusche durch mehrkanalige Signalverarbeitung</dc:title>
+          <dc:title xml:lang="eng">Reconstruction of corrupted machine sound using multi-channel signal processing</dc:title>
+          <dc:creator>Knaak, Mirko</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Mit der vorliegenden Arbeit wird das Ziel verfolgt, die Independent Component Analysis (ICA) als Vorverarbeitung für die akustische Güteprüfung nutzbar zu machen. Die Grundidee der ICA besteht darin, mehrkanalige Signale in ihre statistisch unabhängigen Komponenten zu zerlegen. Da die Trennung blind, d.h. ohne Vorwissen über die Mischung oder die Quellen erfolgt, wird sie bei Mischungen von Luftschall als akustische blinde Quellentrennung bezeichnet. Bei der Anwendung der akustischen blinden Quellentrennung bestehen zur Zeit noch wesentliche Hürden. Zu ihnen gehört die Limitierung der aktuell verfügbaren Algorithmen auf zwei Quellen, die getrennt werden können. Damit darf das Nutzsignal nur von einem Störsignal überlagert sein, was für die praktische Anwendung einschränkend ist, weil die Anzahl der relevanten Störquellen oft größer als zwei ist und man sie a priori nicht bestimmen kann. Um neue Algorithmen zu entwickeln und die bisherigen Limitierungen besser zu verstehen, wird die akustische Blinde Quellentrennung dazu im Kontext der mehrkanaligen akustischen Signalverarbeitung theoretisch analysiert. Das bemerkenswerte Ergebnis dieser Analyse ist, daß die klassischen adaptiven Beamformer und die akustische blinde Quellentrennung grundsätzlich äquivalent sind: Die N-kanalige akustische blinde Quellentrennung besteht aus N adaptiven Minimum-Variance-Beamformern, wobei die Einfallsrichtung (DOA) des Nutzsignals implizit aus den Signalen geschätzt wird. Aus dieser Erkenntnis wird ein neuer Algorithmus hergeleite, der die ICA nicht mehr blind, sondern mit Nebeninformationen anwendet. Für ihn werden sowohl Vorteile gegenüber der blinden Quellentrennung als auch eine deutlich geringere Parameterempfindlichkeit gegenüber den adaptiven Beamformern nachgewiesen. Weiterhin wird ein mehrkanaliger Algorithmus vorgeschlagen, der auf einem Subspace-Ansatz basiert. Er findet Zeitintervalle relativer Ruhe, in denen dann das Nutzsignal zuverlässig klassifiziert werden kann. Ein derartiges Vorgehen ist zwar nur nutzbar, wenn die Störquellen intermittierend vorkommen. Dafür bietet der Algorithmus in diesem Spezialfall eine sehr schnelle, kostengünstige Lösung des Problems. Schließlich wird eine Lösung eines der wichtigsten Probleme der ICA, das Permutationsproblem, vorgeschlagen, die eine charakteristische Eigenschaft von Maschinensignalen, nämlich die annähernde Periodizität, ausnutzt. Experimentelle Tests in definierten Testumgebungen zeigen abschließend die Anwendbarkeit der neuen Algorithmen für die Verbesserung der Klassifikationsergebnisse.</dc:description>
+          <dc:date>2003-12-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/711</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7050</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7050</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/711/knaak_mirko.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

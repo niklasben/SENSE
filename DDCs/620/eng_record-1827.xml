@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1827">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1827</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Simulation transienter Wellengruppen mittels einer hybriden Finite-Elemente – Finite-Volumen Methode</dc:title>
+          <dc:title xml:lang="eng">Numerical Simulation of Transient Wave Groups Using a Hybrid Finite Element - Finite Volume Method</dc:title>
+          <dc:creator>Stück, Robert</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ziel der Arbeit ist die Entwicklung eines hybriden CFD (Computational Fluid Dynamics) Verfahrens zur effizienten Simulation von deterministischen Wellengruppen einschließlich Wellenbrechungsphänomenen und Welle-Struktur Interaktion. Dabei werden die Vorteile von zwei unterschiedlichen CFD Methoden kombiniert: • die schnelle und exakte Simulation der Ausbreitung von Meereswellen durch einen potenzialtheoretischen Ansatz und • die Simulation von Wellenbrechung und Welle-Struktur Interaktion mittels Verfahren auf Basis der Reynolds-gemittelten Navier-Stokes Gleichungen (RANSE) Zur Simulation der Wellenausbreitung wird zum einen ein am Fachgebiet Meerestechnik der TU Berlin entwickeltes numerisches Verfahren auf Grundlage der Potenzialtheorie unter Verwendung der Finiten Elemente Methode in 2D vorgestellt und einige Ergebnisse exemplarisch präsentiert. Zum anderen wird ein numerischer Wellenkanal auf Basis der Reynolds-gemittelten Navier-Stokes Gleichungen (RANSE) und der Volume of Fluid (VOF) Methode mittels kommerzieller Software erstellt und mit Messungen von deterministischen Wellenzügen validiert. Die schnelle potenzialtheoretische Methode hat den Nachteil, dass brechende Wellen nicht simuliert werden können. Zur Identifizierung von Ort und Zeit des beginnenden Brechungsvorgangs werden zwei so genannte Brechungskriterien in den Code implementiert und anhand von ausgewählten Testfällen analysiert. Der Vorteil der schnellen Berechnung der Wellenausbreitung mit dem potenzialtheoretischen Verfahren wird dann mit dem Vorteil der Erfassung von Wellenbrechung und Welle-Struktur Interaktion durch ein RANSE Verfahren kombiniert, indem die unterschiedlichen numerischen Methoden ortsabhängig oder zeitabhängig unidirektional gekoppelt werden, d.h., die Datenübergabe erfolgt nur vom potenzialtheoretischen Verfahren zum RANSE Verfahren. Dabei dienen die Brechungskriterien zur Automatisierung des Verfahrens. Diese hybride Finite-Elemente – Finite-Volumen Methode wird eingesetzt, um ausgewählte Fragestellungen in 2D und 3D, wie die Analyse der Bewegungen einer Barge in regulären Wellen oder die Begegnung von deterministischen, hohen und brechenden Wellen mit Strukturen, auf einem Standard-PC zeiteffizient zu simulieren. Die Simulationen werden mit Messungen aus den Versuchseinrichtungen der TU Berlin verglichen und die Ergebnisse kritisch diskutiert.</dc:description>
+          <dc:description xml:lang="eng">The objective of this thesis is the development of a hybrid CFD (Computational Fluid Dynamics) method for efficient numerical simulation of deterministic transient wave groups including wave breaking phenomena and wave-structure interaction. The advantages of two different CFD approaches are combined: • fast and accurate simulation of wave propagation based on potential theory and • simulation of wave breaking phenomena and wave-structure interaction using RANSE (Reynolds-Averaged Navier-Stokes Equations) methods For the two-dimensional simulation of wave propagation, a potential theory / finite element method developed at the Ocean Engineering Section of Technical University Berlin is applied. A set of results obtained by this approach is presented exemplarily. In addition, a numerical wave tank based on RANSE and the Volume of Fluid (VOF) method is generated using commercial software tools. Validation with experimental results of deterministic wave trains shows good agreement. The disadvantage of the potential theory approach is its incapability of modelling wave breaking processes. The location and time where wave breaking initiates is identified by two different wave breaking criteria implemented in the potential code. Selected test cases are analysed to show the validity of these criteria. By a coupling procedure, the advantage of the fast calculation of wave propagation by potential theory is combined with the RANSE method’s capability to simulate wave breaking and wave-structure interaction. Via data transfer from the potential theory program to the RANSE solver, a one-way coupling is established either at a fixed location in the wave tank or at a fixed time. The wave breaking criteria are used for automation of the process. This hybrid finite element - finite volume method is applied for efficient simulations in 2D and 3D on a conventional PC, e.g. the analysis of motions of a barge in regular waves or deterministic high breaking waves encountering structures. The simulations are compared to wave tank measurements and the results are discussed in detail.</dc:description>
+          <dc:date>2008-07-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1827</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19298</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19298</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1827/stueck_robert.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2920">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2920</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Anwendung der Gruppenbeitragszustandsgleichung VTPR für die Analyse von reinen Stoffen und Mischungen als Arbeitsmittel in technischen Kreisprozessen</dc:title>
+          <dc:title xml:lang="eng">Application of group contribution equation of state VTPR for analysis of pure components and mixtures as working fluid in technical processes</dc:title>
+          <dc:creator>Abbas, Rima</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Ziel der vorliegenden Arbeit ist die Untersuchung der realen Mischungseffekte der Arbeitsmittel in technischen Kreisprozessen. Für die Beschreibung dieser Effekte kommt die Gruppenbeitrags – Volumen Translierte Peng-Robinson Zustandsgleichung (VTPR-GCEOS) zum Einsatz. Beim Einsatz alternativer Wärmequellen im rechtsläufigen Kreisprozess kann die Energieumwandlung durch einen Organic-Rankine-Cycle-Prozess (ORC) erfolgen. Bei der Weiterentwicklung des ORC-Prozesses benötigt man die thermodynamischen Reinstoff- oder Gemischstoffdaten der organischen Fluide. Die vorliegende Arbeit beschäftigt sich mit der Untersuchung von reinen Stoffen (Aromaten, lineare Siloxane und cyclische Siloxane) und deren Mischungen hinsichtlich ihrer Verwendung als Arbeitsfluide im ORC-Prozess. Für fünf verschiedene Siloxane wurden die Dampfdrücke, die Wärmekapazitäten, die Dichten, die Schmelztemperaturen und die Schmelzenthalpien, die Wärmeleitfähigkeiten und die Viskosi-täten gemessen. Diese Daten dienten einerseits zur Bestimmung der Reinstoffparameter der Zustandsgleichung (Dampfdrücke und Wärmekapazitäten) und anderseits zur Optimierung des Kreisprozesses (z.B. die Wärmeleitfähigkeit zur Auslegung des Wärmeüberträgers). Bei der Entwicklung der VTPR-GCEOS müssen die binären Gruppenwechselwirkungsparameter angepasst werden. Zu diesem Zwecke wurden für ausgewählte binäre Mischungen die Exzes-senthalpien und die Dampf-Flüssig Gleichgewichte bestimmt. Das entwickelte Modell erlaubt nun den Einfluss der Mischungseffekte auf den thermischen Wirkungsgrad zu untersuchen. Bei der thermodynamischen Analyse linksläufiger Kreisprozesse ist die korrekte Berechnung des Joule-Thomson-Koeffizienten und der damit verbundenen Joule-Thomson-Inversions¬kurve von großer Bedeutung. Die Analyse der erhaltenen Ergebnisse erlaubt die Feststellung, dass das entwicklte Modell VTPR-GCEOS erfolgreich zur Berechnung von technischen Kälteprozessen für reine Stoffe und für Mischungen eingesetzt werden kann. Bei der thermodynamischen Untersuchung dieser Kreisprozesse darf das Realverhalten auf keinen Fall vernachlässigt werden, da der jeweilige thermische Wirkungsgrad des Prozesses durch ein Extrema als Funktion der Konzentration läuft, wobei die Art des Extremas von dem Vorzeichen der Mischungsenthalpie abhängt.</dc:description>
+          <dc:description xml:lang="eng">The aim of this study is to investigate the real behavior of the working fluids in the technical cycles. For the description of these effects, the group contribution – Peng-Robinson volume translated equation of state (VTPR-GCEOS) are used. Organic Rankine Cycle (ORC) can be used to generate power by using alternative heat sources at low temperatures. In order to develop and optimize the ORC process, the thermodynamic properties of the pure and mixture organic working fluids are needed. The present work deals with the analysis of pure substances (aromatics, linear siloxanes and cyclic siloxanes) and their mixtures for their use as working fluids in the ORC process. The vapor pressures, heat capacities, densities, melting temperatures and melting enthalpies, the thermal conductivities and viscosities were measured for five different siloxanes. These data were used on one hand to determine the pure component parameters of the equation of state (vapor pressures and heat capacities) and on the other hand they can be used for the optimization of the ORC-cycle (e.g. the thermal conductivity for the design of the heat exchanger). The binary group interaction parameters of the VTPR-GCEOS were fitted to the experimental the excess enthalpies and vapor-liquid data for selected binary mixtures. Using this model, the influence of mixing effects on the thermal efficiency can be calculated. The accurate modeling of the Joule-Thomson coefficient and the Joule-Thomson inversion curve is very important for the thermodynamic analysis of the refrigerate cycles. The analysis of the obtained results related to these properties allows the conclusion that the model can be successfully applied for the modeling of technical refrigerate cycles, if pure components or binary mixture as working fluids are used. The thermodynamic modeling of technical cycle processes requires to take into account the real behavior of the working fluid, because the efficiency of the process run through an extreme value as function of the mixture composition, where the kind of the extreme value depends on the sign of the mixing enthalpy.</dc:description>
+          <dc:date>2011-06-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2920</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31000</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31000</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2920/abbas_rima.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

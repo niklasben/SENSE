@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4026">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4026</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:670</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">11th Global Conference on Sustainable Manufacturing : Abstracts</dc:title>
+          <dc:creator>Seliger, Günther</dc:creator>
+          <dc:subject>ddc:670</dc:subject>
+          <dc:description xml:lang="eng">The 2013 11th annual Global Conference on Sustainable Manufacturing (GCSM) sponsored by the International Academy for Production Engineering (CIRP) taking place in Technische Universität Berlin and Fraunhofer Production Technology Center is committed to exploiting the potentials of innovative technologies in economic, environmental and social dimensions for global value creation. If the lifestyles of upcoming and also developed communities will be shaped in the future by the existing, actually predominating technologies, then the resource consumption will exceed every accountable economic, environmental and social bound. The dynamics of global competition and cooperation shall be utilized for innovation and mediation towards the reasonably demanded sustainability on our globe. A special focus lies on condensing engineering to sustainable manufacturing, thus addressing artefact generation for shaping human living. The conference creates a platform for scientific and industrial exchange of ideas and will focus on the following areas:&#13;
+&#13;
+•	Value Creation by Sustainable Manufacturing	&#13;
+•	Sustainability Assessment and Optimization&#13;
+•	Life Cycle Engineering and Assessment&#13;
+•	Product Design for Resource Efficiency and Effectiveness&#13;
+•	Manufacturing Process and Equipment&#13;
+•	Maintenance, Repair and Overhaul&#13;
+•	Remanufacturing, Reuse and Recycling&#13;
+•	Green Supply Chain and Transportation&#13;
+•	Information and Communication Technologies for Sustainability&#13;
+•	Innovative Energy Conversions&#13;
+•	Energy Efficiency&#13;
+•	Case Studies in Implementing various Aspects of Sustainable Manufacturing&#13;
+•	Water Resource Management for Sustainability&#13;
+•	Adequate Environments for Entrepreneurial Initiative&#13;
+•	Awareness for Sustainability in Public, Government and Economics</dc:description>
+          <dc:date>2013-09-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4026</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40265</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40265</dc:identifier>
+          <dc:identifier>978-3-7983-2607-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4026/GCSM_11th_Abstracts_pdf.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY: Creative Commons-Lizenz: Namensnennung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

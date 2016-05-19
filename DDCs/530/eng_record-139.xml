@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:139">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:139</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Erzeugung und Charakterisierung von abstimmbaren VUV- und MIR-Femtosekunden-Lichtimpulsen mittels Drei-Photonen parametrischer Prozesse in nichtlinearen Kristallen : Femtosekunden-Impulserzeugung im VUV und MIR</dc:title>
+          <dc:title xml:lang="eng">Generation and characterization of tunable VUV and MIR femtosecond light pulses by three-photon parametric processes in nonlinear crystals</dc:title>
+          <dc:creator>Rotermund, Fabian</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit liefert einen wichtigen Beitrag zu Entwicklung, Untersuchung und Charakterisierung neuartiger fs-Laserquellen um 200 nm und im VUV- sowie im MIR- Spektralbereich. Es wurde erstmals gezeigt, daß die Erzeugung abstimmbarer fs-Lichtimpulse um 200 nm durch FHG eines hochrepetierenden fs-Ti:Saphirlasers mit SFG zwischen der Grundwelle und der dritten Harmonischen in BBO realisiert werden kann. Die erreichte mittlere Leistung im mW-Bereich, die bei der 82 MHz-Repetitionsrate einer sehr niedrigen Einzelimpulsenergie entspricht, reduziert im Verhältnis zu verstärkten Systemen vor allem die Zerstörungsgefahr bei Anwendungen zur Untersuchung von Adsorbaten an Oberflächen. Um fs-Lichtimpulse tiefer in den VUV-Spektralbereich zu transformieren, wurde die vierte Harmonische in geeigneten nichtlinearen Kristallen mit NIR-Impulsen gemischt. Diese Experimente wurden an einem 1 kHz fs-Ti:Saphir-Verstärkersystem, das zusätzlich mit einem NIR-OPG ausgerüstet ist, durchgeführt. Neben dem kommerziell verfügbaren Kristall KB5 standen in dieser Arbeit zwei neu entwickelte VUV-Kristalle LB4 und CLBO zur Verfügung. Man konnte mit SFG fs-Impulse bis 166 nm, die kürzeste Wellenlänge, die bisher an einem all-solid-state" System erreicht wurde, erzeugen. Neben der Wellenlängenerweiterung in den VUV-Spektralbereich wurden OPG und OPA für die Erzeugung abstimmbarer fs-MIR-Impulse demonstriert. Das Hauptziel dieser Experimente war vor allem, intensive (&gt;1 µJ) und bandbreitebegrenzte abstimmbare fs-MIR-Impulse in möglichst kompakter Ausführung zu erzeugen. Der MgO:LiNbO3 (MLN)-Kristall hat sich aufgrund der geringeren Gruppengeschwindigkeitsfehlanpassung (GVM) beim Pumpen mit einem fs-Ti:Saphir-Verstärker um 800 nm für die fs-Impulserzeugung zwischen 3 und 4 µm als sehr geeignetes OPA-Material erwiesen. Als Seedquelle diente neben einem ns-Mikrolaser auch eine Laserdiode, womit der OPA noch kompakter aufgebaut werden konnte. Dabei war die Abstimmung der erzeugten Idlerimpulse viel einfacher durch die Änderung der Seedwellenlänge (durch Temperaturabstimmung der Laserdiode) möglich. In MLN wurde auch nichtkollineare Wechselwirkung untersucht. Diese Art von OPA lieferte durch Gruppengeschwindigkeitsanpassung und damit Verlängerung der Wechselwirkungslänge neben der höheren Umwandlungseffizienz zusätzlich kürzere Impulsdauer. Die geringeren GVM-Parameter in MLN ermöglichten weiterhin die Erzeugung extrem kurzer Lichtimpulse um 3 µm. Die gemessene Impulsdauer von 50 fs entspricht nur 5 optischen Perioden. Dies ist die kürzeste Impulsdauer, die man jemals in diesem Spektralbereich mit einem OPA erreicht hat. In dem MIR-Spektralbereich zwischen 3 und 4 µm wurde mit den gleichen Pump- und Seedquellen zum ersten Mal OPA auf der Basis von einem periodisch gepolten Material (PPKTP) demonstriert und untersucht. Dabei konnte erhöhte Umwandlungseffizienz im Vergleich zur konventionellen Phasenanpassung durch die Ausnutzung des nichtlinearen Koeffizienten, der nur im periodisch gepolten KTP wirksam wird, erhalten werden. Um abstimmbare fs-Lichtimpulse oberhalb von 5 µm zu erzeugen, wurden hier zwei weitere Experimente durchgeführt. Da durch direktes Pumpen mit einem Ti:Saphir-Verstärkersystem keine Lichtimpulse in diesem Spektralbereich erzeugt werden können, wurde zuerst eine indirekte Methode benutzt. Mittels eines kaskadierten OPGs mit ZnGeP2 konnten fs-Lichtimpulse bis 10 µm generiert werden. Eine direkte Erzeugung abstimmbarer fs-Impulse im MIR bis 9 µm durch OPA wurde in dieser Arbeit an einem einzigartigen regenerativen fs-Cr:Forsterit-Verstärker demonstriert. Die Pumpimpulse bei 1.25 µm und 1 kHz aus diesem Verstärker und die abstimmbaren Seedimpulse um 1.5 µm, die aus einem nichtkritisch phasenangepaßten LBO-OPG erzeugt wurden, lieferten Idlerimpulsenergien im µJ-Bereich zwischen 5 µm und 9 µm. Zwei Kristalle, AgGaS2 und HgGa2S4 mit unterschiedlichen Wechselwirkungstypen wurden in diesem Experiment als OPA-Material verwendet.</dc:description>
+          <dc:date>2000-08-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/139</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1341</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1341</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/139/rotermund_fabian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

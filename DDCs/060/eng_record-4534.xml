@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4534">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4534</identifier>
+        <datestamp>2013-12-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:60</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Beitrag zur aktiven Schwingungsisolation in Rotor-Gehäuse-Leichtbaustrukturen</dc:title>
+          <dc:title xml:lang="eng">A contribution to active vibration isolation in rotor-casing-light weight structures</dc:title>
+          <dc:creator>Nimmig, Henrike</dc:creator>
+          <dc:subject>ddc:60</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Forschungsarbeit wird die aktive Schwingungsreduktion in der Gehäuseaufhängung unwuchterregter Rotoren mithilfe von Piezoplättchen untersucht. Hintergrund dieser Untersuchungen sind z.B. unwuchterregte Schwingungen in Flugzeugtriebwerken, welche über die die Lagerung der Turbinenwelle bis ins Gehäuse und dessen Aufhängung sowie nachfolgende Strukturen geleitet werden. Somit beanspruchen diese Schwingungen unnötigerweise eine Vielzahl von Bauteilen, welche weit von der Entstehungsquelle der Schwingungen entfernt angebracht sind und sie können sogar Komfortverluste im Flugzeug selbst verursachen.&#13;
+In Anlehnung an die in Triebwerken verwendete filigrane Stützstruktur des Intermediate Casings wurden ein Simulationsmodell und ein Prüfstand mit einer strebenförmigen Gehäusestruktur aufgebaut. Auf diesen Streben befinden sich Piezoplättchen, welche durch eine geregelte Spannungsversorgung gezielt eine Kraft in die Streben leiten, so dass dadurch die Schwingungen in der dahinter folgenden Gehäuseaufhängung entkoppelt bzw. zumindest reduziert werden.&#13;
+Das Simulationsmodell wurde mithilfe der Software ANSYS als parametrisches FE-Modell aufgebaut, dessen Systemmatrizen in MATLAB eingelesen, transformiert und als Zustandsraumdarstellung definiert. Anschließend wurden ein Optimalregler sowie zwei robuste Regler für den Betrieb in der ersten Biegeeigenfrequenz bei definierter Unwuchtanregung synthetisiert und das Ergebnis des geschlossenen Regelkreises in SIMULINK simuliert. Die so ermittelten Regler wurden anschließend am Prüfstand implementiert und die resultierenden Ergebnisse mit denen des Simulationsmodells verglichen.&#13;
+Ausgewertet wurden die Schwingwege in horizontaler und vertikaler Richtung in der Gehäuseaufhängung, die Schwingwege des Rotors sowie die Aktorspannungen. Ziel war dabei v.a. eine gute qualitative Übereinstimmung der Ergebnisse von Simulationsmodell und Prüfstand.&#13;
+Die Ergebnisse wiesen zwar leichte Diskrepanzen auf, aber dennoch konnte die Tendenz aus dem Simulationsmodell bestätigt werden: das beste Ergebnis lieferte die Optimalregelung, während die robusten Regler quasi keinen Einfluss auf das Schwingungsverhalten haben. Dort zeigte sich aber auch, dass einige Parameter wie hohe Aktorspannungen einen entscheidenden Einfluss auf das Regelergebnis haben.&#13;
+Daraufhin schlossen sich noch einige Parameterstudien am Simulationsmodell an, welche die Einflüsse einzelner Parameter auf das Regelergebnis bei Optimalregelung verdeutlichen und somit eine Grundlage für weitere Studien an real existierenden Systemen bis hin zum industriellen Einsatz der Piezos zur Schwingungsreduktion darstellen sollen.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">In this dissertation active vibration reduction of unbalance rotating shafts in frame suspension by means of piezoelectric plates was investigated. The motivation for these researches are vibrations in jet engines caused by excitations due to unbalanced masses, which are transmitted through the bearings of the turbine shaft to the frame and ist suspension and further subsequent structures. Hence a lot of construction elements are unneccessarily strained by vibrations though they are mounted far away from the vibration source. This can also be responsible for a lack of comfort of the whole aircraft itself.&#13;
+In dependence on the filigree support structure of the intermediate casing a simulation model and a test rig with a counterfort frame were build up. On these counterforts piezoelectric plates were bonded and via controlled power supply lead a defined force into the counterforts so that vibrations in the subsequent frame suspension could be degenerated or at least be reduced thereby.&#13;
+The simulation model was defined as a parametric FE-model in ANSYS, whose system matrices furthermore were imported to MATLAB, transformed and finally used to define the system in state space. Subsequently, a linear quadratic regulator (LQR) and two robust controllers were developed to reduce vibrations in frame suspension due to a defined unbalance excitation in the first natural frequency of designed controllers are applied to the test rig and results are compared to the results of the simulation. &#13;
+For this comparison the displacement of the frame suspension in horizontal and vertical direction, the displacement of the shaft and actuator voltages were evaluated. The objective was a good qualitative agreement between the results of both simulation and measurement. &#13;
+In spite of small discrepancies the results of the simulation could also be validated on the test rig: The LQR could reduce vibrations in the frame suspension while the robust controllers essentially did not influence the vibration behaviour. However researches also showed that some parameters such as high actuator voltages have an important influence on the controller performance.&#13;
+Hence, some parameter studies followed up the simulation model, which showed some detailed influences of construction and excitation on the performance of the LQR. These results are a basis for ongoing researches on the utilisation of piezoelectric plates in real existing systems in terms of reduction of vibration.</dc:description>
+          <dc:date>2013-12-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4534</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-45340</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-45340</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4534/nimmig_henrike.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

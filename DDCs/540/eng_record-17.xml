@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:17">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:17</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung einer Screeninganalyse zum Nachweis von Fruchtsaftverfälschungen mittels Fruchtsäure-Aminosäure-Fingerprints durch Gaschromatographie-Massenspektrometrie am Beispiel von Apfelsaft</dc:title>
+          <dc:creator>Töpfer, Antje</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Es wird eine neue in-situ Derivatisierung mit anschließender Gaschromatographie gekoppelt mit Massenspektrometrie (GC-MS) beschrieben. Mit Hilfe dieser Analysenmethode ist es erstmals möglich, 33 verschiedene Frucht- und Aminosäuren in einer einzigen Bestimmung zu erfassen. Dabei werden verschiedene Substanzklassen wie Dicarbonsäuren, Hydroxycarbonsäuren, aromatische Säuren und Aminosäuren gleichzeitig bestimmt. In nur wenigen Minuten werden die verschiedenen Analyten ohne aufwendige Probenvorbereitung direkt im Fruchtsaft umgesetzt und der anschließenden gaschromatographischen Analyse zugänglich gemacht. Dabei werden Fingerprints erzeugt, die aufgrund des Substanzspektrums für die untersuchten Fruchtarten charakteristisch und aussagekräftig sind. Am Beispiel des Apfelsaftes wird eine rechnergestützte Auswertung des Fingerprints erarbeitet und der Apfelsaftfilter entwickelt. Mit Hilfe dieses Filters ist der Analytiker in der Lage authentischen Apfelsaft oder Verfälschungen über das dem Filter zugrunde liegende Muster zu erkennen. Durch Untersuchungen anderer, dem Apfelsaft ähnlichen, Säfte, von Mischungen mit Birnensaft und von Blindproben wird der Apfelsaftfilter getestet. Mit Hilfe dieser Testreihen wird gezeigt, daß die Kriterien des Filters hinreichend genau sind, um einen sehr geringen Anteil von Birnensaft zu erkennen und alle Blindproben richtig zu beurteilen. Trotz nachweisbarer natürlicher Schwankungen der einzelnen Analyten gelingt es in dieser Arbeit durch die rechnergestützte Auswertung der typischen Fruchtsäure-Aminosäure-Muster im Fingerprint von Apfelsaft zu erkennen, ob reiner oder verdor-bener Apfelsaft vorliegt, Citronensäure zugesetzt oder mit artfremden Säften verfälscht wurde. Ein Screeningverfahren wird vorgestellt, das auf der neuen in-situ Derivatisierung mit anschließender GC-MS und der Auswertung mit dem Apfelsaftfilter aufbaut. Mit diesem Screening ist der Analytiker in der Lage, schnell und ohne großen Aufwand Apfelsaft zu identifizieren und auf verdächtige Proben hinzuweisen, die dann weiterführenden Analysen zugeführt werden müssen.</dc:description>
+          <dc:date>1999-12-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/17</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-170</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-170</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/17/toepfer_antje.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

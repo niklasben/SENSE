@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3465">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3465</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Synthesis of microporous polymeric BINOL-deríved phosphoric acids and applications in hetererogeneous asymmetric organocatalysis</dc:title>
+          <dc:title xml:lang="deu">Synthese von mikroporöser polymerer BINOL-Phosphorsäure und Anwendungen in heterogener asymmetrischer Organokatalyse</dc:title>
+          <dc:creator>Kundu, Dipti Sankar</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="eng">This thesis presents synthesis of chiral, catalytically active as well as highly selective organic polymers of intrinsic microporosity for application in asymmetric heterogeneous organocatalysis. To polymerize enantiopure BINOL-derivatives, different organic moieties, containing thiophene unit, were synthesized and substituted on BINOL-backbone. Oxidative coupling reaction under suitable condition provided insoluble solid polymeric materials containing chiral BINOL-phosphoric acid. Other than that, different co-polymers were also synthesized adding organic molecule containing thiophene units, in different proportions. The solid material containing phosphoric acid-functionality showed high specific surface area up to 798 m2 g-1. The polymers and co-polymers yielded impressive results as heterogeneous catalyst in asymmetric transfer hydrogenation (up to 98% ee) as well as Friedel-Crafts type reaction of pyrrole and aza-ene type reaction. This type of heterogeneous catalyst is recoverable by centrifugation after reaction and found to be reusable up to 10 consecutive runs without any loss in activity or selectivity. Again, some kinetic experiments were performed for reaction rate comparison with monomeric catalyst. The porous polymeric catalyst showed much faster reaction rate for asymmetric transfer hydrogenation reaction compared to other reported polymer supported BINOL-derived phosphoric acid catalyst in same reaction condition. This is possibly due to microporous nature of the heterogeneous material. This work not only combines asymmetric organocatalysis with advanced functional material chemistry by revealing easy way to synthesize heterogeneous, microporus BINOL-phosphoric acid but also promises for future applications in large scale industrial processes for asymmetric synthesis.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wird die Synthese von chiralen, katalytisch aktiven und hochselektiven organischen Polymeren intrinsischer Mikroporosität für die Anwendung in der asymmetrischen heterogenen Organokatalyse präsentiert. Um enantiomerenreine BINOL-Derivate zu polymerisieren wurden verschiedene, Thiopheneinheiten beinhaltende organische Reste an BINOL substituiert. Oxidative Kupplungsreaktionen unter milden Bedingungen lieferten unlösliche, chirale BINOL-Phosphorsäure beinhaltende Polymere. Außerdem wurden weitere Co-Polymere mit Thiophen-Derivaten synthetisiert. Das Material mit den Phosphorsäure-Funktionalitäten zeigte eine hohe spezifische Oberfläche mit bis zu 688 m2 g-1. Die Polymere und die Co-Polymere zeigten als heterogene Katalysatoren ausgezeichnete Resultate in der asymmetrischen Hydrierung (bis zu 98% ee) und Friedel-Crafts-artigen Reaktionen von Pyrrol und Aza-ene. Der heterogene Katalysator kann nach der Reaktion durch Zentrifugieren zurückgewonnen werden und in bis zu 10 weiteren Reaktionszyklen wiederverwendet werden ohne eine Abnahme in Aktivität oder Selektivität zu zeigen. Kinetische Experimente wurden durchgeführt um den Katalysator mit der monomeren Variante zu vergleichen. Es zeigte sich, dass das poröse Polymer unter gleichen Reaktionsbedingungen in asymmetrischen Hydrierungen wesentlich höhere Reaktionsraten zeigt als andere polymere BINOL-Phosphorsäurekatalysatoren, was möglicherweise auf die Mikroporosität des heterogenen Materials zurückzuführen ist. Diese Arbeit kombiniert die asymmetrische Organokatalyse mit neuartigen funktionalisierten Materialien und demonstriert einfache Wege heterogene, mikroporöse BINOL-Phosphorsäure zu synthetisieren. Die in dieser Arbeit gezeigten Resultate sind auch für industrielle Prozesse bezüglich asymmetrischer Synthese von großem Interesse.</dc:description>
+          <dc:date>2012-09-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3465</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36888</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36888</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3465/kundu_diptisankar.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1420">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1420</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Metastability of Markov chains and in the Hopfield model</dc:title>
+          <dc:title xml:lang="deu">Metastabilität von Markov Ketten und im Hopfield Modell</dc:title>
+          <dc:creator>an der Heiden, Matthias</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This thesis is concerned with the metastable behaviour of time homogeneous Markov chains evolving on a discrete countable set. In the first part, we consider Markov chains that are reversible with respect to a given probability measure $\pi_{\epsilon}$. The small parameter $\epsilon\in\left(0,1\right)$ allows us to investigate metastability rigorously in the sense of the potential theoretic approach due to Bovier, Eckhoff, Gayrard and Klein. The main notion in this approach is the capacity of a Markov chain. We are able to show subexponential bounds on this quantity under very general assumptions and for a big class of discrete countable sets. \\ The main theorem in the first part yields, under more restrictive conditions, precise asymptotics of the capacity with multiplicative errors that tend to one. As a consequence we can prove the Eyring-Kramers formula providing sharp estimates for certain expected hitting times of our Markov chain. They exhibit the same form as in the case of a diffusion with small noise intensity on a subset of $\R^{d}$. \\ In the second part we apply our results to the Hopfield model with a fixed number, say $M$, of random patterns. We are interested in the behaviour for a large number, $N$, of neurons. The dynamics are modelled by a Markov chain of Glauber type on the set of all configurations, $\left\{ -1,1\right\} ^{N}$, which is reversible with respect to the Gibbs measure associated to the Hopfield Hamiltonian. With the help of a lumping procedure, we obtain a random Markov chain $\zeta_{N}$ on a subset of a lattice with dimension $2^{M}$. We can construct a metastable set of $\zeta_{N}$ consisting of $2M$ points that correspond to configurations near one of the patterns or its negative. \\ Then we establish the Eyring-Kramers formula for transitions between these metastable points. We obtain a completely explicit expression since we can estimate precisely the (random) position and height of the relevant saddle points. However, this holds only in a very small intervall of the temperature, and it is an open question whether this result may be extended up to a certain temperature threshold. For temperatures that are even lower we are sure that the behaviour changes. \\ With the same restrictions on the temperature we are able to unravel the structure of the low lying spectrum of the generator of $\zeta_{N}$. Due to the spin flip symmetry and the anomalously small random fluctuations of the ground states we have to take into account the valley structure of the transformed Hamiltonian.</dc:description>
+          <dc:description xml:lang="deu">Diese Dissertation behandelt das metastabile Verhalten von Markov Ketten mit abzählbarem diskreten Zustandsraum. Im ersten Teil betrachten wir Markov Ketten, die reversibel bezüglich eines vorgegebenen Wahrscheinlichkeitsmaßes $\pi_{\epsilon}$ sind. Der (kleine) Parameter $\epsilon\in\left(0,1\right)$ erlaubt es uns, im Rahmen des potentialtheoretischen Ansatzes von Bovier, Eckhoff, Gayrard und Klein Metastabilität rigoros zu definieren und nachzuweisen. Der wichtigste Begriff in diesem Ansatz ist die (Newtonsche) Kapazität einer Markov Kette. In einem ersten Schritt zeigen wir subexponentielle Abschätzungen dieser Größe unter sehr allgemeinen Bedingungen. \\ Das Hauptergebnis des ersten Teils liefert eine genaue Asymptotik der Kapazität unter restriktiveren Bedingungen an die Markov Kette und ihr reversibles Maß. Unter zu Hilfenahme bereits bekannter Ergebnisse können wir daraus die Eyring-Kramers Formel herleiten, die die Asymptotik bestimmter erwarteter Eintrittszeiten der Markov Kette angibt. \\ Im zweiten Teil werden diese Resultate auf das Hopfield Modell mit einer festen Anzahl $M$ von gelernten Mustern angewandt. Für die Komponenten dieser Muster wählen wir unabhängige und gleichverteilte Zufallsvariablen. Wir möchten das Verhalten für große Anzahlen $N$ von Neuronen beschreiben. Dabei modellieren wir die Dynamik mittels einer Markov Kette vom Glauber Typ, die reversibel bezüglich des Gibbsmaßes des Hopfield Modells ist. \\ Durch die Einführung von Blockspinvariablen erhalten wir eine Markov Kette $\zeta_{N}$ auf einer Teilmenge eines $2^{M}$-dimensionalen Gitters. Für $\zeta_{N}$ können wir eine metastabile Menge bestehend aus $2M$ Punkten angeben, wobei jeder Punkt zu Konfigurationen in der Nähe eines der Muster oder seines Negativs gehört. \\ Wir zeigen, dass für Übergänge zwischen diesen metastabilen Punkten die Eyring-Kramers Formel gilt. Die asymptotisch erwarteten Eintrittszeiten können hierbei explizit angegeben werden, da wir in einem (sehr kleinen) Temperaturintervall alle essentiellen Sattelpunkte genau bestimmen können. Diese Punkte bleiben Kandidaten für die essentiellen Sattelpunkte bis zu einem bestimmten Temperatur-Schwellenwert. \\ Mit den gleichen Einschränkungen an die Temperatur können wir schließlich die genaue Struktur und Größe der kleinsten Eigenwerte des Generators von $\zeta_{N}$ bestimmen. Aufgrund der Spin-Flip Symmetrie und der anomal kleinen Schwankungen der Grundzustände des Hopfield Models muss die Täler Struktur des transformierten Hamiltonians berücksichtigt werden.</dc:description>
+          <dc:date>2007-01-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1420</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-14473</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-14473</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1420/heiden_matthias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3048">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3048</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung von Form und Funktion eines Insektenneurons anhand von Kompartimentmodellen</dc:title>
+          <dc:title xml:lang="eng">Investigation of Form and Function of an Insect Neuron using Compartment Models</dc:title>
+          <dc:creator>Schönknecht, Susanne</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Für die Untersuchung von Form und Funktion des hier behandelten Insektenneurons MN5 des Tabakschwärmers Manduca Sexta werden Rekonstruktionen der neuronalen Morphologie des Neurons in verschiedenen Entwicklungsstadien angefertigt. Dazu werden die dendritische Verzweigungsstruktur sowie die Durchmesser und Längen der Dendritensegmente aus den zur Verfügung stehenden Konfokaldatensätzen extrahiert. Die so gewonnenen Dendritenbäume aus Zylindersegmenten werden als Multikompartimentmodelle in die Neurosimulationsumgebungen NEURON und GENESIS übertragen. Um elektrophysiologische Eigenschaften des Neurons in das Modell aufzunehmen, werden die elektrischen Parameter der sich passiv verhaltenden Zellmembran exploriert. Für ein optimales Verhältnis zwischen Simulationsaufwand und -genauigkeit werden verschiede Methoden zur Reduktion von Kompartimenten vorgestellt und miteinander verglichen. Anhand der Kompartimentmodelle werden ausgewählte morphologische Merkmale der Entwicklungsstadien Larve, W4, P5 und Adult untersucht. Dabei werden Unterschiede sowie gegenseitige Abhängigkeiten herausgestellt und bzgl. ihrer Bedeutung zur Funktion diskutiert. Konkrete Simulationen der Ausbreitung eines Aktionspotentials und der Weiterleitung postsynaptischer Spikes werden am Modell des Stadiums P5 durchgeführt und insbesondere bzgl. ihrer Relevanz für Wachstumsprozesse diskutiert. Um das funktionale Verhalten zu beschreiben, das sich aus der Ausbreitung von Aktionspotentialen bzw. aus der Weiterleitung postsynaptischer Potentiale ergibt, werden elektrische Übertragungseigenschaften in Bezug zur Form gebracht und für die vier Entwicklungsstadien miteinander verglichen. Hierfür werden Simulation des Patch-Clamp-Verfahrens bzw. Simulationen von Stromimpulsen durchgeführt, und das räumliche sowie zeitliche Abklingen des Membranpotentials wird auf die Dendritenbäume projiziert. Ein Vergleich zwischen dem zeitlichen und räumlichen Abklingen des Spannungsverlaufs lässt die Interpretation zu, dass dem larvalen Dendritenbaum ein Integratorverhalten zugeordnet werden kann, während sich der Dendritenbaum des adulten Neurons als Koinzidenzdetektor verhält. Dieses Verhalten würde die funktionalen Anforderungen unterstützen, die an das Neuron im jeweiligen Entwicklungsstadium gestellt werden.</dc:description>
+          <dc:description xml:lang="eng">The aim is to investigate the relationship between form and function of the MN5 which is a motoneuron of the tabaco hornworm manduca sexta. Therefore, reconstructions of neuronal morphology are made in various stages of development. For this, the dendritic branching structure as well as the diameters and lengths of dendritic segments are extracted from available confocal data sets. The resulting dendritic trees based on cylindric segments are transferred as multi compartment models in neuron simulation environment NEURON and GENESIS. To include electrophysiological properties of the neuron in the model, the electrical parameters of the passively behaving cell membrane are explored. For an optimal balance between simulation effort and accuracy different methods for the reduction of compartments are presented and compared. On the basis of the compartment models, selected morphological characteristics of the stages Larva, W4, P5 and Adult are studied. Emerging differences are highlighted, and mutual dependencies are discussed with respect to their importance for function. Specific simulations of the propagation of action potentials and the transfer of postsynaptic spikes are carried out on the model of the stage P5, and are discussed particularly with respect to their relevance for growth processes. To describe the functional behavior, resulting from the spread of action potentials or from the transmission of postsynaptic potentials, electrical transmission properties are put in relation with respect to form, and compared on the four stages of development. This is done by simulations of the patch-clamp method or by simulations of current pulses, and the spatial and temporal decay of the membrane potential is projected on the dendritic tree. A comparison between the temporal and spatial decay of the voltage curve allows the interpretation that the larval dendritic tree can be assigned to act as an integrator, while the dendritic tree of the adult neuron behaves as a coincidence detector. This behavior would support the functional requirements that are placed on the neuron in the respective stage of development.</dc:description>
+          <dc:date>2011-10-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3048</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32284</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32284</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3048/schoenknecht_susanne.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

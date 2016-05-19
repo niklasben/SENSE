@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:995">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:995</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Bestimmung potenzieller Umweltbelastungen von Produkten durch die lineare Extrapolation der Ergebnisse ähnlicher Produkte</dc:title>
+          <dc:title xml:lang="eng">Calculation of the potential environmental impact of products via the linear extrapolation of results for similar products</dc:title>
+          <dc:creator>Gerner, Karin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ökobilanzen zur Bestimmung von potenziellen Umweltbelastungen von Produkten, sind sehr datenintensiv und daher teuer und langwierig. In der aktuellen Bilanzierungspraxis wird an verschiedensten Punkten der Berechnung eine lineare Extrapolation von Prozessflüssen bzw. Teilbilanzergebnissen durchgeführt, um vorhandene Ergebnisse bereits durchgeführter Ökobilanzen (Originalbilanz) für neue Berechnungen (Zielbilanz) zu nutzen. Grundbedingung für dieses Vorgehen ist, dass es sich bei dem neu zu bilanzierenden Produkt um das gleiche Prozessprodukt handelt, und dass die gleichen Prozesse zu berücksichtigen sind. Alle Prozesse, deren Prozessflüsse extrapoliert werden, müssen als Black-Box-Prozesse abgebildet werden, d.h. die Prozesskoeffizienten (pij) ihrer Prozessflüsse zwischen Originalbilanz und Zielbilanz sind gleich. Technische Randbedingungen, systematische Abschneidekriterien, Allokations- und Verteilungsfaktoren werden aus der Originalbilanz übernommen. In der vorliegenden Arbeit wird untersucht, unter welchen Bedingungen sich dieses Prinzip auf ganze Produkte und Produktsysteme anwenden lässt. Grundsätzlich muss eine Gleichheit aller Einzelprozesse im Prozesssystem gewährleistet sein, was als ökobilanzielle Ähnlichkeit von Produkten bezeichnet wird. Eine ökobilanziellen Ähnlichkeit besteht, wenn alle prozessbestimmenden Produkteigenschaften gleich sind und für alle den Mengen-multiplikator bestimmenden Produkteigenschaften von Original- und Zielprodukt ein Umrechnungsfaktor bestimmbar ist. Diese Definition der ökobilanzielle Ähnlichkeit wird auf drei Ähnlichkeitskriterien (Material, geometrische und weitere prozessbestimmende Produkteigenschaften) eingeengt. Besteht zwischen zwei Produkten ökobilanzielle Ähnlichkeit, so kann von der Ökobilanz des einen Produktes (Originalprodukt) durch lineare Extrapolation auf die des zweiten Produktes (Zielprodukt) geschlossen werden. Dies stellt eine Aufwandsminimierung für die Berechnung der potenziellen Umweltbelastungen des Zielproduktes dar, da eine Vielzahl von Arbeitsschritten (Aufstellung des Prozesssystems, Berechnung der Mengenmultiplikatoren, usw.) für die Ökobilanzierung des Zielproduktes übersprungen werden können. Zur linearen Extrapolation der Ökobilanz müssen Original- und Zielprodukt in einander ähnliche Grundelemente zerlegt und für diese dann jeweils ein Extrapolationsfaktor bestimmt werden. Diese Vorgehensweise wird anhand einer Mineralwasserflasche inkl. ihrer Verkaufs- und Transportverpackung verdeutlicht. Die Ökobilanzergebnisse des Originalproduktes müssen bezogen auf Einzelprozesse bzw. auf Teilsysteme vorliegen, die bestimmten Grundelementen des Produktes zugewiesene werden können. Für jeden Prozess und Teilsystem muss das Intervall der Prozessbezugsgröße bekannt sein, innerhalb dessen eine lineare Extrapolation unter Verwendung eines Black-Box-Prozessmodells nicht zu relevanten Fehlern führt.</dc:description>
+          <dc:description xml:lang="eng">Life Cycle Assessment (LCA) is used to detemine the potential enviornmental impact of products; but since the method requires a hughe amount of data, it is expensive and time consuming. The actual LCA practice uses linear extrapolation of process flows and of indicator results for process sub-systems at different steps of the assessment, in order to re?use results of existing LCA studies (original LCA study) for the calculation of new products (goal-LCA). This procedure is based on two conditions: the same product (process, intermediate or final) is produced and the same processes are involved. All processes, for wich process flows will be extrapolated, must be modelled as black-box-processes, i.e. process coefficients (pij) will be determined for the original LCA and will be taken as equal for the goal-LCA. Technological conditions, systematical cut-off criteria, allocation and distribution factors will be taken transfered from the original LCA, too. The actual thesis investigates under which conditions, this procedure can be applied to whole products or product systems. Basically, all single processes linked within the process system should be the same, which is called here environmental similarity of products. Two products are environmental similar, if all product properties which determine the processes of their process systems are equal. For all product properties which only determine the mass multiplier of processes within the process system, it shold be possible to determine a transformation factor between the original LCA and the goal-LCA. This general definition of environmental similarity can be reduced to three criteria of similarity (material, geometrical properties an other process related product properties). In case two products are proven to be environmentally similar, the LCA results of one product (original product) can be extrapolated to calculate the LCA of the second product (goal). This procedure represents a minimization of effort for the calculation, since various calculation steps of the LCA method (building up the process system, calculation of mass multiplieres) can be scipped for the goal-LCA.</dc:description>
+          <dc:date>2005-05-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/995</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9886</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9886</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/995/gerner_karin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

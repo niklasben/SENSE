@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1295">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1295</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Fourierreihen zur Berechnung repräsentativer Volumenelemente mit Mikrostruktur</dc:title>
+          <dc:title xml:lang="eng">Fourier Series for Representative Volume Elements with Microstructure</dc:title>
+          <dc:creator>Kaßbohm, Sven</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Im Mittelpunkt der Arbeit steht die Behandlung von repräsentativen Volumenelementen mit Fourierreihen. Es werden ausschließlich Randwertprobleme mit periodischen Randbedingungen untersucht. Den repräsentativen Volumenelementen wird eine Mikrostruktur und eine Materialverteilung zugeordnet. Alle Berechnungen finden im Rahmen der linearen Elastizitätstheorie und ohne die Berücksichtigung von Volumenkräften statt. Es werden drei Typen von Kontinua mit Mikrostruktur untersucht. Bei der Lösung der Randwertprobleme für die drei Typen von Kontinua stellt sich heraus, dass derselbe Lösungsweg für alle Typen beschritten werden kann und dass sich die Lösungsoperatoren - abhängig von den beherrschenden Differentialgleichungen - auf unteschiedliche Weise im Fourierraum berechnen lassen. Eine Verallgemeinerung des Verfahrens auf beliebige Kontinua mit Mikrostruktur ist also möglich. Es zeigt sich weiterhin, dass der Fehler im vorgestellten Verfahren einzig auf der Näherung der gegebenen Materialwerte(funktionen) beruht und sich auch zahlenmäßig berechnen lässt. Mit dem vorgestellten Verfahren ist es möglich, Verzerrungen und Spannungen in repräsentativen Volumenelementen mit beliebiger Steifigkeitsverteilung zu berechnen. Und damit bietet es die Grundlage für viele Problemstellungen auf diesem Gebiet.</dc:description>
+          <dc:description xml:lang="eng">The focus of the presented work is on the treatment of representative volume elements by means of Fourier series. Only boundary value problems with periodic boundary conditions are taken into consideration. Each periodic cell carries a specific microstructure and a given distribution of the material parameters. All calculations are performed under the assumption of linear elasticity theory and absence of body forces. It is shown, that the solution procedure for all kinds of generalized continua is the same, whereas the solution operators are different for each continuum type, so that a generalization of the prescribed method is possible. It is also shown, that the only error occurring in the numeric solution procedure is error resulting from the approximation of the given material parameter distribution and that this error can be computed numerically. It is possible, to calculate strains and stresses in representative volume elements with arbitrary stiffness distribution. Through this, the prescribed method is a basic tool for many problems such as homogenization, modelling of size effects etc. .</dc:description>
+          <dc:date>2006-07-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1295</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13226</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13226</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1295/kassbohm_sven.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

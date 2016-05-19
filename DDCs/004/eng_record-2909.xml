@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2909">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2909</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Efficient Constraint Solving in Dynamic Languages</dc:title>
+          <dc:title xml:lang="deu">Effizientes Constraintlösen in dynamischen Sprachen</dc:title>
+          <dc:creator>Frank, Stephan</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The application of constraints enables the declarative description of problems with incomplete information. Typically, constraint solving is realized by an external library. Such a programming library restricts the flexibility with respect to simple exchanges with different foundational data structures and algorithms. It follows as an additional aspect, that the definition of constraint systems is not declarative or in an external, additional language form. We describe a flexible, modular solver framework which allows for the simple extension and the experimental exchange of all solver parts. A further goal of the design was an efficient architecture for constraint solving in a dynamic language environment. This has been realized by an adaption of data structures algorithms as well as the dynamic creation of specialized, problem specific functions. A generic search protocol enables the simple definition of new search approaches by basing on (and modularly expanding) existing algorithm implementations. The requirements for correctness and termination of the individual components are analyzed and proven. Furthermore, the achieved performance is compared to a highly optimized constraint solver. Furthermore, aspects of the integration of constraints and the resulting declarative definition of constraint problems and solver expansions by an transparent language embedding into the host language are portrayed.</dc:description>
+          <dc:description xml:lang="deu">Die Verwendung von Constraints ermöglicht die deklarative Beschreibung von Problemen mit unvollständiger Information. Üblicherweise wird das Lösen von Constraints in Form von Bibliotheken realisiert. Solche Constraint-Bibliotheken haben in der Regel eine eingeschränkte Flexibilität beim Experimentieren und Erweitern mit unterschiedlichen Basis-Datenstrukturen und Algorithmen. Als zusätzlicher Aspekt erfolgt die Definition von Constraint-Systemen wenig deklarativ oder in sprachfremder Form. Wir beschreiben ein flexibles, modularisiertes Solver-Framework, das eine einfache Erweiterung und experimentellen Austausch aller Solverelemente ermöglicht. Ein weiteres Ziel des Designs war das effiziente Lösen von Constraintproblemen in einer dynamischen Implementierungssprache, welche insbesondere durch die Adaption von Datenstrukturen und Algorithmen, sowie die dynamische Erzeugung spezialisierter Funktionen erreicht wurde. Ein generisches Suchprotokoll ermöglicht die einfache Definition neuer Suchansätze auf Basis bereits existierender Algorithmen. Anforderungen zur Korrektheit und Terminierung der einzelnen Komponenten werden analysiert und bewiesen. Außerdem wird die Gesamtperformance des beschriebenen Systems mit einem hochoptimierten Solversystem verglichen. Weiterhin werden Aspekte der Solverintegration und der damit verbundenen deklarativen Definition von Constraint-Problemen und Solvererweiterungen mit Hilfe einer transparenten Sprachintegration in die Host-Sprache dargestellt.</dc:description>
+          <dc:date>2011-05-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2909</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30685</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30685</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2909/frank_stephan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

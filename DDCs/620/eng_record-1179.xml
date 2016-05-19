@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:55Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1179">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1179</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Beitrag zu Entwurf und Modellierung von Anpassschaltungen für breitbandige Mikrowellen-Leistungsverstärker</dc:title>
+          <dc:title xml:lang="eng">A contribution to design and modeling of matching circuits for broadband microwave amplifiers</dc:title>
+          <dc:creator>Horn, Johannes</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Behandelt werden Anpassschaltungen für Transistor-Leistungsverstärker mit Bandbreiten zwischen einigen Oktaven und einigen Dekaden. Besondere Aufmerksamkeit gilt Leitungstransformatoren und -Symmetrierern im Frequenzbereich bis 6 GHz. Zur Einführung werden Entwurf und Aufbau eines Klasse A MOSFET-Leistungsverstärkermoduls mit einer maximalen Ausgangsleistung von 5 Watt im Frequenzbereich von 1 MHz bis 1 GHz detailliert beschrieben. Im Weiteren werden anhand von Beispielen LC-Netzwerke, Wicklungs- und Leitungstransformatoren untersucht. Den Hauptteil der Dissertation stellt die Ausarbeitung eines neuartigen Modellierungskonzepts für gestreckte Leitungstransformatoren und Symmetrierer dar, wie sie bei höheren Leistungen Anwendung finden. Die Transformatoren werden dabei als TEM-Mehrleitersysteme aufgefasst und durch zweidimensionale Feldanalyse charakterisiert. Darauf aufbauend wird ein der Länge nach skalierbares Ersatzschaltbild entworfen, das auch erhebliche Breitenausdehnungen mit zufriedenstellender Genauigkeit erfasst. Im Kleinsignalbereich werden spiralförmige Leitungstransformatoren auf multiplanaren Medien betrachtet, welche für die Massenfertigung geeignet sind. Der Schwerpunkt liegt hier auf Miniaturisierung und Kostenoptimierung.</dc:description>
+          <dc:description xml:lang="eng">The thesis discusses matching concepts and circuitry for solid-state amplifiers with bandwidths ranging between octaves and decades. The focus is set on transmission-line transformer and balun design at frequencies up to 6 GHz. By way of introduction, design and mechanical construction of a 5 Watt class A MOSFET amplifier module for 1 MHz to 1 GHz are described in detail. Following, realizations of LC ladder networks, wire-wound transformers and baluns are analyzed. The main section is dedicated to the modeling of straight transmission line transformers and compensated baluns, which are commonly used in power applications. Taking a novel approach, these devices are treated as TEM multi-conductor systems and characterized using 2D EM field analysis. On this basis a length-wise scalable equivalent circuit is set up that yields satisfactory accuracy even for geometries of significant lateral dimension. Furthermore, spiraled transmission line transformers on multi-planar media for small-signal applications are investigated. Here, the emphasis is set on miniaturization and volume-production cost optimization.</dc:description>
+          <dc:date>2005-12-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1179</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11880</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11880</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1179/horn_johannes.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:25Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1760">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1760</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Herstellung einer Biosynthesemutante von Amycolatopsis balhimycina durch Modulinsertion in die nicht-ribosomale Peptidsynthetase BpsB mittels eines kombinatorisch-biosynthetischen Ansatzes und deren massenspektrometrische Charakterisierung</dc:title>
+          <dc:title xml:lang="eng">Construction of a biosynthetic mutant of Amycolatopsis balhimycina via module insertion in the non-ribosomal peptide synthetase BpsB using a combinatorial biosynthetic approach and its mass spectrometric characterization</dc:title>
+          <dc:creator>Butz, Diane</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Herstellung einer Biosynthesemutante von Amycolatopsis balhimycina durch Modulinsertion in die nicht-ribosomale Peptidsynthetase BpsB mittels eines kombinatorisch-biosynthetischen Ansatzes und deren massenspektro-metrische Charakterisierung Die vorliegende Arbeit beschäftigt sich mit der kombinatorischen Biosynthese bei nicht-ribosomalen Peptidsynthetasen (NRPS), die aufgrund der Komplexität der Strukturen von nicht-ribosomal synthetisierten Peptiden eine ernstzunehmende Alternative zur chemischen Synthese darstellt, um Strukturderivate zu erzeugen. Ziel dieser Arbeit war die Komplettierung der bisher bei NRPS literaturbekannten Modul-manipulationen „Modulaustausch“ und „Moduldeletion“ durch das noch ausstehende Experiment der „Modulinsertion“. Als Modellverbindung diente das von A. balhimycina synthetisierte Vancomycin-Typ Glykopeptidantibiotikum Balhimycin, welches durch sein stark modifiziertes Peptidgrundgerüst (Chlorierung, oxidative Seitenkettenzyklisierung, N-Methylierung und Glykosylierung) ein sehr komplexes Beispiel einer nicht-ribosomalen Peptidsynthese darstellt. In der vorliegenden Arbeit ist es gelungen, ein zusätzliches Modul in die NRPS BpsB von A. balhimycina über eine double crossover-Strategie einzuführen, was sowohl auf genetischer Ebene mittels PCR und Southern Blot-Hybridisierung als auch auf Proteinebene mittels Disk-SDS-PAGE und anschließende massenspektrometrische Identifizierung der Gelbande nachgewiesen werden konnte. Daran schloss sich eine eingehende Charakterisierung des Produktionsprofils dieser kombinatorischen Biosynthese-Mutante mittels HPLC-ESI-MS und -MS/MS an. Diese Analyse erbrachte den Beweis, dass das eingeführte Modul auch enzymatische Aktivität besitzt und somit das Peptidrückgrat des Balhimycins um eine Aminosäure erweitert. Neben dem Beweis der Machbarkeit einer Modulinsertion bei NRPS gewährte dieses kombinatorische Biosynthese-Experiment auch Einblicke in die Flexibilität des gesamten Biosyntheseapparates. Beispielsweise war die Chlorierung der Produkte durch die Halogenase BhaA nicht beeinträchtigt, während N-Methylierung und Glykosylierung in allen 17 nachgewiesenen Biosyntheseprodukten fehlten. Bezüglich der oxidativen Seitenkettenzyklisierungen brachte die erste P450-abhängige Monooxygenase OxyB noch eine gewisse Toleranz für das neue Substrat bzw. die veränderte NRPS auf, während OxyA und OxyC keine nachweisbare Aktivität mehr zeigten.</dc:description>
+          <dc:description xml:lang="eng">The topic of the thesis is combinatorial biosynthesis with non-ribosomal peptide synthetases (NRPSs).Whereas module exchanges and module deletions are manipulations already known in literature, no example of a successful module insertion in a NRPS has been published. The model system for such an experiment was Amycolatopsis balhimycina producing the vancomycin-type glycopeptide antibiotic balhimycin which is characterized by diverse modifications of the peptidic backbone (chlorination, oxidative side-chain cyclization, N-methylation, glycosylation). The insertion of an additional module in the NRPS BpsB of Amycolatopsis balhimycina was obtained via a double crossover strategy and could be verified on the genetic and proteinogenic level. The subsequent mass spectrometric characterization of the production profile of this mutant showed the expected amino acid insertion in the peptidic backbone of balhimycin. This was the proof that the new module bears enzymatic activity.</dc:description>
+          <dc:date>2008-04-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1760</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18468</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18468</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1760/original_butz_diane.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1760/butz_diane.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

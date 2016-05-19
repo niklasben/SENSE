@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:02Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3619">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3619</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Vergleich der "Stereo Particle Image Velocimetry" (SPIV) mit rückgeführten Messverfahren und Untersuchung definiert gestörter Strömungszustände in geschlossenen Rohrleitungen</dc:title>
+          <dc:title xml:lang="eng">Comparison of "Stereo Particle Image Velocimetry" (SPIV) with traced-back methods and investigation of defined disturbed conditions in pipes</dc:title>
+          <dc:creator>Eichler, Thomas S.</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Bei der Durchfluss-Messtechnik in Rohrleitungen kommen verschiedene Durchfluss-Messgeräte zum Einsatz. Sie basieren auf unterschiedlichen Messprinzipien, wie z. B. der Ultraschalltechnik oder der magnetisch induktiven Technik. Abhängig vom jeweiligen Messprinzip gibt es Größen, die die Messunsicherheit des Messgerätes beeinflussen. So hat sich gezeigt, dass insbesondere bei Ultraschall-Sensoren neben dem Einfluss der Temperatur die Geometrie des Geschwindigkeitsfeldes (Strömungsprofil) eine entscheidende Rolle spielt. Je nach Anordnung von Rohrstrecken und Armaturen kommt es an dem Einbauort zu unterschiedlichen Strömungsprofilen. So erzeugt eine lange gerade Strecke vor dem Messgerät ein voll ausgebildetes, rotationssymmetrisches Strömungsprofil, was die optimale Situation darstellt, aber unter realen Bedingungen häufig nicht zu verwirklichen ist. In der Regel kommt es zu ungünstigen Konfigurationen wie beispielsweise dem Einbau des Messgerätes hinter Krümmern, wo ein gestörtes (asymmetrisches) Strömungsprofil vorliegt. Da der Strömungszustand einen entscheidenden Einfluss auf die Messgröße hat, ist es von großer Bedeutung das Strömungsprofil messen zu können, um Aussagen über dessen Einfluss auf ein Durchfluss-Messgerät treffen zu können. Stereoscopic Particle Image Velocimetry (SPIV) eignet sich als schnelles und präzises Messverfahren zur zeitlich und räumlich hochaufgelösten Ermittlung von 3D-Geschwindigkeitsverteilungen in Rohrleitungen. Die Methode wird mit rückgeführten Messmethoden der Laser Doppler Velocimetry (LDV) und der Wärmezählerprüfstrecke der Physikalisch Technischen Bundesanstalt in Berlin am Beispiel ungestörter und stark gestörten Strömung bewertet. Erstmalig können so SPIV-Messabweichungen bei der Volumenstrombestimmung von deutlicher kleiner als 2 % an einem komplexen Strömungszustand nachgewiesen werden. Des Weiteren finden umfangreiche Untersuchungen der Strömungsentwicklung in Rohrleitungen hinter verschiedenen Störkörpern und eine Charakterisierung der Wärmezählerprüfstrecke statt.</dc:description>
+          <dc:description xml:lang="eng">Various measurement instruments are used for flow measurement in pipes. They are based on different principles like the ultrasonic or the magnetic inductive technique. The influence on the measurement uncertainty of various quantities depends on the measurement principle. It has been shown that besides temperature, the velocity distributions played an important role and are determined by the pipe configuration. A fully developed, rotationally symmetric profile is the optimal state and is made by a long straight pipe. Different disturbing factors and the installation of the measuring instrument after bends normally give adverse conditions. To quantify the effect on the flow meter, it is very important to measure the flow profile. Stereoscopic Particle Image Velocimetry (SPIV) is a fast and precise measurement method for the investigation of 3D velocity distributions in pipes with a high time and spatial resolution. The method is tested in an undisturbed and in a strongly disturbed flow by comparison with the traced-back methods of the Laser Doppler Velocimetry (LDV) and the heat meter test section of the Physikalisch-Technische Bundesanstalt (PTB) in Berlin. For the first time measurement deviations for the flow rate determination of smaller than 2 % could be proved under such complex conditions. Furthermore, the changing effects of different flow disturbers and the conditions of the heat meter test section have been investigated.</dc:description>
+          <dc:date>2013-02-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3619</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38648</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38648</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3619/eichler_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1855">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1855</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Taktile Bedienung redundanter mobiler Manipulatoren mit einem sechsdimensionalen Kraft-Momenten-Sensor</dc:title>
+          <dc:title xml:lang="eng">Tactile commanding of redundant mobile manipulators using a single force torque sensor</dc:title>
+          <dc:creator>Neumann, Mathias</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit werden Verfahren zur taktilen Bedienung eines redundanten mobilen Manipulators mittels eines Kraft-Momenten-Sensors vorgestellt. Das Ziel ist es, diesen Service-Roboter (Produktions-Assistent) in der industriellen Fertigung als Werkzeug zum Heben und zum Transport einzusetzen. Der Benutzer berührt dazu den am Greifer angebrachten Sensor. Die aus den aufgewendeten Kräften und Momenten berechneten Bewegungen führt der Roboter aus. Aufgrund der redundanten Kinematik aus sechsachsigem Manipulator, der von einer mobilen Plattform getragen wird, kann der Roboter bei gleicher Lage des Greifers unterschiedliche Konfigurationen (Posen) einnehmen. Mit dem vorgestellten Verfahren zur unmittelbaren Interaktion wird mit den jeweils dreidimensionalen Kraft- und Momentenvektoren die Lage des Greifers direkt gesteuert. Um zusätzlich auch noch die Positur kommandieren zu können, wird der Roboter als großer Quader betrachtet, den der Bediener an einem Ende in der Hand hält. Mittels sinnvoller Heuristiken wird aus den Bewegungen dieses einfachen geometrischen Objekts auf die Intention des Bedieners geschlossen. Somit wird entweder nur der Greifer im Raum bewegt oder zur Änderung der Positur die mobile Plattform gedreht. Die Kräfte und Momente, die der Bediener am Sensor aufwendet, ändern sich bei der Führung relativ langsam. Deshalb können hochfrequente Signaländerungen als zusätzliche Benutzereingabe interpretiert werden. Es wird ein Verfahren zur symbolischen Interaktion beschrieben, mit dem Muster im Sensordatenstrom in Form von taktilen Gesten erkannt werden. Zur Erkennung werden Hidden-Markov-Modelle eingesetzt, die mit Hilfe des Baum-Welch-Algorithmus belehrt werden. Der Bediener kann durch Ausübung solcher taktilen Gesten am Sensor Kommandos geben, die z.B. den Greifer öffnen oder schließen und weitere Aktionen auslösen. Es wird gezeigt, wie der Bediener den Roboter mit Hilfe beider Verfahren über die schlanke Benutzungsschnittstelle eines einzigen Kraft-Momenten-Sensors steuern kann.</dc:description>
+          <dc:description xml:lang="eng">In this work procedures for the tactile operation of a redundant mobile manipulator are presented by means of a force torque sensor. The objective is to use this service robot (manufacturing assistant) in the industrial production as a tool for lifting and transport processes. For this purpose the user touches the sensor fixed to the gripper. The robot executes the movements which are calculated from the applied forces and torques. The six-axle manipulator is mounted on a mobile platform. As a result of the redundant kinematics the robot can adopt different configurations (postures), while the gripper remains at the same position. With the newly presented procedure of instantaneous interaction the state of the gripper can be directly controlled by the three-dimensional force and torque vectors. In order to be able to control also the posture, the robot is regarded as a square block, one end of which is held by the operator. The intention of the operator is deduced from the movements of this simple geometrical object by sensible heuristics. Thus either only the gripper is moved or the mobile platform is turned in order to change the posture. The forces and torques, which the operator applies at the sensor, change relatively slowly during the manipulation. Therefore high-frequency signal changes can be interpreted as additional user input. A method for the symbolic interaction is described, with which samples in the sensor data stream are recognized as tactile gestures. For recognition Hidden Markov Models are used, which are trained by the Baum-Welch-Algorithm. By performing such tactile gestures at the sensor, the operator can give commands which e.g. open or close the gripper and execute further actions. It is shown, how the operator can control the robot with the help of both procedures via the slim user interface of only one force moment sensor.</dc:description>
+          <dc:date>2008-08-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1855</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19698</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19698</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1855/original_neumann_mathias.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1855/neumann_mathias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2793">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2793</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:070</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Demokratisierung der arabischen Welt mit Hilfe der neuen Medien. Zwölf Expertengespräche</dc:title>
+          <dc:creator>Ben Bouzid, Atef</dc:creator>
+          <dc:subject>ddc:070</dc:subject>
+          <dc:description xml:lang="deu">Im Umbruch der arabischen Welt spielen nicht nur soziale Faktoren eine große Rolle. Auch die Erreichbarkeit verschiedener Kommunikationsmedien (klassische Massenmedien und Neue Medien), deren Nutzung durch verschiedene soziale Gruppen sind wesentliche Faktoren des aktuellen Geschehens und seiner Vorgeschichte. Hier werden zwölf ausführliche Gespräche zum Thema geboten, die der Verfasser mit verschiedenen Fachleuten in Kairo, Mainz und Berlin/Potsdam geführt hat. Diese Interviews bieten erheblichen Gewinn für jeden, der sich mit den kulturellen, sozialen und politischen Hintergründen der derzeitigen Entwicklungen im arabischen Sprachraum auseinandersetzt. Die Arbeiten entsprechen dem Stand Februar 2010. Die Interviews sind im Zeitraum 2004-2008 erstellt worden. Online-Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen.</dc:description>
+          <dc:date>2011-02-14</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2793</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29595</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29595</dc:identifier>
+          <dc:identifier>978-3-7983-2300-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2793/12%20Expertengespraeche%20BenBouzid_Text_Gesamt.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2793/CoverOnlineBBouzid1.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

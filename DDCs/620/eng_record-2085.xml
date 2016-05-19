@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2085">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2085</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Elemente der Online-Optimierung am Beispiel der AS-Kreislaufwäsche</dc:title>
+          <dc:title xml:lang="eng">Elements of online-optimization using the example of the ammonia hydrogen sulfide circulation scrubbing process</dc:title>
+          <dc:creator>Faber, Richard</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen der Arbeit wird eine allgemeine Methodik zur Online-Optimierung entwickelt und an einer realen Anlage (AS-Kreislaufwäsche) im Pilotmaßstab erprobt und bewertet. Zur Implementierung einer Strategie zur Online-Optimierung müssen mehrere Arbeitsschritte und Elemente zu einem ganzheitlichen Ansatz zusammengefügt werden. Grundlage für alle Elemente einer Online-Optimierung sind neben einem detaillierten Prozessmodell die Informationen über den Betriebszustand der Anlage, welche über die Messdaten gewonnen werden können. Diese Messdaten müssen anschließend ausgewertet und auf Konsistenz und Messfehler überprüft werden. Für den Betrieb und die Optimierung wichtige Prozessgrößen, welche nicht direkt gemessen werden können müssen, wenn möglich, anhand des aufgenommenen Messdatensatzes mit Hilfe des Prozessmodells ermittelt werden. Basierend auf den aufgezeichneten Messdatensätzen muss das Prozessmodell ständig auf seine Gültigkeit und Genauigkeit überprüft werden und, wenn nötig, bestimmte Modellparameter angepasst werden. Dabei ist stets zu analysieren, ob die, auf Basis der Modellgleichungen und Messdaten, ermittelten Prozessgrößen und Modellparameter grundsätzlich bestimmbar sind und welche Zuverlässigkeit die gewonnenen Daten besitzen. Somit dienen die Elemente Data Reconciliation, Parameteranpassung, Identifizierbarkeits- und Beobachtbarkeitsanalyse der Bereitstellung der für die eigentliche Optimierung notwendigen Daten. Für die einzelnen Elemente der Online-Optimierung existieren in der Literatur verschiedene Ansätze, welche unterschiedlichen Anforderungen genügen. Der in dieser Arbeit betrachtete Prozess der AS-Kreislaufwäsche führt zu einem komplexen, stark nichtlinearen und sehr großen Prozessmodell. Dadurch ergeben sich besondere Anforderungen an die zu wählende Strategie zur Online-Optimierung. In der vorliegenden Arbeit werden die einzelnen Elemente zur Online-Optimierung vorgestellt und die für diesen Fall gewählten Verfahren erläutert. Um die Anwendbarkeit auf große, nichtlineare Probleme zu gewährleisten wurden dabei Erweiterungen und neue Ansätze für bisherige Verfahren entwickelt. Die einzelnen Elemente werden zu einem ganzheitlichen Ansatz zusammengefügt und anhand des gewählten Prozesses der AS-Kreislaufwäsche validiert. Das Ergebnis ist ein effizientes, robustes Online-Optimierungssystem zur Ermittlung optimaler Prozessführungsstrategien für dynamische, nichtlineare, große Systeme unter Echtzeit Randbedingungen. Die entwickelte Methodik der Online-Optimierung ist allgemeingültig und ist für die Optimierung anderer Prozesse übertragbar.</dc:description>
+          <dc:description xml:lang="eng">In this paper, a general method for online-optimization is being developed as well as applied and evaluated at a pilot-scale industrial coke-oven-gas purification process. To implement a strategy for online-optimization, it is necessary to combine a series of individual procedures and tasks to an integrated approach. The bases for all elements of an online-optimization are a detailed process model and information about the actual operating condition of the plant, which can be gained based on measurement data. The measurement values have to be analyzed and checked for consistency of the data. For the operation and optimization of the plant important process data which can not be measured directly has to be determined based on the measured data set together with the process model. The process model itself has to be consistently checked for validity and accuracy based on the recorded measurement datasets and if necessary certain model parameters have to be adjusted. It is very important to analyze if it is generally possible to determine the process values and parameters using the model equations and measurement data and what the reliability of the gained data is. Therefore the elements data reconciliation, parameter estimation, identifiability and observability analysis provide the necessary data for the online-optimization itself. For the individual elements of an online-optimization, several approaches exist in the literature, which meet different requirements. The process of gas purification considered in this paper leads to a complex, strongly nonlinear and very large process model. This results in special requirements for the online-optimization strategy. In this paper, the individual elements of online-optimization are presented and the chosen approaches are explained. To guarantee the applicability to large, nonlinear problems modifications and new approaches to existing methods have been developed. The individual are connected to a general approach which is validated using the chosen gas purification process. The result is an efficient and robust online-optimization approach for the determination of optimal process control strategies for dynamic, nonlinear, large systems with real-time boundary conditions. The developed methodology for online-optimization is generally valid and transferable to other process optimization tasks.</dc:description>
+          <dc:date>2009-03-23</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2085</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21779</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21779</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2085/original_faber_richard_original_latex.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2085/faber_richard.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2414">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2414</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einfluss von Legierungselementen auf Ausscheidungsverhalten und mechanische Eigenschaften von Maraging-Stählen</dc:title>
+          <dc:title xml:lang="eng">Influence of alloying elements on precipitation hardening and mechanical properties of maraging steels</dc:title>
+          <dc:creator>Höring, Stefan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Mikrostruktur und das Ausscheidungsverhalten dreier Maraging-Stähle – Corrax sowie zwei Fe-Ni-Al-Cr-(Cu)-Modelllegierungen – wurden mittels dreidimensionaler Atomsonde, Transmissionselektronenmikroskop, Rückstreuelektronenbeugung und Röntgenbeugung analysiert. Die Stähle zeigen eine gute thermische Stabilität gegenüber der Bildung von rückumgewandeltem Austenit bei der Wärmebehandlung (525°C). Bis zu einer Alterungszeit von 300 h kann kein Einfluss des Austenit-Anteils auf die Härte festgestellt werden. Der Anteil des Austenits steigt mit zunehmender Ni-Konzentration der Legierungen an. Die Aushärtung der Maraging-Stähle wird durch intermetallische Phasen verursacht. Bei den untersuchten Maraging-Stählen ist dies eine geordnete Ni-Al-reiche ß’-Phase. In den zwei Fe-Cr-Ni-Al-(Cu)-Modelllegierungen wurde die Zusammensetzung, Morphologie, Dichte und die Ausscheidungskinetik der ß’-Phase im Detail untersucht. Die Morphologieentwicklung der Ausscheidungen beim Altern beider Modelllegierungen folgt dem gleichen Schema, beginnend mit sphärischen über ellipsoide hin zu plattenförmigen Ausscheidungen. Die Ausscheidungs-kinetik beider Legierungen unterscheidet sich hingegen voneinander. Für die Cu-freie Modell-legierung wurde ein beschleunigter Vergröberungsprozess entsprechend der Kawasaki-Enomoto-Theorie gefunden, der proportional zu t^1/2 verläuft. Dass die Zugabe von Cu einen Einfluss auf die Ausscheidungskinetik hat, zeigt der Alterungsprozess der Cu-haltigen Modelllegierung, der sich mit deutlich geringerer Geschwindigkeit vollzieht als in der Cu-freien Vergleichslegierung. Der Verlauf der Mikrohärte der untersuchten Maraging-Stähle kann nicht mit der Bildung des rückumgewandelten Austenits in Verbindung gebracht werden, sondern ist eine Folge der Vergröberung der ß’-Phase. Der Einfluss des Cu auf die Ausscheidungskinetik und die mechanischen Eigenschaften der Maraging-Stähle wurde anhand verschiedener Modelle diskutiert.</dc:description>
+          <dc:description xml:lang="eng">The microstructure and the precipitation behaviour of three maraging steels - Corrax and two Fe-Ni-Cr-Al-(Cu) model alloys - have been analysed using three-dimensional atom probe microscopy, transmission electron microscopy, electron backscatter diffraction and X-ray diffraction. The steels show a good thermal stability against the formation of reverted austenite during isothermal heat treatment at 525°C. Up to an aging time of 300 h, no influence of the austenite fraction on hardness could be determined. The austenite fraction increases with increasing Ni concentration in the alloys. The hardening of maraging steels is caused by intermetallic phases. The hardening phase of the investigated maraging steels is a Ni- and Al-richß’ phase. In the two Fe-Cr-Ni-Al-(Cu) model alloys composition, morphology, density and precipitation kinetics were studied in detail. The morphological evolution of the precipitates during aging of both model alloys follows the same scheme. Spherical precipitates coarsen to ellipsoidal and later to plate-like shape. The precipitation kinetics of both alloys, however, differs. For the Cu-free alloy, a model of accelerated coarsening according to the Kawasaki-Enomoto model was found, which is proportional to t^1/2. The Cu addition influences the precipitation kinetics. In the Cu-containing model alloy the aging process takes place with much lower speed. The hardness curve of the investigated maraging steels can not be explained by the formation of reverted austenite, but it is a consequence of the coarsening of the ß’ phase. The influence of Cu on the precipitation kinetics and the mechanical properties of the maraging steels have been discussed using different models.</dc:description>
+          <dc:date>2010-01-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2414</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25203</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25203</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2414/original_HAring_Stefan.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2414/hoering_stefan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

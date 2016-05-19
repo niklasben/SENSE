@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:38Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:121">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:121</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Rauchgasentstickung mittels Schwefelwasserstoff in Tri-n-butylphosphat</dc:title>
+          <dc:creator>Homann, Jörg</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurde die Reaktion von Stickstoffmonoxid (NO) mit Schwefelwassersoff (H2S) in Tri-n-butylphosphat (TBP) im Hinblick auf ein alternatives Verfahren zur Entstickung von Rauchgasen untersucht. Mittels einer gasvolumetrischen Absorptionsapparatur wurden zuerst Daten zur physikalischen Löslichkeit in TBP ermittelt, die für den Erhalt kinetischer Daten der stofftransportüberlagerten Reaktionen in TBP relevant sind. Es sind dies die Henrykoeffizienten von NO, H2S und die der gasförmigen Reaktionsprodukte Distickstoffmonoxid (N2O), Ammoniak (NH3), Wasser (H2O) und Stickstoff (N2) sowie bei bekannter Stoffaustauschfläche die Stoffübergangskoeffizienten von H2S und N2O. Mit diesen konnte das Filmmodell als anwendbar abgeschätzt und die Stoffübergangskoeffizienten von NO bestimmt werden. Das Reaktionsgleichungssystem kann aufgrund chemischer Produktanalysen wie folgt formuliert werden: size="3" face="Wingdings"&gt;à ½ N2 + H2O + S size="3" face="Wingdings"&gt;àO + H2O + S size="3" face="Wingdings"&gt;à 2 NH3 + 2 H2O + 5 S size="3" face="Symbol"&gt;« S Die Ermittlung kinetischer Daten aus der Absorptionsgeschwindigkeit von NO in H2S-haltigem TBP sowie die Analyse der Reaktionsprodukte erfolgte bei 30°C, 50°C, 70°C, 90°C, 110°C und 130°C. Anhand der ermittelten Selektivitäten und der Definition zeitabhängiger Beschleunigungsfaktoren und Hattazahlen konnten in dem Bereich E = Ha Reaktionsgeschwindigkeitskonstanten und Aktivierungsenergien der o.g. Reaktionen sowie die Bruttoreaktionsordnungen von NO (0) und H2S (1) mittels der gasvolumetrischen Absorptionsapparatur im Batchverfahren unter Vorgabe eines einheitlichen formalkinetischen Ansatzes für die drei NO-verbrauchenden Reaktionen abgeleitet werden. Als Bruttoreaktionsgeschwindigkeitsgesetz der exothermen Reaktionen bezüglich NO ergab sich: CH2S Mit einer labormaßstäblichen kontinuierlich betriebenen Absorptions- und Desorptionsanlage wurden bei 30°C und 90°C, rauchgasähnlichen Konzentrationen (p°NO= 0,5 - 1 mbar, p°H2S = 0,8 - 1 mbar) und der Rezirkulation des Waschmittels (TBP) im Gegenstrom Auswaschgrade für NO und für H2S ermittelt. Unter Zusatz NO-komplexierenden Eisen(II)chlorids, das sich in flüssiger organischer Phase als oxidationsbeständig gegen Luftsauerstoff erwiesen hat und im Gegensatz zu Kupfer(II)chlorid in TBP keine unter den vorliegenden Bedingungen nachweisbare Reaktion mit H2S eingeht, konnten Auswaschgrade für NO von bis zu 87% und für H2S von bis zu 100% (V°g/ V°fl = 5, Tabs. = 30°C, CFeCl2 = 0,013 mol/l) erzielt werden. Ohne FeCl2-Zusatz wurden Auswaschgrade für NO von bis zu 22% (V°g/ V°fl = 5, Tabs. = 90°C) und für H2S von bis zu 95% (V°g/ V°fl = 5, Tabs. = 30°C) erreicht. Die Komplexbildungskonstanten von NO mit FeCl2 in TBP sinken mit steigender Reaktionstemperatur und wurden aus experimentell erhaltenen Daten abgeschätzt. Unter Zugrundelegung des HTU/NTU-Modells konnten Auswaschgrade für NO in Übereinstimmung mit den experimentell ermittelten Werten berechnet werden.</dc:description>
+          <dc:date>2000-12-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/121</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1164</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1164</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/121/homann_joerg.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

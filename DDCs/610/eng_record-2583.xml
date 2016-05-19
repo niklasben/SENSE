@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2583">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2583</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:610</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">A-IQI | Austrian Inpatient Quality Indicators</dc:title>
+          <dc:creator>Fabiola Fuchs</dc:creator>
+          <dc:creator>Margarita Amon</dc:creator>
+          <dc:creator>Ulrike Nimptsch</dc:creator>
+          <dc:creator>Thomas Mansky</dc:creator>
+          <dc:subject>ddc:610</dc:subject>
+          <dc:description xml:lang="deu">Qualitätsmanagement baut auf den Säulen Struktur-, Prozess- und Ergebnisqualität auf. In Niederösterreich wie auch in Gesamtösterreich wurde das Augenmerk im Krankenhausbereich bisher vorrangig auf Strukturen und Prozesse gelegt. Mittlerweile sind Strukturvorgaben flächendeckend erfüllt und die Abläufe liegen im Verantwortungsbereich der leitenden Personen in den Abteilungen. Doch wie sich die Patientenversorgung bei bestimmten Behandlungen oder Erkrankungen darstellt, wissen die wenigsten Leistungserbringer. Der nächste Schritt in Österreich muss nun die Ergebnismessung sein. Seit 2008 beschäftigt sich die Niederösterreichische Landeskliniken-Holding mit dem Thema medizinische Qualität messbar zu machen. Ziel war und ist anhand von bereits vorhandenen Routinedaten darzustellen, wo ein Leistungserbringer steht. Nur wenn Qualität gemessen wird, kann man sich vergleichen, einordnen und wenn nötig Verbesserungsmaßnahmen ergreifen. Die Qualitätsmessung ist in Österreich noch sehr neu. Es gibt bereits einige Qualitätsregister die detailliertere Informationen liefern als die Routinedaten. Die Eingabe ist jedoch zeitaufwändig und die Datenqualität hängt sehr stark von der Compliance der Leistungserbringer ab. Das vorliegende Dokument ist durch die Zusammenarbeit der Niederösterreichischen Landeskliniken-Holding mit dem deutschen Klinikenträger HELIOS, dem Schweizer Bundesamt für Gesundheit und dem Fachgebiet Strukturentwicklung und Qualitätsmanagement im Gesundheitswesen an der Technischen Universität Berlin entstanden. Es beinhaltet die in Deutschland entwickelten und auch in der Schweiz eingesetzten Indikatoren aus dem HELIOS-System (G-IQI, German Inpatient Quality Indicators, Mansky et al. 2010), die an die Kodierverfahren des österreichischen Dokumentations- und Abrechnungssystems angepasst wurden. Was wird gemessen? ■ Mortalität ■ Mengen für bestimmte Behandlungen, Operationen ■ Wahl der Operationstechnik, des Behandlungsverfahrens ■ Intensivhäufigkeit bei bestimmten Operationen ■ Elemente des Behandlungsprozesses ■ Wiederaufnahmen ■ Komplikationen, Re-Eingriffe Die Grundlagen dieses Indikatorensystems, wie Berechnungslogik oder Risikoadjustierung, sowie die genauen Indikatorendefinitionen der Austrian Inpatient Quality Indicators mit Diagnosen, medizinischen Einzelleistungen und demographischen Daten werden in diesem Band erläutert und sind somit frei zugänglich. Die Qualitätsmessung schafft Bewusstsein bei allen Beteiligten und zeigt Abweichungen strukturiert auf, der Grund für diese bleibt jedoch unklar. Um einen kontinuierlichen Verbesserungsprozess zu erreichen, stellt das Peer Review Verfahren einen zentralen Punkt und das Herzstück dieses Qualitätsmanagementsystems dar. Erst wenn bei Auffälligkeiten auf Ebene der Krankengeschichten strukturiert von Experten analysiert wird, kann beurteilt werden, ob Verbesserungspotential besteht, die Datenqualität schlecht ist oder das Ergebnis „berechtigterweise“ nicht im Zielbereich liegt. Einem österreichweiten Benchmarking steht nun nichts mehr im Wege. Gedruckte Version im Univerlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen ISBN 978-3-7983-2249-3</dc:description>
+          <dc:date>2010-07-23</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2583</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27226</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27226</dc:identifier>
+          <dc:identifier>978-3-7983-2231-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2583/1A_IQI_Austrian_Inpatient_Quality_Indicators.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2583/2231_Zusatz_%20A-IQI_Datenjahr%202011.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

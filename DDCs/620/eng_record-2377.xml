@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2377">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2377</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Formal Modelling and Application of Graph Transformations in the Resource Description Framework</dc:title>
+          <dc:title xml:lang="eng">Formal Modelling and Application of Graph Transformations in the Resource Description Framework</dc:title>
+          <dc:creator>Braatz, Benjamin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">In this thesis, a connection between two areas of research is developed. On the one hand, the Resource Desription Framework (RDF) is the basis of the Semantic Web. On the other hand, algebraic graph transformation has a long history of providing formally well-founded modification concepts for various graph and graph-like structures. By designing an algebraic transformation approach for RDF, the rich theoretical results of algebraic graph transformation are made available to the RDF world. To achieve this goal, the formal abstract syntax and semantics of RDF is first reformulated in the language of category theory which is used heavily in graph transformation. Then, an abstract, categorical transformation framework is developed which is suitable for being afterwards instantiated by RDF structures. This is necessary since the existing frameworks are not applicable in an unmodified form. The main theoretical results are a sequential composition operation for transformation rules and theorems showing the possibility to analyse and synthesise transformations for these sequentially composed rules. Moreover, these results are also available for transformation rules with negative application conditions. The applicability of the resulting concept of RDF graph transformations is shown by two application scenarios. One is a classical Semantic Web application managing bibliographical metadata, while the other uses RDF as an abstract syntax for domain-specific modelling languages.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wird eine Verbindung zwischen zwei Forschungsbereichen entwickelt. Auf der einen Seite ist das Resource Description Framework (RDF) die Basis des Semantic Web. Auf der anderen Seite hat die algebraische Graphtransformation eine lange Tradition darin, formal fundierte Modifikationskonzepte für Graphen und graphähnliche Strukturen zur Verfügung zu stellen. Durch den Entwurf eines algebraischen Transformationskonzepts für RDF werden die reichhaltigen theoretischen Ergebnisse der algebraischen Graphtransformation für die RDF-Welt nutzbar. Um dieses Ziel zu erreichen, wird zunächst die formale abstrakte Syntax und Semantik von RDF in der Sprache der Kategorientheorie, die bei Graphtransformationen intensiv genutzt wird, reformuliert. Dann wird ein abstraktes, kategorielles Transformations-Framework entwickelt, welches geeignet ist, anschließend durch RDF-Strukturen instanziiert zu werden. Dies ist notwendig, da keines der existierenden Frameworks in unmodifizierter Form anwendbar ist. Die hauptsächlichen theoretischen Ergebnisse sind eine sequenzielle Kompositionsoperation für Transformationsregeln und Theoreme, die die Möglichkeit zeigen, Transformationen entlang dieser sequenziell komponierten Regeln zu analysieren und synthetisieren. Diese Ergebnisse sind weiterhin ebenfalls für Transformationsregeln mit negativen Anwendungsbedingungen verfügbar. Die Anwendbarkeit des resultierenden Konzeptes für RDF-Graphtransformationen wird durch zwei Anwendungsszenarien gezeigt. Das eine ist eine klassische Semantic-Web-Anwendung, die bibliographische Metadaten verwaltet, während die andere RDF als abstrakte Syntax für domänenspezifische Modellierungssprachen verwendet.</dc:description>
+          <dc:date>2009-12-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2377</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24941</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24941</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2377/original_Bra09.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2377/braatz_benjamin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

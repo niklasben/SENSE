@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2669">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2669</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Orchestrating Secure Workflows for Cloud and Grid Services</dc:title>
+          <dc:title xml:lang="deu">Orchestrierung von sicheren Workflows für Cloud und Grid Services</dc:title>
+          <dc:creator>Höing, André</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The modern design of business and scientific IT landscapes is based upon service-oriented architectures. In doing so, small functional units are encapsulated as services accessible via standardized interfaces. Grid and Cloud computing both employ such services: Grid computing provides access to mostly scientifically used compute resources and data. Cloud computing is a commercially-driven, recently emerging technology that offers services to access compute power, platforms, and software solutions. Nowadays, workflows are the preferred means for the combination of services into added value service chains representing functional business processes or complex scientific experiments. However, the advantages of integrating services from all three domains (business, science, and Cloud computing) into one workflow is not exploited sufficiently. The integration of external services within workflows raises various challenges. This thesis presents a novel architecture for a workflow engine that is capable of integrating services from all three domains. It starts with an analysis of workflow life cycles and infers requirements from these. Additionally, it considers the idea of providing a Cloud service for workflow orchestration. This service offers effective means to deploy and execute workflows completely on external resources. Simultaneously, it allows elasticity and fair billing models in the context of Cloud computing. The resulting architecture is based on standards without creating a new proprietary workflow description language dialect in order to increase acceptance and sustainability. It especially targets security and communication barriers, which originate from the diversity of service providers as well as handling stateful services with default WS-BPEL activities. The architecture is evaluated with respect to its requirements and in two exemplary real-life business scenarios. Furthermore, the thesis illustrates the general applicability, with some limitations, to scientific workflows with the help of example workflows for typical scientific tasks. Finally, it analyses the performance of the new components.</dc:description>
+          <dc:description xml:lang="deu">Modernes Design betrieblicher und wissenschaftlicher IT Landschaften basiert auf service-orientierten Architekturen. Dabei werden kleine funktionale Bestandteile durch Dienste mit standardisierten Schnittstellen gekapselt. Sowohl Grid als auch Cloud Computing benutzen solchen Dienste: Grid Computing bietet Zugang zu meist wissenschaftlich genutzten Rechen-Resourcen und Daten. Cloud Computing ist eine kommerziell getriebene und an Bedeutung zunehmende neue Technologie, die Dienste für den Zugriff auf Rechenleistung, Plattformen und Software-Lösungen bereit stellt. Heutzutage sind Workflows das bevorzugte Mittel zur Kombination von Diensten zu Wertschöpfungsketten, die betriebliche Prozesse oder komplexe wissenschaftliche Experimente repräsentieren. Dennoch werden die Vorteile einer Integration von Diensten aus allen drei Bereichen (betriebliches, wissenschaftliches und Cloud Computing) in einen Workflow nicht ausreichend ausgeschöpft. Diese Integration von externen Diensten in Workflows wirft verschiedenste Fragestellungen auf, z.B. im Bezug auf Kompatibilität und Sicherheit. Die Arbeit präsentiert eine neuartige Architektur für eine Workflow Engine, welche die Integration von Diensten aus allen drei Bereichen ermöglicht. Sie beginnt mit der Analyse von Workflow Lebenszyklen und leitet hieraus Anforderungen ab. Zusätzlich wird noch die Idee eines Cloud-Dienstes zur Dienstorchestrierung betrachtet. Solch ein Dienst bietet effektive Mittel zum Einrichten und Ausführen von Workflows auf externen Ressourcen. Gleichzeitig ermöglicht er Elastizität und faire Abrechnungsmodelle im Kontext von Cloud Computing. Die sich daraus ergebende Architektur basiert auf Standards ohne einen neuen proprietären Workflow-Dialekt zu erzeugen, um die Akzeptanz und Nachhaltigkeit zu erhöhen. Dabei werden besonders Sicherheits- und Kommunikationsbarrieren behandelt, die sich aus der Dienstanbietervielfalt und dem Umgang mit zustandesbehafteten Diensten ergeben. Die Architektur wird in Bezug auf die erarbeiteten Anforderungen und in zwei exemplarischen, realen betrieblichen Szenarios evaluiert. Weiterhin veranschaulicht die Arbeit die generelle Anwendbarkeit, mit geringen Einschränkungen, für wissenschaftliche Workflows anhand von Beispielen für typische wissenschaftliche Aufgaben. Schließlich wird die Performanz der neuen Komponenten analysiert.</dc:description>
+          <dc:date>2010-10-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2669</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28174</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28174</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2669/hoeing_andre.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

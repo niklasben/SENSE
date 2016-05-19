@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:10Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1078">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1078</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aberrationen in Nd:YAG - Hochleistungslasern und -verstärkern: Ihr Einfluss und ihre Korrektur mit adaptiver Optik</dc:title>
+          <dc:title xml:lang="eng">Aberrations of Nd:YAG high power laser and amplifier: Effects and correction with adaptive optics</dc:title>
+          <dc:creator>Buske, Ivo</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Eine ausgezeichnete Strahlqualität und damit exzellente Fokussierbarkeit der Laserstrahlung ist in vielen Bereichen, wie der Mikromaterialbearbeitung, der Medizintechnik, der Messtechnik oder in der nichtlinearen Optik, die Grundlage für eine Vielzahl von Anwendungen. Die starke Wärmebelastung in Nd:YAG Laserkristallen führt zur Ausbildung einer thermischen Linse und spannungsinduzierter Doppelbrechung. Die Aberrationen der thermischen Linse verhindern einen effizienten Laserbetrieb bei hoher Ausgangsleistung und gleichzeitig guter Strahlqualität. Die Messungen der Aberrationen in einem lampengepumpten Nd:YAG Laserstab mit einem Shack-Hartmann Wellenfrontsensor ergaben einen ausgeprägten Astigmatismus, sphärische Aberrationen und Koma. Der Peak-to-Valley Wert beträgt 3,9 µm bei einer elektrischen Pumpleistung von 14,8 kW. Aberrationen höherer Ordnung können vernachlässigt werden. Numerische Berechnungen der Strahlausbreitung eines Laserstrahls mit Aberrationen ergaben sehr gute Übereinstimmungen mit experimentellen Messungen. In Resonatoren, die an der Grenze des Stabilitätsbereiches aufgebaut sind, bewirken Aberrationen starke Beugungsverluste und verhindern einen effizienten Laserbetrieb. Dabei wirken sich die verschiedenen Aberrationen unterschiedlich stark auf die Verluste aus. Die Genauigkeit, mit der die Aberrationen mit Hilfe eines adaptiven Spiegels korrigiert werden müssen, beträgt etwa λ/10. Mit der Entwicklung mikrosystemtechnisch hergestellter, adaptiver Membranspiegel ist es möglich geworden, adaptive Optik in cw-Laserverstärker zu integrieren. Der üblicherweise vorhandene Wellenfrontsensor wird im untersuchten Nd:YVO4/Nd:YAG Master-Oszillator Power-Amplifier (MOPA) System durch eine speziell auf die Ermittlung der Wellenfrontaberrationen abgestimmte Power-in-the-Bucket Messung ersetzt. Die Strahlqualitätsoptimierung erfolgt mittels eines evolutionären Optimierungsalgorithmus. Zur Steuerung der verwendeten adaptiven Membranspiegel wurde ein externer Hochspannungsverstärker entwickelt. Im aufgebauten adaptiven optischen System wird die Wellenfront eines polarisierten und nahezu beugungsbegrenzten (M² = 1,2) Nd:YVO4 Oszillators mit 14 W Ausgangsleistung durch einen adaptiven Membranspiegel vordeformiert, um anschließend bei der Propagation durch die doppelbrechungskompensierten Nd:YAG Verstärker die Aberrationen des Lasermediums zu kompensieren. Während der Optimierungsdauer von 20 bis 60 Sekunden erhöht sich die Fotospannung der Power-in-the-Bucket Messung um den Faktor 3. Bei einer Laserleistung von 54 W im Einfachdurchgang konnte eine Verbesserung der Strahlqualität um einen Faktor 2 von M² = 5 auf M² = 2,5 nachgewiesen werden.</dc:description>
+          <dc:description xml:lang="eng">aberration, adaptive optics, Nd:YAG, laser, amplifier, optimization algorithm, beam quality, membrane mirror</dc:description>
+          <dc:date>2005-08-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1078</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10624</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10624</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1078/buske_ivo.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1078/buske_ivo.zip</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

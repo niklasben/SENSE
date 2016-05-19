@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3801">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3801</identifier>
+        <datestamp>2014-05-16</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aspekte des städtischen Radverkehrs                                                  </dc:title>
+          <dc:title xml:lang="eng">Aspects of urban cycling</dc:title>
+          <dc:creator>Leben, Jörg</dc:creator>
+          <dc:creator>Drohsel, Karsten Michael</dc:creator>
+          <dc:creator>Lösche, Vanessa</dc:creator>
+          <dc:creator>Pilz, Carla Dorothea</dc:creator>
+          <dc:creator>Klippert, Lars</dc:creator>
+          <dc:creator>Liebner, Mattis</dc:creator>
+          <dc:creator>Sauer, Martin</dc:creator>
+          <dc:creator>Jahn, Valentin</dc:creator>
+          <dc:creator>Kürbis, Katja</dc:creator>
+          <dc:creator>Thomsen, Marc</dc:creator>
+          <dc:creator>Chen, Jing Hui</dc:creator>
+          <dc:creator>Kunert, Rita</dc:creator>
+          <dc:creator>Lebahn, Lena</dc:creator>
+          <dc:creator>Stolle, Tim</dc:creator>
+          <dc:creator>Engels, Peter</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">Die Texte dieses Bandes beschäftigen sich mit verschiedenen Aspekten des innerstädtischen Radverkehrs. Es handelt sich um Texte, die im Rahmen von Arbeiten innerhalb der TU Berlin am Verkehrswesenseminar entstanden sind. Die Themen reichen vom (regelwidrigen) Verhalten der Radfahrenden über ihre allgemeinen Anforderungen bis hin zu detaillierteren Betrachtungen zu Fahrradverleihsystemen, Abstellanlagen in Geschäftsstraßen und Koordinierung von Lichtsignalanlagen. Darüber hinaus werden die Fahrradkultur sowie die Radverkehrsförderung in europäischen Städten und ihre Übertragbarkeit näher betrachtet.</dc:description>
+          <dc:description xml:lang="eng">The papers in this volume deal with various aspects of urban cycling. These papers originate from research and course work at the Technische Universität Berlin, chair Verkehrswesenseminar (Transportation Seminar). The topics of this volume range from cyclists' (transgressive) behavior and their general requirements to detailed views on bicycle rental systems, bicycle parking facilities in shopping streets and coordination of traffic signals. Furthermore, topics like cycling culture and cycling promotion in European cities and its transferability are covered in detail.</dc:description>
+          <dc:contributor>TU Berlin, Institut für Land- und Seeverkehr, Verkehrswesenseminar</dc:contributor>
+          <dc:date>2014-03-26</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3801</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-38014</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-38014</dc:identifier>
+          <dc:identifier>978-3-7983-2511-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3801/SpektrumVerkersw_01_pdfa.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

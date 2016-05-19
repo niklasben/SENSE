@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4001">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4001</identifier>
+        <datestamp>2013-09-13</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analysis and Design of Efficiency-Enhancement Microwave Power Amplifiers Using the Doherty Technique</dc:title>
+          <dc:title xml:lang="deu">Analyse und Entwurf von Efficiency-Enhancement HF-Leistungsverstärkern mittels der Doherty Technik</dc:title>
+          <dc:creator>Bathich, Khaled</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">   This thesis focuses on the design and analysis of efficiency-enhancement microwave power amplifiers using the Doherty technique.&#13;
+   The Doherty amplifier has been widely adopted in the last decade being a relatively simple efficiency-enhancement amplifier architecture. This amplifier can provide significant efficiency enhancement over single-ended amplifiers as well as inherent linearity.&#13;
+   There has been a lot of work on Doherty amplifiers in the recent years. Most of the published amplifiers were narrowband and do not fulfill the wideband/multiband requirements of modern base stations. Wideband Doherty amplifiers or other efficiency-enhancement techniques are crucial for these base stations to reduce their overall size and cost. With regard to the Doherty amplifier, it was a convention that this technique is unsuitable for wideband applications due to the frequency sensitive impedance inverter in its structure. In this thesis, main focus was given to deeply study the bandwidth limiting factors of the Doherty amplifier, and possibly, to provide solutions that can help in extending the bandwidth of this amplifier technique. Being the clearest source of limited bandwidth, a complete frequency response analysis of the output combining network has been performed. From the analysis it was found that the Doherty amplifier can still provide back-off efficiency enhancement over class B amplifier up to a relative bandwidth of 56 % bandwidth. A modification on the output combining network was also proposed by using impedance inverters with less transformation ratio, which resulted in a further efficiency improvement compared to the conventional Doherty amplifier.&#13;
+   The derived analysis was then verified by the design and implementation of multiple wideband GaN Doherty amplifiers with state-of-the-art bandwidths ranging from 28 % to 42 % and output power levels from 20 W to 200 W. Superior performances were obtained with, for example, a minimum 6 dB back-off power-added efficiency (PAE) of 50 %, measured over 28 % bandwidth of an 80 W Doherty amplifier. Very good linearity was also characterized with the designed amplifiers using two-tone, UMTS and LTE signals. Additional linearization using memory polynomial digital predistortion (DPD) resulted in ACLR levels that fulfill the requirements of the corresponding communications systems.&#13;
+   In order to extend the power range of the Doherty amplifier, a generalized frequency response analysis that applies for any Doherty amplifier configuration with arbitrary breaking point was derived. Based on the analytical results, the 80 W wideband Doherty amplifier was modified to operate at 9 dB back-off instead of 6 dB back-off power. High PAE of at least 45 % was then measured at around 9 dB output back-off, and over 28 % bandwidth.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">   Diese Dissertation beschäftigt sich mit dem Entwurf und Analyse von Efficiency-Enhancement HF-Leistungsverstärkern mittels Doherty Technik.&#13;
+   Als einfache Verstärkerarchitektur zur Steigerung des Wirkungsgrades wurde der Doherty-Verstärker in den letzten Jahren im großen Stil eingesetzt. Diese Architektur zeichnet sich gegenüber herkömmlichen Verstärkern durch einen deutlich verbesserten Back-Off-Wirkungsgrad bei guter Linearität aus. &#13;
+   In den letzten Jahren wurde auf dem Gebiet der Doherty-Verstärker eine Vielzahl unterschiedlicher Arbeiten veröffentlicht. Bei den meisten der veröffentlichten Verstärker handelt es sich dabei allerdings um schmalbandige Entwürfe, welche die Anforderungen moderner Basisstationen nicht erfüllen. Insbesondere aufgrund des frequenzempfindlichen Impedanz-Inverters als Teil der Doherty-Topologie, gilt der Doherty-Verstärker üblicherweise als Technik, die für Breitband-Anwendungen ungeeignet ist. Aufgrund der großen Bedeutung von breitbandigen hocheffizienten Leistungsverstärkern für moderne Kommunikationssysteme wurden in dieser Arbeit zunächst die Bandbreite begrenzenden Faktoren für den Doherty-Betrieb grundlegend analysiert. Infolgedessen konnten mögliche Lösungsansätze zur Erhöhung der Bandbreite von Doherty-Verstärkern abgeleitet werden. In diesem Zusammenhang wurde eine vollständige Frequenzganganalyse des Ausgangs-Combiners vollzogen. Als Ergebnis dieser Doherty-Analyse wurde festgestellt, dass sich im Vergleich zum Klasse-B-Betrieb eine Steigerung des Back-Off-Wirkungsgrades bis zu einer Bandbreite von 56% erzielen lässt. Durch die Implementierung von Impedanz-Invertern mit reduziertem Transformationsverhältnis konnte gezeigt werden, dass der Wirkungsgrad gegenüber der herkömmlichen Doherty-Topologie noch gesteigert werden kann.&#13;
+   Die Ergebnisse der Analyse wurden anhand einer Vielzahl von Breitband-GaN-Doherty- Verstärker mit exzellenten Bandbreiten von 28-42 % und Ausgangsleistungen von 20-200 W verifiziert. Beispielsweise konnte für einen 80-W-Doherty-Verstärker ein 6-dB Back-Off Wirkungsgrad von PAE≥50% über einer Bandbreite von 28% nachgewiesen werden. Die Linearitätseigenschaften der entworfenen Verstärker wurden mit Hilfe von Zwei-Ton-Messungen bzw. Messungen mit UMTS- und LTE-Signalen untersucht. Nach der Linearisierung der Verstärker mittels digitaler Vorverzerrung wurden sehr gute Linearitätseigenschaften nachgewiesen.&#13;
+   Um den Back-Off-Bereich von Doherty-Verstärkern zu erweitern, wurde außerdem eine allgemeine Frequenzganganalyse vollzogen, die für alle Doherty-Verstärker-Konfigurationen mit beliebigem Breaking-Point Gültigkeit besitzt. Basierend auf den analytischen Betrachtungen wurde der 80-W-Breitband-Doherty-Verstärker derart modifiziert, dass für einen Back-Off-Bereich von 9 dB anstelle von 6 dB genutzt werden kann. Infolgedessen wurde ein Wirkungsgrad von PAE≥45% bei 9-dB-Back-Off über einer Bandbreite von 28 % gemessen.&#13;
+</dc:description>
+          <dc:date>2013-07-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4001</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40012</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40012</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4001/bathich_khaled.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

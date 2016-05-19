@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:423">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:423</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Metallorganische Gasphasenepitaxie und Charakterisierung von antimonhaltigen Quantenpunkten</dc:title>
+          <dc:title xml:lang="eng">MOCVD and characterization of antimony containing quantum dots</dc:title>
+          <dc:creator>Müller-Kirsch, Lutz</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden erstmals GaSb/GaAs Quantenpunkte mittels Metallorganischer Gasphasenepitaxie hergestellt. Anhand von transmissionselektronenmikroskopischen Untersuchungen und Messungen der Photolumineszenz an Schichten mit variierter GaSb Abscheidemenge und Schichten mit variierter Dauer einer Wachstumsunterbrechung nach Abscheiden der GaSb Schicht konnte gezeigt werden, dass die Bildung der Quantenpunkte in zwei Phasen verläuft. Zunächst bilden sich kinetisch limitiert dreidimensionale Übergangszustände, die die Dichte des Quantenpunktensembles festlegen. Danach kommt es zu einem Reifen der Quantenpunkte durch Materialtransfer aus der umgebenden Benetzungsschicht, bis diese ihre Gleichgewichtsdicke erreicht hat. Die Bildung der Übergangszustände hängt dabei sowohl von der Temperatur als auch von den Konzentrationen der Gruppe V Atome und der Gruppe III Atome sensibel ab. Mit diesen Parametern konnte die Dichte der Quantenpunkte und die optische Qualität der Schicht modifiziert werden. Die Lokalisationsenergien der Grundzustände der Löcher in den GaSb Quantenpunkten betragen bis zu ~450 meV, was mittels Kapazitätstransientenspektroskopiemessungen an Quantenpunkten bestimmt wurde, die in eine Raumladungszone einer pn-Diode eingebracht waren. Eine Extrapolation der Emissionsraten ergibt für große Quantenpunkte eine Verweildauer der Löcher im Quantenpunkt bis zu einer Mikrosekunde bei Raumtemperatur. Photolumineszenzmessungen wiesen auf eine nur geringe Lokalisationsenergie der Elektronen in den in den elektronischen Typ II Quantenpunkten hin. Im Rahmen dieser Arbeit konnte gezeigt werden, dass die Vielteilchenwechselwirkungen in den GaSb Quantenpunkten durch die Löcher dominiert sind, die die beobachtete Blauverschiebung der Lumineszenz mit steigender Anregungsdichte und eine Verbreiterung der Lumineszenzbande verursachen. Die Verwendung einer InAs Saatquantenpunktschicht führt durch strukturelle Kopplung zu einer Erhöhung der Dichte der GaSb Quantenpunkte. Die Flächendichte der GaSb Quantenpunkte konnte so für einen Schichtenstapel im Vergleich zu einer Einzelschicht deutlich gesteigert werden.</dc:description>
+          <dc:description xml:lang="eng">In the frame of this work GaSb/GaAs quantum dots have been fabricated using MOCVD for the first time. Transmission electron microscopy images and photoluminescence spectra of sample series obtained by variation of different growth parameters are shown. The formation of the quantum dots is observed to perform in two phases: At first, kinatically limited precursor states form determining the quantum dot density. Subsequently, the quantum dots grow on cost of the wetting layer until the wetting layer reaches its equilibrium thickness. The formation of the precursor states depends sensitively on the temperature and on the group III and group V adatom concentrations. Using these parameters the density and the optical quality of the quantum dots were modified. The localization energy of the holes in the GaSb quantum dots amouts up to ~450 meV, which is determined using time-dependent capacitance measurements of quantum dot layers, which are inserted in a depletion region of a pn junction. Using an extrapolation of the emission constants to room temperature the average retention time of the holes is estimated to one microsecond. Photoluminescence measurements indicate the localization energies of the electrons to be rather small. The commonly observed blue-shift of the photoluminescence of GaSb quantum dots with increasing excitation density is shown to originate mainly from many-particle effects of the holes at high excitation densities. The many particle effects lead to broadening and blue-shift of the quantum dot related luminescence line. The use of a InAs seed quantum dot layer enables the enlargement of the quantum dot area densities. Due to the structural coupling of the quantum dots in growth direction a significant enhancement of the area density of the GaSb quantum dots is achieved as compared to a single sheet of GaSb quantum dots. The deposition of an InGaAs quantum dot layer on a GaSb quantum dot layer leads to the formation of "hybride" quantum dots consisting of electronically coupled type I and type II quantum dots. Using such structures the emission wavelength is red-shifted by 75 meV as compared to a single InGaAs quantum dot layer.</dc:description>
+          <dc:date>2002-12-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/423</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4186</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4186</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/423/muellerkirsch_lutz.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

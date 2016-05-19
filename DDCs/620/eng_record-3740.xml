@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3740">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3740</identifier>
+        <datestamp>2014-07-21</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Jahresbericht 2012                                            </dc:title>
+          <dc:title xml:lang="eng">Annual report 2012</dc:title>
+          <dc:creator>Völker, Stephan</dc:creator>
+          <dc:creator>Schumacher, Heike</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Der Jahresbericht gibt einen Überblick über die Tätigkeiten des Fachgebietes im Jahr 2012. Neben einer kurzen Vorstellung des Fachgebietes wird über Aktivitäten in der Lehre und über aktuell laufende Forschungsprojekte berichtet.&#13;
+In der Schriftenreihe des Fachgebietes Lichttechnik werden  Dissertationen, Tagungsbände, Jahres- und Forschungsberichte des Fachgebietes Lichttechnik veröffentlicht.&#13;
+Die Jahresberichte des Fachgebietes Lichttechnik lassen sich zurückverfolgen bis in das Jahr 1971. Übersichten zu Veröffentlichungen, Dissertationen und Studienarbeiten reichen sogar noch länger zurück. Sie informieren über die Lehrveranstaltungen am Fachgebiet, berichten über aktuelle Forschungsvorhaben, Projekte und Veranstaltungen und geben einen Überblick über Mitarbeiter, Publika�?tionen und Gremientätigkeiten.</dc:description>
+          <dc:description xml:lang="eng">The annual report describes the activities of the chair in 2012. Apart from a brief introduction it gives an acount of the activities in teaching and about current research projects.</dc:description>
+          <dc:date>2013-06-18</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3740</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39092</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39092</dc:identifier>
+          <dc:identifier>978-3-7983-2518-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3740/9783798325173_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3740/9783798325173_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

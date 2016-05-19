@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:547">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:547</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Simulation der Beeinflussung instationärer Strömungsablösung durch frei bewegliche Rückstromklappen auf Tragflügeln</dc:title>
+          <dc:title xml:lang="eng">Numerical simulation of unsteady separation control by movable flaps on airfoils</dc:title>
+          <dc:creator>Schatz, Markus</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Wie Beobachtungen von Vögeln zeigen, stellen sich in der kritischen Flugphase unmittelbar vor der Landung Teile des Deckgefieders von allein auf, um auf diese Weise die Strömung um den Flügel positiv zu beeinflussen. Dieses Prinzip läßt sich in Form frei beweglicher Rückstromklappen auf Tragflügelumströmungen übertragen. In dieser Arbeit wird mit Hilfe numerischer Simulationen die Wirkung derartiger Klappen auf die instationäre Strömungsablösung und die aerodynamischen Beiwerte eines Tragflügelprofils untersucht. Die zwei- und dreidimensionalen Simulationen der Strömung um ein HQ17-Profil basieren auf den Reynolds-gemittelten Gleichungen (URANS), die mit Hilfe eines Finite-Volumen Verfahrens diskretisiert und numerisch gelöst werden. Bei korrekter Transitionssetzung und Verwendung des LLR-Turbulenzmodells wiesen die Simulationen eine gute Übereinstimmung zu experimentellen Vergleichsdaten auf. Zusätzlich wurden unterschiedliche Konfigurationen mit feststehenden Klappen untersucht. Im Vergleich zu einer hochauflösenden Detached-Eddy-Simulationen zeigten die Ergebnisse keine prinzipiellen Unterschiede in der Wiedergabe des dynamischen Verhaltens der Strömung, die weitgehend als zweidimensional angesehen werden kann. Auf der Grundlage einer Kopplung der Strömungsberechnung mit einem Lösungsverfahren für die Klappenbewegung wurden Simulationen frei beweglicher Klappen durchgeführt. Mit ihnen konnte der Maximalauftrieb um 13% gegenüber dem Referenzprofil gesteigert werden. Eine positive Wirkung konnte solange beobachtet werden, wie die Klappe das Rückströmgebiet in zwei Bereiche unterteilt. Verlor sie dagegen den Kontakt zur Außenströmung, so kam es schlagartig zur Vorderkantenablösung mit Zusammenbruch des Auftriebs. Die Wirkung der Klappe konnte in erster Linie als die einer Rückstrombremse identifiziert werden, die innerhalb des wirksamen Anstellwinkelbereichs den Massenfluß in der Rezirkulationszone ganz erheblich reduzierte. Entgegen der ursprünglichen Intention des Konzepts frei beweglicher Klappen konnte jedoch für die hier untersuchte Konfiguration kein Effekt der Klappe bezüglich einer Verzögerung des Strömungsabrisses festgestellt werden. Die positive Wirkung ließ sich durch Vergrößerung der Klappenmasse steigern, da sich die Position der Rückstromklappe dadurch zu geringeren Klappenwinkeln verschiebt, was gleichzeitig zu verbesserter Effektivität führt. Da sich herausstellte, daß feststehende Spoilerklappen bei gleicher Anstellung identische Eigenschaften wie frei bewegliche Rückstromklappen aufweisen, kann die technische Umsetzung des Konzepts auch mit gezielt angesteuerten Spoilern erfolgen.</dc:description>
+          <dc:date>2003-11-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/547</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5425</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5425</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/547/schatz_markus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:14Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:887">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:887</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Charakterisierung von Polyacrylsäure-Palladiumverbundsystemen und ihre Anwendung im Membranreaktor</dc:title>
+          <dc:title xml:lang="eng">characterisation of polyacrylic acid palladium membranes and the application in membrane reactor</dc:title>
+          <dc:creator>Gröschel, Lothar</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit zur technisch orientierten Chemie stehen Membranen aus Polyacrylsäure als Trägermaterial für katalytisch aktive Palladiumpartikel im Mittelpunkt. Da die Katalyse in Membranen ein vielversprechender Ansatz zur Steigerung der Selektivität bei Folgereaktionen angesehen wird, wurden die Eigenschaften von katalysatorhaltigen Membranen anhand der partiellen Gasphasenhydrierung von Propin zu Propen untersucht. Die Idee besteht vor Allem darin, dass durch eine konvektive Durchströmung der Membranen eine geringe Rückvermischung der Reaktanden erreicht werden soll. Zudem kann durch eine genau eingestellte Verweilzeit und durch eine schnelle Abfuhr der Reaktionswärme die Selektivität optimiert werden. Diese Aspekte sind in einem Festbettreaktor weniger gut zu realisieren, weil das Gas nicht homogen durch die Katalysatorschüttung strömt. Dies führt zu Stofftransporteinflüssen auf die Reaktion und zum Verlust der durch die Mikrokinetik ermöglichten hohen Selektivität. In der Arbeit stehen zwei Fragestellungen im Mittelpunkt, die heterogene Katalyse in den Reaktivmembranen und die analytische Charakterisierung der Einsatzstoffe für die Membranherstellung und der Membran selbst. Es werden verschiedene Methoden eingesetzt mit denen die Polymer-Metalldispersionen in Bezug auf die Größe der Polymerpartikel, der Verteilung der Metallpartikel auf der Polymeroberfläche und ihrer Anhaftung an der Polymeroberfläche untersucht wurden. Auch wurden Einflüsse der Herstellbedingungen auf die Größenverteilung der Metallpartikel nachgewiesen. Die Oberflächen- und Schnittflächenmorphologie der Membran wurden mit elektronenmikroskopischen Methoden charakterisiert. Die katalytischen Eigenschaften der Membranen wurden in einem dafür konzipierten Membranreaktor untersucht. Dabei wurden vor Allem die Einflüsse der Verweilzeit, der Reaktionstemperatur und die Konzentration der Reaktanden Wasserstoff und Propin auf die Selektivität der Reaktion untersucht. Auch wurden Membranparameter wie die Porosität und die Metallbeladung verändert und ihre Einflüsse auf den Reaktionsverlauf ausgewertet. Tests auf Katalysatordeaktivierungen und Katalysatorverlust wurden durchgeführt. Die katalytische Aktivität der Porenmembranen wurden mit verschiedenen kommerziell erhältlichen Katalysatoren, die in einem Festbettreaktor verwendet wurden, verglichen. Durch eine Modellierung des Reaktionsverlaufes in verschieden porösen Membranen konnten die kinetischen Parameter der Reaktion bestimmt werden.</dc:description>
+          <dc:date>2004-07-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/887</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8801</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8801</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/887/groeschel_lothar.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

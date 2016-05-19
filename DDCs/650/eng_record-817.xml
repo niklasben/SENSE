@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:817">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:817</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beitrag zur Ermittlung von Kosten und Nutzen der präventiven Qualitätsmethoden QFD und FMEA</dc:title>
+          <dc:creator>Sesma Vitrián, Elena</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Aufgrund seines wirtschaftlichen Nutzens bzw. seines Kosteneinsparungspotenzials hat das präventive Qualitätsmanagement in den letzten Jahren zunehmend an Bedeutung gewonnen. Durch eine Kombination der beiden präventiven Qualitätsmethoden Quality Function Deployment (QFD) und Fehlermöglichlichkeits- und -einflussanalyse (FMEA) lassen sich positive Synergieeffekte erzielen. Das QFD ermöglicht es auf der einen Seite, die Kundenanforderungen zu erfassen und daraus die technischen Merkmale abzuleiten, so dass Kundenbindung und -akquisition sichergestellt werden. Mit der FMEA werden auf der anderen Seite potenzielle Fehler mit dem Ziel einer konstruktiven Überarbeitung des Prozessablaufs und der Umsetzung geeigneter Maßnahmen zur Vermeidung von Fehlern methodisch analysiert und bewertet. Durch eine kombinierte Anwendung der beiden Methoden können also kundenorientierte und fehlerfreie Produkte und Dienstleistungen angeboten und zugleich Ertragssteigerungen und Kostensenkungen gewährleistet werden. Trotz dieser Tatsache stehen die meisten Unternehmen dem Einsatz präventiver Qualitätsmethoden mit großer Skepsis gegenüber, da sie deren wirtschaftlichen Nutzen nicht sehen. Das Problem liegt darin, dass die mit der Anwendung der Methoden verbundenen Kosten zwar einfach zu erkennen sind, der wirtschaftliche Nutzen sich jedoch nicht ohne Weiteres in monetären Einheiten quantifizieren lässt und damit dem Management für die Entscheidung über den Methodeneinsatz wichtige Informationen fehlen. Bezüglich dieser Problematik stellt die vorliegende Arbeit ein Steuerungsinstrument vor, mit dem es möglich ist, eine wirtschaftliche Betrachtung der gemeinsamen Anwendung von QFD und FMEA durch die Gegenüberstellung ihrer Kosten und Nutzen systematisch zu ermitteln. Für die Analyse des finanziellen Ergebnisses der Anwendung beider Methoden werden sowohl der interne als auch der externe Nutzen ermittelt, die beide unter Effektivitäts- und Effizienzgesichtspunkten bewertet werden. Dabei wird einerseits die Zielerreichung der Anwendung der Methoden gemessen und andererseits bewertet, ob die Zielereichung in wirtschaftlichem Sinne erfolgte, indem die erzielten Ergebnisse in Verhältnis mit den entstandenen Kosten gesetzt werden. Neben dem Bewertungs- und Steuerungsmodell umfasst die Arbeit zudem einen Leitfaden, der dessen Operationalisierung darstellt und die Unternehmen bei der praktischen Anwendung unterstützt.</dc:description>
+          <dc:date>2004-12-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/817</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8105</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8105</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/817/sesmavitrian_elena.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

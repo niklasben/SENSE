@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1489">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1489</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">MOVPE growth of InN analyzed by in-situ spectroscopic ellipsometry</dc:title>
+          <dc:title xml:lang="deu">Untersuchung des MOVPE-Wachstum von InN mit in-situ spektroskopischer Ellipsometrie</dc:title>
+          <dc:creator>Drago, Massimo</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurde das Wachstum von Indiumnitrid (InN) in?situ mit spektroskopischer Ellipsometrie (SE) untersucht. InN ist ein neues Material, das aufgrund der möglichen Anwendungen im Optoelektronik- und Hochfrequenzbereich sehr interessant ist. Das Wachstum von InN ist aber bislang noch sehr wenig untersucht worden, da bei diesem Prozess viele Schwierigkeiten auftreten, wie z.B. die Schichtablösung oder die Bildung von Indiumtröpfchen auf der Oberfläche. Deshalb wird in?situ spektroskopische Ellipsometrie verwendet, welche sehr oberflächenempfindlich ist und deshalb optimal für Wachstumsuntersuchungen genutzt werden kann. Die Ablösung der gewachsenen InN-Schichten ist ein gravierendes Problem in der Epitaxie. Daraus ergeben sich Defekte von der Größe einiger µm. Es wurde in dieses Arbeit festgestellt, dass die Ablösung bei einer Schichtdicke von ungefähr 120 nm einsetzt. Bei dieser Schichtdicke beginnt die Koaleszenz. An den nichtuniformen InN/Saphir-Grenzflächen tritt eine spannungsinduzierte Ablösung der InN-Schichten auf. Ab etwa 150 nm platzen die InN-Schichten vom Substrat ab. Verschiedene Verfahrene können diesem Prozess entgegenwirken. Auf Saphir erfolgt dazu eine Substratnitridierung mit Stickstoff. Eine andere mögliche Alternative ist das Wachstum auf dünnen GaN-Schichten. Weiterhin wurde die thermische Beständigkeit in verschiedenen Gasatmosphären untersucht. Die Desorption von InN findet in Stickstoff ab 520°C, in Ammoniak ab 500°C und in Wasserstoff ab 340°C statt. Die Temperierung in Stickstoff bei 540°C und einer Dauer vonn 20 Minuten führt zu einer Reduktion der Oberflächenrauhigkeit. Mit dem Anbieten von Ammoniak erfolgt die Nitridierung der Oberfläche des Saphirsubstrates. Durch die SE konnte bei der Entstehung der AlN-Schicht die Aktivierungsenergie der Nitridierung in erster Reaktionsordnung zu 0.9 eV bestimmt werden. Der ellipsometrische Parameter tanpsi zeigt die vollständige Nitridierung der Oberfläche an. Diese ist bei verschiedenen Temperaturen und Ammoniakdrücken immer nach 45 s erreicht worden. Nach mehr als 45 s Saphirnitridierung findet das Wachstum von AlN statt und die Substratoberfläche wird rauer. Die Nitridierung bei einer Temperatur von 1050°C innerhalb von 45 s ermöglicht auch das Wachstum von qualitativ hochwertigen InN?Schichten. Eine verbesserte Prozedur für das InN-Wachstum konnte in dieser Arbeit entwickelt werden. Nach der Keimbildung bei niedrigen Temperaturen wird während des Wachstums die Temperatur und gleichzeitig das Angebot an Indium erhöht. Das folgende Wachstum findet dann oberhalb der zur Desorption von InN notwendigen Temperatur bei einem Überangebot von Ammoniak und Indium statt. Auf diese Weise wird die Wachstumsrate stark erhöht und die kristalline Qualität verbessert. Abschließend wurden die optischen Eigenschaften von Indiumnitrid untersucht. So konnte die Abhängigkeit der dielektrische Funktion von der Temperatur gemessen werden. Es wurde ein auf Lorentz-Oszillatoren basierendes Modell für die dielektrische Funktion im Temperaturbereich von 20° bis 500°C vorgeschlagen. Das Ergebnis dieser Arbeit läßt sich daher wie folgt zusammenfassen: Durch das Verständnis der Wachstumsmechanismen konnte die Qualität des Indiumnitrids stark verbessert werden. Mit der Untersuchung der Temperaturabhängigkeit der dielektrischen Funktion wurde die Basis für viele weitere Untersuchungen gelegt.</dc:description>
+          <dc:description xml:lang="eng">In this work, InN was grown on sapphire and on GaN/sapphire layers by MOVPE. Growth was analyzed by in-situ spectroscopic ellipsometry. The peeling off of InN/sapphire layers was characterized. When the InN layer coalesces, it form bulges and then, at circa 150nm thickness it partially breaks off (or peels off), leaving large holes the size of some m. This phenomenon can be partially suppressed by using nitrogen as carrier gas during sapphire nitridation or by growing on a GaN template. A promising solution is the growth of an InN nucleation layer on sapphire at low temperature with low ammonia ow. This procedure leads to layers which are up to 300nm thick and do not have peeling off. Even if crystal quality is lower, they can be still used as templates for InN growth at higher temperature. Epitaxial InN desorbs in nitrogen above 520</dc:description>
+          <dc:date>2007-04-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1489</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15357</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15357</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1489/drago_massimo.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

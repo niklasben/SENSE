@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:380">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:380</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die Deuteronen-Fusionsreaktionen in Metallen : Modifizierungvon Wirkungsquerschnitt, Verzweigungsverhältnis und Winkelverteilung der Reaktionen 2H(d,p)3H und 2H(d,n)3He durch die elektronische Struktur der Metallhydride</dc:title>
+          <dc:title xml:lang="eng">The Deuteron-Fusion-Reactions in metals</dc:title>
+          <dc:creator>Huke, Armin</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Der Einfluß der Elektronenfreiheitsgrade auf Kernreaktionen ist die übergeordnete Thematik dieser Arbeit zu deren Behandlung verschiedene physikalische Forschungsgebiete beitragen. Zu diesem Zweck wurden die d+d Fusionsreaktionen durch Autoimplantation in polykristallinen Metallen der reinen Elemente Lithium, Strontium, Natrium, Aluminium, Zirkonium, Tantal und Palladium untersucht. Durch eine neu entwickelte automatische on-line Analysemethode wurde es erstmals möglich Deuteriumdichten während des Meßvorgangs zu überwachen und dadurch wirkungsquerschnittsbezogene Resultate in metallischer Umgebung zu erhalten. Die Anwesenheit der Elektronen führt zu einer Abschirmung der abstoßenden Kernladungen. Es wurden dazugehörige Abschirmenergien zwischen 190 und 320 eV gemessen, die den Wert für gasförmiges, molekulares Deuterium (25 eV aus Gastartgetexperimenten) um eine Größenordnung überschreiten. Die Verwendung von 4 Detektoren erlaubte die Messung der Winkelverteilung für die Reaktionen 2H(d,p)3H und 2H(d,n)3He zu noch kleineren Energien und Bestätigung der Anisotropie. Für Lithium, Natrium und Strontium konnte eine signifikante Asymmetrie im Verzweigungsverhältnis der beiden Reaktionskanäle zu niedrigen Energien hin beobachtet werden mit einer starken Unterdrückung des Neutronenkanals, die so zuvor noch nicht bekannt war. Damit einher geht auch eine Veränderung der Winkelanisotropie. Die Untersuchung des Metall-Wasserstoff-Systems führt in Verbindung mit der Restgaszusammensetzung der Vakuumanlage zu spezifischen aus der Oberflächenphysik resultierenden Problemen, die in dieser Form bei kernphysikalischen Experimenten bisher unbedeutend waren; deren Nichtbeachtung führt jedoch zu folgenschweren Meßfehlern. Es konnte demonstriert werden, wie die Restgaszusammensetzung einer Hochvakuumanlage unter Einwirkung des Ionenstrahls zum Aufbau einer Metalloxid- oder Kohlenstoffschicht auf der Targetoberfläche führt und welche Bedingungen herrschen müssen, damit der Abschirmeffekt beobachtet werden kann, da beide Arten von Oberflächenschichten sein Verschwinden bewirken. Neben dem Experiment wurden quantenmechanische Simulationsrechnungen durchgeführt, um den Abschirmeffekt quantitativ zu beschreiben. Für die anomale Asymmetrie konnte ein Erklärungsansatz aufgestellt werden.</dc:description>
+          <dc:date>2002-12-17</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/380</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3755</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3755</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/380/huke_armin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

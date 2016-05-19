@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:863">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:863</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Interaktive Lageregelung bei Nacht mit dem Mikrosatelliten DLR-TUBSAT</dc:title>
+          <dc:creator>Bleif, Jörn-Hendrik</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Primäres Ziel dieser Forschungsarbeit war es, den Satelliten DLR-TUBSAT für die interaktive Lageregelung bei Nacht einsetzbar zu machen und die Funktionsfähigkeit des Systems anhand von Lageregelungsexperimenten im Orbit zu demonstrieren. Unter interaktiver Lagerregelung versteht man das 1999 an der TU-Berlin erstmals vorgestellte Lagerregelungsverfahren, bei dem ein Mensch in der Bodenstation mittels eines Joysticks Steuerbefehle an den Satelliten sendet, während er vor sich auf einem Bildschirm das vom Satelliten übertragene Live-Videobild sehen kann. Er bekommt dadurch in Echtzeit die Reaktion des Satelliten auf die Steuerbefehle vermittelt. Hinter diesem Ziel steckte die Motivation, das zeitliche Auflösungsvermögen des Satelliten zu erhöhen, sowie neue Anwendungsmöglichkeiten zu erschließen. Neben diesem Hauptziel sollte zusätzlich das Potential der DLR-TUBSAT-Nutzlastoptiken für Nachtaufnahmen untersucht werden. Das Kernproblem, welches zur Erreichung dieser beiden Ziele gelöst werden musste, war das der Vorstabilisierung des Satelliten bei Nacht. Unter Vorstabilisierung versteht man das auf einige Grad genaue Ausrichten des Satelliten auf ein Zielgebiet, welches anschließend interaktiv erkundet werden soll Um dieses Problem zu lösen, wurde eine komplexe Vorstabilisierungssoftware entwickelt welche sich aus boden- und bordseitigen Komponenten zusammensetzt. Mit der Software lässt sich der Satellit in drei Schritten von einer beliebigen unbekannten Lage zu Beginn des Überflugs, der sogenannten Lost-In-Space-Konfiguration, in den geforderten vorstabilisierten Zustand überführen. Die drei Schritte sind: 1.Aufnahme und Übertragung eines Sternbilds zur Bodenstation 2.Ermittlung der Lage des Satelliten durch Auswertung des Sternbilds 3.Berechnung und Kommandierung der notwendigen Schwenkmanöver um von der ermittelten zur gewünschten vorstabilisierten Lage zu gelangen Zu jedem dieser Schritte wurden zunächst eigenständige Programme entwickelt, welche anschließend zu der integrierten Vorstabilisierungssoftware zusammengefügt wurden. Die für diese Arbeit entwickelte Software zur Berechnung und Kommandierung der Manöver wurde als Echzeitsimulator unter Einbindung von OpenGL-Grafikroutinen realisiert. Bei der Kommandierung der Manöver werden diese von der Simulation mitgekoppelt, sodass der Operator den gesamten Vorstabilisierungsvorgang aus der simulierten Satellitenperspektive mitverfolgen kann, was ihm die Interpretation der Szene im echten Videobild erleichtert. Neben der Lösung des Problems der Vorstabilisierung bei Nacht wurde im Rahmen dieser Dissertation auch die interaktive Steuerung selbst optimiert. Hierfür wurde wiederum eine neue Software entwickelt. Diese wurde vor dem Einsatz bei Nacht erfolgreich am Tage in Südafrika getestet. Es konnte demonstriert werden, dass es diese Software ermöglicht, mit dem 1000mm-Objektiv über mehrere Minuten einer Küstenlinie zu folgen, ohne dieselbe aus dem Blickfeld zu verlieren. Die Genauigkeit der integrierten Vorstabilisierungssoftware wurde zunächst durch Manöver von einem Sternbild zu einem anderen getestet. Für die sich anschließenden interaktiven Lageregelungstests wurde Berlin als Ziel ausgewählt. Die Funktion des Vorstabilisierungssystems konnte durch das Erreichen von Berlin mit dem 50mm-Objektiv bei mehreren aufeinanderfolgenden Überflügen nachgewiesen werden. Auch die Funktion der interaktiven Steuerung konnte durch das erfolgreiche zentrieren des Ziels im Bild nachgewiesen werden.</dc:description>
+          <dc:date>2004-07-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/863</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8568</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8568</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/863/bleif_joern.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

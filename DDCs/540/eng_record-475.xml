@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:475">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:475</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Synthese und Charakterisierung neuer Polycarbobetaine</dc:title>
+          <dc:title xml:lang="eng">Synthesis and characterization of novel polycarboxybetaines</dc:title>
+          <dc:creator>Schimmel, Thomas</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Ziel der vorliegenden Arbeit war die Synthese und Charakterisierung neuartiger Polycarbobetaine. Dabei war es das Anliegen, Struktur-Eigenschafts-Beziehungen für diese Klasse zwitterionischer Polyelektrolyte aufzustellen. Um Polyelektrolyte mit definierter Architektur zu erhalten, wurde die Methode der Synthese von Precursorpolymeren und anschließender polymeranaloger Reaktion angewendet. In den folgenden Syntheseschritten wurde das Precursorpolymer in einer mehrstufigen polymeranalogen Umsetzung zu Polycarbobetainen verschiedener chemischer Struktur funktionalisiert. Dabei wurden strukturelle Größen wie der Abstand zwischen posititver und negativer Ladung, eine hydrophobe Alkylkette zwischen den Ladungen (Methyl, Ethyl, Propyl, Butyl), die Hybridisierung des Stickstoffatoms (sp2, sp3) und die Substitution am Stickstoff (Methyl, Ethyl) variiert. Neben Homopolymeren wurden auch Blockcopolymere Poly(styrol)-block-Poly(4-vinylpyridin) und Poly(styrol)-block-Poly(vinylbenzylchlorid) synthetisiert und zu amphiphilen Blockcopolymeren mit einem Carbobetainblock funktionalisiert. Die Variation betraf hierbei den Typ des Carbobetains, die Molmasse und das Blocklängenverhältnis. Es zeigte sich, dass auf Grund starker Aggregation nur wenige Blockcopolymere wasserlöslich sind. Diese wurden dann mittels analytischer Ultrazentrifugation hinsichtlich der Aggregatgröße untersucht. Die Untersuchungen zum Lösungszustand der Polycarbobetaine erfolgten durch Kapillarelektrophorese, analytische Ultrazentrifugation und Polyelektrolyttitration. Die Kapillarelektrophorese kam dabei erstmalig zur Charakterisierung von Polycarbobetainen zum Einsatz. Durch Variation des pH-Wertes im Messsystem konnten strukturelle Unterschiede der Polycarbobetaine mit einer unterschiedlichen elektrophoretischen Mobilität korreliert werden. Weiterhin wurde das Verhalten in Substanz durch FTIR-Spektroskopie untersucht. Die verschiedenen Charakterisierungsmethoden liefern dabei in exzellenter Weise übereinstimmende Ergebnisse, obwohl physikochemische Parameter wie die Art des Lösungsmittels, die Ionenstärke oder die Stärke des elektrischen Feldes in einem weiten Bereich variieren. Dadurch kann die Ladungswechselwirkung der Polycarbobetaine als intrinsische Eigenschaft auf ihre molekulare Struktur zurückgeführt werden und ist nicht das Ergebnis der Beeinflussung durch die Messmethode. Durch die detaillierte Untersuchung verschiedener Polycarbobetaine konnte eine Abhängigkeit des Lösungsverhaltens von der molekularen Struktur ermittelt werden. Die wesentlichen Parameter sind dabei der Abstand der positiven und negativen Ladung in der Monomereinheit, die Größe der Substituenten am positiv geladenen Stickstoffatom, die Größe von Alkylsubstituenten zwischen den Ladungen und die Hybridisierung des Stickstoffatoms. Mit diesen Merkmalen lassen sich die Polycarbobetaine in zwei Gruppen einteilen. Die zwei Typen der Polycarbobetaine unterscheiden sich in der Abhängigkeit der Stärke der Ladungswechselwirkung vom pH-Wert. Stark wechselwirkende Gruppen führen zur Ausbildung eines intramolekularen Ionenpaars, das erst bei sehr kleinen pH-Werten aufgebrochen wird. Schwach wechselwirkende Gruppen lassen die Carboxylatfunktion frei erscheinen, so dass sich die protonierten Polycarbobetaine eher wie polymere Carbonsäuren verhalten.</dc:description>
+          <dc:date>2002-07-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/475</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4705</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4705</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/475/schimmel_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

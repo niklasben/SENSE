@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1073">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1073</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchung der Dissipationsmechanismen der Metall/Metall-Reibpaarung mit Hilfe der Radionuklidtechnik und faseroptischen IR-Temperaturmessung</dc:title>
+          <dc:title xml:lang="eng">Analysis of dissipation mechanisms in a metal/metal sliding contact by means of radioactive tracer technique and fiber-optic IR-thermometry</dc:title>
+          <dc:creator>Shakhvorostov, Dmitry</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Um ein breites Verständnis der Dynamik der physikalisch-chemischen Prozesse im Kontakt der mit Motoröl geschmierten Metall-Metall Reibpaarung zu gewinnen, wurde eine neue faseroptische Messmethode zur Messung der maximalen Oberflächentemperatur eingesetzt. Der Verschleiß wurde kontinuierlich mittels der Radionuklidtechnik mit einer Auflösung im Nanometerbereich simultan zur Reibung erfasst. Die Untersuchungen wurden an einem Modellsystem (Stift/Scheibe Tribometer) unter Einsatz eines hartverchromten Stiftes, eines Stahlstiftes, einer Graugussscheibe und mit volllegiertem Motoröl durchgeführt. Die Tribopartner wurden mit Hilfe eines fokussierten Ionenstrahls, der Transmissionselekronenmikroskopie, der Augerelektronenmikroskopie, der Röntgendiffraktometrie und Nanoindentation analysiert. Es wurde gezeigt, dass im Tribosystem innerhalb von einigen Minuten die Ausbildung von dissipativen Strukturen stattfinden kann, welche eine Abnahme der Verschleißgeschwindigkeit bei erhöhter Last verursachen. Die Rolle der maximalen Oberflächentemperatur ist für die Ausbildung solcher Strukturen wesentlich, aber nicht allein entscheidend. Die Scherung und die tribochemischen Reaktionen spielen an dieser Stelle die Hauptrolle. Das Vorhandensein der Temperaturinstabilitäten ist mit hoher Verschleißgeschwindigkeit verbunden. Die tribologisch günstige Randzone wird nur beim nanoskaligen Verschleißregime gebildet. Die Realisation dieses Verschleißregimes unter konstruktiv bedingten Belastungsparametern wird durch die Auswahl der Reibpartner und des Schmierstoffs gewährleistet.</dc:description>
+          <dc:description xml:lang="eng">In order to obtain a wide understanding of physical and chemical changes in the tribocontact due to the friction process a novel fiberoptic technique for the measurement of the maximum surface temperature was implemented. Wear was monitored continuously with the help of the radionuclide technique, which allows a resolution of about one nanometer. Experiments with a pin on disk tribometer were performed using a gray cast iron disk rotating against a chromium-plated and unplated steel pin under lubrication with fully formulated engine oil. Both the surface and subsurface were observed according to wear conditions by means of a focused ion beam, transmission electron microscopy, auger electron microscopy, X-ray diffraction and nanoindentation. It was shown that an intensive formation of dissipative structures takes place within the first minutes of runtime. This can lead to an inverse proportion of wear rate and loading conditions during running-in. The role of maximum temperature on the formation of dissipative structures is important but not constitutive. Shear and tribochemical reactions play here the essential role. Temperature instabilities in the form of flashes occur in the regimes of high wear rates. The formation of tribologically favorable structures takes place only in the nanoscale wear regime under low wear rate. In systems with given parameters by the engineer such low wear rates can be realized by the selection of the lubricant and/or materials of tribopartners.</dc:description>
+          <dc:date>2005-08-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1073</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10553</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10553</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1073/shakhvorostov_dmitry.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

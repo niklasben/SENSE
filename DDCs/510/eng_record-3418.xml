@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:07Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3418">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3418</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Classification and Lagrangian Structure of 3D Consistent Quad-Equations</dc:title>
+          <dc:title xml:lang="deu">Klassifikation und Lagrangesche Struktur 3D-verträglicher Quad-Gleichungen</dc:title>
+          <dc:creator>Boll, Raphael</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">We consider 3D consistent six-tuples of quad-equations assigned to the faces of a cube. The well-known classification of 3D consistent quad-equations, the so-called ABS-list, is included in this situation. Our classification covers all such six-tuples possessing the so-called tetrahedron property. Several novel six-tuples have been found. The extension of the equations to the whole lattice Z^3 is possible by reflecting the cubes. For every quad-equation we will give at least one system leading to a Bäcklund transformation and a zero-curvature representation which means that they are integrable. In addition, we present a procedure to extend these six-tuples to discrete integrable systems on the lattice Z^4 and derive from these 4D consistent systems the Bianchi permutability of Bäcklund transformations. Furthermore, we establish Lagrangian structures and closeness of discrete Lagrangian 2-forms for the class of discrete integrable systems involving equations for which some (but not all) of the biquadratics are degenerate. This class covers, among others, some of the above-mentioned novel systems.</dc:description>
+          <dc:description xml:lang="deu">Wir betrachten 3D-veträgliche sechs-Tupel von Quad-Gleichungen, die den Flächen eines Würfels zugeordnet sind. Die wohlbekannte Klassifikation 3D-veträglicher Quad-Gleichungen, die sogenannte ABS-Liste, ist in dieser Situation inbegriffen. Unsere Klassifikation beinhaltet alle solche sechs-Tupel, die die sogenannte Tetraeder-Eigenschaft erfüllen. Diverse neue sechs-Tupel wurden dabei gefunden. Die Erweiterung der Gleichungen über das ganze Gitter Z^3 ist mit Hilfe von Spiegelungen der Würfel möglich. Für jede Quad-Gleichung geben wir mindestens ein System an, aus dem man eine Bäcklund-Transformation und eine Nullkrümmungsdarstellung herleiten kann, was zeigt, dass sie integrabel sind. Außerdem präsentieren wir ein Verfahren, diese diskreten integrablen Systeme auf das Gitter Z^4 zu erweitern und leiten aus diesen 4D-veträglichen Systemen die Bianchi-Vertauschbarkeit von Bäcklund-Transformationen her. Des Weiteren führen wir eine Lagrangesche Struktur und eine Geschlossenheit von Lagrangeschen 2-Formen für die Klasse der diskreten integrablen Systeme ein, die aus Gleichungen bestehen, deren Biquadratiken zum Teil (aber nicht alle) entartet sind. Diese Klasse enthält unter anderem einige der oben genannten neuen Systeme.</dc:description>
+          <dc:date>2012-08-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3418</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36285</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36285</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3418/boll_raphael.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

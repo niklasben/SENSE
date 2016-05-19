@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3423">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3423</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Interactions of Legacy Internet Traffic with Multihop Wireless Networks</dc:title>
+          <dc:title xml:lang="deu">Wechselwirkungen von klassischem Internetverkehr mit drahtlosen Mehrpunktnetzen</dc:title>
+          <dc:creator>Schiöberg, Harald</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">In this work deals with the usability of wireless multihop networks to provide practical Internet access. Contemporary research on these kind of networks focuses predominantly on generic scenarios and does not take the particular requirements of Internet traffic into account. In this work, we devise an architecture for a practical testbed, where the interactions of such algorithms with practical live Internet traffic can be studied. We furthermore devise a cross-layer network architecture, that allows us to utilize such novel network and potentially disruptive algorithms in the existing Internet environment. We finally propose the first complete wireless multihop protocol stack, which is specifically designed for the specific properties and requirements of Internet network traffic. With this work we do not only provide a novel network architecture for multihop wireless networks, but we also provide an architecture and a case study for the transfer of disruptive network algorithms to the Internet.</dc:description>
+          <dc:description xml:lang="deu">Diese Arbeit behandelt die Verwendbarkeit von Netzen mit mehrfacher drahtloser Weiterleitung für den Internetzugang. Aktuelle wissenschaftliche Arbeiten auf diesem Gebiet konzentrieren sich meist auf allgemeine Effekte und berücksichtigen nicht die besonderen Eigenschaften des Internetverkehrs. In dieser Arbeit präsentieren wir eine Architektur für ein praktisches Versuchsnetz, mit dem die effekte realen Internetverkehrs auf solche drahtlosen Netze untersucht werden kann. Weiterhin entwerfen wir einen mehrere Netzschichten umfassenden Ansatz, der es erlaubt, solche abstrakten Algorithmen mit dem existierenden Internet zu verbinden. Schlussendlich demonstrieren wir den ersten vollständigen drahtlosen Netzprotokollstapel, der speziell für die Anforderungen realen Internetverkehrs entworfen ist. Mit dieser Arbeit zeigen wir aber nicht nur eine spezielle Architektur für die betrachteten drahtlosen Netze: Wir sehen diese Arbeit als allgemein verwendbare Fallstudie für die Verbindung revolutionärer Netzalgorithmen mit dem existierenden Internet.</dc:description>
+          <dc:date>2012-08-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3423</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36418</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36418</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3423/schioeberg_harald.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

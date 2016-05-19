@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:809">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:809</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Dokumente 2008/2009</dc:title>
+          <dc:creator>Institut für Architektur, Fachgebiet Baukonstruktion und Entwerfen</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Publikation werden ausgewählte studentische Projekte aus den Jahren 2008/2009 dokumentiert. Sie sind die Ergebnisse der vom Fachgebiet für Baukonstruktion und Entwerfen organisierten Entwurfsseminare: "Komplexe dreidimensionale Strukturen", "Musterhaus", "BA Workshop Building", "High-Rise Pre-Fab" und "Pavillon".</dc:description>
+          <dc:description xml:lang="eng">This publication presents selected results of the design studios "Komplexe dreidimensionale Strukturen", "Musterhaus", "BA Workshop Building", "High-Rise Pre-Fab" and "Pavillon", held by the Chair for Architectural Design of Prof. Regine Leibinger in 2008/2009.</dc:description>
+          <dc:date>2013-06-18</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/809</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39909</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39909</dc:identifier>
+          <dc:identifier>978-3-9812725-0-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/809/2008_2009_dokumente.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

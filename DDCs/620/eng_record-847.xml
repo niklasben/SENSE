@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:847">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:847</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Design und Realisierung eines elektrostatischen Mikrorelais in Oberflächen-Mikromechanik</dc:title>
+          <dc:creator>Thielicke, Ernst</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit beschreibt die Konzeption und Realisierung eines Mikrorelais für den Einsatz im Bereich Messtechnik, speziell zur Miniaturisierung von Relaiskarten und piezoelektrischen Messsystemen. Ausgehend von einer Analyse des Verhaltens metallischer Mikrokontakte werden die Anforderungen an den Mikroaktuator aufgestellt, der die Schaltfunktion ausführt. Die Kontaktkraft muss 100 µN übersteigen, um einen stabilen Kontaktwiderstand zu erhalten. Zur Trennung der geschlossenen Kontakte, ist eine Mindestrückstellkraft von &gt; 100 µN nötig. Die offenen Kontakte werden über eine Luftstrecke von 1.5 µm isoliert. Das elektrostatische Antriebsprinzip ist prädestiniert für einen Einsatz in Mikrorelais, weil es die Realisierung eines schnellen und leistungsarmen Aktuators ermöglicht, der eine hohe Normalkraft am Ende seines Stellweges erzielt, wenn die Kontakte geschlossen werden. Nach einer analytischen Abschätzung wird das Mikrorelais mit Hilfe einer elektro-mechanisch gekoppelten FEM-Simulation dimensioniert. Ein neues Aktuator-Konzept mit mehrstufigen Federn (Nulllage-, Rückstell- und Relaisankerfeder) und planparallelen, verstärkten Elektrodenplatten erzeugt auf einer Nettofläche von unter 0.2 qmm eine elektrostatische Gesamtkraft von mindestens 600 µN bei einem Stellweg von etwa 2 µm. Das Mikrorelais wird mit den Prozessen der Oberflächen-Mikromechanik realisiert. Die elektro-mechanischen Strukturen (Relaisanker und Elektroden) bestehen aus Polysilizium. Der Schalt- ist vom Lastkreis galvanisch durch eine Siliziumnitridschicht getrennt und die Kontakte bestehen aus Gold. Nach einer Initialisierung des drehbar gelagerten Relaisankers führt dieser die Schaltfunktion durch eine Bewegung normal zum Substrat aus, wobei ein Brückenkontakt zwei Gegenkontakte elektrisch leitend verbindet. Das Schaltverhalten des Relais wird messtechnisch untersucht und alle relevanten Kennwerte aufgenommen. Das Relais benötigt eine Ansteuerspannung von etwa 35 Volt. Der Kontaktwiderstand beträgt 1.3 Ohm, der Durchgangswiderstand 6.5 Ohm, der Sperrwiderstand mehr als 100 GOhm und die Spannungsfestigkeit 150 Volt. Das Relais wird bei Normaldruck betrieben, so dass die Luftdämpfung (Squeeze-Film-Damping) das dynamische Schaltverhalten bestimmt. Schon bei der analytischen Berechnung mit Hilfe der Reynoldsgleichung zeigt sich die Prellfreiheit des Schaltvorgangs, wobei trotz der hohen Dämpfung eine Einschaltzeit von unter 150 µs erreicht wird. Wenn die Belastung auf den untersten Trockenlastbereich (Lasten unter 5 V / 100 µA) beschränkt bleibt, beträgt die Lebensdauer mindestens 10E6 Schaltspiele. Die Arbeit wird ergänzt durch eine ausführliche tabellarische Übersicht bisher veröffentlichter Mikrorelais.</dc:description>
+          <dc:date>2004-09-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/847</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8409</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8409</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/847/thielicke_ernst.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

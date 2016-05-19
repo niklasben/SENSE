@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3844">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3844</identifier>
+        <datestamp>2013-07-16</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Numerische Verfahren der Optimalsteuerung von Magnetfeldern</dc:title>
+          <dc:title xml:lang="eng">Numerical methods in the optimal control of electromagnetic fields</dc:title>
+          <dc:creator>Altmann, Kristof</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit untersuchen wir Optimalsteuerungsprobleme mit linearen elliptisch-parabolischen partiellen Differentialgleichungen und punktweisen Steuerungsbeschränkungen. Dabei liegt der praktische Hintergrund in Anwendungen mit den Maxwellgleichungen. Zum einem betrachten wir Modelle mit gewöhnlichen Differentialgleichungen, welche wir aus elektrischen Schaltkreisen herleiten. Zum anderen werden Modelle mit dreidimensionalen parabolischen Vektorpotenzialen behandelt. Für alle untersuchten Modelle zeigen wir die Existenz und Eindeutigkeit von Lösungen für die enthaltenen Differentialgleichungen. Dabei ist aus analytischer Sicht die Kopplung von elliptischen und parabolischen partiellen Differentialgleichungen das größte Problem. Nachfolgend leiten wir notwendige Optimalitätsbedingungen 1. Ordnung für eine optimale Steuerung her, welche zum Teil auch hinreichend sind. Für die Herleitung der Optimalitätsbedingungen verwenden wir die formale Lagrange-Technik. Weiterhin beschreiben wir Algorithmen, mit denen wir die Optimalsteuerungsprobleme lösen können. Unser Fokus liegt dabei auf Algorithmen, die robust bezüglich großer Systeme sowie Praxis relevanter physikalischen Größen sind. So wird zum Beispiel eine elektrische Leitfähigkeit von 0 in nichtleitenden und 106 in leitenden Materialien verwendet. Zum Abschluss diskutieren wir einige numerische Lösungen von verschiedenen Modellen. Dabei zeigen wir Unterschiede in den Lösungen für unterschiedliche Geometrien, Regularisierungen und Optimalsteuerungsparameter.</dc:description>
+          <dc:description xml:lang="eng">This thesis investigates optimal control problems related to electrical circuits and Maxwell equations. For this purpose we discuss optimal control problems with linear elliptic-parabolic partial differential equations and box constraints. Some different models will be defined and explained. Models related to the Maxwell equations will be discussed in the vector potential form. In all models we derive the existence and uniqueness for involved differential equations. Furthermore we derive the first-order necessary optimality conditions for all optimal control pro- blems. This will be done by the formal Lagrange-technique. The coupling between elliptical and parabolic partial differential equations constitutes the biggest challenge. We show algorithms to solve the optimal control problems numerically. The main focus is that these algorithms are stable for big systems and practice relevant physical constants. For example a value of 0 for electrical conductivity in non-conducting regions and 106 in conducting regions is used. Finally we discuss numerical solutions of the different models. Particularly we consider numerical solutions of different geometries, regularisations and optimal control parameters.</dc:description>
+          <dc:date>2013-06-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3844</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40711</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40711</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3844/altmann_kristof.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

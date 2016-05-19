@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:03Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1052">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1052</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Synthese und Charakterisierung neuartiger Materialien auf der Basis von Oxidnitriden des Tantals</dc:title>
+          <dc:title xml:lang="eng">Synthesis and characterization of new materials based on tantalum oxynitrides</dc:title>
+          <dc:creator>Schilling, Heikko</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein allgemeiner Syntheseweg zur Darstellung von dotierten Tantaloxidnitriden vorgestellt. Die entstandenen Verbindungen wurden durch Röntgen- und Neutronenpulverdiffraktometrie strukturell charakterisiert, wobei in-situ-Hoch-temperaturmessungen Aufschluss über ihre thermischen Eigenschaften geben. Ihre Zusammensetzungen wurden mittels Heißgasextraktion (N/O-Analyse) bestimmt, ihre optischen Eigenschaften anhand von UV/Vis-Spektren untersucht. Als geeigneter Syntheseweg erwies sich die Ammonolyse von röntgenamorphen Mischoxiden, welche durch eine Citrat-Gel-Methode bei niedrigen Temperaturen erhalten werden. Im System Y-Ta-O-N wurden Phasen der Zusammensetzungen YxTa1-x(O,N)y (0,15 ? x ? 0,5; y ? 1,9) mit kubischer Fluorit-Struktur gefunden. Aufgrund des hohen Gehaltes an Anionenleerstellen sind hier günstige Voraussetzungen für eine Anionen-Leitfähigkeit vorhanden. Im System Sc-Ta-O-N wurden kubische Phasen in der Bixbyit-Struktur (Raumgruppe ) gefunden, deren Zusammensetzungen zu ScxTa1-x(O,N)y (0,33 ? x ? 0,75; 1,7 ? y ? 1,9) bestimmt wurden. Phasen mit hohem Stickstoffanteil zeigen eine stark ausgeprägte Bixbyit-Überstruktur und kleinere Gitterparameter a. Die Struktur von Phasen mit geringem Stickstoffanteil nähert sich weitgehend dem Fluorit-Typ an und der Gitterparameter a nimmt größere Werte an. In den Systemen Mg-Ta-O-N und Sc-Ta-O-N wurden Phasen mit Anatas-Struktur der Zusammensetzungen Mg0,05Ta0,95O1,15N0,85 und Sc0,15Ta0,85O1,3N0,7 gefunden. Durch temperaturabhängige Röntgenbeugungsmessungen wurde festgestellt, dass beide Anatas-Phasen metastabil sind und sich thermisch zum Baddeleyit-Typ umwandeln lassen. Die Umwandlungstemperaturen liegen bei ca. 910°C für Mg0,05Ta0,95O1,15N0,85 und bei ca. 1000°C für Sc0,15Ta0,85O1,3N0,7. Ebenso findet die Phasenumwandlung druckinduziert statt. Beide Verbindungen zeigen leuchtende Farben: Mg0,05Ta0,95O1,15N0,85 orange und Sc0,15Ta0,85O1,3N0,7 gelb. Anhand von UV/Vis-Spektren wurden ihre Absorptionskanten zu 585 bzw. 560 nm bestimmt. Daraus ergeben sich elektronische Bandlücken von 2,1 eV bzw. 2,2 eV. Ta3N5 lässt sich in erheblichem Maße mit Mg/O und Sc/O dotieren. In das Kationengitter ließen sich  bei gleichzeitigem Austausch von Nitridionen durch Oxidionen im Anionengitter  10 Kationen-% Mg bzw. 35 Kationen-% Sc einbauen. Die Auswirkung dieser Dotierung auf die optischen Eigenschaften wurde mittels UV/Vis-Spektroskopie untersucht. Im System Ta-O-N wurde eine bislang unbekannte Phase gefunden. Die ermittelte Struktur entspricht weitgehend der von VO2(B). Es handelt sich möglicherweise um eine neue Modifikation von TaON neben dem bekannten ?-TaON. Bei ca. 900°C findet eine Phasenumwandlung zu ?-TaON statt.</dc:description>
+          <dc:date>2005-07-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1052</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10366</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10366</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1052/schilling_heikko.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

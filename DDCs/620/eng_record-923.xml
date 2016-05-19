@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:923">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:923</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einfluss unterschiedlicher Verfahrenskonzepte auf Substratabbau und Nährstoffverwertung in Membranbelebungsanlagen zur kommunalen Abwasserreinigung</dc:title>
+          <dc:title xml:lang="eng">The influence of different plant conceptions on substrate removal and nutrient The influence of different plant conceptions on substrate removal and nutrient</dc:title>
+          <dc:creator>Kubin, Kirsten</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die in dieser Arbeit durchgeführten Untersuchungen dienen dazu, Lösungen oder Lösungsansätze für noch nicht geklärte technische Fragen offenzulegen, um damit die konkrete Umsetzung der Membrantechnologie in der kommunalen Abwassertechnik zu erleichtern. Grundlagen hierfür lieferten Untersuchungen an einer Pilotanlage (3,6 m³) des Umweltbundesamtes in Berlin, welche 1997 erst- mals in Betrieb genommen wurde und bis Ende 1998 sehr gute Betriebsergebnisse erzielte. Nach Modifikation der Anlage ist diese im Rahmen dieser Untersuchungen wieder in Betrieb genommen worden. Um eine flexible Versuchsdurchführung zu gewährleisten und spezielle Fragestellungen näher zu untersuchen, wurde eine Technikumsanlage (160 L) weitgehend analog zur Pilotanlage konstruiert und auf gebaut. Es konnte gezeigt werden, dass die Anlagen unterschiedlicher Maßstäbe eine ver- gleichbare Eliminationsleistung hinsichtlich der Kohlenstoffverbindungen auf- wiesen. In beiden Anlagen konnte eine stabile Nitrifikation und eine sehr gute Denitrifikation beobachtet werden. Es wurden unterschiedliche Strategien be- zogen auf das Abziehen von Überschussschlamm verfolgt. Ein Betrieb ohne Über- schussschlammanfall war nicht möglich, da selbst bei sehr niedrigen Schlammbe- lastungen und einem hohen rechnerischen Schlammalter Überschussschlamm produ- ziert wurde. Die Untersuchung der Potentiale von Verfahrensänderungen zeigte, dass ein direkter Einfluss der Reaktorgestaltung in Form einer kaskadierten belüfteten Stufe im Vergleich zu einem vollständig durchmischten Reaktor sowie der kammer- internen Vermischungszustände keinen maßgeblichen Einfluss auf die Reinigungs- leistung ausübt. Als ein Vorteil der Kaskadierung wird die Möglichkeit der feineren Regelung der Sauerstoffkonzentration innerhalb der einzelnen Stufen gesehen. Hierbei kann einerseits bei einer vorgeschalteten Denitrifikations- stufe eine Sauerstoffverschleppung unterbunden werden, andererseits kann der Sauerstoffgehalt in einzelnen Zonen gering gehalten werden (&lt; 1 mg/L), wodurch eine simultane Nitrifikation / Denitrifikation ermöglicht wird. Als eine Vor- aussetzung hierfür wird ein erhöhter TS-Gehalt (15 g/L) angesehen. Die geringere Belüftung birgt eine Energieeinsparung. Durch die Vermeidung der Sauerstoffver- schleppung kann das Denitrifikationsvolumen verringert werden, was abermals zu einer Kosteneinsparung führt. An Hand der Laboranlage konnten gute Ergebnisse bei Betrieb der Anlage mit einer zwischengeschalteten Denitrifikationskammer beobachtet werden. Es zeigte sich hierbei eine gute und über mehrere Tage stabile CSB-Elimination, Nitrifikation und Denitrifikation.</dc:description>
+          <dc:date>2004-07-06</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/923</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9165</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9165</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/923/kubin_kirsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

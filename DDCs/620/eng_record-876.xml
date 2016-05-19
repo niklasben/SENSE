@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:876">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:876</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung einer arbeitswissenschaftlichen Methodik zur partizipativen Analyse potenzieller Gefahrenquellen im Haushalt</dc:title>
+          <dc:creator>Schadow, Bert</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Statistiken über Unfälle im Haushalt zeigen, dass mit zunehmendem Alter die Zahl der Unfälle in den eigenen vier Wänden drastisch zunimmt. Um Unfälle im Haushalt ingenieurwissenschaftlich zu erfassen, wurde anhand von Statistiken eine Fehlerbaumanalyse durchgeführt. Vornehmlich Stürze prägen das Unfallgeschehen (80 Prozent der tödlichen Unfälle). Vorrangiges Ziel besteht in der Prävention von Unfällen im direkten Wohnumfeld, da häufig der Wunsch geäußert wird, möglichst lange in der eigenen Wohnung leben zu wollen. Bei der Auswertung des Fehlerbaums kristallisierte sich die besondere Problemstellung heraus: die ganzheitliche Prävention von Unfällen im Haushalt, sowie die adäquate Einbeziehung der Zielgruppe. Zur ganzheitlichen Prävention von Unfällen wurde eine arbeitswissenschaftliche Methodik entwickelt, die sich speziell an Senioren orientiert, diese aktiv in die Unfallprävention mit einbezieht und motiviert, sich mit den potenziellen Gefahrenquellen im Haushalt auseinander zu setzen. Hauptbestandteil der entwickelten Methodik ist ein Spiel zur Gefahrenanalyse. Der Kernpunkt besteht in der Sensibilisierung auf Gefahrenquellen. Das Spiel mündet in einem Managementsystem zur Bewältigung potenzieller Gefahren im Haushalt, welches durch den Senior aktiv mitgestaltet wurde. Eine Bewertung der Methodik zeigt tendenziell, dass durch die Dimensionen Zielgruppenspezifizierung, Empowerment und Partizipation eine erfolgreiche Unfallprävention erreicht werden konnte.</dc:description>
+          <dc:date>2004-06-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/876</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8692</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8692</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/876/schadow_bert.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

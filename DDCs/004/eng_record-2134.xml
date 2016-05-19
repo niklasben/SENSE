@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:17Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2134">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2134</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">An Agent-Based Approach for Privacy-Preserving Information Filtering</dc:title>
+          <dc:title xml:lang="deu">Ein agentenbasierter Ansatz für privatheitsbewahrende Informationsfilterung</dc:title>
+          <dc:creator>Cissée, Richard</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Recommender Systems and Matchmaker Systems utilize Information Filtering technologies in order to provide personalized information in the form of recommendations of items or users with similar interests, based on a user's long-term information needs, which are in turn derived from personal data and personal preferences. These systems are inherently privacy-critical because they essentially require personal data. Systems for sensitive domains in particular are not likely to be widely accepted by users unless they preserve the privacy of the user data they operate on. At the same time, Information Filtering technology providers as well as information providers have to be sufficiently motivated to develop and run privacy-friendly Recommender Systems and Matchmaker Systems. In the optimal case, these systems are multilaterally privacy-preserving in the sense that the privacy of all participating entities is preserved adequately. This work describes an approach for distributed multilateral Privacy-Preserving Information Filtering based on Multi-Agent System technology, which due to the capabilities of agents is an obvious choice for realizing distributed privacy-preserving Recommender Systems and Matchmaker Systems. As prerequisites, we introduce mechanisms for controlling the communication capabilities of agents, which are mainly used in order to prevent agents from disclosing private data, as well as a solution for transparent persistence of data within Multi-Agent Systems, which is used in order to realize generic interactions between agents in our approach. As the core of the work, we specify two modules which allow the realization of privacy-preserving Recommender Systems as well as privacy-preserving Matchmaker Systems. The underlying agent interactions are based on cryptographic protocols, which protect participants against malicious adversaries attempting to obtain or propagate private data. We describe and examine filtering techniques that are suitable for our approach. We also describe a prototypical application based on these building blocks, and we evaluate the overall feasibility of the approach in terms of functional and non-functional requirements of privacy-preserving Information Filtering technologies.</dc:description>
+          <dc:description xml:lang="deu">Empfehlungssysteme und Matchmaker-Systeme verwenden Technologien zur Informationsfilterung, um personalisierte Informationen in Form von Empfehlungen von Objekten oder Benutzern mit ähnlichen Interessen zu liefern. Diese Empfehlungen basieren auf langfristigen Informationsbedürfnissen eines Benutzers, welche aus den persönlichen Daten und persönlichen Präferenzen dieses Benutzers abgeleitet werden. Aufgrund dieses expliziten Bedarfs an persönlichen Daten ist in derartigen Systemen die Privatheit der Benutzer inhärent bedroht. Insbesondere in sensiblen Domänen werden diese Systeme wahrscheinlich nur auf breite Akzeptenz stoßen, wenn sie die Privatheit der zugrundeliegenden Benutzerdaten bewahren. Gleichzeitig müssen die Anbieter von Technologien zur Informationsfilterung und die Anbieter der zugrundeliegenden Informationen hinreichend motiviert sein, privatheitsunterstützende Empfehlungssysteme und Matchmaker-Systeme zu entwickeln und zu betreiben. Optimalerweise berücksichtigen derartige Systeme die Privatheit aller beteiligten Parteien und sind somit mehrseitig privatheitsbewahrend. Diese Arbeit beschreibt einen Ansatz zur verteilten mehrseitigen privatheitsbewahrenden Informationsfilterung, basierend auf Multiagentensystem-Technologie. Aufgrund der Fähigkeiten von Agenten liegt es nahe, diese Technologie zur Umsetzung von verteilten Empfehlungssystemen und Matchmaker-Systemen einzusetzen. Als Grundlagen beschreibt diese Arbeit Mechanismen zur Einschränkung der Kommunikationsfähigkeiten von Agenten und eine Lösung für transparente Persistenz von Daten in Multiagentensystemen. Erstere werden verwendet, um Agenten an der unkontrollierten Weitergabe von privaten Daten zu hindern, während letztere verwendet wird, um generische Interaktionen zwischen den beteiligten Agenten zu ermöglichen. Den Kern der Arbeit stellt die Spezifikation zweier Module dar, welche die Umsetzung von privatheitsbewahrenden Empfehlungssystemen und Matchmaker-Systemen ermöglichen. Die zugrundeliegenden Interaktionen zwischen Agenten basieren auf kryptographischen Protokollen, welche von die beteiligten Parteien zum Schutz vor böswilligen Angriffen verwendet werden, in denen versucht wird, private Daten zu erhalten oder weiterzuverbreiten. Die Arbeit beschreibt und bewertet Filterverfahren, die unter den gegebenen Bedingungen einsetzbar sind. Weiterhin beschreibt die Arbeit eine prototypische Anwendung, welche auf diesen Modulen aufbaut, und evaluiert abschließend den gesamten Ansatz, basierend auf den funktionalen und nichtfunktionalen Anforderungen von Technologien zur privatheitsbewahrenden Informationsfilterung.</dc:description>
+          <dc:date>2009-05-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2134</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22434</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22434</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2134/cissee_richard.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

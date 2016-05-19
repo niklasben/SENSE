@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4204">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4204</identifier>
+        <datestamp>2013-10-11</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Investigation of divertor heat flux pattern and their correlation to the edge magnetic field of the plasma confinement experiment LHD</dc:title>
+          <dc:title xml:lang="deu">Untersuchung von Divertorwärmeflussmustern und deren Abhängigkeit zur Randstochastisierung des Magnetfeldes im Plasmaeinschlussexperiment LHD</dc:title>
+          <dc:creator>Drewelow, Peter</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The heat flux from a magnetically confined high temperature plasma onto the power exhaust system (divertor) in the Large Helical Device (LHD) was measured with an infrared thermography diagnostic. Distinct heat flux pattern on the divertor surface were observed and their dependency on a central plasma parameter (e.g. normalized pressure beta) was shown. Equilibrium calculation for various values of the plasma beta provided comparable magnetic field data for the conducted experiments. Especially the ergodic magnetic field lines just outside the confined plasma were analysed in great detail using a field line tracer. The analysis of the magnetic topology revealed flux tubes of long field lines intersecting the divertor at the heat flux strike line. These long field lines show multiple approaches to the central confined hot plasma. During these approaches high temperature plasma reaches in these open field lines by diffusive transport processes. The magnetic structures and the measured heat flux pattern shift and deform with a changing plasma beta. The heat transport in the ergodic edge was further investigated with a plasma fluid model and compared to the experimental findings. Inconsistencies between measurement and modelling point to kinetic effects in the ergodic edge which could results in a non-Maxwellian electron energy distribution function in the divertor plasma.</dc:description>
+          <dc:description xml:lang="deu">Der Wärmefluss von einem magnetisch eingeschlossenen hoch-Temperatur Plasma auf das Wärmeabfuhrsystem (Divertor) wurde am Plasmaeinschlussexperiment LHD mithilfe einer Infrarotthermografie gemessen. Dabei wurden ausgeprägte Strukturen im Wärmefluss auf der Oberfläche des Divertors beobachtet, welche auch eine Abhängigkeit von zentralen Plasmaparametern zeigten (z.B. dem normierten Plasmadruck beta). Durch Simulation des Plasmagleichgewichts bei verschiedenen beta Werten wurde das Magnetfeld während der Experimente nach gebildet. Besonders die Struktur der stochastischen Randgebiete konnte mit hoher Auflösung mittels einer Feldlinienverfolgung untersucht werden. Es zeigte sich, dass an den Stellen der Wärmeflussmaxima besonders lange Magnetfeldlinien auftreffen, welche sich dem zentralen heißen Plasma während ihrer toroidalen Umläufe unterschiedlich oft annähern. Je häufiger sich die Feldlinie nahe am zentralen Plasma befindet, desto mehr Leistung transportiert sie zum Divertor. Die stochastischen Randstrukturen und die Wärmeflussmuster auf dem Divertor verschieben und deformieren sich mit steigendem beta. Der Energietransport durch das Plasma im Randmagnetfeld wurde mit einem magnetohydrodynamischen Model numerisch simuliert und mit den Wärmeflussmessungen verglichen. Es zeigten sich qualitative Unterschiede, welche auf kinetische Effekte im Plasma hinweisen. Anzeichen einer Abweichungen der Elektron Energie Verteilung von der Maxwell-Boltzmann Verteilung im Randplasma legen nahe, dass der Wärmefluss im stochastischen Randmagnetfeld sich nicht auf das klassische Plasma-Flüssigkeitsmodel vereinfachen lässt.</dc:description>
+          <dc:date>2013-09-26</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4204</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-42041</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-42041</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4204/drewelow_peter.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2141">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2141</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Anderson Model with the Coupled Cluster Method</dc:title>
+          <dc:title xml:lang="deu">Anderson Modell mit der Coupled Cluster Methode</dc:title>
+          <dc:creator>Liang, Jin-Jun</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The Coupled-Cluster Method (CCM) is a powerful method solving quantum many-body systems. It is usually applied to systems with discrete states, like in Quantum Chemistry, Nuclear Physics, and Quantum Magnetism. In systems with continuous states, by contrast, the CCM is only seldomly applied. We employ the CCM to investigate the Anderson model, which is a continuous model from solid-state physics describing magnetic impurities in Fermi seas. We start with a non-interacting version called FanoAnderson model, and provide its exact solution via the CCM. Then we apply the CCM to interacting models, first to the Anderson model including the interaction, and then to the periodic Anderson model, which is a composite model consisting of many individual Anderson models. We compare the CCM to other more conventional methods, mainly various kinds of perturbation theory. The results confirm that the CCM is more powerful than the other presented methods, in the sense that CCM is computationally more demanding, but performed once, it can flexibly be transferred to other related models, because of its constructed linkedness.</dc:description>
+          <dc:description xml:lang="deu">Die Coupled-Cluster Methode (CCM) ist eine maechtige Methode, um quantenmechanische Vielteilchenprobleme zu loesen. Ihre ueblichen Anwendungsgebiete sind Systeme mit diskreten Zustaenden, etwa in Quantenchemie, Kernphysik und Quantenmagnetismus. In Systemen mit kontinuierlichen Zustaenden wird die Methode dagegen nur selten angewandt. Wir wenden die CCM auf das Anderson Modell an, ein kontinuierliches Modell aus der Festkoerperphysik, das magnetische Stoerstellen in Fermiseen beschreibt. Wir beginnen mit einer nichtwechselwirkenden Version, dem Fano Anderson Modell, und loesen es mit der CCM exakt. Dann wenden wir die CCM auf wechselwirkende Modelle an, zuerst auf das Anderson Modell mit eingeschalteter Wechselwirkung, und dann auf das periodische Anderson Modell, das sich aus vielen Anderson Modellen zusammensetzt. Zum Vergleich stellen wir andere, konventionellere, Methoden vor, hauptsaechlich verschiedene Arten von Stoerungsrechnung. Unsere Ergebnisse bestaetigen, dass die CCM maechtiger ist als die anderen Methoden. Berechnung mit der CCM ist zwar aufwaendiger, aber einmal durchgefuehrt, koennen sie flexibel und ohne grossen Mehraufwand auf andere Modelle uebertragen werden.</dc:description>
+          <dc:date>2009-06-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2141</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22536</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22536</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2141/original_thesis.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2141/liang_jinjun.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

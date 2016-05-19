@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:884">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:884</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Einsatz bruchmechanischer Integralkonzepte zur thermomechanischen Zuverlässigkeitsbewertung in der mikroelektronischen Aufbau- und Verbindungstechnik</dc:title>
+          <dc:title xml:lang="eng">Application of fracture mechanical integral concepts on the thermo-mechanical reliability estimation by microelectronic packaging technology</dc:title>
+          <dc:creator>Badri Ghavifekr, Habib</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit ist die Lebensdauerabschätzung von mikroelektronischen Aufbauten unter thermischer Wechselbelastung. Thermische Fehlanpassung der eingesetzten Werkstoffe führt zu thermisch induzierten Spannungen, was Materialermüdung zur Folge hat. Der Ermü-dungsprozess wird in zwei sequenzielle Schritte betrachtet. Zuerst wird ein Riss initiiert, der durch schädigungsmechanische Aspekte beschrieben wird. Danach folgt die Rissausbreitung, die durch bruchmechanische Konzepte untersucht werden kann. Bruchmechanischen Konzepte wie K-Faktoren und J-Integral wurden ursprünglich nur für Materialien mit elastischem Werkstoffverhalten entwickelt. In dieser Arbeit wird das ge-neralisierte JG-Integral zur Anwendung im inelastischen Bereich vorgeschlagen. Der grundle-gende Aspekt bei der Berechnung des JG-Integrals ist, dass nur elastische Energie den Riss mechanisch belasten und in Folge eines Risswachstums freigesetzt werden kann. Auf Basis des JG-Integrals wird die eutektische SnPb-Lotlegierung bruch- bzw. ermü-dungsmechanisch charakterisiert. Das Kriechverhalten dieses Lotmaterials wird durch ein modifiziertes Kriechgesetz so verallgemeinert, dass neben dem sekundären auch der primäre Kriechanteil in die Beschreibung mit einbezogen wird. Der Primärbereich wird durch die Ab-hängigkeit der Kriechdehnungsrate von der äquivalenten Spannungsrate bestimmt. Zur bruchmechanischen Charakterisierung des Lotmaterials wurden spezielle CT-Proben (Compact Tension) gefertigt. Der kritische Wert des JG-Integrals, bei dem der Riss sich aus-breitet, wurde bestimmt. Zur ermüdungsmechanischen Charakterisierung des Lotmaterials wurde eine Belastungs-vorrichtung entwickelt. Dabei wurde das unterschiedliche thermische Ausdehnungsverhalten zweier Metalle zur thermomechanischen Wechselbelastung einer DENT-Probe (Double Edged Notched Tension) ausgenutzt. Eine modifizierte Paris-Erdogan-Beziehung kann das auftretende Ermüdungsverhalten des untersuchten Lotmaterials ausreichend beschreiben. Die Anwendung des JG-Integrals zur Zuverlässigkeitsbewertung mikroelektronischer Aufbauten wird anhand zweier Beispiele präsentiert deren Lotkontaktierung aus eutektischem SnPb-Lot besteht. Dabei werden die Lebensdauer eines SMT-Widerstandes (Surface Mount Technology) und einer BGA-Kontaktierung (Ball Grid Array) unter thermischer Wechselbe-lastung abgeschätzt.</dc:description>
+          <dc:description xml:lang="eng">Goal of this thesis is the lifetime estimation of microelectronic packages loaded by ther-mal cycling. Thermal mismatch of the used materials leads to thermal induced mechanical stresses, which cause fatigue of these materials. The fatigue process is investigated in two sequential steps. The first step is the initiation of a crack which is described by damage mechanisms. It is followed by propagation of the crack which can be investigated by fracture mechanical concepts. Fracture mechanical concepts as K factors and J integral are originally developed only for materials with elastic properties. In this thesis the generalized JG integral is suggested to be applied in the area of non-elastic properties. The fundamental aspect of calculation of JG inte-gral is the fact that only elastic energy can mechanically load a crack and can be released in case of crack propagation. Material properties are defined which can characterize facture and fatigue behaviour of a non-elastic material based on JG integral. Eutectic SnPb solder is chosen for experimental part of this thesis. The creep behaviour of this solder is generalized by a modified creep law so that includes secondary as well as primary creep phase. The primary creep phase is determined by dependence of creep strain rate on rate of equivalent stress. For the fracture mechanical characterization of the solder special CT-specimens (Com-pact Tension) are prepared. The critical value of the JG integral is determined at the point where the crack begins to propagate. A test construction is designed to measure the fatigue behaviour of the solder which is thermo-mechanically loaded. Thereby the difference of thermal expansion coefficients of two metals is used to load a DENT-panel (Double Edged Notched Tension) thermo-mechanically. A modified Paris-Erdogan law can sufficiently describe the fatigue behaviour of the solder. The application of the JG integral on the reliability estimation of microelectronic pack-ages is presented by means of two examples which contain PbSn solder connections. Thereby the life times of a SMT resistor (Surface Mount Technology) and a BGA package (Ball Grid Array) are estimated which are thermo-mechanically loaded.</dc:description>
+          <dc:date>2004-03-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/884</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8770</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8770</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/884/badri_habib.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

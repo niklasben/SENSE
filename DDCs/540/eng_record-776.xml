@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:776">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:776</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Synthese 2,6-Disubstituierter 1,2,5,6-Tetrahydropyridine mittels Olefinmetathese und Anwendung in der Naturstoffsynthese</dc:title>
+          <dc:title xml:lang="eng">Synthesis of 2,6-Disubstituted 1,2,5,6-Tetrahydropyridines by Olefinmetathesis and Application to Natural Product Synthesis</dc:title>
+          <dc:creator>Neidhöfer, Jürgen</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wurden sowohl cis- als auch trans-2,6-disubstituierte 1,2,5,6-Tetrahydropyridine durch einen stereoselektiven RRM-Prozess ausgehend von sekundären, alpha-verzweigten Aminen in guten Ausbeuten dargestellt. Die Einführung der Stereozentren erfolgte durch Chiralitätstransfer. Die Metathesevorläufer konnten in guten Ausbeuten durch Mitsunobu-Reaktion aus einem aliphatischen, homoallylischen Sulfonamid und einem cyclischen Allylalkohol dargestellt werden. Cyclisierung der resultierenden cis- und trans-2,6-disubstituierten 1,2,5,6-Tetrahydropyridine zu trans-annellierten, 2,5-disubstituierten Decahydrochinolinen konnte erstmals durch Negishi-Kupplung erfolgen. Dabei wurden die beiden neu eingeführten Stereozentren in einem hoch diastereoselektiven Prozess durch Substratkontrolle aufgebaut. Die Sicherung der Struktur der synthetisierten Decahydrochinoline erfolgte durch Röntgenstrukturanalyse ihrer N-para-Nitrobenzoyl-Derivate. Racemisches Trans-195A und 2-Epi-trans-195A wurden über diese Synthesestrategie in acht Stufen und guten Gesamtausbeuten aus Butyraldehyd und Cyclohex-2-enol erhalten. In Vorbereitung zur Aufklärung der absoluten Stereochemie von natürlichem Trans-195A konnte die relative Stereochemie dieses Alkaloids durch GC-Analyse und Vergleich mit dem isolierten Naturstoff gesichert werden. Die Synthese von 6-substituierten Pipecolinalkoholen konnte über einen neuartigen, diastereoselektiven RRM-Prozess ausgehend von einem N-substituierten Oxazolidinon in guten Ausbeuten erfolgen. Die Einführung des neuen Stereozentrums erfolgte hierbei durch Substratkontrolle. Bei der Synthese der Metathesevorläufer konnte erstmalig ein nicht aromatisches Isocyanat durch Palladium-vermittelte Cyclisierung mit einem Oxiran zum entsprechenden Oxazolidinon umgesetzt werden. Bei Untersuchungen zur stereoselektiven Synthese von hochfunktionalisierten Tetrahydropyridinen über das neuartige Prinzip der diastereoselektiven Ringumlagerungsmetathese konnte erstmals ein trans-disubstituiertes 1,2,5,6-Tetrahydropyridin in einem hoch diastereoselektiven Prozess aus einem substituierten gamma-Aminoalkohol erhalten werden.</dc:description>
+          <dc:date>2004-11-18</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/776</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7706</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7706</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/776/neidhoefer_juergen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

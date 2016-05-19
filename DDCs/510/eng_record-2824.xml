@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2824">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2824</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Dissipativity of linear quadratic systems</dc:title>
+          <dc:title xml:lang="deu">Dissipativität von linear-quadratischen Systemen</dc:title>
+          <dc:creator>Brüll, Tobias</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This dissertation considers linear systems P for which a quadratic cost/supply functional H is introduced. Examples of such systems are electrical systems consisting only of resistors, capacitors, and inductors and mechanical systems consisting only of masses, springs, and dampers. For the tuple (P,H) the notion of (cyclo-)dissipativity is introduced, which figuratively demands that one can never extract more energy from the system P than the amount of energy which has been supplied to it before (with energy measured by H). A method is constructed to check if (P,H) is cyclo-dissipative. It is shown that cyclo-dissipativity is equivalent to the solvability of the associated optimal control problem and the solutions of this associated optimal control problem are characterized. The so-called 'available storage' and 'required supply' are introduced and their meaning in the context is described. A version of the Kalman-Yakubovich-Popov Lemma is stated. Also, a heuristic method is formulated to make systems which are almost cyclo-dissipative really cyclo-dissipative.</dc:description>
+          <dc:description xml:lang="deu">Diese Dissertation betrachtet lineare Systeme P auf denen ein quadratisches Kostenfunktional H eingeführt wird. Beispiele von solchen Systemen sind elektrische Systeme, welche nur aus Widerständen, Kondensatoren und Spulen bestehen, und mechanische Systeme, welche nur aus Massen, Federn und Dämpfern bestehen. Für das Tupel (P,H) wird der Begriff der (Zyklo-)Dissipativität eingeführt, der bildlich gesprochen fordert, dass man niemals mehr Energie aus dem System P extrahieren kann als die Menge an Energie, welche vorher zugeführt wurde (wobei Energie durch H gemessen wird). Eine Methode wird formuliert um zu testen ob (P,H) zyklo-dissipativ ist. Es wird gezeigt, dass Zyklo-Dissipativität äquivalent zur Lösbarkeit des zugehörigen Optimalsteuerungsproblems ist und die Lösungen dieses zugehörigen Optimalsteuerungsproblems werden charakterisiert. Der sogenannte "verfügbare Speicher" und die sogenannte "notwendige Zulieferung" werden eingeführt und ihre Bedeutung im Kontext wird beschrieben. Eine Version des Kalman-Yakubovich-Popov Lemmas wird formuliert. Außerdem wird eine heuristische Methode angegeben, mit der Systeme, welche fast zyklo-dissipativ sind wirklich zyklo-dissipativ gemacht werden können.</dc:description>
+          <dc:date>2011-03-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2824</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-29830</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-29830</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2824/bruell_tobias.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

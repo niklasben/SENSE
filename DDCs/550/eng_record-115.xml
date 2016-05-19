@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:37Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:115">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:115</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Inversion von spektralen IP-Daten unter Berücksichtigung elektromagnetischer Kabelkopplungseffekte</dc:title>
+          <dc:title xml:lang="eng">Investigations concerning the inversion of spectral induced polarization data in consideration of electromagnetic coupling effects</dc:title>
+          <dc:creator>Kretzschmar, Daniel</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen der vorgelegten Arbeit wurde eine eindimensionale Inversionsrechnung zur Auswertung von Daten der Spektralen Induzierten Polarisation (SIP) im besonders weiten Frequenzbereich bis 12 kHz entwickelt. Sie läßt für die spezifischen Schichtwiderstände komplexe Werte zu, für die eine Frequenzabhängigkeit über einen beliebigen parametrisierten Zusammenhang (z.B. Cole-Cole Modell) vorgegeben werden kann. Der Inversionsalgorithmus bestimmt aus den Eingangsdaten die optimalen Schichtdicken und Leitfähigkeitsparameter. Die induktiven Kabelkopplungseffekte werden für die verwendete Kabelauslage und das Untergrundmodell exakt berechnet und so in die Inversion mit einbezogen. Modellstudien mit der entwickelten 1D-SIP-Modellrechnung haben gezeigt, daß die induktiven Kabelkopplungseffekte signifikante Informationen über die IP-Effekte enthalten, die zur Bestimmung der Leitfähigkeitsparameter mit herangezogen werden können. Der Algorithmus kann bereits auf einem Standard-PC sinnvoll eingesetzt werden. Ausführliche Inversionsstudien mit künstlich verrauschten Modelldaten haben erwiesen, daß besonders für die Bestimmung der Zeitkonstanten tau aus dem Cole-Cole Modell eine sehr gute Datenqualität notwendig ist. Dabei beeinflußt der Cole-Cole Parameter c, die sog. Frequenzabhängigkeit, die Bestimmbarkeit von tau entscheidend. Für Werte von c kleiner als 0.1 ist tau auch aus gutem Datenmaterial schlecht zu bestimmen. Gleichzeitig kommt es zu einer Kopplung des spezifischen Schichtwiderstandes rho und der Aufladefähigkeit m mit der Folge, daß sich beide Parameter ungenauer bestimmen lassen. Für ein c größer als 0.1 verschwindet dieses Koppeln weitgehend. Es ist also wichtig, daß die typische Cole-Cole Charakteristik in den Eingabedaten durch ein c größer als 0.1 klar definiert ist. Für die Bestimmung der Vertrauensbereiche der Modellparameter zu einem vorgegebenem Wahrscheinlichkeitsniveau wurde die 'Most-Squares-Inversion implementiert. Sie zeigte sich dabei der klassischen Kovarianzmatrix überlegen. Weiterhin wurden zwei Techniken zum Herausrechnen der Kopplungseffekte aus SIP-Daten untersucht. Im Ergebnis wird klar, daß die Ansätze zu Fehlern bei der Bestimmung der Leitfähigkeitsparameter durch eine nicht ausreichend genaue Approximation der induktiven Kopplungseffekte führen. Das ist besonders bei großen induktiven Kopplungseffekten und bei großer Überlappung zwischen den Kopplungseffekten und den IP-Effekten im Widerstandsspektrum der Fall. Die 1D-SIP Inversion berechnet die induktive Kopplung analytisch exakt, vermeidet dadurch diese Probleme und führt zu sehr guten Ergebnissen. SIP-Feldmessungen an Abraumhalden der Stahlerzeugung im Raum Salzgitter sollten klären, ob SIP-Messungen geeignet sind, chemische Umsetzungsprozesse innerhalb des Haldenkörpers abzubilden. Die Messungen ergaben unerwartet große negative Phasen für hohe Frequenzen, die auf kapazitive Kopplungseffekte zurückzuführen sind. Kapazitive Kopplungen können im Gegensatz zu induktiven Kopplungen z.Zt. noch nicht analytisch berechnet werden. Die Inversion dieser Daten machte daher ein Abspalten der kapazitiven Effekte notwendig, wobei die Erfahrungen aus den Inversionsstudien sehr hilfreich waren, um für die Residualspektren ein 1D-SIP-Untergrundmodell zu finden. Die Inversionsergebnisse zeigen, daß das SIP-Verfahren sehr empfindlich auf Texturveränderungen des Untergrundes reagiert. Führen chemische Prozesse zu einer Veränderung der Korngröße oder der Konzentration der IP-Trägerminerale, so ist das an veränderten Cole-Cole Parameterwerten sichtbar. Die Ergebnisse der 1D-Inversion konnten durch Inversionsergebnisse von Spektren an Laborproben verifiziert werden. Die genaue Zuordnung der Cole-Cole Parameterwerte zu speziellen Gesteinseigenschaften verlangt jedoch weitere chemische und mineralogische Untersuchungen.</dc:description>
+          <dc:date>2001-06-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/115</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1106</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1106</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/115/kretzschmar_daniel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

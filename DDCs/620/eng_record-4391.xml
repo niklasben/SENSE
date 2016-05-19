@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4391">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4391</identifier>
+        <datestamp>2013-12-04</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Skalierungseffekte in der Aeroakustik von Hochgeschwindigkeitszügen</dc:title>
+          <dc:title xml:lang="eng">Aeroacoustic scaling effects of high-speed trains</dc:title>
+          <dc:creator>Lauterbach, Andreas</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit befasst sich mit der Mach- und Reynoldszahl-Abhängigkeit aeroakustischer Quellen von Hochgeschwindigkeitszügen, und beschreibt Windkanalstudien mit Mikrofon-Arrays an Modellen des Inter City Express 3 (ICE3) und des Next Generation Train 2 (NGT2) im Maßstab 1:25. Die Untersuchungen am ICE fanden im Aeroakustischen Windkanal Braunschweig (AWB) statt, welcher günstige akustische Bedingungen bietet, sowie im Kryogenen Windkanal Köln (DNW-KKK), welcher Messungen bei höhere Reynoldszahlen ermöglicht. Letzt genannter erlaubt außerdem die entkoppelte Variation der Mach und Reynolds-Zahl, was einen detaillierten Einblick in die aeroakustische Skalierung bei konstantem Modellmaßstab ermöglicht. Aerodynamische Untersuchungen zeigen, dass am vorderen Drehgestell realitätsähnliche Strömungsbedingungen unter Verwendung einer Splitter plate oder eines Ground boards im Experiment erzeugt werden können. Bei den Messungen im AWB bei Reynoldszahlen bis Re &lt; 0,46*10^6 konnten zwei dominante Schallquellen am ICE3 identifiziert werden. Das aeroakustische Geräusch aus dem Drehgestell ist dominant für Frequenzen bis f &lt; 5 kHz. Die Frequenzen dieser breitbandig emittierenden Schallquelle skalieren nicht mit der Anströmgeschwindigkeit. Eine weitere wichtige aeroakustische Schallquelle für f &gt; 5 kHz ist der Stromabnehmer mit einer Aeolston-Charakteristik. Im DNW-KKK wurden Messungen bis Re &lt; 3,70*10^6 durchgeführt. Das hier verwendete Ground board entpuppt sich als störende Schallquelle. Auch wenn ein erweiterter Auswerte-Algorithmus zu einer Verbesserung des Signal-Rausch-Abstandes (SNR) führt, zeigte sich, dass die Ergebnisse über Terzbänder gemittelt diskutiert werden müssen. Diese Messungen offenbaren nur eine schwache Reynoldszahl-Abhängigkeit des Schalldrucks und des Geschwindigkeitsexponentens. Die gewonnenen Erfahrungen bilden die Grundlage für weitere Untersuchungen im DNW-KKK am NGT2-Doppelmodell. Durch eine Strömungsfeldanalyse mittels Laser-Doppler-Anemometrie kann ein realitätsnahes Strömungsfeld beim ersten Drehgestell nachgewiesen werden. Der SNR ist bei diesen Experimenten signifikant höher als bei den vorangegangenen Experimenten, was eine schmalbandige spektrale Darstellung ermöglicht. Im Drehgestellbereich kommt es zu tonalen Anregungen, welche empfindlich auf eine Variation von Mach- und Reynoldszahl reagieren. Auch die breitbandigen akustischen Anteile werden durch diese beiden Parameter beeinflusst. Für den Geschwindigkeitsexponenten konnte hingegen keine systematische Reynoldszahl-Abhängigkeit nachgewiesen werden.</dc:description>
+          <dc:description xml:lang="eng">This study focuses on the dependence of high-speed train aeroacoustic sound sources on the Mach and Reynolds numbers. Wind tunnel studies using a microphone array were carried out on 1:25 scale-models of the Inter City Express 3 (ICE3) and the Next Generation Train 2 (NGT2). The experimental investigations were performed at the Aeroacoustic Wind Tunnel Brunswick (AWB) and the Cryogenic Wind Tunnel Cologne (DNW-KKK). The AWB provides nearly perfect acoustical conditions; the DNW-KKK allows measurements at higher Reynolds numbers. In addition, the DNW-KKK enables the Mach and Reynolds numbers to be varied independently which is very valuable for analyzing the aeroacoustic scaling without changing the size of the model. The aerodynamic investigations reveal a realistic flow field at the first bogie using a Splitter plate or a Ground board. Two different types of sound source were identified for the ICE3 at a Reynolds number of Re &lt; 0,46*10^6 at the AWB. For frequencies of f &lt; 5 kHz the aeroacoustic noise from the bogie section dominates. The observed frequencies of this broadband source do not scale with the flow velocity. The pantograph dominants for f &gt; 5 kHz with an Aeolian tone characteristic. Additional measurements have been conducted at the DNW-KKK for higher Reynolds numbers of Re &lt; 3,70*10^6. The Ground board was a strong aeroacoustic source which disturbs the measurements. The BiClean algorithm can improve the quality of results. However, the achievable signal-to-noise ratio (SNR) is severely limited. The data is therefore discussed in terms of 1/3-octave bands. The lessons learned were useful for another wind tunnel testing in the DNW-KKK on the NGT2, comprising an image setup. Laser-Doppler anemometry flow field investigations between the two models disclose a realistic flow field at the first bogie. However, even the image setup is not able to induce realistic underfloor-flow further downstream. The SNR is significantly higher during this experiments, which enables a narrowband representation of the results. The acoustic spectra of the first bogie contain strong tones, which are sensitive to variations in the Mach- and Reynolds number. Also the broadband sound at higher frequencies is affected by these dimensionless quantities. As in the previous experiments, the power law exponent does not show a systematic Reynolds number dependence.</dc:description>
+          <dc:date>2013-12-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4391</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-43917</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-43917</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4391/lauterbach_andreas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

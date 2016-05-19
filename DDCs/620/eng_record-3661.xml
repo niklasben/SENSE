@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3661">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3661</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Tiefenaufgelöste Analyse randschichtnaher Struktur- und Eigenschaftsgradienten in vielkristallinen Werkstoffen mittels energiedispersiver Röntgenbeugung</dc:title>
+          <dc:title xml:lang="eng">Depth resolved analysis of structure and property gradients in the near-surface region of polycrystalline materials using energy-dispersive diffraction</dc:title>
+          <dc:creator>Apel, Daniel</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Mit der zunehmenden Verfügbarkeit von Synchrotronquellen der 3.Generation hat sich die energiedispersive Beugungsmethode zu einem leistungsfähigen Werkzeug der Materialforschung entwickelt. Deren Vorteile im Vergleich zur winkeldispersiven Beugung bestehen vor allem darin, dass vollständige Beugungsspektren unter wohldefinierten, aber frei wählbaren Beugungsrichtungen aufgenommen werden können, die gleichsam eine Vielzahl an Informationen über die strukturellen Materialeigenschaften als auch Tiefeninformationen über deren Verteilung beinhalten. Allerdings wurde die Fülle der in den energiedispersiven Beugungsspektren enthaltenen Informationen bisher nicht vollständig genutzt. Das Ziel dieser Arbeit bestand daher darin, die unter verschiedenen Messrichtungen (phi,psi) aufgenommenen energiedispersiven Datensätze auf eine Weise zu analysieren, die es erlaubt, tiefenabhängige Modelle zur Beschreibung der phasenspezifischen Eigenspannungen, Domänengrößen als auch der Mikrodehnungen simultan zu verfeinern. Dazu wurde unter Anwendung der RIETVELD-Methode ein Programmpaket entwickelt, das zukünftig als Auswertesoftware am Materialforschungsmessplatz EDDI am Synchrotronspeicherring BESSY II zur Verfügung steht. Um die beobachtete Linienverbreiterung analysieren zu können, wurden die bisher in der winkeldispersiven Beugung verwendeten Auswerteverfahren auf den ED Fall der Beugung übertragen und entsprechend erweitert. Ein Modell zur Trennung der Beiträge zur Linienverbreiterung aufgrund von Teilchengrößen- und Mikrodehnungseffekten wird vorgestellt. Es wird gezeigt, dass sich trotz der vergleichsweise geringeren instrumentellen Auflösung der energiedispersiven Methode mikrostrukturelle Effekte eindeutig nachweisen lassen. Um das vorgeschlagene Modell zur Trennung der Beiträge der Teilchengrößen- und Mikrodehnungsverbreiterung zu verifizieren, wurden Proben mit wohldefinierter Teilchengröße- und/oder Mikrodehnungsverbreiterung untersucht. Zur Analyse von Makroeigenspannungstiefengradienten in den randschichtnahen Bereichen quasi-isotroper, vielkristalliner Materialien wird der in dieser Arbeit entwickelte Formalismus auf mechanisch oberflächenbehandelte Proben mit wohldefinierten in-plane Eigenspannungsverteilungen angewendet. Die erhaltenen Tiefenverläufe werden mit den aus Ortsraum- und LAPLACE-Methoden ermittelten Ergebnissen verglichen.</dc:description>
+          <dc:description xml:lang="eng">With the increasing availability of 3rd generation synchrotron sources energy-dispersive synchrotron diffraction has become a powerful tool in materials research, because the energy-dispersive diffraction spectra contain a variety of information about the structural material properties. However, until now the wealth of information included in energy-dispersive diffraction patterns has not been fully accessed. To exploit the amount of provided information and also to use the essential advantage of the method compared with angle-dispersive diffraction, which lies in the fast measurement of complete diffraction patterns in well-defined but arbitrary scattering directions, a RIETVELD refinement program code has been developed to analyze energy-dispersive diffraction data. The software will be provided in the future at the materials science beamline EDDI at the synchrotron storage ring BESSY II. The aim of this project is to handle energy-dispersive diffraction data sets measured in various orientations (phi,psi) in such a way that models describing the depth dependence of the phase specific residual stresses, of domain size as well as of microstrain can be refined simultaneously. To analyze line-broadening observed in the energy-dispersive diffraction patterns, evaluation procedures applied so far in angle-dispersive diffraction were adapted to the energy-dispersive case. A model to separate size and strain broadening is introduced. It is shown that even though the instrumental resolution of the energy-dispersive diffraction is inferior compared to the most angle-dispersive diffraction instruments, line-broadening assignable to microstructural effects can still be observed. To examine and verify the proposed model for separation of the contributions of size and strain broadening, samples that show size and/or strain broadening were analyzed and the results are presented. Concerning the evaluation of macro residual stress depth gradients in the near-surface region of quasi-isotropic polycrystalline materials by means of RIETVELD refinement, the formalism is applied to mechanically surface treated samples with well-defined in-plane residual stress distributions within the accessible information depth of the X-rays. The results are compared with those obtained by means of the “real space�? and the conventional “LAPLACE space�? methods.</dc:description>
+          <dc:date>2013-03-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3661</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38962</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38962</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3661/apel_daniel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

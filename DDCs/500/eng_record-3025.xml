@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3025">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3025</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">RNA-Interferenz-basierte Strategien zur Inhibition von Picornaviren</dc:title>
+          <dc:title xml:lang="eng">RNA interference-based strategies for the inhibition of picornaviruses</dc:title>
+          <dc:creator>Rothe, Diana</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Die Inhibition von Viren mittels RNA-Interferenz hat sich in den letzten Jahren als ein neuer und vielversprechender therapeutischer Ansatz erwiesen. Die vorliegende Arbeit beschreibt sowohl die Optimierung von siRNA-basierten antiviralen Ansätzen als auch neue Methoden, die eine therapeutische Anwendung vereinfachen können. 1. Für ihre Replikation synthetisieren Picornaviren einen RNA-Minus-Strang, der als Matrize für den genomischen Plus-Strang dient. In der vorliegenden Arbeit konnte mit Hilfe von Strang-spezifischen siRNAs, die gegen das zur Picornavirus-Familie gehörende Coxsackievirus B3 gerichtet waren, eine Korrelation von Virusinhibition und der Fähigkeit einer siRNA, den genomischen Plus-Strang zu inhibieren, nachgewiesen werden. 2. Mit Hilfe von DAF-spezifischen siRNAs konnte in dieser Arbeit der in der Literatur umstrittene Einfluss der zellulären DAF-Expression auf die Ausbreitung des Echovirus 30 nachgewiesen werden. Eine Downregulation dieses Rezeptors, der von vielen jedoch nicht allen Echoviren für den zellulären Eintritt benötigt wird, führte zu einer deutlichen Inhibition der Ausbreitung des Virus. 3. Im Rahmen dieser Arbeit wurde weiterhin ein Modell entwickelt, anhand dessen schnell und kostengünstig hochwirksame antivirale siRNAs erhalten werden können. Durch eine Kombination von Kriterien, die die Effizienz einer siRNA beeinflussen können, wurden in Form einer schrittweisen Filterung sechs siRNAs gegen die RdRP des EV-30 selektiert, von denen fünf effizient die Ausbreitung des Virus inhibierten. 4. Schließlich wurde eine Methode entwickelt, die den schnellen Aufbau von (Mehrfach)-shRNA-Expressionskassetten erlaubt. Für ein effizientes Delivery in Zielzellen wurden diese in AAV-Vektoren verpackt und gewährleisten so eine schnelle und potente Expression einer oder mehrerer shRNA(s). Mit AAV-Vektoren, die die Expression einer gegen die RdRP des Echovirus 30 gerichteten shRNA in Kombination mit einer shRNA gegen DAF vermittelten, gelang es, die Ausbreitung des Virus stark einzuschränken. Die Kombination beider shRNAs kann außerdem das Risiko von auftretenden Escape-Mutanten minimieren. Die Erkenntnisse der vorliegenden Arbeit liefern einen wichtigen Anteil an der Entwicklung von RNAi-basierten Ansätzen gegen Picornaviren. Darüber hinaus sind die Ergebnisse von großer Bedeutung, denn sowohl die Selektion von effizienten siRNAs als auch der schnelle Aufbau von Mehrfach-shRNA-Expressionskassetten nach dem Baustein-Prinzip sind nicht nur auf andere Viren, sondern auch auf weitere Medizin-orientierte Projekte übertragbar.</dc:description>
+          <dc:description xml:lang="eng">In recent years, RNA interference has proven to be a powerful tool to inhibit viruses. The present work describes the optimization of siRNA-based antiviral approaches as well as new methods, which can simplify therapeutic applications. 1. Picornaviruses are small non-enveloped viruses with a single stranded RNA genome in positive orientation (+ssRNA). During their replication, a minus strand is synthesized (-ssRNA) that serves as a template for the genomic plus strand. Using strand specific siRNAs, which were directed against the coxsackievirus B3 (CVB3, a member of the picornavirus family), a correlation of virus inhibition and the ability of a given siRNA to inhibit the genomic plus strand was observed. 2. For cellular entry, the decay accelerating factor (DAF or CD55) is required as a receptor by many but not all echoviruses. By using DAF-specific siRNAs, the controversial influence of cellular DAF-expression on the life cycle of echovirus 30 (EV-30) could be detected. An efficient downregulation of endogenously expressed DAF led to a significant inhibition of EV-30 spread. 3. In the context of this work, a method was developed that allows a rapid and cost effective design of highly efficient antiviral siRNAs. Based on a combination of different criteria that may affect the efficiency, siRNAs targeting the RNA-dependent RNA-Polymerase (RdRP) of EV-30 were selected. The gradual filtering of an in silico pre-designed siRNA-pool led to six siRNAs, five of which were efficient inhibitors of EV-30 spread. 4. Finally, the new parallel cloning method was developed that allows the simultaneous production of shRNA expression cassettes, which mediate a long-term expression of the respective siRNA. In addition, the method provides potential combination of efficient shRNA expression cassettes in a building block manner resulting in multiple shRNA expression plasmids. For efficient delivery into target cells, selected shRNA expression cassettes were packed into adeno-associated virus (AAV) vectors ensuring fast and powerful expression of one or more shRNA(s). Using AAV vectors that mediate the expression of an antiviral shRNA (against the RdRP of EV-30) and a DAF-specific shRNA resulted in a strong reduction of viral spread. The combination of both shRNAs may also reduce the risk of the emergence of escape mutants. The findings of the present work contribute to the development of RNAi-based approaches against picornaviruses. The procedure also has the potential to be generally applicable for silencing of multiple endogenous targets or viruses.</dc:description>
+          <dc:date>2011-08-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3025</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31162</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31162</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3025/rothe_diana.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3479">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3479</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">AlGaN/GaN HEMTs Reliability: Degradation Modes and Analysis</dc:title>
+          <dc:title xml:lang="deu">AlGaN/GaN HEMTs Zuverlässigkeit: Degradationsmodi und Analyse</dc:title>
+          <dc:creator>Ivo, Ponky</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">AlGaN/GaN HEMTs reliability and stability issues were investigated in dependence on epitaxial design and process modification. DC-Step-Stress-Tests have been performed on wafers as a fast device robustness screening method. As a criterion of robustness they deliver a critical source-drain voltage for the onset of degradation. Several degradation modes were observed which depend on epi design, epi quality and process technology. Electrical and optical characterizations together with electric field simulations were performed to get insight into respective degradation modes. It has been found that AlGaN/GaN HEMT devices with GaN cap show higher critical source-drain voltages as compared to non-capped devices. Devices with low Al concentration in the AlGaN barrier layer also show higher critical source-drain voltages. Superior stability and robustness performance have been achieved from devices with AlGaN backbarrier epi design grown on n-type SiC substrate. For the onset on any degradation modes the presence of high electrical fields is most decisive for ON- and OFF-state operation conditions. Therefore careful epi design to reduce high electric field is mandatory. It is also shown that epi buffer quality and growth process have a great impact on device robustness. Defects such as point defects and dislocations are assumed to be created initially during stressing and accumulated to larger defect clusters during device stressing. Electroluminescence (EL) measurements were performed to detect early degradation. Extended localized defects are resulting as bright spots at OFF-state conditions in conjunction with a gate leakage increase.</dc:description>
+          <dc:description xml:lang="deu">AlGaN/GaN HEMTs mit unterschiedlichen epitaktischen Designs und Prozessmodifikationen wurden auf ihre Zuverlässigkeit und Stabilität untersucht. DC-Stufenstresstests wurden als Screeningmethode für die Bauelementrobustheit durchgeführt. Mit dieser Methode erhält man eine kritische Source-Drain-Spannung, die den Beginn der Degradation kennzeichnet. Verschiedene Degradationsmodi wurden beobachtet, die vom epitaxialem Design, der epitaxialen Qualität und der Prozesstechnologie abhängen. Elektrische und optische Messungen zusammen mit elektrischen Feldsimulationen wurden durchgeführt, um Einblick in das Degradationsverhalten zu bekommen. Es hat sich gezeigt, dass AlGaN/GaN HEMTs mit einer GaN Cap-Schicht eine höhere kritische Drain-Source-Spannung zeigen als Transistoren ohne diese Schicht. HEMTs mit niedriger Aluminiumkonzentration in der AlGaN-Barriere zeigen ebenfalls eine höhere kritische Drain-Source-Spannung. Transistoren mit AlGaNBackbarrier, die auf n-Typ SiC-Substraten gewachsen wurden, zeigen eine besonders hohe Stabilität und Robustheit. Für den Betrieb im ON-State als auch im OFF-State ist ein hohes elektrisches Feld entscheidend für den Beginn der Degradation. Daher sind epitaxiale Designs, die das elektrische Feld so weit wie möglich reduzieren, von großer Wichtigkeit. Es wird gezeigt, dass die Qualität der Bufferschicht und der Wachstumsprozess der epitaxierten Schichten großen Einfluß auf die Robustheit der Bauelemente haben. Zu Beginn des Stressprozesses werden Punktdefekte und Versetzungen erzeugt, die im weiteren Verlauf des Stresstests zu Agglomeration von Defektclustern führen. Der Beginn der Degradation wurde mit Hilfe der Elektrolumineszenz untersucht. Im OFF-State werden ausgedehnte lokalisierte Defekte als stark leuchtende Flecken detektiert, wobei gleichzeitig ein Anstieg der Leckströme zu beobachten ist.</dc:description>
+          <dc:date>2012-10-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3479</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37049</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37049</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3479/ivo_ponky.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2119">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2119</identifier>
+        <datestamp>2014-07-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:710</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Google Earth in der Stadtplanung : die Anwendungsmöglichkeiten von Virtual Globes in der Stadtplanung am Beispiel von Google Earth</dc:title>
+          <dc:creator>Höffken, Stefan</dc:creator>
+          <dc:subject>ddc:710</dc:subject>
+          <dc:description xml:lang="deu">Der Bereich der Geoinformationswissenschaften hat in den letzten Jahren einen starken Aufschwung erfahren. Gerade Programme wie Google Earth haben den Bereich der Geoinformation und Kartografie für eine breite Masse erschlossen. Eine zukunftsweisende Form der Webmapping-Tools sind Virtual Globes – digitale Abbildungen der Welt. Auf Grundlage echter Luftbilder ermöglichen sie die dreidimensionale und zunehmend realistischere Darstellung von Städten und auch Topografie. Dank ihrer vielfältigen Funktionen entwickeln sie sich zunehmend zu leistungsstarken WebGIS, die leicht bedienbar und kostengünstig sind. Damit werden sie zunehmend für fachliche Anwendungen interessant. In dieser Arbeit wird untersucht, welche Möglichkeiten Virtual Globes für die Disziplin der Stadtplanung bieten. Die Arbeit beschränkt sich dabei auf das Programm Google Earth als den populärsten Vertreter. Nach einem Exkurs über die veränderte Weltsicht durch die allgegenwärtige Verfügbarkeit von Luftbildern, wird eine Übersicht über die aktuellen Entwicklungen in den Bereichen der Kartografie, 3D-Stadtmodellen und Webentwicklung gegeben, welche eng miteinander verwoben sind. Anschließend werden die vielfältigen Funktionalitäten von Google Earth dargestellt und anhand von Praxisbeispielen zeigt, dass das Programm bereits jetzt Anwendung findet. Nach einem Ausblick auf zukünftige Anwendungsmöglichkeiten schließt die Arbeit mit dem Fazit, dass Programme wie Google Earth das Potential haben, viele neue Entwicklungen für die (Stadt-)planung zu ermöglichen. In dieser Arbeit wird anhand des Programms Google Earth aufgezeigt, welche vielfältigen Möglichkeiten Virtual Globes bereits jetzt für die Disziplin der Stadtplanung bieten. Zudem wird ein Blick in die Zukunft gewagt und neue kartografische Methoden zur Stadtanalyse dargestellt. Online im Universitätsverlag der TU Berlin erschienen.</dc:description>
+          <dc:date>2009-05-12</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2119</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21423</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21423</dc:identifier>
+          <dc:identifier>978-3-7983-2116-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2119/Graue_Reihe_Heft_19_Google_Earth.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

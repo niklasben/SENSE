@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3521">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3521</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Decentralized Sensor Fusion using Periodic Peer-to-Peer Hypercube Gossiping</dc:title>
+          <dc:title xml:lang="deu">Dezentralisierte Sensordatenfusion mittels periodischem P2P Hyperwürfel-Gossip</dc:title>
+          <dc:creator>Berndt, Philipp</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Fusion marks the aggregation of information from multiple sources, yielding a result that is more valuable than information from any source alone. The fusion of live sensor streaming data is characterized by the ongoing aggregation of series of measurements. It has applications in areas ranging from audio communications, to business process monitoring, to live object tracking to shared haptic virtual environments. All of these applications require extremely low-latency, so efficient scaling becomes an issue in the face of limited bandwidth. Moreover, in dissemination networks, a considerable portion of latency can be traced back to sojourn times, which depend on the algorithmic implementation of the high-level communication scheme. Existing aggregation networks are centralized, latency insensitive, or assume a homogeneous infrastructure. Accordingly, complexity of communication algorithms is commonly only considered as the number of synchronous communication rounds. Accurate estimates for the latency or traversal time to be expected are hard to come by. In this dissertation I will present a novel approach to the decentralized, bandwidth-efficient and low-latency aggregation of high-frequency periodic measurements in heterogeneous environments. By employing radix-r-decimation among peers interconnected into a hypercube network, a logarithmic computation and communication effort is achieved with regard to the number of nodes. The approach is accompanied by several methods for the reduction of wait latency as well as the analytical computation of bounds, expectations, and distributions of latency and traversal time. The performance of the presented methods is corroborated by simulations. The network model underlying the simulations is based on large-scale network measurements, aided by two new approaches for the representative yet efficient modeling of latency in peer-to-peer networks as well as the steady-state emulation of periodic communication. The approaches are supplemented by detailed considerations of two exemplary sensor fusion applications, namely scalable audio communication for massively multi-user virtual environments and scalable decentralized data fusion for object tracking.</dc:description>
+          <dc:description xml:lang="deu">Unter Datenfusion versteht man das Aggregieren von Informationen aus mehreren Quellen mit dem Ziel, ein Ergebnis zu erhalten, welches aussagekräftiger ist als Informationen von einer einzelnen Datenquelle. Die Fusion von Sensordaten-Livestreams ist durch die fortlaufende Aggregation von Messdatenreihen gekennzeichnet. Ihre Anwendungen reichen von Audiokommunikation über die Überwachung von Geschäftsprozessen und das Verfolgen von Objekten bis hin zu gemeinsam nutzbaren haptischen virtuellen Umgebungen. Alle diese Anwendungen erfordern eine extrem niedrige Latenz. Dementsprechend ist die effiziente Skalierung bei begrenzter Datenbandbreite von entscheidender Bedeutung. Darüber hinaus fällt in Disseminationsnetzen ein erheblicher Latenzanteil auf Wartezeiten, die ihrerseits von der algorithmischen Implementierung des abstrakten Kommunikationsschemas abhängen. Vorhandene Aggregationsnetze sind entweder zentralisiert, vernachlässigen die Latenz oder setzen eine homogene Infrastruktur voraus. Dementsprechend wird die Komplexität von Kommunikationsalgorithmen allgemeinhin nur in Form von synchronen Kommunikationsrunden gezählt. Genauere Abschätzungen der Latenz oder Querzeiten sind schwer zu bestimmen. Im Rahmen dieser Dissertation präsentiere ich einen neuen Ansatz zur dezentralisierten, bandbreiteneffizienten und latenzarmen periodischen Messdatenaggregation in heterogenen Umgebungen. Durch den Einsatz von Radix-r-Dezimation unter P2P-Knoten, die zu einem hyperkubischen Netz verbunden sind, wird in Bezug auf die Anzahl der Knoten ein logarithmischer Berechnungs- und Kommunikationsaufwand erzielt. Begleitet wird der Ansatz durch mehrere Methoden zur Reduzierung von Wartezeiten und zur analytischen Berechnung von Grenzen, Erwartungswerten sowie Verteilungen von Latenzen und Querzeiten. Die Leistungsfähigkeit der vorgestellten Methoden wird mithilfe von Simulationen untermauert. Das den Simulationen zugrunde liegende Netzwerkmodell basiert auf umfangreichen Netzwerkmessungen, unterstützt durch zwei neue Ansätze: zum einen zur repräsentativen und doch effizienten Latenzmodellierung in P2P-Netzen und zum anderen zur stationären Emulation periodischer Kommunikation. Komplettiert werden die Ansätze durch die Erörterung der Implementierung zweier beispielhafter Sensordatenfusionsanwendungen, nämlich skalierbare Audiokommunikation für virtuelle Umgebungen mit vielen Teilnehmern und skalierbare Datenfusion zur Objektverfolgung.</dc:description>
+          <dc:date>2012-11-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3521</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37404</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37404</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3521/berndt_philipp.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

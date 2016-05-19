@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1758">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1758</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Leichtbau im Maschinenschutz-Umsetzungsstrategien und Konzepte-</dc:title>
+          <dc:title xml:lang="eng">Lightweight design in Machine Safety – Strategies and Concepts-</dc:title>
+          <dc:creator>Wittner, Michael</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die hohe Präventionssicherheit trennender Schutzeinrichtungen von Werkzeugma-schinen bedingt in der konventionellen Stahlblechbauweise spezifische Kapselungs-massen von durchschnittlich 40 kg/m² für die Dreh- und Schleifbearbeitung und bis zu 60 kg/m² für die Fräsbearbeitung. Hieraus wird deutlich, dass nicht nur die Verar-beitung der benötigten Blechdicken von bis zu 10 mm höchste Anforderungen an die Bearbeitungsmaschinen stellt, sondern auch die Handhabung bewegter Teile wie Maschinentüren aufwändige Automatisierungslösungen erfordert. Diese Problematik führt zu Überlegungen, potentielle Leichtbaustrategien, wie sie in den Bereichen des Automobilbaus oder der Luftfahrt bereits eingesetzt werden, auch im Maschinenbau für die Gestaltung trennender Schutzeinrichtungen zu nutzen. Die Umsetzung inno-vativer Leichtbaustrategien erfordert allerdings die kritische Auseinandersetzung mit einer Vielzahl komplexer Problemstellungen. Das in dieser Arbeit beschriebene ganzheitliche Handlungsmodell für die Auswahl und die Entwicklung von trennenden Schutzeinrichtungen in Leichtbauweise richtet sich in erster Linie an die Hersteller von Werkzeugmaschinen. In einzelnen, aufein-ander aufbauenden Modulen wird der Entwicklungs- und Konstruktionsprozess über die Gefährdungsanalyse, die Werkstoffauswahl, die Wirtschaftlichkeitsanalyse bis zur konstruktiven Ausgestaltung diskutiert und an praxisnahen Beispielen erläutert.</dc:description>
+          <dc:description xml:lang="eng">The high prevention security of separating protection device of machine tools causes specific enclosure mass of on average of 40 kg/m² in the conventional steel sheet building method for turning and grinding machines and up to 60 kg/m² for milling machines. From this clearly that not only the processing of the necessary sheet metal thicknesses of up to 10 mm against the processing machines makes highest demands, but also the handling of moved parts is required such as machine doors complex automation solutions. This problem leads potential lightweight construction strategies to considerations, as they are already used in the ranges of the automotive manufacture or aviation to use also in mechanical engineering for the organization of separating protection device. The conversion of innovative lightweight construction strategies requires however the critical argument with a multiplicity of complex problem definitions. The holistic action model for the selection, described in this work, and the development of separating protection device in lightweight construction way address themselves primarily to the manufacturers of machine tools. In individual, one on the other developing modules the development and construction process become over the endangerment analysis, the material selection, which describes economic analysis up to the constructional arrangement discussed and by examples in line with standard usage.</dc:description>
+          <dc:date>2008-04-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1758</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-18381</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-18381</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1758/wittner_michael.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

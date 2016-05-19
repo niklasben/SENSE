@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:54Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3595">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3595</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Modeling the random walk and chemotaxis of bacteria: Aspects of biofilm formation</dc:title>
+          <dc:title xml:lang="deu">Modelle für Zufallsbewegungen und Chemotaxis von Bakterien – Aspekte der Biofilmentstehung</dc:title>
+          <dc:creator>Taktikos, Johannes</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">A biofilm is an aggregation of bacteria living on a surface within a matrix of self-produced biopolymers. The formation of a biofilm is governed by numerous biological, chemical, and physical processes. In this thesis, we apply methods of statistical physics to investigate aspects relevant to the early stages of biofilm formation. Swimming strategies of bacteria can be characterized as random walks: "Run-and-tumble" of the intestinal bacterium E. coli, "Run-reverse" of the pathogen P. aeruginosa, or "Run-reverse-flick" of the marine bacterium V. alginolyticus. To compare these different patterns of motion, we develop a generalized random walk model and analytically calculate the diffusion coefficient to quantify each motility pattern. In an inhomogeneous environment, microorganisms perform chemotaxis and align their motion along a chemical gradient. To measure the chemotactic efficiency, we determine the chemotactic drift speeds of bacteria towards a food source and compare them for different strategies. Once microorganisms have attached to a surface, communication among the cells initiates the formation of microcolonies and biofilms. Coli bacteria, salmonellae, or amoebae can produce chemical substances themselves, to which they respond chemotactically. These microorganisms inspired our model for active, autochemotactic walkers. We show that the chemotactic interaction results in the formation of cell aggregates, as observed in various experiments. The long-time dynamics of an isolated model particle is diffusive and we determine its diffusion coefficient analytically. Physical interactions between cells also cause the formation of microcolonies. Cell appendages, called type IV pili, are attached on the cell body of the bacterium N. gonorrhoeae, the causative agent of the disease gonorrhea. These pili enable the cells to attach to surfaces and provide "twitching motility" as a means of bacterial locomotion. We hypothesize that the formation of microcolonies of N. gonorrhoeae is solely explained by a pili-mediated interaction, and chemotaxis is not required. Our experiments demonstrate how cells, initially dispersed over a surface, form aggregates within hours. Our model for the dynamics of cell aggregation is based on a pili-mediated attraction between the bacteria and reproduces our experimental observations.</dc:description>
+          <dc:description xml:lang="deu">Ansammlungen von Bakterien auf Oberflächen werden als Biofilme bezeichnet, deren Entstehung durch zahlreiche biologische, chemische und physikalische Prozesse beeinflusst wird. In dieser Arbeit untersuchen wir mit Methoden der Statistischen Physik Aspekte, die im frühen Entwicklungsstadium von Biofilmen relevant sind. Die Fortbewegungsstrategien von Bakterien lassen sich als Zufallsbewegungen charakterisieren: "Run-and-tumble" für das Darmbakterium E. coli, "Run-reverse" für den Krankheitserreger P. aeruginosa oder "Run-reverse-flick" für das Meeresbakterium V. alginolyticus. Zum quantitativen Vergleich dieser unterschiedlichen Bewegungsmuster entwickeln wir eine verallgemeinerte Zufallsbewegung, für die wir analytisch den Diffusionskoeffizienten als Maß der Zellmotilität bestimmen. In inhomogener Umgebung können Mikroorganismen ihre Bewegung entlang eines chemischen Gradienten ausrichten, was als Chemotaxis bezeichnet wird. Um die chemotaktische Effizienz zu vergleichen, berechnen wir die chemotaktische Driftgeschwindigkeit, mit der sich ein "Run-tumble-flick"-Bakterium einer Nahrungsquelle nähert. Sobald Mikroorganismen sich auf einer Oberfläche anlagern, aktiviert "Kommunikation" zwischen einzelnen Zellen die Bildung von Mikrokolonien und damit die Entstehung eines Biofilms. Coli-Bakterien, Salmonellen oder Amöben können selbst chemische Stoffe produzieren, auf die die jeweilige Zellpopulation chemotaktisch reagiert. Diese Mikroorganismen inspirieren unser Modell für aktive, "autochemotaktische" Teilchen. Wir zeigen, dass die chemotaktische Wechselwirkung bei unseren Modellorganismen die Bildung von Zellaggregaten bewirkt, was im Einklang mit zahlreichen Experimenten steht. Für die diffusive Langzeitdynamik eines isolierten Modellteilchens geben wir den Diffusionskoeffizienten analytisch an. Physikalische Wechselwirkungen zwischen Zellen können ebenfalls die Bildung von Mikrokolonien verursachen. Gonokokken-Bakterien (N. gonorrhoeae), Erreger der sexuell übertragbaren Krankheit Gonorrhoe, weisen Zellfortsätze auf, sogenannte Typ-IV-Pili, die den Zellen Oberflächenhaftung und "Twitching Motility" als Art der Fortbewegung ermöglichen. Unserer Hypothese nach erfolgt die Bildung von Mikrokolonien von N. gonorrhoeae ausschließlich über die Wechselwirkung der Pili, wofür insbesondere keine Chemotaxis notwendig ist. Ein von uns durchgeführtes Experiment demonstriert, wie anfänglich auf einer Oberfläche verteilte Zellen binnen Stunden aggregieren. Für die Dynamik der Zellaggregation entwickeln wir ein auf der Pili-Wechselwirkung basierendes Modell, das die experimentellen Beobachtungen gut reproduziert.</dc:description>
+          <dc:date>2013-01-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3595</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38217</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38217</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3595/taktikos_johannes.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

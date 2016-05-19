@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4627">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4627</identifier>
+        <datestamp>2014-03-04</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+        <setSpec>ddc:610</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwicklung eines Schnelldetektionssystems zum Nachweis von Orthopockenviren</dc:title>
+          <dc:title xml:lang="eng">Development of a rapid detection system for orthopoxviruses</dc:title>
+          <dc:creator>Stern, Daniel</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:subject>ddc:610</dc:subject>
+          <dc:description xml:lang="deu">Die Famile der Orthopockenviren umschließt neben den zwar ausgerotteten, im Falle&#13;
+einer nicht auszuschließenden bioterroristischen Ausbringung aber hochgefährlichen&#13;
+Variolaviren weitere humanpathogene Viren wie das Affenpocken-, das Kuhpockensowie&#13;
+das Vacciniavirus. Als zoonotische Erreger endemisch in Zentral- und Westafrika,&#13;
+Europa sowie Südamerika, verursachen Sie lokal begrenzt bis systemisch verlaufende&#13;
+pustuläre Erkrankungen, welche in Einzelfällen bis zum Tod führen können.&#13;
+Aufgrund des seltenen Auftretens sind deutschlandweit nur wenige Speziallabore wie&#13;
+das Robert Koch-Institut in der Lage, den Nachweis einer Orthopockenvirusinfektion&#13;
+anhand serologischer, Nukleinsäure- oder Partikel-basierter Nachweisverfahren zu&#13;
+erbringen. Ein im Falle einer bioterroristischen Freisetzung von Variolaviren notwendiges&#13;
+schnelles, sensitives und einfach durchzuführendes Detektionssystem existiert&#13;
+bis heute jedoch nicht.&#13;
+Um diese Lücke zu schließen, war das Ziel dieser Arbeit die Entwicklung eines&#13;
+Antikörper-basierten Schnelldetektionssystems zum Nachweis von Orthopockenviren.&#13;
+Durch Testung Oberflächenprotein-spezifischer polyklonaler Antikörper konnte&#13;
+gezeigt werden, dass das Attachment-Protein A27 am geeignetsten zur Induktion Detektions-&#13;
+optimierter Antikörper ist. In einem mehrstufigen Screeningverfahren wurden&#13;
+daher monoklonale Antikörper gegen A27 generiert, deren Bindungsepitope und&#13;
+Bindungskinetik mittels Peptid-Epitopmapping und Oberflächenplasmonresonanz-&#13;
+Messung bestimmt wurden. Hierbei zeigte sich, dass gute Zugänglichkeit der Bindungsepitope&#13;
+sowie schnelle und multivalente Bindung entscheidend für Detektionsoptimierte&#13;
+Antikörper waren. Die beiden besten Antikörper wurden schließlich auf&#13;
+der Abicap Vor-Ort-Detektionsplattform implementiert und bezüglich Sensitivität&#13;
+und Spezifität beim Orthopockenvirusnachweis charakterisiert. Als Ansatzpunkt für&#13;
+potenzielle Weiterentwicklungen wurden diese zusätzlich in Form rekombinanter single&#13;
+chain fragment variable Antikörper exprimiert und getestet.&#13;
+Das etablierte Detektionssystem war in der Lage, alle getesteten humanpathogenen&#13;
+Orthopockenviren mit hoher Sensitivität von bis zu 1,75×10^2 PFU/ml in 45 Minuten&#13;
+zu detektieren, wobei der Nachweis aus klinischem Material sowie einem verblindetem&#13;
+Probenpanel ohne Kreuzreaktivitäten möglich war. Durch die schnelle und einfache&#13;
+Durchführbarkeit bei gleichzeitig hoher Sensitivität eignet sich das Abicap-System&#13;
+sehr gut für die Vor-Ort-Testung sowohl bioterroristischer als auch klinischer Proben.&#13;
+Darüber hinaus können die in dieser Arbeit gewonnenen Erkenntnisse zur Generierung&#13;
+Detektions-optimierter Antikörper auf anderer Erreger übertragen werden.</dc:description>
+          <dc:description xml:lang="eng">Besides the eradicated Variola virus, which in the case of an unlikely but non excludable&#13;
+bioterrorist attack nevertheless remains highly dangerous, the Orthopoxvirus&#13;
+family contains further viruses pathogenic for humans like Monkeypox, Cowpox,&#13;
+and Vaccinia virus. As zoonotic agents, they are endemic in Central and Western&#13;
+Africa, Europe, and South America, causing mainly local to systemic pustular&#13;
+diseases which, in rare cases, can lead to death. Due to their rare incidence, only&#13;
+a few specialized laboratories like the Robert Koch-Institute are able to diagnose&#13;
+orthopoxvirus infections via serological, nucleic acid, or virus-particle based detection&#13;
+methods. However, to date there is no fast, sensitive and simple rapid on-site&#13;
+detection system, which in the case of bioterrorist release of Variola virus would be&#13;
+needed.&#13;
+To fill this gap, the aim of this work was to develop an antibody-based rapid detection&#13;
+system for Orthopoxviruses. By testing surface protein-specific polyclonal antibodies,&#13;
+we could show that the attachment protein A27 is most suited for induction&#13;
+of detection-optimized antibodies. Hence, a multi-level screening was used to generate&#13;
+A27-specific monoclonal antibodies whose binding epitopes and kinetics were&#13;
+determined by peptide epitope mapping and surface plason resonance measurement.&#13;
+Hereby, high accessibility of binding epitopes as well as rapid and multivalent binding&#13;
+were hallmarks for detection-optimized antibodies. Finally, two outperforming antibodies&#13;
+were implemented on the Abicap onsite detection platform and characterized&#13;
+regarding their sensitivity and specificity in Orthopoxvirus detection. Additionally,&#13;
+as a starting point for further optimization, both antibodies were expressed as recombinant&#13;
+single-chain variable fragments.&#13;
+The established rapid detection system was able to detect all tested Orthopoxviruses&#13;
+pathogenic to humans with high sensitivity down to 1.75×10^2 PFU/ml within 45&#13;
+minutes. Detection was possible from clinical samples and a blinded sample panel&#13;
+without cross-reactivity. Due to rapid and simple handling at sustained high sensitivity,&#13;
+the Abicap-platform is highly suited for onsite testing in a bioterrorist as well&#13;
+as a clinical context. Furthermore, findings regarding the generation of detectionoptimized&#13;
+antibodies gained during this work could be transferred to other agents.</dc:description>
+          <dc:date>2014-03-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4627</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-46273</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-46273</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4627/stern_daniel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

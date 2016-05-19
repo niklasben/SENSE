@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:92">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:92</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Integration von Gestaltung und Berechnung mittels CORBA</dc:title>
+          <dc:creator>Haderer, Gregor</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">CORBA ist ein Standard für die plattform- und netzwerkübergreifende Integration von Softwaresystemen. Die Arbeit beschreibt die Vorteile und Probleme, die sich bei der Verwendung von CORBA als Plattform für eine Kopplung von CAD-Systemen und Berechnungsprogrammen für Maschinenelemente ergeben. In der Einführung werden die Arbeitsschritte Gestalten und Berechnen sowie die Merkmale der dafür existierenden Softwarewerkzeuge vorgestellt. Für die Kopplungsaufgabe werden anschließend Anforderungen aus modelltechnischer, aus prozeßtechnischer und aus systemtechnischer Sicht formuliert. CORBA als Integrationsumgebung und als Kommunikationssystem für verteilte Objekte verspricht viele der Anforderungen zu erfüllen. Ausgehend von einer Beschreibung von CORBA werden verschiedene Szenarien für eine Kopplung vorgestellt und zwei konkrete Integrationskonzepte erarbeitet. Eines der Konzepte wird aufgegriffen und in einer Kopplung des CAD-Systems Pro/Engineer und des Schraubenberechnungsprogramms BOLT umgesetzt. Dabei werden die beiden Applikationen über einfache objektorientierte Schnittstellen gekapselt. Die Bedienung des Systems erfolgt über einen in JAVA implementierten Client. Die modelltechnische und prozeßtechnische Kopplung ist bei Verwendung von CORBA nicht automatisch gegeben, wird aber durch die Möglichkeit der objektorientierten Kapselung und der netzwerktransparenten Verwendung von Objekten durch CORBA gut unterstützt. Eine programmtechnische Kopplung ist bei Verwendung von CORBA automatisch gegeben.</dc:description>
+          <dc:date>2000-10-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/92</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-871</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-871</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/92/haderer_gregor.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

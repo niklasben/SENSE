@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1034">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1034</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Biosynthese kapsulärer Polysaccharide in Sinorhizobium meliloti</dc:title>
+          <dc:title xml:lang="eng">Biosynthesis of capsular polysaccharides in Sinorhizobium meliloti</dc:title>
+          <dc:creator>Epple, Guido Franz</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Bei vielen Interaktionen pathogener Bakterien und ihrer Wirte spielen kapsuläre Polysaccharide (KPS) eine wichtige Rolle. Bei der Ausbildung einer funktionellen Symbiose des Bakteriums Sinorhizobium meliloti Stamm 41 und der Wirtspflanze Medicago sativa sind kapsuläre Polysaccharide essentiell. Mutationen in den Genen rkpABCDEFGHIJ verhindern die Synthese der Polysaccharide. Solche Mutanten sind nicht mehr in der Lage Stickstoff-fixierende Wurzelknöllchen zu bilden. Die Gene rkpABCDEF zeigen starke Ähnlichkeiten zu Genen von modularen Polyketidsynthasen und eukaryotischen Fettsäuresynthethasen. Bisher konnte jedoch in den KPS weder ein ß-Ketid noch ein Fettsäurerest entdeckt werden. Im Rahmen dieser Arbeit konnte gezeigt werden, dass es sich beim Protein RkpF tatsächlich um ein Acyl-Carrier-Protein handelt. Für die heterologe Überexpression der Gene rkpABCDEF in E. coli wurden diese in den pET9a-Vektor kloniert. Um die korrekte Klonierung der Gene rkpABCDEF zu überprüfen, sollte die rhizobielle rkpC-Mutante 644 komplementiert werden. Diese Komplementation war jedoch mit den Genen rkpABCDEF nicht möglich. Anschliessende Untersuchungen ergaben, dass weitere bisher unbekannte Gene, für die KPS-Bildung benötigt werden und auf dem komplementierenden Kosmid pPP428 lokalisiert sein mussten. Die Sequenzierung der verbleibenden 17 kb des Kosmides führte zur Entdeckung zweier neuer Gene, die an der Biosynthese bzw. dem Transport der kapsulären Polysaccharide beteiligt sind. Zusätzlich wurden die Komplementationsgruppen der rkp-1-Region neu bestimmt. Eines der neuen Gene zeigt Homologien zu einer Familie von Lipoproteinen, die am Export von Polysacchariden beteiligt sind. Dieses Lipoprotein könnte einen möglichen Akzeptor für das ß-Ketid darstellen, welches durch die Proteine RkpABCDEF synthetisiert wird. Das zweite neue Gen zeigt Homologien zum kpsF-Gen aus E. coli, dessen genaue Rolle beim Transport der kapsulären Polysaccharide noch nicht geklärt ist. Die heterologe Expression der Gene rkpABCDEF in E. coli führte zur Bildung eines stabilen Proteinkomplexes mit einer Masse von ca. 250 kDa. Überraschenderweise ist dieser Proteinkomplex auch in einem denaturierenden SDS-Gel stabil. Mit Western-Blots konnte gezeigt werden, dass RkpF ein Bestandteil dieses Komplexes ist. Der Komplex konnte auch mit [3H]-ß-Alanin markiert werden. Dies ist ein Hinweis darauf, dass RkpF zumindest teilweise mit 4´-Phosphopantethein substituiert ist und entsprechend in seiner Holoform vorliegt. Der ungewöhnliche Proteinkomplex konnte ausserdem in S. meliloti Stamm 41 nachgewiesen werden. Wenn die Gene rkpABCDEF in Anwesenheit von 14C-markiertem Acetat in E. coli überexprimiert wurden, erfolgte die Bildung einer neuen Substanz. Diese neue Substanz konnte mittels Dünnschichtchromatografie nachgewiesen werden. Das Auftreten dieser neuen Substanz ist von der Induktion der Gene rkpABCDEF abhängig.</dc:description>
+          <dc:date>2005-06-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1034</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10234</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10234</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1034/epple_guido.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

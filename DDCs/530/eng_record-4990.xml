@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4990">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4990</identifier>
+        <datestamp>2014-04-03</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Lumineszenz heißer Elektronen in Siliziumstrukturen als Photonischer Seitenkanal</dc:title>
+          <dc:title xml:lang="eng">Luminescence of hot electrons in Silicon structures as photonic side channel</dc:title>
+          <dc:creator>Schlösser, Alexander</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Entgegen der Annahmen beim Design vieler mathematischer Kryptoalgorithmen finden Verschlüsselungen nicht in einem geschlossenen, abstrahierten System statt. Ein reales Verschlüsselungssystem besteht immer auch aus der physikalischen Implementation des Algorithmus, in den meisten Fällen ein integrierter Schaltkreis. Diese Schaltkreise interagieren entsprechend den Gesetzen der Halbleiterphysik mit ihrer Umgebung und geben über diese sogenannten Seitenkanäle Informationen über die im Inneren verarbeiteten Geheimnisse preis. &#13;
+In dieser Arbeit werden die physikalischen und technischen Aspekte eines neuen, des Photonischen Seitenkanals erforscht. Der wenig bekannte Effekt der Hot-Carrier-Lumineszenz führt in Feldeffekttransistoren zu einer lokalisierten und mit Schaltprozessen korrelierten Emission von Photonen. Gelingt es, diese Photonen räumlich und zeitlich aufgelöst nachzuweisen, kann die Korrelation genutzt werden um Informationen über Logikzustand der Transistoren und folglich auch einer ablaufenden Verschlüsselung abzuleiten. Ein grundlegendes Verständnis und wissenschaftliche Analyse der beteiligten Prozesse und potentieller Nutzung dieses Seitenkanals sollen helfen, Gegenmaßnahmen zu entwickeln und zukünftige Systeme sicherer zu gestalten. &#13;
+Das Ziel dieser Arbeit ist es daher, den Effekt der Hot-Carrier-Lumineszenz im Kontext einer Seitenkanalanalyse zu untersuchen und seine physikalischen Eigenschaften in einem realistischen Szenario zu evaluieren. Dazu werden zunächst die zugrundeliegende Halbleiterphysik, Theorie und Praxis des Einzelphotonennachweises sowie die Rahmenbedingungen der Kryptoanalyse analysiert. Mit diesen Ergebnissen wird ein neues photonisches System zum Nachweis von Hot-Carrier-Lumineszenz in integrierten Schalkreisen entworfen und realisiert. Optische Methoden zur räumlichen und zeitlichen Auflösung von nahinfraroten Einzelphotonen werden entwickelt und an integrierten Halbleiterstrukturen getestet. Anschließend werden in mehreren Verfahren Untersuchungen zur photonischen Emissions- und Seitenkanalanalyse von realistischen Verschlüsselungssystemen durchgeführt. Dabei wird eindrucksvoll demonstriert, dass photonische Emissio-nen von halbleiterbasierten Schaltkreisen tatsächlich zur Rekonstruktion des geheimen Schlüssels einer AES-Verschlüsselung verwendet werden können.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">The mathematical design of many cryptographic algorithms assumes the complete isolation of the encryption system. In reality, the integrated circuits that make up the physical implementation of most cryptographic systems interact with their surroundings, according to the laws of physics. These so called side channels reveal information about the secrets handled inside the system. &#13;
+This work examines the physical and technical aspects of a novel, the Photonic Side Channel. The little known silicon property of hot carrier luminescence causes switching field effect transistors to locally emit photons. If spatially and temporally resolved these photons can be used to infer the logic state of the emitting transistors and therefore gain information about the state of an encryption algorithm. A fundamental analysis and deep understanding of the participating processes and conditions are key requirements for a successful utilization of this side channel. In turn, its exploration will enable the development of effective countermeasures and raise the security level of future encryption systems.&#13;
+The aim of this work is thus to assess hot carrier luminescence in the context of side channel analyses and investigate its physical features in a realistic scenario. As basis the underlying semiconductor physics, theory and practice of single photon detection and additional conditions of cryptanalysis are evaluated. Using this knowledge a novel photonic system is designed and engineered specifically for the analysis of hot carrier luminescence in integrated circuits. Optical techniques for the spatial and temporal resolution of single near infrared photons are developed and tested on realistic targets. Finally, several methods are employed to perform photonic emission and side channel analyses of embedded encryption systems. The results impressively demonstrate that photonic emissions of integrated circuits can successfully be utilized to reconstruct the secret key of an AES encryption.&#13;
+</dc:description>
+          <dc:date>2014-04-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4990</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-49909</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-49909</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4990/Schloesser_Alexander.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

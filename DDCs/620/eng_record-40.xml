@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:40">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:40</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Berechnung hochfrequenter 3-dimensionaler elektromagnetischer Felder mittels der Finite Elemente Methode auf Kantenbasis</dc:title>
+          <dc:title xml:lang="eng">Calculation of highfrequency 3-dimensional electromagnetic Fields with the Finite Element Method using Edgeelements</dc:title>
+          <dc:creator>Damm, Tobias</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird die Berechnung von 3-dimensionalen elektromagnetischen Feldern mittels der Finite Elemente Methode (FEM) unter der besonderen Verwendung von kantenbasierten Ansatzfunktionen entwickelt und verifiziert. Dafür ist im Rahmen dieser Arbeit das dreidimensionale FEM-Paket IFEP entwickelt worden. Zuerst wird auf die Arbeitsweise der FEM eingegangen. Dabei stehen Methodik und Anschauung im Vordergrund. Die Probleme der Beschreibung und die Diskretisierung in Tetraeder des Berechnungsgebiets werden anschließend diskutiert. Dabei wird die Bewertung der Qualität von Diskretisierungen und ihre Verbesserungsmöglichkeiten behandelt. Anschließend werden die kantenbasierten Ansatzfunktionen mit der Ordnung 0,5 im Tetraeder eingeführt. Sie sind Grundlage für alle Berechnungen und werden ausführlich hergeleitet und anschaulich dargestellt. Zusätzlich wird gezeigt, daß die Ansatzfuntionen im Element divergenzfrei und rotationskonform sind. Anschließend wird die korrekte Anwendung der FEM mit Kantenelementen auf die vektorielle Helmholtzgleichung beschrieben. Dabei werden von der Problembeschreibung über die Einführung der Randbedingungen, der Kontinuitätsbedingung, und der Formulierung der Wellengleichung als Variationsproblem bis zum Aufstellen des zu lösenden linearen Gleichungssystems alle Schritte der FEM beschrieben, die in IFEP zur Anwendung kommen. Dann wird die Speicherung und das Lösen des Gleichungssystems behandelt. Dabei werden Themen wie die Reduktion der Bandbreite der Matrix bei Kantenelementen oder die Reduktion des Gleichungssystems durch Eleminierung innerer Freiheitsgrade untersucht. Besonders werden iterative Löser behandelt, wobei der Zusammenhang zwischen Feldlösung und Konvergenz an Beispielen untersucht wird. Es werden zwei Verfahren vorgestellt, um Streuparameter in Wellenleitern zu berechnen. Am Schluß werden die Ergebnisse mit anderen Veröffentlichungen, anderen Berechnungsmethoden und Messungen auf ihre Genauigkeit hin überprüft und diskutiert.</dc:description>
+          <dc:date>2000-06-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/40</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-372</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-372</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/40/damm_tobias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

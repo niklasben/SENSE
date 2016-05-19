@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:01Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1048">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1048</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Fluiddynamische Auswirkungen auf die Messabweichung von Ultraschall-Durchflussmessgeräten</dc:title>
+          <dc:title xml:lang="eng">Fluid Dynamic Influences on the Measurement Deviation of Ultrasonic Flow Meters</dc:title>
+          <dc:creator>Tawackolian, Karsten</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit werden aktuelle strömungsmechanische Methoden zur umfassenden Charakterisierung eines Ultraschall-Durchflussmessgerätes (UFM) für Präzisionsmessungen untersucht. Hierbei ist die Beschreibung der Strömungsvorgänge ein wichtiger Bestandteil für ein Modell der Messung. Derzeit verfügbare Methoden der Strömungssimulation sowie laseroptische Messmethoden stellen hierfür eine attraktive Lösung dar. Die Messgerätegeometrie hat einen entscheidenden Einfluss auf das Strömungsfeld im Durchflussmessgerät (DFM) und somit auf den Messwert. Bei der sogenannten Inline-Anordnung sind im Messrohr feste Einbaugeometrien für die Wandler vorhanden. Der systematische Einfluss der Wandlertaschen im Fall von UFM mit fünf bzw. zehn Pfaden bei kleiner Nennweite (DN 100) beträgt hier bis zu 15 %. Ein Vergleich mit Particle Image Velocimetry (PIV)-Messungen zeigt, dass stationäre Strömungs-Simulationen, trotz offensichtlicher Beschränkungen, eingesetzt werden können, um die auftretenden Strömungsstrukturen wiederzugeben. Die Modellierung kann den prinzipiellen Einfluss der Wandlertaschen erklären, ermöglicht jedoch gegenwärtig nicht, UFM dieser Nennweite als Primärmessgerät, also ohne Kalibrierung, einzusetzen. Die angestrebten idealen Bedingungen bei Kalibrierungen entsprechen meist einem vollausgebildeten turbulenten Strömungsprofil. Die Reynoldsähnlichkeit vollausgebildeter hydraulischer Strömungen bei verschiedenen Temperaturen wird für Präzisionsmessungen auf einer Normalmessanlage und mit rückgeführten laseroptischen Messungen nachgewiesen. Die Ergebnisse zeigen, dass die Reynoldszahl auch bei Präzisionsmessungen in der Metrologie, wie Kalibrierungen und Ringvergleichen, ein wichtiger, gleichwohl nicht der Einzige, relevante Parameter zur Beschreibung der Strömungsbedingungen ist. Hieraus wird eine Herangehensweise für die experimentelle Charakterisierung von Durchflussmessgeräten abgeleitet. Unter der Annahme der Reynoldsähnlichkeit können die hydraulischen und thermischen Parameter klar getrennt werden. Zuvor muss jedoch der Nullpunktversatz des UFM untersucht und rechnerisch korrigiert werden. Mit dieser Vorgehensweise können geräteinterne Korrekturfunktionen, die nicht nur die Kalibrierpunkte sondern den gesamten geforderten Messbereich abdecken müssen, systematisch validiert und verbessert werden. Für die Untersuchung des hydraulischen Störungseinflusses auf DFM wird im Rahmen dieser Arbeit ein neuer Störkörper vorgestellt. Mit diesem ist es möglich, auf Durchflussprüfständen die Strömungsstörung hinter einem Raumkrümmer zu reproduzieren. Abschließend wird eine spezielle Messgeräte-Geometrie untersucht, welche den Einfluss von Strömungsstörungen effektiv reduziert.</dc:description>
+          <dc:description xml:lang="eng">In this work, contemporary methods for a comprehensive fluid dynamic characterisation of an ultrasonic flow meter (UFM) for precision measurements are investigated. A comprehensive measurement model must include a description of the fluid dynamic conditions. Available methods of numerical simulation as well as laseroptical methods are attractive methods for this task. The inside geometry of the meter has a significant influence on the flow field and therefore on the measured value. In the so-called inline configuration, there are fixed transducer ports in the meter spool piece. The influence of such transducer ports in the cases of five and ten chord meters with small diameters (DN 100) in this case amounts up to 15 %. A comparison of fluid dynamic simulations and particle image velocimetry (PIV)-measurements shows that steady simulations can be used to explain the relevant fluid structures. Numerical models can explain the principal influence of transducer ports but do not yet allow to use a UFM as primary measurement device, i.e. without calibration. Calibrations on hydraulic flow test rigs are performed under defined reference conditions. The desired ideal flow conditions are in this case fully developed turbulent flows. The Reynolds similarity of fully developed flows at different temperatures for precision measurements is validated. The results show that the Reynolds number is an important parameter, albeit not the only parameter, to describe the flow conditions for precision flow measurements in metrological applications, such as key comparisons. Based on this, an approach for the experimental characterisation of flow meters is devised. By assuming Reynolds similarity, the hydraulic and thermal parameters can be clearly separated. Beforehand, the zero offset of the flow meter needs to be investigated and a correction must be applied. The method is used to validate and improve internal correction functions that do not only cover fixed calibration points but the full required measurement range. In order to investigate hydraulic influences on flow meters, a new flow disturber is presented. It enables to reproduce the disturbance downstream of a double bend out of plane on flow calibration test rigs. Finally, a special inside geometry is investigated that effectively reduces the influence of flow disturbances.</dc:description>
+          <dc:date>2013-06-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1048</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40524</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40524</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1048/tawackolian_karsten.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

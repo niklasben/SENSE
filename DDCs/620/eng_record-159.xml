@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:159">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:159</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Konzepte zum Entwurf, zur Gestaltung und zur Optimierung einstellbarer optischer Filter mit Flüssigkristallelementen</dc:title>
+          <dc:title xml:lang="eng">Concepts for development, design and optimization of tunable optical filters with liquid crystals</dc:title>
+          <dc:creator>Wahl, Markus</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Optische, farbmetrische und materialspezifische Grundlagen führen in die Thematik der einstellbaren optischen Filter mit Flüssigkristallelementen ein. Der Stand der Technik wird dargestellt. Betrachtungen zum Einstellbereich und zum möglichen Farbbereich leiten die Untersuchungen zum Design optischer Filter ein, in dem zunächst Einzelelemente meßtechnisch durch spannungs- und wellenlängenabhängige Transmissionsverläufe charakterisiert werden. Diese neuartigen T(lambda,U)-Charakteristiken dienen im weiteren erfolgreich zur Selektion geeigneter Zellen und als Datenbasis zur statischen und dynamischen Kompensation von Abweichungen im Transmissions- und Ansteuerverhalten, bezeichnet als "Verfahren der individuellen Ansteuerung". Davon abgeleitet wird ein Verfahren zur elektrischen Temperaturkompensation vorgestellt. In systematschen Untersuchungen zum Filterdesign werden neuartige Varianten mit passiven Elementen aus Kunststoff-Folie und Kombinationen aus Zellen mit verdrillter und unverdrillter Flüssigkristallschicht vorgestellt. Auf Basis von Modellrechnungen nach der Jones-Matrix-Methode und evolutionsstrategischen Algorithmen mit Covarianz-Matrix-Adaption (CMA) entstand ein komplexes Software-Werkzeug zum Entwurf und zur Optimierung von Filteranordnungen, mit dem sich sowohl vorgegebene Spektren approximieren als auch Kennwerte optimieren lassen. Mit dem "Solc-Modified-Filter" wird ein neuartiger Typ mit drastisch verbesserter Störtransmissionsunterdrückung vorgestellt.</dc:description>
+          <dc:date>2001-02-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/159</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1540</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1540</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/159/wahl_markus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2458">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2458</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A novel exergy-based concept of thermodynamic quality and its application to energy system evaluation and process analysis</dc:title>
+          <dc:title xml:lang="deu">Ein neues exergiebasiertes Konzept thermodynamischer Qualität und dessen Anwendung in der Energiesystembewertung und Prozessanalyse</dc:title>
+          <dc:creator>Jentsch, Andrej</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">In this work a novel concept is developed that allows to interpret exergy associated with mass or energy transfers as a product of thermodynamic quality (transformability) and quantity (transformation energy). Based on this splitting of exergy into two novel properties an evaluation method is suggested that allows a transparent exergy-based comparison of different energy supply technologies using transformation energy efficiency, which can be interpreted as a a measure of external sophistication and transformability ratio, which indicates process suitability. The product of the two novel evaluation ratios is exergetic efficiency. Additionally, a consistent structured procedure for the evaluation of energy supply systems for domestic heating and cooling is laid out that includes a comprehensive rule-based boundary definition and an exergy-based attribution of fuel to heat from combined heat and power processes. The developed method is exemplary applied to supply systems for domestic heating and cooling as well as used for the analysis of some basic thermodynamic processes and a vapor-compression cascade refrigeration machine. The dissertation concludes with a discussion of the advantages and disadvantages of the novel analysis and evaluation method in comparison to an exclusively exergetic evaluation and analysis.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein neues Konzept entwickelt, welches es ermöglicht, die Exergie von Masse- und Energieströmen als Produkt aus thermodynamischer Qualität (Wandelbarkeit) und Quantität (Wandlungsenergie) zu interpretieren. Aufbauend auf dieser Aufspaltung der Exergie in zwei neue Größen wird eine Bewertungsmethode vorgeschlagen, welche es möglich machen soll verschiedene Versorgungstechnologien auf Basis der Exergie transparenter als bisher zu vergleichen. Dabei werden die Wandlungsenergieeffizienz , welche als Grad der externen Güte interpretierbar ist und das Wandel- barkeitsverhältnis, welches sich als Grad der Prozesseignung verstehen lässt, verwendet. Das Produkt der beiden neuen Größen ist die exergetische Effizienz. Zusätzlich wird ein strukturiertes Vorgehen für die Definition der Bilanzgrenzen von Versorgungssystemen vorgeschlagen. Die Besonderheiten der Kraft-Wärme-Kopplung sowie nicht-speicherbarer erneuerbarer Energien werden dabei berücksichtigt. Die Bewertungsmethode wird beispielhaft auf Wärme- und Kälteversorgungssysteme angewendet. Weiterhin wird die Eignung der neuen Methode zur thermodynamischen Analyse anhand von einfachen thermodynamischen Prozessen sowie einer Dampf-Kompressionskältemaschine untersucht. Die Dissertation wird mit einer Diskussion der Vor- und Nachteile der neuen Methode im Vergleich zu ausschließlich exergetischer Bewertung und Analyse abgeschlossen.</dc:description>
+          <dc:date>2010-03-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2458</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-25765</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-25765</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2458/jentsch_andrej.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

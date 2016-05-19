@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1342">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1342</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:800</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Robert Walser und die Neue Zeit. Politische Kurzdramen der Zwanziger Jahre.</dc:title>
+          <dc:title xml:lang="eng">Modern Times and Robert Walser.  The political plays</dc:title>
+          <dc:creator>Mayr, Siegfried</dc:creator>
+          <dc:subject>ddc:800</dc:subject>
+          <dc:description xml:lang="deu">Der Text beschäftigt sich mit Walsers seit der Jahrhundertwende entwickelten Methoden der Thematisierung von Alltagsmythen in Märchenspielen. Mayr stellt besonders die politisch gefärbten Arbeiten der Zwanziger Jahre heraus und sucht sie als Bruchstücke einer universalen Geschichtsphilosophie zu begreifen, die den tragischen Gehalt geistiger Klischees aufspürt und hinter den Erscheinungen der Geschichte die gnadenlose Mechanik des Märchens vermutet. Ein weiteres Ziel der Arbeit besteht in der Rehabilitation Walsers als politischer Autor.</dc:description>
+          <dc:description xml:lang="eng">This thesis deals with Robert Walser´s attempts to create a new method of myth- destruction in short plays. Developed since 1900, his plays, based on german fairy-tales and every-day-myths, reached a technical standard in the field of analysing politics that can only be compared with the one of Brecht´s works. Mayr tries to show that Walser was one of the most intelligent political authors of his time.</dc:description>
+          <dc:date>2006-09-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1342</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13668</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13668</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1342/mayr_siegfried.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

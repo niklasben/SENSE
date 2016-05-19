@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:251">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:251</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Untersuchungen zur Auslegung von Notentspannungseinrichtungen für Lager- und Transportbehälter für organische Peroxide</dc:title>
+          <dc:title xml:lang="eng">Investigations in the assessment of emergency relief systems for bulk-container for organic peroxides</dc:title>
+          <dc:creator>Gmeinwieser, Thomas</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="deu">Die Lagerung und der Transport von organischen Peroxiden im bulk-Maßstab ist für die chemische Industrie wegen großer wirtschaftlicher Bedeutung und logistischen Randbedingungen von großem Vorteil. Auf Grund des Stabilitätsverhaltens und Gefahrenpotentials der organischen Peroxide, die dadurch auch eine eigene Gefahrenklasse für den Transport von kommerziell erhältlichen Chemikalien darstellen, kommt der sicheren Gestaltung von Transport- und Lagerbehältern eine besondere Rolle zu. Die Auslegung der notwendigen Notentspannungseinrichtungen von Lager- und Transportbehältern für organische Peroxide wird zur Zeit nach verschiedenen Verfahren durchgeführt. Diese unterscheiden sich in den Volumina der Versuchsbehälter und daran gekoppelt, auch in den Berechnungsmethoden. In dieser Arbeit wird ein anhand eines Modellperoxids entwickeltes neues Auslegungsverfahren vorgestellt, daß mit Hilfe von dynamischen Simulationshilfen eine Verbesserung der Entla-stungsdimensionierung, im Gegensatz zu den bisher gültigen Berechnungsmethoden, darstellt. Durch Verwendung von dynamischen Simulationstools, wie der in dieser Arbeit benutzte Computercode RELIEF, können bei der Auslegung von Notentspannungseinrichtungen auch verschiedene Behältergeometrien berücksichtigt werden. In Verbindung mit dem Füllstand und der Zersetzungscharakteristik läßt sich dann das für einen Druckentlastungsvorgang wichtige 2-Phasen-Verhalten im Entlastungsquerschnitt genauer Berechnen. Dies führt letztendlich zu einer genaueren Auslegung der entsprechenden Notentspannungseinrichtung. Zur Lösung der recht komplexen und umfangreichen Aufgabe gehört daher die genaue Untersuchung der Zersetzungskinetik, die für die numerische Simulation eines Entlastungsszenarios extrem wichtig ist, zu einem Hauptaufgabengebiet in dieser Arbeit. Ein weiterer Hauptteil der Arbeit widmet sich der Entwicklung, dem Bau und der Charakterisierung einer neuen Meßapparatur, die es ermöglicht die verschiedenen Fragen, die bei der Ermittlung der wichtigen Kenngrößen der Zersetzungen von organischen Peroxiden auftreten genauer untersuchen zu können. Durch die in der vorliegenden Arbeit gewonnenen Ergebnisse kann für das Modellperoxid mit Hilfe der neu entwickelten Auslegungsmethode, die auf der Verwendung eines dynamischen Simulationstools gründet, eine Notentspannungsfläche für einen bulk-Behälter berechnet werden, die um den Faktor 2 kleiner ist, wie die mit Hilfe der bisher verwendeten empirischen Methode.</dc:description>
+          <dc:date>2001-11-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/251</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2461</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2461</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/251/gmeinwieser_thomas.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1076">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1076</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Gefahrenbeurteilung und Empfehlungen für eine organische Peroxidsynthese</dc:title>
+          <dc:title xml:lang="eng">Hazard Assessment of and Recommendations for an Organic Peroxide Synthesis</dc:title>
+          <dc:creator>Peukert, Tanja Birgit</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Reaktionen mit Peroxiden stellen häufig ein Sicherheitsrisiko dar, da sie durch ihre spezielle O-O Bindung meist thermisch instabil sind. Dennoch werden sie vielfach in der Polymerchemie eingesetzt. Die Beurteilung der potentiellen Gefahren eines Stoffes oder Prozesses wird in Deutschland meist anhand der Schemata der Technischen Regel TRAS 410 durchgeführt. Nach der Analyse aller am Prozess beteiligten Reinsubstanzen wird der Prozess selbst untersucht bevor mögliche Prozessabweichungen und ihre Folgen analysiert werden. Nach diesen Untersuchungen kann in der Regel eine sichere Prozessfahrweise empfohlen werden. In der vorliegenden Arbeit wurde die Synthese eines Di-Peroxides aus einem Feststoff und einem Hydroperoxid untersucht. Diese Untersuchungen waren nicht nur aufgrund der Heterogenität des Systems, aus einem fest-flüssig-flüssig wurde im Laufe der Reaktion ein flüssig-flüssig Gemisch, problematisch, sondern auch aufgrund des hohen thermischen Potentials der Reaktion. Ferner konnte in Untersuchungen festgestellt werden, dass neben der eigentlichen Synthesereaktion parallel eine Zersetzung des Hydroperoxids stattfindet. Dies führte dazu, dass ein Simultanreaktions-System untersucht werden musste: die Synthesereaktion, bestehend aus zwei Folgereaktionen, und parallel dazu die Zersetzungsreaktion. Eine Bestimmung reaktionskinetischer Kenndaten eines Parallelreaktionssystems ist oft schwierig bis unmöglich. Für das vorliegenden System konnte jedoch gezeigt werden, dass sich mit Hilfe von Rücksimulationen einiger Experimente in einem Reaktionskalorimeter, reaktionskinetische Parameter ermitteln lassen, die das System gut beschreiben. Für den 1l-Massstab konnte daher mit Hilfe der anhand der TRAS 410 ermittelten Parameter eine Prozessempfehlung gegeben werden.</dc:description>
+          <dc:description xml:lang="eng">Organic peroxides are, due to their weak O-O-bond, very reactive substances and usually require special attention from the aspects of process safety. Nevertheless they are often used in the polymer chemistry. In Germany the hazard assessment of substances as well as processes often follows the schemes in the German Technical Regulation TRAS 410. Following these schemes, first all substances have to be analysed in their pure form, then the analysis of the process follows and finally possible process deviations are analysed. Having performed the required analyses, usually a recommendation for a safe process can be given. In this work the production of a di-peroxide out of a hydroperoxide and a solid was analysed. Problems were not only caused by the heterogeneity of the system, which changes during the reaction from a solid-liquid-liquid to a liquid-liquid system, but also by its high exothermal enthalpy. During the analysis of the process it was furthermore detected that the system consists of three simultaneous reactions. The di-peroxide is produced within two consecutive reactions and parallel there is a decomposition reaction of the hydroperoxide. The determination of kinetic parameters of a simultaneous reaction system is often difficult. Although, in this work it could be shown that with the help of re-simulations of experiments in a reaction calorimeter, kinetic parameters for the three side reactions can be determined. With the help of these kinetic parameters and the analysis according to the TRAS 410, recommendations on a safe process in a 1l-scale could be given.</dc:description>
+          <dc:date>2005-08-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1076</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10602</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10602</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1076/peukert_tanja.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

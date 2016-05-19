@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2696">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2696</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Truthful Mechanism Design for Cooperative Cost Sharing and Congestion Games</dc:title>
+          <dc:title xml:lang="deu">Anreizverträgliche Mechanismen für kooperative Kostenverteilungs- und Auslastungsspiele</dc:title>
+          <dc:creator>Brenner, Janina</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">As the world is growing closer together, more and more infrastructures are installed and used jointly by several participants. The area of algorithmic game theory develops and analyzes models to describe and control the behavior of selfish and strategic individuals in such situations. This thesis studies two game theoretic models whose instances are based on combinatorial optimization problems such as the cost minimal installation of an energy network or routing of goods or information from one point to another. Our first model studies mechanisms for distributing the cost of a newly installed infrastructure among its users. Every potential user is asked to submit a bid corresponding to her private valuation of and thus her willingness to pay for using the infrastructure. Based on these bids, the cost sharing mechanism chooses a global outcome for a subset of the bidders and determines an individual payment for every user. We are interested in truthful mechanisms that guarantee that no bidder can benefit from misreporting her valuation. Additionally, we aim at minimizing the social cost of the solution. We develop such cost sharing mechanisms for several combinatorial optimization problems from the areas of network design and scheduling. This is done under two different assumptions regarding the degree of cooperation under which players form strategies to manipulate the outcome. We prove general inapproximability results for the stronger cooperation model, which yield strong lower bounds especially for scheduling problems. We then overcome these lower bounds surprisingly well in the second, slightly weaker cooperation model. Further, we develop the first general online model for cooperative cost sharing and characterize truthful mechanisms in this model. In the last part of the thesis, we present a new model which allows to incorporate the disutility caused by congestion on shared resources. This is an important extension of the standard mechanism design approach, as congestion effects occur in many applications. We base our model on congestion games, which have so far mainly been studied in the context of Nash equilibria. We develop a generic mechanism that approximates social welfare in general, while producing optimal solutions in the case of single commodity network congestion games.</dc:description>
+          <dc:description xml:lang="deu">Durch das zunehmende Zusammenwachsen der Welt werden mehr und mehr Infrastrukturen gemeinsam installiert und genutzt. Die algorithmische Spieltheorie entwickelt und studiert Modelle, die das Verhalten eigennütziger und strategischer Beteiligter in solchen Situationen beschreiben und gegebenenfalls zu steuern ermöglichen. Die vorliegende Arbeit untersucht zwei solcher Modelle, deren grundlegende Struktur durch kombinatorische Optimierungsprobleme gegeben ist. Ein typisches Beispiel für ein solches Optimierungsproblem ist das kostengünstige Erstellen eines Netzwerkes, etwa für Energieversorgung oder die Anbindung an eine neue Informationstechnologie. Unser erstes Modell untersucht Mechanismen zur Verteilung der Kosten einer neu zu errichtenden Infrastruktur auf deren Nutzer. Alle potentiellen Nutzer werden aufgefordert, ein Gebot abzugeben, das ihrem privaten Mehrwert und damit ihrer Zahlungsbereitschaft für die Nutzung entspricht. Auf Grundlage dieser Gebote bestimmt der Mechanismus eine globale Lösung für eine Teilmenge der Interessenten und einen individuellen finanziellen Beitrag für jeden akzeptierten Nutzer. Wir fordern anreizverträgliche Mechanismen, bei denen es im eigenen Interesse jedes Beteiligten liegt, seine wahre Zahlungsbereitschaft ehrlich anzugeben. Zusätzlich sollen die sozialen Kosten der Lösung möglichst klein gehalten werden. Wir entwickeln Kostenverteilungsmechanismen für mehrere Optimierungsprobleme aus den Bereichen Netzwerkdesign und Reihenfolgeplanung. Dabei betrachten wir zwei verschiedene Kooperationsmodelle, in denen Spieler gemeinsam Strategien entwickeln können, um das Ergebnis zu manipulieren. Für das stärkere Kooperationsmodell beweisen wir allgemeine Inapproximierbarkeitsresultate, die vor allem für Reihenfolgeplanungsprobleme starke untere Schranken ergeben. Diese überwinden wir mit erstaunlichem Erfolg in dem zweiten, etwas schwächeren Kooperationsmodell. Des Weiteren entwickeln wir das erste Online-Modell für Kostenverteilungsspiele und charakterisieren anreizverträgliche Mechanismen in diesem Modell. Im letzten Teil unserer Arbeit präsentieren wir ein neues Modell, das es ermöglicht, einen verringerten Nutzen der Spieler durch Staueffekte auf gemeinsam genutzten Ressourcen zu berücksichtigen. Dies ist eine wichtige Erweiterung des obigen Modells, da solche Effekte in vielen Anwendungen vorkommen. Als Grundlage verwenden wir Auslastungsspiele, die bisher vor allem im Kontext von Nashgleichgewichten betrachtet wurden. Wir entwickeln einen generischen Mechanismus, der das Allgemeinwohl approximiert oder z.B. für Netzwerk-Auslastungsspiele optimiert.</dc:description>
+          <dc:date>2010-11-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2696</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-28368</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-28368</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2696/brenner_janina.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

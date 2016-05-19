@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1512">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1512</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Molekulare Analyse der Darmflora von Patienten mit hämatologischen Krebserkrankungen</dc:title>
+          <dc:title xml:lang="eng">Molecular gut flora analysis of patients with hematologic malignancies</dc:title>
+          <dc:creator>Goldenberg, Oliver</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Die selektive Darmdekontamination stellt eine Möglichkeit der Prävention gegenüber endogenen Infektionen dar, wohingegen bei einer akuten Infektion Breitspektrum-Antibiotika eingesetzt werden. Für die Studie wurden Stuhlproben von allogen und autolog transplantierten, sowie chemotherapierten Patienten auf ihre mikrobielle Zusammensetzung analysiert. Die Untersuchungen wurden größtenteils mit Hilfe molekularer Methoden durchgeführt, welche auf der Amplifikation ribosomaler Gene basierten. Neben bereits etablierten Verfahren wie der Denaturierenden Gradientengelelektrophorese (DGGE), konnten neue Methoden auf Basis der Denaturierenden High Performance Liquid Chromatography (DHPLC) und der Echtzeit-PCR entwickelt werden. Die Ergebnisse zeigen, dass die neu entwickelten Methoden eine Verschiebung der Darmflora in Folge der Antibiotikabehandlung zuverlässig anzeigen. Weiterhin konnte mit Hilfe der neuen Verfahren die drastische Reduktion der bakteriellen Diversität nach Behandlung mit Breitspektrum-Antibiotika detektiert und die Rekonstitution der Darmflora, welche durch eine parenterale Ernährung verzögert wurde, reproduzierbar dargestellt werden. In den Proben mit reduzierter Artendiversität in der Darmflora konnten größtenteils Gram-(+) Bakterien identifiziert werden, wobei die Anreicherung der Spezies auf das Resistenzspektrum gegenüber den verwendeten Antibiotika zurückzuführen war. Bei allogen transplantierten Patienten mit reduzierter Diversität der Darmflora konnte zudem eine erhöhte Fallzahl von akuter Graft-versus-Host Disease (GvHD) beobachtet werden, was auf einen möglichen Einfluss der Darmflora bei der Entstehung dieser transplantationsassoziierten Folgeerkrankung hinweist.</dc:description>
+          <dc:description xml:lang="eng">Haematologic malignancies often necessitate the transplantation of graft-derived blood stem cells to the patients. Apart from therapy-induced side effects, endogenous and exogenous acquired infections come to the fore. Prophylactic administration of antibiotics for selective decontamination of the gastrointestinal tract reduces the frequency of endogenous infections, whereas signs of acute infection are treated empirically by broad-spectrum antibiotics. Although the impact of respective antibiotics on the composition of the intestinal microbiota is well studied, there are no reports about temporal changes during treatment of haematologic malignancies. To address this issue in a pilot study, faecal samples were collected from allogeneic and autologous transplant patients as well as patients undergoing chemotherapy. In most instances, composition of the intestinal microbiota was determined by 16S rRNA based techniques. In addition to well-established methods (e.g. Denaturing Gradient Gel Electrophoresis, DGGE) newly developed approaches (e.g. Denaturing High Performance Liquid Chromatography, DHPLC; Real-Time PCR) were adducted for analysis. Some of the data were verified using culture techniques. The results showed a shift in the intestinal microbiota due to antibiotic prophylaxis. In contrast, treatment with broad-spectrum antibiotics resulted in explicit reduction of bacterial diversity in the faecal samples. Reconstitution was hampered by parenteral nutrition. Gram-positive bacteria proved to be the main colonizers in samples with reduced diversity, apparently due to their spectrum of antibiotic resistance. Moreover, cases of acute Graft-versus-Host Disease (GvHD) were observed more often in allogeneic transplant patients with reduced diversity, once again underlining the importance of the intestinal microbiota in the development of this transplantation-associated complication. For the first time, temporal changes in the composition of the intestinal microbiota were documented during the treatment of haematologic malignancies. Results of this pilot study provide starting points for new pre-clinical projects, e.g. analysis of coherences between acute GvHD and bacterial species of the gastrointestinal tract. The newly developed techniques allow contemporary monitoring of changes in the intestinal microbiota, which might help to keep antibiotic-induced changes under surveillance. This attempt could lead to an individualised treatment of patients.</dc:description>
+          <dc:date>2007-05-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1512</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-15479</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-15479</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1512/original_Oliver_Goldenberg_Dissertation.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1512/goldenberg_oliver.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

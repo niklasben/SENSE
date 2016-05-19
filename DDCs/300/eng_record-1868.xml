@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1868">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1868</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:300</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Der Mordfall Marinus Schöberl. Arbeitspapier 1/2004</dc:title>
+          <dc:creator>Kohlstruck, Michael</dc:creator>
+          <dc:creator>Münch, Anna Verena</dc:creator>
+          <dc:subject>ddc:300</dc:subject>
+          <dc:description xml:lang="deu">Im Zentrum der Studie steht die Ermordung von Marinus Schöberl in Potzlow / Uckermark, die im November 2002, vier Monate nach der Tat, bekannt wurde. Die Tat wurde von maßgeblichen lokalen Persönlichkeiten, von der überregionalen Presse und von Brandenburger wie Berliner Antifa-Kreisen als rechtsextreme Tat wahrgenommen und verurteilt. Sie wurde häufig als exemplarischer Fall von rechtsextremer Gewalt oder zur Veranschaulichung anderer Gesichtspunkte angeführt. Ein genaueres Hinsehen zeigt indes, dass die schlimmsten Verbrechen aus trivialen, also alltagsnahen Umständen hervorgehen. Der Wunsch nach einer Symmetrie zwischen extremen Taten und ihren Ursachen verweist auf unsere eigene Fassungslosigkeit und eine Strategie, das Alltagsleben als „gute Normalität“ zu konstruieren, in der „das Böse“ und „die Extremen“ keinen Platz haben. Der Mord an Marinus Schöberl zeigt, dass Gewaltexzesse und Alltagsnormalität zusammengehören. Die Lebensgeschichte, die soziale und biographische Situation der Beteiligten lassen sich unter der Perspektive ihrer Zugehörigkeiten, Orientierungen, Wahrnehmungen und Verhaltensweisen betrachten. Welche sozialen Voraussetzungen und welche Dynamiken waren für das Tatgeschehen charakteristisch? Wie stellt sich der Fall dar, wenn wir ihn als die individuelle Kombination von generellen, also allgemein verbreiteten und bekannten sozialen Mustern betrachten? Wir fragen in diesem Sinne nach einer „individuellen Allgemeinheit des Falls“, nach den „sozialen Bestandteilen“ des Tatgeschehens. In der vorliegenden Studie gehen wir davon aus, dass die Wahrscheinlichkeit für Gewalttätigkeiten mit bestimmten sozialökonomischen Faktoren zusammenhängt. Im ersten Teil zeigen wir, inwiefern diese Faktoren in der Uckermark gegeben sind. Zum zweiten geht es uns darum, die innere Strukturlogik des konkreten Gewalthandelns zu rekonstruieren, das schließlich in den Mord an Marinus Schöberl mündete. In einem dritten Teil werden einige Überlegungen vorgestellt, wie einzelne der identifizierten Problemfelder praktisch angegangen werden können.</dc:description>
+          <dc:date>2008-08-27</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1868</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19783</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19783</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1868/kohlstruck_mordfall_marinus_schoeberl.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

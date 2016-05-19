@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3335">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3335</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Beiträge zum Beweis der Chern-Vermutung über isoparametrische Hyperflächen in Sphären</dc:title>
+          <dc:title xml:lang="eng">Contributions towards a proof of the Chern conjecture on isoparametric hypersurfaces in spheres</dc:title>
+          <dc:creator>Weiß, Simon</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Gegenstand dieser Arbeit ist die wie folgt lautende Chern-Vermutung über Hyperflächen in Sphären: Jede in der (n+1)-dimensionalen Sphäre S^n+1 minimal immersierte geschlossene Hyperfläche M mit konstanter Skalarkrümmung ist isoparametrisch. Bislang konnte sie noch nicht bewiesen werden, es existieren allerdings Teilresultate insbesondere für niedrige Dimensionen und unter Hinzunahme weiterer Voraussetzungen an die Hauptkrümmungen und verschiedene symmetrische Krümmungsfunktionen von M. Ziel der Arbeit ist es, neue Erkenntnisse in Richtung eines Beweises der Vermutung zu gewinnen. Dazu wird eine Reihe neuer Resultate bewiesen sowohl in Bezug auf die Chern-Vermutung als auch verwandte Fragestellungen für Untermannigfaltigkeiten höherer Kodimension.</dc:description>
+          <dc:description xml:lang="eng">The subject of this paper ist the Chern conjecture on hypersurfaces in spheres, which is as follows: Every hypersurface M that is minimally immersed in the (n+1)-dimensional sphere S^n+1 and has constant scalar curvature is isoparametric. So far there has been no proof for this conjecture, however there are partial results in particular for low dimensions and given additional assumptions for the principal curvatures and various symmetric curvature functions on M. The aim of this paper ist to gain new insights towards a proof of the conjecture. A number of new results are given, both relating to the Chern conjecture and related problems for submanifolds of higher codimension.</dc:description>
+          <dc:date>2012-05-24</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3335</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34965</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34965</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3335/weiss_simon.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

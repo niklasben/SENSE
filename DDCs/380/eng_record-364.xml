@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:364">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:364</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:380</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Darstellung von Belastungsparametern und Steuerbefehlen in einem modernen Glascockpit zur Vermeidung der Überschreitung der Ultimate Load</dc:title>
+          <dc:title xml:lang="eng">Presentation of Load Parameters and Guidance Commands in a modern Glascockpit to avoid the Exceeding of the Ultimate Load</dc:title>
+          <dc:creator>Daser, Gunther</dc:creator>
+          <dc:subject>ddc:380</dc:subject>
+          <dc:description xml:lang="deu">Mit der vorliegenden Arbeit wird ein neuer Ansatz, nach dem ausgewählte Bauteile in einem Flugzeug, insbesondere mit Blick auf sogenannte Megaliner, kritischer ausgelegt werden, um Gewicht zu sparen, vorgestellt. Das entstehende Risiko wird über ein neukonzipiertes Warn- und Anzeigesystem kompensiert. Der Schwer-punkt liegt auf der Beschreibung der technischen Machbarkeit, nicht auf der wirt-schaftlichen Bewertung. Hintergrund dieser Arbeit ist das ungebrochen hohe jährliche Wachstum in der zivi-len Luftfahrt verbunden mit Kapazitätsengpässen auf so gut wie allen größeren internationalen Verkehrsflughäfen. Ein denkbarer Ausweg aus diesem Dilemma ist die Entwicklung eines Boeing 747-Nachfolgers, der seinen Vorgänger an Größe und Wirtschaftlichkeit deutlich übertrifft. Doch das stetige Wachstum der Flug-zeuggröße führt unweigerlich an die technologischen Grenzen, die durch das so-genannte Square-Cube-Law beschrieben werden. Flugzeuge können nur so lange weiter wachsen, wie es den Konstrukteuren gelingt, diese technologische Grenze durch neue, festere Materialien, neuartige Bauweisen und Technologien hinauszu-schieben. Die sogenannten Megaliner, zu denen die aktuellen Airbusprojekte A340-500, A340-600 und die A380-Familie sowie Boeings Pläne für einen Nach-folger der 747-400 zählen, stehen mit ihren modernen Glascockpits im Blickpunkt dieser Arbeit, da sie aufgrund ihrer Größe die umfangreichsten Einsparpotentiale hinsichtlich der Wirtschaftlichkeit bieten. Die Folgerung aus dem oben beschriebenen Ansatz ist eine neue Anzeige für Spannungsparameter und Steuerbefehle im Cockpit, die im Falle der Degradierung des Flight Control Law sicherstellt, daß der Pilot Strukturbelastungen auch bei ma-nueller Flugführung im unkritischen Bereich, also im Belastungsgrenzbereich, hält. Dafür werden bei der Bauteildimensionierung belastete Flugzeugbauteile in zwei Gruppen der Belastung unterteilt: in Bauteile, die kritisch für äußere Einflüsse (z.B. Böen) sind, das heißt, sie sind nicht durch den Piloten beeinflußbar, und in solche, die kritisch für Manöverlasten (z.B. zu starkes Abfangen) sind, das heißt, sie sind durch den Piloten beeinflußbar. Die Bauteile, die kritisch bezüglich der Manöverla-sten sind, haben eine Sicherheitsmarge, die für die Ultimate Load reduziert werden kann. Für diese Bauteile wird in dieser Arbeit eine neue Bauteildimensionierungs-kategorie eingeführt. Als Beispiel sei die Belastung des Höhenleitwerks bei einem übermäßig starken Abfangmanöver oder die des Seitenleitwerks bei einem Aus-gleichsmanöver nach einem Triebwerksausfall genannt. Die Umsetzung des neuen Ansatzes ist die Darstellung der neuen Anzeige im Pri-mary Flight Display im Cockpit am Beispiel des Airbus A330/340. Die neue Anzeige wurde durch zwei verschiedene Arten auf Plausibilität geprüft: eine Internetumfrage und Experimente im Cockpit des Airbus A330/340 Full Flight Simulator des Zentrums für Flugsimulation der TU Berlin. Die Ergebnisse der Umfrage und der Experimente im Simulator waren erfolgreich.</dc:description>
+          <dc:date>2002-07-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/364</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3599</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3599</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/364/daser_gunther.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

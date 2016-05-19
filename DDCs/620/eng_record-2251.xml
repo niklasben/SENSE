@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:48Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2251">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2251</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Charakterisierung des Zellmetabolismus bei Fermentationen und biomedizinischen Anwendungen mit Hilfe eines miniaturisierten faseroptischen Fluoreszenzmessaufbaus</dc:title>
+          <dc:title xml:lang="eng">Characterisation of cell metabolism during cultivations and biomedical applications by using a compact fibre optical setup</dc:title>
+          <dc:creator>Klug, Kerris Isolde</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Bisher mangelt es an prozesstauglichen Technologien, mit denen sich der Stoffwechselzustand von Zellen in Echtzeit bestimmen lässt. Eine hierfür geeignete Methode ist die Fluoreszenzspektroskopie. In dieser Arbeit wurden mittels Fluoreszenzspektroskopie während der Kultivierung von Saccharomyces cerevisiae bzw. Escherichia coli die Fluoreszenzintensitäten von NAD(P)H, Flavinen und Porphyrinen online bestimmt. Dafür wurde ein miniaturisierter faseroptischer Aufbau verwendet, der an der Hochschule Mannheim in Zusammenarbeit mit der Versuchs- und Lehranstalt für Brauerei Berlin entwickelt wurde. Da sich je nach Stoffwechselstatus die Fluorophor-Zusammensetzung in der Zelle ändert, ist es anhand von Fluoreszenzmessungen in Echtzeit möglich, Rückschlüsse auf den momentanen metabolischen Zustand der Zelle zu ziehen. In dieser Arbeit konnte gezeigt werden, dass der NAD(P)H-Fluoreszenzverlauf unmittelbar die Stoffwechselaktivität der Zelle widerspiegelt. Der zeitliche Verlauf der Flavinfluoreszenz lässt wahrscheinlich Rückschlüsse zu, ob die Zelle mit genügend Sauerstoff versorgt wird bzw. ob die Kapazität der Atmungskette erschöpft ist. Weiterhin könnte der Verlauf der Porphyrinfluoreszenz mit der Katabolitrepression durch Glucose korrespondieren. Außerdem erfolgen bei wechselnden Umgebungsbedingungen wie pH-Wert- oder Temperaturänderungen deutliche Veränderungen im Verlauf der Porphyrinfluoreszenz. Darüber hinaus ist mit dem verwendeten Aufbau erkennbar, dass sich bei S. cerevisiae die Porphyrinfluoreszenz aus unterschiedlichen Porphyrinen zusammensetzt. Des Weiteren zeigten Untersuchungen an verschiedenen Back- und Bierhefen, dass die Konzentrationsverhältnisse der Fluorophore untereinander durchaus abweichen können. Dies gilt insbesondere, wenn unterschiedliche Mikroorganismen (S. cerevisiae und E. coli) verglichen werden. Darüber hinaus wurde der Fluoreszenzmessaufbau auch bei biomedizinischen Anwendungen wie Fluoreszenzdiagnostik und Photodynamischer Therapie eingesetzt. Messungen bei Patienten mit Aktinischer Keratose sowie an humanen Glioblastomzellen im Mausmodell zeigten, dass der verwendete Aufbau auch für diese Anwendungen geeignet ist. Zusätzlich lassen erste Ergebnisse mit einem an der Hochschule Mannheim entwickelten Fluoreszenz-Mehrkanalsensor erkennen, dass auch dieser zur Bioprozessverfolgung anstelle eines teureren CCD-Spektrometers verwendet werden kann. Neben der Kostenreduktion besitzt dieser Aufbau den Vorteil, unempfindlich für Fremdlicht zu sein. Damit ist ein weiterer Schritt Richtung Anwenderfreundlichkeit getan.</dc:description>
+          <dc:description xml:lang="eng">Suitable methods for online bioprocess monitoring are required but still not common. Fluorescence spectroscopy meets these requirements. In this thesis fluorescence of NAD(P)H, flavins and porphyrins was monitored online during cultivations of Saccharomyces cerevisiae and Escherichia coli using a compact fibre optical setup. The setup was developed by the University of Applied Sciences at Mannheim and the Research and Teaching Institute for Brewing in Berlin, Germany. Since these biofluorophors are involved in metabolism it is possible to monitor metabolic changes immediately by applying online fluorescence spectroscopy. It was demonstrated that NAD(P)H fluorescence reflects metabolic activity of the cell. The time course of flavin fluorescence is probably related to oxygen limitation or respiratory chain overflow. Furthermore the time course of porphyrin fluorescence is presumably affected by glucose repression. Shifts in porphyrin fluorescence were obtained when pH- or temperature related changes were induced during cultivation. In addition, it was found that porphyrin fluorescence of S. cerevisiae consists of several porphyrins. Moreover, comparing microorganisms (S. cerevisiae and E. coli), fluorescence spectroscopy showed differences regarding concentration of the investigated fluorophors, even between several baker’s and brewer’s yeasts. The fibre optical setup was also used for biomedical applications such as fluorescence diagnostics and photodynamic therapy. Experiments were performed with patients suffering from actinic keratosis and with human glioblastoma cells in a mouse model. The findings also proved the usefulness of the developed setup in this field. Finally, a multi-channel fluorescence sensor developed by the University of Applied Sciences at Mannheim was successfully tested on online bioprocess monitoring. First results indicated that the much more expensive CCD-spectrometer is replaceable. Another advantage is the insensitivity to ambient light enhancing user-friendliness.</dc:description>
+          <dc:date>2009-10-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2251</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23611</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23611</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2251/original_klug_kerris.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2251/klug_kerris.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2647">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2647</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Comprehensive assessment of flux enhancers in membrane bioreactors for wastewater treatment</dc:title>
+          <dc:creator>Iversen, Vera</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Membrane bioreactors (MBR) combine the activated sludge process with a membrane separation unit for biomass retention. Main advantages of MBR over conventional wastewater treatment plants are a smaller footprint due to higher biomass concentration and the absence of a clarifier, but also the production of a high quality effluent. Nevertheless, membrane fouling still is an obstacle for the economical operation of MBR systems. One promising strategy to reduce this fouling in MBR is to modify the sludge filtration characteristics by the addition of flocculants or adsorbents. Within the scope of this work 30 different chemicals were screened with regards to their potential for flux enhancement in MBR. Their impact on SMP (soluble microbial products) removal, particle size distribution and fouling propensity of the sludge was considered, but also their impact on the microorganisms (nutrient removal and respiration) and optimum concentrations were studied. The most promising chemicals were investigated in long-term trials in two identical parallel pilot MBR (1.6 m³ and 22 m² membrane module each) fed on real municipal sewage. While flocculants were dosed into one system, the other served as a reference. Especially the synthetic polymers showed a high potential – in lab tests as well as in long-time pilot trials – as flux enhancers. However, their usage is limited by several patents. Metal salts might be an economic choice but can cause disturbances of the biomass. Also strong dosing effects (over- and underdosing) were observed. When adding a starch to a membrane system it must always be considered that as being a polysaccharide itself it is strongly suspect of causing fouling in the system. This was also observed in the pilot trials. As the starch was not bound to the flocs it permeated through the membrane and caused fouling. While chitosan strongly reduced the SMP concentration in mixed liquor supernatant and showed the best floc enlargement, the results of cross flow test cell trials showed no improvement of the apparent critical flux. Also the relatively high price of this product limits its application. For a conclusive rating of this substance further tests would be necessary. Activated carbon has been reported in literature for its positive effects on filtration. While synthetic polymers and starch mainly eliminated large molecular weight substances, the tested activated carbons were able to remove the whole range of molecular weight compounds. For activated carbons the activation method (physically or chemically) should be considered as it strongly influences the price. Also residuals from chemical activation were found to negatively impact the biomass in own trials. Commonly used shaker or jar tests are an efficient and quick tool to determine the optimum additive concentration. Several parameters such as SMP or TOC removal in supernatant or quick filterability or dewaterability tests can be used for an assessment. Interestingly, the optimum concentration in terms of SMP removal was also found to be the optimum for the cross flow test cell trials in all but one case. Nevertheless, long-term matrix effects can only be evaluated in pilot trials. Own studies showed that the lab-test results overestimate the effects of flux enhancers. Even elaborate test cell trials did not predict the filtration trends within the pilot plant rightly. E.g. the starch showed promising results in test cell trials, but was washed out and accelerated fouling in the pilot plant. Due to the broad range of tested substances and experimental set-ups used within this work the operating conditions (addition and mixing of the additives, mixed liquor properties such as MLSS concentration, pH, etc.) were not optimized for single substances and varied between the different experiments. Nevertheless, a comparable assessment would otherwise not have been possible. The different results in small- and pilot-scale might possibly be caused by these different conditions. Further research in these fields, especially in effective mixing methods for the activated sludge/additive system in larger scale is necessary.</dc:description>
+          <dc:date>2010-10-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2647</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27249</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27249</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2647/iversen_vera.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

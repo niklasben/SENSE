@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:20Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2385">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2385</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Profil zeigen: Gründerinnen und Gründer der TU Berlin</dc:title>
+          <dc:creator>TU Berlin, Berlin, Gründungsservice (Hg.)</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">An der TU Berlin wird nicht nur gelehrt und geforscht, sondern auch erfolgreich gegründet. Mit dieser Ausstellung möchten wir die Vielfalt der Gründerpersönlichkeiten, der gegründeten Unternehmen und der Wege zur Gründung aufzeigen. Wir laden Sie herzlich ein, sich mit dem Thema Gründung auseinanderzusetzen und sich Ihr eigenes, vielleicht neues Bild von den Unternehmerinnen und Unternehmern der TU Berlin zu machen. Gedruckte Version im Verlag erschienen: Diverse Dinge(www.diverse-dinge.de)</dc:description>
+          <dc:contributor>Sponsoren: a2facility management GmbH, Berliner Volksbank,IBB, IHK, ORCO-GSG, TCC</dc:contributor>
+          <dc:date>2010-01-07</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2385</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-24710</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-24710</dc:identifier>
+          <dc:identifier>978-3-931979-01-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2385/Endfassung_Profil_zeigen_1.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

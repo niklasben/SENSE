@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2912">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2912</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Efficient Session-based Multimedia Content Delivery in Next Generation Networks</dc:title>
+          <dc:title xml:lang="deu">Effiziente Session-basierte Übertragung der Multimediainhalten in Next Generation Networks</dc:title>
+          <dc:creator>Al-Hezmi, Adel</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="eng">The demand for various multimedia services over the Internet and Next Generation Networks (NGN) has been increasing rapidly and made feasible through the rapid advances in broadband networking technology. The NGN is the evolution of the classical telecommunications network defined by the ITU-T and ETSI TISPAN as an IP-based network architecture following the layered approach and with support of guaranteed service delivery. There are two main challenges for efficient multimedia content delivery in the NGN. First, there is a lack of mechanisms to support the delivery of multimedia content according to user context and preferences from multiple sources to a large number of end-users over various communication channels. Second, multimedia streaming in NGN is based on several signaling and transport protocols each of which has several functions and related methods - the challenge here is to determine the optimal blend of protocols and the specific methods to use for efficient multimedia delivery. This essentially means that the most efficient interaction models for multimedia content delivery are those that can effectively minimize use of network resources. This thesis addresses both of these challenges. To address the first challenge, this work proposes a methodology to integrate a user-centric multi-domain architecture that orchestrates amongst several players. The EffiCient SessiOn-baSed MultImedia Content (COSMIC) delivery methodology is proposed for the NGN environment that enables smooth interaction between the content provider, the service provider, the network operator and the users. To address the second challenge, this thesis develops a formalized model of NGN streaming protocols, in particular the Session Initiation Protocol (SIP) and its associated interaction models. In order to achieve this, several models associated with different multimedia scenarios are evaluated and analyzed to enable us to understand the impact on the NGN and provide guidelines for selecting the appropriate interaction models when developing carrier grade multimedia applications. The contribution of this research is fourfold: First, the analysis of existing multimedia content delivery approaches in terms of efficiency; Second, the classification of multimedia content delivery approaches and the associated interaction models; Third, the design of a reference architecture for efficient multimedia content delivery in the NGN environment; Fourth, a prototype implementation of the major components of the reference architecture together with its validation.</dc:description>
+          <dc:description xml:lang="deu">Der ständige Anstieg der Nachfrage nach Multimediainhalten zeigt, dass die Evolution des Next Generation Network (NGN) weitgehend von den Anforderungen der Übertragung der Multimediainhalten angetrieben werden wird. Das NGN ist die Evolution des klassischen Telekomnetzes, die von der ITU-T und ETSI TISPAN als IP-basiertes Netzwerk in einem mehrschichtigen Ansatz und mit Unterstützung von QoS definiert wurde: Es gibt zwei wesentliche Herausforderungen für eine effiziente Übertragung von Multimediainhalten in NGN. Zum einen fehlen Mechanismen zur Verteilung von Multimediainhalten von verschiedenen Quellen zu einer großen Anzahl von Endnutzern über verschiedene Kommunikationskanäle. Zum anderen wird Multimedia-Streaming in NGN durch mehrere Signalisierungs-und Transportprotokollen ermöglicht, von denen jede mehrere Funktionen und verschiedene Methoden haben kann. Die Herausforderung besteht darin, für eine effiziente Übertragung die optimale Kombination aus Protokollen und spezifischen Methoden zu finden. Beide genannten Herausforderungen werden in dieser Arbeit behandelt. Als Resultat ist ein Session-basiertes Inhaltsübertragungsprinzip (COSMIC) hervorgegangen. Zum einen löst COSMIC die Bereitstellung der Multimediainhalte über verschiedene Domänendurch ein integratives Referenzmodell, das die Inhaltsanbieter, die Dienstanbieter und die Netzbetreiber in den Dienstleistungsvorgang einbezieht. Zum anderen werden die Interaktionen zwischen den NGN Komponenten effizient gestaltet. Hierfür wurden unterschiedliche Multimedia-Szenarien analysiert und anhand der Nutzung der Netzwerkressourcen ausgewertet. Hervorgegangen ist ein formalisiertes Modell der NGN Streaming-Protokolle, das als Grundlage das Session Initiation Protocol (SIP) hat und Richtlinien für die Auswahl der geeigneten Interaktionsmodelle bei der Entwicklung von Multimediaanwendungen für ein Carrier-Grade-Netzwerk bereitstellt. Diese Arbeit hat vier Hauptbeiträge geleistet: Erstens, die Analyse der vorhandenen Ansätze für die Übertragung von Multimediainhalten hinsichtlich Effizienz; Zweitens, die Klassifizierung der Übertragung von Multimediainhalten und die damit verbundenen Interaktionsmodelle; Drittens das Design einer generischen Referenzarchitektur für eine effiziente Übertragung von Multimediainhalten im NGN Umfeld; Zuletzt, eine prototypische Realisierung der beschriebenen Hauptkomponenten der Referenzarchitektur, die im Zusammenhang mit verschiedenen Szenarien validiert wurden.</dc:description>
+          <dc:date>2011-06-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2912</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30779</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30779</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2912/alhezmi_adel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

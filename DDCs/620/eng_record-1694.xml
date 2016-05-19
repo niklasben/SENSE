@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:09Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1694">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1694</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Eine rechnerintegrierte Methode zur Produktkonzeption</dc:title>
+          <dc:title xml:lang="eng">A computer-integrated method for a conceptual design</dc:title>
+          <dc:creator>Ragan, Zbigniew</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird ein neuartiges Konzept vorgestellt, das alle notwendigen Aktivitäten für den Aufbau eines Produktmodells, für die Konzipierung eines neuen Produkts oder einer Produktanpassung sowie die Einführung und Pflege der rechnerintegrierten Methode beschreibt. Hierzu wird, basierend auf der Analyse der wissenschaftlichen Ansätze aus dem Bereich der Produktentwicklung und der derzeitigen Situation auf diesem Gebiet in kleinen und mittelständischen Unternehmen (KMU), die Notwendigkeit der Erarbeitung einer Methode zur rechnerintegrierten Konzipierung abgeleitet. Aus den abgeleiteten Zielen wird im Hauptteil dieser Arbeit die Methode selbst gestaltet. Der Anwendungsbereich des hier beschriebenen Ansatzes liegt in der methodischen Unterstützung der auftragsbasierten Produktentwicklung in KMU bei der Einzel- und Kleinserienfertigung sowohl von Maschinen als auch von Gebrauchsgütern. Die prototypische Implementierung eines innovativen Softwaresystems zur Erfassung und Definierung von Produktanforderungen, -funktionen und Funktionsträgern sowie ausgewählte industrielle Beispiele dienen der Konzeptevaluierung.</dc:description>
+          <dc:description xml:lang="eng">In this thesis, a novel concept is introduced which describes all the necessary activities for the creation of a product model, for the conceptual design of a new product or a product adaptation as well as the introduction and maintenance of the computer integrated method. Based on an analysis of the scientific approaches of product development and the current situation in this field in small and middle enterprises (SME), the need to formulate a method for computer integrated conceptual design is derived. The method itself is designed around the derived goals in the main part of the thesis. The application scope of the approaches described lies within the methodical support of order-based product development in SME, in the make-to-order and small batch production on the one hand, as well as of machines and consumer goods on the other. The prototypical implementation of an innovative software system for the acquisition and definition of product requirements, functions and function owners as well as selected industrial examples provide the basis for a concept evaluation.</dc:description>
+          <dc:date>2008-02-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1694</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17849</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17849</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1694/ragan_zbigniew.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

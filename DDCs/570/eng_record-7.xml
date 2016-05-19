@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:7">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:7</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Das motorische System der Bienenantenne</dc:title>
+          <dc:creator>Faensen, Daniel</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="deu">Die Antennen der Honigbiene dienen der Wahrnehmung multimodaler Sinneseindrücke und zur Kommunikation mit Nestgenossinnen. Bewegungen der Antennen sind für Kommunikation wie Sinneswahrnehmung unabdingbar. Ziel der vorliegenden Arbeit war es, Lücken der Erkenntnis über den Bewegungsapparat zu schließen. Die Antennen werden bei der Biene nahezu ununterbrochen in einem scheinbar "chaotischen" Rhythmus bewegt. Durch den Einsatz von Frequenzanalysen wurde erstmalig die Dynamik der Antennenbewegung quantitativ untersucht. Dabei konnte gezeigt werden, daß keine prominenten Spitzen in den Spektren auftreten. Stattdessen liegt ein breitbandiges Rauschen vor mit einem Frequenzgang, der dem eines Tiefpaßfilters erster Ordnung ähnelt (Rauschen gleichbleibender Amplitude bis zu einer Eckfrequenz f(index c), dann Abfall mit deutlicher 1/f-Charakteristik. Hochgeschwindigkeitsaufnahmen der Antennenbewegung zeigen, daß auch im Bereich zwischen 10 und 100 Hz keine dominanten Frequenzen auftreten. Die Reizung eines Tieres mit Saccharoselösung führt zu antennalen Reaktionen. Diese äußern sich im Frequenzspektrum durch Reduktion der Amplitude im niederfrequenten Bereich und relative Betonung von Frequenzen zwischen etwa 5 und 10 Hz. Dies könnte einer Optimierung der Duftwahrnehmung dienen. Die Vermutung, der Saccharoseeffekt würde durch biogene Amine, die mit dem Erregungszustand der Biene in Zusammenhang gebracht werden (Serotonin und Octopamin), vermittelt, wurde durch lokale Injektionen dieser Substanzen in das antennomotorische Zentrum (Dorsallobus) untersucht. Es konnten jedoch keine Effekte auf das Frequenzspektrum nachgewiesen werden. Mögliche Ursachen werden diskutiert. Durch simultane Elektromyogramme der Antennenmuskulatur und Aufzeichnung der Antennenbewegung konnten die Zusammenhänge zwischen der Aktivität der sechs Muskeln des Bewegungsapparates und der Bewegung quantifiziert werden. Es wurden Näherungsfunktionen zur Berechnung der resultierenden Bewegungsgeschwindigkeit durch einzelne Muskelpotentiale ermittelt. Die Antennen lassen sich operant konditionieren. Durch Belohnung einer hohen Aktivität des Motoneurons, das den schnellen Teil des Flexors innerviert, steigt die mittlere Aktionspotentialfrequenz dieses Neurons signifikant an. Im Rahmen dieser Arbeit wurden die Muster der Aktionspotentialfolgen und der Einfluß der Konditionierung auf diese untersucht. Die Ergebnisse weisen darauf hin, daß die motoneurale Aktivität stochastisch generiert wird. Auch nach der Konditionierung sind keine Regelmäßigkeiten zu beobachten. Der Effekt der Konditionierung liegt demnach in einer generellen Erhöhung der Häufigkeit von Aktionspotentialen, ohne daß das motorische Muster beeinflußt wird. Aus den experimentellen Ergebnissen wurde ein Modell des Bewegungsapparates der Honigbiene gebildet und in Simulationsmodellen auf seine Validität geprüft.</dc:description>
+          <dc:date>2000-05-03</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/7</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-118</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-118</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/7/faensen_daniel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

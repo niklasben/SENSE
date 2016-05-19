@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:22Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2610">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2610</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:570</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Development and operation of a perfusion bioreactor for the cultivation of mammalian cells inside a sponge-like ceramic matrix</dc:title>
+          <dc:title xml:lang="deu">Entwicklung und Betrieb eines Perfusions-Bioreaktors zur Kultivierung tierischer Zellen in einer keramischen Schwammstruktur</dc:title>
+          <dc:creator>Goralczyk, Vicky</dc:creator>
+          <dc:subject>ddc:570</dc:subject>
+          <dc:description xml:lang="eng">Cultivation of adherently growing cells inside three dimensional scaffolds gains more importance as speci�?c demands from medicine and industry arise. A huge challenge herein lies in nutrient supply all over the scaffold’s volume. This work presents a perfusion bioreactor device for cell cultivation inside porous aluminium oxide ceramics. The bioreactor supports vital growth of CHO-K1, A549, MDCK and human primary �?broblasts on and in ceramic cylinders of 5 mm height and 10 mm diameter with perfusion velocities from 0.33-0.66 ml min−1 cm−2. Proliferation was assured by a metabolic assay based on resazurin reduction and carbon content analysis. Cell distribution and vitality was assessed by staining cross sections of the ceramic. Fibrous structures were observed inside ceramic scaffolds for perfusion cultivation of CHO-K1 and human primary �?broblasts for several weeks by evaluation of scanning electron microscopy pictures. This clearly supports the hypothesis of micro milieu for- mation inside porous ceramics and consequently abundance of ECM-proteins. Perfusion therefore enables three-dimensional cell cultivation inside porous alumina ceramics.</dc:description>
+          <dc:description xml:lang="deu">Mit steigenden Anforderungen aus Medizin und industrieller Wertstoﬀherstellung gewinnt die Kultivierung tierischer Zellen in dreidimensionalen Verbünden zunehmend an Bedeutung. Die Versorgung von im Inneren der Strukturen wachsenden Zellen stellt hierbei besondere Ansprüche an die Kultivierungstechniken. Die vorliegende Arbeit beschreibt Entwicklung und Betrieb eines Perfusionsbioreaktors, in dem adhärent wachsende Zellen in einer porösen Aluminiumoxid-Keramik kultiviert werden. In zylinderförmigen Gerüsten mit 10 mm Durchmesser und 5 mm Höhe konnte das Wachstum von CHO-K1, A549, MDCK und primären humanen Fibroblasten gezeigt werden, wobei Wachstum über die metabolische Reduktion von Resazurin und Masse elementaren Kohlenstoffs, Zellverteilung und -vitalität über Schnittfärbungen nachgewiesen wurden. Überdies wurden in den Poren der Keramiken mittels Rasterlektronenmikroskopie proteinartige Strukturen gefunden, die den Schluss nahelegen, dass CHO-K1 und Fibroblasten Proteine der extrazellulären Matrix sezernieren. Anzunehmen ist, dass sich wegen der geringen Strömungsgeschwindigkeiten von 0.33-0.66 ml min−1 cm−2 und damit stark diffusionsgeprägter Nährstoffversorgung eine für das Zellwachstum besonders günstige Mikroumgebung ausbildet. Durchströmte Aluminumoxid-Keramiken sind daher bestens geeignet für die Kultivierung tierischer Zellen unter naturähnlichen Bedingungen.</dc:description>
+          <dc:date>2010-09-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2610</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27565</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27565</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2610/goralczyk_vicky.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

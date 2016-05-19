@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3610">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3610</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">MIAC: Methodology for Intelligent Agents Componentware</dc:title>
+          <dc:title xml:lang="deu">MIAC: Methodologie für Intelligente Agenten-Componentware</dc:title>
+          <dc:creator>Heßler, Axel</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The DAI-Labor at Technische Universität Berlin has concerned itself with Agent-Orientation for more than 15 years. Numerous projects have studied the application of the Agent-Oriented Programming paradigm to real-world problems in diverse application areas such as automotive, entertainment, production control, connected living, office and software engineering (as applying research results on the field itself). Distributed artificial intelligence and agent technology promise to be the key factors to engineering large-scale, distributed and complex software systems and services. They make it easy to understand large problem fields, and provide means to their solution, based on natural, plain and intelligible metaphors. This thesis integrates three keystones of Agent-Oriented Software Engineering: an agent-oriented framework, the agent-oriented methodology, and an agent-oriented and agent-based tool suite. The result is submitted to an iterative and incremental process itself in order to streamline these building blocks for fast and efficient development of agent-based applications and services. The outcome of this thesis are products that have been developed, applied and evaluated in projects together with students of the TU Berlin, other Competence Centers of the DAI-Labor and also with partners from different industrial sectors. While many agent-oriented methodologies and tools usually reflect theories and laboratory experiments, the framework, methodology and tools presented in this thesis have developed market-ready prototypes and competitive solutions that have also successfully shown their value in different programming contests.</dc:description>
+          <dc:description xml:lang="deu">Das DAI-Labor der Technischen Universität Berlin beschäftigt sich seit über 15 Jahren mit Agentenorientierung. Zahlreiche Projekte haben die Anwendung des agentenorientierten Programmierparadigmas auf reale Probleme in verschiedenen Anwendungsgebieten, wie z.B. dem Automotive-Bereich, der Unterhaltung, der Produktionskontrolle, dem vernetztes Wohnen, dem Büro, und der Softwaretechnik (als Anwendung auf sich selbst), untersucht. Verteilte künstliche Intelligenz und Agententechnologien sind die Schlüssel für ingenieurmäßige Entwicklung von großen, komplexen und verteilten Softwaresystemen und Diensten. Sie vereinfachen das Verständnis unübersichtlicher Probleme, stellen Hilfsmittel zu deren Lösung bereit, und fußen dabei auf natürlichen, einfachen und verständlichen Metaphern. Diese Arbeit integriert drei Grundpfeiler der agentenorientierten Softwareentwicklung: ein agentenorientiertes Rahmenwerk, eine agentenorientierte Methodologie und einen agentenorientierten und agentenbasierten Werkzeugkasten. Das Resultat wird selbst einem interativen und inkrementellen Prozess unterworfen, um diese Bausteine für die schnelle und effiziente Entwicklung von agentenbasierten Anwendungen und Diensten so rationell wie möglich zu gestalten. Die Ergebnisse dieser Arbeit sind Produkte, die in Zusammenarbeit mit Studenten der TU Berlin, anderen Kompetenzzentren des DAI-Labors und mit Partnern aus unterschiedlichen Industriebereichen entwickelt wurden. Normalerweise reflektieren agentenorientierte Methodologien und Werkzeuge theoretische Arbeiten oder Laborexperimente. Mit dem Rahmenwerk, der Methodologie und den Werkzeugen, die in dieser Arbeit vorgestellt werden, wurden bereits produktnahe Prototypen entwickelt, und sie haben ihre Leistungsfähigkeit in verschiedenen Programmierwettbewerben erfolgreich gezeigt.</dc:description>
+          <dc:date>2013-02-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3610</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38295</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38295</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3610/hessler_axel.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

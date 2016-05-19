@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:02Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:411">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:411</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Entwurf und Simulation von Makromodellen zur transienten Simulation von thermo-elektrischen Kopplungen in einem Netzwerksimulator</dc:title>
+          <dc:title xml:lang="eng">Design and simulation of transient thermo-electric coupling with macro models in a network simulator</dc:title>
+          <dc:creator>Schacht, Ralph Karl Benjamin</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird eine Methode vorgestellt, welche die Beschreibung und Si-mulation von thermo-elektrischen Kopplungen während des Design-Prozesses mittels Mak-romodellierung unterstützt. Das Makromodell ist für den Einsatz in dem Schaltungssimulator PSpice zugeschnitten. Es ermöglicht die rechenzeiteffiziente transiente Simulation zwischen thermo-elektrisch gekoppelten Komponenten eines komplexen Mikrosystems. Im Rahmen dieser Arbeit wurde zunächst eine für die Problemstellung geeignete Systembe-schreibung diskutiert und ausgewählt. Hierbei stellten sich Makromodelle zur Systembe-schreibung thermo-elektrischer Kopplungen als am geeignetsten heraus. Das thermische Sys-temverhalten lässt sich, bezüglich des Simulationsaufwands, am effektivsten durch ein Black-box-Modell beschreiben, während sich das elektrische Verhalten am günstigsten durch ein Glassbox-Modell abbilden lässt. Für die Modellierung und Simulation des thermischen und elektrischen Systemverhaltens wurde aus der Notwendigkeit, das elektrische Verhalten in Abhängigkeit von dem transienten thermischen Verhalten des Aufbaus zu untersuchen, ein Schaltungssimulator verwendet, der die Makromodellierung mittels konzentrierter Bibliothekselemente unterstützt. Das in dieser Arbeit vorgestellte Verfahren zur Blackbox-Makromodellbeschreibung stützt sich auf die transienten Simulationsergebnisse eines thermischen Mikromodells. Ein Feldsi-mulator berechnet, in Abhängigkeit von den Materialeigenschaften nach den jeweils vorgege-benen äußeren Randbedingungen, die Temperaturverteilungen bzw. den transienten Wärme-fluss des Mikromodells. Von den gewonnenen Simulationsergebnissen werden nur noch die transienten Temperaturverläufe in einem vorher definierten Ort zur weiteren Modellierung weiterverarbeitet. Der Vorteil des Verfahrens ist, dass die Lösungen der partiellen Differenti-algleichungen des Feldsimulators in ein System von gewöhnlichen Differentialgleichungen überführt werden und somit für die Beschreibung des thermischen Übertragungsverhaltens im Zeitbereich zur Verfügung stehen. Unter Berücksichtigung systemtheoretischer Grundlagen wird das thermische Übertragungsverhalten mittels einer Funktionsapproximation in ein Blackbox-Makromodell überführt. Der Hauptvorteil des Verfahrens liegt darin, dass die Simulation des thermischen Verhaltens sich nicht mehr nur auf Teilbereiche wie beim Feldsimulator beschränken muss, sondern durch Verwendung von kompakten Makromodellen eines Netzwerksimulators eine rechen-zeiteffiziente Untersuchung des Systems als Ganzes möglich macht. Das vorgestellte Verfahren wurde exemplarisch an einem IGBT-Modul erprobt, das in einem 3-Phasen-Wechselrichter in Brückenschaltung betrieben wird. Die vorliegende Arbeit zeigt die Systematik zur Modellierung und transienten Simulation von thermo-elektrischen Kopplungen. Es zeigte sich zudem, dass mit dem vorgestellten Ansatz nicht nur thermische Ausgleichsprozesse beschrieben werden können, sondern diese sich auch auf andere physikalische Größen anwenden lassen, was das Verfahren auch für einen erwei-terten Anwendungsbereich zur transienten Simulation nutzbar macht.</dc:description>
+          <dc:description xml:lang="eng">A method is presented for the coupled thermo-electric description and simulation by macro modelling for the design of microsystems. The macro model is tailored for the transient simu-lation in a circuit simulator. This method enables the simulation of the entire microsystem. The advantage is, in contrast to the simulation in a field simulator, that the simulation of the thermal behaviour is not longer restricted to substructures. The macro models allow an efficient simulation of the entire mi-crosystem at the level of a circuit simulator. Different modelling approaches are compared and their numerical performance is studied. The thesis describes the electrical and thermal modelling procedures and applies the method to the design of a power module consisting of IGBTs.</dc:description>
+          <dc:date>2002-09-05</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/411</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4067</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4067</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/411/schacht_ralph.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

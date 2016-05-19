@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:403">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:403</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zerstörungsfreie Gleitsystemanalyse an der einkristallinen Hochtemperaturlegierung SC16 bei mittlerer Orientierung der Zugachse</dc:title>
+          <dc:creator>Geburtig, Anja</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Die Oberflächen von einkristallinen SC16-Proben quadratischen Querschnitts werden im Anschluss an eine Zugbelastung nach Gleitspuren durchsucht, um aus Verlauf und Höhenstufung sowie der Kenntnis der Kristallorientierung in der Probe die aktivierten Gleitsysteme zu bestimmen. Die Proben mit mittiger Orientierung der Zugachse werden mehrfach bis maximal etwa 0,2 % plastischer Restdehnung verformt. Für die Topografie-Untersuchungen findet die Weißlicht-Interferenz-Mikroskopie Anwendung, die die Höhenbestimmung durch Auffinden der Kontrastmaxima der räumlich entstehenden Interferogramme in Form eines Höhenscans für alle OF-Punkte gleichzeitig, aber voneinander unabhängig ermöglicht. Im Wesentlichen ist die Verformung bei den untersuchten Proben auf je ein Gleitsystem konzentriert. Für eine Probe können Spuren weiterer aktivierter Gleitsysteme nachgewiesen werden. Die topografische Gleitsystemanalyse ermöglicht im Rahmen der diskutierten Fehlertoleranzen eine eindeutige Identifizierung der aktiven Gleitsysteme. Bei allen untersuchten Proben lag Oktaedergleiten vom Typ {111} &lt;101&gt; vor. Die nachgewiesenen Gleitsysteme stimmen mit dem Schmidschen Schubspannungsgesetz überein. Der Vergleich mit den Dehnungswerten eines Extensometers zeigt, dass bei der Raumtemperatur-Belastung die Verformung so stark auf einzelnen Ebenenbündeln der primären Gleitsysteme lokalisiert ist, dass die gesamte inelastische Verformung topografisch nachgewiesen werden kann. Zwischen der Breite der Gleitbänder und der jeweiligen Abgleitung besteht probenübergreifend ein linearer Zusammenhang. Im statistischen Mittel gleitet nur aller drei Netzebenen ein Burgersvektor ab.</dc:description>
+          <dc:description xml:lang="eng">The surfaces of single crystal square sectioned SC16 specimens are investigated for slip traces in sequence of an uni-axial loading to determine the activated slip systems from angles and height steps involving the crystal orientation of the specimen/sample. The specimens with a middle orientation of the loading axis several times are deformed with a maximum inelastic elongation of about 0.2 %. For the topographic investigations White Light Interference Microscopy is used, allowing a height determination of all surface points by means of a single height scan simultaneous but independent of each other. At the examined specimens the deformation essentially is concentrated in respectively one slip system. For one specimen traces of an other activated slip system are proved. The topographic slip system analysis enables an unambiguous identification of octahedral slip systems correlating to the ranking of the Schmid factors. A comparison with strain values of an extensometer shows, that at room temperature full deformation is localized in a few slip plane bundles. Between the widths and the translatory shifts of the single slip traces a linear dependence is showed. In the statistic means at only every third crystal plane one Burgers vector glides off.</dc:description>
+          <dc:date>2002-06-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/403</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-3988</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-3988</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/403/geburtig_anja.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

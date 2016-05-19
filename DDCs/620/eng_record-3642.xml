@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:08Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3642">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3642</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Novel Sustainable Concepts in Process Design and Assessment of Seawater Reverse Osmosis Desalination Pre-treatment</dc:title>
+          <dc:title xml:lang="deu">Nachhaltiges Prozess-Design für die Vorbehandlung bei der Meerwasserentsalzung </dc:title>
+          <dc:creator>Beery, Matan</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Following the growing water stress issue, the world's overall desalination capacity is expected to grow in the near future. Seawater reverse osmosis desalination is the leading technology yet it has a short history of implementation on a large scale. In order for it to become a sustainable water treatment solution it must improve its technological, economic, environmental and social aspects. One of this technology's largest room for improvement is the pre-treatment, the sub-process which guarantees an efficient, low-fouling reverse osmosis membrane desalination. This work focuses on assessing and improving different sustainability aspects of seawater desalination's pre-treatment. The methods used are taken from Process Systems Engineering's work-palette: -Process Synthesis: Conceptualization and testing of new pre-treatment processes -Process Simulation: Enabling computer-aided plant design and prediction -Process Analysis: Evaluation of process related sustainability parameters (life cycle costs, environmental impacts, CO2 footprint) and technological performance (using multivariate statistical analysis) This thesis shows that a computer based process simulation should be the grounds for basic process design of a SWRO pre-treatment at an early stage, giving quick and rough estimates to technical, economic and environmental performance. A life cycle based sustainability assessment should be performed in every specific case after possible design alternatives have been piloted on site. Energy consumption reduction should have a high priority. Through the use of process integration and intensification new promising processes can be conceptualized and tested.</dc:description>
+          <dc:description xml:lang="deu">Die Meerwasserentsalzung gewinnt durch die ansteigende Wasserknappheit weltweit zunehmend an Bedeutung. Die membranbasierte Umkehrosmose ist trotz kurzer Geschichte auf dem Gebiet die führende Technologie in der praktischen Anwendung. Um eine nachhaltige Wasserbehandlung zu gewährleisten müssen die technologischen, ökonomischen, ökologischen und sozialen Aspekte kontinuierlich bewertet und verbessert werden. Einer der größten technologischen Potenziale zur Verbesserung ist die Vorbehandlung. Dieser Teilprozess garantiert eine effiziente, weniger Verschmutzung anfällig Umkehrosmose-Membranfiltration. Die folgende Arbeit konzentriert sich auf die Bewertung und die Verbesserung unterschiedlicher Nachhaltigkeitsaspekte der Meerwasserentsalzungsvorbehandlung. Die angewandten Methoden sind aus dem Instrumentarium des Process-Systems-Engineerings entnommen: -Prozesssynthese: Die Konzeptualisierung und der Aufbau neuer Vorbehandlungsverfahren -Prozesssimulation: Ermöglicht die rechnergestützte Anlagenplanung und Voraussagung -Prozessanalyse: Die Bewertung nachhaltiger Prozessaspekte (Lebenszyklusanalyse, Ökobilanz, CO2-Fußabdruck) und technischer Leistung (Anhand von multivariaten Analysemethoden) Diese Dissertation zeigt, dass eine Computer-basierte Prozess-Simulation die Grundlage für das Basic Design von SWRO-Vorbehandlungssystemen ist und eine schnelle, grobe Einschätzung der technischen, ökonomischen und ökologischen Arbeitsleistung ermöglicht. Eine auf dem Lebenszyklus basierende Nachhaltigkeitsbewertung sollte in jedem Fall angewandt werden, nachdem mögliche Entwurfsmöglichkeiten/Alternativen vor Ort pilotiert worden sind. Die Reduzierung des Energieverbrauchs hat dabei höchste Priorität. Durch die Anwendung der Prozessintegration und -intensivierung können neue vielversprechende nachhaltigere Prozesse entstehen und getestet werden.</dc:description>
+          <dc:date>2013-03-04</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3642</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-38074</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-38074</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3642/beery_matan.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

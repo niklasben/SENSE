@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:52:51Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1859">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1859</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:520</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The spectral energy distribution of polars</dc:title>
+          <dc:title xml:lang="deu">Die spektrale Energieverteilung in AM Herculis Sternen</dc:title>
+          <dc:creator>Vogel, Justus</dc:creator>
+          <dc:subject>ddc:520</dc:subject>
+          <dc:description xml:lang="eng">Magnetic cataclysmic variables, also called AM Her stars or 'polars', are close binaries with mass transfer (accretion), consisting of a late-type main-sequence star (commonly called secondary)and a more massive white dwarf with a strong magnetic field. The late-type star is losing mass to the white dwarf. The overflowing matter firstly follows a ballistic trajectory and is then captured by the magnetic field of the white dwarf and guided along the field lines onto the white dwarf. The released gravitational energy is radiated away in all wavelength ranges from infra-red to X-ray. The observed light of an AM Her system is composed of the contributions from the stellar components and the contributions of the accretion column and the accretion region on the white dwarf. The last two components are not only depending on the actual mass transfer rate but also from the spatial orientation of the magnetic field. Since the white dwarf is locked in synchronous rotation, this leads to emission that varies with orbital phase. The decomposition of the observed light from an AM Her system makes it possible to analyse the different components within this system. This work presents the decomposition for three AM Her stars. For WX LMi the analysis of the white dwarf contribution revealed the system as a progenitor of normal polars. The X-ray emission was decomposed into the contributions of the late-type star and the contribution of the accretion plasma and showed an X-ray active secondary. The contribution of the accretion plasma in X-rays and in the optical could be used to test predictions of accretion models for low accretion rates. For the newly discovered polar 2XMM1312 X-ray and optical observations were analyzed and the system parameters derived. 2XMM1312 is one of a few AM Her systems which exhibit an unusual energy distribution in the X-ray regime. For the AM Her HU Aquarii high-speed photometry was used to redetermine the system parameters with high accuracy. This could be used to measure a significant orbital period decrease. According to the standard model of the AM Her evolution an angular momentum loss and thus a period decrease is expected. It could be shown that the observed period decrease is larger than the predicted period decrease. Possible explanations are discussed. Furthermore a code is presented, which was developed to derive a temperature distribution of the white dwarf surface from observations showing the naked white dwarf.</dc:description>
+          <dc:description xml:lang="deu">Magnetische kataklysmische Veränderliche, nach ihrem Prototypen auch AM Her Sterne genannt, sind enge Doppelsternsysteme mit Materietransfer (Akkretion), bestehend aus einem Hauptreihenstern späten Spektraltyps und einem schwereren Weißen Zwerg mit starkem Magnetfeld. Der Massetransfer findet vom Hauptreihenstern auf den Weißen Zwerg statt. Während die überfließende Materie zuerst einer ballistischen Bahn folgt, wird sie im weiteren Verlauf vom Magnetfeld eingefangen und entlang der Feldlinien auf den Weißen Zwerg geleitet. Die dabei freigesetzte Gravitationsenergie wird in Wellenlängenbereichen vom Infraroten bis zum Röntgen abgestrahlt. Das beobachtbare Licht eines AM Her Sternes ist zusammengesetzt aus dem Licht der beiden Sternkomponenten und der in der Akkretionssäule und der Akkretionsregion auf dem Weißen Zwerg freigesetzen Strahlung. Die Beiträge der beiden letzteren Strahlungskomponenten sind nicht nur von der aktuellen Akkretionsrate abhängig, sondern auch von der räumlichen Orientierung des Magnetfeldes. Da das Magnetfeld mit dem Weißen Zwerg rotiert und dieser synchron mit dem Doppelsternsystem, führt dies gewöhnlich zu einer starken Veränderung des beobachtbaren Lichtes während einer Umdrehung des Doppelsternsystems. Die Zerlegung des beobachtbaren Lichtes in die Bestandteile der verschiedenen Komponenten ermöglicht dem Beobachter die einzelnen Komponenten dieses Systems zu analysieren. In dieser Arbeit wird genau diese Zerlegung für drei AM Her Sterne vorgenommen. Für WX LMi konnte durch die Analyse der Beiträge des Weißen Zwerges gezeigt werden, daß dieses Doppelsternsystem ein Vorläufer eines normalen AM Her Sternes ist. Der Röntgenbeitrag konnte in die Beiträge des Hauptreihensternes und des Akkretionsplasmas zerlegt werden und offenbarte einen röntgenaktiven Hauptreihenstern. Der Beitrag des Akkretionsplasmas im Röntgen und im Optischen diente der Überprüfung aktueller Akkretionsmodelle für geringe Akkretionsraten. Für den neu entdeckten AM Her Stern 2XMM1312 wurden erstmalig optische und Röntgenbeobachtungen analysiert und daraus die Parameter des Systems bestimmt. 2XMM1312 zeigte sich als einer der wenigen AM Her Sterne mit einer ungewöhnlichen Energieverteilung im Röntgenbereich. Für das AM Her System HU Aquarii wurden aus optischen hoch zeitaufgelösten Beobachtungen die Parameter des Systems mit hoher Genauigkeit neu bestimmt. Dies ermöglichte im weiteren ein Absinken der Orbitalperiode des Doppelsternsystems nachzuweisen. Es konnte gezeigt werden, daß dieses Absinken wesentlich stärker ist, als man es nach den Standardmodellen für die zeitliche Entwicklung von AM Her Sternen anhand des Drehimpulsverlustes erwartet. Mögliche andere Erklärungen werden diskutiert. Es wird weiterhin ein Programm vorgestellt , welches entwickelt wurde, um aus dem bereits separierten Beitrag des Weißen Zwerges eine Temperaturverteilung auf seiner Oberfläche zu bestimmen.</dc:description>
+          <dc:date>2008-08-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1859</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-19687</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-19687</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1859/original_vogel_justus_quelltext.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1859/vogel_justus.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

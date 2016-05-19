@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4096">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4096</identifier>
+        <datestamp>2013-08-28</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Vesicles interacting with nanoparticles</dc:title>
+          <dc:title xml:lang="deu">Vesikel-Interaktion mit Nanopartikeln</dc:title>
+          <dc:creator>Bahrami, Amirhoushang</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">In this dissertation, we study the interactions of vesicle membranes with nanoparticles of different shapes. The wrapping and internalization of nanoparticles by biomembranes plays a critical role in drug delivery applications and nanomedicine. &#13;
+&#13;
+We begin with a single spherical particle adsorbed on a vesicle and solve the shape equations for rotationally symmetric vesicles to investigate the wrapping of the particle by the vesicle. These shape equations are based on the Helfrich bending energy of the vesicle membrane. We predict different regimes for partial and full wrapping of the nanoparticle and relate the wrapping transition and its energy barrier to the reduced volume of the vesicle and the relative size of the vesicle and particle. &#13;
+&#13;
+We next study the cooperative wrapping of several spherical nanoparticles using simulated annealing Monte Carlo simulations of triangulated vesicles. We report novel tubular membrane structures induced by the nanoparticles, which we obtain from energy minimization. The membrane tubules enclose linear aggregates of particles and protrude into the vesicles. The high stability of the particle-filled tubules implies strongly attractive, membrane-mediated interactions between the particles. The tubular structures may provide a new route to encapsulate nanoparticles reversibly in vesicles.&#13;
+&#13;
+With this simulation method, we also investigate the role of the membrane curvature on the membrane-mediated interactions between adsorbed nanoparticles. We consider two different types of Janus nanoparticles, which both can only be partially wrapped by the vesicle. We report attractive interactions between two particles adsorbed to the outside of the vesicle, but repulsive interactions between particles that are adsorbed to the inside of the vesicle. &#13;
+&#13;
+Finally, we study the wrapping of single ellipsoidal nanoparticles by a vesicle via simulated annealing Monte Carlo simulations. We report two distinct regimes of spreading and internalization, which are separated by an energy barrier, and relate the success or failure of the internalization to the particle shape and orientation relative to the vesicle. We observe easier spreading yet more difficult internalization for ellipsoidal particles with lower aspect ratios, which may explain the high virulence of tubular viruses. We find that the wrapping of ellipsoidal particles is associated with an orientation change of the particle. While the spreading starts on the flat side of the ellipsoidal particles, the particle changes its orientation during wrapping, and internalization finally occurs in an orientation in which a tip of the ellipsoidal particles protrudes into the vesicles. &#13;
+</dc:description>
+          <dc:description xml:lang="deu">In dieser Dissertation betrachten wir die Wechselwirkungen von Vesikelmembranen mit Nanoteilchen unterschiedlicher Form. Die Umwickelung und Internalisierung von Nanoteilchen durch Biomembranen spielt eine zentrale Rolle in Medikamentenforschung und Nanomedizin.&#13;
+&#13;
+Wir beginnen mit einem einzelnen kugelförmigen Teilchen, das an einem Vesikel adsorbiert ist, und lösen die Formgleichungen für rotationssymmetrische Vesikelformen um die Umwickelung des Teilchens zu untersuchen. Diese Formgleichungen basieren auf der Helfrichschen Biegeenergie der Vesikelmembranen. Wir erhalten verschiedene Regime für die teilweise und die volle Umwickelung der Teilchen, und setzen die Energiebarriere für den Umwickelungsübergang mit dem reduzierten Volumen des Vesikels und der relativen Größe von Vesikel und Teilchen in Beziehung.&#13;
+&#13;
+Als nächstes untersuchen wir die kooperative Umwickelung mehrerer kugelförmiger Nanoteilchen mit Hilfe von ‘simulated annealing’ Monte-Carlo-Simulationen von triangulierten Vesikeln. Wir finden neuartige tubuläre Membranstrukturen, die durch die Nanoteilchen induziert werden und die Gesamtenergie minimieren. Diese tubulären Strukturen weisen einen neuen Weg, Nanoteilchen reversibel in Vesikeln einzuschließen.&#13;
+&#13;
+Mit dieser Simulationsmethode untersuchen wir auch den Einfluss der Membrankrümmung  auf die membranvermittelten Wechselwirkungen zwischen den adsorbierten Nanoteilchen. Wir betrachten zwei verschiedenen Arten von Janus-Teilchen, die nur teilweise von der Membran umwickelt werden. Wir erhalten attraktive Wechselwirkungen zwischen zwei Teilchen, die außen an ein Vesikel adsorbiert sind, jedoch repulsive Wechselwirkungen zwischen Teilchen, die von Innen an die Vesikelmembran adsorbieren. &#13;
+&#13;
+Schließlich betrachten wir die Umwickelung einzelner ellipsoidaler Nanoteilchen in ‘simulated annealing’ Monte-Carlo-Simulationen. Wir erhalten zwei unterschiedliche Regime von Spreiten und Internalisierung, die durch eine Energiebarriere getrennt sind, and setzen die Höhe dieser Barriere mit der Teilchenform und –orientierung in Beziehung. Wir beobachten einfacheres Spreiten aber erschwerte Internalisierung mit zunehmender Ellipsität der Teilchen. Die Umwickelung der ellipsoidalen Teilchen ist mit einer Orientierungsänderung der Teilchen verbunden. Das Spreiten der Teilchen durch die Vesikelmembran beginnt an den flachen Seiten. Bei forschreitender Umwickelung ändert sich jedoch die Ausrichtung der Teilchen, und die Internalisierung geschieht schließlich in einer Orientierung, in der eine Spitze der ellipsoidalen Teilchen in das Vesikel hineinragt. &#13;
+</dc:description>
+          <dc:date>2013-08-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4096</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40961</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40961</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4096/bahrami_amirhoushang.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

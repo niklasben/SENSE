@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3840">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3840</identifier>
+        <datestamp>2014-05-16</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Nutzenoptimierter RFID-Einsatz in der Logistik :  eine Handlungsempfehlung zur Lokalisierung und Bewertung der Nutzenpotenziale von RFID-Anwendungen</dc:title>
+          <dc:title xml:lang="eng">Benefit optimized Use of RFID in Logistics : A Recommendation for Benefit Localization and Evaluation of RFID Applications</dc:title>
+          <dc:creator>Richter, Markus</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Automatisierte Identifikationstechnologien spielen für effiziente logistische Prozesse eine entscheidende Rolle. Der Begriff "RFID" steht für eine innovative Auto-ID-Technologie, die aufgrund ihrer Leistungsmerkmale in der Logistik seit einigen Jahren für ein besonderes Interesse sorgt. Obwohl viele Entscheidungsträger in der Praxis gut über die technischen Fähigkeiten der RFID-Technologie informiert sind, können sie nur schwer aufzeigen, wo wirtschaftliche Anwendungsfelder des RFID-Einsatzes im eigenen Unternehmen liegen. Dies ist vor allem darauf zurückzuführen, dass für die Abschätzung von Optimierungs-potenzialen nur in ungenügendem Maß geeignete inhaltliche und methodische Hilfestellungen zur Verfügung stehen. Insbesondere mangelt es an systematischem Wissen über die Ursache-Wirkungszusammenhänge der RFID-Nutzengenerierung. An diesem Punkt setzt Markus Richter im Rahmen seiner Dissertation an und präsentiert eine Handlungsempfehlung zur Lokalisierung und Bewertung der Nutzenpotenziale von RFID-Anwendungen. Das Vorgehen wird inhaltlich gestützt durch empirisch fundiertes Beziehungswissen über die technologisch-ökonomischen Ursache-Wirkungszusammenhänge der RFID-Nutzengenerierung - basierend auf einer explorativen Analyse von erfolgreich umgesetzten innovativen Pilot-RFID-Anwendungsfällen in Unternehmen des Handels bzw. Versandhandels, der Automobil- und Automobilzulieferindustrie, der Textil- und Bekleidungsindustrie sowie der Logistikdienstleistung.</dc:description>
+          <dc:description xml:lang="eng">Automated identification technologies play a crucial role for the efficient performance of logistics processes. The term "RFID" stands for an innovative identification technology, which causes a special interest in this respect for some years. Although many decision makers in practice are informed very well about the technical capabilities of RFID technology, they only know to an insufficient degree which areas are suitable for RFID application in their own company from an economic standpoint. This is mainly due to the fact that for the estimation of optimization potentials a methodological assistance is not provided on an appropriate level. Especially the lack of systematic knowledge about the cause-effect relations of RFID benefits for the assessment of potentials is a severe obstacle for the decision-makers. Therefore, a empirical study comprises innovative RFID use cases from the consumer goods industry and sales, the automotive and automotive supplier industry, the textile and clothing industry, the logistics service providers and the semiconductor industry. The reader also receives a structuring guide how to transfer RFID benefits into monetary effects. The approach is based on ideal-type cause-effect chains derived from the empirical findings. Furthermore, a support how to determine the relevant cost of the RFID application is given. On the basis of a value driver model for the quantification of costs and monetary benefits related to the RFID implementation, the RFID-specific value-based calculation is described.</dc:description>
+          <dc:date>2013-03-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3840</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39135</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39135</dc:identifier>
+          <dc:identifier>978-3-7983-2524-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3840/richter_markus.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

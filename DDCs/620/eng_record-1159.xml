@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:49:49Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1159">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1159</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Reduzierung von Zwischenkreiskapazitäten in Frequenzumrichtern für Niederspannungsantriebe</dc:title>
+          <dc:title xml:lang="eng">DC Link Capacitor Reduction in PWM Rectifier/Inverter-Fed Drives</dc:title>
+          <dc:creator>Winkelnkemper, Manfred</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Dissertation behandelt das Thema der Minimierung der Zwischenkreiskapazitäten in dreiphasigen Frequenzumrichtern für Wechselstromantriebe. Die Schwerpunkte der Untersuchungen bilden die Systemanalyse, die mathematische Beschreibung, die Regelung des Frequenzumrichters mit minimierter Zwischenkreiskapazität und die anschliessende Verifikation der theoretischen Ergebnisse am Versuchsstand. Der aktuelle Stand der Technik bei der Minimierung der Zwischenkreiskapazität in Frequenzumrichtern ist ausführlich dargestellt. In der Dissertation ist die Auslegung eines 15kVA Antriebes mit Asynchronmaschine beschrieben. Die Auslegung erfolgt jeweils für einen Frequenzumrichter mit netzseitiger Koppelimpedanz (L) und mit netzseitigem passivem Filter 3. Ordnung (LCL). Die Regelung des Laststromrichters erfolgt mit Hilfe der feldorientierten Regelung (FOC) und die des Netzstromrichters mit Hilfe der spannungsorientierten Regelung (VOC). Die Reglerentwürfe im kontinuierlichen Bereich mittels Frequenzkennlinien-Verfahren und im digitalen Bereich mittels prädiktiver Zustandsmethodik sind ausführlich beschrieben und miteineinander verglichen. Zur Pulsmustergenerierung werden verschiedene Unterschwingungsverfahren und Verfahren der kontinuierlichen und der diskontinuierlichen Raumzeigermodulation verwendet. Die Dissertation enthält eine detaillierte Untersuchung der Einflüsse verschiedener Parameter des Frequenzumrichters wie der Aussteuerung, dem Lastwinkel, der Grundschwingungs-frequenz, der Zwischenkreisspannung, der Schaltfrequenz und des Pulsmusterverfahrens auf den Strom des Zwischenkreiskondensators im stationären Betrieb. Ebenso ausführlich ist der Einfluss der Regelung auf den Kondensatorstrom im transienten Betrieb dargestellt. Es wird zunächst ein linearisiertes Modell verwendet, an dem der Einfluss von Parameterfehlern und Regelerabweichungen auf den Kondensatorstrom untersucht wird. Anschliessend wird das nicht-lineare Modell des eingangs dimensionierte 15kVA Antriebes numerisch untersucht und die Verbindung dieses Modells zum linearisierten Modell hergestellt. Der jeweilige Einfluss eines netzseitigen, passiv bzw. aktiv gedämpften LCL-Filters auf der Netzseite ist beschrieben. Darüberhinaus ist die Wirkung von deterministischen Netzstörungen wie Unsymmetrien und Spannungsharmonische auf die Regelung und auf die Ströme im Zwischenkreis beschrieben. Die Simulationen wurden mit Hilfe der Simulationswerkzeuge MATLAB/Simulink und PLECS durchgeführt. Die Ergebnisse der theoretischen Untersuchungen wurden an einem 15kVA Antrieb verifiziert. Die nach der Minimierung verwendete Zwischenkreiskapazität beträgt 80uF. Die Messergebnisse für den stationären und den transienten Betrieb sind ausführlich dargestellt.</dc:description>
+          <dc:description xml:lang="eng">The thesis presents the investigations on the minimization of the dc link capacitance in three phase rectifier/inverter-fed induction motor drives. The thesis focuses on the analyses, mathematical description, vector control of the pulse width modulated (PWM) rectifier/inverter with minimized dc link capacitor and the experimental verification of the theoretical results. The design of a 15kVA drive with inductive (L) and inductive-capacitive (LCL) line side filter is presented. Field Oriented Control (FOC) and Voltage Oriented Control (VOC) schemes are applied to the PWM inverter and rectifier, respecitvely. A continuous optimum controller as well as a digital predictive state space controller based on a mathematical model of the line power with input filter and induction motor have been synthesized and compared. The thesis investigates several PWM methods; in particular Carrier Based Sinusoidal Modulation (CB-SPWM), Continuous (CSVM) and Discontinuous Space Vector Modulation (DSVM) are discussed. A detailed simulation study regarding the influence of the rectifier-side and the inverter-side currents on the dc link capacitor current under the variation of different variables (i.e. the modulation index, the load angle, the power factor, the first harmonic of output voltage, the dc link voltage, the carrier frequency and the switching pattern) is presented. The impact of the control system on dc link capacitor current is examined via an ideal control system with and without load power feedforward. Also, the influence of the power estimation error, the line side impedance and the converter delay on dc link capacitor current is investigated. The effect of LCL line side filter with passive and active damping on the stabilization of the dc link voltage and PWM rectifier current has been shown. Furthermore, the operation under distorted line voltage (unbalances, harmonics) and its influence on the dc link voltage stabilization is discussed. The simulations of the PWM rectifier/inverter-fed induction motor drive have been carried out using MATLAB/Simulink with PLECS software. Measurement results from the 15kVA PWM rectifier/inverter-fed induction motor drive with a reduced dc link capacitance of 80uF in steady state and transient operations are presented.</dc:description>
+          <dc:date>2005-12-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1159</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-11635</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-11635</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1159/winkelnkemper_manfred.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

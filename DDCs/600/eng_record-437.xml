@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:437">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:437</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:600</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Evaluation multimodaler Computer-Systeme in frühen Entwicklungsphasen : ein empirischer Ansatz zur Ableitung von Gestaltungshinweisen für multimodale Computer-Systeme</dc:title>
+          <dc:title xml:lang="eng">Evaluation of multimodal computer systems in early phases of development</dc:title>
+          <dc:creator>Seifert, Katharina</dc:creator>
+          <dc:subject>ddc:600</dc:subject>
+          <dc:description xml:lang="deu">Die Multimodalität als neuartiges Konzept der Mensch-Maschine-Interaktion steht gegenwärtig im besonderen Interesse der anwendungsorientierten Forschung. Die Erweiterung des Informationsaustausches zwischen Mensch und Computer um verschiedene in der menschlichen Kommunikation gebräuchliche Kanäle erweist sich als ein komplexes Gestaltungsproblem. Nicht allein die schnell zunehmende Menge von Hard- und Softwareentwicklungen, sondern auch die Besonderheiten der Einsatzdomäne und der Benutzer machen die Gestaltung von Systemen mit neuen Interaktionsformen und deren Bewertung zum interdisziplinären Forschungsgegenstand. Die vorliegende Arbeit stellt eine Vorgehensweise vor, die es bereits in sehr frühen Phasen der Systementwicklung solcher neuartigen Computersysteme möglich macht, Designentscheidungen zu treffen und Empfehlungen für die Interaktionsgestaltung abzuleiten sowie erste Evidenzen für zukünftige Anwendungsdomänen zu gewinnen. Damit die Bedeutung einer Systementwicklung für unterschiedliche prototypische Aufgaben empirisch geprüft werden kann, sind Entwicklungsarbeiten zu einem System-Prototypen zu leisten. Dabei können Gestaltungsentscheidungen im Rahmen der Prototypenentwicklung bereits durch empirische Studien unterstützt werden. Dafür werden in dieser Arbeit drei Schritte der Evaluation unterschieden: (1) die explorative Expertenbefragung zum ersten lauffähigen Prototypen, (2) die experimentelle Untersuchung von Gestaltungsalternativen der einzelnen interaktiven Komponenten und (3) die experimentelle Untersuchung des integrierten Systems bezüglich der Unterstützung prototypischer Aufgaben. Am Beispiel einer Prototypenentwicklung mit multimodalen Eingaben und autostereoskopischem Display, die im Projekt mUltimo3D am Heinrich-Hertz-Institut für Nachrichtentechnik Berlin GmbH durchgeführt wurde, wird die empirische Begleitung der Systemgestaltung demonstriert. Neben der Darstellung des neuartigen Konzepts der multimodalen Interaktion sowie unterschiedlicher Modelle der Systementwicklung und -bewertung wird ein benutzungsorientierter Ansatz für die informationstechnologische Grundlagenforschung im Bereich der Mensch-Rechner-Interaktion erläutert, der den Rahmen dieser Arbeit bestimmt. Die Vorstellung des Prototypen mUltimo3D schließt sich an und leitet die Darstellung der empirischen Arbeiten ein. Es werden vier Untersuchungen vorgestellt, die parallel zum Systemgestaltungsprozess durchgeführt wurden und die bei der Auswahl von Gestaltungsalternativen und der Bewertung der Nutzungseigenschaften des Prototypen hilfreich waren. Die erprobte Vorgehenssystematik lässt sich auf ähnliche Forschungs- und Entwicklungsprojekte übertragen und kann zur Erweiterung der empirischen Basis über innovative interaktive Systemkomponenten genutzt werden.</dc:description>
+          <dc:date>2002-11-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/437</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4323</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4323</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/437/seifert_katharina.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

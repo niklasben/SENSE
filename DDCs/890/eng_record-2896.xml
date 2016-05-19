@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:40Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2896">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2896</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:890</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Anderes Denken in der Sowjetunion. Das "Okkulte" als positive Utopie bei Bulgakov.</dc:title>
+          <dc:creator>Hausmann, Christiane</dc:creator>
+          <dc:subject>ddc:890</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Interpretation des Romans von Michail Bulgakov "Der Meister und Margarita" versucht wissenschaftskritisch ein im Roman enthaltenes feedback des Autors auf den Alltag in einer sozialistischen Metropole herauszuarbeiten. Systemübergreifende Bezüge, die sich vor allem an den Anspielungen auf die negativen Auswirkungen der gesellschaftskonstituierenden Sexualmoral und Ethik festmachen lassen, werden hergestellt. Das anvisierte "Okkulte" entpuppt sich dabei überraschend letztendlich als weder unheimliche noch geheimnisvolle Hinwendung des Romanautors zu einer neuen Wertschätzung der Frauen in der Gesellschaft, an der gesellschaftsverändernde Ideologien und Utopien sich messen lassen sollten.</dc:description>
+          <dc:date>2011-05-18</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2896</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30374</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30374</dc:identifier>
+          <dc:identifier>3892285446</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2896/hausmann_scan.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

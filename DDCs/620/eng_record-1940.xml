@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1940">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1940</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Modell zur produkttypenspezifischen Bestimmung der ökologisch optimalen Nutzungsdauer</dc:title>
+          <dc:title xml:lang="eng">Model for product type specific determination of the optimal ecological lifetime </dc:title>
+          <dc:creator>Janusz-Renault, Gabriela</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Das Ziel dieser Arbeit ist die Bestimmung der ökologisch optimalen Nutzungsdauer von Produkten und ihren Komponenten. Um ein genaues Bild über die ökologisch optimale Nutzungsdauer von verschiedenen Produkten mit unterschiedlichen Merkmalen und Komplexitätsgraden zu gewinnen, wird daher ein Modell entwickelt, welches die optimale Nutzungsdauer produkttypenspezifisch bestimmt. Das Modell basiert auf einem progressiven Optimierungsprozess, in welchem sich die Berechnung auf das bereits existierende Produkt bezieht, und auf der ökologischen Break-even-Point Analyse der Substitution. Dadurch wird das Problem des festgelegten Betrachtungszeitraums vermieden, der das Ergebnis beeinflussen könnte. Für die Modellentwicklung werden Determinanten der ökologisch optimalen Nutzungsdauer ermittelt und ihre Wechselwirkungen quantitativ beschrieben. Aufgrund der vier erfassten unterschiedlichen zeitlichen Verläufe der produktspezifischen Umweltbelastung in Abhängigkeit von der Nutzungsdauer (konstant, linear, exponentiell, konkav) werden entsprechend vier Produkttypen hergeleitet, die eine differenzierte Bestimmung der ökologisch optimalen Nutzungsdauer erfordern. Die vier Produkttypen werden sowohl als Mono- als auch als Multibaugruppen-Produkte betrachtet, so dass die baustrukturbezogene Produkteigenschaften in das Modell heranfließen. Im Gegensatz zu Monobaugruppen-Produkten unterteilen sich die Multibaugruppen-Produkte in austauschbare Baugruppen. Die Multibaugruppen-Produkte werden über vier Baugruppentypen charakterisiert, die den einzelnen Produkttypen entsprechen. Im Modell für Monobaugruppen-Produkte wird mit Modellgleichungen bestimmt, wann ein nur wenig komplexes Gut komplett durch ein neues optimal substituiert werden sollte. Im Modell für Multibaugruppen-Produkte wird die ökologisch optimale Nutzungsdauer von komplexen Produkten aus der Produkt-, Baugruppen- und Systemperspektive betrachtet. Das Beispiel der Waschmaschine, die ein Multibaugruppen-Produkt repräsentiert, belegt, dass bei geringer innovationsbedingter Reduzierung der produktspezifischen Umweltbelastung eine Substitution des gesamten Produktes ökologisch nicht sinnvoll ist. Hingegen kann die Umweltbelastung durch eine Optimierung aus der Baugruppen- oder Systemperspektive reduziert werden.</dc:description>
+          <dc:description xml:lang="eng">The goal of this thesis is the determination of the optimal ecological lifetime of products and their components. In order to get an exact picture of the optimal lifetime of products with different characteristics and complexity, a model determining the product type specific optimal ecological lifetime is developed. The model is based on a progressive optimization process, in which the calculation refers to the already existing product, and on the ecological break-even-point analysis of substitution. This avoids the problem of the fixed calculation period known to influence the results. For the model development, determinants of the ecologically optimal lifetime are investigated and their interactions quantitatively described. The dependency between the product specific environmental impact and the product life time was found to be well-described through four different behaviours: constant, linear, exponential and concave. This resulted in the development of four different product types, each requiring specific calculation to assess the optimal ecological lifetime. The four product types are regarded as products consisting of one component (mono-component product) or multiple components (multi-component product), so that the product structure characteristics are included in the model. Unlike mono-component products, multi-component products are made of exchangeable components. Multi-component products are characterized with four component types corresponding to four product types. The model for mono-component products calculates the optimal ecological time to replace a relatively simple product by a totally new one. The model for multi-component products determines the optimal ecological lifetime from three different perspectives: the product, component and system perspective. The application case of the washing machine, that represents a multi-component product, demonstrates that if innovation causes only a small reduction of the product specific environmental impact, the substitution of the entire product is ecologically unreasonable. However, the environmental impact could be reduced through a component or system perspective optimization.</dc:description>
+          <dc:date>2008-10-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1940</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20460</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20460</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1940/januszrenault_gabriela.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

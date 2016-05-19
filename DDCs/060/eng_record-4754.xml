@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:03:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4754">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4754</identifier>
+        <datestamp>2014-02-21</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:60</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Hochbrillante Diodenlaser-Strahlquellen auf der Basis von hybriden Oszillator-Verstärker-Systemen</dc:title>
+          <dc:title xml:lang="eng">High brilliant diode laser light source on the base of hybrid oscillator-amplifier systems</dc:title>
+          <dc:creator>Wang, Xiaozhuo </dc:creator>
+          <dc:subject>ddc:60</dc:subject>
+          <dc:description xml:lang="deu">Eine der aktuellen Herausforderungen für die Forschung auf dem Gebiet der Halbleiterlaser Lichtquellen ist es, hohe optische Leistungen im Wattbereich mit beugungsbegrenzter Strahlqualität und spektral stabilisierter, schmalbandiger Emission zu vereinen. Jede Verbesserung erlaubt neue Anwendungen für die Materialbearbeitung, optische Freiraumkommunikation, in der Displaytechnologie und in der LIDAR-Technik. Wesentliche Fortschritte konnten diesbezüglich mit Master-Oscillator Power-Amplifier (MOPA)-Systemen erreicht werden, deren Endstufe auf optischen Halbleiterverstärkern mit einem großflächigen Verstärkungsgebiet beruht. Ein Laser (MO) liefert eine spektral schmalbandige Emission mit beugungsbegrenzter Strahlqualität. Dessen relativ niedrige optische Leistung wird in den Verstärker (PA) mit einer sogenannten abgeschnittenen (truncated) trapezförmigen Kontaktfläche eingekoppelt. Dieses Design ermöglicht eine hohe optische Leistung und eine zugleich gute Strahlqualität. Ziel dieser Doktorarbeit ist es, durch die systematische Untersuchung des Einflusses unterschiedlicher Kontaktgeometrien, verschiedener Schichtstrukturen für dieWellenführung und der Anzahl von Quantenfilmen auf die elektro-optischen Eigenschaften ein optimiertes Design für den Verstärker und somit eine fortgeschrittene Halbleiterlaserlichtquelle zu realisieren. Im ersten Teil der Arbeit werden im Wesentlichen theoretische Aspekte und das Funktionsprinzip des MOPA-Systems erläutert, wobei der Schwerpunkt auf den Trapezverstärker gelegt wird. Das Design und der Schichtaufbau des Halbleiterchips und dessen Montage werden vorgestellt. Da ein wesentlicher Teil dieser Arbeit der Verbesserung der Strahlqualität des Verstärkers gewidmet ist, werden die Strahlparameter und die Kriterien, mit denen die Strahlqualität des Verstärkers bewertet wird, ausführlich diskutiert. Die experimentelle Realisierung des MOPA-Systems einschließlich der Art und Weise der Einkopplung des Strahls in den Verstärker wird vorgestellt. Letzteres spielt eine wichtige Rolle bei den Untersuchungen. Der zweite Teil der Arbeit beinhaltet die experimentellen Untersuchungsergebnisse (Leistungs-Strom-Kennlinien, optische Spektren, Strahlqualität) der für eine Emissionswellenlänge von 970nm designten Verstärker unterschiedlicher Schichtstrukturen und Geometrie. Beim Design der Schichtstruktur für den Verstärker spielen niedrige optische Verluste sowie ein auf die Leistung des MOs und der Länge des Verstärkers abgestimmter optischer Gewinn die entscheidende Rolle: Der Gewinn muss zwar hinreichend groß für eine ausreichende Verstärkung sein, darf aber eine bestimmte Größe nicht überschreiten, damit sich die Strahlqualität nicht verschlechtert. Mit einer optimierten Kontaktgeometrie ist es gelungen, mehr als 17W beugungsbegrenzte optische Leistung aus einzelnen Verstärkern im Quasi-Dauerstrichbetrieb zu erreichen. Die maximal erzielte Gesamtleistung mit einer spektralen Bandbreite von 30pm betrug mehr als 50W. Abschließend werden Möglichkeiten für weitere Optimierungen der Verstärker diskutiert.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">One of the current challenges in the development of semiconductor-based light sources&#13;
+is to combine optical powers in the watt class with diffraction-limited beam quality and&#13;
+spectrally stable and narrow-band emission. Every improvement enables new applications&#13;
+in material processing, optical free-space communication, as well as in display&#13;
+and LIDAR technology. Significant progress has recently been achieved in this field&#13;
+using „Master-Oscillator-Power-Amplifier“ (MOPA) systems. The output stage is based&#13;
+on a semiconductor optical amplifier with a large-area gain region. The MO produces&#13;
+spectrally narrow emission, with diffraction limited beam quality. The relatively&#13;
+low optical emission from the MO is coupled into the amplifier. The amplifier (PA)&#13;
+has an electrically pumped area with a so-called ttruncatedttaper-profile. This design&#13;
+enables a high output power and at the same time good beam quality.&#13;
+The aim of this Ph.D. work is to realize an optimized design for the amplifier and thus&#13;
+an advanced light source by means of variations to the geometry of the pumped area,&#13;
+vertical wave guide and the number of quantum wells.&#13;
+The first part of this work is focused on the theory and the operating principles of&#13;
+MOPA-systems and their key component, the tapered amplifier. The design and construction&#13;
+of the amplifier is outlined, including the whole process from epitaxy to&#13;
+packaging. As a main objective of this work is to improve the beam quality of the&#13;
+device, the beam parameters and the criteria with which the beam quality is evaluated,&#13;
+are discussed extensively. The experimental setup is explained in detail, especially the&#13;
+coupling method, which plays a significant role in the studies.&#13;
+The realization of an advanced laser light source based on MOPA-systems in the second&#13;
+part of this work presents experimental results (light-current-characteristics, optical&#13;
+spectra, beam quality) for amplifiers of different epitaxy structures and geometries&#13;
+designed for an emission wavelength of 970nm. Low optical loss and a tailored modal&#13;
+gain are both critical factors in the design of semiconductor structures for use in such&#13;
+amplifiers, with the gain matched to the output of the MO and the length of the device.&#13;
+The gain must produce sufficient amplification; however if gain is too large the beam&#13;
+quality is degraded. Moreover, the opto-electronic performance of the amplifier also&#13;
+depends strongly on the device geometry. Optimized semiconductor layer structures&#13;
+have been successfully developed that allow single amplifiers to achieve more than&#13;
+17W diffraction limited optical output under quasi-continuous-wave conditions. A total&#13;
+power of more than 50W was emitted within a narrow spectral band of 30pm.&#13;
+Finally, options for further performance improvements are presented.</dc:description>
+          <dc:date>2014-02-21</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4754</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-47540</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-47540</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4754/wang_xiaozhuo.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:23Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3481">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3481</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Detektion und Kompensation der Auswirkungen nicht-normgerechter Kraftstoffe auf den Betrieb von Pkw-Dieselmotoren</dc:title>
+          <dc:title xml:lang="eng">Online detection and compensation of the effects of non-conventional fuels on light duty diesel engines</dc:title>
+          <dc:creator>Ramsperger, Florian</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Veröffentlichung präsentiert die Ergebnisse von Versuchen mit einem Einzylinderdieselmotor beim Betrieb mit nicht-normgerechten Kraftstoffen unterschiedlicher Cetanzahl und unterschiedlicher Verdampfungseigenschaften. Anhand der Ergebnisse wird deutlich, dass neben der Cetanzahl auch die Verdampfungseigenschaften der Kraftstoffe einen deutlichen Einfluss auf die Wärmefreisetzung im Dieselmotor und somit auf die Schadstoff- und Geräuschemissionen haben. Insbesondere die Verbrennung des Kraftstoffs der Voreinspritzung erweist sich als empfindlich gegenüber einer vom Referenzzustand abweichenden Siedelinie des Kraftstoffs. Aufgrund des ausgeprägten Einflusses der Vorverbrennung auf das Brennverfahren, wie zum Beispiel der Übergang in ein teilhomogenes Brennverfahren bei ausbleibender Wärmefreisetzung der Vorverbrennung, müssen die Kraftstoffeigenschaften somit als eine wesentliche Störgröße auf das Brennverfahren betrachtet werden. Daher stellt die Detektion und Kompensation vom Referenzzustand abweichender Vorverbrennung eine zwingend notwendige Erweiterung für ein robustes Motormanagement dar. Die Regelung von Verbrennungsschwerpunkt und Last der Gesamtverbrennung im Rahmen eines zylinderdruckbasierten Motormanagements allein reicht für eine zufriedenstellende Störgrößenkompensation nicht aus. Aus diesem Grund wird im weiteren Verlauf der Veröffentlichung eine zylinderdruckbasierte Regelstrategie aufgezeigt, die die Vorverbrennung unter Berücksichtigung möglichst vieler Störgrößen gleichstellt. Die vorgestellte Regelstrategie besteht aus zwei gesonderten Regelkreisen, einem für die Wärmefreisetzung und einem für die zeitliche Lage der Vorverbrennung. Die Anwendung der Regelstrategie führt zu einem definierten und sicheren Motorbetrieb bei unterschiedlichen Kraftstoffeigenschaften, wie am Beispiel des Motorbetriebs mit Rapsmethylester (RME) nachgewiesen wird. Sie führt so zu einem definierten Motorbetrieb bei der Verwendung nicht-normgerechter Kraftstoffe. Weiter ist beim Einsatz der Regelstrategie eine Vereinfachung der Fertigung von Injektoren, aufgrund geringerer Toleranzanforderungen, und eine geringerer Aufwand bei der Applikation von Motoren zu erwarten.</dc:description>
+          <dc:description xml:lang="eng">The study presents the results of single cylinder diesel engine tests with fuels of different cetane number and evaporation properties in comparison to diesel fuel. It is shown that both cetane number and evaporation properties have a strong impact on the heat release and thus on emissions and engine noise. Especially the combustion of the pilot injection is shown to be highly sensitive to a variance in the fuel properties. Since an impact on the pilot injection combustion can lead to a significantly different combustion processes, such as premixed combustion, it is mandatory to consider the fuel properties as a disturbance for future engine control concepts. The application of a general cylinder pressure based engine control concept addressing both load and centre of heat release of the main combustion will not suffice to ensure robust operation with fuels of varying properties. To address this issue a control concept addressing the pilot injection combustion and ensuring its proper function even with a broad variance of disturbances is shown in this study. The concept consists of two individual control loops. One control loop is used to adjust the heat release of the pilot injection to the desired level and a second control loop is used to control the phasing of the heat release. The application of both control loops allows for a safe engine operation under various disturbances, as shown on the example of engine operation with rapeseed methyl ester (RME). In addition the control concept allows for higher manufacturing tolerances of the injectors and leads to less application work for newly developed drivetrains. Therefore the presented control concept is a useful if not mandatory enhancement of existing cylinder pressure based engine control concepts.</dc:description>
+          <dc:date>2012-10-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3481</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36497</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36497</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3481/ramsperger_florian.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

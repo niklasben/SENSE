@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:46Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:152">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:152</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Eine Erweiterung des Prinzips der virtuellen Verschiebungen zur Ermittlung von Spannungen</dc:title>
+          <dc:title xml:lang="eng">An extension of the principle of virtual work for the derivation of stresses</dc:title>
+          <dc:creator>Schutte, Gerrit</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Mit der Methode der gewichteten Reste wird eine schwache Form der elastischen Bestimmungsgleichungen für lineare Kontinua hergeleitet, die einer Erweiterung des Prinzips virtueller Verschiebungen entspricht. Kennzeichnend für die Erweiterung ist, daß neben dem Ansatz für die Verschiebungen im Inneren des elastischen Kontinuums ein unabhängiger Ansatz für die Spannungen am Rand des Kontinuums aufgestellt wird. Die Verträglichkeit der Spannungen, die aus der Differentiation des Verschiebungsansatzes bestimmt werden, mit den Spannungen des zusätzlichen Ansatzes wird im erweiterten Prinzip im Sinne eines integralen Mittelwertes hergestellt. Die aus der Erweiterung resultierenden Randspannungen befriedigen das Gleichgewicht mit den angreifenden Lasten. Ihre Güte wird eingehend untersucht. Dafür werden sowohl analytische Betrachtungen herangezogen als auch vergleichende Untersuchungen an einer Reihe von Beispielen durchgeführt. Die Konvergenzrate des Fehlers für die Spannungen aus dem erweiterten Prinzip ist vergleichbar mit der Rate, die für die Spannungen aus der Differentiation der Verschiebungslösung erzielt werden kann. Der Absolutwert des Fehlers der Spannungen aus dem erweiterten Prinzip ist jedoch in vielen Fällen signifikant kleiner. Die softwaretechnische Umsetzung der Erweiterung des Prinzips erfordert die Erfassung der Topologie des Randes sowie die numerische Integration der Ansätze über den Rand. Für die Lösung dieser Aufgabe werden generalisierte Methoden entwickelt und in einem Prototyp implementiert. Der zusätzliche Zeit- und Speicherbedarf, der aus der Erweiterung resultiert, wird kritisch geprüft. Am Beispiel der instationären Wärmeströmung wird abschließend gezeigt, daß die Ergebnisse auch auf die Bestimmungsgleichungen anderer physikalischer Phänomene im Bauingenieurwesen übertragbar sind.</dc:description>
+          <dc:date>2000-08-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/152</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-1471</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-1471</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/152/schutte_gerrit.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

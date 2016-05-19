@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:44:26Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:82">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:82</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:540</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Biokatalyse an hydrophoben Substraten mit Tensiden und Membranen als reaktionstechnische Werkzeuge</dc:title>
+          <dc:creator>Orlich, Bernhard</dc:creator>
+          <dc:subject>ddc:540</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen dieser Arbeit wurden zwei Enzym-Membran-Verbundsysteme untersucht, welche die Enzymkatalyse zur Darstellung hydrophober sekundärer Alkohole ermöglichen: Ein Enzym-Membran-Konzept mit der Verwendung von w/o-Mikroemulsionen als Reaktionsmedium und eine Reaktivmembran. Bei wasserunlöslichen Substraten kann durch die Verwendung von Mikroemulsionen als Reaktionsmedien die Reaktionslimitierung wegen der geringen Löslichkeit umgangen werden. Die Enzymimmobilisierung von Lipasen oder Oxidoreduktasen und die Produktisolierung kann in einem kontinuierlich betriebenen Prozeß mittels einer Ultrafiltration erfolgen. Da die Darstellung chiraler Alkohole durch Alkoholdehydrogenase als Biokatalysator nur in Verbindung mit Cofaktoren (NADH) erfolgt, muß dieser aus Kostengründen mittels eines zweiten Enzyms, Formiatdehydrogenase, regeneriert werden. Der hydrophile Cofaktor NADH ist vollständig in den inversen Mizellen der Mikroemulsionen solubilisiert und wird ebenso durch die Ultrafiltration immobilisiert. Als Beispielsubstrate wurden bei der Verwendung von verschiedenen Alkoholdehydrogenasen sekundäre hydrophobe Ketone reduziert, im Falle der Lipase die Veresterungsreaktion von Menthol untersucht. Die Aktivitäts- und Stabilitätsuntersuchungen von Yeast Alkoholdehydrogenase, Carbonyreductase aus Candida Parapsilosis und Horse Liver Alkoholdehydrogenase in Abhängigkeit von der Zusammensetzung der Mikroemulsionen ergaben hohe Stabilitäten in w/o-Mikroemulsionen bestimmter Zusammensetzungen. So konnte für die Horse Liver Alkoholdehydrogenase kein Aktivitätsverlust auch nach mehreren Monaten detektiert werden. Auf der Basis einer photometrischen pH-Wert-Messung durch Bromkresolpurpur konnte daher die Reduktion verschiedener Ketone in Mikroemulsionen durchgeführt werden. Die Reduktion von Aceton durch Horse Liver Alkoholdehydrogenase konnte mit den höchsten Umsätzen und einer hohen Zyklenzahl (&gt; 2000) durchgeführt werden. Auf der Basis kinetischer Untersuchungen des Reaktionssystems zur Reduktion von 2-Butanon mit Horse Liver Alkoholdehydrogenase und Carbonylreductase aus Candida Parapsilosis wurden Feed-Batch Versuche bis zu einem vollständigen Umsatz durchgeführt. Ebenso konnte die Mentholveresterung durch Candida Rugosa Lipase in Feed-Batch Versuchen mit einem absoluten Enantiomerenüberschuß bei relativ hohen Umsätzen (bis 25 %) durchgeführt werden. Im Projekt über die Reaktivmembran gelang auf der Basis der Synthese und Charakterisierung von Poly (vinylalkohol)-Membranen die Darstellung des katalytisch aktiven Enzym-Membran-Verbundes durch kovalente Anbindung von Candida Rugosa Lipase. Bei der Hydrolyse von p-Nitrophenyllaurat in Abhängigkeit von der Kontaktzeit mit dem Membranverbund wurde ein hoher Umsatz bei einer langen Kontaktzeit von Enzym und Substrat (niedriger Volumenfluß durch die Membran) festgestellt. Die enantioselektive Mentholesterhydrolyse in o/w-Mikroemulsionen gelang mit hohen Enantiomerenausbeuten (ee &gt;80 % auch bei Umsätzen über 25 %) sowohl mit freier Lipase als auch mit dem Enzym-Membran-Verbund. Der Enzym-Membran-Verbund zeichnete sich durch eine hohe Stabilität (Enzymaktivität auch nach einigen Wochen Standzeit) sowie ein hohen Enzymausbeutefaktor während der Immobilisierung aus.</dc:description>
+          <dc:date>2000-11-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/82</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-775</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-775</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/82/orlich_bernhard.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

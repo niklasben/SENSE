@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:57Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:50">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:50</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Zeitirreversibilität in Quantenmechanischen Systemen</dc:title>
+          <dc:creator>Frommlet, Florian</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">In meiner Doktorarbeit wird das Problem der Zeitirreversibilität in quantenmechanischen Systemen anhand von offenen Quantensystemen untersucht. Nach einer kurzen Zusamenfassung der Resultate im Bereich der klassischen Physik, welche zur Boltzmanngleichung führen, wird die Theorie der offenen Quantensysteme vorgestellt. Der erste Hauptteil der Arbeit widmet sich der mathematisch rigorosen Untersuchung eines Modells von Caldeira und Legett. Dieses wohl einfachste Modell eines offenen Quantensystems behandelt ein Teilchen, welches linear an ein aus harmonischen Oszillatoren bestehendes Reservoir gekoppelt ist. Es wird angenommen, daß sich das Reservoir ursprünglich im thermischen Gleichgewicht befindet. Da der genaue Zustand des Reservoir eigentlich nicht von Interesse ist, werden die entsprechenden Koordinaten durch Spurbildung reduziert. Anschließend führen Caldeira und Legett verschiedene Grenzübergänge durch, um schließlich im Limes eine Fokker-Planck Gleichung herzuleiten. Das Hauptziel unserer Untersuchung besteht darin, sowohl physikalisch als auch mathematisch den Mechanismus, der Dissipativität in das Modell bringt, exakt zu verstehen. Dabei stellt sich heraus, daß der ursprüngliche Zugang von Caldeira und Legett sowohl aus mathematischer als auch aus physikalischer Sicht einige Fragen aufwirft und wir geben eine genaue Analyse der betreffenden Problematik. Zur Klärung der Situation behandeln wir das ursprüngliche Modell mathematisch exakt unter Verwendung des Wignerformalismus und wir besprechen, warum der Grund für die darin auftretende Diffusion nicht realistisch erscheint. Anschließend geben wir zwei andere Möglichkeiten, unter sinnvolleren Bedingungen dissipative Gleichungen herzuleiten. Im abschließenden Kapitel besprechen wir, inwiefern zumindest im Bereich der Modellierung von Elektronen in harmonischen Kristallgittern der Annahme der linearen Kopplung problematisch erscheint. Ferner untersuchen wir ein wesentlich komplizierteres Modell eines offenen Quantensystems, das auf diese Annahme verzichtet. Wir beschreiben wiederum ein System bestehend aus einem Elektron und einem Reservoir, allerdings verwenden wir nun zur Beschreibung des Phononenbades den Formalismus der zweiten Quantisierung. Als wesentlichen Bestandteil der Modellierung nehmen wir an, daß das Elektron und das Reservoir nur schwach interagieren. Wie arbeiten wieder im Wignerformalismus und bilden die Spur bezüglich der Koordinaten des Reservoirs, unter der Annahme der schwachen Interaktion leiten wir asymptotisch eine kinetische Gleichung mit kompliziertem Streuterm her und weisen auf den Zusammenhang zur Barker-Ferry Gleichung hin. Schließlich führen verschiedene Skalierungen im Limes wieder zu Fokker-Planck Gleichungen.</dc:description>
+          <dc:description xml:lang="eng">In this work the question of time irreversibility in quantum mechanical systems is approached by studying open quantum systems. After giving a short summary of the results in classical mechanics, leading to Boltzmann's equation, the theory of open quantum systems is introduced. The first major part is then the rigorous mathematical investigation of such a model given by Caldeira and Legett. Here some particle is coupled linearly to a reservoir of harmonic oscillators, giving thus probably the simplest model of an open quantum system. The reservoir is assumed to be initially in thermal equilibrium. After taking the partial trace on the Hilbert space of the reservoir, several limiting procedures are taken in the original work of Caldeira Legett, giving rise to a dissipative limiting equation, more exactly leading to a Fokker-Planck like equation called Quantum Langevin equation. The main goal of our investigation is to understand physically and mathematically how exactly diffusion enters the model. It turns out that the work of Caldeira and Legett raises several questions (both physically and mathematically) and we discuss the ocurring problems in great detail. To clear the situation, we treat the original limit given by Caldeira-Leggett mathematically rigorously by using the Wigner formalism, and we discuss why we feel that the source of diffusion in their approach seems to be be not too realistic. In contrast we are able to derive Fokker-Planck like limiting equations in two different ways, where the mechanisms leading to diffusion seem to be much more satisfying. In the final chapter we briefly state some general criticism of the linear coupling assumption, at least in the context of describing an electron in a harmonic ionic lattice. We thus study a much more envolved model of an open quantum system, introducing the formalism of second quantization. We are describing an electron interacting with a system of phonons by means of a Fr"ohlich Hamiltonian. Again working in the Wigner-formalism, we apply some asymptotic analysis with respect to a small electron-phonon coupling parameter and by tracing out the phonons we obtain a still time reversible kinetic limiting equation. We show the relationship of this equation to the Barker-Ferry equation and finally we give some scaling limits again leading to Fokker-Planck equations.</dc:description>
+          <dc:date>2000-12-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/50</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-478</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-478</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/50/frommlet_florian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

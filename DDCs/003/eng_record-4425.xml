@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:43Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4425">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4425</identifier>
+        <datestamp>2014-06-19</datestamp>
+        <setSpec>doc-type:conferenceobject</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:3</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A methodological framework for conducting multimodal rhetorical analyses of advertising films with ATLAS.ti</dc:title>
+          <dc:creator>Rossolatos, George </dc:creator>
+          <dc:subject>ddc:3</dc:subject>
+          <dc:description xml:lang="eng">The aim of this paper is to present a novel methodological framework for analyzing the multimodal rhetorical structure of advertising films. By drawing on a corpus of 87 TV commercials from the world’s most valuable brands according to the BrandZ 2012 report and a resulting pool of 561 ad filmic segments, it will be shown how (i) TV ads may be segmented (ii) how individual segments may be coded with one or more verbo-visual rhetorical figures in the light of three distinctive levels of analysis (iii) how statistical output pertaining to the rhetorical structure of TV ads may be produced and interpreted. The filmic syntagms are segmented and coded by applying a rhetorical taxonomy of four operations and thirty-nine verbo-visual figures with the aid of ATLAS.ti 7 as content analytical tool. The exposition of the adopted rhetorical approach covers conceptual, methodological and interpretive areas, with view to yielding a coherent and holistic view of the technical issues involved in conducting multimodal rhetorical analyses of ad films with ATLAS.ti, while highlighting how ‘figurative competitive advantages’ may be yielded for brand discourses.</dc:description>
+          <dc:contributor>Max Planck Institute for the Study of Religious and Ethnic Diversity</dc:contributor>
+          <dc:date>2013-11-23</dc:date>
+          <dc:type>conferenceobject</dc:type>
+          <dc:type>doc-type:conferenceobject</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4425</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44257</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44257</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4425/12_rossolatos_4425.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

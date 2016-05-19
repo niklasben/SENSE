@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1654">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1654</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Methoden zur Phasenrauschverbesserung von monolithischen Millimeterwellen-Oszillatoren</dc:title>
+          <dc:title xml:lang="eng">Investigation of different methods to improve phase noise of millimeter-wave oscillators</dc:title>
+          <dc:creator>Schott, Matthias</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In der vorliegenden Arbeit wird die Optimierung des Phasenrauschens von monolithischen Millimeterwellenoszillatoren im Frequenzbereich von 1 bis 120GHz behandelt. Ausgehend von der einschlägig bekannten Oszillator - Kleinsignaltheorie für die Modellierung des Oszillatorphasenrauschens nach Leeson werden verschiedene Entwurfsverfahren von Oszillatoren hinsichtlich ihrer Eignung für die spezifischen Erfordernisse des monolithischen Schaltungsdesigns untersucht. Ein Schwerpunkt der Arbeit liegt auf der Untersuchung der Wirksamkeit verschiedener Methoden zur Verringerung des Oszillatorphasenrauschens anhand von realisierten MMICs auf GaAs. Diese Methoden beziehen sich auf den Einfluß der Oszillatorgüte, des Niederfrequenzrauschens, des Arbeitspunktes sowie des Varaktors. Ebenfalls untersucht wird das differentielle Oszillatorkonzept, da sich dieses als besonders vorteilhaft für die Erzielung niedrigen Phasenrauschens erwiesen hat und darüber hinaus eine Reihe weiterer nützlicher Eigenschaften aufweist. Abschließend werden einige im Rahmen der Arbeit entstandene Oszillatoren beschrieben, die sich durch ein besonders geringes Phasenrauschen auszeichneten.</dc:description>
+          <dc:description xml:lang="eng">This thesis treats the phase noise optimization of monolithically integrated millimeter wave oscillators in the frequency range from 1 to 120 GHz. Starting with the well known oscillator small signal theorie for the description of oscillator phase noise derived by Leeson, different oscillator design strategies are investigated concerning their suitability to meet the specific requirements of fully monolithic circuit design. The main focus of the thesis lies on proof of concept investigations of several methods to reduce oscillator phase noise based on realized MMICs on GaAs-substrate. These methods refer to influences due to the ocillator quality factor, low frequency (flicker) noise, bias point and varactor coupling. Also under examination is the differential oscillator concept as it has turned out to be especially suited for low phase noise applications and, beyond this, offers a number of further useful features. Finally some very low phase noise oscillators are presented which were a result of this work.</dc:description>
+          <dc:date>2008-01-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1654</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17293</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17293</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1654/original_schott_matthias.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1654/schott_matthias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

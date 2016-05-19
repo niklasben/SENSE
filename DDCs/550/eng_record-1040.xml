@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1040">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1040</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Computergestützte geowissenschaftliche Entscheidungshilfen bei Planung und Optimierung der untertägigen Gewinnung von Marmor</dc:title>
+          <dc:title xml:lang="eng">Computer-based geological decision support system for the planning and optimizing of underground marble mining</dc:title>
+          <dc:creator>Koch-Moeck, Matthias</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="deu">Zunehmend strengere Umweltauflagen bezüglich des Staub- und Lärmschutzes als auch des Landschaftsschutzes geben Anlass zur Überlegung, ob Natursteinbruchbetreiber, insbesondere die Betreiber von Marmorsteinbrüchen, die Gewinnung nach Untertage verlagern sollten. Um die durch einen untertägigen Abbau von Marmor entstehenden höheren Unkosten zu kompensieren, wurde im Rahmen der vorliegenden Arbeit nach Möglichkeiten gesucht, die Gewinnungsprozesse unter Berücksichtigung geowissenschaftlicher Aspekte zu optimieren. Dafür wurde der Prototyp eines Wissensbasierten Systems entwickelt, das dem Anwender sowohl bei der Beurteilung der Lagerstätte als auch bei der Entscheidungsfindung zur optimalen Gewinnung Hilfestellung geben kann. Erfahrungen aus praktizierenden untertägigen Gewinnungsanlagen als auch neuere Untersuchungen aus einem EU-gefördertem Projekt sind als Grundbestandteile in die Arbeit eingeflossen. Ein Interviewsystem ermittelt systematisch alle zur Verfügung stehenden und notwendigen Eckdaten für die Beurteilung. Ein regelbasiertes Expertensystem leitet aus den ermittelten Daten Ergebnisse ab, die dem Nutzer Hilfen für die untertägige Gewinnung von Marmor zur Verfügung stellen. Zusätzlich entwickelte Tools und Schnittstellen ergeben ein Wissensbasiertes System, das in seiner Gesamtheit die Beurteilung eines Marmorvorkommens hinsichtlich seiner Abbaumöglichkeiten durch ein auf geowissenschaftlicher Grundlage optimiertes untertägiges Grubenlayout ermöglicht. Exemplarisch wurden drei Steinbruchbetriebe mit untertägiger Marmorgewinnung untersucht. Die geologischen und gesteinsphysikalischen Eckdaten wurden gemeinsam mit dem existierenden untertägigen Grubenlayout dargestellt. Aus dem derzeitigen Wissensstand lassen sich Themenbereiche ableiten, die für die Bearbeitung im Rahmen eines Wissensbasierten Systems als Analyse- und Entscheidungshilfen besonders geeignet sind. Die strukturierte Gliederung des Wissensbasierten Systems in Module nimmt diesen Wissensstand auf. Geologischen Einflüsse, Marmoreigenschaften, gewinnungstechnische Voraussetzungen und Teile der betriebswirtschaftlichen Faktoren bilden die modulare Basis des Wissensbasierten Systems. Die für Marmorlagerstätten charakteristischen Einflussgrößen werden systematisch erfaßt und diskutiert. Insbesondere wird aufgezeigt, wie eine detaillierte Trennflächenanalyse eine Optimierung des Ausbringens ermöglicht. Betreibern und Planern wird mit dieser Arbeit ein Entscheidungshilfesystem zur Beurteilung und Optimierung der untertägigen Gewinnung von Marmor zur Verfügung gestellt.</dc:description>
+          <dc:description xml:lang="eng">Increasingly stricter environmental protection regulations regarding the dust and noise prevention and the conservation of the landscape require the quarry operators, particularly the operators of marble quarries, to switch to underground mining. To compensate for the increased costs for the underground extraction, possibilities were sought, in the context of the paper on hand, for optimizing the extraction of marble. For this purpose, the prototype of a Knowledge-based System was developed, which can assist the user both with the judgement of the deposit and with the decision support in order to achieve an optimal extraction result. Experiences from already existing underground extraction plants and recent examinations from an EU-sponsored project have been incorporated in the paper as basic components. A interview system finds systematically all basic data which are available and necessary for the judgement. A rule-based expert system derives results from the data found out, which signify aids to the user for the underground extraction of marble. Additionally developed tools and interfaces yield a Knowledge-based System which  as a whole - facilitates the judgement of a marble deposit with regard to its extraction possibilities through an optimized underground pit layout. Three quarry enterprises with an underground marble extraction were examined as examples. The basic geological and rock physical data were represented together with the existing underground pit layout. From the present state of knowledge topics can be derived, which are suited for processing in the context of a Knowledge-based System as analysis and decision aids. The structured organization of the Knowledge-based System in the form of modules incorporates this state of knowledge and also describes the priorities of the dependences. The geological influences, marble qualities, preconditions in regard to extraction technologies, and parts of the business management factors form the foundation of the Knowledge-based System. The characteristics that influence marble deposits are structured and discussed. It is shown how a detailed interface analysis makes an optimization of the mineable marble possible. This paper provides an aid to operators and planners for the judgement and optimization of the underground extraction of marble.</dc:description>
+          <dc:date>2005-07-29</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1040</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-10297</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-10297</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1040/kochmoeck_matthias.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

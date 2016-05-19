@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:53Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:44">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:44</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">The distribution of values of Artin L-Functions and applications</dc:title>
+          <dc:title xml:lang="deu">Die Werteverteilung von Artinschen L-Funktionen und Anwendungen</dc:title>
+          <dc:creator>Bauer, Hartmut</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit befaßt sich mit den Artinschen L-Reihen einer beliebigen endlichen normalen Erweiterung von $Q$. Es wird eine Universalitätseigenschaft der durch diese Artinschen L-Reihen definierten Artinschen L-Funktionen bewiesen. Hierbei handelt es sich um die Verallgemeinerung eines bereits bekannten Satzes über Dirichletsche L-Reihen, welcher von Sergej M. Voronin stammt. Die hier dargelegte Theorie setzt damit die von Harald Bohr, Jessen, Titchmarsh und Voronin entwickelte Theorie über die Werteverteilung der Riemannschen Zeta-Funktion und Dirichletscher L-Reihen fort. Die Beweise sind unabhängig von der Artinschen Vermutung, daß Artinsche L-Funktionen mit nicht-trivialen Charakteren ganze Funktionen darstellen. In den Anwendungen werden Ergebnisse von Davenport und Heilbronn bzw.Voronin über die Nullstellen von Hurwitz-Zeta-Funktionen und Zeta-Funktionen positiv definiter quadratischer Formen verallgemeinert. So wird bewiesen, daß jede Zeta-Funktion über eine Ideal-Klasse einer allgemeinen Klassengruppe Nullstellen im Bereich $1/2 &lt; Re(s)&lt; 1$ hat, wenn diese Klassengruppe nicht trivial ist. Weitere Anwendungen beschäftigen sich mit der funktionalen Unabhängigkeit von Dedekindschen Zeta-Funktionen normaler Erweiterungen von $Q$. Darüber hinaus wird ein Universalitätstheorem für eine Artinsche L-Funktion einer beliebigen endlichen normalen Erweiterung $K/k$ von Zahlkörpern bewiesen.</dc:description>
+          <dc:description xml:lang="eng">The subject of this thesis is Artin L-Series over finite normal extensions of $Q$. We prove a universality property of the Artin L-functions. This theorem is a generalisation of a theorem of Sergej M. Voronin on Dirichlet L-functions. In so far we extend the theory of Harald Bohr, Jessen, Titchmarsh and Voronin on the value distributions of the Riemann Zeta-function and Dirichlet L-series. Our proofs are independent of Artin's conjecture on the holomorphy of Artin L-functions with non-trivial characters. In the applications we generalize theorems on the zeros of Hurwitz Zeta-functions and Zeta-functions of quadratic forms to Zeta-functions of ideal classes of an arbitrary number field. We prove that there are infinitely many zeros in the strip $1/2 &lt; Re(s)&lt; 1$ provided that the class group is non-trivial. Further applications concern the functional independence of Dedekind Zeta-functions of normal extensions. We generalize our universality theorem on Artin L-functions defined over $Q$ to an Artin L-function of an arbitrary normal extension $K/k$.</dc:description>
+          <dc:date>2001-02-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/44</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-419</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-419</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/44/bauer_hartmut.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

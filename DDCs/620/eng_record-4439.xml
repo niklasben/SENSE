@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:47Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4439">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4439</identifier>
+        <datestamp>2013-11-28</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Aussetz- und Bergevorrichtung für das  autonome Unterwasserfahrzeug PreToS</dc:title>
+          <dc:title xml:lang="eng">Launch and recovery system for the autonomous  underwater vehicle PreToS</dc:title>
+          <dc:creator>Mischnick, David</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Aufgrund der schwindenden landgebundenen Rohstoffreserven wird der Abbau von Rohstoffen aus der Tiefsee, wie z. B. Öl und Gas, zunehmend rentabler. Bei der Suche nach neuen Abbaugebieten werden häufig unbemannte, autonome Unterwasserfahrzeuge eingesetzt, so genannte AUVs (englisch: autonomous underwater vehicles). Versorgungsschiffe bringen die AUVs in das Zielgebiet, welches sie beispielsweise dann kartographieren. Die Fahrzeuge werden zur Wartung an Deck des Schiffs geholt und für neue Missionen wieder ausgesetzt. Bei starkem Wellengang gestalten sich jedoch diese Manöver als schwierig und gefährlich, so dass für sichere und wetterunabhängige Ausbring- und Bergevorgänge eine geeignete Vorrichtung am Forschungsschiff erforderlich ist.&#13;
+&#13;
+Diese Arbeit beschäftigt sich daher mit der Konzeption und dem Aufbau eines neuartigen Aussetz- und Bergesystems für das AUV PreToS. Dazu wurden zunächst Recherchen zum Stand der Technik durchgeführt sowie Analysen der Bewegungsabläufe beim Aussetzen und Bergen vorgenommen. Hieraus ergaben sich Teillösungen, welche konstruktiv sowie anhand von Ablaufstudien im Rahmen eines Gesamtkonzepts eingeordnet wurden. Der dabei entwickelte Geräteaufbau lässt sich am Heck verschiedener Forschungsschiffe montieren. Er besteht aus einem fest montierten Grundgerüst, an dem sich über Gelenke ein schwenkbarer Ausleger mit dem A-Rahmen des Forschungsschiffs bewegen lässt. Der Ausleger dient als Träger für eine als Käfig bezeichnete Vorrichtung, in der das AUV fixiert wird. Mit der Bewegung des Auslegers lässt sich der Tragekäfig mit dem dort fixierten AUV vom Schiff auf das Wasser und auch wieder zurück schwenken, so dass eine sichere Transportbewegung gewährleistet ist. Der am Ausleger drehbar befestigte Käfig bewegt sich aufgrund der daran befestigten Schwimmkörper mit den Wellen, so dass eine Entkopplung der welleninduzierten Bewegung des Käfigs und der Bewegung des Versorgungsschiffs stattfindet.&#13;
+ &#13;
+Das Ankoppeln des Unterwasserfahrzeugs an den schwimmenden Käfig erfolgt durch das Einholen eines an der Fahrzeugspitze befestigten Seils, welches vom AUV nach dem Auftauchen abgeworfen und von einer Winde, die am Käfig montiert ist, eingezogen wird. Zum Abwerfen des Seils erzeugt die Bordelektronik einen Stromimpuls, der einen elektromagnetischen Aktor auslöst und das Seil freigibt.&#13;
+ &#13;
+Alle Komponenten wurden druckneutral aufgebaut und für die angestrebte Tauchtiefe von 6.000 Meter ausgelegt und getestet. Der Abwurfmechanismus ist ebenfalls Teil der PreToS-Notbergevorrichtung, welche bei dem am Meeresboden liegenden AUV das Seil auslöst, das durch einen Schwimmkörper Auftrieb erhält. Ein weiteres Unterwasserfahrzeug fängt das Seil ein und schleppt das AUV an die Wasseroberfläche.&#13;
+&#13;
+Das im Rahmen dieser Arbeit entwickelte Aussetz- und Bergesystem leistet einen entscheidenden Beitrag für den sicheren Umgang mit dem Unterwasserfahrzeug PreToS. Die Vorrichtung bewies bei zahlreichen Tests in der Ostsee, dass sie auch unter harschen Umgebungsbedingungen funktioniert und wurde auch im Atlantik erfolgreich getestet. In gleicher Weise erwies der druckneutral gestaltete Abwurfmechanismus im Drucktank und in der Ostsee seine gute Funktionssicherheit.&#13;
+</dc:description>
+          <dc:description xml:lang="eng">Due to the waning of land-based raw material reserves, the feasibility of deep sea harvesting of resources such as oil or natural gas is increasing. In the search for new mining areas, unmanned autonomous underwater vehicles (AUVs) are often employed. Using supply ships, AUVs are dispatched to their target destinations, where mapping of the area is one possible purpose. For maintenance, the vehicles are brought on deck of the supply ship and launched again for new missions. In heavy seas, this maneuver is difficult and dangerous, necessitating a suitable device for safe and weather independent launch and recovery operations.&#13;
+&#13;
+This paper deals with the design and construction of a new launch and recovery system for the AUV PreToS. To this end, the state of the art was examined. The movements during AUV launch and recovery were analyzed, as well. The findings were integrated into an overall concept in a design process and using sequence studies. The resulting device can be mounted at the rear of various research vessels. It consists of a fixed basic structure with a pivoting boom which can be moved by the A-frame of the research ship via joints. The boom serves as carrier for a device referred to as cage in which the AUV is fixed. By pivoting the boom, the cage with the fixed AUV can be moved into position above the water and back to the deck, thus ensuring a reliable transport movement. The cage may rotate around the point where it is mounted to the boom and is, at the same time, moving with the waves due to the attached floats. Thus, the wave-induced motion of the cage and the movement of the supply vessel are decoupled.&#13;
+&#13;
+The underwater vehicle is docked to the floating cage by reeling in a rope that is attached to the top of the vehicle and is released by the AUV after surfacing. The winch used for this maneuver is mounted to the cage. An electromagnetic actuator, triggered by a current pulse generated by onboard electronics, releases the rope from the vehicle.&#13;
+&#13;
+All components follow a pressure tolerant design and are planned and tested for a target depth of 6,000 meters. The release mechanism is also part of the PreToS emergency recovery system. The system triggers the release of the rope, which is buoyed by a float, when the AUV is grounded on the sea floor. Another underwater vehicle retrieves the rope and tows the AUV to the surface.&#13;
+&#13;
+The launch and recovery system developed for this thesis contributes significantly to the safe handling of the underwater vehicle PreToS. It works well under harsh environmental conditions, as numerous tests in the Baltic Sea have shown. Furthermore, the device has been tested successfully in the Atlantic Ocean. In the same manner, the release mechanism proved the good reliability of its pressure tolerant design in pressure tank tests as well as in the Baltic Sea.&#13;
+</dc:description>
+          <dc:date>2013-11-28</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4439</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-44395</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-44395</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4439/Mischnick_David.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

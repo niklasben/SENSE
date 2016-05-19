@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3812">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3812</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Parameter des Entwerfens : Architektur und Nachhaltigkeit; Lehre und Forschung am Fachgebiet Gebäudetechnik und Entwerfen der Technischen Universität Berlin 2000-2012</dc:title>
+          <dc:creator>Steffan, Claus</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">Architektur und Bauwesen verursachen weltweit die größten anthropogenen Energie- und Stoffströme. Die Vermittlung von Wissen einer qualitätvollen Gestaltung unserer Umwelt in Verbindung mit dem effizienten Einsatz von Ressourcen steht im Mittelpunkt unserer Arbeit am Fachgebiet Gebäudetechnik und Entwerfen. In der vorliegenden Veröffentlichung sind exemplarisch die Ergebnisse unserer Lehr- und Forschungstätigkeit von 2000 - 2012 dokumentiert. Die Entwurfs-, Seminar- und Forschungsarbeiten sind unter sieben Schwerpunkthemen dargestellt, die miteinander in Beziehung stehen und sich ergänzen: Energieoptimierendes Entwerfen braucht das Programm als Inspiration, Autarke Systeme sind ohne Energie- und Stoffströme nicht möglich, aneignungsoffene Räume benötigen einen besonderen Technischen Ausbau, Planen im Bestand spielt eine immer größere Rolle im Tätigkeitsfeld der Architekten. Die komplexe Tätigkeit des architektonischen Entwerfens erfordert ein profundes Wissen um den Einfluss und die Wechselwirkung dieser Parameter, um zu gestalterisch anspruchsvollen und technologisch innovativen Lösungen zu kommen.</dc:description>
+          <dc:date>2013-11-16</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3812</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-40331</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-40331</dc:identifier>
+          <dc:identifier>978-3-7983-2570-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3812/steffan_parameter_entwerfens.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

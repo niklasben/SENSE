@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:42Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2903">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2903</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Interpretation of Behaviour Models at Runtime: Performance Benchmark and Case Studies</dc:title>
+          <dc:title xml:lang="deu">Interpretation von Verhaltensmodellen zur Laufzeit: Leistungmaßstab und Anwendungsfälle</dc:title>
+          <dc:creator>Höfig, Edzard</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Modelling system behaviour by means of statechart-based formalisms, such as the state machine formalism defined in the Unified Modeling Language, is an established practice in software engineering. As part of a model-driven workflow, engineers usually employ a code generation approach to create software components that implement an intended runtime behaviour. Although this approach yields software components with a good runtime performance, the resulting system behaviour is static. Changes to the behaviour model necessarily provoke an iteration in the code generation workflow and a re-deployment of the generated artefacts. In the area of autonomic systems engineering, it is assumed that systems are able to adapt their runtime behaviour in response to a changing context. Thus, the constraints imposed by a code generation approach make runtime adaptation difficult, if not impossible. We investigate a solution to this problem by employing interpretation techniques for the runtime execution of behaviour models, enabling the adaptability of a system's runtime behaviour on the level of single model elements. This is done by devising concepts for behaviour model interpretation, which are then used in proof-of-concept implementations to demonstrate the feasibility of the approach. It is insufficient to show only the general feasibility of behaviour model interpretation, as the usefulness of this approach depends on the context the model is used in, which is determined by a specific application domain. Therefore, an assessment of the approach is carried out, using quantitative as well as qualitative methods. For the quantitative evaluation, a novel benchmark is introduced, that enables a performance comparison between the proof-of-concept implementations and generated code. The qualitative assessment is based on use case studies conducted in the area of network and systems management. Behaviour model interpretation has a performance overhead when compared to code generation. In the context of the network and systems management domain, the performance of the approach is found to be adequate for the vast majority of situations, except when dealing with high-throughput or delay-sensitive data.</dc:description>
+          <dc:description xml:lang="deu">Die Modellierung von Systemverhalten anhand von Zustandsdiagrammen, beispielsweise anhand der Unified Modeling Language, zählt inzwischen zu den etablierten Vorgehensweisen bei der Erstellung von softwareintensiven Systemen. Um Softwarekomponenten mit einem gewünschten Verhalten herzustellen, wird innerhalb eines modellgetriebenen Arbeitsflusses üblicherweise mit Ansätzen zur Kodeerzeugung gearbeitet. Solch ein Ansatz ermöglicht zwar die Erzeugung eines effizienten Laufzeitystems, allerdings ist das Systemverhalten dann durch die Artefakte des Erzeugungsprozesses statisch festgelegt. Änderungen am Verhaltensmodell ziehen notwendigerweise eine erneute Erzeugung, Übersetzung und das wiederholte Aufspielen der Anwendung nach sich. Bei der Entwicklung autonomer Systeme gehen wir davon aus, dass Systeme ihr Verhalten zur Laufzeit an sich ändernde Umgebungsbedingungen anpassen können. Da statische Artefakte kaum, oder nur sehr schwer, zur Laufzeit geändert werden können, verbietet sich ein Einsatz von Kodeerzeugung für die Erstellung autonomer Systeme. In dieser Arbeit untersuchen wir einen Lösungsansatz für dieses Problem. Anstelle von statischer Kodeerzeugung verwenden wir Techniken der dynamischen Programminterpretation für die Ausführung von Verhaltensmodellen. Damit ermöglichen wir die Änderung von Verhaltensmodellen auf der Ebene einzelner Modellelemente zur Laufzeit. Wir erreichen dieses Ziel durch die Ausarbeitung grundlegender Konzepte der Interpretation von Verhaltensmodellen und demonstrieren anhand von Implementierungen die Machbarkeit des Ansatzes. Wir erachten es nicht als ausreichend nur die generelle Durchführbarkeit zu zeigen, da die Nützlichkeit des Ansatzes von dem beabsichtigten Anwendungszweck eines Systems abhängt. Die Begutachtung unseres Ansatzes erfolgt dabei sowohl durch quantitative als auch durch qualitative Methoden. Zur quantitativen Betrachtung führen wir einen eigens entworfenen Benchmark-Test ein, der den Vergleich der Laufzeitverhalten von erzeugtem und interpretiertem Kode ermöglicht. Die qualitative Begutachtung stützt sich auf Fallstudien aus den Bereichen der Netzwerk- und Systemverwaltung. Wir stellen fest, dass die Interpretation von Verhaltensmodellen zur Laufzeit etwa um einen Faktor 20 langsamer ist als die Verwendung von Kodeerzeugung. Im Kontext der Netzwerk- und Systemverwaltung ist das allerdings unerheblich, da die Ausführungsgeschwindigkeit ausreichend für typische Aufgaben in diesen Gebieten ist. Eine Ausnahme davon bilden Anwendungen, die mit einem sehr hohen Datendurchsatz arbeiten oder die anfällig für kleinste Verzögerungen beim Datentransport sind.</dc:description>
+          <dc:date>2011-05-20</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2903</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-30657</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-30657</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2903/hoefig_edzard.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:00Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3945">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3945</identifier>
+        <datestamp>2014-06-10</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Thermally driven heat pumps for heating and cooling</dc:title>
+          <dc:title xml:lang="deu">Thermisch angetriebene Wärmepumpen zum Heizen und Kühlen</dc:title>
+          <dc:creator>Kühn, Annett</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">According to the International Energy Agency, 46% of the global final energy demand is attributed to heat and cold. Two thirds thereof are generated from fossil fuels. Both, heating and cooling energy demand is expected to grow rapidly in the next decades. To attain the global goal of CO2 emission reduction energy efficiency must be strongly improved. Thermally driven heat pumps can contribute to reduce the environmental impact of heating and cooling due to their efficient energy use and due to their use of environmentally benign refrigerants with zero Global Warming Potential (GWP).&#13;
+The interest in thermally driven heat pumps and cooling machines is increasing worldwide. This book aims to contribute to improve the understanding of this environmentally friendly technology by providing information about the fundamentals and the recent developments. It is an outcome of Annex 34 "Thermally Driven Heat Pumps for Heating and Cooling" of the International Energy Agency’s Heat Pump Programme (IEA-HPP) in which experts from about 20 institutions from more than ten countries cooperated.&#13;
+The book is intended for planners, scientists, students and anyone interested, who wants to get an overview of the technology. It comes in form of individual papers of the participating research institutes and companies grouped together in the chapters "Thermally driven heat pumps for heating", "Thermally driven heat pumps for cooling" and, as useful heat and cold can also be supplied simultaneously or seasonally consecutively, "Thermally driven heat pumps for heating and cooling". A final chapter deals with "Research on working pairs and apparatus technology".</dc:description>
+          <dc:description xml:lang="deu">Laut Internationaler Energieagentur (IEA) stellen Wärme und Kälte derzeit 46% der globalen Endenergie dar. Zwei Drittel davon werden mit fossilen Brennstoffen erzeugt. Die IEA geht davon aus, dass die Nachfrage nach Wärme und Kälte in den nächsten Jahrzehnten schnell wächst. Um das globale Ziel der Reduktion von CO2-Emissionen zu erreichen, muss die Energieeffizienz deutlich verbessert werden. Thermisch angetriebene Wärmepumpen können dazu beitragen. Sie nutzen aber Energie nicht nur sehr effizient, sie werden auch mit umweltfreundlichen Kältemitteln wie z.B. Wasser oder Ammoniak betrieben.&#13;
+Das Interesse an thermisch angetriebenen Wärmepumpen und Kältemaschinen steigt weltweit. Dieses Buch soll dazu beitragen, das Verständnis dieser umweltfreundlichen Technologie zu verbessern, indem Informationen über die Grundlagen und die aktuellen Entwicklungen bereitgestellt werden. Das Buch entstand im Rahmen des Annex 34 "Thermally Driven Heat Pumps for Heating and Cooling" des Heat Pump Programme (HPP) der IEA, in dem Experten von circa 20 Institutionen aus mehr als zehn Ländern zusammengearbeitet haben.&#13;
+Das Buch richtet sich an Planer, Wissenschaftler, Studenten und alle Interessierten, die sich einen Überblick über die Technologie verschaffen möchten. Es besteht aus einzelnen Beiträgen der beteiligten Forschungseinrichtungen und Unternehmen, die in den folgenden Kapiteln zusammengefasst wurden: "Thermisch angetriebene Wärmepumpen zum Heizen", "Thermisch angetriebene Wärmepumpen zum Kühlen" und "Thermisch angetriebene Wärmepumpen zum Heizen und Kühlen", da Wärme und Kälte auch gleichzeitig oder saisonal aufeinanderfolgend zur Verfügung gestellt werden können. Ein abschließendes Kapitel befasst sich mit der "Forschung zu Arbeitsmitteln und Apparatetechnik".</dc:description>
+          <dc:date>2013-10-23</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3945</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-39458</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-39458</dc:identifier>
+          <dc:identifier>978-3-7983-2596-8</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3945/kuehn_annett_handbook.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:27Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:722">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:722</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Zum Ermüdungsverhalten von Beton</dc:title>
+          <dc:creator>Hohberg, Ralph</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Unter dem Ermüdungsverhalten von Werkstoffen wird die Abnahme der Leistungsfähigkeit verstanden, die durch zyklisch-mechanische Beanspruchungen verursacht wird. Ingenieurbauwerke, wie Brücken, Bahntrassen, Hochhäuser und Off-Shore-Konstruktionen sind in Einzelfällen zyklisch-mechanischen Beanspruchungen von bis zu 80 Hz ausgesetzt, die den Konstruktionsbeton ermüden und die Gebrauchsfähigkeit beeinträchtigen. Die Arbeit befasst sich mit der Abschätzung der Lebensdauer von sinusförmig druckschwellbeanspruchtem Beton, den Ermüdungseinflüssen und dem Nachweis von ermüdungsbedingten Betonschädigungen. Maßgebend für die Lebensdauerbeschreibung sind die Betonkennwerte und Parameter: E-Modul, Belastungshöhe, Frequenz und Feuchtigkeitszustand. Die Ermüdungsversuche werden an normalfesten Betonen sowie auch an speziellen Betonen, wie z.B. Recyclingbeton oder hochfester Beton durchgeführt. Die Unterspannung der Druckschwellbeanspruchungen liegt einheitlich bei ~2,0 MPa und die Oberspannung zwischen 50 % und 87 % der Zylinderseriendruckfestigkeit. Der untersuchte Frequenzbereich liegt zwischen 0,1 Hz und 20 Hz. Die Untersuchungen ergaben, dass mit Hilfe der zeitlichen Änderung der Steifigkeit in der Ermüdungsphase II die Lebensdauer von Beton abgeschätzt werden kann. Die zeitliche Änderung der Festigkeit hingegen zeigte sich als kein geeigneter Kennwert für die Beurteilung der Betonermüdung und Abschätzung der Lebensdauer. Zudem konnte das relative Ermüdungsverhalten mittels mechanischer Betonkennwerte abgeschätzt und die Art der Vorbeanspruchung (statisch oder zyklisch-mechanisch) durch Unterschiede im Ultraschall-Laufzeitverlauf während statischer Bruchversuche nachgewiesen werden.</dc:description>
+          <dc:date>2004-07-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/722</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7164</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7164</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/722/hohberg_ralph.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

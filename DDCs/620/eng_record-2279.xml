@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2279">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2279</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Möglichkeiten und Grenzen der Modellierung des Bahnbetriebes mit planerischen Zugfolgezeiten</dc:title>
+          <dc:title xml:lang="eng">Use and limits of a railway operation model with planned headway times</dc:title>
+          <dc:creator>Wustrow, Sören</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">In Theorie und Praxis der Fahrplanerstellung werden bislang überwiegend simulationsbasierte Planungsmethoden mit gegebenenfalls heuristischen Optimierungsalgorithmen verwendet. Diese Methoden bilden zwar die Infrastruktur und das rollende Material äußerst detailliert ab, können aber aus systematischen Gründen keinen mathematisch optimalen Fahrplan generieren. Der Kerngedanke des Projektes „Trassenbörse“ beruht dagegen auf der simultanen mathematischen Optimierung der Nutzung verfügbarer Fahrplantrassen mit dem Ziel höherer Gesamtnetzauslastung und Fahrplanstabilität. Da die Komplexität einer mikroskopisch gleisgenauen Datengrundlage die Rechenzeiten unverhältnismäßig hoch ansteigen lassen würde, ist für die mathematische Optimierung eine vergröberte Abbildung und Darstellung der Netzinfrastruktur und des Betriebes erforderlich. Dafür wurde im Rahmen dieser Arbeit die Modellierung mit planerischen Zugfolgezeiten entwickelt und untersucht. Die Modellierung des Bahnbetriebes mit planerischen Zugfolgezeiten verwendet gegenüber den gebräuchlichen Verfahren der mikroskopischen Simulation des Bahnbetriebes eine gröbere Darstellung von Infrastruktur, Fahrzeugen und Fahrplan. Diese Vergröberung ist insbesondere bei unzureichenden Datengrundlagen für eine mikroskopische Simulation (z.B. bei Prognoseuntersuchungen) und bei mangelnder Handhabbarkeit, sowie zu hohem Beschaffungs- und Pflegeaufwand der Datenmengen bei größeren Netzen vorteilhaft. Ziel der vorliegenden Arbeit ist es, die Anwendungsmöglichkeiten der Modellierung des Bahnbetriebes mit planerischen Zugfolgezeiten, deren Grenzen und die dabei zu beachtenden Randbedingungen aufzuzeigen. Die Arbeit untersucht die erforderlichen Daten sowie deren Einfluss auf die Genauigkeit der Ergebnisse, zeigt die Anwendungsmöglichkeiten dieser Modellierungsmethodik auf und beschreibt deren Grenzen. Außerdem werden eine Bewertung der erzielbaren Untersuchungsergebnisse sowie ein Vergleich mit bestehenden Verfahren durchgeführt.</dc:description>
+          <dc:description xml:lang="eng">In theory and practice of scheduling for railways have been used mostly simulation based methods of planning optionally with heuristic optimisation algorithms so far. These methods model infrastructure and rolling stock very detailed but are not able – for systematic reasons – to generate a mathematically optimal timetable. The basic thought of the project “Trassenbörse�? is based on the simultaneous mathematical optimisation of the usage of available timetable routes aiming at higher utilisation of the railway network and timetable stability. Since the complexity of a microscopic track specific data base would let increase the computing times disproportionate, for mathematical optimisation a coarsened model of railway operation and infrastructure is necessary. Therefore the railway operation model with planned headway times has been developed and examined in this thesis. The railway operation model with planned headway times uses in comparison to the usual microscopic railway simulation models a simplified model for railway infrastructure, rolling stock and time table. This simplification is advantageous especially with an insufficient data basis for a microscopic simulation (e.g. for a prognosis analysis) and in case of very high data handling efforts for larger networks. The aims of this thesis are to show the possible uses of the railway operation model with planned headway times as well as its limits and necessary conditions. This thesis analyses the required data as well as their influence on the accuracy of the computed results. Furthermore an evaluation of the achievable results and a comparison with established methods are accomplished.</dc:description>
+          <dc:date>2009-10-19</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/msword</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2279</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-23664</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-23664</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2279/original_wustrow_soeren.doc</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2279/wustrow_soeren.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-SA: Creative Commons Lizenz: Namensnennung, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:31Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2008">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2008</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Ein Modell der Open-Source-Entwicklung</dc:title>
+          <dc:title xml:lang="eng">A Model of Open Source Development</dc:title>
+          <dc:creator>Evers, Steffen</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">In den letzten zwanzig Jahren hat sich in Bezug auf Software viel verändert: die abgedeckte Funktionalität, wie ihre Umgebung aussieht, wie sie wirtschaftlich verwertet wird und letztendlich auch wie sie entwickelt wird. In Bezug auf die Vorgehensweise stellt die Open-Source-Entwicklung wohl die größte Abweichung von den klassischen Methoden dar. Die altbewährten Modelle für eine deterministische Entwicklung von Softwareprodukten sind dafür unzureichend. Trotzdem haben beide Bereiche viele gemeinsame, wesentliche Strukturen und Konzepte, die jedoch aufgrund der großen Unterschiede nur schwer zu erkennen sind. An dieser Stelle setzt die vorliegende Arbeit an. Sie versucht aus der klassischen Softwaretechnik jene grundlegenden Konzepte zu extrahieren, die sie mit der Open-Source-Methodik teilt, und sie von den Elementen zu befreien, die dafür unpassend sind (primär Determinismus, Planung und Produktorientierung). Das Ergebnis ist eine allgemeine, theoretische Fundierung von Softwareentwicklung, die auch auf die Open-Source-Methodik anwendbar ist, ohne dabei ihre Gültigkeit für bisherige Methoden zu verlieren. Es handelt sich dabei um so etwas wie eine Metasprache, die es ermöglichen soll, über Open-Source-Entwicklung zu sprechen. Sie umfasst vier Perspektiven, mit deren Hilfe jeweils andere Aspekte der Entwicklung beleuchtet werden: Komponenten-Perspektive: Es wird das Konzept der systematischen Wiederverwendung von Software­komponenten mit Hilfe von Komponentensystemen behandelt. Prozess-Perspektive: Die Zerlegung einer Aufgabe und des damit verbunden Entwicklungsvorgangs in mehrere Teile wird betrachtet (Phasen, Arbeitspakete, Zyklen, etc.). Agenten-Perspektive: Die Form der Zusammenarbeit der beteiligten Akteure und die dabei verwendeten Mechanismen zur Abstimmung ihrer Aktivitäten werden behandelt. Kontextmodell-Perspektive: Software dient als Werkzeug für ihre Umgebung, daher hat ihr Kontext eine zentrale Bedeutung für ihre Entwicklung. Diese Perspektive befasst sich mit Strategien und Methoden zum Umgang mit dem Kontext. Basierend auf diesen Konzepten wurde ein Modell der Open-Source-Entwicklung erstellt, das deren wesentliche Vorgänge erfasst und sie durch die gemeinsame Basis mit anderen Entwicklungsmethoden vergleichbar macht. Die theoretische Fundierung kann nun allgemein verwendet werden, um Entwicklungsvorgänge zu beschreiben. Das damit erfasste Modell der Open-Source-Entwicklung ist hilfreich für weitergehende Forschungen in diesem Bereich. So konnte mit Hilfe dieses Modells die zentrale Rolle der Selbstorganisation der Akteure und ihrer Aktivitäten bei dieser Entwicklungsform zusammen mit den zugehörigen Hintergründen und Konzepten erörtert werden.</dc:description>
+          <dc:description xml:lang="eng">In the last twenty years things have changed a lot around software: the provided functionality, its environment, the associated business domain and as a consequence the way it has been developed. Regarding the methodology Open Source development probably represents the biggest contrast to the classical approaches. The well-tried and established models for a deterministic development of software are inappropriate for the Open Source processes. However, both things have essential structures and concepts in common, but they are concealed by all their differences and therefore hard to reveal. This is the starting point of the thesis. Fundamental concepts from the field of established software engineering that are also valid for Open Source processes are extracted and inappropriate aspects are removed (primarily determinism, planning, and product orientation). The result is a general theoretical foundation of software development which is also applicable for Open Source without losing its validity for other approaches. It can be considered as a kind of meta language that makes it possible to talk efficiently about Open Source development and comprises four perspectives that each highlight different aspects of development activities: Component-Perspective: The concept of systematic reuse of software components with the help of component systems is discussed. Process-Perspective: The segmentation of a task and the related development activities in several smaller parts is examined (phases, work packages, cycles, etc.). Agent-Perspective: Different modes of collaboration of the various stakeholders and the underlying mechanisms to coordinate their activities are highlighted. Context-Model-Perspective: Software serves as a tool for its environment. Therefore the context plays a central role during its development. This perspective covers the strategies and methods to handle the context. Based on these concepts, a model of Open Source development is created that covers its essential activities and makes it comparable to other development methods by providing a shared foundation. The introduced theoretical framework can be used to describe development activities of software systems in general. The created model of Open Source development is useful for further studies of the Open Source phenomenon. As a first step, it has been used in the thesis itself to discuss the important role of self-organization, its background and the underlying concepts for the actors and their activities within this kind of development.</dc:description>
+          <dc:date>2009-01-12</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2008</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-21172</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-21172</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2008/evers_steffen.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

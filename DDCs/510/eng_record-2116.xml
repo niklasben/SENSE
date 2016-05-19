@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2116">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2116</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:510</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Incidence Graphs and Unneighborly Polytopes</dc:title>
+          <dc:title xml:lang="deu">Inzidenzgraphen und unnachbarschaftliche Polytope</dc:title>
+          <dc:creator>Wotzlaw, Ronald Frank</dc:creator>
+          <dc:subject>ddc:510</dc:subject>
+          <dc:description xml:lang="eng">This thesis deals with two topics from polytope theory: the graph-theoretical connectivity of incidence graphs of polytopes and related geometric structures and the combinatorial structure of so-called unneighborly polytopes. A number of results about incidence graphs are proven. We determine the connectivity of a large class of incidence graphs of polytopes, improving results by Sallee (1967). A related conjecture about incidence graphs of regular Cohen-Macaulay cell complexes that was posed by Athanasiadis (2008) is proven and generalized. We also consider linkages in polytope graphs. Linkages play a very important role in graph minor theory. We improve results by Larman &amp; Mani (1970) and Gallivan (1970). In particular, we determine the linkedness of polytopes with "few vertices" and prove a statement about uniqueness of combinatorial types that are extremal with respect to linkedness. Unneighborly polytopes were considered by Mani (1974), McMullen (1979), and Marcus (1981, 1984). The combinatorial structure of these polytopes is not well-studied. Not even the very basic question about the minimum number of vertices that an unneighborly polytope can have has been answered so far. This question remains unsolved, however, we make considerable progress. We prove upper bounds on the minimum number of vertices of unneighborly polytopes by constructing examples based on polytopes that were discovered by Mani (1974). These examples refute a conjecture by Marcus (1981) about the number of vertices of unneighborly polytopes. Lower bounds are derived by relating the problem to a theorem of Perles (1970, unpublished), for which a proof by Kalai was published (1994). Perles' theorem is proved in various generalities and by different means. In particular, the bounds that one may derive from Kalai's proof are improved. One corollay of the generalized versions of Perles' theorem is a solution to a problem by Bienia &amp; Las Vergnas (see Björner et al. 1993) about the size of minimal positive k-spanning sets in oriented matroids. This problem is related to unneighborly polytopes by duality. In connection with unneighborly polytopes, we solve a problem by Mani (1974) on the existence of nonsimplicial illuminated polytopes. For each dimension, we either prove the nonexistence or construct such a polytope. Furthermore, the thesis contains some small improvements to known results. Open problems, questions, and conjectures that are related to the topics considered are posed.</dc:description>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit beschäftigt sich mit zwei Themen der Polytoptheorie: dem graphentheoretischen Zusammenhang von Inzidenzgraphen von Polytopen und verwandter geometrischer Strukturen, sowie mit kombinatorischen Eigenschaften so genannter "unnachbarschaftlicher" Polytope. Bezüglich des ersten Themengebietes wird eine nicht unerhebliche Anzahl neuer Resultate erzielt. So wird der Zusammenhang einer großen Klasse von Inzidenzgraphen von Polytopen bestimmt, was Resultate von Sallee (1967) verbessert. Eine verwandte Vermutung von Athanasiadis (2008) über Inzidenzgraphen von regulären Cohen-Macaulay Zellkomplexen wird bewiesen und sogar noch verallgemeinert. Des Weiteren werden Verlinkungen in Polytopgraphen betrachtet. Diese spielen in der reinen Graphentheorie eine wichtige Rolle in der Theorie der Minoren. Hier werden Resultate von Larman &amp; Mani (1970) sowie Gallivan (1985) verbessert. Insbesondere wird erstmals die Verlinkung von Polytopen mit "wenigen Ecken" exakt bestimmt, und es werden Eindeutigkeitsaussagen über kombinatorische Typen extremaler Beispiele gezeigt. Unnachbarschaftliche Polytope wurden in Arbeiten von Mani (1974), McMullen (1979), und Marcus (1981, 1984) studiert. Die kombinatorische Struktur dieser Polytope ist weitgehend unerforscht. Nicht einmal die grundlegende Frage über die minimale Eckenanzahl solcher Polytope ist vollständig geklärt. Diese Frage bleibt auch in der vorliegenden Arbeit ungelöst, aber es werden wichtige Fortschritte gemacht. Sowohl untere als auch obere Schranken an die minimale Eckenanzahl unnachbarschaftlicher Polytope werden bewiesen. Die oberen Schranken werden durch Konstruktion von Beispielen, die Polytope von Mani (1974) verallgemeinern, erreicht. Diese Beispiele widerlegen eine Vermutung von Marcus (1981) über die Eckenanzahl unnachbarschaftlicher Polytope. Für die unteren Schranken wird ein Satz von Perles (ungefähr 1970, unveröffentlicht), für den ein Beweis durch Kalai (1994) vorliegt, auf verschiedene Arten und in verschiedener Allgemeinheit bewiesen. Die aus der Arbeit von Kalai abgeleiteten Schranken werden durch die hier angewandten Methoden verbessert. Ein Korollar der bewiesenen Verallgemeinerungen ist die Lösung eines Problems von Bienia &amp; Las Vergnas (siehe Björner et al. 1993) über die Größe minimal positiv k-aufspannender Mengen in orientierten Matroiden. Dieses Problem ist über Dualität mit unnachbarschaftlichen Polytopen verwandt. Im Zusammenhang mit unnachbarschaftlichen Polytopen wird des Weiteren ein offenes Problem von Mani (1974) über die Existenz nicht-simplizialer illuminierter Polytope auf minimaler Eckenanzahl vollständig gelöst, indem für jede Dimension entweder ein solches Polytop konstruiert oder die Nichtexistenz bewiesen wird. Die Arbeit enthält zusätzlich einige kleinere Verbesserungen bekannter Resultate. Offene Probleme, Fragen, und Vermutungen, die thematisch mit der Arbeit verwandt sind, werden aufgestellt.</dc:description>
+          <dc:date>2009-05-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/x-tar</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2116</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22219</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22219</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2116/original_src.tar</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2116/wotzlaw_ronald.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:04Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2982">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2982</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:660</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Analysis of Gas Phase Polycyclic Aromatic Hydrocarbon Mixtures by Laser Induced Fluorescence</dc:title>
+          <dc:title xml:lang="deu">Gasphasenanalyse von Gemischen polyzyklischer Aromaten mittels laserinduzierter Fluoreszenz</dc:title>
+          <dc:creator>Sun, Renhui</dc:creator>
+          <dc:subject>ddc:660</dc:subject>
+          <dc:description xml:lang="eng">The objective of this research is to improve an online and non-intrusive measurement technique that qualifies and quantifies the tar in a biomass gasification producer gas. Laser induced fluorescence (LIF) is a viable technique for qualitative and quantitative analysis of polycyclic aromatic hydrocarbons (PAH). This work designs and builds an analytical tool, $''$contar$''$, for nearly continuous analysis of the gas phase PAH based on LIF. The purpose of this research is to further detect the complex mixtures containing pure PAH substances and investigate the relation between the substance concentrations and the fluorescence intensity. The further research analyzes the results of online real tar analyses implemented with data acquired by contar and indicates the application of LIF for online tar analysis. Different tar model compounds were analyzed within this setup at temperatures ranging from 100 to 300$\,^{\circ}$C. A linear fit function describes the relation between the concentration of these compounds and the fluorescence intensity at 300$\,^{\circ}$C. This thesis addresses measurements of individual PAH components and their mixtures. The results and the calibration of selected PAH species were compared with online GC/MS. A multiple linear regression approach was applied to LIF spectra of mixtures from selected components at known concentrations in various combinations. It was demonstrated that this approach allows for the measurement of the concentration of PAH species in the gas phase at elevated temperatures within $\pm$20\% accuracy as long as if the LIF spectra of the individual species for specified concentrations in the PAH mixture are known beforehand. Contar was used online to examine the tar content of three different producer gases. Continuous online monitoring is possible with the contar analyzer, and the fitting tar contents export continuously. Tar analysis time is reduced to a few seconds and even the treated biomass gasification producer gas can be quantified. The four-species reference fitting routine cannot simulate real tar spectra perfectly. The standard deviation between the real spectrum and the fitted spectrum is much larger than that of the pure substance mixture estimate. Naphthalene is the main substance in the GC/MS measurement, but the LIF fit presents Phenanthrene, which accounts for 70\% of the total tar concentration. The current contar prototype still has some unsolved problems. The fitting accuracy and LIF signal stability need to be explored in the further research.</dc:description>
+          <dc:description xml:lang="deu">Ziel dieser Arbeit ist die Verbesserung einer indirekten Messmethode, mit der sowohl qualitativ als auch quantitativ die Teergehalte in einem Produktgas aus der Biomassevergasung bestimmt werden können. Laser induzierte Fluoreszenz (engl. Laser Induced Fluorescence, LIF) ist eine solche Methode, mit der insbesondere polyzyklische aromatische Kohlenwasserstoffe (PAK) nachgewiesen werden können. In der vorliegenden Arbeit wird ein Messgerät ("CONTAR") vorgestellt, mit dem kontinuierliche LIF-Messungen in der Gasphase zur Bestimmung des PAK-Gehalts durchgeführt werden können. Dabei liegt der Fokus auf der Untersuchung des Zusammenhangs zwischen der Konzentration der PAK (auch Komponentengemische) und der Fluoreszenzintensität. Desweiteren wird die Eignung von "CONTAR" in Echtzeitmessungen bei bestehenden Anlagen untersucht. Verschiedene Teergemische werden mit CONTAR im Temperaturbereich von 100 bis 300°C untersucht. Der Zusammenhang zwischen der Konzentration der Einzel-Komponenten und ihrer Fluoreszenz bei 300°C kann durch eine lineare Funktion beschrieben werden. Die Ergebnisse werden mit GC/MS-Messungen evaluiert. Durch multiple lineare Regression werden LIF-Spektren von synthetischen Gemischen in vielen Kombinationen vermessen. Es kann gezeigt werden, dass mit diesem Ansatz die PAK-Konzentration in der Gasphase mit einer Genauigkeit von 20% bestimmt werden kann, wenn die LIF-Spektren der reinen Komponenten bekannt sind. CONTAR wird außerdem zur Bestimmung des Teergehalts von drei verschiedenen realen Produktgasen eingesetzt. Die Analysezeit kann durch CONTAR erheblich (auf wenige Sekunden) reduziert werden. Die mit der auf vier Spezies beruhenden Referenzmethode berechneten Teer-Konzentrationen weichen zum Teil erheblich von den mit GC/MS ermittelten Werte ab. Naphthalin wurde durch GC/MS-Messungen als Hauptkomponente identifiziert, während die LIF-Messungen Phenanthren als Hauptkomponente identifizieren (70% der Gesamtteerkonzentration). Desweiteren treten beim CONTAR-Prototypen Probleme auf, die durch technische Anpassungsmaßnahmen zu lösen sind. Insbesondere bzgl. der Auswertung des LIF-Signals und dessen Zusammenhang zur Teergesamtkonzentration bei Realgasen besteht noch erheblicher Forschungsbedarf.</dc:description>
+          <dc:date>2011-07-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2982</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31477</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31477</dc:identifier>
+          <dc:identifier>978-3-938720-81-3</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2982/sun_renhui.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2982/sun_renhui_cover.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1561">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1561</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:550</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Influence of the resistivity on Magnetic Resonance Sounding: 1D inversion and 2D modelling</dc:title>
+          <dc:title xml:lang="deu">Einfluss der Resistivität auf die Magnetische Resonanz Sondierung: 1D Inversion und 2D Modellierung</dc:title>
+          <dc:creator>Braun, Martina</dc:creator>
+          <dc:subject>ddc:550</dc:subject>
+          <dc:description xml:lang="eng">Magnetic Resonance Sounding (MRS, or Surface Nuclear Magnetic Resonance, SNMR) is used for groundwater exploration and aquifer characterisation to map water content and hydraulic conductivity. Since MRS is basically an electromagnetic method, the resistivity of the subsurface affects amplitude and phase of the MRS signal. The objectives of this study are, firstly, to investigate to which degree and in which way the resistivity affects MRS and, secondly, to investigate if it is possible to extract the resistivity information from MRS in the inversion. Recently, the application of MRS has been extended from 1D to 2D water content investigations, thus, also the resistivity should be taken into account as 2D or even 3D. These investigations show the influence of a 2D resistivity model on the MRS signal compared to the calculated signal using an approximated 1D case. The results indicate that a 1D approximation is valid if the midpoint of the loop is at least one loop diameter away from the 2D structure. The substitution of a 2D resistivity with a 1D equivalent layer model has been found impossible due to the different 2D sensitivities. The impact of the 2D resistivity is also demonstrated for field data. The most essential part of this work is the development of a new inversion scheme, which for the first time incorporates the resistivity as inversion parameter. This is the basis for using MRS as stand-alone method. The new inversion scheme takes advantage of the guided random search algorithm simulated annealing in a stable block inversion in combination with the fast convergence of a least square algorithm used for the actual resistivity inversion, that uses fixed layer thicknesses obtained from the block inversion. The successful application on field data shows that the resistivities derived from MRS are comparable to those from conventional geoelectric methods. By using an appropriate resistivity in the inversion, also the water content determination is improved. Having also the resistivity along with the water content distribution as inversion result, MRS gives information about the mineralisation of the aquifer and thereby, the quality of the aquifer can be assessed. This is of utmost interest for further hydrogeological interpretation. This specific information cannot be achieved by geoelectrics alone, because of the nonuniqueness in resistivity concerning water content and mineralisation.</dc:description>
+          <dc:description xml:lang="deu">Die Magnetische Resonanz Sondierung (MRS, oder Oberflächen Nuklear Magnetische Resonanz - SNMR) wird für die Grundwasserexploration und Aquifercharakterisierung verwendet. Da MRS prinzipiell eine elektromagnetische Methode ist, beeinflusst die Resistivität des Untergrundes Amplitude und Phase des MRS Signals. Die Ziele dieser Studie sind zum einen, zu untersuchen bis zu welchem Grad und auf welche Art und Weise die Resistivität das MRS Signal beeinflusst, und zum anderen zu untersuchen ob es möglich ist, die Resistivitätsinformation aus dem MRS Signal wieder zu extrahieren. Die Anwendung von MRS wurde mittlerweile von 1D auf 2D Wassergehaltsverteilungen ausgeweitet. Deshalb sollte auch die Resistivität in 2D oder sogar 3D berücksichtigt werden. Diese Untersuchungen zeigen den Einfluss eines 2D Resistivitätsmodells auf das MRS Signal verglichen mit dem Signal, das für einen angenäherten 1D Fall berechnet wurde. Die Ergebnisse deuten darauf hin, dass eine 1D Näherung gültig ist, wenn der Mittelpunkt der Spule mindestens einen Spulendurchmesser von der 2D Struktur entfernt ist. Aufgrund unterschiedlicher 2D Sensitivitäten, ist es nicht möglich, eine 2D Resistivität mit einer 1D äquivalenten Schicht zu ersetzen. Die Auswirkung der 2D Resistivität wird auch anhand von Felddaten demonstriert. Der wesentlichste Teil dieser Arbeit ist die Entwicklung eines neuen Inversionsschemas, das zum ersten Mal die Resistivität als Inversionsparameter berücksichtigt. Dies ist die Grundlage, um MRS als alleinstehende Methode zu verwenden. Das neue Inversionsschema nutzt die Vorteile des zufallsbasierten Suchalgorithmus Simulated Annealing in einer stabilen Blockinversion in Kombination mit der schnellen Konvergenz eines Least Square Algorithmus', der für die eigentliche Resistivitätsinversion verwendet wird. Diese verwendet feste Schichtmächtigkeiten, ermittelt aus der Blockinversion. Die erfolgreiche Anwendung auf Felddaten zeigt, dass die Resistivitäten, die aus MRS ermittelt wurden, vergleichbar mit denen aus konventionellen geoelektrischen Methoden sind. Hat man nun die Resistivität zusammen mit dem Wassergehalt als Inversionsergebnis, dann kann MRS Aufschluss über die Mineralisation des Aquifers geben; dadurch kann die Qualität des Aquifers abgeschätzt werden. Dies ist von besonderem Interesse für die weitere hydrogeologische Interpretation. Aufgrund der Mehrdeutigkeit der Resistivität bezüglich Wassergehalt und Mineralisation kann man diese Information nicht durch Geoelektrik allein erhalten.</dc:description>
+          <dc:date>2007-07-25</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/plain</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1561</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16176</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16176</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1561/original_braun_martina.lyx</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1561/braun_martina.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

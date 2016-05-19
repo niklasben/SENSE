@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3263">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3263</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Nutzergerechte Informationsvisualisierung für Augmented Reality Anzeigen</dc:title>
+          <dc:title xml:lang="eng">User-centered Information Visualization for Augmented Reality</dc:title>
+          <dc:creator>Wegerich, Anne</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit stellt einen Lösungsweg der nutzergerechten Gestaltung von (stationären) Augmented Reality (sAR) Anzeigen vor. Für die verbesserte automatische Generierung von AR Darstellungen wird dazu ein Bottom-Up Verfahren eingesetzt. Dafür erfolgt eine Anlehnung an die Techniken und Modelle der Informationsvisualisierung für zweidimensionale Anzeigen. Ziel ist die Nutzbarmachung der entsprechenden Vorgehensweise in Form der prototypischen Entwicklung eines Informationssystems für eine intelligente Küchenumgebung. Die Problematik besteht vorerst in der Sammlung der 2D Visualisierungsparameter, die in etablierten Taxonomien der Abhängigkeitsfaktoren eingefasst sind, sowie in der Klärung der Übertragbarkeit der wichtigsten Parameter und ihrer Gestaltungsrichtlinien auf die AR Anzeigecharakteristik. Darüber hinaus werden AR spezifische Visualisierungsparameter zusammen getragen, ebenso wie deren zugehörige Gestaltungsrichtlinien, um eine Basis zu schaffen für die automatisierte und nutzergerechte Erstellung von (s)AR Darstellungen (Visualisierungssynthese). Die sich ergebenden widersprüchlichen und offenen Fragestellungen zu den AR spezifischen Parametern werden durch zwei entsprechende Experimente (angelehnt an das Küchenszenario) geklärt. Gemeinsam können die Parameter anschließend als Grundlage dienen, um eine geeignete Visualisierungssynthesetechnik zu ermitteln. Für diese Arbeit werden die in 2D bereits etablierte Technik des Visualization Exploration Models in Kombination mit einem Fuzzy Expertensystem genutzt. Fuzzy Wertzuweisungen ermöglichen dabei die Handhabung weicher Wertebereiche der Gestaltungsrichtlinien. Diese Techniken werden dann in die modulare und skalierbare Softwarearchitektur eines Blackboardsystems integriert, um die Systementwicklung auch für andere Anwendungsfelder zugänglich zu machen. In der vorliegenden Arbeit werden jedoch auch die nötigen Zusatzimplementierungen und kontext-abhängigen Softwaremodule beschrieben, um realitätsnahe Abhängigkeiten der AR Bilderstellung zu schaffen.</dc:description>
+          <dc:description xml:lang="eng">The presented work introduces a solution for user-centered design of (spatial) Augmented Reality displays. To achieve an optimal automation for generating AR presentations a bottom-up approach is used. Therefore, the techniques and models of two-dimensional information visualization serve as example. They represent the basis for the development of a prototype of an information system in a smart kitchen. As a first step there is a need to collect the 2D visualization parameters. They form the core of visualization models which describe their relations and dependencies from data types and contextual factors. Also the transferability of relevant 2D parameters and appropriate guidelines for their user-centered presentation to AR displays has to be tested. This work also collect AR specific parameters and established guidelines which together serves as knowledge base for the automation of a visualization decision or synthesis. Inconsistent or open questions concerning the guidelines are determined with two experiments which give answers for the kitchen context. In the second step visualization techniques are compared and analyzed for the proposed usage as a bottom-up visualization synthesis. At this point, the (in 2D) established Visualization Exploration Model combined with a fuzzy expert system will be implemented. The incorporated fuzzy rules sets for the appointment of parameter values thereby allow to handle weak definitions of value ranges. The techniques are part of a high scalable blackboard system which is chosen as the architecture of the information system in the smart kitchen. This concept is generalizable with substituting kitchen components with e.g. the components for the setting of a plant control. But to achieve real dependencies and conditions for generating user-centered sAR displays this work also presents the appropriate implementations for a smart kitchen setting.</dc:description>
+          <dc:date>2012-03-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3263</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-34392</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-34392</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3263/wegerich_anne.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

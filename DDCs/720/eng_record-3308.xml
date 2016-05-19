@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:59:35Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3308">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3308</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Stadtvisionen - denkbar? machbar! : strategische Patenschaften zwischen Schule und Stadt im Brunnenviertel</dc:title>
+          <dc:title xml:lang="eng">City Vision - Possible? Feasible! : mentoring between school and city</dc:title>
+          <dc:creator>Fritz, Rüdiger</dc:creator>
+          <dc:creator>Lang, Andrea</dc:creator>
+          <dc:creator>Kyriakopoulos, Fee</dc:creator>
+          <dc:creator>Pastor, Maja-Lena</dc:creator>
+          <dc:creator>Hofmann, Susanne</dc:creator>
+          <dc:creator>Walter, Urs</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">Patenschaften zwischen Schule und Stadt als Motor für eine soziale Stadtentwicklung Wie können SchülerInnen an der Konzeption ihrer gebauten Umwelt beteiligt werden und dabei einen neuen Austausch zwischen Schule und Stadt initiieren? Pfefferwerk Stadtkultur gGmbH und das Fachgebiet von Prof. Susanne Hofmann am Institut für Architektur der TU Berlin erproben unterschiedliche Modelle der Nutzerbeteiligung. Im Rahmen von Schule aktiv - Durchstarten im Brunnenviertel entwickeln ExpertInnen aus den Fachbereichen Architektur, Szenografie, Design und Pädagogik gemeinsam mit SchülerInnen unterschiedliche Konzepte der Raumgestaltung an der Ernst-Reuter-Sekundarschule (ERS) und der Gustav-Falke-Grundschule (GFS) im Berliner Wedding. Parallel dazu erforschen die Grund- und SekundarschülerInnen zusammen mit Architekturstudierenden die Ressourcen der Nachbarschaft und entwickeln experimentelle Formen für eine Vernetzung der Schule mit dem Stadtteil. Im gegenseitigen Austausch konzipieren sie architektonische Visionen für die Belebung der strikten Grenzen ihrer Schulen. Sie entdecken den öffentlichen Raum als nachbarschaftlichen Lernort und sie zeigen wie die Interessen der Jugendlichen als Imagefaktor ihres Stadtteils ihren Kiez über seine Grenzen hinaus bekannt machen können. </dc:description>
+          <dc:description xml:lang="eng">Mentoring between school and city - Driving force for social urban development How can pupils contribute to the creation of their built environment and thereby initiate a new sort of exchange between schools and the city? Professor Susanne Hofmann of the Technical University Berlin and Pfefferwek Stadtkultur are testing different modes of user participation. As part of the project “Schule aktiv - Durchstarten im Brunnenviertel�? experts in architecture, scenography, design and education will be working with pupils to develop different interior concepts for two schools, Ernst-Reuter-School and the Gustav-Falke Elementary School, in the Wedding neighbourhood, Berlin. In parallel, primary and secondary school pupils will be working together with architecture students to explore the area’s resources and develop experimental modes of networking between the school and local neighbourhood. Through mutual exchange they will develop an architectural vision for the school’s revitalisation and connection to its locality. They will investigate the possibilities of the public realm as a space for neighbourhood learning and demonstrate how the interests of young people can transform the identity of place, and thereby the wider perception of the neighbourhood. </dc:description>
+          <dc:contributor>Pfefferwerk Stadtkultur gGmbH</dc:contributor>
+          <dc:date>2012-04-27</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3308</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-35215</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-35215</dc:identifier>
+          <dc:identifier>978-3-7983-2397-1</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3308/2397_ASK_II_Inhalt.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3308/2397_ASK_II_Umschlag.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

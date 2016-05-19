@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:53:33Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2014">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2014</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Taktrückgewinnung aus hochratigen optischen RZ-Datensignalen mittels differentieller optischer Signalverarbeitung</dc:title>
+          <dc:title xml:lang="eng">Clock recovery for optical high bit-rate return-to-zero datasignals by differential signal processing</dc:title>
+          <dc:creator>Börner, Christof</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die Arbeit beschreibt den Aufbau, die Charakterisierung und den experimentellen Test einer optischen Taktrückgewinnung für optische Zeitmultiplex-Datensignale (OTDM) bei einer Datenrate von 160 Gbit/s. Die Aufgabe der Taktrückgewinnung besteht in der Generierung eines zum Datenstrom synchronen Taktsignals lediglich mit Hilfe des Datenstroms selbst. Die Taktrückgewinnung wurde für den Einsatz im Empfänger von glasfaserbasierten optischen 160-Gbit/s-Übertragungssystemen entwickelt. Da bestehende Empfangssysteme einen Takt von 160 GHz nicht verarbeiten können, wurde das rückgewonnene Taktsignal als elektrisches Hochfrequenzsignal mit der zum Datensignal subharmonischen Frequenz von 10 GHz zur Verfügung gestellt. Für die Taktrückgewinnung wurde ein neuartiger Phasenkomparator mit optisch differentieller Signalverarbeitung entwickelt und in einer linearen Phasenregelschleife (PLL) eingesetzt. In dieser Arbeit wurde die Entwicklung dieses neuen Phasenkomparators und seiner Komponenten beschrieben. Seine Kennlinie wurde experimentell untersucht und theoretisch bestimmt. Eine Einbettung in die Theorie der linearen PLL war möglich. Aus der Theorie ließ sich das Regelverhalten der Taktrückgewinnung bei einem Phasensprung sowie die Stabilität und der zeitliche Jitter des rückgewonnenen Taktsignals in Abhängigkeit von der optischen Eingangsleistung bestimmen. Die theoretischen Berechnungen waren in guter Übereinstimmungen mit experimentellen Ergebnissen, die an der Taktrückgewinnung mit einem 40-GHz-Eingangssignal ohne Datenmodulation gemessen wurden. Die in dieser Arbeit beschriebene Taktrückgewinnung wurde in unterschiedlichen OTDM-Übertragungsexperimenten bei einer Datenrate von 160 Gbit/s eingesetzt. Dabei zeigte sich besonders ihre Robustheit gegenüber Signalverzerrungen und eine hohe Langzeitstabilität. Der zeitliche Jitter des rückgewonnenen Taktsignals konnte je nach Art des eingesetzten optischen Senders sogar verringert werden. Auch in einem 320-Gbit/s-Übertragungsexperiment konnte die Taktrückgewinnung erfolgreich eingesetzt werden, jedoch zeigte sie dabei eine deutlich geringere Robustheit als bei der Datenrate 160 Gbit/s. Ebenfalls ließ sich die Taktrückgewinnung in einem Optischen Samplingsystem für 320 Gbit/s erfolgreich einsetzen. Gedruckte Version im Verlag Dr. Hut [http://www.dr.hut-verlag.de/] erschienen.</dc:description>
+          <dc:description xml:lang="eng">This work describes the set-up, the characteristics and the experimental tests of an optical clock recovery for optical time-division multiplexed (OTDM) signals at a data-rate of 160 Gbit/s. The clock recovery was developed for the use in a receiver of fiber-based optical 160-Gbit/s transmission systems. The clock recovery generates a clock signal that is synchronized to a data stream at the receiver solely with use of the data stream itself. As common receivers cannot process a 160 GHz clock signal, the recovered clock signal is an electrical high frequency signal at a subharmonic frequency of 10 GHz. For this clock recovery a novel phase-comparator with optical differential signal processing was developed and used in a linear phase locked loop (PLL). In this work, the development of this new phase-comparator and its components is described. Its operation characteristics were experimentally analyzed and theoretically specified. An integration in the theory of a linear PLL was performed. The theory provided a description of the operation of the clock recovery during the appearance of a phase-jump as well as a description of the stability and the timing jitter of the recovered clock signal in dependence of the optical input power. The calculations were in good agreement with experimental results, that were obtained when a 40-GHz signal without data modulation was input in the clock recovery. The clock recovery described in this work was successfully applied to several OTDM transmission experiments at a data rate of 160 Gbit/s. The experiments showed that its operation is very insensitive to many signal distortions and provides a high long-term stability. Furthermore it was possible to apply the clock recovery also successfully to a 320 Gbit/s transmission experiment, however with noticeably lower roughness as compared to the roughness at 160 Gbit/s. Likewise the clock recovery was successfully applied to an optical sampling system for 320 Gbit/s. Printed version available from Verlag Dr. Hut: [http://www.dr.hut-verlag.de/]</dc:description>
+          <dc:date>2009-01-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/zip</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2014</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-20714</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-20714</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2014/original_boerner_christof_src.zip</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2014/boerner_christof.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

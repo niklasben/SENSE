@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:06Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2552">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2552</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Muster in Prozessen der Bauablaufplanung. Ein Branch-and-Bound-Verfahren zur Mustererkennung in Planungs- und Ausführungsprozessen</dc:title>
+          <dc:title xml:lang="eng">Patterns in Civil Engineering Schedules. A Branch-and-Bound Approach to Pattern Recognition in Planning and Construction Processes</dc:title>
+          <dc:creator>Enge, Felix</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Im Rahmen der Vorbereitung von Bauprojekten befassen sich erfahrene Ingenieure mit der Planung von komplexen Bauabläufen, mit dem Ziel, Vorgaben für einen kosten- und zeitoptimalen Sollablauf zu bestimmen. Hierbei sind Entwurfsinformationen, die beispielsweise aus CAD-Plänen stammen, auf Prozessinformationen abzubilden. Software-Werkzeuge erlauben die graphische Bearbeitung, die Spezifikation von Abhängigkeiten und die Überprüfung von Eigenschaften des zugrunde liegenden Graphen. Die Logik der Eingabe des modellierten Ablaufs wird jedoch nicht adressiert. Am Fachgebiet Bauinformatik der TU Berlin wurde eine Methodik entwickelt, auf deren Grundlage eine Verknüpfung der Entwurfsinformationen mit Prozessinformationen vorgenommen werden kann. Die Methodik nutzt Prozessvorlagen, die als Bauteiltypen bezeichnet werden. Sie stellen den Herstellungsablauf typischer Bauteile dar. Zerlegt man ein Bauwerk in seine Bauteile und ordnet diesen die Bauteiltypen zu, so lässt sich das Gestalten der Bauabläufe formalisieren. Abhängig von der Art der Zerlegung - Zerlegung des Bauwerks in Bauteile - und der Komplexität der verwendeten Bauteiltypen - Prozessvorlagen - ergibt sich ein unterschiedlich hoher Spezifikationsaufwand für den Nutzer. Vor dem Hintergrund des Spezifikationsaufwands stellt sich die Frage nach der optimalen Zerlegung eines Bauwerks in Bauteile und Bauteiltypen. Im Rahmen dieser Arbeit wird auf ein Branch-and-Bound-Verfahren eingegangen, das zur Bestimmung optimaler Zerlegungen von Planungs- und Ausführungsprozessen in Entwurfskomponenten und korrespondierende Teilprozesse dient. Durch Rückrechnung werden für gegebene Bauabläufe, die auf der Grundlage der oben genannten Modellierungstechnik entwickelt wurden, diejenigen Zerlegungen gesucht, für die der Spezifikationsaufwand minimal ist. Aus der Kenntnis der optimalen Zerlegungen lassen sich Prozessvorlagen kontinuierlich verbessern. Erfahrungen aus abgeschlossenen Projekten tragen dazu bei, Prozessvorlagen für anstehende Projekte bereitzustellen. An theoretischen und praktischen Beispielen wird die Methodik erläutert und diskutiert.</dc:description>
+          <dc:description xml:lang="eng">Within the project preparation phase, experienced professionals manually map design information onto process information with the aim to develop realistic and practical schedules. Unfortunately, the mapping itself is neither part of any underlying data model nor is it supported by current scheduling tools. As a consequence the process of setting up the data model for a schedule is still not supported formally. At Technische Universität Berlin, research activities have been carried out where a complete, correct and consistent process is regarded as a result of a computation that addresses the missing linkage between design and process information. The approach makes use of so called component types. These are template sub-processes that describe the fabrication procedure of typical building components. Decomposing the building into components and assigning a component type to each component allows for formal support while scheduling. Depending on the decomposition of the building into components and the complexity of the involved sub-processes the specification effort differs. The question about optimal sub-processes arises: Which layout of building components and sub-processes results in minimal specification effort? This dissertation presents a branch and bound algorithm to determine optimal decompositions of planning and construction processes into design information and process information. For a given schedule, which has been modelled on a template-based modelling technique, all possible decompositions are determined. During the decomposition process the encountered configurations are compared. Those with minimal specification effort are registered. The knowledge about optimal decompositions is used to improve the basis of process-templates for future projects. Theoretical and practical examples are examined and discussed.</dc:description>
+          <dc:date>2010-06-16</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2552</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26577</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26577</dc:identifier>
+          <dc:identifier>978-3-8322-9053-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2552/enge_felix.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

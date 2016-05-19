@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:54:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2113">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2113</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Investigation of laser-beam modulations induced by the operation of electronic devices</dc:title>
+          <dc:title xml:lang="deu">Untersuchung von Laserstrahl-Modulationen induziert durch den Betrieb eines elektronischen Bauelementes</dc:title>
+          <dc:creator>Kindereit, Ulrike</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">Due to the ongoing increase of integration density in integrated circuits, the demands on failure analysis methods for semiconductor devices are changed drastically. “Laser Voltage Probing�? (LVP) is the technical term for an all-optical laser-based technique that acquires waveforms through the silicon backside. Although LVP is widely used in failure analysis labs, the level of knowledge about signal origin is still very low. This work presents detailed investigations of the signals origin. This work used a modified LVP setup, which employed a cw laser. It was possible to choose between two laser wavelengths: 1319 nm or 1064 nm. Three new measurement methods were introduced, all of them extracting frequency-information with a spectrum analyzer in opposition to the time-domain measurements (waveform acquisition with an oscilloscope), which are performed with the commercial LVP tools. Voltage sweeps were capable of determining the signal-to-voltage correlations. Modulation amplitude maps and modulation sign maps showed signal levels and signs of various device areas. With the low-noise frequency-domain measurement methods it was possible to acquire signals very fast: a voltage sweep takes a few seconds, modulation maps a few minutes depending on the size of the area that is to be investigated. The test structures from Infineon Technology AG were of 120 nm and 65 nm process technology. A broad spectrum of measurements is presented: the sizes of the MOSFETs (metal oxide semiconductor field effect transistors) were chosen to be 10 µm - in order to distinguish the different signal sources and study them separately - and devices with nominal gate dimensions - to investigate the effects on structures with decreased gate dimensions. A concise model that described the interaction effects of laser light - for both wavelengths - and the device activity was built in order to explain the signal sources and to forecast signal levels for future technologies and scaling.</dc:description>
+          <dc:description xml:lang="deu">Das stetige Erhöhen der Integrationsdichte von integrierten Schaltkreisen verändert die Ansprüche an Fehleranalyse-Methoden von Halbleiter-Bauelementen. "Laser Voltage Probing" (LVP) ist der Fachbegriff für eine Messmethode in der Fehleranalyse, die zum Messen der elektrischen Aktivitaet von Bauelementen verwendet wird. LVP ist eine weitgehend zerstoerungsfreie, optische, laser-basierte Methode, die Signale durch die geduennte Rueckseite des Schaltkreises akquiriert. Obwohl LVP in der Fehleranalyse haeufig Anwendung findet, ist das Verstaendnis von Signalursprung und –verlauf noch sehr gering. Diese Arbeit praesentiert detaillierte Untersuchungen des Signalursprungs. Im Gegensatz zu herkoemmlichen Messaufbauten wird hier ein Dauerstrichlaser, mit 1319 nm bzw. 1064 nm Wellenlaenge, verwendet. Drei neue Messmethoden werden vorgestellt, die alle Frequenzinformationen extrahieren, wohingegen kommerzielle Geraete Zeitinformationen durch Messungen mit Hilfe eines Oszilloskops auswerten. Diese neuen Methoden ermoeglichen das Messen von Signal-Spannungs-Korrelationen in einem Punkt und das Kartieren von Signalen in verschiedenen Gebieten eines Bauelements. Im Vergleich zu herkoemmlichen, oft nicht erfolgreichen Messmethoden, produzieren die vorgestellten Methoden zuverlaessige Ergebnisse in deutlich kuerzeren Messzeiten. Die verwendeten Bauelemente sind Teststrukturen von Infineon Technologies AG in 120 und 65 nm Prozesstechnologie. Ein weites Spektrum an parametrisierten Messungen wird vorgestellt: anhand variierender Strukturgroessen ist es möglich, die verschiedenen Signalquellen in Gate- und Drain-Gebieten von MOSFETs (metal oxide semiconductor field effect transistors) separat zu untersuchen und die Signalentstehung von Bauelementen mit Sub-Mikrometer Gate-Dimensionen zu erforschen. Für Simulationen von LVP-Signalverlaeufen wurde ein Modell entwickelt, das die Interaktionen zwischen Bauelementaktivitaet und Laserlicht auswertet. Die Simulationen verifizieren die Theorien zur Signalentwicklung und ermoeglichen Voraussagen ueber Signalamplituden in Zukunftstechnologien.</dc:description>
+          <dc:date>2009-05-08</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2113</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-22137</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-22137</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2113/kindereit_ulrike.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

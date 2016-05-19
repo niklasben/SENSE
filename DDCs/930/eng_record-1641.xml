@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1641">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1641</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:930</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Täuschung als Erfolgsprinzip öffentlicher Argumentation: ein praktisches Erbe antiker Rhetorik</dc:title>
+          <dc:creator>Gizewski, Christian</dc:creator>
+          <dc:subject>ddc:930</dc:subject>
+          <dc:description xml:lang="deu">Dieser Aufsatz ist im Zusammenhang mit einer Lehrveranstaltung des SS 1999 (Musik und Rhetorik als Mittel öffentlichen Handelns in antiken Gemeinwesen) entstanden. ÜBERSICHT: I. Einleitung: Täuschung als wesentliches Element erfolgsorientierter Rhetorik in Antike und Gegenwart. II. Die Täuschungsmöglichkeiten aus der Perspektive der aristotelischen Topik- und Rhetorik-Lehre. A. Die in der Verletzung von Wahrheitspflichten, in unrichtigen Gewichtungen und verzerrenden Begriffsbildungen liegenden Täuschungen öffentlicher Argumentation. B. Arten und Funktionen logischer Fehlschlüsse in der öffentlichen Argumentation. C. Die Tropen der Rhetorik und ihr sophismatische Disposition. Die Bedeutung der in der Rhetorik verwendeten Täuschungsarten für nicht-verbale Ausdrucksformen öffentlicher Argumentation.</dc:description>
+          <dc:date>2007-12-18</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/zip</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1641</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-17238</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-17238</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1641/RhetErbe.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1641/Rheterbe.zip</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:47:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:766">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:766</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Konsistent geordnete Erweiterte Thermodynamik</dc:title>
+          <dc:title xml:lang="eng">Consistently Ordered Extended Thermodynamics</dc:title>
+          <dc:creator>Reitebuch, Daniel</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die gewöhnliche Thermodynamik verwendet zur Zustandsbeschreibung eines Reinstoffs fünf Variablen: Dichte, drei Geschwindigkeitskomponenten und Temperatur. Zur Bestimmung der Variablen stehen fünf Gleichungen zur Verfügung: Massen-, Impuls- und Energieerhaltungssatz. Trotz der Übereinstimmung von Variablen- und Gleichungszahl ist das System nicht abgeschlossen: Die Temperatur kommt in den Gleichungen nämlich gar nicht vor, während andere Größen (innere Energie, Spannungstensor und Wärmefluß) zusätzlich auftreten. Man löst das Abschlußproblem üblicherweise durch Hinzufügen von Materialgleichungen, die die zusätzlichen Größen mit den fünf Variablen verknüpfen. Erhaltungssätze und Materialgleichungen bilden dann ein abgeschlossenes Gleichungssystem für die fünf Variablen. Die gewöhnliche Thermodynamik ist sehr erfolgreich, aber in bestimmten, extremen Fällen versagt sie, z.B. bei stark verdünnten Gasen. Dann ist eine bessere Theorie notwendig, wie sie z.B. in der Erweiterten Thermodynamik (ET) bereitgestellt wird. Die ET verwendet einen über Dichte, Geschwindigkeit und Temperatur hinausgehenden, erweiterten Variablensatz und ein entsprechend vergrößertes Gleichungssystem. Bisher hat die ET ihre Leistungsfähigkeit vor allem bei der Lichtstreuung, aber auch in der Anwendung auf Verdichtungsstöße und bei der Dispersionsrelation von Schall überzeugend unter Beweis stellen können. Die vorliegende Arbeit greift einige Fragen auf, die dabei bislang unbeantwortet blieben, z.B. die Frage nach der sinnvollen Wahl eines Variablensatzes. Denn abgesehen von der allgemeinen Tendenz, daß dünnere Gase größere Variablensätze und Gleichungssysteme erfordern, gab es bisher keine genauen Regeln für die Zusammenstellung eines Variablensatzes. In der vorliegenden Arbeit wird erstmals eine solche Regel präsentiert. Die potentiellen Variablen werden mit einer systematischen Methode nach Größenordnungen sortiert. Die vor diesem Hintergrund konstruierten, auf jeweils eine Ordnung zugeschnittenen Feldgleichungssysteme begründen die konsistent geordnete Erweiterte Thermodynamik (COET). Nach der Aufstellung einiger konkreter Feldgleichungssysteme von bis zu vierter Ordnung wird die COET qualitativ und quantitativ auf ihre Eigenschaften untersucht. Eine bemerkenswerte Eigenschaft ist, daß das Abschlußproblem in der COET nicht auftritt. Weiterhin löst die COET die in der ET bestehenden Problem mit der Inkonsistenz der Entropiebilanz und mit der Integrierbarkeit der Verteilungsfunktion. Beim Test anhand von Lichtstreuspektren zeigt die COET qualitativ das bereits von der ET bekannte, gute Verhalten, quantitativ schneidet sie aber sogar etwas besser ab: für eine vergleichbare Approximationsgenauigkeit braucht die COET ein kleineres Feldgleichungssystem als die früheren ET-Theorien. Ein sehr wichtiges, bisher ungelöstes Problem der ET besteht in der Vorgabe der Randbedingungen. Während sich in der gewöhnlichen Thermodynamik Randwertprobleme immer nur auf anschauliche physikalische Größen beziehen, ist es in der ET notwendig, auch Randwerte für nicht anschauliche Größen vorzugeben. Zu diesem Problem gab es in der Vergangenheit zwar einige Lösungsvorschläge, von denen sich aber bislang keiner durchgesetzt hat. Die vorliegende Arbeit macht zu diesem Problem einen neuen Vorschlag auf der Grundlage von thermodynamischen Fluktuationen in den betreffenden Größen. Die COET kann nach den Untersuchungen in der vorliegenden Arbeit als eine Theorie charakterisiert werden, die guten Eigenschaften der klassischen ET beibehält, aber einige ihrer Probleme vermeidet. Trotz ihrer komplizierteren Feldgleichungen scheint die COET dabei die quantitative Approximationsgenauigkeit gegenüber der bisherigen ET verbessert zu haben.</dc:description>
+          <dc:date>2005-01-31</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/766</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-7608</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-7608</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/766/reitebuch_daniel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:44Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3126">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3126</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Process Engineering and Chemical Plant Design 2011 </dc:title>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The 18th International Conference in “Process Engineering and Chemical Plant Design�? is taking place in Berlin from september 19th to september 23rd 2011. We are pleased with the successful collaboration which is the result of a meanwhile 30 years continual international cooperation between the Cracow University of Technology and the Berlin Institute of Technology. This relationship has also been intensified by student exchange programs and international transfer of knowledge between the participating universities during the last years. This book contains the abstracts of all contributions and lectures which are presented by the miscellaneous participants within the scope of the conference. Different topics are addressed, concerning industrial problems as well as forward-looking questions and fundamental investigation of special phenomena for the chemical and the power generation industry. Thereby special attention is paid to fundamental research of complex correlations, modelling and simulation, process control and operation, sustainable and efficient energy generation as well as troubleshooting and problems within the operation and control of chemical processes. Printed version available by Universitätsverlag der TU Berlin, ISBN 978-3-7983-2361-2</dc:description>
+          <dc:date>2011-11-07</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3126</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-32986</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-32986</dc:identifier>
+          <dc:identifier>978-3-7983-2362-9</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3126/processengineering_chemplantdesign_2011.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3126/processengineering_chemplantdesign_umschlag.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

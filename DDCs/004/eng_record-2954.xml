@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:57:56Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2954">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2954</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">A Methodology For Pattern-Oriented Model-Driven Testing of Reactive Software Systems</dc:title>
+          <dc:title xml:lang="deu">Pattern-orientiertes modellgetriebenes Testen von reaktiven Softwaresystemen</dc:title>
+          <dc:creator>Vouffo Feudjio, Alain-Georges</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The level of pervasiveness and complexity of software and computing systems has been growing continuously since their introduction. New technologies emerge at regular base, covering ever more aspects of our daily life and leading to shorter product delivery cycles. These ongoing trends are posing new challenges to traditional software testing approaches, because despite those constraints, software products are required to meet a certain level of quality prior to their deployment. Otherwise, confidence in new technologies and products could be harmed, potentially leading to their commercial failure. Therefore, tests have to be developed within harsher time constraints for increasingly complex systems. This thesis introduces a new approach of test development for reactive software systems combining model-driven engineering (MDE) of testcases and test design patterns, that addresses the previously mentioned challenges. The approach is labelled Pattern-Oriented Model-Driven Testing and provides a high potential for automation, through which the development of tests for software systems can significantly be improved, both quantitatively and qualitatively. The thesis presents a catalogue of test design patterns, along with a methodology for the proposed approach. The methodology is based on a new notation called Unified Test Modeling Language (UTML), specifically designed to support pattern-oriented model-driven testing. UTML is a Domain-Specific Modeling Language (DSML)for designing test objectives, test architectures, test data and test behaviour at a high level of abstraction, using predefined test design patterns. The result are so-called abstract test models, that can then be subsequently refined through a series of iterative transformation processes into executable test sequences, scripts or documentation artifacts. To illustrate the approach and to evaluate its impact on the testing process, several case studies from various application domains are discussed.</dc:description>
+          <dc:description xml:lang="deu">Softwaresysteme werden heutzutage in immer mehr Bereichen eingesetzt und betreffen mittlerweile fast jeden Aspekt des täglichen Lebens in modernen Gesellschaften. Um den Anforderungen dieser verschiedenen Einsatzgebiete zu genügen, ist die Komplexität von solchen Systemen in den letzten Jahren rasant gestiegen. Ausserdem werden kontinuierlich neue Technologien entwickelt, um den Verbrauchern bessere Dienste zu günstigeren Preisen anbieten zu können. Dabei steht die Software-Industrie unter erheblichem Druck, denn es sollen in kurzen Zeiträumen komplexe Produkte entwickelt werden, die auf diesen neuen Technologien basieren. Zudem sollen diese Produkte ein Mindestmass an Qualität vorweisen, um die Sicherheit der neuen Technologien zu gewährleisten und um deren Akzeptanz nicht zu gefährden. Dies führt dazu, dass neue, bessere Software-Produkte unter erschwerten zeitlichen und finanziellen Bedingungen entwickelt werden müssen. Diese Trends stellen die Testentwicklung vor neuen Herausforderungen, die mit bisherigen Ansätzen nur schwer zu lösen sind. Diese Arbeit stellt einen neuen Ansatz der Testentwicklung für reaktive Softwaresysteme vor, wobei eine modellgetriebene Entwicklung (Model-Driven Engineering; MDE) von Testskripten mit sogenannten Entwurfsmustern (Design Patterns) kombiniert wird. Dieser Ansatz wird als Musterorientiertes modellgetriebenes Testen (Pattern-Oriented Model-Driven Testing) bezeichnet und bietet ein hohes Maß an Möglichkeiten zur Automatisierung an. Dadurch wird die Testentwicklung für Softwaresysteme erheblich vereinfacht und der Testprozess als ganzer sowohl qualitativ als auch quantitativ verbessert. Es wurde ein Entwurfsmuster-Katalog für die Testentwicklung zusammengestellt, der aus praktischer Erfahrung in zahlreichen Projekten ermittelt wurde. Zudem beschreibt die Arbeit eine Methodologie für den vorgeschlagenen Ansatz. Diese basiert auf der Unified Test Modeling Language (UTML), einer neuen Notation zur Unterstützung des musterorientierten modellgetriebenen Testens, die ebenfalls in dieser Arbeit entwickelt wurde. Die UTML ist eine domain-spezifische Modellierungssprache (Domain-Specific Modeling Language; DSML) für das Entwerfen von Testzielen, Testarchitekturen, Testdaten und Testverhalten. Dabei bringt sie die oben genannten Testmustern konzeptuell zum Ausdruck und ermöglicht es, auf dieser Basis neue Testartefakte als Modellelemente zu entwerfen. Die Wirkung des Ansatzes auf den Testprozess wird anhand von konkreten Fallstudien aus unterschiedlichen Einsatzgebieten demonstriert, die einen Gewinn an Effizienz bei erhöhter Qualität belegen.</dc:description>
+          <dc:date>2011-07-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2954</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31035</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31035</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2954/vouffofeudjio_alaingeorges.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

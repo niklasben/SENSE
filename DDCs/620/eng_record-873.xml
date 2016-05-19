@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:873">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:873</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Die elektrostatische Entladung (ESD) bei kleinen Abständen und Spannungen</dc:title>
+          <dc:title xml:lang="eng">Electrostatic discharge (ESD) at short gap distances and low voltages</dc:title>
+          <dc:creator>Bönisch, Sven Peter</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Die vorliegende Arbeit berichtet über elektrostatische Entladungen (ESD) mit Durchbruchspannungen &lt;2000 V bzw. Elektrodenabständen &lt;300 µm. Zur Entladungsentwicklung und ihrer Parameterabhängigkeit wurden umfangreiche Messungen durchgeführt. Dabei konnte erstmalig das Vorhandensein eines Oberflächenprozesses während elektrostatischer Entladungen in Luft nachgewiesen werden. Modelle zur Quantifizierung der ablaufenden Prozesse wurden entwickelt. Die gefundenen Gesetzmäßigkeiten sollen helfen, die Entladungsentwicklung bei kleinen Abständen besser zu verstehen und die Reproduzierbarkeit dieser Entladungen insbesondere für die Verbesserung von ESD-Prüfverfahren zu erhöhen. Es werden die theoretischen Grundlagen insbesondere zur Entladungsentwicklung und zum Kanalaufbau von ESD mit Durchbruchspannungen &lt;2000 V und Elektrodenabständen &lt;300 µm erläutert. Verschiedene Durchschlagmechanismen werden vorgestellt und ihre Relevanz systematisch aufgezeigt. Ein besonderes Augenmerk liegt dabei auf der Beschreibung von Oberflächenprozessen, die bei kleinen Elektrodenabständen einen signifikanten Einfluß erlangen. Es wurde herausgefunden, daß diese Oberflächenprozesse durch eine resistive Aufheizung der Elektrodenoberflächen infolge Feldelektronenemission und nachfolgende explosive Thermofeldelektronen- und Partikelemission gekennzeichnet sind. Die verwendete Meß- und Versuchstechnik wird detailliert beschrieben, und die gewonnen Meßdaten werden dargestellt. Aus dem Vergleich mit den theoretisch abgeleiteten Gesetzmäßigkeiten wurden zwei Modelle entwickelt, die eine Beschreibung des Entladungsaufbaus bei kleinen Abständen ermöglichen. Es zeigte sich, daß auch mit einem einfachen phänomenologischen Ansatz die Entladungsentwicklung gut modelliert werden kann. Die bestimmenden Parameter von ESD bei Elektrodenabständen &lt;300 µm und Durchbruchspannungen &lt;2000 V werden dargestellt. Dabei wird auf Störintensität und Reproduzierbarkeit Bezug genommen. Es konnte nachgewiesen werden, daß Oberflächenprozesse eine Verringerung der Störintensität zur Folge haben. Die Reproduzierbarkeit der Entladungen nimmt bei gleichzeitig ablaufendem Oberflächen- und Gasentladungsprozeß ab. Ein weiterer Schwerpunkt dieser Arbeit lag auf der Untersuchung von praktischen Anwendungen. Dabei wurde unter anderem der Einsatz von Funkenstrecken mit kleinen Elektrodenabständen als ESD-Schutzelement zum Einsatz in elektronischen Systemen untersucht. Es konnte nachgewiesen werden, daß ein Einsatz dieser Bauteile möglich ist, jedoch signifikante Veränderung der Schutzparameter innerhalb der Lebensdauer zu erwarten sind.</dc:description>
+          <dc:description xml:lang="eng">The work presented here deals with electrostatic discharge (ESD) at short air gaps with breakdown voltages below 2000 V and gap distances below 300 µm. A lot of measurements have been carried out to understand the discharge development and parameter dependency of short gap ESD. For the first time the existence of a significant surface process at air discharges has been proofed. Models for quantification of different physical processes have been developed. The results should help to better understand the discharge development at short gap ESD and to increase the reproducibility of ESD-tests. Basic theoretical concepts, especially for the discharge development and the arc channel formation at breakdown voltages &lt;2000 V and gap distances &lt;300 µm are presented. Different discharge mechanisms are introduced and their significance for ESD discussed. A major concern of this work is to understand the principles of the surface process. It could be proofed, that the resistive heating of the electrode surface caused by the field electron emission current leads to melting and explosive thermo-field electron and particle emission into the gap. The measurement setup and techniques are described in detail and obtained results are presented. Two models have been developed to describe the arc channel and current development of short gap ESD. It could be shown, that even a simple phenomenological model is able to reproduce measured data on short gap ESD. The parameter influence on short gap ESD, especially on intensity and reproducibility of these discharges, have been extensively investigated. It was shown that a significant surface process leads to decreasing intensity of ESD. The reproducibility of ESD decreases if surface and gas discharge processes have both the same significance. The last part of the work presents some practical applications of short spark gaps. It has been focused on ESD protection via short spark gaps. It could be shown that state-of-the-art protection devices (gap distance 6 µm) are able to protect against ESD with low breakdown voltages, while a significant change of the protection parameters of these devices should be taken into account.</dc:description>
+          <dc:date>2004-01-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/873</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-8665</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-8665</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/873/boenisch_sven.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:15Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3674">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3674</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:book</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:650</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Energiemonitoring von IKT-Systemen : Kennzahlen </dc:title>
+          <dc:title xml:lang="eng">Energy monitoring of ICT systems : Indicators</dc:title>
+          <dc:creator>Drenkelfort, Gregor</dc:creator>
+          <dc:creator>Pröhl, Thorsten</dc:creator>
+          <dc:creator>Erek, Koray</dc:creator>
+          <dc:subject>ddc:650</dc:subject>
+          <dc:description xml:lang="deu">Mit stark zunehmenden Energiepreisen stehen IKT-Verantwortliche unter großem Druck, die Energieeffizienz ihrer Hardware zu beurteilen und zu erhöhen. Zur Bewertung der Energieeffizienz werden häufig Kennzahlen eingesetzt. Im Bereich der IKT sind diese vorwiegend aus dem Rechenzentrum (RZ) bekannt, daher werden diese in Band 2 genauer untersucht. In (Wilkens u. a. 2012) wurden bereits Kennzahlensysteme strukturiert auf ihre Eignung zur Bestimmung der Energieeffizienz von RZ untersucht. In Anlehnung an (Wilkens u. a. 2012) liefert der vorliegende Band eine Übersicht über verbreitete Kennzahlen zur Bestimmung der IKT-Energieeffizienz als Ergebnisse des Forschungsprojekts GreenIT Cockpit. Dabei werden neben dem Rechenzentrum auch die Bereiche Netzwerk- und Büroumgebung betrachtet. Zunächst werden wichtige Kennzahlen mit den Kriterien aus (Wilkens u. a. 2012) bewertet. Darauf werden Kriterien für statische Kennzahlen (Bestandskennzahlen/Energielabel) festgelegt und zwei wichtige, Energielabel vergebende, Organisationen anhand dieser bewertet. Anschließend wird die Rückkopplung mit den Partnern dargestellt.</dc:description>
+          <dc:date>2013-04-17</dc:date>
+          <dc:type>book</dc:type>
+          <dc:type>doc-type:book</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3674</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39258</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39258</dc:identifier>
+          <dc:identifier>978-3-7983-2519-7</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3674/9783798325197_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3674/9783798325197_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

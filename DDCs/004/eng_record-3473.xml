@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3473">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3473</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Stationary Subspace Analysis: Towards understanding non-stationary data</dc:title>
+          <dc:title xml:lang="deu">Stationary Subspace Analysis: Analyse nicht-stationärer Daten</dc:title>
+          <dc:creator>Bünau, Paul von</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">This thesis is about statistical methods for understanding change in the joint distribution of observed multivariate data over time. The setting we consider is completely explorative or unsupervised: no auxiliary information regarding the distribution changes is available. We propose the first unsupervised method, stationary subspace analysis (SSA), for finding a linear coordinate transformation which factorises the observed data into stationary and non-stationary components. This is essential because the relevant changes can occur in the dependencies between variables, which means that the input variables can be totally uninformative: in fact, the non-stationary and the stationary part can remain completely invisible in the observations. In practice, this is often the case when one can only measure superpositions of the actual variables of interest. For example, in EEG analysis, electrodes on the surface of the scalp record activity from several neural sources located inside the brain. As we show in this thesis, investigating changing behaviour in brain sources crucially depends on the separation of the stationary and non-stationary components in the recorded signals. The second main contribution of this thesis is a novel approach to finding particular types of approximative solutions to systems of polynomial equations of arbitrary degree based on techniques from computational algebraic geometry. Using the concept of generic polynomials, we show how SSA can be formulated in this framework. This leads to a new algorithm which has a unique solution and is more accurate in certain cases. From a theoretical perspective, the most interesting feature of this approach is that it allows us to solve the problem algebraically instead of searching for the solution guided by an objective function. As the assumptions underpinning the algorithm are rather general, it may be directly applicable to other problems in machine learning whose solution can be formulated in terms of polynomial equations.</dc:description>
+          <dc:description xml:lang="deu">Das Thema dieser Dissertation sind statistische Methoden für das Verständnis zeitlicher Veränderung der gemeinsamen Verteilung multivariater Daten. Wir betrachten den sogenannten explorativen Fall, in dem keinerlei zusätzlichen Informationen, z.B. über relevante Zeitpunkte oder einen kontrollierten Stimulus, verfügbar sind. Der zentrale Beitrag dieser Arbeit ist die Entwicklung des ersten unüberwachten Verfahrens, Stationary Subspace Analysis (SSA), welches eine lineare Koordinatentransformation findet, die die beobachteten Daten in eine Gruppe von stationären und nicht-stationären Komponenten faktorisiert. Dies ist unerlässlich zur Analyse multivariater Daten, weil die wesentlichen Änderungen der gemeinsamen Verteilung die Abhängigkeiten zwischen den Variablen betreffen können. Daher erlaubt die univariate Betrachtung der Eingangsgrössen nicht notwendigerweise Rückschlüsse auf Änderungen der gemeinsamen Verteilung. Sowohl die nicht-stationären als auch die stationären Komponenten können nämlich in den beobachten Variablen vollständig unsichtbar bleiben. Dies ist vor allem dann der Fall, wenn die messbaren Grössen Überlagerungen der tatsächlich relevanten Variablen sind, welche nicht direkt gemessen werden können. Ein gutes Beispiel liefert die EEG Datenanalyse: die Elektroden auf der Kopfhaut messen die Beiträge einer Vielzahl neuronaler Quellen im Gehirn. Um die zeitliche Veränderung der Verteilung dieser Quellen zu verstehen ist es daher notwendig, die stationären von den nicht-stationären Signalanteilen zu trennen. In einer Anwendung auf EEG Daten zeigen wir zum Einen, dass SSA dies leistet und zum Anderen, dass die populären Koordinatentransformationen Principal Component Analysis (PCA) und Independent Component Analysis (ICA) dazu nicht in der Lage sind. Der zweite wesentliche Beitrag dieser Arbeit ist ein neuartiger Ansatz zur approximativen Lösung polynomieller Gleichungssystem eines bestimmten Typs. Aufbauend auf dem Konzept der generischen Polynome zeigen wir, das SSA als ein solches Problem formuliert werden kann. Dies führt zu einem neuen Algorithmus dessen Lösung nicht nur eindeutig, sondern in Spezialfällen auch exakter ist. Von einem theoretischen Standpunkt aus gesehen ist es besonders interessant, dass es dieser Ansatz erlaubt das SSA Problem direkt algebraisch zu lösen, anstatt wie in einem Optimierungsverfahren nach der Lösung zu suchen. Da die zugrunde liegenden Annahmen eher allgemein sind, lässt sich der Algorithmus möglicherweise direkt auf andere Probleme im Maschinellen Lernen anwenden, die als Lösung polynomieller Gleichungen formuliert werden können.</dc:description>
+          <dc:date>2012-10-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3473</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-36940</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-36940</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3473/vonbuenau_paul.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

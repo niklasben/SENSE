@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:13Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4059">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4059</identifier>
+        <datestamp>2013-08-22</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Group-based IDS Collaboration Framework : a Case Study of the Artificial Immune System</dc:title>
+          <dc:title xml:lang="deu">Gruppenbasiertes IDS Kollaborationsrahmenwerk : eine Fallstudie über das Künstliche Immunsystem</dc:title>
+          <dc:creator>Bye, Rainer</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Self-protection is, as defined by IBM, one of the four pillars of self management in the context of autonomic computing (AC). One aspect of self-protection is the detection of attacks often originating from multiple sources and targeting multiple networked systems. Anomaly-based intrusion detection systems (IDS) such as the artificial immune system (AIS) are considered feasible in an AC environment, but suffer from various problems such as high false alarm rates or missing scalable training and detection algorithms. &#13;
+In the last decade, collaborative intrusion detection systems (CIDS) have emerged as a promising solution to confront IDS-related challenges using the information from multiple sources to gain a better understanding of objective and impact of complex attacks. CIDS benefit from collaborative aspects, namely architectural advantages such as scalability and the benefit of teamwork. However, collaboration needs to be administrated efficiently,  and a CIDS raises new exploitation opportunities for adversaries.&#13;
+In this work, we investigate a group-based collaboration framework for IDS using the example of the AIS resulting in a novel architecture: the collaborative AIS (CAIS). We provide a scheme to support the AIS for a (i) realization of scalable training and detection as well as the (ii) improvement of false positive detection rates with the help of collaboration. A distributed AIS approach poses requirements for the collaboration framework. Accordingly, we incorporate an anonymity scheme to confront adversarial opportunities and provide a group formation algorithm to select the best fitting groups of collaborators according to a collaboration policy. We also introduce tools for the evaluation of the overall approach based on analytical models and simulation.&#13;
+The resulting collaboration framework covers the complete life cycle of a distributed anomaly-based intrusion detection system: initialization, organization, detection and response. The CAIS is realized with the help of the developed framework and composed of software agents. These software agents contribute to self-protection in the scope of autonomic computing.&#13;
+</dc:description>
+          <dc:description xml:lang="deu">Autonomic Computing (AC) verfolgt die Idee von sich selbst verwaltenden computerbasierten Systemen, die gemäß vorab festgelegten Richtlinien agieren. Ein wichtiger Aspekt ist Self-Protection, der Selbstschutzgedanke, der auch die Erkennung von (verteilten) Angriffen beinhaltet. Anomaliebasierte Angriffserkennungssysteme (IDS), wie das Artificial Immune System (AIS) werden als geeignet für AC erachtet um bösartige Aktivitäten selbstständig zu erkennen. Sie unterliegen aber Einschränkungen wie hohen Fehlalarmraten sowie einer fehlenden Skalierbarkeit von Trainings- und Erkennungsalgorithmen.&#13;
+In der letzten Dekade sind Collaborative IDS (CIDS) als eine vielversprechende Lösung für Angriffserkennung in Erscheinung getreten. CIDS profitieren von der verteilten Lösung von Problemen, der Teamarbeit sowie Korrelation von Information aus verschiedenen Quellen. Der Einsatz von CIDS bedeutet aber auch neue Herausforderungen wie die Verwaltung von Kollaboration sowie durch sie induzierte Angriffsmöglichkeiten.&#13;
+Diese Arbeit beschreibt ein gruppenbasiertes Kollaborationsframework zur Realisierung von CIDS am Beispiel von Softwareagenten, die AIS-basierte Erkennungsalgorithmen ausführen. Dieses Framework unterstützt bei einer skalierbaren Erkennung sowie der Verbesserung der Fehlalarmraten. Das kollaborative AIS (CAIS) stellt weitere Anforderungen an das Framework. Dementsprechend integrieren wir ein Kommunikationsprotokoll zum anonymen Informationsaustausch sowie einen Algorithmus zur Auswahl passender Gruppen von Softwareagenten anhand einer Kollaborationsrichtlinie. Des Weiteren präsentieren wir Werkzeuge für die Bewertung des Gesamtsystems basierend auf analytischen Modellen und Simulation.&#13;
+ Das resultierende Kollaborationsframework deckt den kompletten Lebenszyklus eines verteilten, anomaliebasierten IDS ab: Initialisierung, Organisation, Erkennung und Reaktion. Die das CAIS realisierenden Software-Agenten tragen somit zur Selbstverwaltung gemäß des Autonomic Computing im Rahmen der Selbstschutzkomponente bei.&#13;
+</dc:description>
+          <dc:date>2013-08-14</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4059</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40599</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40599</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4059/bye_rainer.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-SA: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, Weitergabe zu gleichen Bedingungen</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

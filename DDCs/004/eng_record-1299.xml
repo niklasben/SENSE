@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:29Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1299">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1299</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">HiPeer: An Evolutionary Approach to P2P Systems</dc:title>
+          <dc:title xml:lang="deu">HiPeer: Ein evolutionärer Ansatz von P2P Systemen</dc:title>
+          <dc:creator>Wepiwé, Giscard</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The current work deals with the problem of resource management in P2P systems. We have proposed an evolutionary concept that enables self-management of nodes and resources in P2P networks. The approach is evolutionary in the sense that it unveals a new step in the P2P research. The work achieved in this dissertation can be subdivided in two main parts: In the first part, we have developed a structured approach of a P2P architecture that organizes nodes and resources of a P2P network in a concentric multi-ring (CMR) overlay. Resources are replicated by using a slightly modified approach of the distributed hash table (DHT) concept. Each data item is remotely located on a set of nodes sharing the same prefix with the key associated to that data item. This can be exploited for supporting range queries while preserving load balancing in the network. The routing on the CMR structure is based on the graph theoretical concept of De Bruijn, and each node maintains a maximum limited number of 2*Delta+2 entries in its routing table, independently of the number of the nodes in the system N. The parameter Delta ≥ 2 denotes the degree of the De Bruijn digraph formed by each ring in the CMR overlay. In the second part, we have proposed a churn-resistant strategy for managing the dynamic behavior of the nodes in a CMR based network. We showed that if each node in the network periodically retransmits no more than one KEEPALIVE message (heartbeat message) to one of its neighbors in the network, any node’s failure can be detected and recovered so that the network is kept in a consistent state. Additionally, we demonstrated that even if half of the nodes forming the P2P network fail collectively, the failures can be detected and recovered so that a consistent state of the network is re-established. In terms of performance, it has been proved that for any network with at most N = Delta nodes, any existing object or resource can be located within at most DCMR = log(N( − 1) + ) − 1 hops with a probability of over 99%. The lookup value DCMR is so far the lowest lookup bound comparing to other outstanding resource location strategies in P2P systems with the same number of entries in the routing table. We showed that the management load of the network is fairly balanced between the nodes in the system and that the management cost for node’s insertion or deletion is relatively low. In fact, a node joining or leaving the network involves at most 2*Delta + 2 other nodes in the network management process.</dc:description>
+          <dc:description xml:lang="deu">Diese Dissertation behandelt das Problem der Ressource Verwaltung in Peer-to- Peer (P2P) Systemen. Als Lösung schlagen wir ein revolutionäres Konzept für die Selbst-Organisation der Knoten in einem P2P Netzwerk vor. Das Konzept trägt den Namen HiPeer und wurde in zwei Teilen beschrieben: HiPeer besteht in erster Linie aus einem strukturierten P2P Netzkonzept, wobei Knoten in einer konzentrische Multi-ring (Concentric Multi-Ring: CMR) Architektur repräsentiert werden. Die Einbringung von neuen Ressourcen wird nach einer leicht veränderten Version der verteilten hashing Tabellen (Distributed Hash Tables: DHT) realisiert, wo jedes Ressource-Element in einer Liste von Knoten mit gleichen Präfixen (Präfixen der Identifikationsnummer) repliziert wird. Das Routen zwischen den Knoten in der CMR-Architektur basiert auf dem altbekannten Graphkonzept von De Bruijn. Jeder Knoten hat eine Routingstabelle mit einem Maximum von 2*Delta + 2 Einträgen, unabhängig von Anzahl der Knoten N im System. Der Parameter Delta ≥ 2 ist der Grad des De Bruijn Digraphs, der von jedem Ring konstruiert wird. In zweiten Teil basiert HiPeer auf einer dynamik-resistenten Strategie, um die Probleme der ständigen Veränderungen in der Netztopologie zu bewältigen. Dabei wird nur eine einzige periodische Nachricht (eine KEEPALIVE Message) pro Knoten für das Aufrechterhalten der Netzkonsistenz ausgetauscht. Mit einer regelmässigen KEEPALIVE Nachricht pro Knoten kann man das System in einem konsistenten Zustand zurückführen, auch wenn bis zur Hälfte der Knoten im System gleichzeitig ausfallen. Zusätzlich wurde in dieser Dissertation die Performanz des vorgeschlagenen P2P Ansatzes theoretisch analysiert und eine experimentelle Evaluierung durch Simulation realisiert. Damit konnte man zeigen, dass jede Ressource im Netz mit einer Wahrscheinlichkeit vom über 99% Prozent und mit einem Suchweg der Länge unter DCMR = log(N(−1)+)−1 (Overlay Hops) gefunden werden kann. Dies ist möglich unter der Voraussetzung, dass das Netz aus mindestens N = Delta Knoten besteht. Der Suchweg der Länge DCMR ist einer der Besten im Vergleich zu anderen sehr guten Lösungsvorschlägen, die einen Suchweg der Länge log N aufweisen. Man hat mit der vorgeschlagenen Lösung auch zeigen können, dass die Last zwischen den Knoten fair verteilt ist und der Managementaufwand für die Integration von neuen Knoten sowie die Restrukturierungskosten nach dem Ausfall von Knoten gering sind. Für die Verwaltung beim Einfügen oder Ausfall von Knoten im System sind höchstens 2*Delta + 2 anderer Knoten im Stabilisierungsprozess involviert.</dc:description>
+          <dc:date>2006-07-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1299</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-13192</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-13192</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1299/wepiwe_giscard.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

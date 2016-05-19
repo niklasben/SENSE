@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:45Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:579">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:579</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Radiometrische Messung thermodynamischer Temperaturen und Vergleich mit der Internationalen Temperaturskala (ITS-90) im Bereich von 419 °C bis 660 °C</dc:title>
+          <dc:title xml:lang="eng">Radiometric Measurement of Thermodynamic Temperatures and Comparison with the International Temperature Scale (ITS-90) in the Range from 419 °C to 660 °C</dc:title>
+          <dc:creator>Taubert, Dieter Richard</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Die zur Zeit gültige Internationale Temperaturskala von 1990 (ITS-90) als eine Approximation der thermodynamischen Temperaturskala stützt sich im Hochtemperaturbereich auf einem Referenzwert bei 730 K. Die thermodynamische Temperatur dieses Referenzwertes wurde am National Institute of Technology, USA (NIST) mit einem Gasthermometer konstanten Volumens in zwei Experimenten 1976 und, mit einer geringfügig modifizierten Apparatur, 1989 bestimmt. Zwischen diesen beiden Messungen besteht ein großer signifikanter Unterschied von 30 mK, da als erweiterte Messunsicherheit (Erweiterungsfaktor k=3, der Wert der Messgröße liegt mit einer Wahrscheinlichkeit von 99 % in diesem Intervall) für die Messergebnisse jeweils 6 mK (1976) und 9 mK (1989) angegeben wurde. Das NIST konnte das Problem dieser systematischen Abweichung nicht lösen. Für die Konstruktion der ITS-90 wurde, da keine andere unabhängige primärthermometrische Methode zur Verfügung stand, deshalb der Mittelwert der beiden Messungen für den Referenzwert gewählt. Weil die Wahl des Mittelwerts als Referenzwert ohne eine fundierte physikalische Begründung getroffen wurde, ergibt sich die Notwendigkeit, die thermodynamische Temperatur des ITS-90-Referenzwertes bei 730 K unabhängig von der Gasthermometrie zu messen, um so eine Verbesserung der thermodynamischen Basis der ITS-90 und damit einer Verringerung der thermodynamischen Unsicherheit bei der Bestimmung von Temperaturen im Hochtemperaturbereich zu erreichen. Ziel der vorliegenden Arbeit war, mit einer von der Gasthermometrie unabhängigen primärthermometrischen Methode, der spektralradiometrischen Messung thermodynamischer Temperaturen an einem Schwarzen Strahler, das Problem der großen systematischen Abweichung zwischen den beiden gasthermometrisch am NIST bestimmten Werten für die thermodynamische Temperatur des ITS-90-Referenzwertes zu lösen. Zur Beantwortung dieser Fragestellung wurden in der vorliegenden Arbeit an der Physikalisch-Technischen Bundesanstalt (PTB) thermodynamische Temperaturen durch Messung der spektralen Bestrahlungsstärke an einem Hohlraumstrahler mit absolut kalibrierten Filterradiometern als Detektoren im Bereich zwischen dem Zink-Fixpunkt (692 K) und dem Aluminium-Fixpunkt (933 K) bestimmt und die Abweichung zwischen der thermodynamischen und der simultan bestimmten ITS-90-Temperatur des Hohlraumstrahlers gemessen. Die Zielsetzung der vorliegenden Arbeit wurde durch eine konsequente Weiterentwicklung der Präzisionsradiometrie an Schwarzen Strahlern erreicht. Es konnte mit einer relativen Unsicherheit von 0,01 % gezeigt werden, dass der Hohlraumstrahler mit einem Emissionsgrad von 0,9999 für den untersuchten Temperaturbereich eine nahezu ideale Realisierung eines Schwarzen Strahlers darstellt. Durch Rückführung auf ein bei 5 K betriebenes elektrisches Substitutionsradiometer (Kryoradiometer) als Detektor-Primärnormal wurden vier verschiedene Filterradiometer im nahen Infrarot mit relativen Unsicherheiten bis hinab zu 0,03 % bezüglich der spektralen Bestrahlungsstärkeempfindlichkeit kalibriert. Unter diesen Voraussetzungen ist es erstmals gelungen, absolutradiometrisch thermodynamische Temperaturen mit einer Unsicherheit von 15 mK am Referenzwert bei 730 K zu bestimmen. Innerhalb der Standardunsicherheit (k=1) stimmen die Ergebnisse für die thermodynamische Temperatur des Referenzwertes mit dem durch Edsinger und Schooley am NIST 1989 erhaltenen Ergebnis sehr gut überein, die Resultate von Guildner und Edsinger (1976) weichen signifikant ab. Die vorliegende Arbeit stellt dadurch, dass ein neuer, absolutradiometrisch gemessener Wert mit einer wohlbegründeten Unsicherheit für die thermodynamische Temperatur des Referenzwertes bestimmt wurde, einen wesentlichen Beitrag zur Verbesserung der thermodynamischen Basis der ITS-90 im Hochtemperaturbereich dar.</dc:description>
+          <dc:date>2003-09-11</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/579</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-5737</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-5737</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/579/taubert_dieter.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:51:39Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1581">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1581</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Controlling Exoskeletons with EMG signals and a Biomechanical Body Model</dc:title>
+          <dc:title xml:lang="deu">Steuerung von Exoskeletten mit Hilfe von EMG-Signalen und einem biomechanischem Körpermodell</dc:title>
+          <dc:creator>Fleischer, Christian</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">This work presents a control system for exoskeletons that utilizes electrical signals from the muscles as the main means of information transportation between the human operator and the exoskeleton. Those signals are picked up from the skin on top of selected muscles and reflect the activation of the observed muscle. They are evaluated by a sophisticated but simplified biomechanical model of the human body to derive the desired action of the operator. A support action is computed in accordance to the desired action and is executed by the exoskeleton. The biomechanical model fuses results from different biomechanical and biomedical research groups and performs a sensible simplification considering the intended application. It contains parameters which reflect properties of the human operator and his or her current body state. A calibration algorithm for those parameters is presented which relies exclusively on sensors mounted on the exoskeleton, and provides deep inside into the mechanisms of the model. An exoskeleton for the knee joint support was designed and constructed to verify the model and investigate the interaction between the human operator and the machine in experiments with force support during everyday movements. Those results are also presented here.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wird ein Steuerungssystem für Exoskelette vorgestellt, das elektrische Signale von Muskeln als zentrales Kommunikationsmittel zwischen dem menschlichen Benutzer und dem Exoskelett verwendet. Diese Signale werden auf der Hautoberfläche oberhalb ausgewählter Muskeln aufgezeichnet und spiegeln die Aktivierung der Muskeln wider. Sie werden durch ein ausgeklügeltes, aber vereinfachtes biomechanisches Modell des menschlichen Körpers ausgewertet, um die gewünschte Handlung des Benutzers abzuleiten. Eine Unterstützungsbewegung für diese gewünschte Handlung wird berechnet und durch das Exoskelett ausgeführt. Das biomechanische Modell vereint Ergebnisse von verschiedenen Forschergruppen aus der Biomechanik und Biomedizin und wendet dabei einige für die betrachtete Anwendung sinnvolle Vereinfachungen an. Es beinhaltet dabei Parameter, die bestimmte Eigenschaften des menschlichen Benutzers und dessen Zustand beschreiben. Für diese Parameter wird ein Kalibrationsverfahren vorgestellt, das sich lediglich auf am Exoskelett befindliche Sensoren stützt. Es bietet außerdem noch einen tiefen Einblick in die Funktionsweise des Modells. Ein Exoskelett zur Unterstützung der Kniebewegung wurde entworfen und aufgebaut, um das neu entwickelte Modell zu validieren und die Interaktion zwischen dem Menschen und dem Exoskelett während alltäglicher Bewegungen mit Kraftunterstützung zu untersuchen. Die Ergebnisse dieser Untersuchungen werden ebenfalls präsentiert.</dc:description>
+          <dc:date>2007-09-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>text/x-tex</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1581</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-16295</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-16295</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1581/original_Main.tex</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1581/fleischer_christian.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

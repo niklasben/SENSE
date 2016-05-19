@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:21Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4097">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4097</identifier>
+        <datestamp>2014-07-11</datestamp>
+        <setSpec>doc-type:bookpart</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">FIMCAR III: Car-to-Car Test Results</dc:title>
+          <dc:creator>Sandqvist, Peter</dc:creator>
+          <dc:creator>Vie, Nicolas</dc:creator>
+          <dc:creator>Thompson, Robert</dc:creator>
+          <dc:creator>Kling, Anders</dc:creator>
+          <dc:creator>Wagström, Linus</dc:creator>
+          <dc:creator>Delannoy, Pascal</dc:creator>
+          <dc:creator>Lazaro, Ignacio</dc:creator>
+          <dc:creator>Candellero, Stefano</dc:creator>
+          <dc:creator>Nicaise, Jean-Louis</dc:creator>
+          <dc:creator>Duboc, Fabien</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="eng">The assessment of compatibility in frontal impacts has to address the importance of different vehicle structures. A critical component in the assessment is to identify, quantitatively, what constitutes good performing structures. In particular, the concepts of structural alignment and structural interaction need to be investigated. Structural alignment is incorporated in the FIMCAR candidate compatibility assessments to achieve geometric alignment of identifiable crashworthiness structures. Structural interaction is also a global assessment of how structures interact with a collision partner during the crash. The performance of lower vehicle structures in a crash has been identified as important as they may not be evaluated in a structural alignment assessment, but can contribute to structural interaction and thereby improve collision outcome. There has been, however, no clear definition of the characteristics for lower load paths that improve vehicle safety and how these structures manifest themselves in proposed test procedures. FIMCAR has developed a vehicle crash test program that investigates the performance of vehicle structures using three different test series. The first test series used Super mini vehicles with different front end architectures. These tests with, and without, geometric alignment allowed the effectiveness of a lower load path to be compared to a case without a lower load path. A second set of tests investigated the importance of lower load paths for SUV type vehicles where the main front structures may not align with the main structures in a collision partner, but a lower load path may offset the consequences of this initial misalignment. A final test series investigated how the lower load paths in higher SUV type vehicles influence safety in side impact conditions and thus identify potential side effects of a new assessment procedure. Results of the test program show that the presence of a lower load path contributes to a more robust performance of the vehicle. The rearward offset of a lower load path could be reviewed and used to quantify when a lower structure design can contribute to structural interaction in both frontal and side impact configurations.</dc:description>
+          <dc:date>2014-01-08</dc:date>
+          <dc:type>bookpart</dc:type>
+          <dc:type>doc-type:bookpart</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4097</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40970</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40970</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4097/FIMCAR_III_car-to-car.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

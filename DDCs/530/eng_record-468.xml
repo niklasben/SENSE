@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:46:19Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:468">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:468</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Raman spectroscopy for the analysis of thin CuInS2 films</dc:title>
+          <dc:title xml:lang="deu">Raman Spektroskopie zur Analyse dünner CuInS2 Schichten</dc:title>
+          <dc:creator>Riedle, Thomas</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="deu">Dünne CuInS2 Filme werden als Absorbermaterial für Solarzellen verwendet. Im Rahmen dieser Arbeit wurden die Filme innerhalb weniger Minuten durch reaktives Anlassen von Cu-In Metall-Vorläuferschichten in H2S-Gas hergestellt. Zum ersten Mal wurde dafür ein schneller thermischer Prozess verwendet. Raman-Spektroskopie wurde für die Analyse der CuInS2 Filme eingesetzt. Die phononischen Eigenschaften der CuInS2 Filme sind abhängig vom [Cu]/[In] Verhältnis, das für die Reaktion angeboten wird. Für [Cu]/[In] &lt; 1 zeigen sich neben den bekannten Phononen des Chalkopyrit-Gitters zusätzliche Moden bei 305 cm-1 und 60 cm-1. Diese Phononen werden auch für Filme beobachtet, die durch reaktives Anlassen kupferreicher Vorläuferschichten ([Cu]/[In] &gt; 1) in H2S im Temperaturbereich 375 °C - 475 °C entstehen. Durch polarisationsabhängige Raman Messungen konnte gezeigt werden, dass die Mode bei 305 cm-1 von einer symmetrischen Schwingung (A1) stammt. Für die zusätzlichen Moden ist eine polymorphe Struktur des Chalkopyritgitters, die sogenannte CuAu-Ordnung, verantwortlich. Dies konnte anhand gruppentheoretischer Betrachtungen und Berechnung der Phononenfrequenzen für das CuAu-Gitter belegt werden. Mittels kombinierter Raman- und Röntgenbeugungsanalysen konnte die Reaktionskinetik untersucht werden. Chalkopyrit- und CuAu-geordnete Strukturen entstehen aus der Vorläuferschicht bereits in der frühen Aufheizphase, wobei die CuAu-Ordnung bevorzugt wird. Der Anteil an CuAu-Ordnung nimmt bei weiterer Temperaturerhöhung ab und verschwindet schließlich. Das überschüssige Kupfer bildet Cu9S5 und CuS an der Oberfläche. Diese binären Cu-S Phasen können durch chemisches Ätzen restlos entfernt werden. Solarzellen auf Basis der hergestellten CuInS2 Schichten wurden anhand von Strom-Spannungs-Kennlinien in Abhängigkeit der Herstellungsparameter charakterisiert. Es konnte gezeigt werden, dass Konversionsverluste in den Solarzellen mit dem Auftreten von CuAu-geordneten Domänen verbunden sind. Durch reaktives Anlassen von sequentiell aufgedampften Cu-In Schichten in H2S bei 525 °C für 5 Minuten konnten einphasige CuInS2-Chalkopyritfilme hoher kristalliner Qualität präpariert werden. Auf Basis dieser Filme wurden Solarzellen mit bis zu 11 % Wirkungsgrad hergestellt. Der verwendete Aufbau für die Raman-Messungen zusammen mit den Daten dieser Arbeit kann für die ex-situ Qualitätskontrolle von CuInS2-Absorber Filme genutzt werden. Darüber hinaus sind die Grundlagen für die Entwicklung eines Raman-Aufbaus für die in-situ Kontrolle des CuInS2-Wachstums gelegt.</dc:description>
+          <dc:description xml:lang="eng">Thin CuInS2 films are used as absorber material for solar cells. In the framework of this thesis films were prepared by reactive annealing of Cu-In precursors in H2S gas. A rapid thermal process was employed for it the first time. Raman spectroscopy was used for the analysis of the CuInS2 films. The vibrational properties of CuInS2 films depend on the [Cu]/[In] ratio offered for the chemical reaction. Apart from the known phonon modes of the chalcopyrite lattice, additional phonon modes appeared for [Cu]/[In] &lt; 1 at 305 cm-1 and 60 cm-1. This phonon modes can also be observed for films prepared by reactive annealing of Cu-rich precursors in the temperature range 375 °C - 475 °C. The phonon mode at 305 cm-1 is A1-symmetric as demonstrated by polarization depend Raman measurements. A polymorphous structure of the chalcopyrite lattice, the so called CuAu order, is responsible for the additional phonon modes. This was proven by group theoretical analysis and phonon frequency calculations. Reaction kinetics was investigated by means of combined Raman and X-ray diffraction measurements. Chalcopyrite and CuAu ordered structures form in the early stage of heating up from the precursor. CuAu order is preferred in this stage. The fraction of CuAu ordered domains decreases with increasing temperature and is finally vanishing. The excess copper forms Cu9S5 and CuS on the surface. The Cu-S binaries can be completely removed by chemical etching. CuInS2 solar cells based on the prepared CuInS2 films were characterized in dependence on the preparation parameters. It was shown that loss in conversion efficiency is related to the appearance of CuAu-ordered domains. Single phase CuInS2 films of high crystalline quality could be prepared by reactive annealing of evaporated Cu-In films in H2S for 5 minutes at 525 °C. Solar cells with efficiencies up to 11 % could be produced on basis of this films. The used Raman setup together with the data from this work can be utilized for ex-situ quality control of CuInS2 absorber films. Moreover, the fundamentals for the development of a Raman setup for in-situ growth control are provided.</dc:description>
+          <dc:date>2002-07-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/468</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-4633</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-4633</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/468/riedle_thomas.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

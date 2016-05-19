@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3915">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3915</identifier>
+        <datestamp>2013-07-23</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:5</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Benefits of Sexual Reproduction in Evolutionary Computation</dc:title>
+          <dc:title xml:lang="deu">Vorteile sexueller Fortpflanzung bei Evolutionären Algorithmen</dc:title>
+          <dc:creator>Friedrich, Madeleine</dc:creator>
+          <dc:subject>ddc:5</dc:subject>
+          <dc:description xml:lang="eng">Evolutionary algorithms have proven to be highly successful for real world combinatorial optimization problems too complex to be handled by traditional algorithmic approaches. In stark contrast to their practical relevance, we only start to theoretically understand the stochastic processes which govern these optimization algorithms. The development of evolutionary algorithms was inspired by biological observations. In nature there seems to be an inherent advantage of sexual recombination compared to mere asexual reproduction.  Thus many successful evolutionary algorithms in practice make use of recombination strategies. However, our theoretical understanding of crossover in evolutionary computation is very limited. This thesis studies the behavior of several evolutionary algorithms  with a focus on the benefits of sexual reproduction.  Two archetypical combinatorial optimization problems are the NP-hard Traveling Salesperson Problem (TSP) and the polynomial-time solvable all-pairs shortest path problem (APSP). Both are representatives of the large class of combinatorial optimization problems with a dynamic programming structure. Chapter 2 of this thesis presents a mathematical description of the common properties of this class and derives a generic representation. This enables a prototypical evolutionary algorithm (without crossover) to construct solutions in a dynamic programming fashion without access to the structure of the problem. We prove upper bounds on the running time of this algorithm. This is the second time ever that runtime bounds of evolutionary algorithms for a large class of problems could be proven. Empirical experiments on TSP show that the use of crossover can lead to additional speed-ups.  Genetic algorithms are evolutionary algorithms which employ sexual reproduction in form of some crossover operators. In order to get a better understanding of the working principles of crossover, Chapter 3 analyzes the runtime of genetic algorithms on common artificial pseudo-Boolean functions. Theoretical and empirical results show substantial speedups for functions of unitation when combined with a fitness-invariant bit shuffling operator. We also consider a simple genetic algorithm without shuffling and investigate the interplay of mutation and crossover on the test function JUMP. We prove for small crossover probabilities that subsequent mutations create sufficient diversity, even for very small populations. Contrarily, with high crossover probabilities crossover tends to lose diversity more quickly than mutation can create it. Both effects have a drastic impact on the performance on JUMP. We complement our theoretical findings by Monte Carlo simulations.  APSP is the only combinatorial optimization problem for which the usefulness of crossover could be rigorously shown. In Chapter 4 we improve the best known runtime for APSP and prove that our bounds are asymptotically optimal. Our analysis shows how crossover can be analyzed with rigorous methods. This gives new insights on how crossover explores the search space at large, leaving the exploration of the closer neighborhood to the mutation operator. Real-world genetic algorithms often use different and more refined recombination strategies, which for example repair infeasible offspring. For two such concepts we prove a smaller optimization time. We also extend these approaches to the NP-hard multi-criteria variant of APSP. We present a genetic algorithm with a diversity mechanism that lets the user control the size of the population. This is necessary as otherwise the size of the Pareto front can become exponential. We prove that the resulting genetic algorithm is a fully-polynomial time randomized approximation scheme (FPRAS). This shows that crossover leads to better worst case bounds than previous known results. This is the first time that rigorous runtime analyses have shown the usefulness of crossover for an NP-hard optimization problem. &#13;
+</dc:description>
+          <dc:description xml:lang="deu">Evolutionäre Algorithmen werden aufgrund ihrer leichten Implementierbarkeit und vielfältigen Anpassungsmöglichkeiten häufig in der industriellen Praxis eingesetzt. Sie sind hoch-erfolgreich bei der Lösung praktischer kombinatorischer Optimierungsprobleme, welche zu komplex sind für klassische, algorithmische Ansätze. Jedoch steckt unser Verständnis der darunter liegenden stochastischen Prozesse im Gegensatz zu ihrer praktischen Bedeutung noch in den Kinderschuhen.&#13;
+Der Entwicklung evolutionärer Algorithmen liegen biologische Konzepte wie die Fortpflanzung zugrunde. So scheint es in der Natur für höhere Lebewesen ein inhärenter Vorteil zu sein, sich sexuell fortzupflanzen. Diese Beobachtung nutzen viele erfolgreiche evolutionäre Algorithmen in der Praxis durch den Einsatz von sogenannten Rekombinationsstrategien.  Jedoch gilt auch für unser theoretisches Verständnis von Rekombination, dass dieses noch in den Anfängen steckt. Diese Fragestellung ist Grundlage der vorliegenden Arbeit: Es wird das Verhalten verschiedener evolutionären Algorithmen mit Hilfe mathematischer Methoden   untersucht -- der Fokus liegt dabei auf den Vorteilen von sexueller Fortpflanzung.&#13;
+Zwei klassische Optimierungsprobleme sind das NP-schwere Problem des Handlungsreisenden (TSP) und das in Polynomialzeit lösbare Problem der Berechnung aller Paare von kürzesten Wegen (APSP). Beide sind Vertreter der großen Klasse von kombinatorischen Programmierungsproblemen, die durch ein dynamisches Programm beschrieben sind.&#13;
+In Kapitel 2 dieser Arbeit beschäftigen wir uns mit der mathematischen Beschreibung der gemeinsamen Eigenschaften von Problemen aus dieser Klasse und leiten eine generische Repräsentation her.&#13;
+Es zeigt sich, dass dies einen prototypischen evolutionären Algorithmus (ohne Rekombination) ermöglicht, der Lösungen in der Art eines dynamischen Programmes konstruiert, ohne die eigentliche Struktur des Problems zu kennen. Hierfür beweisen wir obere Schranken für die Laufzeit dieses Algorithmus. Bemerkenswert dabei ist, dass dies das zweite Mal überhaupt ist, dass Laufzeitschranken eines evolutionären Algorithmus für eine große Klasse von Problemen gezeigt werden können. Experimente für TSP zeigen empirisch, dass die Verwendung von Rekombination zu einer zusätzlichen Beschleunigung führt.&#13;
+Genetische Algorithmen sind evolutionäre Algorithmen, welche sexuelle Fortpflanzung in Form eines Rekombinationsoperators nutzen.&#13;
+Um unser Verständnis wichtiger Prinzipien von Rekombination zu verbessern, wird in Kapitel 3 die Laufzeit genetischer Algorithmen auf bekannten künstlichen pseudo-Booleschen Funktionen analysiert.&#13;
+Theoretische und empirische Resultate zeigen einen substantielle Beschleunigung für sogenannte "functions of unitation" bei Verwendung eines Fitness-invarianten Bit-Shuffling-Operators.&#13;
+Wir betrachten zusätzlich einfache, genetische Algorithmen ohne Shuffling und untersuchen das Zusammenspiel von Mutation und Rekombination auf der Testfunktion JUMP.&#13;
+Für kleine Rekombinationsraten beweisen wir, dass Mutationen auch für sehr kleine Populationen ausreichend Diversität produziert, um die Testfunktion zu optimieren.&#13;
+Im Gegensatz dazu, verringert eine große Rekombinationsrate die Diversität schneller als Mutation sie erzeugen kann. &#13;
+Beide Effekte haben einen signifikanten Einfluss auf die Optimierungszeit.&#13;
+Wir vervollständigen unsere theoretischen Untersuchungen durch Monte-Carlo-Simulationen.&#13;
+APSP ist das bisher einzige kombinatorische Optimierungsproblem, für welches der Nutzen von Rekombination mathematisch bewiesen werden konnte. In Kapitel 4 verbessern wir die besten bekannten Laufzeitschranken für APSP und beweisen, dass unsere neuen Schranken asymptotisch optimal sind.&#13;
+Unsere neuartige, rigorose Analyse ermöglicht neue Einsichten, wie Rekombination in noch unbekannte Gegenden des Suchraums vorstößt, und es komplementär dazu dem Mutationsoperator überlässt, die nähere Nachbarschaft zu untersuchen.&#13;
+In der Praxis nutzen genetische Algorithmen oft verfeinerte Rekombinationsstrategien, welche beispielsweise ungültige Nachkommen reparieren. Für zwei derartige Konzepte beweisen wir für APSP eine kleinere Optimierungszeit.&#13;
+Wir erweitern diese Ansätze für die NP-schwere mehrkriterielle Variante von APSP und präsentieren einen genetischen Algorithmus mit einem speziellen Diversitätsmaß, welches die Größe der Population vom Benutzer einstellbar steuert.  Dies ist notwendig, da die Pareto-Front im worst-case exponentiell groß werden kann. Wir beweisen, dass der resultierende genetische Algorithmus ein voll polynomielles randomisiertes Approximationsschema (FPRAS) ist. Dies zeigt, dass Rekombination zu einer besseren Laufzeit führen kann als die besten zuvor bekannten Resultate. Mit dieser Analyse wurde zum ersten Mal mathematisch gezeigt, dass Rekombination für ein NP-schweres Optimierungsproblem vorteilhaft ist.&#13;
+&#13;
+&#13;
+</dc:description>
+          <dc:date>2013-06-07</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3915</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-39152</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-39152</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3915/friedrich_madeleine.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

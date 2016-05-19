@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:50Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3155">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3155</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Content Modeling for Automatic Document Summarization</dc:title>
+          <dc:title xml:lang="deu">Inhaltsmodellierung für die automatische Dokumentenzusammenfassung</dc:title>
+          <dc:creator>Hennig, Leonhard</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">Current search engines filter the vast amounts of information available on the Internet by retrieving a potentially large set of documents in response to a user's query. However, the burden of finding the searched-for information within these documents stays with the user. Computational methods that progress beyond today's document-centric information retrieval solutions are therefore essential to help users to cope with the sheer amount of relevant documents and the information they contain. Automatic text summarization is such a technology, as summaries present a concise gist of much larger subjects while filtering out irrelevant and redundant content. In addition, summaries can satisfy complex information needs in a personalized manner. Summarization can thus be a powerful tool to reduce the amount of information users have to process. This dissertation develops novel algorithms for the personalized summarization of collections of thematically related news articles. Of particular interest in this scenario is the identification of the various subtopics centered around the collection's main theme, which helps to determine important source content and reduce redundancies. However, the ambiguity of natural language and the sparsity of sentence vocabularies present problems that go beyond the capabilities of common modeling techniques. The algorithms introduced in this dissertation are especially tailored to reduce the effects of lexical variability and sparsity in order to derive more precise and robust summarization models. Exhaustive tests for different settings and various datasets show that the developed solutions produce summaries of higher quality than the current state-of-the-art. News articles reporting on the same event are similar not only in terms of the subtopics they address, but often also relate similar facts. Fact identification is a highly desirable, if yet unsolved, subtask of summarization, since an automatic assessment of the semantic similarity of phrasal text spans is currently not feasible with the required precision. The latter part of this thesis is dedicated to an extensive analysis of semantic, fact-like text units in news articles and human reference summaries and proposes a novel algorithm for the detection of text units that approximate human-annotated facts.</dc:description>
+          <dc:description xml:lang="deu">Herkömmliche Suchmaschinen filtern die großen Mengen im Internet verfügbarer Daten durch die Abbildung einer Nutzer-Suchanfrage auf eine potentiell große Menge von Dokumenten. Das Auffinden der gesuchten Informationen innerhalb dieser Dokumente bleibt jedoch Aufgabe des Nutzers. Daher ist die Entwicklung computergestützten Methoden essentiell, welche über herkömmliche, dokumentenzentrische Informationsbeschaffungslösungen hinausgehen, und die den Nutzer bei der Verarbeitung großer Dokumentenmengen und darin enthaltener Informationen unterstützen. Automatisierte Textzusammenfassung ist eine solche Technologie, da Zusammenfassungen konzise die Kernpunkte wesentlich größerer Quelltexte zusammentragen und dabei irrelevante und redundante Informationen herausfiltern. Textzusammenfassungssysteme können also ein mächtiges Werkzeug zur Reduktion der von einem Nutzer zu verarbeitenden Datenmengen darstellen. Im Rahmen dieser Arbeit werden Algorithmen zur personalisierten Zusammenfassung von Kollektionen thematisch aufeinander bezogener Nachrichtenartikel entworfen und evaluiert. Von speziellem Interesse ist hierbei die Identifikation der Unterthemen, die das übergeordnete Hauptthema einer solchen Kollektion strukturieren, da dieses die Bestimmung wesentlicher Inhalte und die Erkennung von Redundanzen erleichtert. Existierende Modellierungsverfahren berücksichtigen nicht in ausreichendem Maße die Mehrdeutigkeit natürlicher Sprache und die Begrenztheit von Satzvokabularen. Die in dieser Arbeit entwickelten Algorithmen hingegen werten Wortkontextinformationen zur Themenerkennung aus, und profitieren von den dadurch gegebenen Zusatzinformationen bei der Erstellung personalisierter Zusammenfassungen. Ausführliche Tests in verschiedenen Szenarien und für unterschiedliche Datensätze zeigen, dass die entwickelten Lösungen Zusammenfassungen von höherer Qualität liefern als existierende Ansätze. Nachrichtenartikel, die über ein bestimmtes Ereignis berichten, sind nicht nur ähnlich in Hinblick auf ihre Unterthemen, sondern enthalten auch oft die gleichen Fakten. Die Erkennung ähnlicher Fakten ist eine wünschenswerte, aber derzeit ungelöste Teilaufgabe von Zusammenfassungssystemen, da eine Bewertung der semantischen Ähnlichkeit von Teilsätzen nicht mit der benötigten Präzision möglich ist. Einen weiteren Schwerpunkt dieser Arbeit bilden daher eine ausführliche Analyse von faktenähnlichen Satzabschnitten in Nachrichtenartikeln und Referenzzusammenfassungen, sowie die Entwicklung eines Algorithmus zur Erkennung ähnlicher Teilsätze.</dc:description>
+          <dc:date>2011-11-30</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3155</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-33372</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-33372</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3155/hennig_leonhard.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights> CC BY-NC-ND: Creative Commons-Lizenz: Namensnennung, nicht kommerziell, keine Bearbeitung</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

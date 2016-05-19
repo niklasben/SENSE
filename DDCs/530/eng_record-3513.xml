@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:00:32Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3513">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3513</identifier>
+        <datestamp>2013-07-02</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:530</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">X-ray spectroscopy of deposited noble metal clusters</dc:title>
+          <dc:title xml:lang="deu">Röntgenspektroskopie von deponierten Edelmetallclustern</dc:title>
+          <dc:creator>Peters, Sven</dc:creator>
+          <dc:subject>ddc:530</dc:subject>
+          <dc:description xml:lang="eng">The present thesis deals with the spectroscopic study of supported mass-selected metal clusters using soft X-ray synchrotron radiation. The clusters have been produced by a magnetron cluster source, mass-separated and softly landed onto a thin silica layer naturally grown on a doped Si-wafer. In particular, copper (Cun, n=8-55) and gold (Aun, n=1-35) clusters have been analysed by means of X-ray photoelectron spectroscopy (XPS), Auger electron spectroscopy (AES) and extended X-ray absorption spectroscopy (EXAFS) at the synchrotron light source Bessy II in order to investigate the electronic and geometric structure as function of cluster size. The gold 4f core level binding energy is increasing with decreasing cluster size and is found to be scalable with the inverse cluster radius according to the classical metal sphere model. The size-dependent XPS shift is clearly smaller than expected for free clusters due to dynamic extra-atomic core hole screening by the substrate. In copper clusters a size-dependent PCI-shift has been observed which reveals that the photoelectron core-hole interaction gradually changes from a Coulomb-like into a screened Coulomb-like interaction within the sub-nm range. The reduced screening ability of the clusters smaller than 10 Å illustrates that the electronic properties of the clusters are rather non-metallic as compared to the solid phase. K-edge EXAFS measurements reveals a bond length contraction for small copper clusters from 2.55 to 2.36 Å. In oxidised copper clusters multiple Cu-Cu bonds have been identified.</dc:description>
+          <dc:description xml:lang="deu">In dieser Arbeit wurden deponierte massenselektierte Metallcluster mit Hilfe weicher Röntgen-Synchrotronstrahlung untersucht. Die Cluster wurden mit einer Magnetronclusterquelle hergestellt, massenselektiert und zerstörungsfrei auf der natürlichen Siliziumdioxidschicht eines p-dotierten Siliziumwafers deponiert. Inbesondere Kupfer- und Goldcluster wurden mit Röntgen-Photoelektronenspektroskopie, Augerelektronenspektroskopie und kanten-ferner Röntgenabsorptionsspektroskopie an der Synchrotronstrahlungsquelle Bessy II analysiert, um die elektronische und geometrische Struktur in Abhängigkeit der Clustergröße zu erforschen. Die Gold 4f Rumpfniveau-Bindungsenergie nimmt mit abnehmender Clustergröße zu und skaliert mit dem inversen Clusterradius in Übereinstimmung mit dem klassischen „metal sphere model“. Der größenabhängige XPS-Shift ist eindeutig kleiner als erwartet für freie Cluster aufgrund von dynamischen außeratomaren Screenings des Rumpflochs durch das Substrat. In Kupferclustern wurde ein größenabhängiger PCI-Shift beobachtet, welcher verdeutlicht, dass die Photoelektron-Rumpfloch-Wechselwirkung sich schrittweise von einer coulombartigen in eine abgeschirmte coulombartige Wechselwirkung verändert. Das verringerte Vermögen von Clustern kleiner als 10 Angström Ladungen effektiv abzuschirmen zeigt, dass die elektronischen Eigenschaften dieser Cluster eher nichtmetallisch sind im Vergleich zum Festkörper. K-Kanten Absorptionsspektroskopie offenbart eine Kontraktion der Bindungslängen von kleinen Kupferclustern von 8%. In oxidierten Kupferclustern konnten mehrere Kupfer-Kupferbindungen identifiziert werden.</dc:description>
+          <dc:date>2012-11-02</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3513</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-37386</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-37386</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3513/peters_sven.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

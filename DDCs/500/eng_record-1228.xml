@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:50:11Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:1228">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:1228</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Belastung von Trinkwassertalsperren in Sachsen und Thüringen mit Parasitendauerformen und ausgewählten Bakterien</dc:title>
+          <dc:title xml:lang="eng">Contamination of drinking water reserviors in Saxonia and Thuringia with hygienically relevant microorganisms</dc:title>
+          <dc:creator>Bischoff, Kathrin</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">Von Oktober 1996 bis Januar 2000 wurden an 9 Trinkwassertalsperrensystemen mit unterschiedlich genutztem Einzugsgebiet in Sachsen und Thüringen mikrobiologisch-trinkwasserhygienische Untersuchungen durchgeführt. Schwerpunkt der Arbeiten war die Ermittlung der Belastungsquellen und der Eintrittspfade von durch Wasser übertragbaren Krankheitserregern, besonders von Parasitendauerformen, in Zuflüssen, Vorsperren und die Talsperrenwässer selbst. Trotz nachgewiesener hoher mikrobiologischer Belastungen vor allem bei Talsperrensystemen mit intensiv genutztem Einzugsgebiet (Abwassereinfluss, Landwirtschaft) und bei meteorologisch ungünstigen Verhältnissen (Schneeschmelze, Starkregen) wurden für die Rohwässer der Talsperren vergleichsweise geringen Kontaminationen mit hygienisch relevanten Mikroorganismen festgestellt. Bei Einhaltung aller Kriterien des Ressourcenschutzes und einer Trinkwasseraufbereitung nach den Regeln der Technik (Multi-Barriere-System) ist eine seuchenhygienisch sichere Trinkwassergewinnung aus Talsperren weiterhin möglich.</dc:description>
+          <dc:description xml:lang="eng">Microbiological-hygienic investigations of man made reservoirs and their catchment areas were carried out from October 1996 until January 2000. The investigations were done at 9 drinking water reservoirs with differently used catchment areas in Saxonia and Thuringia. The work was focused on the determination of sources of contamination and entrance paths of pathogens, in particular parasites in reservoirs and the raw water itself. A high level of microbiological contamination has been discovered in reservoirs catchment areas with intense usage, especially in waste water and agriculture, and especially with unfavorable meteorological conditions (heavy rain, thaw). Even under these conditions a relatively low contamination of raw water from reservoirs with hygienically relevant microorganisms could be found. Provided resource protection and drinking water processing technology in accordance with the rules of the technology standards (multi-barrier system) are maintained, epidemic-hygienically safe drinking water treatment from reservoirs is further possible.</dc:description>
+          <dc:date>2006-03-15</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/1228</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-12263</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-12263</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/1228/bischoff_kathrin.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:01:24Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3713">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3713</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:720</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Agenten und Komplizen : strategische Partnerschaften zwischen Schule und Stadt in Neukölln</dc:title>
+          <dc:creator>Hofmann, Susanne</dc:creator>
+          <dc:creator>Benze, Andrea</dc:creator>
+          <dc:creator>Walter, Urs</dc:creator>
+          <dc:subject>ddc:720</dc:subject>
+          <dc:description xml:lang="deu">Viele Schulen entwickeln sich von reinen Lernorten für Schüler zu Lebensorten für die gesamte Nachbarschaft der Schule. Können in diesem Prozess bestehende Bildungspotenziale im Quartier aufgespürt und mit der Schule verknüpft werden? Die Rixdorfer Grundschule in Nord-Neukölln soll zu einem Identifikationsort mit hoher Ausstrahlungskraft in die Nachbarschaft ausgebaut werden. Mit dem Planspiel AGENTEN &amp; KOMPLIZEN haben Schülern, Lehrern und Nachbarn der Schule in 70 Spielrunden Zukunftsszenarien für strategische Verbindungen von Bildung und Quartier erspielt. Moderiert wurden die Spielrunden von Studierenden der Architektur, die basierend auf den Ergebnissen des Spiels eine bauliche Erweiterung der Schule entworfen haben.</dc:description>
+          <dc:description xml:lang="eng">Many schools are currently evolving from their former role as places for learning into neighbourhood centres for educational as well as social activities. During this process, it is essential to trace and link existing local educational potential to the school. The Rixdorf Primary School in the north of Neukölln is to become a core institution with strong radiance and local identity. With the simulation game AGENTS &amp; ACCOMLICES more than 70 future scenarios of strategic links between education and neighbourhood have been played out by pupils, teachers, neighbours and by-passers. The students of Architecture, who moderated the game rounds, designed structural extensions for the school based on the analysis of the game outcome.</dc:description>
+          <dc:contributor>Quartiersmanagement Donaustrasse</dc:contributor>
+          <dc:date>2013-05-24</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3713</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-39967</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-39967</dc:identifier>
+          <dc:identifier>978-3-7983-2477-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3713/9783798324763_content.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3713/9783798324763_cover.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

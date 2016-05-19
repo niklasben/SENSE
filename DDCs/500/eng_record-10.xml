@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:43:34Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:10">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:10</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:500</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Vergleichende Untersuchungen zur genetischen Organisation von fkb Genen und der Rolle von FK506 bindenden Proteinen in Actinomyceten am Beispiel von Streptomyceten und Mycobakterien</dc:title>
+          <dc:creator>Berger, Rico</dc:creator>
+          <dc:subject>ddc:500</dc:subject>
+          <dc:description xml:lang="deu">FK506 bindende Proteine (FKBPs) bilden neben den Cyclophilinen und Parvulinen die dritte bekannte Familie der Peptidyl-prolyl-cis/trans-Isomerasen (PPIasen). PPIasen katalysieren die cis/trans-Interkonversion von Peptidylprolylbindungen in Peptiden und Proteinen. Die Prolylisomerisierung stellt häufig den geschwindigkeitsbestimmenden Schritt bei Proteinfaltungsprozessen dar. Daher wird für PPIasen eine Rolle in Prozeßen wie Proteinfaltung, Proeinstabilisierung oder Proteintransport postuliert. Innerhalb der Actinomyceten sind FKBPs bisher nur aus Streptomyces chrysomallus und Corynebakterium glutamicum isoliert und charakterisiert worden. Die Funktion ist jedoch wie für andere prokaryotische FKBPs unklar. Die Rolle der beiden FKBPs, FKBP12 und FKBP33, in Streptomyceten wurde durch gezielte Inaktivierung der fkb Gene in S. coelicolor und S. lividans untersucht. Dabei war es möglich eine der beiden FKBP-Domänen des membranständigen FKBP33 zu inaktivieren. Die erhaltenen Insertionsmutanten zeigten keine phänotypischen Auffälligkeiten. Dies weist darauf hin, daß das verkürzte FKBP die Funktion des intakten FKBP übernehmen kann. Versuche FKBP33 vollständig auszuschalten blieben genau wie der Versuch FKBP12 zu inaktivieren erfolglos. Eine mögliche Erklärung hierfür wäre, daß die FKBPs im komplexen Lebenszyklus von Streptomyceten von essentieller Bedeutung sind. Bei der Untersuchung der Mycobakterien, einem weiteren Genus innerhalb der Actinomyceten, wurde gefunden, daß auch schnellwachsende Spezies der Mycobakterien wie M. smegmatis und M. phlei cytosolische PPIase-Aktivität, die durch FK506 und Rapamycin inhibierbar ist, aufweisen. Dies ist besonders interessant, da bei der Recherche des Genoms der langsamwachsenden Mycobakterien wie M. tuberculosis und M. leprae festgestellt wurde, daß diese Organismen nur Cyclophiline aber keine FKBPs enthalten. Die Klonierung des fkb Gens aus M. smegmatis ergab, daß der fkb-Locus von M. smegmatis teilweise eine ähnliche Organisation wie der von C. glutamicum aufweist. Das fkbA Gen wird konstitutiv als monocistronisches Transcript exprimiert. FKBP12 aus M. smegmatis ist in seinen enzymatischen Eigenschaften dem FKBP12 aus S. chrysomallus sehr ähnlich. Im Rahmen der Sequenzierung des fkb-Genlocus von Mycobacterium smegmatis konnten weitere offene Leserahmen identifiziert werden, deren analoge Gene in pathogenen Mycobakterien ebenfalls nicht nachweisbar waren. Diese Gene wurden für andere Mikroorganismen bereits als stressinduzierbare Gene beschrieben. Das Fehlen derartiger Komponenten der Stressantwort bindet möglicherweise manche Mycobakterien an einen Wirt und wäre somit indirekt auch für die Pathogenität dieser Stämme mitverantwortlich. Eines dieser Gene, phrA codiert für eine DNA-Photolyase. Diese Proteine katalysieren in einer lichtabhängigen Reaktion die Spaltung von Thymindimeren in der DNA. Da für M. smegmatis keine Untersuchungen zur DNA-Photoreparatur vorlagen, wurde das DNA-Photoreparatursystem aus M. smegmatis untersucht. Die dabei beobachtete Fähigkeit lichtabhängig DNA-Schäden zu reparieren, konnte mit der Aktivität des phrA</dc:description>
+          <dc:date>2000-01-13</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/10</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-65</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-65</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/10/berger_rico.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

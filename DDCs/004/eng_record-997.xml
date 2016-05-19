@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:48:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:997">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:997</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:habilitation</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Visual Modelling and Validation of Distributed Systems</dc:title>
+          <dc:title xml:lang="deu">Visuelle Modellierung und Validation verteilter Systeme</dc:title>
+          <dc:creator>Taentzer, Gabriele</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Die Entwicklung von verschiedensten Technologien für verteilte Systeme ist rasant vorangegangen und hat zu einer stetig wachsenden Komplexität von Softwaresystemen dieser Art geführt. Deshalb ist ein präziser Entwurf von verteilten Systemen, der zumindest die wichtigsten Systemaspekte modelliert, sinnvoll. Die Verwendung von formalen Methoden ist üblicherweise auf wenige Aspekte, wie z.B. Performanz und Korrektheit von verteilten Algorithmen, beschränkt. Konsistenzeigenschaften, wie sie beispielsweise bei der gemeinsamen Datennutzung durch verschiedene Prozesse auftreten, sind noch nicht hinreichend untersucht worden. Diese Arbeit befasst sich mit Modellierungs- und Validationskonzepten für verteilte Systeme, wobei wir uns auf die Unified Modeling Language (UML) als visuelle Modellierungssprache sowie Graphtransformation als formalen Validationskalkül einschränken. Um die wichtigsten Anforderungen an das Modellieren von verteilten Systemen zu erfüllen, wurden eine Reihe von Spracherweiterungen an der UML durchgeführt. Zur visuellen Validation von verteilten Systemaspekten wurde der formale Kalkül der verteilten Graphtransformation entwickelt. Dieser Kalkül unterstützt im wesentlichen den Nachweis von Konsistenz- und Nebenläufigkeitsaussagen. Graphen spielen eine zentrale Rolle, wenn es um die präzise Definition der Syntax und Semantik von visuellen Modellierungssprachen geht, denn sie eignen sich hervorragend zum Speichern von mehrdimensionalen Strukturen, speziell visuellen Repräsentationsstrukturen. Folglich sind Graphgrammatiken eine vielversprechende Technik zur Definition von visuellen Sprachen. Theoretische Resultate für Graphtransformation können gewinnbringend eingesetzt werden, um den Parsierungsprozess von visuellen Darstellungen zu beschleunigen und um das funktionale Verhalten von Modeltransformationen zu zeigen. Im Vergleich zu anderen Ansätzen zur Definition von visuellen Sprachen erlauben Graphgrammatiken eine vollständig visuelle Definition, die alle strukturellen Aspekte visuell behandelt. Der in der Arbeit vorgestellte Ansatz stellt eine Grundlage für die präzise Syntax- und Semantikdefinition von visuellen Modellierungssprachen für verteilte Systeme dar.</dc:description>
+          <dc:description xml:lang="eng">Distributed system technologies are fast developing and the complexity of networked systems increases. For this reason the precise design of distributed systems is necessary, comprising all key aspects. The employment of formal methods is restricted to few aspects such as performance and correctness of distributed algorithms, while the investigation of consistency issues, as they arise e.g. when data is shared between different sites, is still a challenge. In this work, approaches to visual modelling and validation of distributed systems are considered focussing on the Unified Modeling Language (UML) as visual modelling language and graph transformation as formal validation domain. To meet the main requirements for distributed system modelling, UML has been extended by a number of profiles and heavy-weight language extensions. For visual reasoning about certain key aspects of distributed systems, the formal calculus of distributed graph transformation has been developed. This calculus supports the formal validation of distributed systems, especially concerning concurrency and consistency issues. To precisely defining the syntax and semantics of a visual modelling language like UML, graphs play a central role, since they are well suited to store the multi-dimensional structures behind visual representations. As a consequence, graph grammars are shown to be a promising technique to define visual languages. Theoretical results for graph transformation can be advantageously used to speed up visual parsing and to show the functional behaviour of model translations. Compared to other approaches to visual language definition, graph grammars allow a fully visual approach which handles all structural aspects visually. The presented approach builds the basis for the precise syntax and semantics definition of visual modelling languages for distributed systems.</dc:description>
+          <dc:date>2003-10-01</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/997</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-9900</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-9900</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/997/taentzer_gabriele.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

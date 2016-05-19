@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:45:30Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:299">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:299</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Maximum a Posteriori Models for Cortical Modeling: Feature Detectors, Topography and Modularity</dc:title>
+          <dc:title xml:lang="deu">Maximum a Posteriori Modelle zur kortikalen Modellierung: Merkmalsdetektoren, Topographie und Modularität</dc:title>
+          <dc:creator>Weber, Cornelius</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="deu">Diese Arbeit zeigt, wie biologisch gefundene Strukturen neuronaler Netze durch theoretisch hergeleitete Regeln des unüberwachten Lernens erklärt werden können. Kapitel 1, 'Einleitung', und Kapitel 2, 'Der Kortex', beschreiben die biologischen Grundlagen: Kortikale Areale und ihre Verbindungen, Zellschichten sowie die Mechanismen, die die Entwicklung neuronaler Verbindungen bestimmen. Diese Grundlagen bilden das Ziel des Modellierungsansatzes und liefern die Motivation für die implementierten Methoden. Kapitel 3, 'Theorie', und Kapitel 4, 'Modelle', beschreiben den maximum likelihood Ansatz und wie Modelle davon abgeleitet werden. Demnach lernt der Modellkortex eine Repräsentation der Welt. Die gelernten Eingabedaten können vom Modell generiert werden, indem man den neuronalen Aktivierungszuständen eine Wahrscheinlichkeitsverteilung, z.B. die Boltzmannverteilung, aufprägt. Biologisch motivierte Entwicklungsmechanismen werden berücksichtigt, indem eine Wahrscheinlichkeitsverteilung der Modellparameter anhand von Bayes'schen priors vorgegeben wird. Es ändern sich die Lernregeln, so dass die in der Biologie gefundenen Strukturen entstehen. Kapitel 5, 'Resultate', beschreibt den Ablauf der Simulationen und ihre Resultate und in Kapitel 6, 'Diskussion', werden die Modelle untereinander und mit der Biologie verglichen. Erstmals entstehen in einer Boltzmann Maschine Neurone, die denen im primären visuellen Kortex darin ähneln, dass sie lokalisierte und orientierungsselektive rezeptive Felder haben. Dieses wird durch einen Bayes'schen prior erreicht, der bestimmt, dass die Neurone wenig aktiv sind. Desweiteren wird ein Netz vorgestellt, dessen interne Architektur sich an die die Daten erzeugende logische Struktur anpasst. So entsteht abhängig von den Daten entweder eine parallele oder eine hierarchische Organisation der Neuronen. Dieses wird anhand zweier verschiedener Modelle, eines nichtlinearen Kalman Filter Modells wie einer Helmholtz Maschine gezeigt.</dc:description>
+          <dc:description xml:lang="eng">The thesis shows in a top-down modeling approach that unsupervised learning rules of neural networks can account for the develop ment of cortical neural connections. Sections 1, ''Introduction'', and 2, ''The Cortex'', comprise biological foundations about the cortex: its areas and their mutual connectivity, cell layers and the mechanisms which govern the development of neural connections. These data supply the goal of modeling as well as the motivation for the methods which are used. Sections 3, ''Theory'', and 4, ''Models'', describe the theory and how to derive models from it. In a maximum likelihood framework, the model cortex learns to represent the real world. With neuronal activation states that follow the Boltzmann distribution, the model can then generate the incoming stimuli by itself. Using Bayesian priors on the model parameters, the learning rules are modified to account for biologically observed developmental mechanisms so that biologically observed structures develop. Section 5, ''Results'', presents simulation details and results and in section 6, ''Discussion'', the models are compared and related to the biological findings. In this work it is demonstrated that using a sparsely coded Boltzmann machine, neurons emerge which have localized and orientation selective receptive fields like those observed in primary visual cortex. Another highlight is the demonstration of a high adaptability of model structures to the environment. Either parallelly or hierarchically organized modules will arise as an appropriate adaptation to the organization of the training data set. This is shown using two different models, a non-linear Kalman filter model and a Helmholtz machine.</dc:description>
+          <dc:date>2002-01-09</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/299</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-2941</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-2941</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/299/weber_cornelius.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

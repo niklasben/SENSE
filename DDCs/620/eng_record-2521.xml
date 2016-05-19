@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:55:59Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2521">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2521</identifier>
+        <datestamp>2013-07-01</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Phytoestrogene in Hopfen - Nachweis und Entwicklung einer HPLC-DAD gestützten Quantifizierungsmethode</dc:title>
+          <dc:title xml:lang="eng">Phytoestrogens in Hops - Detection and Development of a HPLC-DAD based Quantification Method</dc:title>
+          <dc:creator>Sturm, Daniel</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Es wurden zwei HPLC-Methoden zur Quantifizierung des Phytoestrogens 8-Prenylnaringenin (8-PN) aus Hopfen entwickelt. Entscheidend für die Quantifizierung waren dabei die Entwicklung eines geeigneten Extraktionsverfahrens und die Probenaufbereitung mittels Festphasenextraktion (SPE). Die Extraktion bei Raumtemperatur (kalt) lieferte geringere Gehalte an 8-PN als Extraktionen bei 90°C (heiß). Bei Kaltextrakten ist es in jedem Fall nötig, die Probenmatrix mittels SPE von Störsubstanzen zu befreien. Auf diese Weise können auch geringe 8-PN-Mengen (10 µg/g) im Hopfen sicher detektiert werden. Desmethylxanthohumol (DMX, die Vorläufersubstanz von 8-PN und 6-PN, lässt sich direkt aus den Extrakten bestimmen. Das Hefe-Assay (gentechnisch veränderte Hefe mit einem humanen Estrogenrezeptor zum Estrogenitäts-Nachweis) stellte sich als hochempfindliche und gut zu beherrschende Methode zur Detektion von phytoestrogener Aktivität heraus. Eine genaue Quantifizierung von 8-PN ist mit dieser Methode hingegen nicht möglich. In den Vorversuchen konnte gezeigt werden, dass bereits die Kalibrierkurven der Standardsubstanzen Fehler von über 10% aufwiesen. Mit beiden entwickelten HPLC-Methoden, einmal auf Methanol und einmal auf Acetonitril basierend, lassen sich die bisher nur schwer zu quantifizierenden Substanzen 8-PN, 6-PN und DMX auch ohne Massenspektrometer nachweisen. Sie unterscheiden sich nur geringfügig in der Auflösung. Da auch Isoxanthohumol (IX) und Xanthohumol (XN) zu 8-PN umgewandelt werden können, sollten deren Gehalte für eine umfassende Betrachtung der Phytoestrogenität des Hopfens stets miterfasst werden. In dem breit angelegten Screening verschiedener Hopfensorten wurde deutlich, dass 8-PN ein Produkt der Hopfenveredlung ist. In frischen Hopfendolden ist 8-PN vermutlich gar nicht oder nur in Spuren enthalten. Erst durch die Trocknung (Hopfendarre) und während der Lagerung entsteht aus DMX das Phytoestrogen 8-PN.</dc:description>
+          <dc:description xml:lang="eng">For the quantification of phytoestrogen 8-Prenylnaringenin out of hops two HPLC-Methods were developed. It was necessary to find an efficient extraction method and a sample preparation by solid phase extraction (SPE). The extraction at room temperature (cold) delivers less amounts of 8-PN than the extraction at 90°C (hot). To improve the sample matrix of cold extracts a sample preparation by SPE is strongly recommended. With both methods it was possible to detect 8-PN in hops (≥ 10µg/g). Desmethylxanthohumol as precursor even small amounts of 8-PN and 6-PN can directly be detected in the raw extracts. The estrogen activity of hop constituents can be detected by a genetic modified yeast model (yeast assay). This assay is based on a human estrogen receptor with a very high sensitivity against estrogen active substances like 8-PN. It was not possible to quantify the assay because the standard deviation of the calibration curve deviates more than 10%. With both developed HPLC-Methods, one based on methanol the other based on acetonitrile, it is possible to detect 8-PN, 6-PN and DMX without a mass spectroscopy detector. These methods have a similar resolution. It is also possible to receive a comprehensive overview of the phytoestrogen potential of hops by parallel determination of Isoxanthohumol (IX) and Xanthohumol (XN) amounts. After screening of different hop varieties it is obvious that 8-PN is an artificial product of hop processing. It is assumed that in fresh hop cones 8-PN can not be detected or only in traces. Drying of the fresh hop cones and storage will enhance the production of 8-PN from the precursor DMX.</dc:description>
+          <dc:date>2010-05-10</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2521</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-26310</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-26310</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2521/sturm_daniel.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

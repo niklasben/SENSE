@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T07:02:12Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:4045">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:4045</identifier>
+        <datestamp>2014-05-28</datestamp>
+        <setSpec>doc-type:workingpaper</setSpec>
+        <setSpec>bibliography:false</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Grundlagen des Cloud Computing : Cloud Computing in der Öffentlichen Verwaltung</dc:title>
+          <dc:creator>Labes, Stine</dc:creator>
+          <dc:subject>ddc:0</dc:subject>
+          <dc:description xml:lang="deu">Sowohl der Kostendruck im Öffentlichen Sektor, als auch die Nachfrage von Bürgern nach Online-Dienstleistungen (E-Government) führen zu wachsendem Interesse von Kommunen an effizienter IT.&#13;
+Die Anbieterseite im Öffentlichen Sektor konstituiert sich in Deutschland in vielfältigen Rechtsformen öffentlich-rechtlicher IT-Dienstleister. Besonders häufig vereinen sich mehrere Kommunen als Zweckverband. Es entsteht eine Kommunale Datenverarbeitungszentrale (KDVZ) für die gemeinsame Aufgabenerfüllung in den Bereichen der IT. Die Anwenderseite dieser IT-Dienste im Öffentlichen Sektor wird gebildet durch Bund, Länder, Kommunen, Gemeinden, Behörden, Wissenschaft und Forschung sowie Sozialversicherungen. Die Kommunen generieren mit Abstand den größten Teil des Umsatzes von IT-Diensten.&#13;
+Trotz der zahlreichen theoretischen Vorteile von Cloud-Diensten behindern den Einsatz von Cloud Computing im Öffentlichen Sektor u.a. fehlende Anreizmechanismen, bürokratisch schwerfällige Strukturen und Prozesse, heterogene Systemlandschaften sowie ein erhöhtes Bedürfnis nach Sicherheit und Compliance. Im Rahmen eines Workshops wurden die fünf NIST-Kriterien der Cloud Computing Definition auf den Öffentlichen Sektor übertragen und konkrete Vor- und Nachteile abgeleitet. Als Ergebnis resultiert, dass (1) ein bedarfsgerechter Selbstservice nicht den regulären Anwendungsfall im Öffentlichen Sektor bedient, (2) der Netzwerkzugang sich auf private Strukturen beschränken sollte, (3) ein gemeinsamer Ressourcenpool das Potential zur Verletzung der Informationssicherheit aufweist, (4) umfassende Planungen im Öffentlichen Bereich kaum elastische Skalierbarkeit erfordern und (5) Überwachungsdienste für eine transparente und verbrauchsabhängige Abrechnung möglicherweise schwer akzeptiert werden.&#13;
+Dennoch stellen sich die Länder, mit den USA als Vorreiter, diesen Herausforderungen. Derzeit implementiert nahezu jedes Land Cloud-Dienste im Öffentlichen Sektor und hat umfangreiche Zukunftspläne. &#13;
+</dc:description>
+          <dc:date>2013-08-08</dc:date>
+          <dc:type>workingpaper</dc:type>
+          <dc:type>doc-type:workingpaper</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/4045</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus4-40451</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus4-40451</dc:identifier>
+          <dc:identifier>978-3-7983-2612-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/4045/Projektberichte_IKM_08.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

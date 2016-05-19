@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:56:41Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:2680">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:2680</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:620</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="deu">Effiziente Simulation der Schallausbreitung in anwendungsnahen Triebwerkskonfigurationen</dc:title>
+          <dc:title xml:lang="eng">Efficent Simulation of the Sound Propagation in Realistic Aero-Engine Configurations</dc:title>
+          <dc:creator>Schönwald, Norbert</dc:creator>
+          <dc:subject>ddc:620</dc:subject>
+          <dc:description xml:lang="deu">Beim Entwurf von Flugtriebwerken gewinnen neben den aerodynamischen und wirtschaftlichen Anforderungen durch die Notwendigkeit zur Reduktion der Lärmemission aeroakustische Fragestellungen immer mehr an Bedeutung. Für die aerodynamische Auslegung im industriellen Umfeld haben sich Simulationsverfahren der Numerischen Strömungsmechanik (CFD) bereits als robustes und zuverlässiges Werkzeug etabliert. Die Simulation strömungsakustischer Prozesse mit CFD-Verfahren ist aber aufgrund der Eigenschaften des Schalls extrem aufwändig und daher für eine industrielle Anwendung ungeeignet. Im akademischen Umfeld existieren jedoch eine Vielzahl von Verfahren der Numerischen Strömungsakustik (CAA), die speziell für die Simulation akustischer Vorgänge mit akzeptablen Ressourcenaufwand optimiert sind. Der Einsatz der einzelnen Verfahren ist allerdings auf bestimmte Anwendungsbereiche unter spezifischen Rahmenbedingungen beschränkt. In dieser Arbeit werden daher verschiedene bewährte Verfahren und Techniken aus der CAA zu einem hybriden, zonalen Gesamtverfahren kombiniert, welches eine effiziente Simulation der Schallausbreitung und -abstrahlung unter Strömungseinfluss in komplexen anwendungsnahen Konfigurationen im industriellen Umfeld ermöglicht. Als eine Komponente des hybriden CAA-Verfahrens kommt ein etabliertes, optimiertes Finite-Differenzenverfahren höherer Ordnung zum Einsatz, welches qualitativ hochwertige Rechennetze erfordert. Deren Erzeugung wird mit steigender geometrischer Komplexität der Konfigurationen immer anspruchsvoller und stößt bei alleiniger Verwendung klassischer Techniken zur Blockstrukturierung an Grenzen. Um dennoch Untersuchungen komplexer dreidimensionaler Konfigurationen zu ermöglichen, wird eine aus der CFD bekannte Methode zur Gittereinbettung, die sogenannte Overset-Gitter-Technik, an die Anforderungen des CAA-Verfahren adaptiert und in dieses implementiert. Anhand von diversen, in ihrer Komplexität zunehmenden Konfigurationen wird das hybride Simulationsverfahren hinsichtlich seiner Genauigkeit und Einsatzgrenzen validiert. Zur Demonstration und Bewertung der Einsetzbarkeit des Verfahrens für die Vorhersage von tonalem Triebwerkslärm in anwendungsnahen Konfigurationen unter praxisrelevanten Bedingungen wird die Schallausbreitung durch verschiedene angeschrägte Triebwerkseinläufe mit variierender Anströmung sowie durch Nebenstromkanäle mit unterschiedlichen Einbauten simuliert. Die eingesetzten generischen Konfigurationen sind dabei so gewählt, dass sie die Anforderungen bei der Simulation von realer Triebwerken widerspiegeln. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen (ISBN 978-3-7983-2246-2).</dc:description>
+          <dc:description xml:lang="eng">Due to the need to reduce noise emissions, aeroacoustic issues are becoming increasingly important alongside aerodynamic and economic requirements in the design of aircraft engines. In the context of industrial aerodynamic design, computational fluid dynamics (CFD) is already established as a robust and reliable tool. The simulation of aeroacoustic processes with such CFD methods is however extremely expensive due to the inherent properties of sound waves and therefore unsuitable for industrial application. A variety of specialised computational aeroacoustics (CAA) methods exist in the academic environment, which are specifically optimized for the simulation of acoustic processes with an acceptable computational expense. However, the applicability of each such approach is limited to very specific configurations and conditions. In this work therefore, a selection of different CAA strategies are combined to form a hybrid zonal approach, which offers an efficient simulation methodology for sound propagation and radiation including mean flow effects in complex industrial applications. An optimized high-order finite difference method is applied as a component of the hybrid CAA approach, which requires high-quality computational meshes. The generation of these becomes more and more challenging as the geometric complexity increases, eventually encountering the well-known limitations of pure block-structured grid strategies. In order to overcome this problem and to enable the generation of high-quality grids for complex, three-dimensional configurations, the overset grid technique is adopted. This is an established technique in CFD, which is adapted to the requirements of CAA approaches and implemented in the employed methodology. Using various configurations of increasing complexity, the hybrid simulation procedure is validated and its accuracy and limitations are assessed. The feasibility of the procedure for the prediction of tonal engine noise in practical application configurations is then demonstrated and evaluated. For this purpose, simulations of the sound propagation through a selection of scarfed engine intakes with varying incident flow as well as through bypass ducts with different installed components are conducted. The generic configurations employed are chosen to reflect the requirements of real engine simulations. Printed version available: Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de)ISBN 978-3-7983-2246-2</dc:description>
+          <dc:date>2010-10-27</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/2680</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-27314</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-27314</dc:identifier>
+          <dc:identifier>978-3-7983-2245-5</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2680/schoenwald_norbert.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/2680/schoenwald_norbert_umschlag_aktuell.pdf</dc:identifier>
+          <dc:language>deu</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

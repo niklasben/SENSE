@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/oai2.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-10-15T06:58:18Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_dc" identifier="oai:kobv.de-opus4-tuberlin:3022">http://opus4.kobv.de/opus4-tuberlin/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:kobv.de-opus4-tuberlin:3022</identifier>
+        <datestamp>2014-08-20</datestamp>
+        <setSpec>doc-type:doctoralthesis</setSpec>
+        <setSpec>bibliography:false</setSpec>
+        <setSpec>ddc</setSpec>
+        <setSpec>ddc:004</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title xml:lang="eng">Multivariate Algorithmics in Biological Data Analysis</dc:title>
+          <dc:title xml:lang="deu">Multivariate Algorithmik in der Analyse biologischer Daten</dc:title>
+          <dc:creator>Uhlmann, Johannes</dc:creator>
+          <dc:subject>ddc:004</dc:subject>
+          <dc:description xml:lang="eng">The focus of the thesis is on the development of fixed-parameter algorithms for NP-hard problems arising in computational biology. The considered problems model tasks in data clustering, construction of phylogenetic trees, predicting information on the three-dimensional structure of proteins, and haplotype inference. Many combinatorial problems in the field of computational biology have turned out to be NP-hard. It is commonly believed that there exist no efficient, that is, polynomial-time algorithms for NP-hard problems. Parameterized algorithmics provides an approach to tackle NP-hard problems that has already proven to be successful in bioinformatics. The basic idea is to consider besides the input size a secondary measurement capturing an additional aspect of the input instance, the parameter. Then, the goal is to find algorithms such that the nonpolynomial part of the running time depends only on the parameter. For small parameter values such a parameterized algorithm might constitute an efficient solving strategy. Multivariate algorithmics extends a parameterized algorithm analysis in the sense that it investigates the influence of several parameters on the computational complexity of a problem. The main contributions of the thesis to the known algorithmic results are twofold. First, parameterized algorithms with better running times as known parameterized algorithms are developed for some of the considered problems. Second, the parameterized complexity investigations are extended by considering new parameterizations leading to new solving strategies for some of the considered problems. In particular, this thesis initiates a multivariate complexity study for some of the considered problems. An important algorithmic technique employed in the thesis is kernelization. Here the goal is to transform a given instance in polynomial time into an equivalent instance whose size is bounded by a function only depending on the parameter value. In this sense, kernelization can be seen as polynomial-time preprocessing with provable performance guarantee. Hence, the kernelizations developed in this thesis are not only relevant in the field of parameterized algorithmics but constitute a general contribution to solving the considered problems. Printed version available by Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de), ISBN 978-3-7983-2351-3</dc:description>
+          <dc:description xml:lang="deu">Die Arbeit beschäftigt sich mit der Entwicklung parametrisierter Algorithmen zum Lösen NP-schwerer Probleme, die ihren Ursprung in der algorithmischen Bioinformatik haben. Die betrachteten Probleme modellieren Aufgaben in der Clusteranalyse, in der Konstruktion phylogenetischer Bäume, in der Vorhersage der räumliche Anordnung der Aminosäuren eines Proteins, sowie in der Bestimmung von Haplotypen. Viele kombinatorische Probleme aus dem Bereich der algorithmischen Bioinformatik haben sich als NP-schwer herausgestellt. Dies bedeutet, dass diese Probleme im Allgemeinen wahrscheinlich nicht effizient, das heißt in Polynomzeit, gelöst werden können. In diesem Kontext bietet die parametrisierte Algorithmik einen Ansatz zum Lösen NP-schwerer Probleme, der sich bereits als erfolgreich erwiesen hat. Die Idee hierbei ist, neben der Eingabegröße einen Parameter zu betrachten, welcher eine zusätzliche Charakteristik der Eingabe misst. Das Ziel ist dann einen Algorithmus anzugeben, dessen nichtpolynomieller Laufzeitanteil nur vom Parameter abhängt. Für Instanzen, bei welchen der betrachtete Parameter kleine Werte annimmt, kann ein solcher parametrisierter Algorithmus ein effizientes Lösungsverfahren liefern. Die Multivariate Algorithmik erweitert die Parametrisierte Algorithmik dahingehend, dass hier der Einfluss mehrerer Parameter auf die Berechnungskomplexität eines Problems untersucht wird. Die Arbeit erweitert die bestehenden Ergebnisse für die betrachteten Probleme in zweierlei Hinsicht. Erstens werden parametrisierte Algorithmen angegeben, welche schneller sind als bisher bekannte parametrisierte Algorithmen. Zweitens werden die parametrisierten Untersuchungen der betrachteten Probleme ergänzt, indem neue Parametrisierungen betrachtet werden, was teilweise zu neuen Lösungsansätzen führt. Insbesondere initiiert die Arbeit für einige der betrachteten Probleme eine multivariate Komplexitätsanalyse. Ein technischer Schwerpunkt der Arbeit liegt auf der Entwicklung effizienter Verfahren zur Datenreduktion bzw. Polynonmzeitvorverarbeitung und deren theoretischer Analyse. In der parametrisierten Algorithmik spricht man von einer Kernelisierung, wenn sich eine Probleminstanz in Polynomzeit dergestalt reduzieren bzw. vorverarbeiten lässt, dass die Größe der entstehenden, äquivalenten Instanz (der Problemkern) nur vom Parameterwert abhängt. In diesem Sinne handelt es sich bei einer Kernelisierung um Polynomzeitvorverarbeitung mit beweisbarer Güte. Die in der Arbeit entwickelten Kernelisierungen stellen somit einen allgemeinen Beitrag zum Lösen der betrachteten Probleme dar, dessen Relevanz nicht allein auf das Gebiet der parametrisierten Algorithmik beschränkt ist. Gedruckte Version im Universitätsverlag der TU Berlin (www.univerlag.tu-berlin.de) erschienen, ISBN 978-3-7983-2351-3</dc:description>
+          <dc:date>2011-08-22</dc:date>
+          <dc:type>doctoralthesis</dc:type>
+          <dc:type>doc-type:doctoralthesis</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/frontdoor/index/index/docId/3022</dc:identifier>
+          <dc:identifier>urn:nbn:de:kobv:83-opus-31525</dc:identifier>
+          <dc:identifier>http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:kobv:83-opus-31525</dc:identifier>
+          <dc:identifier>978-3-7983-2352-0</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3022/uhlmann_johannes.pdf</dc:identifier>
+          <dc:identifier>http://opus4.kobv.de/opus4-tuberlin/files/3022/uhlmann_johannes_cover.pdf</dc:identifier>
+          <dc:language>eng</dc:language>
+          <dc:rights>Deutsches Urheberrecht mit Print on Demand (u.a. für Dissertationen empfohlen)</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>
