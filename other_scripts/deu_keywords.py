@@ -35,29 +35,28 @@ import os
 import re
 import shutil
 
-
 for dirpath, dirs, files in os.walk('../DDCs/deu'):
     for filename in fnmatch.filter(files, '*.xml'):
         with open(dirpath + '/' + filename, 'r') as openfile:
-            line = openfile.read()
-            des_r = re.search('<dc:description \
-            xml:lang="deu">(.*)</dc:description>', line)
-            if des_r:
-                desc = des_r.group(1)
-                print des_r
+            print dirpath
+            print filename
+            # line = openfile.read()
+            # des_r = re.search('<dc:description xml:lang="deu">(.*)</dc:description>', line)
+            # if des_r:
+            #     desc = des_r.group(1)
+                # print desc
 
-            # foldername = '../temp/temp_' + filename
-            #
-            # if not os.path.exists(os.path.dirname(foldername)):
-            #     try:
-            #         os.makedirs(os.path.dirname(foldername))
-            #     except OSError as exc:  # Guard against race condition
-            #         if exc.errno != errno.EEXIST:
-            #             raise
-            #
-            # dp = dirpath[-3:]
-            # newfilename = dp + '_' + filename
-            # with open(foldername + newfilename, 'w') as newfile:
-            #     newfile.write(desc)
+                # if not os.path.exists(os.path.dirname(foldername)):
+                #     try:
+                #         os.makedirs(os.path.dirname(foldername))
+                #     except OSError as exc:  # Guard against race condition
+                #         if exc.errno != errno.EEXIST:
+                #             raise
+
+                            # foldername = '../temp/temp_' + filename
+                            # dp = dirpath[-3:]
+                            # newfilename = dp + '_' + filename
+                            # with open(foldername + newfilename, 'w') as newfile:
+                            #     newfile.write(desc)
 
 # shutil.rmtree('../temp')
