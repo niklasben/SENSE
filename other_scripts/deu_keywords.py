@@ -33,30 +33,42 @@ import errno
 import fnmatch
 import os
 import re
+import mmap
 import shutil
 
 for dirpath, dirs, files in os.walk('../DDCs/deu'):
     for filename in fnmatch.filter(files, '*.xml'):
+
+        foldername = '../temp/temp_' + dirpath[-3:] + '/'
+        newfilename = filename[11:-4] + '.txt'
+
         with open(dirpath + '/' + filename, 'r') as openfile:
-            print dirpath
-            print filename
-            # line = openfile.read()
-            # des_r = re.search('<dc:description xml:lang="deu">(.*)</dc:description>', line)
-            # if des_r:
-            #     desc = des_r.group(1)
-                # print desc
+            s = mmap.mmap(openfile.fileno(), 0, access=mmap.ACCESS_READ)
+            if s.find('<dc:description xml:lang="deu">') != -1:
+                line = openfile.read()
+                start = line.index('<dc:description xml:lang="deu">') + len('<dc:description xml:lang="deu">')
+                end = line.index('</dc:description>', start)
 
-                # if not os.path.exists(os.path.dirname(foldername)):
-                #     try:
-                #         os.makedirs(os.path.dirname(foldername))
-                #     except OSError as exc:  # Guard against race condition
-                #         if exc.errno != errno.EEXIST:
-                #             raise
+                foldername = '../temp/temp_' + dirpath[-3:] + '/'
 
-                            # foldername = '../temp/temp_' + filename
-                            # dp = dirpath[-3:]
-                            # newfilename = dp + '_' + filename
-                            # with open(foldername + newfilename, 'w') as newfile:
-                            #     newfile.write(desc)
+                if not os.path.exists(os.path.dirname(foldername)):
+                    try:
+                        os.makedirs(os.path.dirname(foldername))
+                    except OSError as exc:  # Guard against race condition
+                        if exc.errno != errno.EEXIST:
+                            raise
+
+            newfilename = filename[11:-4] + '.txt'
+            with open(foldername + newfilename, 'w') as newfile:
+                newfile.write(line[start:end])
+
+
+for dirpath, dirs, files in os.walk('../temp'):
+    with open('../temp/test_' + dirpath[-3:] + '.txt', 'w') as writefile:
+        for filename in fnmatch.filter(files, '*.txt'):
+            with open(dirpath + '/' + filename, 'r') as openfile:
+                line = openfile.read()
+            writefile.write(line + '\n\n')
+
 
 # shutil.rmtree('../temp')
