@@ -34,6 +34,10 @@ import fnmatch
 import os
 import re
 import mmap
+from nltk import pos_tag, word_tokenize
+from nltk.corpus import stopwords
+from nltk.tokenize import wordpunct_tokenize
+from nltk.tag import PerceptronTagger
 import shutil
 
 for dirpath, dirs, files in os.walk('../DDCs/deu'):
@@ -63,12 +67,85 @@ for dirpath, dirs, files in os.walk('../DDCs/deu'):
                 newfile.write(line[start:end])
 
 
+foldername2 = '../temp/desc/'
+
+if not os.path.exists(os.path.dirname(foldername2)):
+    try:
+        os.makedirs(os.path.dirname(foldername2))
+    except OSError as exc:  # Guard against race condition
+        if exc.errno != errno.EEXIST:
+            raise
+
+
 for dirpath, dirs, files in os.walk('../temp'):
-    with open('../temp/test_' + dirpath[-3:] + '.txt', 'w') as writefile:
+    with open('../temp/desc/desc_' + dirpath[-3:] + '.txt', 'w') as writefile:
         for filename in fnmatch.filter(files, '*.txt'):
             with open(dirpath + '/' + filename, 'r') as openfile:
                 line = openfile.read()
             writefile.write(line + '\n\n')
 
+
+replacements_umlaute = {
+                    '\\xc3\\xa4': 'ä',
+                    '\\xc3\\xbc': 'ü',
+                    '\\xc3\\xb6': 'ö',
+                    '\\xc3\\x9f': 'ß'
+                    }
+
+foldername3 = '../temp/desc_umlaute/'
+
+if not os.path.exists(os.path.dirname(foldername3)):
+    try:
+        os.makedirs(os.path.dirname(foldername3))
+    except OSError as exc:  # Guard against race condition
+        if exc.errno != errno.EEXIST:
+            raise
+
+for dirpath, dirs, files in os.walk('../temp/desc'):
+    for filename in fnmatch.filter(files, '*.txt'):
+        with open(dirpath + '/' + filename, 'r') as originalfile, open('../temp/desc_umlaute/' + filename, 'w') as writefile:
+            for line in originalfile:
+                line = line.strip()
+                for src, target in replacements_umlaute.iteritems():
+                    line = line.replace(src, target)
+                writefile.write(line)
+
+
+stopword_list = stopwords.words('german')
+stopword_list.extend(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '}'])
+stopword_list = set(stopword_list)
+
+foldername4 = '../temp/desc_stop/'
+
+if not os.path.exists(os.path.dirname(foldername4)):
+    try:
+        os.makedirs(os.path.dirname(foldername4))
+    except OSError as exc:  # Guard against race condition
+        if exc.errno != errno.EEXIST:
+            raise
+
+for dirpath, dirs, files in os.walk('../temp/desc_umlaute'):
+    for filename in fnmatch.filter(files, '*.txt'):
+        with open(dirpath + '/' + filename, 'r') as originalfile, open('../temp/desc_stop/' + filename, 'w') as writefile:
+            for line in originalfile:
+                line = line.split()
+                for i in line:
+                    i = i.lower()
+                    i = i.rstrip(',').rstrip('.').rstrip('?').rstrip('!')
+                    if i in stopword_list:
+                        pass
+                    else:
+                        writefile.write(i + '\n')
+
+
+# tagger = PerceptronTagger()
+#
+# for dirpath, dirs, files in os.walk('../temp/desc_stop'):
+#     for filename in fnmatch.filter(files, '*.txt'):
+#         with open(dirpath + '/' + filename, 'r') as originalfile:
+#             for line in originalfile:
+#                 tagged_text = pos_tag(word_tokenize(line))
+#                 tokens, pos = zip(*tagged_text)
+#                 print pos
 
 # shutil.rmtree('../temp')
