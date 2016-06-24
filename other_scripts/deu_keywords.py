@@ -39,40 +39,78 @@ from nltk import pos_tag, word_tokenize
 from nltk.corpus import stopwords, PlaintextCorpusReader
 from nltk.tokenize import wordpunct_tokenize
 from nltk.tag import PerceptronTagger
-# from pattern.de import parse, split
 import treetaggerwrapper as ttw
 import shutil
 
-for dirpath, dirs, files in os.walk('../DDCs/deu'):
-    # print dirpath[-3:]
-    if dirpath[-3:] == '710' or dirpath[-3:] == '330':
-        print dirpath
-    # for filename in fnmatch.filter(files, '*.xml'):
+# for dirpath, dirs, files in os.walk('../DDCs/deu'):
+#     # print dirpath[-3:]
+#     if dirpath[-3:] == '710' or dirpath[-3:] == '330':
+#         # print dirpath
+#         for filename in fnmatch.filter(files, '*.xml'):
+#
+#             foldername = '../temp/temp_' + dirpath[-3:] + '/'
+#             newfilename = filename[11:-4] + '.txt'
+#
+#             with open(dirpath + '/' + filename, 'r') as openfile:
+#                 s = mmap.mmap(openfile.fileno(), 0, access=mmap.ACCESS_READ)
+#                 if s.find('<dc:description xml:lang="deu">') != -1:
+#                     line = openfile.read()
+#                     start = line.index('<dc:description xml:lang="deu">') + \
+#                         len('<dc:description xml:lang="deu">')
+#                     end = line.index('</dc:description>', start)
+#
+#                     if not os.path.exists(os.path.dirname(foldername)):
+#                         try:
+#                             os.makedirs(os.path.dirname(foldername))
+#                         except OSError as exc:  # Guard against race condition
+#                             if exc.errno != errno.EEXIST:
+#                                 raise
+#
+#                 newfilename = filename[11:-4] + '.txt'
+#                 with open(foldername + newfilename, 'w') as newfile:
+#                     newfile.write(line[start:end])
 
-        # foldername = '../temp/temp_' + dirpath[-3:] + '/'
-        # newfilename = filename[11:-4] + '.txt'
 
-        # with open(dirpath + '/' + filename, 'r') as openfile:
-        #     s = mmap.mmap(openfile.fileno(), 0, access=mmap.ACCESS_READ)
-        #     if s.find('<dc:description xml:lang="deu">') != -1:
-        #         line = openfile.read()
-        #         start = line.index('<dc:description xml:lang="deu">') + \
-        #             len('<dc:description xml:lang="deu">')
-        #         end = line.index('</dc:description>', start)
+# foldername2 = '../temp/pos_tagged/'
+#
+# if not os.path.exists(os.path.dirname(foldername2)):
+#     try:
+#         os.makedirs(os.path.dirname(foldername2))
+#     except OSError as exc:  # Guard against race condition
+#         if exc.errno != errno.EEXIST:
+#             raise
 
-                # foldername = '../temp/temp_' + dirpath[-3:] + '/'
+tagger = ttw.TreeTagger(TAGLANG='de', TAGDIR='/home/niklas/treetagger')
 
-                # if not os.path.exists(os.path.dirname(foldername)):
-                #     try:
-                #         os.makedirs(os.path.dirname(foldername))
-                #     except OSError as exc:  # Guard against race condition
-                #         if exc.errno != errno.EEXIST:
-                #             raise
+datei = open('test.txt', 'r')
+dat = datei.read()
+tags = tagger.TagText(dat)
+for tag in tags:
+    print tag
+datei.close()
 
-            # newfilename = filename[11:-4] + '.txt'
-            # with open(foldername + newfilename, 'w') as newfile:
-            #     newfile.write(line[start:end])
+# for dirpath, dirs, files in os.walk('../temp'):
+#     for filename in fnmatch.filter(files, '*.txt'):
+#         tagger.tag_file_to('../temp/pos_tagged/'+filename)
 
+
+# for dirpath, dirs, files in os.walk('../temp/desc_umlaute'):
+#     for filename in fnmatch.filter(files, '*.txt'):
+#         with open(dirpath + '/' + filename, 'r') as originalfile, \
+#          open('../temp/desc_pos/' + filename, 'w') as writefile:
+#             for line in originalfile:
+#                 s = parse(line)
+#                 for sentence in split(s):
+#                     sentence = str(sentence)
+#                     sentence = sentence.lstrip('Sentence(\'').rstrip('\')')
+#                     writefile.write(sentence + '\n\n')
+
+
+# stopword_list = stopwords.words('german')
+# stopword_list.extend(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')',
+#                      '[', ']', '{', '}'])
+# stopword_list = set(stopword_list)
+# print stopword_list
 
 # foldername2 = '../temp/desc/'
 
@@ -117,32 +155,6 @@ for dirpath, dirs, files in os.walk('../DDCs/deu'):
 #                 for src, target in replacements_umlaute.iteritems():
 #                     line = line.replace(src, target)
 #                 writefile.write(line)
-
-
-# stopword_list = stopwords.words('german')
-# stopword_list.extend(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '}'])
-# stopword_list = set(stopword_list)
-
-# foldername4 = '../temp/desc_pos/'
-
-# if not os.path.exists(os.path.dirname(foldername4)):
-#     try:
-#         os.makedirs(os.path.dirname(foldername4))
-#     except OSError as exc:  # Guard against race condition
-#         if exc.errno != errno.EEXIST:
-#             raise
-
-# for dirpath, dirs, files in os.walk('../temp/desc_umlaute'):
-#     for filename in fnmatch.filter(files, '*.txt'):
-#         with open(dirpath + '/' + filename, 'r') as originalfile, \
-#          open('../temp/desc_pos/' + filename, 'w') as writefile:
-#             for line in originalfile:
-#                 s = parse(line)
-#                 for sentence in split(s):
-#                     sentence = str(sentence)
-#                     sentence = sentence.lstrip('Sentence(\'').rstrip('\')')
-#                     writefile.write(sentence + '\n\n')
-
 
 # shutil.rmtree('../temp')
 
