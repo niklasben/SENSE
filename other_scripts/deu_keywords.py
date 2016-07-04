@@ -38,9 +38,13 @@ import nltk
 from nltk import pos_tag, word_tokenize
 from nltk.corpus import stopwords, PlaintextCorpusReader
 from nltk.tokenize import wordpunct_tokenize
-from nltk.tag import PerceptronTagger
+from nltk.tag import PerceptronTagger, BrillTagger
 import treetaggerwrapper as ttw
+from treetagger import TreeTagger
 import shutil
+import pprint
+from pattern.de import parse, split, predicative
+import pattern.de
 
 # for dirpath, dirs, files in os.walk('../DDCs/deu'):
 #     # print dirpath[-3:]
@@ -71,27 +75,48 @@ import shutil
 #                     newfile.write(line[start:end])
 
 
-# foldername2 = '../temp/pos_tagged/'
-#
-# if not os.path.exists(os.path.dirname(foldername2)):
-#     try:
-#         os.makedirs(os.path.dirname(foldername2))
-#     except OSError as exc:  # Guard against race condition
-#         if exc.errno != errno.EEXIST:
-#             raise
+foldername2 = '../temp/pos_tagged/'
 
-tagger = ttw.TreeTagger(TAGLANG='de', TAGDIR='/home/niklas/treetagger')
+if not os.path.exists(os.path.dirname(foldername2)):
+    try:
+        os.makedirs(os.path.dirname(foldername2))
+    except OSError as exc:  # Guard against race condition
+        if exc.errno != errno.EEXIST:
+            raise
 
-datei = open('test.txt', 'r')
+# tt_en = TreeTagger(encoding='utf-8', language='english')
+# pprint(tt_en.tag('Does this thing work?'))
+
+tagger = ttw.TreeTagger(TAGLANG='de', TAGDIR='/home/niklas/treetagger/')
+# satz = u'Dies ist ein Testsatz.'
+# print type(satz)
+# satzu = satz.decode('utf-8')
+# tags = tagger.tag_text(satz)
+# pprint.pprint(tags)
+
+datei = open('196.txt', 'r')
 dat = datei.read()
-tags = tagger.TagText(dat)
-for tag in tags:
-    print tag
+
+s = parse(dat, tagset='STTS')
+s = split(s)
+print s.sentences[0]
+print predicative('neugierige')
+
+with open('196.txt', 'r') as openfile:
+    for line in openfile:
+        nltk.tag.brill.BrillTagger(line)
+
+# datu = dat.decode('utf-8')
+# print tagger.tag_text(dat)
+# print datu
+# tags = tagger.TagText(datu)
+# # for tag in tags:
+# #     print tag
 datei.close()
 
 # for dirpath, dirs, files in os.walk('../temp'):
 #     for filename in fnmatch.filter(files, '*.txt'):
-#         tagger.tag_file_to('../temp/pos_tagged/'+filename)
+#         tagger.tag_file_to('../temp/pos_tagged/'+filename, encoding='utf-8')
 
 
 # for dirpath, dirs, files in os.walk('../temp/desc_umlaute'):
