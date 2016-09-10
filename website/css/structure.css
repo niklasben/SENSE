@@ -1,0 +1,33 @@
+header {
+    padding: 0px;
+    text-align: center;
+    background-color: #F08080;
+}
+
+section {
+    float: left;
+    width: 65%;
+    height: auto;
+    padding: 0px;
+    background-color: #F0E68C;
+}
+
+aside {
+    float: right;
+    width: 34%;
+    height: auto;
+    padding: 0px;
+    text-align: center;
+    background-color: #F0EAEA;
+}
+
+footer {
+    padding: 5px;
+    text-align: center;
+    background-color: #20B2AA;
+}
+
+nav {
+    text-align: center;
+    background-color: #98FB98;
+}
