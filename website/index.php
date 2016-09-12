@@ -18,21 +18,25 @@
 
 <body>
 
-    <header>
-        <hgroup>
-            <h1>SENSE</h1>
-            <h4>Supported sciENtific SEarch</h4>
-        </hgroup>
-        <nav>
-            <h2>Nav h2</h2>
-            <ul>
-                <li>li 1</li>
-                <li>li 2</li>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">SENSE</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">Page 1</a></li>
+                <li><a href="#">Page 2</a></li>
+                <li><a href="#">Page 3</a></li>
             </ul>
-        </nav>
-    </header>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
+        </div>
+    </nav>
 
-    <section>
+    <section class="well">
         <header>
                 <h3>Texteingabe</h3>
         </header>
@@ -41,7 +45,7 @@
 
     </section>
 
-    <aside>
+    <aside class="well">
         <header>
             <h3>Ergebnisse</h3>
         </header>
@@ -52,7 +56,10 @@
     <br style="clear: both;" />
 
     <footer>
-        <p>Author | Copyright | Contact</p>
+        <p>
+            <span class="glyphicon glyphicon-copyright-mark"></span> Author |
+            <span class="glyphicon glyphicon-envelope"></span> Contact
+        </p>
         <time datetime="2016-09-10">10. September 2016</time>
     </footer>
 
