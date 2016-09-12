@@ -21,46 +21,58 @@
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
                 <a class="navbar-brand" href="#">SENSE</a>
             </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
                 <li><a href="#">Page 1</a></li>
                 <li><a href="#">Page 2</a></li>
                 <li><a href="#">Page 3</a></li>
             </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-            </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#">
+                            <span class="glyphicon glyphicon-user"></span> Sign Up
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <span class="glyphicon glyphicon-log-in"></span> Login
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
     </nav>
 
-    <section class="well">
-        <header>
-                <h3>Texteingabe</h3>
-        </header>
+    <div class="container-fluid" style="margin-top: 75px; margin-bottom: 75px;">
+        <div class="row">
+            <div class="col-md-8">
+                <?php include ("form.php"); ?>
+            </div>
+            <div class="col-md-4">
+                <p>Ergebnisse ...</p>
+            </div>
+        </div>
+    </div>
 
-        <?php include ("form.php"); ?>
+    <div class="clearfix"></div>
+    <!-- <br style="clear: both;" /> -->
 
-    </section>
-
-    <aside class="well">
-        <header>
-            <h3>Ergebnisse</h3>
-        </header>
-
-        <p>p aside</p>
-    </aside>
-
-    <br style="clear: both;" />
-
-    <footer>
-        <p>
-            <span class="glyphicon glyphicon-copyright-mark"></span> Author |
-            <span class="glyphicon glyphicon-envelope"></span> Contact
-        </p>
-        <time datetime="2016-09-10">10. September 2016</time>
+    <footer class="navbar navbar-inverse navbar-fixed-bottom">
+        <div class="container">
+            <p class="text-muted">
+                <span class="glyphicon glyphicon-copyright-mark"></span> Author |
+                <span class="glyphicon glyphicon-envelope"></span> Contact
+            </p>
+        </div>
+        <!-- <time datetime="2016-09-10">10. September 2016</time> -->
     </footer>
 
 </body>
