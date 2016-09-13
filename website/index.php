@@ -18,7 +18,7 @@
 
 <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -31,9 +31,9 @@
             <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Page 1</a></li>
+                <!-- <li><a href="#">Page 1</a></li>
                 <li><a href="#">Page 2</a></li>
-                <li><a href="#">Page 3</a></li>
+                <li><a href="#">Page 3</a></li> -->
             </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
@@ -53,11 +53,26 @@
 
     <div class="container-fluid" style="margin-top: 75px; margin-bottom: 75px;">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-7">
                 <?php include ("form.php"); ?>
             </div>
-            <div class="col-md-4">
-                <p>Ergebnisse ...</p>
+            <div class="col-md-5">
+                <p class="bg-primary">Erkannte DDC:</p>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="bg-info">Ergebnisse - Chunks</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="bg-info">Ergebnisse - NN</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="bg-info">Ergebnisse - NE</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -65,7 +80,7 @@
     <div class="clearfix"></div>
     <!-- <br style="clear: both;" /> -->
 
-    <footer class="navbar navbar-inverse navbar-fixed-bottom">
+    <footer class="navbar navbar-default navbar-fixed-bottom">
         <div class="container">
             <p class="text-muted">
                 <span class="glyphicon glyphicon-copyright-mark"></span> Author |
