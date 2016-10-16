@@ -8,6 +8,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>SENSE (Supported sciENtific SEarch)</title>
+    <link rel="shortcut icon" type="image/png" href="{% static 'testsite/favicon.ico' %}"/>
     <!-- jQuery library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Latest compiled JavaScript -->
@@ -61,22 +62,7 @@
                 {% include "form.html" %}
             </div>
             <div class="col-md-5">
-                <p class="bg-primary">Erkannte DDC:</p>
-                <div class="row">
-                    <div class="col-md-12">
-                        <p class="bg-info">Ergebnisse - Chunks</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <p class="bg-info">Ergebnisse - NN</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <p class="bg-info">Ergebnisse - NE</p>
-                    </div>
-                </div>
+                {% include "result.py" %}
             </div>
         </div>
     </div>
