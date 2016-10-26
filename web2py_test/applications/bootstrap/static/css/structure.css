@@ -1,0 +1,50 @@
+body {
+    background-color: #ABABAB;
+}
+
+header {
+    padding: 5px;
+    text-align: center;
+}
+
+section {
+    float: left;
+    width: 63%;
+    padding: 5px;
+    background-color: #F0E68C;
+}
+
+aside {
+    float: right;
+    width: 35%;
+    padding: 5px;
+    text-align: center;
+    background-color: #F0EAEA;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 0 0 15px #093331;
+}
+
+nav {
+    text-align: center;
+    background-color: #98FB98;
+}
+
+#form {
+    text-align: center;
+}
+
+.formcontrol {
+    height: auto;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+}
