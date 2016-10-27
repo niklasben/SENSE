@@ -13,11 +13,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">SENSE</a>
+                <span class="navbar-brand">SENSE</span>
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
+                <li class="active"><a href="http://127.0.0.1:8000/bootstrap/">{{=T("Home")}}</a></li>
                 <!-- <li><a href="#">Page 1</a></li>
                 <li><a href="#">Page 2</a></li>
                 <li><a href="#">Page 3</a></li> -->
@@ -25,12 +25,12 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="#">
-                            <span class="glyphicon glyphicon-user"></span> Sign Up
+                            <span class="glyphicon glyphicon-user"></span> {{=T("Sign Up")}}
                         </a>
                     </li>
                     <li>
                         <a href="#">
-                            <span class="glyphicon glyphicon-log-in"></span> Login
+                            <span class="glyphicon glyphicon-log-in"></span> {{=T("Login")}}
                         </a>
                     </li>
                 </ul>
@@ -41,28 +41,12 @@
     <div class="container-fluid" style="margin-top: 75px; margin-bottom: 75px;">
         <div class="row">
             <div class="col-md-7">
-                <!-- <iframe src='{{=URL('form.html')}}' scrolling="no" width="100%"></iframe> -->
-
                 <div class="form-group">
                     {{include 'default/display_form.html'}}
                 </div>
             </div>
-
-                <!-- <div class="form-group">
-                    <label for="comment">{{=T("Comment")}}:</label>
-                    <form action="#" method="post" enctype="text/plain" id="text_form">
-                        <textarea class="form-control" name="text_textarea" rows="10" cols="100" placeholder="Insert text here" required="yes" autofocus="yes"></textarea>
-                        <span class="help-block">
-                            {{=T("Bitte geben Sie den zu untersuchenden Text in das obige Textfeld ein.")}}
-                        </span>
-
-                        <button type="reset" class="btn btn-warning">{{=T("Eingaben zurücksetzen")}}</button>
-                        <button type="submit" class="btn btn-default">{{=T("Eingaben absenden")}}</button>
-                    </form>
-                </div>
-            </div> -->
             <div class="col-md-5">
-                <p class="bg-primary">{{=T("Erkannte")}} DDC:</p>
+                <p class="bg-primary">{{=T("Recognized")}} DDC:</p>
                 <div class="row">
                     <div class="col-md-12">
                         <p class="bg-info">{{=T("Results")}} - Chunks</p>
@@ -70,12 +54,12 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <p class="bg-info">{{=T("Ergebnisse")}} - NN</p>
+                        <p class="bg-info">{{=T("Results")}} - NN</p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <p class="bg-info">{{=T("Ergebnisse")}} - NE</p>
+                        <p class="bg-info">{{=T("Results")}} - NE</p>
                     </div>
                 </div>
             </div>

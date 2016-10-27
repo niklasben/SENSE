@@ -1,52 +1,84 @@
-{{left_sidebar_enabled,right_sidebar_enabled=False,('message' in globals())}}
 {{extend 'layout.html'}}
 
-{{block header}}
-    <header class="container-fluid background">
-      <div class="jumbotron text-center">
-        {{if response.title:}}
-        <h1>{{=response.title}}
-          <small>{{=response.subtitle or ''}}</small></h1>
-        {{pass}}
-      </div>
-    </header>
-{{end}}
+<head>
+    <link rel="stylesheet" href="{{=URL('static','css/structure.css')}}"/>
+</head>
+<body>
 
-{{if 'message' in globals():}}
-<h2>{{=message}}</h2>
-<p class="lead">{{=T('How did you get here?')}}</p>
-<ol>
-  <li>{{=T('You are successfully running web2py')}}</li>
-  <li>{{=XML(T('You visited the url %s', A(request.env.path_info,_href=request.env.path_info)))}}</li>
-  <li>{{=XML(T('Which called the function %s located in the file %s',
-    (A(request.function+'()',_href='#'),
-    A('web2py/applications/%(application)s/controllers/%(controller)s.py' % request,
-    _href=URL('admin','default','peek', args=(request.application,'controllers',request.controller+'.py'))))))}}</li>
-  <li>{{=XML(T('The output of the file is a dictionary that was rendered by the view %s',
-    A('web2py/applications/%(application)s/views/%(controller)s/index.html' % request,
-    _href=URL('admin','default','peek',args=(request.application,'views',request.controller,'index.html')))))}}</li>
-  <li>{{=T('You can modify this application and adapt it to your needs')}}</li>
-</ol>
-{{elif 'content' in globals():}}
-{{=content}}
-{{else:}}
-{{=BEAUTIFY(response._vars)}}
-{{pass}}
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">SENSE</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <!-- <li><a href="#">Page 1</a></li>
+                <li><a href="#">Page 2</a></li>
+                <li><a href="#">Page 3</a></li> -->
+            </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#">
+                            <span class="glyphicon glyphicon-user"></span> Sign Up
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <span class="glyphicon glyphicon-log-in"></span> Login
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
-{{block right_sidebar}}
-<div class="panel panel-info">
-  <div class="panel-heading"><h3 class="panel-title"><a class="btn-block"
-      href="{{=URL('admin','default','index')}}">
-      <i class="glyphicon glyphicon-cog"></i>
-      {{=T("admin")}}
-    </a></h3></div>
-  <div class="panel-body">
-    {{=T("Don't know what to do?")}}
-  </div>
-  <ul class="list-group">
-    <li class="list-group-item">{{=A(T("Online examples"), _href=URL('examples','default','index'))}}</li>
-    <li class="list-group-item"><a href="http://web2py.com">web2py.com</a></li>
-    <li class="list-group-item"><a href="http://web2py.com/book">{{=T('Documentation')}}</a></li>
-  </ul>
-</div>
-{{end}}
+    <div class="container-fluid" style="margin-top: 75px; margin-bottom: 75px;">
+        <div class="row">
+            <div class="col-md-7">
+                <div class="form-group">
+                    {{include 'default/display_form.html'}}
+                </div>
+            </div>
+            <div class="col-md-5">
+                <p class="bg-primary">{{=T("Erkannte")}} DDC:</p>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="bg-info">{{=T("Results")}} - Chunks</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="bg-info">{{=T("Ergebnisse")}} - NN</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="bg-info">{{=T("Ergebnisse")}} - NE</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+    <!-- <br style="clear: both;" /> -->
+
+    <footer class="navbar navbar-default navbar-fixed-bottom">
+        <div class="container">
+            <p class="text-muted">
+                <span class="glyphicon glyphicon-copyright-mark"></span> {{=T("Author")}} |
+                <span class="glyphicon glyphicon-envelope"></span> {{=T("Contact")}}
+            </p>
+        </div>
+        <!-- <time datetime="2016-09-10">10. September 2016</time> -->
+    </footer>
+
+</body>
+
+</html>
