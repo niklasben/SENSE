@@ -10,7 +10,7 @@
 
 
 def index():
-    form=SQLFORM(db.submitted_text)
+    form=SQLFORM(db.dbInput)
     return dict(form=form)
 
 

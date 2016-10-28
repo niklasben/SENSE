@@ -1,0 +1,3 @@
+# -*- coding: utf-8 -*-
+dbInput = DAL('sqlite://storage.sqlite')
+dbInput.define_table('dbInput', Field('SubmittedText', 'string', requires=IS_NOT_EMPTY()))

@@ -120,7 +120,6 @@ auth.settings.reset_password_requires_verification = True
 # Consult manual for more options, validators, etc.
 # -------------------------------------------------------------------------
 
-from gluon import current
 db = DAL('sqlite://storage.sqlite')
 db.define_table('dbInput',
                 Field('SubmittedText', 'string', requires=IS_NOT_EMPTY())

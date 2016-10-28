@@ -217,6 +217,7 @@
 'Invalid action': 'Ungültige Aktion',
 'Invalid email': 'Ungültige Email',
 'invalid password': 'Ungültiges Passwort',
+'invalid password.': 'invalid password.',
 'Invalid Query': 'Ungültige Abfrage',
 'invalid request': 'Ungültige Anfrage',
 'invalid ticket': 'Ungültiges Ticket',

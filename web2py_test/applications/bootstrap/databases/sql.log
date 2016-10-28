@@ -53,3 +53,15 @@ CREATE TABLE auth_cas(
     renew CHAR(1)
 );
 success!
+timestamp: 2016-10-27T14:39:46.279868
+CREATE TABLE db_input(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    submitted_text CHAR(512)
+);
+success!
+timestamp: 2016-10-27T14:52:29.963456
+CREATE TABLE dbInput(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    SubmittedText CHAR(512)
+);
+success!
