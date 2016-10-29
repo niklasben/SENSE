@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
-def display_form():
-    form = FORM('Your name:', INPUT(_name='name'), INPUT(_type='submit'))
+def form():
+    form = FORM('Your name:', INPUT(_name='name'), INPUT(_type='bla'))
     return dict(form=form)

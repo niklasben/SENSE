@@ -41,25 +41,31 @@
     <div class="container-fluid" style="margin-top: 75px; margin-bottom: 75px;">
         <div class="row">
             <div class="col-md-7">
-                <div class="form-group">
-                    {{include 'default/display_form.html'}}
-                </div>
+                <span class="pull-left">
+                    <div class="form-group">
+                        {{include 'default/display_form.html'}}
+                    </div>
+                </span>
             </div>
             <div class="col-md-5">
-                <p class="bg-primary">{{=T("Recognized")}} DDC:</p>
                 <div class="row">
-                    <div class="col-md-12">
-                        <p class="bg-info">{{=T("Results")}} - Chunks</p>
+                    <div class="col-md-12 bg-primary rounded-result">
+                        <p>{{=T("Recognized")}} DDC:</p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12">
-                        <p class="bg-info">{{=T("Results")}} - NN</p>
+                    <div class="col-md-12 bg-info rounded-result">
+                        <p>{{=T("Results")}} - Chunks</p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12">
-                        <p class="bg-info">{{=T("Results")}} - NE</p>
+                    <div class="col-md-12 bg-info rounded-result">
+                        <p>{{=T("Results")}} - NN</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 bg-info rounded-result">
+                        <p>{{=T("Results")}} - NE</p>
                     </div>
                 </div>
             </div>
@@ -71,10 +77,20 @@
 
     <footer class="navbar navbar-default navbar-fixed-bottom">
         <div class="container">
-            <p class="text-muted">
-                <span class="glyphicon glyphicon-copyright-mark"></span> {{=T("Author")}} |
-                <span class="glyphicon glyphicon-envelope"></span> {{=T("Contact")}}
-            </p>
+            <div class="col-md-4">
+                <span class="pull-left">
+                    <a href="http://web2py.com/" target="_blank">
+                        <img src="http://www.web2py.com/init/static/images/Stickers1.png" alt="web2py">
+                    </a>
+                </span>
+            </div>
+            <div class="col-md-4">
+                <p class="text-muted">
+                    <span class="glyphicon glyphicon-copyright-mark"></span> {{=T("Author")}} |
+                    <span class="glyphicon glyphicon-envelope"></span> {{=T("Contact")}}
+                </p>
+            </div>
+            <div class="col-md-4"></div>
         </div>
         <!-- <time datetime="2016-09-10">10. September 2016</time> -->
     </footer>

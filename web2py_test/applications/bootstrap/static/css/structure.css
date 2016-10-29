@@ -48,3 +48,15 @@ nav {
     min-width: 100%;
     max-width: 100%;
 }
+
+.row {
+    margin-bottom: 5px;
+}
+
+.rounded-result {
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    vertical-align: middle;
+}

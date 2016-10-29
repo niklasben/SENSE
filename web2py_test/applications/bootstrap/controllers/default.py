@@ -10,7 +10,28 @@
 
 
 def index():
-    form=SQLFORM(db.dbInput)
+    form=SQLFORM(db.dbInput,
+                 labels=None,
+                 showid=True,
+                 comments=True,
+                 submit_button='Submit',
+                 delete_label='Check to delete:',
+                 buttons=['submit', 'reset'],
+                 separator=': ')
+    form.element(_type='submit')['_class'] = 'btn btn-default btn-sm'
+    form.element('input[type=submit]',
+                 replace=lambda button: CAT(button,
+                                            INPUT(_class='btn btn-warning btn-sm',
+                                                  _type='reset',
+                                                  _value=T('Reset'))
+                                           )
+                )
+    if form.process().accepted:
+        response.flash = 'form accepted'
+    elif form.errors:
+        response.flash = 'form has errors'
+    else:
+        response.flash = 'please fill out the form'
     return dict(form=form)
 
 
