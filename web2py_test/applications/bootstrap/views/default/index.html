@@ -18,9 +18,7 @@
             <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="http://127.0.0.1:8000/bootstrap/">{{=T("Home")}}</a></li>
-                <!-- <li><a href="#">Page 1</a></li>
-                <li><a href="#">Page 2</a></li>
-                <li><a href="#">Page 3</a></li> -->
+                <li><a href="http://127.0.0.1:8000/bootstrap/">{{=T("Form")}}</a></li>
             </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
@@ -47,9 +45,19 @@
                     </div>
                 </span>
             </div>
-            {{=BEAUTIFY(request.vars)}}
+            {{if request.vars.inputTitle == None:}}
+            {{else:}}
+            {{=BEAUTIFY(request.vars.inputTitle)}}
+            {{pass}}
+
+            {{if request.vars.inputText == None:}}
+            {{else:}}
+            {{=BEAUTIFY(request.vars.inputText)}}
+            {{pass}}
+
+            <!-- {{=BEAUTIFY(request.vars)}}
             {{=BEAUTIFY(form.vars)}}
-            {{=BEAUTIFY(form.errors)}}
+            {{=BEAUTIFY(form.errors)}} -->
             <div class="col-md-5">
                 <div class="row">
                     <div class="col-md-12 bg-primary rounded-result">

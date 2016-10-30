@@ -56,7 +56,7 @@ response.generic_patterns = ['*'] if request.is_local else []
 # -------------------------------------------------------------------------
 # choose a style for forms
 # -------------------------------------------------------------------------
-response.formstyle = myconf.get('forms.formstyle')  # or 'bootstrap3_stacked' or 'bootstrap2' or other
+response.formstyle = myconf.get('forms.formstyle')  # or 'bootstrap3_stacked' or 'bootstrap2' or forms.formstyle or other
 response.form_label_separator = myconf.get('forms.separator') or ''
 
 # -------------------------------------------------------------------------
@@ -121,7 +121,7 @@ auth.settings.reset_password_requires_verification = True
 # -------------------------------------------------------------------------
 
 #from gluon import current
-
+'''
 db = DAL('sqlite://storage.sqlite')
 db.define_table('dbInput',
                 Field('inputTitle', 'string',
@@ -149,7 +149,7 @@ db.dbInput.inputText.label = T('Text')
 # db.dbInput.inputText.comment = T('Comment')
 
 # current.db = db
-
+'''
 # -------------------------------------------------------------------------
 # More API examples for controllers:
 #

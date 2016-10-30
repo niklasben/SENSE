@@ -8,7 +8,19 @@
 # - download is for downloading files uploaded in the db (does streaming)
 # -------------------------------------------------------------------------
 
+def index():
+    form=SQLFORM(db.dbInput)
+    form.element(_type='submit')['_class'] = 'btn btn-default btn-sm'
+    form.element('input[type=submit]',
+             replace=lambda button: CAT(button,
+                                        INPUT(_class='btn btn-warning btn-sm',
+                                              _type='reset',
+                                              _value=T('Reset'))
+                                        )
+             )
+    return dict(form=form)
 
+"""
 def index():
     form=SQLFORM(db.dbInput,
                  labels=None,
@@ -19,7 +31,7 @@ def index():
                  buttons=['submit', 'reset'],
                  separator=': '
                 )
-    if form.accepted:
+    if form.process().accepted:
         response.flash = 'form accepted'
     elif form.errors:
         response.flash = 'form has errors'
@@ -35,18 +47,6 @@ def index():
                                         )
              )
     return dict(form=form)
-
-"""
-    form=FORM(TEXTAREA(_class="form-control", _name="text_textarea", _rows="10", __cols="100" ,_placeholder="Insert text here"),
-    (SPAN("Bitte geben Sie den zu untersuchenden Text in das obige Textfeld ein", _class="help-block")),
-    INPUT(_type='submit'))
-    if form.accepts(request,session):
-        response.flash="form accepted"
-    elif form.errors:
-        response.flash="form is invalid"
-    else:
-        response.flash="please fill the form"
-    return dict(form=form,vars=form.vars)
 """
 
 """

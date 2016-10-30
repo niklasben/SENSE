@@ -317,6 +317,7 @@
 'Rows in table': 'Zeilen in Tabelle',
 'Rows selected': 'Zeilen ausgewählt',
 'rules are not defined': 'Regeln sind nicht definiert',
+'Run tests': 'Run tests',
 "Run tests in this file (to run all files, you may also use the button labelled 'test')": "Tests in dieser Datei ausführen (um alle Dateien auszuführen, kann auch der Button 'test' genutzt werden)",
 'Running on %s': 'läuft auf %s',
 'Save': 'Speichern',
