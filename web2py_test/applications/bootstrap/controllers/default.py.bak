@@ -17,25 +17,27 @@ def index():
                  submit_button='Submit',
                  delete_label='Check to delete:',
                  buttons=['submit', 'reset'],
-                 separator=': ')
-    form.element(_type='submit')['_class'] = 'btn btn-default btn-xs'
-    form.element('input[type=submit]',
-                 replace=lambda button: CAT(button,
-                                            INPUT(_class='btn btn-warning btn-xs',
-                                                  _type='reset',
-                                                  _value=T('Reset'))
-                                           )
+                 separator=': '
                 )
-    if form.process().accepted:
+    if form.accepted:
         response.flash = 'form accepted'
     elif form.errors:
         response.flash = 'form has errors'
     else:
         response.flash = 'please fill out the form'
+
+    form.element(_type='submit')['_class'] = 'btn btn-default btn-sm'
+    form.element('input[type=submit]',
+             replace=lambda button: CAT(button,
+                                        INPUT(_class='btn btn-warning btn-sm',
+                                              _type='reset',
+                                              _value=T('Reset'))
+                                        )
+             )
     return dict(form=form)
 
-
-    """form=FORM(TEXTAREA(_class="form-control", _name="text_textarea", _rows="10", __cols="100" ,_placeholder="Insert text here"),
+"""
+    form=FORM(TEXTAREA(_class="form-control", _name="text_textarea", _rows="10", __cols="100" ,_placeholder="Insert text here"),
     (SPAN("Bitte geben Sie den zu untersuchenden Text in das obige Textfeld ein", _class="help-block")),
     INPUT(_type='submit'))
     if form.accepts(request,session):
@@ -44,10 +46,12 @@ def index():
         response.flash="form is invalid"
     else:
         response.flash="please fill the form"
-    return dict(form=form,vars=form.vars)"""
+    return dict(form=form,vars=form.vars)
+"""
 
-    """form=FORM('Your name:',
-              INPUT(_name='name', requires=IS_NOT_EMPTY()),
+"""
+form=FORM('Your name:',
+INPUT(_name='name', requires=IS_NOT_EMPTY()),
               INPUT(_type='submit'))
     if form.accepts(request,session):
         response.flash = 'form accepted'
@@ -104,4 +108,5 @@ def display_form():
     return auth.wiki()
 
     response.flash = T("Hello World")
-    return dict(message=T('Welcome to web2py!'))"""
+    return dict(message=T('Welcome to web2py!'))
+"""
