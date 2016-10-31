@@ -7,6 +7,8 @@
 # - user is required for authentication and authorizationdisplay_form
 # - download is for downloading files uploaded in the db (does streaming)
 # -------------------------------------------------------------------------
+import print_form
+
 
 def index():
     form=SQLFORM(db.dbInput)
@@ -19,6 +21,12 @@ def index():
                                         )
              )
     return dict(form=form)
+
+def qwert():
+    asd = print_form
+    print asd
+
+print qwert()
 
 """
 def index():

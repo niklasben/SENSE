@@ -45,21 +45,23 @@
                     </div>
                 </span>
             </div>
-            {{if request.vars.inputTitle == None:}}
-            {{else:}}
-            {{=BEAUTIFY(request.vars.inputTitle)}}
-            {{pass}}
-
-            {{if request.vars.inputText == None:}}
-            {{else:}}
-            {{=BEAUTIFY(request.vars.inputText)}}
-            {{pass}}
-
-            <!-- {{=BEAUTIFY(request.vars)}}
-            {{=BEAUTIFY(form.vars)}}
-            {{=BEAUTIFY(form.errors)}} -->
             <div class="col-md-5">
                 <div class="row">
+                    {{if request.vars.inputTitle == None:}}
+                    {{else:}}
+                    {{=BEAUTIFY(request.vars.inputTitle)}}
+                    {{pass}}
+
+                    {{if request.vars.inputText == None:}}
+                    {{else:}}
+                    {{=BEAUTIFY(request.vars.inputText)}}
+                    {{pass}}
+
+                    <!-- {{=BEAUTIFY(request.vars)}}
+                    {{=BEAUTIFY(form.vars)}}
+                    {{=BEAUTIFY(form.errors)}} -->
+                </div>
+                <!-- <div class="row">
                     <div class="col-md-12 bg-primary rounded-result">
                         <p>{{=T("Recognized")}} DDC:</p>
                     </div>
@@ -78,7 +80,7 @@
                     <div class="col-md-12 bg-info rounded-result">
                         <p>{{=T("Results")}} - NE</p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

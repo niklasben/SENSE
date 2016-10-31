@@ -106,6 +106,7 @@
 'How did you get here?': 'Wie sind Sie hier her gelangt?',
 'import': 'Importieren',
 'Import/Export': 'Importieren/Exportieren',
+'Impressum': 'Impressum',
 'Internal State': 'Innerer Zustand',
 'Introduction': 'Einführung',
 'Invalid email': 'Ungültige Email',
