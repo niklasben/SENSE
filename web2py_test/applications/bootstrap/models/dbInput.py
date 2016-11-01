@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 #from gluon import current
 
-db = DAL('sqlite://storage.sqlite')
+db = DAL('sqlite://storage.sqlite', migrate=False)
+
 db.define_table('dbInput',
                 Field('inputTitle', 'string',
                       widget=lambda field,value: SQLFORM.widgets.string.widget(field,
@@ -26,5 +27,20 @@ db.dbInput.inputTitle.label = T('Label')
 # db.dbInput.inputTitle.comment = T('Comment')
 db.dbInput.inputText.label = T('Text')
 # db.dbInput.inputText.comment = T('Comment')
+
+
+db.define_table('dbParsedText',
+                Field('fk_dbInput', 'reference dbInput'),
+                Field('parsedTitle', 'string'),
+                Field('parsedText', 'text', 'list:string'),
+               )
+
+db.dbParsedText.fk_dbInput.label = T('Foreign Key')
+# db.dbParsedText.fk_dbInput.comment = T('Foreign Key')
+db.dbParsedText.parsedTitle.label = T('Parsed Title')
+# db.dbInput.inputTitle.comment = T('Parsed Title')
+db.dbParsedText.parsedText.label = T('Parsed Text')
+# db.dbInput.inputText.comment = T('Parsed Text')
+
 
 # current.db = db

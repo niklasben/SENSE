@@ -13,6 +13,7 @@ from pprint import pprint
 
 def seeLastEntry():
     """Function with a Query to get the last Entry from the Database with NLP-Stuff afterwards."""
+    parsedDatabase = SQLFORM(db.dbParsedText)
     query = db.executesql('select id, inputText from dbInput')
     dings = query[-1][1]
     for word, pos in tag(dings,

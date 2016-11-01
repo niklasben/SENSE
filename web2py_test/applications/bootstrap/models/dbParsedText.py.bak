@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+#from gluon import current
+
+db2 = DAL('sqlite://storage.sqlite')
+db2.define_table('dbparsedText',
+                Field('fk_dbInput', 'integer',
+                      requires=IS_NOT_EMPTY()),
+                Field('parsedTitle', 'string'),
+                Field('parsedText', 'text',
+                      requires=IS_NOT_EMPTY())
+               )
+
+db2.dbParsedText.fk_dbInput.label = T('Foreign Key')
+# db2.dbParsedText.fk_dbInput.comment = T('Foreign Key')
+db2.dbParsedText.parsedTitle.label = T('Parsed Title')
+# db2.dbInput.inputTitle.comment = T('Parsed Title')
+db2.dbParsedText.parsedText.label = T('Parsed Text')
+# db2.dbInput.inputText.comment = T('Parsed Text')
+
+# current.db = db

@@ -19,8 +19,12 @@ def seeLastEntry():
                      tagset="STTS"):
         if pos == "ARTDEF" or pos == "NN":
             print word + '\t' + pos
-    return dict()
+    return dict(dings=dings)
 
+
+def parsedToDatabase():
+    newDatabase = SQLFORM(db.dbParsedText)
+    return
 
 def defineForm():
     """Function to build the Form."""

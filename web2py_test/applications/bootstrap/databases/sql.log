@@ -1854,3 +1854,176 @@ success!
 success!
 success!
 success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+timestamp: 2016-11-01T10:41:06.471203
+CREATE TABLE dbparsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER,
+    parsedTitle CHAR(512),
+    parsedText TEXT
+);
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+timestamp: 2016-11-01T11:04:07.045091
+CREATE TABLE dbparsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER,
+    parsedTitle CHAR(512),
+    parsedText TEXT
+);
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+timestamp: 2016-11-01T11:32:40.420806
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle CHAR(512),
+    parsedText TEXT
+);
+success!
+timestamp: 2016-11-01T11:33:20.366303
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle CHAR(512),
+    parsedText TEXT
+);
+success!
+timestamp: 2016-11-01T11:34:19.821609
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle CHAR(512),
+    parsedText TEXT
+);
+success!
+timestamp: 2016-11-01T11:35:20.356179
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle CHAR(512),
+    parsedText TEXT
+);
