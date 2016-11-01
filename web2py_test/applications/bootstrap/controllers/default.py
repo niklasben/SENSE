@@ -16,9 +16,10 @@ def seeLastEntry():
     parsedDatabase = SQLFORM(db.dbParsedText)
     query = db.executesql('select id, inputText from dbInput')
     dings = query[-1][1]
+    
     for word, pos in tag(dings,
                      tagset="STTS"):
-        if pos == "ARTDEF" or pos == "NN":
+        if pos == "NE" or pos == "NN":
             print word + '\t' + pos
     return dict(dings=dings)
 

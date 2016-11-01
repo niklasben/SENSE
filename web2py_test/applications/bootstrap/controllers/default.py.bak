@@ -13,18 +13,15 @@ from pprint import pprint
 
 def seeLastEntry():
     """Function with a Query to get the last Entry from the Database with NLP-Stuff afterwards."""
+    parsedDatabase = SQLFORM(db.dbParsedText)
     query = db.executesql('select id, inputText from dbInput')
     dings = query[-1][1]
     for word, pos in tag(dings,
                      tagset="STTS"):
-        if pos == "ARTDEF" or pos == "NN":
+        if pos == "NE" or pos == "NN":
             print word + '\t' + pos
     return dict(dings=dings)
 
-
-def parsedToDatabase():
-    newDatabase = SQLFORM(db.dbParsedText)
-    return
 
 def defineForm():
     """Function to build the Form."""
