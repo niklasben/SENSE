@@ -56,7 +56,7 @@ response.generic_patterns = ['*'] if request.is_local else []
 # -------------------------------------------------------------------------
 # choose a style for forms
 # -------------------------------------------------------------------------
-response.formstyle = myconf.get('bootstrap2')  # or 'bootstrap3_stacked' or 'bootstrap2' or forms.formstyle or other
+response.formstyle = myconf.get('forms.formstyle')  # or 'bootstrap3_stacked' or 'bootstrap2' or forms.formstyle or other
 response.form_label_separator = myconf.get('forms.separator') or ''
 
 # -------------------------------------------------------------------------

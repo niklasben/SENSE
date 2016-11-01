@@ -1,0 +1,24 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+from gluon import *
+
+
+def defineForm():
+    """Function to build the Form."""
+    form=SQLFORM(db.dbInput)
+    form.element(_type='submit')['_class'] = 'btn btn-default btn-sm'
+    form.element('input[type=submit]',
+             replace=lambda button: CAT(button,
+                                        INPUT(_class='btn btn-warning btn-sm',
+                                              _type='reset',
+                                              _value=T('Reset'))
+                                        )
+             )
+    if form.process().accepted:
+        response.flash = T('form accepted')
+    elif form.errors:
+        response.flash = T('form has errors')
+    else:
+        response.flash = T('please fill out the form')
+    # seeLastEntry()
+    return dict(form=form)

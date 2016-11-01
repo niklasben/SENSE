@@ -171,6 +171,7 @@
 'extends': 'erweitert',
 'failed to compile file because:': 'Datei konnte nicht kompiliert werden, da:',
 'failed to reload module': 'neu laden des Moduls fehlgeschlagen',
+'failed to reload module because:': 'failed to reload module because:',
 'File': 'Datei',
 'file "%(filename)s" created': 'Datei "%(filename)s" erstellt',
 'file "%(filename)s" deleted': 'Datei "%(filename)s" gelöscht',
