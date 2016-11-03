@@ -2027,3 +2027,136 @@ CREATE TABLE dbParsedText(
     parsedTitle CHAR(512),
     parsedText TEXT
 );
+timestamp: 2016-11-03T12:25:30.990526
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    parsedTitle TEXT,
+    parsedText TEXT,
+    taggedTextNE TEXT,
+    taggedTextNN TEXT
+);
+timestamp: 2016-11-03T12:25:43.099528
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    parsedTitle TEXT,
+    parsedText TEXT,
+    taggedTextNE TEXT,
+    taggedTextNN TEXT
+);
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+timestamp: 2016-11-03T12:40:39.663369
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput CHAR(512),
+    parsedTitle TEXT,
+    parsedText TEXT,
+    taggedTextNE TEXT,
+    taggedTextNN TEXT
+);
+faked!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+success!
+timestamp: 2016-11-03T12:44:35.204289
+CREATE TABLE dbInput(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    inputTitle CHAR(512),
+    inputText TEXT
+);
+faked!
+timestamp: 2016-11-03T12:44:35.207152
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle TEXT,
+    parsedText TEXT,
+    taggedTextNE TEXT,
+    taggedTextNN TEXT
+);
+faked!
+timestamp: 2016-11-03T12:45:43.657184
+CREATE TABLE dbInput(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    inputTitle CHAR(512),
+    inputText TEXT
+);
+faked!
+timestamp: 2016-11-03T12:45:43.659853
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle TEXT,
+    parsedText TEXT,
+    taggedTextNE TEXT,
+    taggedTextNN TEXT
+);
+faked!
+timestamp: 2016-11-03T12:50:36.631562
+CREATE TABLE dbInput(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    inputTitle CHAR(512),
+    inputText TEXT
+);
+timestamp: 2016-11-03T12:50:43.643380
+CREATE TABLE dbInput(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    inputTitle CHAR(512),
+    inputText TEXT
+);
+timestamp: 2016-11-03T12:51:24.454666
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle TEXT,
+    parsedText TEXT,
+    taggedTextNE TEXT,
+    taggedTextNN TEXT
+);
+timestamp: 2016-11-03T12:51:43.667895
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle TEXT,
+    parsedText TEXT,
+    taggedTextNE TEXT,
+    taggedTextNN TEXT
+);
+timestamp: 2016-11-03T12:52:30.742445
+CREATE TABLE dbParsedText(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fk_dbInput INTEGER REFERENCES dbInput (id) ON DELETE CASCADE  ,
+    parsedTitle TEXT,
+    parsedText TEXT,
+    taggedTextNE TEXT,
+    taggedTextNN TEXT
+);
+faked!

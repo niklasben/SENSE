@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #from gluon import current
 
-db = DAL('sqlite://storage.sqlite', migrate=False)
+db = DAL('sqlite://storage.sqlite', migrate=True, fake_migrate=True, lazy_tables=False)
 
 db.define_table('dbInput',
                 Field('inputTitle', 'string',
@@ -31,8 +31,11 @@ db.dbInput.inputText.label = T('Text')
 
 db.define_table('dbParsedText',
                 Field('fk_dbInput', 'reference dbInput'),
-                Field('parsedTitle', 'string'),
-                Field('parsedText', 'text', 'list:string'),
+                Field('parsedTitle', 'list:string'),
+                Field('parsedText', 'list:string'),
+                Field('taggedTextNE', 'list:string'),
+                Field('taggedTextNN', 'list:string'),
+                migrate='dbparsedText.table'
                )
 
 db.dbParsedText.fk_dbInput.label = T('Foreign Key')
@@ -41,6 +44,10 @@ db.dbParsedText.parsedTitle.label = T('Parsed Title')
 # db.dbInput.inputTitle.comment = T('Parsed Title')
 db.dbParsedText.parsedText.label = T('Parsed Text')
 # db.dbInput.inputText.comment = T('Parsed Text')
+db.dbParsedText.taggedTextNE.label = T('NE tagged from Text')
+# db.dbInput.taggedTextNE.comment = T('NE tagged from Text')
+db.dbParsedText.taggedTextNN.label = T('NN tagged from Text')
+# db.dbInput.taggedTextNN.comment = T('NN tagged from Txt')
 
 
 # current.db = db

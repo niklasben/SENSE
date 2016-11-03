@@ -11,21 +11,9 @@ from pattern.de import parse, split, pprint, tag
 from pprint import pprint
 
 
-def seeLastEntry():
-    """Function with a Query to get the last Entry from the Database with NLP-Stuff afterwards."""
-    parsedDatabase = SQLFORM(db.dbParsedText)
-    query = db.executesql('select id, inputText from dbInput')
-    dings = query[-1][1]
-    for word, pos in tag(dings,
-                     tagset="STTS"):
-        if pos == "NE" or pos == "NN":
-            print word + '\t' + pos
-    return dict(dings=dings)
-
-
-def defineForm():
-    """Function to build the Form."""
-    form=SQLFORM(db.dbInput)
+def defineSubmissionForm():
+    """Function to build the Submission Form."""
+    form = SQLFORM(db.dbInput)
     form.element(_type='submit')['_class'] = 'btn btn-default btn-sm'
     form.element('input[type=submit]',
              replace=lambda button: CAT(button,
@@ -40,14 +28,93 @@ def defineForm():
         response.flash = T('form has errors')
     else:
         response.flash = T('please fill out the form')
-    return dict(form=form)
+
+    returnSubmissionForm = dict(form=form)
+    return returnSubmissionForm
+    # return dict(form=form)
+
+
+def getLastEntryInputDB():
+    """Function to get the last Entry from the Database InputDb."""
+    inputDatabase = SQLFORM(db.dbInput)
+    queryLastEntry = db.executesql('select id, inputTitle, inputText from dbInput')
+    
+    lastEntry = queryLastEntry[-1]
+    lastID = queryLastEntry[-1][0]
+    lastID.encode('utf-8')
+    lastTitel = queryLastEntry[-1][1]
+    lastTitel.encode('utf-8')
+    lastText = queryLastEntry[-1][2]
+    lastText.encode('utf-8')
+    return lastID, lastTitel, lastText
+
+
+def insertTagsToParsedDB(lastID, lastTitel, lastText):
+    """Function to process the input, POS-tag it and write it in the DB dbparsedText."""
+    parsedDatabase = SQLFORM(db.dbParsedText)
+    inputDatabase = SQLFORM(db.dbInput)
+    
+    dictNN = {}
+    dictNE = {}
+    
+    extractQueryInputDB = db.executesql('select id, inputTitle, inputText from dbInput')
+    lastText = extractQueryInputDB[-1][-1]
+    
+    for word, postag in tag(lastText, tagset="STTS"):
+        if postag == 'NN':
+            if word not in dictNN.keys():
+                dictNN[word] = 1
+            elif word in dictNN.keys():
+                dictNN[word] += 1
+            else:
+                pass
+        elif postag == 'NE':
+            if word not in dictNE.keys():
+                dictNE[word] = 1
+            elif word in dictNE.keys():
+                dictNE[word] += 1
+            else:
+                pass
+        else:
+            pass
+
+    listNN = dictNN.items()
+    listNE = dictNE.items()
+    
+    print 'Letzte ID: ' + str(lastID)
+    print 'Letzter Titel: ' + str(lastTitel)
+    print 'Letzter Text: ' + lastText
+    #return extractQueryInputDB
+
+
+def seeLastEntryParsedDB():
+    """Function with a Query to get the last Entry from the Database with NLP-Stuff afterwards."""
+    parsedDatabase = SQLFORM(db.dbParsedText)
+    queryLastEntry = db.executesql('select id, inputTitle, inputText from dbInput')
+    lastEntry = queryLastEntry[-1]
+    lastID = queryLastEntry[-1][0]
+    lastTitel = queryLastEntry[-1][1]
+    lastText = queryLastEntry[-1][2]
+    # print lastEntry
+    # print 'Letzte ID: ' + str(lastID)
+    # print 'Letzter Titel: ' + str(lastTitel)
+    # print 'Letzter Text: ' + lastText
+    
+    # for word, pos in tag(dings, tagset="STTS"):
+        # if pos == "NE" or pos == "NN":
+            # print pos + '\t' + word
+    # return dict(dings=dings)
+    # return dings
 
 
 def index():
     """Main Function."""
-    returnForm = defineForm()
-    returnLastEntry = seeLastEntry()
-    return returnForm
+    returnSubmissionForm = defineSubmissionForm()
+    lastID, lastTitel, lastText = getLastEntryInputDB()
+    insertTagsToParsedDB(lastID, lastTitel, lastText)
+    seeLastEntryParsedDB()
+    # print seeLastEntryParsedDB()
+    return returnSubmissionForm
 
 
 """
