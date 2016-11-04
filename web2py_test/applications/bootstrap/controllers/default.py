@@ -42,9 +42,9 @@ def getLastEntryInputDB():
     lastEntry = queryLastEntry[-1]
     lastID = queryLastEntry[-1][0]
     lastTitel = queryLastEntry[-1][1]
-    lastTitel.encode('utf-8')
+    lastTitel = lastTitel.encode('utf-8')
     lastText = queryLastEntry[-1][2]
-    lastText.encode('utf-8')
+    lastText = lastText.encode('utf-8')
     return lastID, lastTitel, lastText
 
 
@@ -83,6 +83,10 @@ def insertTagsToParsedDB(lastID, lastTitel, lastText):
     print 'Letzte ID: ' + str(lastID)
     print 'Letzter Titel: ' + str(lastTitel)
     print 'Letzter Text: ' + lastText
+    print '\n\n'
+    print dictNE
+    print '\n'
+    print dictNN
     #return extractQueryInputDB
 
 
