@@ -16,12 +16,13 @@ def defineSubmissionForm():
     form = SQLFORM(db.dbInput)
     form.element(_type='submit')['_class'] = 'btn btn-default btn-sm'
     form.element('input[type=submit]',
-             replace=lambda button: CAT(button,
-                                        INPUT(_class='btn btn-warning btn-sm',
-                                              _type='reset',
-                                              _value=T('Reset'))
-                                        )
-             )
+                 replace=lambda button: CAT(button,
+                                            INPUT(_class='btn btn-warning
+                                                  btn-sm',
+                                                  _type='reset',
+                                                  _value=T('Reset'))
+                                            )
+                 )
     if form.process().accepted:
         response.flash = T('form accepted')
     elif form.errors:
@@ -37,8 +38,9 @@ def defineSubmissionForm():
 def getLastEntryInputDB():
     """Function to get the last Entry from the Database InputDb."""
     inputDatabase = SQLFORM(db.dbInput)
-    queryLastEntry = db.executesql('select id, inputTitle, inputText from dbInput')
-    
+    queryLastEntry = db.executesql('select id, inputTitle,\
+                                    inputText from dbInput')
+
     lastEntry = queryLastEntry[-1]
     lastID = queryLastEntry[-1][0]
     lastTitel = queryLastEntry[-1][1]
@@ -49,16 +51,18 @@ def getLastEntryInputDB():
 
 
 def insertTagsToParsedDB(lastID, lastTitel, lastText):
-    """Function to process the input, POS-tag it and write it in the DB dbparsedText."""
+    """Function to process the input, POS-tag it and write it in the
+    DB dbparsedText."""
     parsedDatabase = SQLFORM(db.dbParsedText)
     inputDatabase = SQLFORM(db.dbInput)
-    
+
     dictNN = {}
     dictNE = {}
-    
-    extractQueryInputDB = db.executesql('select id, inputTitle, inputText from dbInput')
+
+    extractQueryInputDB = db.executesql('select id, inputTitle, inputText\
+                                        from dbInput')
     lastText = extractQueryInputDB[-1][-1]
-    
+
     for word, postag in tag(lastText, tagset="STTS"):
         if postag == 'NN':
             if word not in dictNN.keys():
@@ -79,7 +83,7 @@ def insertTagsToParsedDB(lastID, lastTitel, lastText):
 
     listNN = dictNN.items()
     listNE = dictNE.items()
-    
+
     print 'Letzte ID: ' + str(lastID)
     print 'Letzter Titel: ' + str(lastTitel)
     print 'Letzter Text: ' + lastText
@@ -87,13 +91,15 @@ def insertTagsToParsedDB(lastID, lastTitel, lastText):
     print dictNE
     print '\n'
     print dictNN
-    #return extractQueryInputDB
+    # return extractQueryInputDB
 
 
 def seeLastEntryParsedDB():
-    """Function with a Query to get the last Entry from the Database with NLP-Stuff afterwards."""
+    """Function with a Query to get the last Entry from the Database with
+    NLP-Stuff afterwards."""
     parsedDatabase = SQLFORM(db.dbParsedText)
-    queryLastEntry = db.executesql('select id, inputTitle, inputText from dbInput')
+    queryLastEntry = db.executesql('select id, inputTitle, inputText\
+                                    from dbInput')
     lastEntry = queryLastEntry[-1]
     lastID = queryLastEntry[-1][0]
     lastTitel = queryLastEntry[-1][1]
@@ -102,10 +108,10 @@ def seeLastEntryParsedDB():
     # print 'Letzte ID: ' + str(lastID)
     # print 'Letzter Titel: ' + str(lastTitel)
     # print 'Letzter Text: ' + lastText
-    
+
     # for word, pos in tag(dings, tagset="STTS"):
-        # if pos == "NE" or pos == "NN":
-            # print pos + '\t' + word
+    #    if pos == "NE" or pos == "NN":
+    #        print pos + '\t' + word
     # return dict(dings=dings)
     # return dings
 
@@ -122,7 +128,7 @@ def index():
 
 """
 def user():
-    
+
     exposes:
     http://..../[app]/default/user/login
     http://..../[app]/default/user/logout
@@ -135,7 +141,8 @@ def user():
         @auth.requires_membership('group name')
         @auth.requires_permission('read','table name',record_id)
     to decorate functions that need access control
-    also notice there is http://..../[app]/appadmin/manage/auth to allow administrator to manage users
+    also notice there is http://..../[app]/appadmin/manage/auth to allow
+    administrator to manage users
 
     return dict(form=auth())
 
