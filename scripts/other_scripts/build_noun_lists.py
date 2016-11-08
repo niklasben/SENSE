@@ -4,7 +4,7 @@
 import os
 import fnmatch
 import json
-from pattern.de import parse, split, pprint, tag
+from pattern.de import parse, split, pprint, tag, parsetree, singularize
 import sys
 
 
@@ -53,8 +53,17 @@ def buildWordList():
 
                     if ddcFromFilepath == '330':
                         if postag == 'NN':
+
+                            singularForm = singularize(word)
+
+                            if word == singularForm:
+                                pass
+                            else:
+                                word = singularForm
+
                             list330NN.append(word)
                             list330.append(word)
+
                             if word not in dict330NN.keys():
                                 dict330NN[word] = 1
                             elif word in dict330NN.keys():
@@ -63,8 +72,17 @@ def buildWordList():
                                 pass
 
                         elif postag == 'NE':
+
+                            singularForm = singularize(word)
+
+                            if word == singularForm:
+                                pass
+                            else:
+                                word = singularForm
+
                             list330NE.append(word)
                             list330.append(word)
+
                             if word not in dict330NE.keys():
                                 dict330NE[word] = 1
                             elif word in dict330NE.keys():
@@ -76,8 +94,17 @@ def buildWordList():
 
                     elif ddcFromFilepath == '710':
                         if postag == 'NN':
+
+                            singularForm = singularize(word)
+
+                            if word == singularForm:
+                                pass
+                            else:
+                                word = singularForm
+
                             list710NN.append(word)
                             list710.append(word)
+
                             if word not in dict710NN.keys():
                                 dict710NN[word] = 1
                             elif word in dict710NN.keys():
@@ -86,8 +113,17 @@ def buildWordList():
                                 pass
 
                         elif postag == 'NE':
+
+                            singularForm = singularize(word)
+
+                            if word == singularForm:
+                                pass
+                            else:
+                                word = singularForm
+
                             list710NE.append(word)
                             list710.append(word)
+
                             if word not in dict710NE.keys():
                                 dict710NE[word] = 1
                             elif word in dict710NE.keys():
