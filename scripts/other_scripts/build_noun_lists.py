@@ -48,7 +48,7 @@ def buildWordList():
 
                 ddcFromFilepath = dirpath[-3:]
 
-                for word, postag in tag(parsefile, tagset="STTS"):
+                for word, postag in tag(parsefile, tagset='STTS'):
                     word = word.decode('utf-8')
 
                     if ddcFromFilepath == '330':

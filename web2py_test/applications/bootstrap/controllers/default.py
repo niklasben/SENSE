@@ -7,8 +7,14 @@
 # - user is required for authentication and authorizationdisplay_form
 # - download is for downloading files uploaded in the db (does streaming)
 # -------------------------------------------------------------------------
-from pattern.de import parse, split, pprint, tag
+from pattern.de import parse, split, pprint, tag, parsetree, singularize
 from pprint import pprint
+import sys
+
+
+# Set default encoding to UTF-8
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 
 def defineSubmissionForm():
@@ -17,8 +23,8 @@ def defineSubmissionForm():
     form.element(_type='submit')['_class'] = 'btn btn-default btn-sm'
     form.element('input[type=submit]',
                  replace=lambda button: CAT(button,
-                                            INPUT(_class='btn btn-warning
-                                                  btn-sm',
+                                            INPUT(_class='btn btn-warning\
+                                                          btn-sm',
                                                   _type='reset',
                                                   _value=T('Reset'))
                                             )
@@ -32,7 +38,6 @@ def defineSubmissionForm():
 
     returnSubmissionForm = dict(form=form)
     return returnSubmissionForm
-    # return dict(form=form)
 
 
 def getLastEntryInputDB():
@@ -47,6 +52,7 @@ def getLastEntryInputDB():
     lastTitel = lastTitel.encode('utf-8')
     lastText = queryLastEntry[-1][2]
     lastText = lastText.encode('utf-8')
+
     return lastID, lastTitel, lastText
 
 
@@ -59,19 +65,40 @@ def insertTagsToParsedDB(lastID, lastTitel, lastText):
     dictNN = {}
     dictNE = {}
 
+    # SQL Query to extract ID, Title and Text
     extractQueryInputDB = db.executesql('select id, inputTitle, inputText\
                                         from dbInput')
     lastText = extractQueryInputDB[-1][-1]
 
-    for word, postag in tag(lastText, tagset="STTS"):
+    # Begin of For-Loop for POS-Tagging
+    for word, postag in tag(lastText, tagset='STTS'):
+        word = word.decode('utf-8')
+
         if postag == 'NN':
+
+            singularFormNN = singularize(word)
+
+            if word == singularFormNN:
+                pass
+            else:
+                word = singularFormNN
+
             if word not in dictNN.keys():
                 dictNN[word] = 1
             elif word in dictNN.keys():
                 dictNN[word] += 1
             else:
                 pass
+
         elif postag == 'NE':
+
+            singularFormNE = singularize(word)
+
+            if word == singularFormNE:
+                pass
+            else:
+                word = singularFormNE
+
             if word not in dictNE.keys():
                 dictNE[word] = 1
             elif word in dictNE.keys():

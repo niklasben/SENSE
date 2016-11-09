@@ -50,11 +50,13 @@
                     <!-- {{=BEAUTIFY(request.vars.id)}} -->
                     {{if request.vars.inputTitle == None:}}
                     {{else:}}
+                    <b>{{=T('Title')}}:</b>
                     {{=BEAUTIFY(request.vars.inputTitle)}}
                     {{pass}}
-
+                    <br />
                     {{if request.vars.inputText == None:}}
                     {{else:}}
+                    <b>{{=T('Text')}}:</b>
                     {{=BEAUTIFY(request.vars.inputText)}}
                     {{pass}}
 
@@ -104,7 +106,9 @@
                     <span class="glyphicon glyphicon-envelope"></span> {{=T("Contact")}}
                 </p>
             </div>
-            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <mark class="mark-test">TEST ENVIRONMENT FOR PRECISION AND RECALL</mark>
+            </div>
         </div>
         <!-- <time datetime="2016-09-10">10. September 2016</time> -->
     </footer>
