@@ -9,12 +9,41 @@
 # -------------------------------------------------------------------------
 from pattern.de import parse, split, pprint, tag, parsetree, singularize
 from pprint import pprint
+import os
+import json
 import sys
 
 
 # Set default encoding to UTF-8
 reload(sys)
 sys.setdefaultencoding('utf-8')
+
+
+def loadDDCDicts():
+    """Function to build Dictionaries for DDCs from Files."""
+    # DDC 330 with all words
+    openDict330All = open(os.path.join(request.folder, 'controllers',
+                          'dict330All.txt'))
+    strDict330All = openDict330All.read()
+    dict330All = json.loads(strDict330All)
+
+    # DDC 330 without common used words of all DDCs
+    openDict330WC = open(os.path.join(request.folder, 'controllers',
+                                      'dict330WithoutCommons.txt'))
+    strDict330WC = openDict330WC.read()
+    dict330WC = json.loads(strDict330WC)
+
+    # DDC 710 with all words
+    openDict710All = open(os.path.join(request.folder, 'controllers',
+                          'dict710All.txt'))
+    strDict710All = openDict710All.read()
+    dict710All = json.loads(strDict710All)
+
+    # DDC 710 without common used words of all DDCs
+    openDict710WC = open(os.path.join(request.folder, 'controllers',
+                                      'dict710WithoutCommons.txt'))
+    strDict710WC = openDict710WC.read()
+    dict710WC = json.loads(strDict710WC)
 
 
 def defineSubmissionForm():
@@ -150,6 +179,7 @@ def index():
     insertTagsToParsedDB(lastID, lastTitel, lastText)
     seeLastEntryParsedDB()
     # print seeLastEntryParsedDB()
+    loadDDCDicts()
     return returnSubmissionForm
 
 
