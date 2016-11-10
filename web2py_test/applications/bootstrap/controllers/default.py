@@ -11,7 +11,6 @@ from pattern.de import parse, split, pprint, tag, parsetree, singularize
 from pprint import pprint
 import os
 import json
-import pprint
 import sys
 
 
@@ -19,37 +18,32 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+moduledir = os.path.dirname(os.path.abspath('__file__'))
+
 
 def loadDDCDicts():
     """Function to build Dictionaries for DDCs from Files."""
+    # Defining variable for path to JSON-files
+    filepath = os.path.join(request.folder, 'static/json/')
+
     # DDC 330 with all words
-    openDict330All = open(os.path.join(request.folder, 'controllers',
-                          'dict330All.txt'))
-    strDict330All = openDict330All.read()
-    dict330All = json.loads(strDict330All)
+    with open(filepath + 'dict330All.json', 'r') as readDict330All:
+        dict330All = json.load(readDict330All)
 
     # DDC 330 without common used words of all DDCs
-    openDict330WC = open(os.path.join(request.folder, 'controllers',
-                                      'dict330WithoutCommons.txt'))
-    strDict330WC = openDict330WC.read()
-    dict330WC = json.loads(strDict330WC)
+    with open(filepath + 'dict330WithoutCommons.json', 'r') as readDict330WC:
+        dict330WC = json.load(readDict330WC)
 
     # DDC 710 with all words
-    openDict710All = open(os.path.join(request.folder, 'controllers',
-                          'dict710All.txt'))
-    strDict710All = openDict710All.read()
-    dict710All = json.loads(strDict710All)
+    with open(filepath + 'dict710All.json', 'r') as readDict710All:
+        dict710All = json.load(readDict710All)
 
     # DDC 710 without common used words of all DDCs
-    openDict710WC = open(os.path.join(request.folder, 'controllers',
-                                      'dict710WithoutCommons.txt'))
-    strDict710WC = openDict710WC.read()
-    # dict710WC = json.loads(strDict710WC)
-    dict710WC = strDict710WC
+    with open(filepath + 'dict710WithoutCommons.json', 'r') as readDict710WC:
+        dict710WC = json.load(readDict710WC)
 
-    print dict710WC
-
-    return dict710WC
+    # for key, value in dict710WC.iteritems():
+    #     print key
 
 
 def defineSubmissionForm():

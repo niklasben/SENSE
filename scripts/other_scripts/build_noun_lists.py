@@ -175,39 +175,42 @@ def buildWordList():
     dict710.update(dict710NN)
 
     # Dump dictionaries into JSON files
-    with open('../../collecting/dict330NE.txt', 'w') as exportfile330NE:
+    with open('../../collecting/dict330NE.json', 'w') as exportfile330NE:
         json.dump(dict330NE, exportfile330NE, sort_keys=True, indent=4,
-                  separators=(',', ': '))
+                  ensure_ascii=False, separators=(',', ': '))
 
-    with open('../../collecting/dict330NN.txt', 'w') as exportfile330NN:
+    with open('../../collecting/dict330NN.json', 'w') as exportfile330NN:
         json.dump(dict330NN, exportfile330NN, sort_keys=True, indent=4,
-                  separators=(',', ': '))
+                  ensure_ascii=False, separators=(',', ': '))
 
-    with open('../../collecting/dict330WithoutCommons.txt', 'w') as\
+    with open('../../collecting/dict330WithoutCommons.json', 'w') as\
             exportfile330WithoutCommons:
         json.dump(dict330WithoutCommons, exportfile330WithoutCommons,
-                  sort_keys=True, indent=4, separators=(',', ': '))
+                  sort_keys=True, indent=4, ensure_ascii=False,
+                  separators=(',', ': '))
 
-    with open('../../collecting/dict330All.txt', 'w') as exportfile330All:
+    with open('../../collecting/dict330All.json', 'w') as exportfile330All:
         json.dump(dict330, exportfile330All, sort_keys=True, indent=4,
-                  separators=(',', ': '))
+                  ensure_ascii=False, separators=(',', ': '))
 
-    with open('../../collecting/dict710NE.txt', 'w') as exportfile710NE:
+    with open('../../collecting/dict710NE.json', 'w') as exportfile710NE:
         json.dump(dict710NE, exportfile710NE, sort_keys=True, indent=4,
-                  separators=(',', ': '))
+                  ensure_ascii=False, separators=(',', ': '))
 
-    with open('../../collecting/dict710NN.txt', 'w') as exportfile710NN:
+    with open('../../collecting/dict710NN.json', 'w') as exportfile710NN:
         json.dump(dict710NN, exportfile710NN, sort_keys=True, indent=4,
-                  separators=(',', ': '))
+                  ensure_ascii=False, separators=(',', ': '))
 
-    with open('../../collecting/dict710WithoutCommons.txt', 'w') as\
+    with open('../../collecting/dict710WithoutCommons.json', 'w') as\
             exportfile710WithoutCommons:
         json.dump(dict710WithoutCommons, exportfile710WithoutCommons,
-                  sort_keys=True, indent=4, separators=(',', ': '))
-
-    with open('../../collecting/dict710All.txt', 'w') as exportfile710All:
-        json.dump(dict710, exportfile710All, sort_keys=True, indent=4,
+                  sort_keys=True, indent=4, ensure_ascii=False,
                   separators=(',', ': '))
+
+    with open('../../collecting/dict710All.json', 'w') as exportfile710All:
+        json.dump(dict710, exportfile710All, sort_keys=True, indent=4,
+                  ensure_ascii=False, separators=(',', ': '))
+
 
 # Call function buildWordList
 buildWordList()
