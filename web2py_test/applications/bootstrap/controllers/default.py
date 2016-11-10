@@ -11,6 +11,7 @@ from pattern.de import parse, split, pprint, tag, parsetree, singularize
 from pprint import pprint
 import os
 import json
+import pprint
 import sys
 
 
@@ -43,7 +44,12 @@ def loadDDCDicts():
     openDict710WC = open(os.path.join(request.folder, 'controllers',
                                       'dict710WithoutCommons.txt'))
     strDict710WC = openDict710WC.read()
-    dict710WC = json.loads(strDict710WC)
+    # dict710WC = json.loads(strDict710WC)
+    dict710WC = strDict710WC
+
+    print dict710WC
+
+    return dict710WC
 
 
 def defineSubmissionForm():
@@ -140,13 +146,13 @@ def insertTagsToParsedDB(lastID, lastTitel, lastText):
     listNN = dictNN.items()
     listNE = dictNE.items()
 
-    print 'Letzte ID: ' + str(lastID)
-    print 'Letzter Titel: ' + str(lastTitel)
-    print 'Letzter Text: ' + lastText
-    print '\n\n'
-    print dictNE
-    print '\n'
-    print dictNN
+    # print 'Letzte ID: ' + str(lastID)
+    # print 'Letzter Titel: ' + str(lastTitel)
+    # print 'Letzter Text: ' + lastText
+    # print '\n\n'
+    # print dictNE
+    # print '\n'
+    # print dictNN
     # return extractQueryInputDB
 
 
@@ -175,11 +181,12 @@ def seeLastEntryParsedDB():
 def index():
     """Main Function."""
     returnSubmissionForm = defineSubmissionForm()
+    loadDDCDicts()
     lastID, lastTitel, lastText = getLastEntryInputDB()
     insertTagsToParsedDB(lastID, lastTitel, lastText)
     seeLastEntryParsedDB()
     # print seeLastEntryParsedDB()
-    loadDDCDicts()
+    # loadDDCDicts()
     return returnSubmissionForm
 
 
