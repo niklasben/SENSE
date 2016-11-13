@@ -9,6 +9,7 @@
 # -------------------------------------------------------------------------
 from pattern.de import parse, split, pprint, tag, parsetree, singularize
 from pprint import pprint
+from itertools import izip
 import os
 import json
 import sys
@@ -42,8 +43,11 @@ def loadDDCDicts():
     with open(filepath + 'dict710WithoutCommons.json', 'r') as readDict710WC:
         dict710WC = json.load(readDict710WC)
 
+    test = dict710WC.keys()
+
     # for key, value in dict710WC.iteritems():
     #     print key
+    return test  # locals()
 
 
 def defineSubmissionForm():
@@ -179,8 +183,19 @@ def index():
     lastID, lastTitel, lastText = getLastEntryInputDB()
     insertTagsToParsedDB(lastID, lastTitel, lastText)
     seeLastEntryParsedDB()
+    test = loadDDCDicts()
     # print seeLastEntryParsedDB()
     # loadDDCDicts()
+    # print test
+    # i = iter(test)
+    # b = dict(izip(i, i))
+    # print b
+    # print test
+    # for k, v in test.iteritems():
+    #     print '%s: %d' % (k, v)
+    xxx = []
+    for i in test:
+        xxx.append(i)
     return returnSubmissionForm
 
 
