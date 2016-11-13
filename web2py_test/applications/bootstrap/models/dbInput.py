@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #from gluon import current
+from gluon.custom_import import track_changes; track_changes(True)
 
 db = DAL('sqlite://storage.sqlite', migrate=True, fake_migrate=True, lazy_tables=False)
 

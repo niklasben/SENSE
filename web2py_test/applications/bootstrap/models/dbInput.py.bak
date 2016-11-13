@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #from gluon import current
 
-db = DAL('sqlite://storage.sqlite', migrate=True, fake_migrate=False, lazy_tables=False)
+db = DAL('sqlite://storage.sqlite', migrate=True, fake_migrate=True, lazy_tables=False)
 
 db.define_table('dbInput',
                 Field('inputTitle', 'string',
