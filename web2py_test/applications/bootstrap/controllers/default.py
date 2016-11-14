@@ -312,7 +312,7 @@ def comparingDicts(dictNE, dictNN):
 
     if noNE != 0:
         result710NE = (count710NE/noNE)*100
-        result330NE = (count330WC/noNE)*100
+        result330NE = (count330NE/noNE)*100
     else:
         result710NE = 'Empty'
         result330NE = 'Empty'
@@ -325,7 +325,6 @@ def comparingDicts(dictNE, dictNN):
         result330NN = 'Empty'
 
     # Print all results in the Terminal
-    print '#################################'
     print 'Found tagged words:\n'
     print 'count710All:\t' + str(count710All)
     print 'count710WC:\t' + str(count710WC)
@@ -362,5 +361,10 @@ def index():
     lastID, lastTitel, lastText = getLastEntryInputDB()
     dictNE, dictNN = insertTagsToParsedDB(lastID, lastTitel, lastText)
     seeLastEntryParsedDB()
+    if lastTitel == '':
+        lastTitel = 'Was Empty'
+    else:
+        pass
+    print '>>>>>\t\t' + lastTitel + '\t\t<<<<<\n'
     comparingDicts(dictNE, dictNN)
     return returnSubmissionForm
