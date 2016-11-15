@@ -326,14 +326,14 @@ def comparingDicts(dictNE, dictNN):
 
     # Print all results in the Terminal
     print 'Found tagged words:\n'
-    print 'count710All:\t' + str(count710All)
-    print 'count710WC:\t' + str(count710WC)
-    print 'count710NE:\t' + str(count710NE)
-    print 'count710NN:\t' + str(count710NN)
     print 'count330All:\t' + str(count330All)
     print 'count330WC:\t' + str(count330WC)
     print 'count330NE:\t' + str(count330NE)
     print 'count330NN:\t' + str(count330NN)
+    print 'count710All:\t' + str(count710All)
+    print 'count710WC:\t' + str(count710WC)
+    print 'count710NE:\t' + str(count710NE)
+    print 'count710NN:\t' + str(count710NN)
     print '#################################'
     print 'Summed up words:\n'
     print 'noAll:\t' + str(int(noAll))
@@ -342,14 +342,14 @@ def comparingDicts(dictNE, dictNN):
     print 'noNN:\t' + str(int(noNN))
     print '#################################'
     print 'Results:\n'
-    print 'result710All:\t' + str(result710All) + '%'
     print 'result330All:\t' + str(result330All) + '%'
-    print 'result710WC:\t' + str(result710WC) + '%'
     print 'result330WC:\t' + str(result330WC) + '%'
-    print 'result710NE:\t' + str(result710NE) + '%'
     print 'result330NE:\t' + str(result330NE) + '%'
-    print 'result710NN:\t' + str(result710NN) + '%'
     print 'result330NN:\t' + str(result330NN) + '%'
+    print 'result710All:\t' + str(result710All) + '%'
+    print 'result710WC:\t' + str(result710WC) + '%'
+    print 'result710NE:\t' + str(result710NE) + '%'
+    print 'result710NN:\t' + str(result710NN) + '%'
     print '#################################'
     print ' '
 
